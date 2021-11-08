@@ -1,0 +1,21 @@
+(;GM[1]FF[3]PL[W]C[White plays, Black dies.
+Start at A.
+Black captures 72 stones, but does not manage to make two eyes and dies.
+
+点聚
+
+这是一道妙趣横生的全局性创作死活题。“弃子、送吃”充斥全盘。
+
+白先如何下呢？]AP[MultiGo:3.9.3]SZ[19]AW[ar][aq][rp][np][mp][kp][jp][ip][dp][cp][oo][go][bo][rn][cr][fr]
+[sc][qc][pc][dq][pq][hs][gs][fs][es][ds][cs][bs][as][lr][ir][gr]
+[br][rf][pf][ff][ef][bf][re][me][ke][ie][ee][be][sd][nd][ld][id]
+[dd][sa][ra][pa][oa][ma][ja][ia][ha][ca][ba][aa][rg][lg][jg][hg]
+[ag][cd][lk][kk][mc][kc][jc][hc][gc][dc][cc][ac][sb][rb][mb][kb]
+[jb][bb][mk][nk][qk][rk][sk][dl][il][ll][ol][pl][rl][sl][dm][gm]
+[im][jm][ab][ai][qh][ph][mh][kh][ih][fh][dh][ch][sg][qn][on][fn]
+[cn][sm][mm][mi][ri][si][aj][bj][ij][lj][oj][rj][sj][ek][gk][jk]
+[ki][di][bi][km]AB[pd][qd][rd][de][ge][oe][se][cf][gf][nf][fg][nh][rh][ci][ei][li]
+[qi][cj][lc][ic][bc][lb][gb][fb][ka][ga][fa][oc][rc][ad][bd][ed]
+[fd][hd][jd][kd][rm][ln][sn][lo][ap][bp][lp][eq][fq][gq][dr][er]
+[hr][is][js][hq][kq][ej][gj][jj][kj][mj][nj][qj][ak][ck][nm][lm]
+[ql][nl][jl][el][ok][ik][dk][cq];W[bq])

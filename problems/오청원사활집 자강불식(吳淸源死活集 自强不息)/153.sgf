@@ -1,0 +1,24 @@
+(;AB[pb][pc][pd][pe][pf][re][of][ne][nd]AW[oe][qc][rd][rf][qf][qg][pg][og][nf][mf]
+[le][lc][nc][nb]C[
+第153題 九子十成 구자십성
+
+< 黑 先 패 >
+
+준비공작이 필요한 문제.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[sd]LB[rb:C][rc:D]C[
+젖히는 수가 유일한 血路
+이수로 C 에 두면 백 D 에 두어
+흑이 죽게된다.]
+(;W[qe]C[
+단수치는것이 정수.];B[rc];W[qd];B[qb];W[rb];B[sb]C[
+<正解圖>
+
+패가 되는것이 최선.]
+N[正解])
+(;W[sc]C[
+백이 막는수는 잘못..];B[rb]C[
+한칸 뛰는수로 흑은 살았다.];W[rc];B[sb]
+;W[qb];B[qa];W[se];B[ra]C[
+]))

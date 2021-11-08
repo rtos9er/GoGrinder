@@ -1,0 +1,17 @@
+(;GM[1]FF[4]AP[Drago:4.23]CA[UTF-8]SZ[19]AW[kq][mq][oq][pq][qq][rq][rr][jr][kp][lo][mp][iq]AB[or][nr][mr][pr][qr][kr][lq][ks]
+(;W[qs];B[ps]
+(;W[lr]
+(;B[ls];W[ns])
+(;B[ns];W[ls]))
+(;W[ns]
+(;B[ms];W[lr])
+(;B[lr];W[ms])))
+(;W[lr]
+(;B[ls]
+(;W[qs];B[ps];W[ns])
+(;W[ns]
+(;B[os];W[qs])
+(;B[qs];W[os])))
+(;B[qs];W[os]
+(;B[ns];W[ls])
+(;B[ls];W[ns]))))

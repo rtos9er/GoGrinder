@@ -1,0 +1,16 @@
+(;AB[ab][bb][cc][cd][de][ed][fe][he][hd][ic][jc][kc][kb][ja]AW[ba][cb][dc][eb][fc]
+[gc][hc][ib][jb]C[
+문제도6  유일의 급소
+
+黑先白死  B
+
+意外의 곳에 급소가 있다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ec]C[
+찝는수가 意外의 급소.];W[hb];B[ia]C[
+밀고 들어가는수가 긴요하다.];W[fa]
+;B[da];W[db];B[ca];W[ha];B[gb]C[
+<正解圖>
+
+정확한 수순으로 백이 잡힌모양.]N[正解])

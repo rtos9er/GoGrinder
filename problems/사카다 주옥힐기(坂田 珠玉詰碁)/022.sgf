@@ -1,0 +1,23 @@
+(;AB[ba][bb][cb][cd][dd][ed][fd][fc][he][ie][jd][kd][jb][kb]AW[ca][da][db][ec][fb]
+[gc][hc][ic][ib]C[
+문제도22  頂門一鍼
+
+黑先패  C
+
+백모양의 약점을 찌르는 
+정문일침의 한수가 있다.
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]C[
+頂門一鍼의 한수!]
+(;W[gb]C[
+백이 이으면..];B[eb];W[ea];B[dc];W[ga];B[eb]C[
+<正解圖1>
+
+패가 되는것이 최선.]
+N[正解])
+(;W[ga]C[
+백이 단수 쳐오면..];B[dc];W[eb];B[ha];W[hb]C[
+<正解圖2>
+
+패가 된다.]))

@@ -1,0 +1,6 @@
+(;GM[1]FF[3]PL[W]C[White to play and kill.]AP[MultiGo:3.9.3]SZ[19]AW[fr][gq][eq][dq][cp][bp]AB[bq][cr][dr][er][aq];W[bs]
+(;B[br];W[as];B[es];W[cs])
+(;B[as];W[br]
+(;B[es];W[cs])
+(;B[cs];W[es]))
+(;B[es];W[cs];B[br];W[as]))

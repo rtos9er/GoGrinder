@@ -1,0 +1,25 @@
+(;AB[kc][ib][pb][qb][rb][rc][qd][qe][qf][od][pf][of][nf][mf][lf][le][ld][md][jd]
+[jb]AW[kb][lc][mc][me][ne][nd][oe][pe][pd][pc][qc][ob][pa]C[
+第110題 問牛知馬 문우지마
+
+< 黑 先 패 >
+
+黑白 공방전의 한수가 멋지다.
+창과 방패의 대결.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ka]C[
+1선에 단수가 좋은 수.
+여기서 백도 응수를 잘해야한다.
+잘못 받으면 그냥 죽어버린다.]
+(;W[mb]C[
+이수가 백의 옳바른 응수.
+패로 버티겠다는 의지가 보이는 한수.];B[oc]
+;W[nc];B[na];W[la];B[lb]C[
+패로 싸우는 것이 正解.]N[正解])
+(;W[lb]C[
+백이 잇는수는..];B[ma]C[
+한칸 뛰는맥으로 잡힌다.];W[na];B[la];W[mb]
+;B[nc])
+(;W[ma]C[
+이수도 잘못된 응수.];B[nc];W[oc];B[mb]C[
+잡히게 된다.];W[nb];B[lb]))

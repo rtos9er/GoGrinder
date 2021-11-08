@@ -1,0 +1,25 @@
+(;AB[bn][bm][bq][br][cr][dr][dq][ep][fp][gp][fr][iq][do][co]AW[aq][js][ds][cs][bs]
+[ar][ao][bo][bp][cp][cq][dp][am][bl][cm][dm][eo][fo][go][hp][ip][jq][jr]C[
+문제도14
+
+白 先  A
+
+흑을 잡는 문제.
+자충으로 몰고가는 교묘한 수순이 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[gq]C[
+젖힘이 공격의 제1단계.];B[fq];W[fs];B[gr];W[hr]C[
+젖히는 수가 자충으로 유인하는 좋은 수.]
+(;B[hs]C[
+살짝 젖히는 수가 은근 실수를
+유도 하는 수.];W[is]C[
+먼저 단수치는 수가 정확한 응수.]
+;B[gs];W[er];B[hq];W[ir]C[
+<정해도>  黑 死
+
+흑이 자충으로 몰려 죽은 모양.])
+(;B[gs]C[
+그냥 내려 가면..];W[er];B[hq];W[hs]C[
+<정해도>  黑 死
+
+흑이 자충으로 몰려 죽은 모양.]))

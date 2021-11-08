@@ -1,0 +1,27 @@
+(;AB[cp][el][ds][dr][cq][gn][dp][ep][fr][fn][dl][hm][gl][fl]AW[iq][hr][fm][gm][cs]
+[cr][er][br][bq][bp][bo][co][bm][cl][ck][dk][ek][fk][gk][hk][il][im][in][ho][hp]
+C[
+문제도19
+
+白 先  S
+
+흑을 잡는 문제.
+흑의 다양한 응수를 공부한다.
+
+]AP[MultiGo:4.2.1]
+SZ[19]MULTIGOGM[1]
+;W[es]C[
+단수는 오직 한수!];B[gp]C[
+약간 까다로운 저항,]
+(;W[fq]C[
+젖힘이 정확한 응징.];B[eq];W[dq];B[gq];W[do]C[
+<정해도>  黑 死
+
+백의 정확한 공격으로 흑은
+잡히게 되었다.])
+(;W[go]C[
+백이 찌르는 수는 실패.];B[fo];W[do];B[dq];W[em];B[eo];W[dm];B[gq]C[
+<실패도>  黑 生
+
+백의 공격포인트가 빗나가
+흑이 살게 되었다.]))

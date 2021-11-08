@@ -1,0 +1,13 @@
+(;AB[jl][jk][mk][lk][mi][mh][kh][kj][ji][ii][hi][hj][hk][hl][il]AW[gk][nh][jj][gi]
+[gj][gl][hm][im][jm][hh][ih][jh][kg][lg][mg][kk][kl][ll][ml][nk][nj][ni]C[
+문제도21
+
+白 先  C
+
+흑을 잡는 문제.
+자충으로 유도하여 잡는다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[ij];B[mj];W[li];B[lh];W[ki];B[lj];W[ki];B[ik];W[jj]C[
+<정해도>  黑 死
+
+양자충으로 흑이 죽은 모양.])

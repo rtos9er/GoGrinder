@@ -1,0 +1,20 @@
+(;AB[bb][bc][ce][de][ef][ed][fc][gd][ge][id][ie][jc][jb][ka][lb]AW[cb][dc][dd][fb]
+[gc][hc][ib][ja]C[
+문제도18  수순이 중요  
+
+黑先白死  C
+
+수순이 정확해야 잡는다.
+깔끔하게 백을 잡아보자.
+
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ca]C[
+먼저 젖히는 수가 정교한 수순.
+];W[da];B[ec]C[
+젖힌 수 이후에 찝는 수가 수순.]
+;W[eb];B[ha]C[
+치중 한방으로 백의 모든 저항을
+불식 시킨다.];W[ia];B[fa];W[gb]
+;B[ic];W[hb];B[ga]C[
+<正解圖>]N[正解])

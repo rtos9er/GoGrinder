@@ -1,0 +1,32 @@
+(;AB[cd][ja][ba][cb][cc][dg][dd][ed][de][df][kb][dh][ei][fi][gh][hh][hg][hf][gd]
+[hd][id][ic][ib]AW[ee][ef][eg][eh][fh][gg][gf][ge][fd][fc][gc][hc][hb][ia][dc][db]
+[ca]C[
+문제도128  변의 안형방해
+
+黑先패  A
+
+상변에 백이 집이 나지 않도록
+방해하는 수단을 찾아라.
+패가 최선.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ga]C[
+치중이 필살의 일격!]
+(;W[ha]C[
+백이 이어 오면..];B[fb]C[
+마늘모붙임이 맥점.];W[ec];B[da];W[ea];B[fe]
+C[
+먹여치는 수가 타이밍.];W[ff];B[eb];W[ca]C[
+<正解圖2>  패
+
+흑의 교묘한 공격으로 패가 되는
+것이 정답.
+]
+N[正解])
+(;W[eb]C[
+백이 빈감각으로 응수하면..];B[ea]C[
+붙이는 수가 맥점.];W[da];B[fb]C[
+패로 버티고..]
+;W[ec];B[ha];W[fa]C[
+<正解圖1>  패
+
+패가 되는것이 정답.]))

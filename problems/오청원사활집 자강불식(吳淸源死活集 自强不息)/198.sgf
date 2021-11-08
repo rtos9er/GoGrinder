@@ -1,0 +1,12 @@
+(;AB[pc][oc][nb][mc][od][oe][pe][qf][qg][rg][sg]AW[re][rf][sf][qd][pd][qb]C[
+第198題 流水洛花 유수낙화
+
+< 黑 先 白 死 >
+
+후절수에 주의하여 백을 잡는다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[rd];W[rc];B[sd];W[sc];B[qc]LB[qe:A]C[
+이쪽으로 단수치는 수가 옳바른
+방향.
+A 에 단수치면 후절수에 걸린다.]
+;W[se];B[rd])

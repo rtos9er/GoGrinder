@@ -1,0 +1,18 @@
+(;AB[sd][rd][qd][pd][oc][ob]AW[qb][nb][nc][lb][od][oe][pe][qe][re][se]C[
+第118題 遊刀有余 유도유여
+
+< 黑 先 패 >
+
+玄玄棋經에 나오는 문제.
+흑이욕심부리면 양환격에 걸려
+죽게된다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[rb];W[pb]C[
+]
+(;B[qc];W[ra];B[sc];W[oa];B[sa]C[
+패를 하는것이 최선.])
+(;B[pc]C[
+흑이 두점을 잇는수는 과욕.];W[oa];B[pa];W[qa];B[ra];W[rc];B[sc];W[sb]
+C[
+흑이 양환격으로 잡히게된다.
+흑이 욕심부리다가 망한모양.]))

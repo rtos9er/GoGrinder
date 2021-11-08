@@ -1,0 +1,14 @@
+(;AB[ri][pc][pd][od][oe][of][og][pg][qf][qg][qh]AW[qc][qb][pb][pe][pf][si][rj][rk]
+[qi][pj][ph][oh][nh][ng][nf][ne][nd][nc][oc]C[
+제113문 海底探보 해저탐보
+
+< 黑 先 活 >
+
+흑을 살리는 급소가 있다.
+위치선정이 정확해야 한다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[sf]LB[sg:A][rh:B]C[
+삶의 급소자리.
+위치선정이 잘못되어 A 에 두면
+B 로 따서 흑이 죽게된다.]
+;W[re];B[rd];W[qd];B[qe];W[sd];B[rf];W[rc];B[rh])

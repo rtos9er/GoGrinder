@@ -1,0 +1,18 @@
+(;AB[bq][cr][ds][dq][dp][eq][gq][eo][fo][co][cn][bn]AW[cq][cp][bp][bo][br][do][dn]
+[dm][cm][fn][gn][ho][hp][hq][hr][fr]C[
+문제도33
+
+黑 先  B
+
+흑을 살리는 문제 .
+패가 되면 실패.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[aq]C[
+먼저 빠져두는 수가 수순.
+자충으로 유도한다.];W[ar];B[fq];W[er];B[gr]
+;W[dr];B[cs]C[
+<정해도>  黑 生
+
+백이 양자충이 되어 흑이 살게된
+모양.])

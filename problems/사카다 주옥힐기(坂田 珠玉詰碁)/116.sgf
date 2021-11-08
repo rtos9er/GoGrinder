@@ -1,0 +1,15 @@
+(;AB[bb][bc][bd][cd][dd][ed][fd][gd][hd][ic][ib][fc]AW[ba][cb][cc][dc][ec][fb][gc]
+[hb][ha]C[
+문제도116  手順의 妙
+
+黑先白死  C
+
+정확한 수순으로 백을 그냥 잡는다.  패가 되면 실패.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gb]C[
+하나 먹여쳐 두고..];W[ga];B[ea]C[
+치중하는 수가 수순.];W[da];B[eb];W[hc]
+;B[ia]C[
+<正解圖>  白死
+
+유가무가로 백이 죽은 모양.]N[正解])

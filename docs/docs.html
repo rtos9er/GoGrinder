@@ -1,0 +1,394 @@
+<html>
+ <head>
+  <TITLE>GoGrinder</TITLE>
+ </head>
+ <body background="#FFFFFF">
+
+<table border=0 width="90%">
+<tr><td><a href="."><img src="Banner.png" border="0"></a>
+  </td></tr>
+<STYLE TYPE="text/css">
+<!--
+  td.TITLE {font-family: sans-serif; font-size: large; font-weight: bold; align: center;}
+  td.MENU { font-family: sans-serif; font-size: medium; font-weight: bold; align: center; margin: 5px; background-color: #E4EADB;  padding: 10px; border-right: 1px solid #000000; border-left: 1px solid #000000; }
+  table.INNERTABLE { margin: 10px; border: black 1px solid; }
+  th.INNERTABLE { font-family: sans-serif; background-color: #EEDD57; border: black 1px solid; }
+  td.INNERTABLE { font-family: sans-serif; padding: 0px; border: black 1px solid;  }
+  BODY {  font-family: sans-serif }
+  A  { color: black; font-weight: bold;  }
+  .note { margin-left: 5em; margin-right: 5em }
+-->
+</STYLE>
+
+<script language="JavaScript" src="http://www.gvisit.com/record.php?sid=acf978d635213a66a82f91a0f8199a7a" type="text/javascript"></script>
+
+<table cellpadding="0" cellspacing="0" bgcolor="white" border="0" width="90%" height="90%" style="border-top: 1px solid #000000">
+
+<tr><td rowspan="2" valign="top" width="15%" class="MENU">
+&nbsp;
+<p>
+<a href="http://gogrinder.sourceforge.net/index.php">Overview</a>
+<p>
+<a href="http://gogrinder.sourceforge.net/features.php">Features</a>
+<p>
+<a href="http://gogrinder.sourceforge.net/docs.php">Documentation</a>
+<p>
+<a href="http://gogrinder.sourceforge.net/download.php">Download</a>
+<p>
+<a href="http://gogrinder.sourceforge.net/collections.php">Collections</a>
+<p>
+<a href="http://gogrinder.sourceforge.net/license.php">License</a>
+
+<p>
+
+</td><td valign="top" style="margin: 5px; background-color: #FFFFFF; padding: 10px;" >
+<?php include "./header.php" ?>
+
+<h2>Contents</h2>
+
+<ul>
+  <li><a href="#gettingstarted">Getting Started</a></li>
+  <li><a href="#solvingproblems">Solving Problems</a></li>
+  <li><a href="#preferences">Preferences</a></li>
+  <li><a href="#fileformat">File Format</a></li>
+  <li><a href="collections.php">Problems to use with GoGrinder</a></li>
+  <li><a href="#support">Support</a></li>
+  <li><a href="#uninstalling">Uninstalling</a></li>
+</ul>
+
+<h2><a name="gettingstarted">Getting Started</a></h2>
+
+
+<h3>Installing on Windows</h3>
+
+To install GoGrinder on Windows, use the latest installer.  If you do not have 
+the correct version of Java installed, GoGrinder will complain, and give you a 
+link where you can download it.
+
+<h3>Installing on other operating systems</h3>
+
+GoGrinder requires Java version 1.4.2 or higher, so install it before installing GoGrinder.<p/>
+
+If you are installing GoGrinder for the first time, unzip the full install zip file into a directory.<p/>
+
+If you are upgrading, do not download the full install - this will overwrite 
+your grind.dat file, and you will lose your settings.  Instead, download and 
+unzip the upgrade file.<p/>
+
+To run GoGrinder, go to the install directory, and execute the following command:<p/>
+
+java -jar GoGrinder.jar<p/>
+
+It's important that the current directory be set to the GoGrinder directory,
+or the program will not be able to find the problem collections and other
+data files.  Some Linux distributions will not set the current directory
+correctly if you simply double-click the jar file to execute it.
+
+<h2><a name="solvingproblems">Solving Problems</a></h2>
+
+When you run GoGrinder for the first time, one of the problems that is 
+installed with the program will be displayed.  To begin solving problems, just 
+click at the location on the board where you want to play.  The indicator on 
+the right will let you know whether you've gotten the problem right or not.  
+When you get a problem right, GoGrinder will automatically advance to the next 
+problem.  You can change this behavior in the 
+<a href="#preferences">Preferences</a> dialog.  You can also right-click to go 
+to the next problem, or use the keyboard shortcuts: Z (or comma) and X (or 
+period) for previous and next.<p/>
+
+You can use the buttons on the right to navigate within the problem.  Restart
+will take you back to the beginning, and Back will move back to your previous 
+move.  Navigate Solution will display right and wrong variations as red and 
+green dots on the board, and will let you play out any variations that aren't in
+the problem file, too.  After choosing Navigate Solution, you won't get 
+credit for the problem.  You can still get the problem right after using Back 
+or Restart, but only if you haven't deviated from the correct path.  Once you 
+make a wrong move, you will not receive credit for getting the problem right.<p/>
+
+When you shut GoGrinder down, it will keep track of where you are in the 
+currently selected set of problems, and will pick up where you left off next 
+time you run it.
+
+<h3>Main Window</h3>
+
+
+<table><tr><td><img src="SelProbs.png"/></td><td valign="center"><b>Select Problems</b></td></tr></table><p/>
+
+See <a href="#selectingproblems">Selecting Problems</a>
+
+<p/><table><tr><td><img src="Open.png"/></td><td valign="center"><b>Open File</b></td></tr></table><p/>
+
+Opens a GoGrinder state file.  See "Save Progress", below.
+
+<p/><table><tr><td><img src="Save.png"/></td><td valign="center"><b>Save Progress</b></td></tr></table><p/>
+
+This can be used to save your progress through a set of problems.  The problems 
+you have selected, the sort order, and your current progress through the set are 
+saved.  Note that you do not need to do this when closing the program - 
+GoGrinder will pick up where you left off automatically.  This is mainly useful 
+when you are halfway through a set of problems, and you want to go work on a 
+different set and come back to the current set later.
+
+<p/><table><tr><td><img src="Edit.png"/></td><td valign="center"><b>Edit Current Problem</b></td></tr></table><p/>
+
+Edits the current problem in an external SGF editor.  The SGF editor is configured in
+the <a href="#preferences">Preferences</a> dialog.
+
+<p/><table><tr><td><img src="PrevProb.png"/></td><td valign="center"><b>Previous Problem</b></td></tr></table><p/>
+
+Takes you back to the previous problem.  This will not affect your stats on the 
+current problem - it will not count as right or wrong, as long as you haven't 
+made any wrong moves yet.  You can also go to the previous problem by pressing 
+Z or comma on the keyboard.
+
+<p/><table><tr><td><img src="NextProb.png"/></td><td valign="center"><b>Next Problem</b></td></tr></table><p/>
+
+Takes you to the next problem.  This will not affect your stats on the current 
+problem - it will not count as right or wrong, as long as you haven't made any 
+wrong moves yet.  You can also go to the next problem by right-clicking, or by 
+pressing X or . on the keyboard.
+
+<p/><table><tr><td><img src="Find.png"/></td><td valign="center"><b>Find Problem</b></td></tr></table><p/>
+
+Allows you to find a problem by entering part of its name.  This is useful for
+jumping to a certain problem in the currently selected list of problems.
+
+<p/><table><tr><td><img src="AutoAdv.png"/></td><td valign="center"><b>Auto Advance</b></td></tr></table><p/>
+
+If activated, the next problem will automatically be displayed when you find a 
+correct solution.  You can also advance to the next problem by right-clicking 
+on the board, or use the keyboard shortcuts: Z (or comma) and X (or period) for 
+previous and next.
+
+<p/><table><tr><td><img src="Prefs.png"/></td><td valign="center"><b>Preferences</b></td></tr></table><p/>
+
+See <a href="#preferences">Preferences</a></h4>
+
+<a name="Split"></a><p/><table><tr><td><img src="Split.png"/></td><td valign="center"><b>Split SGF File</b></td></tr></table><p/>
+
+Sometimes SGF files will contain many game records/problems.  To use these 
+files with GoGrinder, you need to split them up so that each file contains one 
+problem.  To do this, choose "Split SGF File", select the file to split, and 
+then select the directory where you want the individual files to be placed - 
+probably somewhere inside of the GoGrinder/problems directory.
+
+<p/><table><tr><td><img src="Import.png"/></td><td valign="center"><b>Import Problems</b></td></tr></table><p/>
+
+Imports problems that have been exported from GoGrinder.  This imports the SGF 
+files and any tags that have been associated with the problems.  If a different 
+version of the problem already exists in your collection, you will be asked if 
+you wish to overwrite the existing problem.  If the problem exists, and you 
+continue with the import, the tags from the import file will be merged with the 
+tags on the existing copy.
+
+<p/><table><tr><td><img src="About.png"/></td><td valign="center"><b>About</b></td></tr></table><p/>
+
+Displays version and license information.
+
+<p/><table><tr><td><img src="Help.png"/></td><td valign="center"><b>Help</b></td></tr></table><p/>
+
+Displays this document.
+
+<h4>Restart</h4>
+
+Restarts the current problem.  This will not count as getting the problem wrong, 
+as long as you haven't made any wrong moves yet.
+
+<h4>Back</h4>
+
+Takes back your latest move.  This will not count as getting the problem wrong, 
+as long as you haven't made any wrong moves yet.  You can also go back by using
+the mousewheel.
+
+<h4>Navigate Solution</h4>
+
+Displays all of the variations in the problem.  Moves on the correct path are 
+marked with green dots, bad moves that have refutations are marked with red.  
+While navigating the solution, you can also play out variations that are not 
+included in the problem file. Choosing this option means that you can no longer 
+get credit for solving the problem.
+
+<h4>Stats</h4>
+
+Displays how many of the currently selected problems you have attempted, and 
+what percentage you have answered correctly.
+
+<h4>Tags</h4>
+
+Tags are a way of organizing your problem collection.  You can apply tags to 
+certain problems, and then search for problems by the tags they are associated 
+with.  "Apply tag..." allows you to associate a tag with the current problem, 
+and you can choose "New Tag..." from the drop-down to create a new tag.  The 
+list box shows tags that are associated with the current problem, and the Remove 
+button allows you to remove tags from the current problem.
+
+<h4>Status Bar</h4>
+
+The status bar at the bottom of the main window displays the filename for the 
+current problem.
+
+<h2><a name="selectingproblems">Selecting Problems</a></h2>
+
+To select problems, click the Select Problems button on the toolbar of the main 
+window.  All of your problem collections will be displayed, and you will be able 
+to choose the collections you want to work on, and filter and sort the problems 
+in various ways.
+
+<h4>Collections</h4>
+
+Allows you to select one or more collections of problems.
+
+<h4>Apply Tag</h4>
+
+Applies a tag to every problem in the currently selected collections.
+
+<h4>Reset Stats</h4>
+
+Resets statistics on every problem in the currently selected collections. This 
+does not affect tags, but resets # of attempts, # of times correct, and average 
+time.
+
+<h4>High Scores</h4>
+
+Displays the high scores for the selected collection.  The high scores are 
+ranked by % correct, and then by average time per problem.  Whenever you attempt 
+every problem in a collection without changing your selection in the middle, you 
+are eligible for a high score.  You can also get a high score for a higher-level 
+collection that contains multiple folders, by selecting the higher-level 
+collection, and working through all of its problems.  Your progress through a 
+collection is saved between sessions, so you don't have to solve all of the 
+problems in a collection in one sitting to get a high score.
+
+<h4>Tags</h4>
+
+Allows you to filter the selected problems by their associated tags.  You can 
+select one or more tags from the list, and they are used to filter the problems 
+as specified in the Match combo box.
+
+<h4>Delete</h4>
+
+Removes the selected tags from all of your problems.
+
+<h4>Match</h4>
+
+You have three choices: All Tags means only problems associated with all of the 
+selected tags will be chosen, Any Tags means problems associated with any of the 
+selected tags will be chosen, and No Tags means only problems that are not 
+associated with any of the selected tags are chosen.
+
+<h4>Export...</h4>
+
+Allows you to export the currently selected problems to file.  This file can 
+then be imported by another GoGrinder user.  The export file contains the 
+problem SGF files and associated tags.  Statistics and high scores are not 
+exported.
+
+<h4>OK</h4>
+
+Finalizes the problem selection.  This resets the statistics for the selected 
+problems, and lets you start solving problems.
+
+<h4>Cancel</h4>
+
+Cancels the problem selection.  The current selection remains as it was before 
+the selection dialog opened, and statistics are not reset.
+
+<h2><a name="preferences">Preferences</a></h2>
+
+<h4>Automatically advance to next problem</h4>
+
+When checked, the next problem will automatically be displayed when you find a 
+correct solution.  You can also advance to the next problem by right-clicking on 
+the board, or use the keyboard shortcuts: Z (or comma) and X (or period) for 
+previous and next.
+
+<h4>Randomly rotate/flip problems</h4>
+
+When checked, GoGrinder randomly changes the orientation of the problems on the 
+board.  This may make the comments in some problems confusing.
+
+<h4>Randomly swap colors</h4>
+
+When checked, GoGrinder randomly swaps the colors of the problems.  This also 
+changes all occurrences of the words "white" and "black" in the problem's 
+comments.
+
+<h4>Display transparent stone at cursor position</h4>
+
+When checked, a transparent stone is displayed on the board at the cursor position.
+
+<h4>Display 'Failed' at first mistake</h4>
+
+When checked, the status area will change to 'Failed' as soon as you make a 
+wrong move.  Otherwise, it will only change when you reach the end of a wrong 
+variation.
+
+<h4>Enable stone sound</h4>
+
+Turns on/off the sound of the stone hitting the board.
+
+<h4>Enable right/wrong sounds</h4>
+
+Turns on/off the sounds that are played when you get a problem right or wrong.
+
+<h4>SGF Editor</h4>
+
+Selects an external SGF editor for editing problems.
+
+<h4>Check for newer version at startup</h4>
+
+If this is checked, GoGrinder will let you know when a new version is available.
+
+<h4>Proxy Settings</h4>
+
+These settings are used to check for a new version of GoGrinder.  If you use a
+proxy to connect to the internet, enter your settings here.
+
+<h2><a name="fileformat">File Format</a></h2>
+
+Problems for GoGrinder should be stored in SGF format.  There are two ways of 
+indicating which moves are correct.  The first is to put either "RIGHT" or 
+"CORRECT" somewhere in the comment of the correct node.  This is the format used 
+at goproblems.com.  All paths that do not lead to a node with one of these 
+comments are considered incorrect.  The words "RIGHT", "CORRECT", and "CHOICE" 
+will not be displayed in the comment area.  The other way is used if there are 
+none of these comments in the file.  In this case all moves in the file are 
+considered correct, unless the variation is marked with the non-standard SGF 
+tag WV[], or the stone that was just played is marked with a triangle.
+
+<h2><a name="support">Support</a></h2>
+
+<ul>
+  <li><a href="http://gogrinder.sourceforge.net">Project Website</a></li>
+  <li><a href="http://sourceforge.net/tracker/?group_id=115946&atid=673193">Report Bugs</a></li>
+  <li><a href="http://sourceforge.net/tracker/?group_id=115946&atid=673194">Request Support</a></li>
+  <li><a href="http://sourceforge.net/tracker/?group_id=115946&atid=673196">Request Enhancements</a></li>
+</ul>
+
+<h2><a name="uninstalling">Uninstalling</a></h2>
+
+<h3>Uninstalling in Windows</h3>
+
+You can uninstall GoGrinder from the Add/Remove Programs applet in the Windows 
+control panel, or from the icon in the GoGrinder program group.  The uninstaller 
+will not remove your problem collections or statistics.  To completely remove 
+GoGrinder, you will have to remove these by hand.
+
+<h3>Uninstalling on other operating systems</h3>
+
+Simply delete the directory where you installed GoGrinder.
+
+<?php include "./footer.php" ?></td></tr>
+<tr><td valign="bottom" align="right" height="10%" style="margin: 5px; background-color: #FFFFFF; padding: 10px; border-top: solid 1px black">
+<P>
+<A href="http://sourceforge.net/"><IMG height=62
+alt="SourceForge.net Logo" src="http://sourceforge.net/sflogo.php?group_id=115946&amp;type=5" width=210
+border=0></A>
+<br>
+ </P></BODY></HTML>
+
+</td></tr>
+</table>
+
+ </body>
+</html>

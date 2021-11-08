@@ -1,0 +1,36 @@
+(;AB[fc][me][ca][db][ea][ec][jb][fb][gd][hd][hc][ic][ne][id][jd][kd][ld][md][ke]
+AW[gb][ja][ba][bc][cb][dc][dd][ed][fd][ge][he][ie][je][kf][jg][mf][nf][oe][od][nd]
+[mc][nb][jc][kc][kb]C[
+문제도200  최종보스문제
+
+黑先活  A
+
+超A級의 問題
+최종문제답게 최강의 난이도 ^^
+Hint는 양패로 살게 된다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ga];W[da];B[eb];W[ha];B[hb];W[fa];B[gc];W[ga]C[
+여기까지는 일련의 진행.
+이장면에서 다음흑의 한수가 
+포인트!]
+;B[lb]C[
+붙이는수가 맥점!]
+(;W[ib]C[
+백이 한점 따서 버티는수가 있다.];B[lc];W[la];B[ma]
+(;W[ia]C[
+백이 이어서 악착같이 버텨도..];B[mb];W[nc];B[lf];W[lg]C[
+<正解圖>  양패黑生
+
+양패로 살아있는 모양.]
+N[正解])
+(;W[mb]C[
+백이 끊는수는..];B[ia];W[ga];B[jb]C[
+<변화도>  黑生
+
+양패로 흑이 살아있는 모양.]))
+(;W[lc]C[
+백이 차단하는 수는..];B[ia];W[ga];B[ka];W[ha];B[gb];W[mb];B[fa];W[la]
+;B[ja]C[
+<변화도>  黑生
+
+붙이는 맥점으로 흑이 살았다.]))

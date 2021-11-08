@@ -1,0 +1,18 @@
+(;AB[bc][cc][bd][ce][dd][ed][ff][gf][he][hd][hc][hb][gb]AW[ac][bb][cb][dc][ec][fb]
+[gc][gd]C[
+문제도78  實戰型 
+
+黑先패  C
+
+실전적인 모양이다.
+정확한 수순으로 패를 만들자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ab]C[
+먹여치고..];W[aa];B[da]C[
+치중이 수순..];W[ea];B[db];W[ca];B[ad]C[
+<正解圖>
+
+정확한 수순으로 패가 되었다.]
+N[正解])

@@ -1,0 +1,18 @@
+(;AB[ic][kc][cc][db][ec][ed][de][df][dg][dh][ei][gh][hh][hg][hf][ge][gd][id][jb]
+AW[eg][fg][gg][gf][ef][ee][fe][fd][fc][eb][gb][hc][ib]C[
+문제도162  안형 없애기
+
+黑先白死  C
+
+백의 안형을 없애는 급소자리를
+찾아라.
+첫수한방으로 해결.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gc]C[
+찝는수가 상변 백의 안형을 
+없애는 급소.];W[ea];B[fb];W[fa];B[ha];W[ia]
+;B[hb]C[
+<正解圖>  白死
+
+상변에서 백이 아무리 몸부림쳐도 집이 나지 않는다.]N[正解])

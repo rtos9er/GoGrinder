@@ -1,0 +1,14 @@
+(;AB[br][bq][bp][co][dn][dm][em][fm][gm][eo][er][eq][fq][fs][hp][ho][iq][ir]AW[hr]
+[hq][fn][en][gp][fp][ep][do][dp][dq][ds][dr][cr]C[白先
+
+]AP[MultiGo:3.7.0]SZ[19]
+;B[hs]C[黑1渡过后，似乎白棋已经死路一条]
+(;W[es]N[正解]
+(;B[gs];W[fr];B[gr];W[gq])
+(;B[fr];W[gs];B[gr];W[gq])
+(;B[gr];W[gq])
+(;B[gq];W[gr]))
+(;W[gr];B[gs];W[fr];B[es])
+(;W[gs];B[gr]
+(;W[es];B[gq])
+(;W[gq];B[es])))

@@ -1,0 +1,22 @@
+(;AB[bd][be][ce][dd][dc][db][cg][dg][eg][ff][ge][gd][gc][gb][fb][hb]AW[bc][cc][cd]
+[df][de][ee][ed][ec][fc][eb][fa]C[
+문제도40  자주 나타나는 실전형
+
+黑先패  C
+
+패로 공격하는 수단이 있다.
+첫수가 폐부를 찌르는 한수.
+
+
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ab]LB[ac:A][bb:B]C[
+백의 폐부를 찌르는 짜릿한 수.
+이수로 A 에 젖히면 B 로 그냥 
+산다.
+그리고 B 에 붙이면 촉촉수로 
+백이 살게 된다.]
+;W[ac];B[cb];W[bb];B[ba]C[
+<正解圖>
+
+패가 되는것이 정답.]N[正解])

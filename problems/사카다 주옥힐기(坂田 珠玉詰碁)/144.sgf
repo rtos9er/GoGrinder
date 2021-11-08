@@ -1,0 +1,19 @@
+(;AB[ca][cb][cc][cd][de][df][ed][fd][ff][ge][he][hd][hc]AW[bd][be][ce][cg][dd][dc]
+[db][da][gc][gd][ee][fe]C[
+문제도144  脈点
+
+黑先白死  C
+
+맥을 공부하는 문제.
+흑으로 백4점을 잡는 맥점을 
+찾아라.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ea]C[
+붙이는 수가 산뜻한 맥점.];W[eb];B[fb];W[fa];B[ef];W[gb];B[fc]C[
+<正解圖>  白死
+
+흑이 정확하게 맥점을 구사하여
+백을 잡았다.]
+N[正解])

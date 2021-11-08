@@ -1,0 +1,20 @@
+(;AB[bc][bd][cd][ce][df][ee][ed][gd][hd][hc][hb][gb]AW[ga][gc][fc][fb][ec][dd][cc]
+[cb][bb][aa][ac]C[
+문제도170  급소 이후
+
+黑先패  C
+
+흑1수 3수가 포인트.
+첫급소발견 이후 연결타가 중요.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ea]LB[db:A][dc:B]C[
+치중이 급소.
+A 에 치중하는 수는 B 로 두어
+살게 된다.]
+;W[da]C[
+마늘모 붙여 최대한 버티어 오면.];B[ca]C[
+먹여치기가 妙手!];W[ba];B[db]
+;W[dc];B[ca]C[
+<正解圖>  패
+
+패가 되는 것이 최선.]N[正解])

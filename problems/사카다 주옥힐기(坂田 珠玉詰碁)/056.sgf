@@ -1,0 +1,26 @@
+(;AB[gb][ee][cb][bb][bc][cd][ce][cf][cg][dg][eh][fh][gh][hh][ih][jg][if][ie][hd]
+[gd][hb]AW[ca][ga][db][dc][dd][de][df][cc][fb][fc][fd][ge][fg][gg][hg]C[
+문제도56  치명적 약점
+
+黑先패  B
+
+백에게 치명적 약점이 있어
+패가 나게 된다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gf]C[
+백의 치명적 약점을 찌른 수.]
+(;W[hf];B[fe];W[ff];B[he];W[ef]C[
+자충의 약점 때문에 패를 할수밖에 없다.];B[gf]
+C[
+<正解圖> 
+
+패가 되는 것이 최선.]N[正解])
+(;W[fe]C[
+<실패도>
+
+백이 잇는 수는..];B[hf];W[ef];B[ed]C[
+살포시 두점으로 나가는 수가 
+좋은 점.]
+;W[ec];B[ea]C[
+백이 죽어버린 모양.]))

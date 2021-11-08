@@ -1,0 +1,27 @@
+(;AB[ca][cb][cc][dc][ec][fd][gd][hd][ic][hb][ib][jb]AW[cd][bb][bc][ce][ed][ee][fe]
+[ge][he][ie][id][jc][kc][kb][ka][gb][ha]C[
+문제도53  한계의 극복  
+
+黑先活  C
+
+평범한 수로는 흑이 살길이 없다
+한계를 극복하는 한수는?
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ga]C[
+먹여치는 수가 妙着!
+삶의 빛이 보인다.];W[fa];B[fb]LB[ea:A][ja:B]C[
+호구가 준비된 수.
+백이 A 에 두면 흑 B 로 두어
+그냥 살게 된다.]
+;W[ja];B[ea];W[ia];B[db]C[
+<正解圖> 黑生
+
+먹여치기의 기묘한 수로
+살게 되었다.
+
+
+
+]
+N[正解])

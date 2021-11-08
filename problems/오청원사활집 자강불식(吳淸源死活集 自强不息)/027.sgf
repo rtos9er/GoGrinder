@@ -1,0 +1,19 @@
+(;AB[rb][rc][rd][qe][qf][pf][of][nf][me][md][mc][lb][ma][kc][jd]AW[lc][mb][nb][oc]
+[ne][oe][pe][qd][qc][qb]C[
+第27題 相機行事 상기행사
+
+< 黑 先 白 死 >
+
+정확한 수순의 조합으로 백을
+잡는다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[pb]C[
+붙임이 공격의 급소.
+백은 A , B 두가지 응수가 있다.]
+(;W[na];B[pc];W[pd];B[pa];W[kb];B[ld];W[la];B[jb])
+(;W[pa]C[
+백이 젖히면.];B[na]C[
+그냥 밀고 들어오는 수가 좋다.];W[oa];B[la];W[nd]
+C[
+백이 최대로 버텨도..];B[pd]C[
+치중이면 싱겁게 죽어버린다.]))

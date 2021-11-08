@@ -1,0 +1,23 @@
+(;AB[bb][bc][cc][cd][de][df][ef][ff][gf][hf][ie][id][ic][hc][hb]AW[cb][dc][dd][ee]
+[fe][ge][he][hd][gc][fc]C[
+문제도140  회심의 안형박탈
+
+黑先白死  C
+
+백의 안형을 박탈하는 급소를 
+발견하는 것이 급선무.
+이후 정확한 수순으로 요리하자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fd]C[
+치중수가 백의 안형을 박탈하는
+급소!];W[eb]C[
+호구는 최강의 버팀수.]
+;B[ed];W[gd];B[fa]C[
+날일자가 마무리 결정타!];W[da];B[ba];W[ga];B[gb];W[ca];B[fb]
+;W[ec];B[ea]C[
+<正解圖>  白死
+
+흑의 정확한 공격수순으로 
+백이 죽은 모양.]N[正解])

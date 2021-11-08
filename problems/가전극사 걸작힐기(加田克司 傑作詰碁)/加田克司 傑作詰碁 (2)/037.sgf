@@ -1,0 +1,23 @@
+(;AB[bq][cq][cr][dq][eq][ep][fr][gq][hq][hr]AW[er][cs][br][ar][aq][bp][cp][dp][dn]
+[eo][fo][gp][ho][io][jp][ir][jr]C[
+문제도37
+
+白 先  A
+
+패가 되는 문제.
+백이 패를 만드는 수단이 있다.
+정교한 공격을 해보자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[es]C[
+빠지는 수가 흑의 약점을 찌르는
+좋은 수.
+이수가 문제해결의 열쇠~~]
+(;B[bs];W[fq];B[ds];W[fs];B[fp];W[hs];B[gs]C[
+<정해도1>  패 
+
+백의 정교한 공격으로 패가 
+되는 것이 정답.])
+(;B[ds];W[fq];B[bs];W[fs];B[fp];W[hs];B[gs]C[
+<정해도2>  패 
+
+역시 패가 되는 모양.]))

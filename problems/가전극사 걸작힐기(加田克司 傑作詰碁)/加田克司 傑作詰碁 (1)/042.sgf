@@ -1,0 +1,25 @@
+(;AB[cr][dq][eq][ep][fo][gp][gq][hq][hr][hs]AW[cs][br][cq][cp][do][en][fm][gm][hn]
+[hp][ip][iq][ir][is][fp][fq]C[
+문제도42
+
+白 先  S
+
+흑을 잡는 문제.
+후절수의 맥이 나타난다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[fr]C[
+빠지는 수는 절대.]
+(;B[fs];W[er]C[
+이수가 좋다.
+뒷변화를 읽은 수.];B[dr];W[go];B[es];W[gr];B[gs]
+;W[fr]C[
+<정해도>  黑 死
+
+흑이 6점을 따내고도 돌밑의 수로 죽었다.])
+(;B[go]C[
+흑이 이으면..];W[er];B[dr];W[eo]C[
+<변화도>  黑 死
+
+흑이 죽은 모양.]))

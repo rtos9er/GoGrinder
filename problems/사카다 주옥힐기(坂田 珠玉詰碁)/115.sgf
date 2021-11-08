@@ -1,0 +1,22 @@
+(;AB[ba][cb][cc][dc][ed][fb][fc][gc][hb][ha]AW[bb][bc][be][cd][dd][ee][fd][gd][hc]
+[ic][ib][ia][da]C[
+문제도115   무조건 삶 
+
+黑先活  C
+
+무조건 살려야 하는 문제.
+패가 되면 실패.
+첫수가 妙着!
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[db]LB[ca:A][ga:B]C[
+빈삼각으로 웅크리는 수가 妙着!
+이수로 A 에 잇는수는 백 B 에 
+치중당해서 그냥 죽는 모양.]
+;W[fa];B[ca]C[
+뒤에서 단수치는것이 좋은 수.];W[gb];B[ea];W[ga];B[ec]C[
+<正解圖>  黑生
+
+정확한 수순으로 흑이 살았다.]
+N[正解])

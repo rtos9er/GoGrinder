@@ -1,0 +1,27 @@
+(;AB[eb][db][cb][bc][bd][cd][dd][ed][fd][gd][hd][id][jd][kc][lb][mb][ld]AW[cc][dc]
+[ec][fc][fb][hc][ic][ib][jc][kb][ja]C[
+문제도119  급소 이후
+
+黑先패  C
+
+첫급소는 한눈에 들어오는 곳.
+백도 정확하게 응수를 해야 패가
+된다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ha]
+(;W[hb]C[
+웅크리는 것이 정확한 응수.]N[正解];B[la];W[ka];B[gb];W[gc];B[fa];W[ga]
+C[
+<正解圖>  패
+
+백의 정확한 응수로 패가 정답.]N[正解])
+(;W[ga]C[
+마늘모붙임은 잘못된 응수.];B[gb];W[gc];B[fa];W[hb];B[ga];W[ea]C[
+먹여치기 할때...]
+;B[la]C[
+빠지는 수가 멋진 타이밍.];W[ia];B[ga]C[
+<변화도>  白死
+
+백의 잘못된 응수로 죽은 모양.]))

@@ -1,0 +1,23 @@
+(;GM[1]FF[3]PL[B]C[Black to play and win the capturing race.
+Capture the five white stones on the left with a careful approach.]AP[MultiGo:3.9.3]SZ[19]AB[dr][gq][dq][gp][fp][ep][eo][do][co][bo][en][dm][cm][bm][cj]AW[go][bp][cp][dp][cq][eq][fq][er][ao][dn][cn][bn][an][fm][em][gr]
+[hr][ho]
+(;B[cr];W[br];B[ar]
+(;W[ds];B[ap];W[aq];B[am])
+(;W[ap];B[bs];W[aq];B[bq]))
+(;B[es];W[fr]
+(;B[cr];W[br]
+(;B[bs]
+(;W[ar];B[ap];W[aq];B[am];W[ap])
+(;W[cs];B[ds];W[fs]))
+(;B[aq]
+(;W[ap];B[am];W[bq];B[bs];W[ar])
+(;W[cs];B[ap]))
+(;B[ap];W[aq];B[am];W[ap])
+(;B[am];W[ap];B[ar];W[cs])
+(;B[ar]
+(;W[cs];B[ap];W[aq];B[am])
+(;W[bs];B[am];W[ap];B[bq])
+(;W[ap];B[bs];W[aq];B[bq])
+(;W[bq];B[bs])))
+(;B[br];W[cr])
+(;B[am];W[ap])))

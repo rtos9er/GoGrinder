@@ -1,0 +1,22 @@
+(;AB[mb][ab][ac][bd][ce][dd][ee][ec][fc][fb][gd][hd][id][jc][kc][mc][md][db]AW[bb]
+[bc][cc][dc][eb][ea][fa][gb][hc][ic][jb]C[
+문제도117  연결고리의 약점
+
+黑先白死  B
+
+백의 연결고리에 약점이 있다.
+정확한 공격수순으로 잡는다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ib]C[
+끊음이 백의 약점을 정확하게
+응징하는 수.];W[ia];B[ga];W[ha];B[da];W[ga]
+;B[ka]C[
+이수가 결정타.
+자충으로 유도하는 수.];W[kb];B[la];W[ja];B[gc]C[
+<正解圖>  白死
+
+정확한 공격수순으로 백이 
+죽었다.]
+N[正解])

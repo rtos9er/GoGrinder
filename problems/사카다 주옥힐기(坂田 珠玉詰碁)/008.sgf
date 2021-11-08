@@ -1,0 +1,23 @@
+(;AB[kc][bb][bc][cc][dd][de][ee][fe][ge][hg][jf][je][le][lf][jc][lb][hd][fb]AW[cb]
+[db][dc][ed][fd][gd][he][ie][id][ic][ib][me]C[
+문제도8  사석의 맥
+
+黑先패 B
+
+외길코스로 패가 되는 모양.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ec];W[gb]
+(;B[gc];W[hc];B[fc];W[hd];B[ga];W[hb];B[ea]C[
+好手!];W[eb];B[ca];W[fa];B[fb];W[fc]
+;B[da]C[
+<正解圖>
+
+외길코스로 패가 된다.]N[正解])
+(;B[hc]C[
+<변화도>
+
+흑이 파호하는 수는..]N[변화도];W[hb];B[eb];W[jb];B[ga];W[kb]
+;B[ha];W[mb]C[
+껴붙이는 수로 백은 살게 된다.]))

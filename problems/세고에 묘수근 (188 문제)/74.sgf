@@ -1,0 +1,14 @@
+(;AB[ip][fl][dl][em][cn][dn][eo][ep][dp][gm][hl][im][jm][jn][ko][kp][jq][jr][dq]
+AW[bn][bo][co][do][bq][en][fn][fm][go][lq][kq][iq][jp][jo][fp][fq][eq][io][in]C[黑先
+
+白棋吃住左下四子，有15目的实空，黑应如何摆脱困境？]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[hp]C[一个可能的变化图]
+(;W[ho];B[fo];W[gn];B[gp])
+(;W[gp];B[ho];W[hn];B[gn])
+(;W[hq];B[ho];W[hn];B[gn];W[gp];B[fo])
+(;W[gn];B[hq];W[ir];B[hr];W[kr];B[is];W[gr]))
+(;B[ho]C[正解]
+(;W[hn];B[gn];W[hp];B[fo])
+(;W[hp];B[hn];W[ip];B[fo];W[gp];B[gn])))

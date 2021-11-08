@@ -1,0 +1,19 @@
+(;AB[rd][re][qe][oe][of][nd][md][mc][mb][pb]AW[pc][qd][rc][od][na][nb][nc]C[
+第13題 虎尾春氷 호미춘빙
+
+< 黑 先 白 死 >
+
+궁도가 넓어 보이지만 잡는 수는 있다. 
+정교한수순의 조합으로 백을 잡아보자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[qb]C[
+먼저 선수한후..];W[qc]C[
+]
+(;B[sb]LB[sc:A][rb:B]C[
+치중수가 수순.
+A 에 막으면 B 로 두어 유가무가로 백이 죽게된다.]
+;W[rb];B[ob]C[
+백이 찌르는수를 보고 파호치는 수가 수순.];W[oc];B[sc];W[ra];B[pa])
+(;B[ob]C[
+먼저 파호하는 수는 수순착오.];W[oc];B[sb];W[sc];B[rb];W[oa]C[
+흑이 한수부족.]))

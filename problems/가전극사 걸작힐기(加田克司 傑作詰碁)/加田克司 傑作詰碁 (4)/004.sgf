@@ -1,0 +1,25 @@
+(;AB[br][cq][dr][er][fq][fs][hq][iq][jq][hs][js][kr]AW[cr][hr][ds][cs][bq][dq][eq]
+[dp][do][fp][gp][hp][ip][jp][kp][lq][lr][ls]C[
+문제도4
+
+白 先  S
+
+흑을 잡는 문제.
+수순을 정확하게 밟아라.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[gr];B[es];W[cp];B[gq];W[ir]C[
+백이 나가는 수가 의표를 찌른다
+이수로 바로 끊으면 패가 된다.]
+(;B[jr]C[
+이쪽으로 이어오면..];W[fr];B[is];W[gs];B[er];W[es];B[fs];W[gr]C[
+<정해도>  黑 死
+
+돌밑의 수로 흑이 죽은 모양.])
+(;B[fr]C[
+흑이 이어오면..
+빅을 유도하고 있다.];W[jr]C[
+4점으로 키우는 수가 妙手!]
+;B[gs];W[kq];B[is];W[ks]C[
+<정해도>  黑 死
+
+사석전법으로 흑이 죽은 모양.]))

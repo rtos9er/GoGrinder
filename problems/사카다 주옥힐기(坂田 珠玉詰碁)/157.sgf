@@ -1,0 +1,15 @@
+(;AB[fa][ab][bc][bd][ce][cf][df][ef][ff][ge][he][id][ic][hb][ha][ga][ea][fc]AW[ba]
+[bb][cc][db][cd][de][ee][fe][gd][gc][gb][fb]C[
+문제도157  暗中模索
+
+黑先白死  B
+
+차분하게 수순을 밟으면 백을
+잡을수 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ec];W[eb];B[fd]C[
+가만히 끊는 수가 좋다.];W[dc];B[ed];W[dd];B[da]C[
+<正解圖>  白死
+
+정사궁으로 백이 죽은 모양.]
+N[正解])

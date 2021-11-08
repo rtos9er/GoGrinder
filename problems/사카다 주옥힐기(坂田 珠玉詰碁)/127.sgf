@@ -1,0 +1,18 @@
+(;AB[ad][ae][be][bf][cf][df][ee][fd][fc][gc][hc][hb][db]AW[fb][ac][bd][cb][cc][cd]
+[ce][ed]C[
+문제도127  단순 공격
+
+黑先白死  C
+
+단순하게 공격하는 것이 효과
+적인 경우도 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb]C[
+치중은 절대의 한수.];W[ab]C[
+최대한의 버팀.];B[ba];W[eb];B[dc];W[ec]
+;B[dd];W[de];B[da]C[
+<正解圖>  白死
+
+자충의 맥에 걸려 죽은 모양.
+
+])

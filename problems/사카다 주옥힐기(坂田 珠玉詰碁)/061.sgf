@@ -1,0 +1,19 @@
+(;AB[ca][db][ea][fb][gb][gc][gd][fd][ee][de][cd][cf][bf][ag][bh]AW[af][be][ba][cb]
+[cc][dd][eb][ec][fc]C[
+문제도61  귀의 특수성
+
+黑先白死  B
+
+패모양 처럼 보이지만 백의 약점을 찔러 그냥 잡는 수단이 있다.
+귀의 특수성을 이용하자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb];W[da];B[bc];W[bd];B[ab]C[
+빈삼각으로 빠지는 수가 귀의
+특수성을 이용한 좋은 맥점.]
+TE[1];W[ad];B[ce];W[fa];B[ed];W[dc];B[ga];W[ca];B[ea]C[
+<正解圖>  양패
+
+양패가 되어 죽은 모양.]
+N[正解])

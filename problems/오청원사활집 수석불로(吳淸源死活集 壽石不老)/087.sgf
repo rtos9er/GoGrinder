@@ -1,0 +1,23 @@
+(;AB[pd][ke][kd][qb][qc][pc][rf][od][nd][pe][pf][qf][kc][re][me][lf][kf]AW[qe][qd]
+[rd][pa][pb][oc][nc][nb][md][ld][kb][jb][ja][jc][jd][je][jf][kg][kh][mh][ne][nf]
+[og][pg][qg][rg][sf][se]C[
+제87문 足下大穴 족하대혈
+
+< 黑 先 活 >
+
+정확한수순의 조합으로 흑을
+살린다. 수순이 조금이라도 어긋나면 흑은 그즉시 나락으로 떨어진다.
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[sd];W[sc];B[sb];W[sg];B[qa]LB[rc:A][sd:B][ra:C]C[
+가만히 그냥 막는수가 좋다.
+이수로 A 와 B 교환후 막는수는
+C 에 치중을 당해 죽어버린다.
+
+※자충에 주의할것.]
+;W[sd];B[mb];W[mc];B[na];W[lb];B[rc];W[ma];B[ra]C[
+<정해도>
+
+이렇게 되는것이 정답.])

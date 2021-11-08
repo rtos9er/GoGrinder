@@ -1,0 +1,41 @@
+(;GM[1]FF[3]PL[W]C[White to play and win the capturing race.
+(Fa Yang Lun)
+The solution is a ko fight or seki.]AP[MultiGo:3.9.3]SZ[19]AW[ob][oc][pd][rd][pe][re][of][qf]AB[qe][qd][od][nd][rc][qc][pc][mb]
+(;W[rb]
+(;B[sd];W[rf]
+(;B[qb];W[sb];B[ra];W[pa]
+(;B[qa];W[se]
+(;B[sc];W[pb])
+(;B[nc];W[sc]))
+(;B[sc];W[qa]
+(;B[sa];W[rb]
+(;B[sb]
+(;W[se])
+(;W[pb]))
+(;B[nc]
+(;W[pb])
+(;W[se])))
+(;B[nc]
+(;W[se];B[sa];W[rb])
+(;W[pb];B[sa];W[rb]))))
+(;B[pb];W[pa];B[qa];W[oa]
+(;B[qb];W[ra])
+(;B[sb];W[ra])))
+(;B[rf];W[rg];B[sb];W[qb];B[pb];W[pa];B[sc];W[oa];B[nc];W[sf]
+;B[ra];W[qa]
+(;B[nb];W[sa])
+(;B[na];W[sa])))
+(;W[ra]
+(;B[pb];W[pa]
+(;B[sd];W[rf];B[rb]
+(;W[sb];B[qa];W[qb])
+(;W[qa];B[sb];W[se];B[nc];W[sc];B[nb];W[oa];B[sd]))
+(;B[rb];W[sb];B[sc];W[qa]))
+(;B[rf];W[rg];B[pb];W[pa];B[sb]))
+(;W[pb];B[sd];W[rf];B[qb];W[ra];B[qa]
+(;W[pa]
+(;B[sb];W[se];B[nc];W[sc])
+(;B[rb];W[sb];B[sa]))
+(;W[se]
+(;B[sb];W[pa];B[nc];W[sc])
+(;B[nc];W[sc];B[sb];W[pa];B[sd]))))

@@ -1,0 +1,12 @@
+(;GM[1]FF[3]AB[jb][ob][jc][mc][nc][pc][je][le][ne][oe][kf][mf][ng][og]AW[kb][mb]
+[pb][qb][lc][qc][ld][md][qd][me][pe][nf][qg]PL[W]C[White to play and connect underneath.]
+AP[MultiGo:3.9.4]SZ[19]
+
+(;W[oa];B[na];W[nb];B[pa];W[od];B[nd];W[oc];B[pd];W[oc];B[od]
+(;W[ma]
+(;B[oa];W[qa])
+(;B[oc];W[qa]))
+(;W[qa];B[of];W[ma]))
+(;W[od];B[nd];W[oa];B[na];W[nb];B[pa];W[oc];B[pd];W[oc];B[od]
+(;W[ma];B[of];W[qa])
+(;W[qa];B[of];W[ma])))

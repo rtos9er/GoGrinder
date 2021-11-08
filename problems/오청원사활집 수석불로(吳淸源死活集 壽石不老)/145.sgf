@@ -1,0 +1,17 @@
+(;AB[qc][rc][rd][pd][qe][nd][md][ld][lc][lb][mb]AW[mc][nc][nb][ob][pc][qb][rb]C[
+제145문 凡將名帥 범장명수
+
+< 黑 先 패 >
+
+그냥 잡으러가는것은 잘 안된다.
+공베메움의요령을 묻는문제.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[od]C[
+백의 응수를 물어보는 이수가 좋다.];W[sb];B[na]
+(;W[pa]C[
+이수가 정수.];B[oc];W[ra];B[pb])
+(;W[oa]C[
+백이 바로 막는수는
+흑에게 치중을 당해 그냥
+죽게 된다.];B[ra];W[oc]
+;B[qa]))

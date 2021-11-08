@@ -1,0 +1,27 @@
+(;AB[cq][el][ds][dr][dq][gn][dp][ep][fr][fn][dl][hm][gl][fl]AW[es][er][fm][gm][cs]
+[cr][br][bq][bo][co][bm][cl][ck][dk][ek][fk][hk][gk][il][im][in][ho][hp][iq][hr]
+C[
+문제도18
+
+白 先  S
+
+흑을 잡는 문제.
+요령은 전과 동일.
+]AP[MultiGo:4.2.1]
+SZ[19]MULTIGOGM[1]
+;W[gs]C[
+마늘모로 공격하는것이 최선.]
+(;B[fp]C[
+최강의버팀수.];W[go]C[
+가만히 찌르는 수가 好着!
+이수로 흑이 잡히게 된다.]
+;B[fo];W[do]LB[em:A][fs:B]C[
+<정해도>  黑 死
+
+A B 맞보기로 죽은 모양.])
+(;B[fs]C[
+흑이 두점 잡으면.. 이후..];W[em];B[dm];W[en];B[dn];W[eo];B[do];W[fo]
+;B[go];W[fp];B[gp];W[fq]C[
+<변화도>  黑 死
+
+외길코스로 흑이 죽은 모양.]))

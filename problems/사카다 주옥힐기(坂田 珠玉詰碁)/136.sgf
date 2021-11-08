@@ -1,0 +1,23 @@
+(;AB[ba][bb][cc][cd][de][df][ef][ff][gf][hf][ie][id][ic][hc][hb][fd]AW[cb][dc][dd]
+[ed][ee][fe][ge][he][hd][gc][fb]C[
+문제도136  예상 밖의 好手
+
+黑先白死  B
+
+너무 쉽게 잡으려고 하면 패가
+나게 된다.
+첫수가 키포인트.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]LB[gb:A][db:B]C[
+붙이는 수가 好手!
+이수로 A 에 두면 백 B 로 패가
+된다.]
+;W[da]C[
+최강의 버팀수. 하지만..];B[gb];W[fc];B[eb];W[ea];B[db];W[ec];B[db]C[
+<正解圖>  白死
+
+옥집으로 유도되어 백이 죽게 
+된다.]
+N[正解])

@@ -1,0 +1,27 @@
+(;AB[ca][cc][db][ea][ec][fc][fd][gd][hd][ic]AW[bb][cb][bc][dd][dc][ee][ff][he][ie]
+[id][hc][jc][kc]C[
+문제도101  殺身成仁  
+
+黑先패  C
+
+사석전법으로 活路를 구한다.
+백의 반격수단도 고려해야 된다.
+
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ib]C[
+사석작전 ☞ 1단계];W[hb];B[ia]LB[ha:A][jb:B][gb:C]C[
+사석작전 ☞ 2단계
+이장면에서 백이 A 나 B 에 두면 
+흑은 C 에 붙여 그냥 살게 된다.
+]
+;W[gb]C[
+최강의 반격수..];B[ga];W[fb]LB[eb:A][gc:B]C[
+이수에 대해 A 에 이을수는 없다 
+백 B 로 오궁도화가 된다.]
+;B[gc];W[eb];B[ha]C[
+<正解圖>
+
+패가 되는것이 최선.]N[正解])

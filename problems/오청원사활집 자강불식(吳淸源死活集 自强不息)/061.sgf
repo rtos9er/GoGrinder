@@ -1,0 +1,17 @@
+(;AB[qc][rd][ob][oc][od][oe][pf][qf][qe][rg][qh]AW[rf][re][pe][pd][qd][rc][pc][pb]
+C[
+第61題 明修棧道 명수잔도
+
+< 黑 先 패 >
+
+백의 약점을 추궁하여 패를 
+만들어 보자.
+흑의 연타공격이 奇妙하다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[qb];W[pa];B[sd]
+(;W[rb];B[sb];W[sa];B[ra];W[qa];B[sc];W[sa]C[
+패가 되는것이 正解.]N[正解])
+(;W[sc]C[
+백이 두점을 잡는 수는 잘못];B[qa];W[se];B[rd];W[sd];B[oa];W[rd];B[rb]
+;W[sb];B[ra]C[
+오궁도화로 죽어 버린다.]))

@@ -1,0 +1,26 @@
+(;GM[1]FF[3]PL[B]C[Black to play and live.]SZ[19]AW[bo][co][dp][cq][dq][fq]AB[bp][cp][bq][cr][dr];W[er]
+(;B[br]
+(;W[ds]
+(;B[cs];W[ap]
+(;B[aq];W[as])
+(;B[as];W[aq]))
+(;B[ap]
+(;W[ar]
+(;B[cs];W[as])
+(;B[as];W[cs]))
+(;W[cs];B[bs];W[ar])))
+(;W[ap]
+(;B[aq];W[ds]
+(;B[cs];W[as])
+(;B[as];W[cs]))
+(;B[ds]
+(;W[bs]
+(;B[aq];W[as])
+(;B[as];W[aq]))
+(;W[aq];B[ar];W[bs]))))
+(;B[ar];W[bs];B[ap]
+(;W[ds])
+(;W[br]))
+(;B[bs];W[ar];B[ds]
+(;W[ap])
+(;W[br])))

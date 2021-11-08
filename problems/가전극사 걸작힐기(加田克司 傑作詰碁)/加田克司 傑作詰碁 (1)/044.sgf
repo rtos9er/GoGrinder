@@ -1,0 +1,18 @@
+(;AB[ds][es][fr][fq][fp][ep][dp][cp][bp][bq][ao]AW[cr][cq][dq][eq][er][an][bo][cn]
+[do][eo][fo][go][gp][gq][gr][gs][fs]C[
+문제도44
+
+黑 先  B
+
+흑을 살리는 문제.
+패가 되면 실패
+그냥 살려야 한다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[br]LB[bs:A]C[
+그냥 미는 수가 좋다.
+이수로 A 에 두면 패가 된다.];W[bs];B[ar]
+C[
+<정해도>  黑 生
+
+빠지는 수로 흑이 살게 된다.])

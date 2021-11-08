@@ -1,0 +1,21 @@
+(;AB[gl][gk][kj][lj][li][kh][jh][ii][hj][jk][il][im][hm]AW[lg][gi][ih][hh][jg][kg]
+[lh][mi][mj][mk][ll][kl][jm][jn][in][hn][gm][fm][fl][fk][gj]C[
+문제도2
+
+白 先  C
+
+흑을 잡는 문제.
+위아래 비슷하게 보이나 공배가
+차이가 난다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[hk]LB[ji:A][ij:B][hi:C][ik:D]C[
+아래쪽에서 단수치는 수가 정확
+흑이 A 로 버티면 백 B 흑 C 백 D
+로 흑이 죽게 된다.
+아래쪽 공배가 하나 적은것이
+포인트. 
+]
+;B[hl];W[ji];B[ki];W[ij]C[
+<정해도>  黑 死
+
+정확한 수순으로 흑이 죽었다.])

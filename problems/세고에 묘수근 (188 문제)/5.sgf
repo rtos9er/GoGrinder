@@ -1,0 +1,9 @@
+(;AB[dp][dq][ep][fp][fq][gr][hp][jq][co][cj][ej]AW[eq][fr][er][dr][cq][cp][cl][dn]
+[cn]C[黑先
+
+如果黑直接a位粘，则白棋渡过]LB[do:a]AP[MultiGo:3.7.0]SZ[19]
+
+(;B[bo]C[直接立下，好像不行！];W[do];B[cr];W[br];B[cs];W[bs];B[bq];W[ds];B[cr];W[cs]
+;B[bp];W[cr])
+(;B[cr];W[br];B[bq];W[bp];B[bo];W[aq];B[do])
+(;B[cr];W[bo];B[bq];W[bp];B[br];W[do]))

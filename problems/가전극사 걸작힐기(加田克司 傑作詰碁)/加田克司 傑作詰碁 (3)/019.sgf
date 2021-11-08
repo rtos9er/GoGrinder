@@ -1,0 +1,17 @@
+(;AB[cr][dr][dq][eq][fr][gp][hp][hq][hr]AW[er][cs][br][bq][cq][co][dp][ep][fo][go]
+[ho][io][jp][jq][ir][is]C[
+문제도19
+
+白 先  B
+
+흑을 잡는 문제.
+수순의 묘가 필요.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[es];B[fs];W[fq];B[ds];W[er]C[
+먹여치기가  좋은 수.
+흑을 자충으로 유도.];B[es]
+;W[hs];B[fp];W[gr]C[
+<정해도>  黑 死
+
+백의 정확한 공격수순으로
+흑이 죽은 모양.])

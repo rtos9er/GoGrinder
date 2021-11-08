@@ -1,0 +1,23 @@
+(;AB[ba][bc][bd][be][bf][ce][dd][ed][fd][gd][hd][hc][hb][gb]AW[ad][ac][ab][bb][cc]
+[cd][dc][ec][fc][fb][gc]C[
+문제도129  자충유도수순  
+
+黑先白死  C
+
+첫수가 긴요하다.
+자충으로 유도하는 수순을 
+찾아라.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]LB[ea:A][cb:B]C[
+젖히는 수가 妙着!
+
+이모양에서 A 에 막으면 흑은 B];W[da]
+C[
+최대한의 버팀수.];B[ea]C[
+가만히 치받는수가 좋다.];W[ca];B[eb]C[
+<正解圖>  白死
+
+마무리 결정타.
+백이 자충에 걸려 죽은 모양.]
+N[正解])

@@ -1,0 +1,175 @@
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[da][db][eb][ia][ib][jb][nb][na][ob]AW[ea][fb][gb][ga][ja][kb][lb][la][oa][pb][qb][qa]L[fa][ka][pa]C[A, B, C 세 곳에 각각 흑집 1/3집 씩 존재.
+A, B, C에 두는 수의 가치는 1/3집.
+선후수 관계없이 흑 1집 승.]
+(;B[fa];W[ka];B[ea]
+;W[pa]C[흑 1집])
+(;B[dd];W[fa];B[ka];W[pa]
+;B[ja]C[흑 1집]))
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ea][eb][ec][fc][ka][kb][kc][lc]AW[gb][hb][fb][gc][hc][ha][lb][mb][mc][nc][nb][na]L[fa][ga][la][ma]C[B, D의 곳에 백집이 각각 1/2집 씩 존재.
+A, B의 곳에 두는 수의 가치는 1/2집.
+현 상태로 백1집 승.]
+(;B[fa]
+;W[la]C[백집 1집])
+(;B[ee];W[fa]
+;B[la]C[백집 1집]))
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ja][jb][jc][da][db][dc][ec][fa][jd][kd][ka][lb]AW[ga][gb][fb][fc][gc][la][ma][mb][mc][lc][ld][md]L[ea][eb][kb][kc]C[A, C에 각각 백집 2/3집 존재.
+흑과 백이 A,B,C,D에 두는 수의 가치는 2/3집];W[ea]
+;B[eb]C[백과 흑 각각 2/3집 짜리를 둠.
+백 선수 끝내기 이득 (2/3 집)
+현재 흑집 1/3 집, 백집 2/3 집 존재
+이제 1/3집 끝내기만 남았다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[fa][fb][fc][gc][ha][la][lb][lc][mc]AW[ia][ib][ic][hb][hc][ma][oa][ob][oc][nc][nb]L[ga][gb][mb][na]C[흑, 백 C는 2/3집 짜리 수.
+백집 1/3 집 존재.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ha][ia][ja][ka][kb][kc][kd][ke][je][jd]AW[jc][hb][hc][hd][he][ie]L[ib][ic][id][jb]C[흑집 2/3집 존재.
+B (-> A ->D 세트)나
+C 는 2/3집 짜리 수];B[ic]
+;W[ib]C[생략할 수 없는 더 큰 수 (1과 2/3).
+흑이 이곳에 두면 흑집 3집이 생긴다.
+애초에 흑집 2/3집 + 현재 둔 흑 수의 가치 2/3집 + 이곳에 흑이 두면 = 3집 이므로, 이곳에 흑, 백이 두는 수의 가치는 1과 2/3집 번다.
+처음 둔 흑보다 1집을 더 버는 수.
+합리적 대국자라면, 흑이 2/3집 버는 곳보다 더 큰 곳이 없었기에 이곳에 둔 것이므로, 백은 이곳을 두어야 한다.];B[jb]C[2/3 짜리 수.
+이후 흑이 잇거나, 백이 단수 치는 수도 2/3집 짜리 수.
+현 상태로 흑집 1/3집 존재])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[kb][la][ma][mb][mc][md][ld][lc]AB[ia][ja][ka][jd][kc][id][ic][kd][ib]L[jb][jc][lb]C[A의 곳은 2/3집의 가치.
+흑에게 2/3집 존재.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ga][ha][ia][ja][jc][ic][id][hd][gd]AW[jb][ka][la][lb][lc][ld][kd][jd][kc]L[hb][ib][kb]C[B는 2/3집 짜리 수.
+흑집 2/3집 존재.];W[ib]C[세];B[hb]C[반드시 두게 된다.
+따내는 수가 더 많이 버는 수이기 때문.];W[kb]C[반드시 두게 된다.
+따내는 수가 더 많이 버는 수이기 때문.
+여기까지 세트.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ia][ib][jb][jc][jd][ic][id][ka]AW[kb][lb][kc][lc][mc][nc][kd][ld][md][nd]L[ja][la][ma]C[흑 B에 두면, 백 C, 흑 A까지가 셋트이고 이곳은 중립상태가 된다.
+셋트인 이유는 백이 다음에 A에 두어 따내는 수가 더 많이 버는 수이기 때문이다.
+B는 2/3집 짜리 수.
+애초에 백에게 2/3집 존재.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[bb][cb][cc][dc][dd][cd][bd][ad]AB[ab][ac][ba][ca][ed][ec][eb][db][fb][fc][fd]L[aa][da][bc]C[1수에 2/3집 버는 수.
+애초에 백에게 2/3집 존재.];W[bc]
+(;B[ff]C[흑의 정수.];W[aa]
+;B[ab]C[백이 따내는 수가 크므로, 여기까지 세트.];W[ac]
+;B[da]C[1수에 2/3집 버는 수.
+애초에 백에게 2/3집 존재.])
+(;B[da]C[흑의 손해수.
+백의 선수 끝내기를 인정해 주는 꼴.];W[aa]
+;B[ab]C[백의 선수 1집 이득.]))
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[da][db][dc][bb][bc][cc][cd][ce][ha][hb][ic][hd][id][jd][he][ge]
+[fe][ee][de][if][md][od][pd][qd][rd][re][qf][qg][qh][rh][sh][og]
+[pg][of][ne][nf][le][lf][mf][mh]AB[ba][ca][ab][ac][bd][be][bf][cf][cg][ch][bh][ah][sb][rb][rc][sd]
+[qc][pc][oc][nc][nd][nb][kb][lb][mb][kc][kd][ld][jc][ia][ib][hf]
+[hg][ig][jf][kf][kg][kh][hh][hi][ii][ji][li][ki][nh][oh][ph][mi]
+[ni]L[aa][ad][cb][lc][mc][me][ie][je][lg][mg][ng][sc][se][sf]C[형세 판단.
+백 상변 14 + 우변 7 = 21집.
+흑 좌변 4 + 상변 14 + 중앙 3 = 21집.
+A,B,C 에 백 2/3집.
+G,H 에 흑 2/3집.
+D,E,F에 흑 2/3집.
+I,J,K에 흑 2/3집.
+L,M,N에 백 2/3집.
+전체 집을 세어보면,
+흑 21집 + 2/3 + 2/3 + 2/3 = 23집
+백 21집 + 2/3 + 2/3 = 22집과 1/3집
+즉, 흑이 2/3집 두터운 형세.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[gc][fc][fd][ed][dd][da][ea][fa][ga][ka][la][ma][kb][kc][lc][mc]AW[id][ic][ib][ia][ha][gb][hc][hd][gd][lb][mb][na][oa][ob][oc][nc]L[eb][fb][hb][nb]C[백B, 흑A이후 백이 손을 빼면 안된다.
+애초에 이곳에 흑에게 2/3집이 존재하고, 서로 2/3집 끝내기를 한 번씩 한 상태이다. 즉, 오른쪽 모양이 되는 셈이다.
+오른쪽의 모양은 흑에게 1집이 존재하고, 각각의 수가 1집을 번다.
+애초에 백이 왼쪽의 그림에서 2/3집 버는 끝내기를 하였다는 것은 2/3집 버는 곳보다 큰 곳이 없다는 뜻이다. 그런데 손을 빼서, 흑에게 오른쪽 그림과 같은 1집 버는 끝내기를 넘겨 주는 것은 이치에 맞지 않는다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ja][ib][ic][id][ha][hb][hc][hd]AW[jb][kb][jc][kc][lc][mc][jd][kd][ld][md]L[ia][ka][la]C[흑B, 백C를 교환하고, 흑은 A를 반드시 두어야만 한다.
+곧, 세트라는 말.
+2/3집 짜리 수.
+백집 2/3집 존재.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ab][ac][ba][ca][da][db][eb][fb][ec][fc][ed][fd]AW[bb][cb][cc][dc][ad][bd][cd][dd]L[aa][bc]C[백 B는 아무때나 두면 안 된다.
+팻감이다.];W[bc]C[흑이 안 받은 경우를 고려해본다.
+이런 백의 후수 끝내기는 1집 번다.
+따라서 1집 버는 곳보다 큰 곳이 남아있는 상태에서 무심코 백이 이곳을 단수친다면, 흑은 이곳을 무시하고 다른 큰곳으로 손을 돌려야 하는 것이다.];B[ef]
+;W[aa]C[백이 연결하는 수가 2집 버는 수이므로 먼저 끝내기보다 가치가 커진 상태라서, 흑은 되따는 수를 생략할 수가 없다.];B[ab]C[여기까지가 세트.
+백의 선수 한집 끝내기.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[gb][gc][hc][ic][jc][kc][lc]AW[db][fb][fc][ga][hb][ib][gd][hd][id][jd]
+(;B[jb];W[ha]
+(;B[le];W[ja];B[ka];W[ke]
+;B[ia]C[흑 선수];W[fa]C[백 1/3 집.])
+(;B[ja]C[이곳을 바로 두지 않으면 1/3집 손해보게 되는데, 가장 작은 끝내기]))
+(;B[ha];W[ia];B[jb];W[fa];B[ja]
+;W[ha]C[백 1]))
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[jb][jc][ic][hc][gc][fc]AB[kb][kc][lc][mc][nc][oc]L[ia][ja][ka][la]C[A,B,C,D 모두를 공배로 본다.
+집이 존재하지 않는다.
+젖히는 쪽이 1집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[jc][kc][lc][mc][nc][oc][kb]AW[ic][hc][gc][fc][ec][dc][hb][jb][ia]L[ib][ja][ka][la]C[A,B,C,D의 곳을 모두 공배로 본다.
+흑, 백 모두 C의 곳에 먼저 두는 쪽이 한 집을 번다.]
+(;B[ka];W[lh];B[ja];W[ib])
+(;B[kf];W[ka];B[la];W[ja]))
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[jc][kc][lc][mc][nc][oc][kb]AW[jb][ia][hb][ic][hc][gc][fc][ec][dc][ib]L[ja][ka][la]C[백B, 흑 C로 될 곳.
+A,B,C에 흑집이 1/3집 존재.];W[ka];B[la])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]L[ae][ad][ac][ab][jb][ka][la][ma][sb][sc][sd][se]C[좌우변은 젖히는 수로 상황이 종결.
+상변은 흑의 입장에서 일단 내리고,
+나머지 선수 권리를 행사하는 두 단계의 끝내기.
+이 끝내기는 두단계에 걸쳐서 1집을 버는 구조이기 때문에 (후수 + 선수권리행사), 이 때 백이 곧바로 받아주게되면 (즉, 백이 서로 1집버는 끝내기의 수를 짝수개로 만들어 버리면), 나머지 1집을 버는 끝내기 두 곳을 서로 나눠갖게되어, 흑에게 아무런 이득이 없게 된다.
+흑은 변의 끝내기를 먼저하고, 상변 내려서는 끝내기는 최대한 미뤄야 한다.]AB[bd][cd][ce][cf][cg][ch][ci][lb][qb][kc][lc][mc][nc][oc][pc][qc]
+[rc][bp][cp][co][cn][cm][cl][ck][kq][rq][qq][pq][oq][nq][mq][lq]
+[lr]AW[jc][kb][ja][ib][cb][bc][cc][dc][ec][fc][gc][hc][ic][qd][rd][qe]
+[qf][qg][qh][qi][jq][jr][iq][hq][gq][fq][eq][dq][cq][bq][ir][kr]
+[qp][rp][qo][qn][qm][ql][qk];B[ls]C[흑 손해 수.
+젖혀야 한다.];W[ks];B[sp];W[so];B[sq];W[ap];B[ao];W[aq])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[gc][hc][gd][ge][he][id][jd]AW[ic][jc][kc][kd][ke][ie][je]L[hd]C[백 1집 존재.
+A 주변에 두는 수는 모두 1집 버는 수.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[fd][gd][hd][fe][ff][gf][hf][ie][je]AW[id][jd][kd][ke][kf][jf][if]L[ge][he]C[백 1집 존재.
+A 주변에 두는 수는 모두 2집 버는 수.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ga][ha][ia][ib][gc][hc][ic][jc][kc][lc][mc][mb]AW[ec][eb][ea][fa][gb][hb][fc][nb][nc][oc][pc][qc]L[fb][la][ma][na][oa]C[흑선이면 A부터.
+백선이면 무조건 A를 피해야.
+이러한 끝내기 순서는, 두는 쪽에서 가장 큰 끝내기들의 갯수를 홀수로 만들어, 자신이 마지막 큰 끝내기를 하려는 것에 목적이 있다.
+백 둘 차례에 1집 버는 끝내기가 한군데 더 있다면, 이번엔 무조건 A를 두어야 한다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[jc][jb][ja][ka][lb][kc][cb][ca][cc][dc][da][eb][fa]AW[na][nb][mb][mc][lc][fb][ec][ga][gb][fc][la]L[db][ea][kb][ma]C[모두 1집 버는 수.
+중립 상태.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ja][jb][kb][kc][lc][la][mb]AW[na][nb][nc][mc]L[ka][lb][ma]C[흑이 C에 두면 2집 생긴다.
+백이 C를 두면 중립상태.
+A의 곳에 흑집이 1집 존재.
+A, b, c 는 1집 버는 수.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[aa][bb][ac][ca][da][cc][dc][db]AB[ad][bd][cd][dd][bc]L[ab][ba][cb]C[흑이 패를 해소하려면 4번을 두어야 5집이 생긴다.
+백은 A에 두면 2집 생긴다.
+도합5수로 끝나는 곳이므로 분모 5,
+흑은 4번을 모두 두어야 하므로 1/5의 권리를 갖고, 5집이 생기므로 1/5 x 5 = 1 집이 생기고, 백은 1번을 두어야 하므로 4/5의 권리를 갖고, 2집이 생기므로 4/5 x 2 = 8/5집이 생긴다. 따라서 이곳에서 백에게 그 차이인 3/5집이 존재한다.
+백이 A에두면 2집이 생긴다. 이곳에 이미 백에게 3/5집이 존재하므로, 2 - 3/5 = 1과 2/5집을 번다.
+흑은 4번을 모두 두면 5집이 생긴다.5와 3/5집을 4번에 걸쳐서 만들었으므로, 1수에 1과 2/5집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ab][bc][ad][bd][cd][dd]AW[aa][bb][db][da][ca][dc][cc]L[ac][ba][cb]C[백이 2번 두어 3집이 생기므로, 3/5 x 3 = 9/5집이 생기고,
+흑이 세번 두면 4집이 생기므로, 2/5 x 4 = 8/5집이 생긴다.
+따라서 이곳에 백에게 그 차이인 1/5집이 존재.
+이곳은 1수 투자하면 1과 2/5집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ba][ab][bc][ad][bd][cd][dd]AW[bb][cc][dc][db][da][ca]L[aa][cb][ac]C[백이 세번 두어 4집이 생기므로, 2/5 x 4 = 8/5집이 생기고,
+흑이 두번 두어 3집이 생기므로,
+3/5 x 2 = 9/5집이 생긴다.
+따라서 이곳에 흑에게 그 차이인 1/5집이 존재한다.
+마찬가지로 1수 투자에 1과 2/5집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ba][cb][bc][ab][ad][bd][cd][dd]AW[ca][da][db][dc][cc]L[aa][bb][ac]C[흑이 한번두어 2집이 생기므로, 4/5 x 2 = 8/5 집이 생기고,
+백이 네번두어 5집이 생기므로, 1/5 x 5 = 1집이 생긴다.\\
+따라서 이곳엔 흑에게 그 차이인 3/5집이 존재한다.
+1수 투자에 1과 2/5집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[ea][eb][ec][fc]AB[fa][fb][ha][hb][hc][gc]L[ga][gb]C[펏감의 크기.
+애초에 흑에게 2집 존재.
+백이 a,b를 두면 백에게 4집 생긴다.백이 두번 두어 6집 번다.
+백은 1수 투자에 3집을 번다.
+백A에 두어서 3집을 벌었다. 이곳에 백집이 1집 존재한다. 흑이 b에 두면 흑집이 2집 생긴다. 따라서 흑이 B로 응수하는 수도 3집을 번다.
+이곳에 두는 수는 모두 3집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[da][ea][db][dc][ec][fc]AB[eb][fb][fa][gc][hc][hb][ha]L[ga][gb]C[흑집 2집 존재
+백이 a, b를 두어 6집이 생긴다.
+백이 두번 두어 8집을 번다.
+백의 1수 투자에 4집을 번다.
+백이 a에 두어서 4집을 벌었다. 이곳에 백집이 2집 존재한다. 흑이 b에 두게되면 흑집이 2집 생긴다. 따라서 b로 응수하는 수도 4집을 번다. a, b는 모두 4집 버는 수.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[da][db][dc][ec][fc]AB[eb][ea][fa][fb][gc][hc][hb][ha]L[ga][gb]C[흑집 2집 존재.
+백이 a,b를 두어 8집 생긴다.
+백이 두번 두어 10집을 번다.
+백의 1수 투자에 5집을 번다.
+백이 a에 두어서 5집을 벌었다. 이곳에 백집이 3집 존재한다.
+흑이 b에 두게되면 흑집이 2집 생긴다. 따라서 흑이 b로 응수하는 수도 5집을 번다. ab는 모두 5집을 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AW[ea][eb][ec][fc][gb]AB[fa][fb][gc][hc][hb][ha]L[ga]C[규칙성.
+흑돌이 2개, 백돌이 1개, 이 차이만큼 백집이 존재. 백집이 1집 존재.
+흑돌이 2개, 백돌이 1개, 이 합친 갯수 만큼 번다. 1수에 3집씩 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[fa][fb][gb][gc][fc][hb]AW[ga][ia][ib][ic][hc]L[ha]C[깔끔하게 따내는 끝내기.
+흑집 1집 존재.
+A는 1집 버는 수.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ga][gb][gc][gd][hd][hc][ic][ib]AW[ha][hb][ja][jb][jc][jd][id]L[ia]C[흑집 2집,
+한 수에 2집 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ea][eb][ec][ed][fc][fd][hb][hc][gc]AW[fa][fb][gb][ha][ia][ib][ic][id][gd][hd]L[ga]C[흑집 3집 존재,
+한 수에 3집씩 번다.])
+(;GM[1]FF[4]AP[Drago:4.22.03]SZ[19]CA[UTF-8]AB[ea][eb][ec][fc][fb]AW[fa][gb][gc][hc][ic][hb]L[ga][ha][ia]C[백 a에두면 백집 2집 생긴다.
+흑이 a에두면 흑집이 1집 생기고, 이곳에 백집이 2/3집 존재하고, 흑b, 백c 모두 2/3집 번다.
+흑이 a에두면 흑집이 1/3집 존재.
+백이 a에 두면 백집이 2집이 생기므로, 이 모양에서 백집 5/6집 존재.
+흑백 a에 두는 수는 1과 1/6 버는 수.
+1선 젖혀잇는 끝내기가 왜 젖히고 잇는 것이 세트인지를 증명하는 결과. 젖혀만 놓고 손빼는 것은 그 자체로 벌써 1/6집을 손해보는 것. 1집 버는 곳을 상대방에게 1과 1/6집 버는 곳으로 바꾸어 주었기 때문이다.])

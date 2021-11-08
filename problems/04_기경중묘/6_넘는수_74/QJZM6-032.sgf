@@ -1,0 +1,11 @@
+(;GM[1]FF[3]AB[gr][cr][gq][dq][gp][fp][dp][go][co][cn][em][dm]AW[hr][dr][iq][fq]
+[eq][ep][io][fo][do][hn][gn][en][dn][fm]PL[B]C[Black to play and connect underneath.]
+AP[MultiGo:3.9.4]SZ[19]
+
+(;B[er]TR[er];W[fr];B[es];W[fs];B[ds];W[gs])
+(;B[ds]C[好手]TR[ds];W[fs];B[fr];W[er];B[gs]C[联络])
+(;B[fs]TR[fs];W[er])
+(;B[es]
+(;W[er];B[ds];W[fs];B[cs];W[fr];B[gs])
+(;W[ds];B[er];W[fr];B[cs])
+(;W[fs]C[成劫])))

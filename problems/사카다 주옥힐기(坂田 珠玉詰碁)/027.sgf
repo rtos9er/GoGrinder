@@ -1,0 +1,27 @@
+(;AB[bb][cc][dc][ec][fc][fb][gb]AW[db][ab][bd][cd][cf][ed][fd][gd][gc][hb][ha]C[
+문제도27  두눈 만들기
+
+黑先活  B
+
+무조건 살려야 한다.
+패나면 안됨.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[da]C[
+붙임이 삶의 급소.
+
+이장면에서 백의 수로는
+A B C 세가지 정도.]
+(;W[ca];B[ea];W[cb];B[bc];W[ac];B[ga]C[
+<正解圖1>
+
+完生]N[正解])
+(;W[ea];B[ca];W[eb];B[ac];W[bc];B[aa]C[
+<正解圖2>
+
+完生])
+(;W[ga];B[eb]LB[ac:A][fa:B]C[
+<正解圖3>
+
+A 와 B 가 맞보기로 살았다.]))

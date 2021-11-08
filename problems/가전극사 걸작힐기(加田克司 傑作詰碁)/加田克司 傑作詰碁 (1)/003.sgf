@@ -1,0 +1,25 @@
+(;AB[br][cr][dp][ep][fp][er][fs][gr][gq]AW[bs][ar][bq][cp][bo][cn][do][fo][go][gp]
+[hq][hr][gs][jr]C[
+문제도3
+
+白 先  B
+
+흑을 잡는 문제.
+수순이 중요하다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[fq]C[
+먼저 끊는 수가 좋다.]
+(;B[fr];W[dr]C[
+끼우는 수가 妙着
+자충을 노린다.];B[dq];W[ds]C[
+<정해도>  黑 死
+
+흑이 자충으로 죽은 모양.])
+(;B[hs]C[
+흑이 한점 따면..];W[dq]C[
+젖혀서 흑이 잡히게 된다.];B[eq];W[dr]C[
+<변화도>  黑 死
+
+흑이 죽은 모양.]))

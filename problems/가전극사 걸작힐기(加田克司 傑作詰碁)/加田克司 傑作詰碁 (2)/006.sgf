@@ -1,0 +1,19 @@
+(;AB[fr][fs][bq][cq][dq][dr][do][fo][fp][gq][hq][hr]AW[br][is][fq][er][es][ds][cr]
+[as][aq][ap][bp][bo][cn][cm][em][fm][gm][hn][gp][hp][ip][iq][ir]C[
+문제도6
+
+白 先  A
+
+흑을 잡는 문제.
+사석전법으로 공격한다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[eq];B[cs];W[ep]C[
+키워서 죽이는 것이 포인트.];B[eo];W[hs];B[dp];W[eq]C[
+돌밑의 수가 발생한다.]
+;B[er];W[fq]C[
+좋은 수=> 옥집으로 유도한다.];B[ep];W[fq]C[
+<정해도>  黑 死
+
+돌밑의 수로 흑이 죽은 모양.
+
+])

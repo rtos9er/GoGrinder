@@ -1,0 +1,16 @@
+(;AB[bc][bd][ce][de][ee][fe][fd][ec][hd][hc][jc][kc]AW[cc][dd][ed][eb][fc][gc]C[
+문제도71  약점을 찌르는 방향
+
+黑先白死  C
+
+정확한 급소가격으로 백을 잡게 된다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[db]C[
+젖힘이 정확한 급소가격.];W[cb];B[fb]C[
+젖힘과 연관된 연타공격.];W[gb]
+;B[ea];W[dc];B[eb];W[fa]C[
+패도발을 시도해봐도..];B[ga];W[ha];B[hb];W[fa];B[bb]
+C[
+<正解圖>  白死
+
+죽음의 궁도가 되어 백이 죽었다]N[正解])

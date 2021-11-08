@@ -1,0 +1,14 @@
+(;AB[go][ho][ip][jp][jn][im][hm][gl][fl][ek][bm][bl][dl][dm][en][eo][dq][dp]AW[bn]
+[cn][dn][cp][cq][em][fm][gm][gn][hn][in][io][fq]C[白先
+
+白棋被分割为三块，似乎不得不舍弃左下5子！]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[gp]C[不是正解，但是黑如果应发不对，也会中招];B[fp];W[fo];B[fn];W[hp];B[fo];W[do]
+;B[ep];W[dr])
+(;W[gp]C[不是正解];B[hp];W[fo];B[fn];W[fp];B[jo];W[do];B[ep];W[dr];B[el];W[er])
+(;W[gp]C[不是正解];B[hp];W[fo];B[fn];W[ep];B[fp];W[eq];B[do];W[dr];B[gq];W[co];B[fo]
+;W[gr];B[fr];W[er];B[hr];W[fs])
+(;W[fo]C[正解];B[fn];W[hp];B[fp];W[gp];B[fo];W[do];B[ep];W[dr])
+(;W[fo]C[正解];B[fp];W[gp];B[fn];W[hp];B[fo];W[do];B[ep];W[dr])
+(;W[gp];B[fo];W[hp];B[er];W[cr];B[dr];W[fr];B[jo]))

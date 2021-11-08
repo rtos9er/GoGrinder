@@ -1,0 +1,19 @@
+(;AB[ra][rb][rc][rd][qd][pd][od][nd][md][mc][lb][kb]AW[mb][nb][nc][oc][pc][qb][lc]
+[jc][ic][ld][me][ne][oe][pe][qe][re]C[
+제172문 名醫細心 명의세심
+
+< 黑 先 패 >
+
+첫수는 당연한데 다음수가 문제.
+통속적인 수읽기는 흑이 잡히게 됨으로 주의할것.
+細心한 수읽기를 하자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[pb];W[pa]
+(;B[oa]C[
+이수가  아니면 흑은 죽는다.
+유일한 수.];W[ob];B[qa];W[na];B[qc])
+(;B[qa];W[oa]C[
+흑이 그냥 단수치는 수는 백이 
+느는수가 좋다.];B[qc];W[jb];B[qb]
+;W[kc];B[ob];W[ma]C[
+흑이 잡힌 모양.]))

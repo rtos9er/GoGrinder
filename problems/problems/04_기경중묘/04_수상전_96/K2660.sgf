@@ -1,0 +1,19 @@
+(;GM[1]FF[3]PL[B]C[Black to play and win the capturing race.]AP[MultiGo:3.9.3]SZ[19]AB[cr][br][dq][dp][cn][bm]AW[bo][bq][cq][dr][er][fq]
+(;B[bp];W[cp];B[co];W[ap];B[ar]
+(;W[aq];B[an];W[bn];B[am])
+(;W[cs];B[aq]))
+(;B[cp];W[bp]
+(;B[co]
+(;W[cs];B[bn];W[bs])
+(;W[ar]))
+(;B[ar]
+(;W[cs];B[co];W[bs];B[bn]
+(;W[ds];B[ao];W[as])
+(;W[aq]))
+(;W[aq];B[co];W[cs];B[bn];W[bs])))
+(;B[aq]
+(;W[ap];B[ar]
+(;W[cs];B[bp];W[cp];B[co])
+(;W[bp]))
+(;W[ar];B[as];W[ap];B[bp];W[ar])
+(;W[bp];B[bn];W[ar];B[as];W[cs];B[co];W[ds])))

@@ -1,0 +1,25 @@
+(;AB[hs][gs][br][bq][cq][dr][eq][es][fp][gp][hp][ip][hr]AW[bs][ir][gr][gq][cs][ar]
+[aq][bp][bo][dp][dq][ep][en][fo][gn][hn][io][jp][jq][jr]C[
+문제도38
+
+白 先  B
+
+흑을 잡는 문제.
+패가 나지 않게 잡아야 하는것이
+이문제의 포인트.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[fr]C[
+파호하는 수는 당연.
+성급하게 A 자리에 단수치면 
+패가 된다.];B[fq]C[
+흑이 이자리에 받는 것은 절대.
+다른자리에 두면 백이 이곳에 두는 순간 오궁도화가 된다.]
+;W[ds]C[
+1선에서 찝고들어가는 수가 
+절묘!];B[cr];W[hq];B[iq];W[is];B[as];W[fs]
+;B[ap];W[aq]C[
+<정해도>  黑 死
+
+백의 정확한 공격으로 흑이
+죽은 모양.])

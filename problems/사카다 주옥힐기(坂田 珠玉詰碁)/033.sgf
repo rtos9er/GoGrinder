@@ -1,0 +1,26 @@
+(;AB[ba][bb][bc][cd][dd][ed][fd][gd][hc][ic][ib][ja][kc][kd][lb][eb]AW[cb][cc][dc]
+[ec][fc][fb][gc][hb][ha][ia][jb]C[
+문제도33  미로속의 변화
+
+黑先패  B 
+
+정확한 수순으로 패를 만들어
+보자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[da]C[
+먼저 마늘모 하는수가 정확한 
+수순.]
+(;W[db]C[
+그냥 단수치는수가 정수.];B[fa]C[
+<正解圖>
+
+패가 되는 것이 최선.]N[正解])
+(;W[ca]C[
+<변화도>
+
+백이 바로 막는수는 무리.];B[fa]C[
+젖혀서 죽음의 궁도로 유도.]
+;W[ka];B[ga];W[gb];B[la]C[
+백이 잡힌 모양.]))

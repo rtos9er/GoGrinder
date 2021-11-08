@@ -1,0 +1,29 @@
+(;AB[ed][na][cb][db][dc][cd][hg][ee][dg][eh][fh][gg][gb][ig][jf][je][ie][id][jd]
+[jc][kc][lc][kb][mb][nc][ob]AW[da][eb][ec][fc][fd][fe][ff][gf][hf][if][he][hc][ib]
+[lb][jg][kg][kf][ke][kd][ld][md][mc]C[
+문제도182  實戰的手法
+
+黑先패  B
+
+정확한 수순이어야 패가 된다.
+조금이라도 어긋나면 살게 된다.
+실전적인 공격으로 백을 요리
+하자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[hb]LB[ia:A]C[
+먼저 찝는수가 수순.
+먼저 찔러두고 찝는것은 백이
+A 에 빠져서 실패.
+
+※한치라도 수순이 어긋나면 
+    백이 살아 버린다.]
+;W[ic];B[hd];W[gd];B[ia]C[
+젖히고..];W[ja];B[gc]C[
+끊는수가 실전적인 好手段.]
+;W[ha];B[ga];W[la];B[ia]C[
+<正解圖>  패
+
+흑의 정확한 공격수순으로 
+패가 된 모양.])

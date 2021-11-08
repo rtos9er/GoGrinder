@@ -1,0 +1,19 @@
+(;AB[cr][cs][dq][er][es][do][eo][fo][go][ho][ip][hq][gq]AW[cq][bs][br][cp][co][dn]
+[en][fn][gn][hn][in][jo][jp][iq][ir][hr][gr][fs]C[
+문제도51
+
+白 先  A
+
+흑을 잡는 문제 
+패가 되면 실패 
+그냥 잡는 수순을 생각해보자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[fq];B[fr];W[hp]C[
+먼저 먹여쳐 두는수가 좋다.
+중요한 수순.];B[gp];W[eq]C[
+결정타! ]
+;B[ep];W[dr];B[fp];W[ds]LB[eq:A][io:B]C[
+<정해도>  黑 死
+
+A 와 B 가 맞보기로 흑이 죽은
+모양.])

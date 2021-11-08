@@ -1,0 +1,23 @@
+(;AB[ab][bb][cc][bd][dd][ed][fd][fc][gd][hd][id][jd][kd][kc][kb][jb]AW[ba][cb][db]
+[ec][fb][gc][hc][ic][ib][jc][ja]C[
+문제도3  모양의 약점
+
+黑先패  C
+
+백모양의 약점에 정곡을 찌르는
+수가 있다.
+
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[eb]C[
+먹여치기가 천금의 급소!];W[ea];B[dc]
+(;W[ga]C[
+백은 패로버텨야 한다.];B[eb]C[
+<正解圖>]N[正解])
+(;W[eb]C[
+<변화도>
+
+백이 잇는수는 실패.];B[ga];W[ca];B[gb];W[ha];B[aa]C[
+양자충으로 죽게된다.]))

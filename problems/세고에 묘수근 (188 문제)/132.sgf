@@ -1,0 +1,9 @@
+(;AB[dn][co][bq][cq][eq][ep][dp][gp][gn][jm][ln][lo][lp][lq][lr]AW[ko][kp][kq][iq]
+[fq][dq][er][dr][cr][br]C[黑先
+
+如何分断白棋]AP[MultiGo:3.7.0]SZ[19]
+
+(;B[gr]C[这个黑1为什么不行呢？]
+(;W[gq];B[hq];W[hr];B[hp];W[fr];B[ir];W[gs])
+(;W[hr];B[gq];W[gs];B[fr];W[fs];B[jr];W[kr];B[ks];W[ar]))
+(;B[hq]C[正解];W[hr];B[gr];W[gq];B[hp];W[fr];B[ir];W[gs];B[jr]))

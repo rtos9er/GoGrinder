@@ -1,0 +1,16 @@
+(;AB[ar][bq][cq][cr][cs][cp][dp][fq][fr]AW[br][bs][aq][ap][bp][bn][co][do][eo][fp]
+[gp][gq][gr][gs]C[
+문제도28
+
+白 先  A
+
+흑을 자충으로 유도하여 잡는다
+
+]AP[MultiGo:4.2.1]
+SZ[19]MULTIGOGM[1]
+;W[eq];B[er];W[dr]C[
+흑을 자충으로 유도하는 수.];B[ep];W[ds]C[
+<정해도>  黑 死
+
+가만히 빠지는 수가 好手
+이수로 흑이 죽게 된다.])

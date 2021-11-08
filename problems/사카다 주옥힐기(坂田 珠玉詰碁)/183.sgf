@@ -1,0 +1,16 @@
+(;AB[ac][bc][cc][dc][ec][be][fb]AW[af][bf][cf][de][ed][fc][gc][hb][eb][db][ba]C[
+문제도183  귀의 테크닉 <1>
+
+黑先活  C
+
+흑이 정확하게 수순을 진행해야
+살아갈수 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[cb];W[gb];B[da];W[fa];B[bb]LB[aa:A]C[
+가만히 웅크리는 수가 好着!
+A 에 두어도 결과는 마찬가지.
+]
+;W[ce];B[aa];W[ab];B[ca]C[
+<正解圖>  黑生
+
+흑의 정확한 대응으로 살았다.]N[正解])

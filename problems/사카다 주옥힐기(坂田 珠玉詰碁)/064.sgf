@@ -1,0 +1,22 @@
+(;AB[ja][cb][bc][ce][cf][cg][dg][eg][ff][gf][he][hd][gc][hc][ic][ib][ec][ed]AW[db]
+[dc][dd][de][df][ef][fe][fd][fc][gb][hb][ia]C[
+문제도64  후절수의 맥
+
+黑先白死  B
+
+제일착이 문제해결의 열쇠.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]C[
+1선의 치중이 정해로 가는 코스.]
+(;W[ea];B[eb];W[da];B[fb];W[ee];B[ga];W[ha];B[fb]C[
+<正解圖>  白死
+
+후절수의 맥으로 백이 죽었다.]
+N[正解])
+(;W[fb]C[
+백이 잇는 수는..];B[da];W[eb];B[ea];W[jb]C[
+끊어 올때..];B[lb]C[
+이수가 妙着! 
+탈출을 저지하는 한수.]))

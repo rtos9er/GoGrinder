@@ -1,0 +1,22 @@
+(;AB[ab][be][bf][cf][df][de][dd][dc][ec][fc][gb][hb]AW[ce][cd][bd][bc][cb][db][eb]
+[fb]C[
+문제도191  波狀攻擊  
+
+黑先白死  C
+
+Dynamic 한 공격 <파상공격> 을
+하여 백을 잡아보자.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ad]C[
+젖히고 ~~];W[ac];B[bb]C[
+단수친 다음..];W[cc];B[fa]LB[ba:A]C[
+다시금 젖히면 백이 자충이 되어
+A 에 두어도 살수가 없다.]
+;W[ea]C[
+최대한도로 버티지만..];B[ca];W[ga];B[ba];W[ae];B[aa]C[
+<正解圖>  白死
+
+묘하게 백이 자충에 걸려 
+오궁도화로 죽게된 모양.]
+N[正解])

@@ -1,0 +1,32 @@
+(;AB[cd][ed][fd][ge][gf][hf][jg][kf][me][md][mc][mb][lb][ic]AW[gd][he][ie][je][jd]
+[jc][jb][kb][lc][ld]LB[gc:A][hb:B]C[
+문제도38  일망타진의 妙手
+
+黑先白死  A
+
+흑 A 에 단수치면 백 B 로 쉽게 살아 버린다.
+뭔가 특별한 수단이 강구되어야 한다.
+흑 1수 3수 연타공격의 妙手!
+
+ 
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[hb]C[
+공격의 妙手 ☞ 제1탄]
+(;W[fc]C[
+최강의 저항.];B[gb]C[
+연속적인 妙手 ☞ 제2탄];W[fb];B[gc];W[hd];B[ib]
+;W[dc];B[ec];W[eb];B[cb];W[db];B[cc]C[
+<正解圖>
+
+백이 전멸하다 ;;;]N[正解])
+(;W[gc]C[
+백이 차단해오면..
+이후 외길코스로 백전멸.];B[gb];W[fc];B[fb];W[ec];B[dc]
+;W[eb];B[ea];W[da];B[db];W[fa];B[hd];W[cb];B[hc];W[ea];B[ga];W[ca];B[cc];W[bb];B[bc]
+C[
+<백전멸>
+
+수수는 길지만 외길코스로 백이 
+죽게 된다.]))

@@ -1,0 +1,25 @@
+(;AB[bd][bf][cf][ce][cd][dd][dc][ec][eb][fc][gb]AW[bc][cb][db][ea][fa][fb][gc][hc]
+[ic][fd][ed][ef][bg][cg][dg]C[
+문제도163  手順의 妙
+
+黑先活  C
+
+흑을 살리는 절묘한 맥점이 있다
+백모양의 약점을 찌르는 정확한
+급소를 찾아라.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb]C[
+살짝 껴붙이는 수가 절묘한 수순
+이한수로 문제가 해결.]
+(;W[ab];B[ba];W[cc];B[da];W[ca];B[ga]C[
+<正解圖>  黑生
+
+백이 끝까지 잡으러 오면 
+다 잡고 살게 된다.]
+N[正解])
+(;W[ba];B[ab];W[ac];B[da];W[ca];B[ga];W[da];B[cc]C[
+<변화도>  黑生
+
+이모양도 백을 잡고 살게 된다.]))

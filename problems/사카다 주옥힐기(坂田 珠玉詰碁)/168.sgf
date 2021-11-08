@@ -1,0 +1,21 @@
+(;AB[ca][bb][bc][bd][dc][ce][de][ee][fd][gd][hd][id][ic][ib][ia]AW[cb][cc][cd][dd]
+[ed][ec][fc][gc][hc][hb][ha]C[
+문제도168  逆轉一發의 脈
+
+黑先白死  B
+
+백을 자충으로 유도하는 맥이
+있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[db];W[da];B[ea];W[fa]LB[fb:A][gb:B]C[
+백이 패를 하자고 붙였을때..
+이장면이 하이라이트.
+과연 흑의 다음의 한수는?
+A 로 단수치면 B 로 받아 패.]
+;B[ga]C[
+이곳에 먹여치기하는 수가 절묘.
+백을 자충으로 몰고 간다.];W[gb];B[eb]
+C[
+<正解圖>  白死
+
+백이 자충으로 몰려 죽은 모양.])

@@ -1,0 +1,18 @@
+(;AB[bb][bc][bd][dd][de][ee][fe][ge][he][hd][hc][ib][ia]AW[cb][cc][ed][fd][gd][gc]
+[fb][hb][ha]C[
+문제도84  俗脈의 活用
+
+黑先白死  B
+
+때로는 속된 수가 좋은 수가 
+되는 경우가 있다.
+이문제가 바로 그런 경우.
+실전적인 속수로 백을 잡아보자.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ec];W[dc];B[eb];W[ea];B[ga]C[
+실전적인 俗脈의 妙手!];W[gb];B[da];W[ca];B[fa]
+;W[ea];B[fa];W[db];B[ea]C[
+<正解圖>  白死
+
+백이 잡힌 모양.]N[正解])

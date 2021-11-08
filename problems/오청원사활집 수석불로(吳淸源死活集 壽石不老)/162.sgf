@@ -1,0 +1,25 @@
+(;AB[ra][qb][qc][oc][pd][pe][pf][pg][qh][qi][pj][rj]AW[rh][qg][qf][qe][qd][rc]C[
+제162문 六花消融 육화소융
+
+★  難解死活 ★  <黑 先 白 死 >
+
+여섯개의꽃이 사라지다.
+첫수가 조금 까다롭다.
+수순이 틀리지않게 세심하게
+공격해야한다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[sh]
+(;W[si]
+(;B[re]C[
+★ 먼저 치중하는 수가 수순 ★];W[rf];B[sg]C[
+뻗는수로 백이 잡히게된다.]
+;W[ri];B[sj];W[rg];B[rd])
+(;B[sg]C[
+이장면에서 흑이 뻗는수는..];W[sf];B[re]C[
+치중해봐도..];W[rg]C[
+살아버리게된다.]))
+(;W[sg];B[si];W[re];B[sc]LB[sd:A][se:B]C[
+붙이는 수가 정확한 공격.
+A 에 치중하면 B 에 막아 패가
+된다.]
+;W[sb];B[sd];W[rb];B[rg];W[rf];B[se]))

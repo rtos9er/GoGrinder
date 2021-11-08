@@ -1,0 +1,26 @@
+(;AB[dc][dd][de][df][dg][cg][bh][bf][be][fd][gd][hd][id][ic][ib][hb]AW[bg][cf][ce]
+[cd][cc][db][ec][fc][gc][hc][gb][ha]C[
+문제도86  귀의 치열한 공방
+
+黑先白死  A
+
+첫수는 눈에 들어온다.
+이후의 공방전에서의 완벽한 
+수읽기가 필요하다.
+마지막 한수까지 세심함이 중요.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb]C[
+급소자리의 치중은 당연.];W[cb];B[ab]C[
+뻗음이 좋은 수.
+다르게 연결하면 패에 걸린다.]
+;W[ca];B[ea];W[bc];B[ac];W[ad];B[bd];W[ba]C[.
+연단수로 안된다고 착각하기 
+쉬운 장면. 하지만..]
+;B[ae];W[aa];B[ag];W[ad]C[
+];B[ab]C[
+자충을 유도하는 교묘한 수.];W[ac];B[eb];W[fa]
+;B[ed]C[
+<正解圖>  白死
+
+양자충으로 백이 죽은 모양.]N[正解])

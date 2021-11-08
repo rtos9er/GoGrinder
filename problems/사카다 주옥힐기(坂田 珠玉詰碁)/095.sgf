@@ -1,0 +1,20 @@
+(;AB[bb][bc][cc][dc][ed][ee][fe][ge][he][hd][ic][jc][lc]AW[cb][db][eb][ec][fc][fd]
+[gd][hc]C[
+문제도95  패를 만드는 방법
+
+黑先패  B
+
+단순하게 두어도 패가 된다.
+흑이 가장 유리하게 패를 하는 
+방법은?
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gb]C[
+치중 한방 먹이고..];W[hb];B[ca]C[
+젖힘이 必殺의 맥.];W[ga];B[fa];W[ia]
+;B[ha]C[
+<正解圖>
+
+늘어진 패가 되는것이 정답.]N[正解])

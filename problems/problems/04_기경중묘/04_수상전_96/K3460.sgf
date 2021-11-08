@@ -1,0 +1,36 @@
+(;GM[1]FF[3]PL[B]C[Black to play and win the capturing race.
+(Guan Zi Pu)]AP[MultiGo:3.9.3]SZ[19]AB[ic][jc][oc][qc][id][od][je][ke][le][me][ne]AW[jd][kd][ld][md][nd][ie][oe][if][jf][of][mg][kb]
+(;B[kc]
+(;W[lc];B[lb];W[mb]
+(;B[la]
+(;W[ma];B[nc]
+(;W[ka];B[lb]
+(;W[la];B[mc];W[lb];B[jb])
+(;W[mc]
+(;B[jb]
+(;W[oa];B[nb];W[na];B[pb];W[kf];B[pa])
+(;W[nb]
+(;B[oa]
+(;W[kf];B[ob])
+(;W[ob];B[pb];W[kf];B[pa]))
+(;B[ob];W[oa];B[pb];W[kf];B[ja];W[la];B[pa];W[lf];B[na])))
+(;B[nb];W[jb]
+(;B[ib];W[ia];B[hb];W[kf];B[na];W[la];B[ha];W[nf];B[ja])
+(;B[ia];W[ib];B[hb];W[hc];B[hd];W[gc];B[gb]))))
+(;W[mc];B[nb];W[ka];B[jb];W[kf]
+(;B[na];W[lf];B[lb])
+(;B[lb])))
+(;W[ka];B[nc];W[ma];B[lb];W[mc]
+(;B[jb]
+(;W[kf];B[nb])
+(;W[nf];B[nb])
+(;W[lf];B[nb])
+(;W[nb]
+(;B[oa];W[ob];B[pb];W[kf];B[pa])
+(;B[ob];W[oa];B[pb];W[kf];B[ja];W[la];B[pa])))
+(;B[nb])))
+(;B[nc];W[la];B[mc];W[lb];B[jb];W[nf];B[nb];W[kf];B[na];W[lf]))
+(;W[mb];B[lc];W[mc];B[lb]))
+(;B[lg];W[lf];B[kf];W[kg];B[mf];W[nf])
+(;B[mb];W[kc])
+(;B[nc];W[kc]))

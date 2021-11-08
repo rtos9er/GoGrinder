@@ -1,0 +1,18 @@
+(;AB[br][cr][dr][er][cq][dp][ep][fp][gq]AW[ds][cs][bs][ar][bq][bp][cp][cn][do][eo]
+[fo][gp][hp][hq][hr]C[
+문제도31
+
+白 先  B
+
+흑을 잡는 문제.
+첫수가 상식을 초월하는 奇手]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[es]LB[fs:A][fr:B][as:C][gr:D]C[
+자살골 같이 보이는 이수가 奇手
+
+A 에 막으면 백 B  흑 C  백 D 로
+흑이 죽게 된다.]
+;B[gr];W[eq];B[fs];W[fq];B[as];W[dq]C[
+<정해도>  黑 死
+
+흑이 죽은 모양.])

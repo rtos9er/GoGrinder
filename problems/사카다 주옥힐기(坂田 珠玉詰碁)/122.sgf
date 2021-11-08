@@ -1,0 +1,20 @@
+(;AB[bc][be][bf][cf][df][ef][ee][ed][ec][fb][gc][db]AW[ad][bd][ce][de][dd][dc][cb]
+[eb]C[
+문제도122  맹점의 극복
+
+黑先白死  B
+
+속단하기 쉬운 자리가 있다.
+맹점을 극복하고 백을 잡아보자.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[cc];W[cd];B[da]LB[bb:A][ba:B]C[
+빠지는 수가 맹점.
+이수가 문제의 하이라이트.
+백 A 에 잡으면 흑 B 에 붙여서 
+백이 죽는 모양.]
+;W[ca];B[ac];W[ea];B[db];W[da];B[ae];W[db];B[bb];W[ba];B[ab]C[
+<正解圖>  白死
+
+외길코스의 진행후 오궁도화로 백이 죽은 모양.]
+N[正解])

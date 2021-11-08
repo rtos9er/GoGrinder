@@ -1,0 +1,16 @@
+(;AB[bb][bc][cc][cd][dd][ed][fd][ge][hf][je][jd][jc][jb][ib]AW[ba][cb][db][dc][ec]
+[fc][hd][id][ic][hb]C[
+문제도79  궁도가 넓은 모양
+
+黑先패  B
+
+급소가 분명하지 않지만 제일착이 중요하다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ha]C[
+젖히는 수가 좋은 공격];W[ga];B[gb];W[ia];B[fb]LB[fa:A]C[
+가만히 나가는 수가 중요.
+이수로  A 에 단수치면 백은 흑이 둔자리에 놓아 그냥 살게 된다.]
+;W[gc];B[ca];W[gd];B[fa]C[
+<正解圖>
+
+패가 되는 모양.]N[正解])

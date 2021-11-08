@@ -1,0 +1,19 @@
+(;AB[bb][bc][cc][cd][dd][ed][ee][fe][he][ie][id][ic][ib]AW[ba][cb][db][dc][ec][gb]
+[hc][hd][gd]C[
+문제도77  늦추는데 길 있다
+
+黑先패  B
+
+흑의 첫수에 주목하자.
+백도 좋은 응수가 있어 패가 
+된다.
+
+※  牛步千里
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fd];W[ea];B[fb];W[fc];B[hb];W[ca];B[ga];W[fa]C[
+<正解圖>
+
+패가 되는 것이 최선.]
+N[正解])

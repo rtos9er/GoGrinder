@@ -1,0 +1,11 @@
+(;AB[bl][dl][fl][fm][hm][hn][io][ip][hq][eq][ep][eo][dp][cq][bq]AW[gp][fo][gn][fn]
+[en][dn][do][bn][dq][cp][bp]C[白先
+
+请治孤处理好角部的白棋，考虑如何杀死角部黑棋！]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[dr]C[这样显然是没有什么计算力的表现];B[er];W[br];B[cr];W[aq])
+(;W[er]C[正解]
+(;B[fr];W[dr];B[fq];W[br])
+(;B[dr];W[fr])
+(;B[fq];W[dr];B[cr];W[fr];B[gq];W[bs];B[cs];W[aq];B[ar];W[ap])))

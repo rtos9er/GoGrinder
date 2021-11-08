@@ -1,0 +1,18 @@
+(;AB[cs][cr][cq][dp][do][en][fo][fp][gp][eq][fr]AW[br][bq][cp][co][cn][dn][em][fn]
+[gn][go][hp][hq][hr][gr][fq]C[
+문제도7
+
+白 先  B
+
+흑을 잡는 문제. 패가 되면 실패.
+흑을 그냥 잡는 수단을 찾아라.
+최후에 자충이 되어 흑이 잡히게 된다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[er]C[
+끊음이 준비된 수.];B[gq]C[
+];W[es]LB[fs:A]C[
+빠지는 수가 냉정하다.
+A 에 넘어가면 먹여쳐서 패.]
+;B[fs];W[gs];B[fq];W[eo];B[dr];W[en]C[
+<정해도>  黑 死
+가만히 잇는 수로 흑이 자충이 되어 잡힌 모양.])

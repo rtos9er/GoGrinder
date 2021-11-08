@@ -1,0 +1,22 @@
+(;AB[dr][eq][eo][fo][go][gp][gq][gr][gs]AW[cr][cq][bp][bo][cn][en][fn][gn][ho][hp]
+[hq][hr][hs][fp][fq]C[
+문제도16
+
+白 先  S
+
+흑을 잡는 문제.
+정교한 작업으로 흑을 잡는다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[ds]C[
+젖히는수가 작업의 시작.];B[es];W[ep]C[
+키워 죽이는 수가 작업의 2탄.]
+;B[dp];W[fr];B[er]C[
+이을수 밖에 없는 모양이며..];W[do]C[
+이수가 작업의 끝을 알리는 수.]
+;B[fs];W[dq]C[
+<정해도>  黑 死
+
+백의 정교한 수순으로 흑이 
+죽었다.])

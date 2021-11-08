@@ -1,0 +1,17 @@
+(;AB[ba][bb][bc][cd][ce][cf][df][ef][fe][ge][gd][gc][hb][ib]AW[cb][cc][dc][dd][de]
+[ee][fd][ec][fc][gb]C[
+문제도155  焦点의 一線
+
+黑先白死  C
+
+백을 자충으로 유도하여 잡는다.
+첫수가 포인트!]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[da]C[
+치중이 좋은수!];W[ca];B[ga]C[
+1선에 단수치는 수가 치중과 
+연관된 수순.]
+;W[ea];B[eb];W[fb];B[fa]C[
+<正解圖>  白死
+
+자충으로 백이 죽은 모양.]N[正解])

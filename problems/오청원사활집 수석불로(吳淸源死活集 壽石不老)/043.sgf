@@ -1,0 +1,14 @@
+(;AB[kc][kd][ld][mc][nc][od][pd][pc][pb]AW[qb][qc][qd][qe][pe][oe][nd][md][lc][lb]
+[le][mf][je][ic][hd][hb]C[
+제43문 烏字似鳥 오자사조
+
+<黑 先 活 >
+
+첫수가 삶의 급소.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ma]LB[mb:A][ob:B]C[
+삶의 급소.
+이수로 A 에 막으면 백B 에 치중당해 흑이 잡히게 된다
+※ 前문제 참고]
+TE[1];W[kb];B[jb];W[jc];B[mb];W[ja];B[ob]C[
+이후 외길코스로 흑이 살게된다.])

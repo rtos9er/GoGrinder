@@ -1,0 +1,18 @@
+(;AB[cs][cr][dr][dq][eq][ep][fp][gp][hq][gr][hs]AW[gq][bs][br][bq][cq][dp][do][eo]
+[fo][go][ho][ip][jq][ir][hr]C[
+문제도52
+
+白 先  B
+
+흑을 잡는 문제.
+패가 되면 실패.
+흑을 그냥 잡는 수를 연구해야 한다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[es];B[hp];W[fs]C[
+이수가 좋은 수.
+패를 생각하기 쉽다.
+];B[gs];W[fr];B[fq]
+;W[is]C[
+<정해도>  黑 死
+
+흑이 죽은 모양.])

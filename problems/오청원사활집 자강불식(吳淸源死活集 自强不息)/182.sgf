@@ -1,0 +1,30 @@
+(;AB[qj][sb][rb][rc][qc][pc][oc][nd][ne][nf][og][oh][ph][qh][ri][sj][pj][rk]AW[sk]
+[qi][rh][sh][qg][pg][of][oe][od][qd][rd][sd][sc]C[
+第182題 据理力爭 거리역쟁
+
+< 黑 先 白 死 >
+
+수순의 조합이 정확해야 백을
+잡을수 있다.
+순서가 틀리면 백이 그순간
+살게된다.
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[rf]LB[pd:C][qe:D][sf:E]C[
+먼저 치중하는수가 정확한공격.
+이수로 C 로 찌르면 D 에 받아서 
+치중해와도 E 에 붙여 살게된다.
+수순이 중요하다!]
+(;W[qf]C[
+위쪽에서 막아오면...];B[pd]LB[pe:A][se:B][qe:C][rg:D]C[
+이장면에서 백이 A 로 막으면
+B  C D 로 백이 자충이 되어
+잡힌다.]
+;W[qe];B[sf];W[pe];B[rg]C[
+결국 백은 자충이 되어 잡혔다.])
+(;W[rg]C[
+백이 이어서 버티면...];B[pd];W[qe];B[sf]C[
+빠지는 수로 백이 잡힌다.]
+;W[pe];B[qf];W[pf];B[re]))

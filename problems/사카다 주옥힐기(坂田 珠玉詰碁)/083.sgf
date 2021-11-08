@@ -1,0 +1,27 @@
+(;AB[lb][bb][db][cc][cd][dd][df][dg][ff][ge][he][ie][je][jd][kc][lc][ic][hc]AW[cb]
+[dc][ec][ed][ee][fe][gd][hd][id][jc][ib][jb][kb]C[
+문제도83  외길코스의 패
+
+黑先패  B
+
+백속의 두점을 이용하여 패를 
+만들어 보자.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gc];W[fd]
+(;B[hb]C[
+그냥 막는수가 좋은 수.
+];W[fc];B[ga]C[
+마늘모가 好手!];W[fb];B[ia]
+;W[gb];B[ka];W[ha];B[hb];W[hc];B[ja]C[
+<正解圖>
+
+패가 되는 것이 정답.]N[正解])
+(;B[fb]C[
+먼저 마늘모하는 수는 실패.];W[eb];B[hb];W[ga]C[
+치중이 좋은 수.];B[ia]
+;W[fc];B[ka];W[gb];B[ja];W[da]C[
+<실패도>
+
+백이 살게 되어 실패.]))

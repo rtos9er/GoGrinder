@@ -1,0 +1,24 @@
+(;AB[bb][bc][ea][eb][dc][dd][ed][fd][gd][hd][id][jc][jb][ja]AW[cb][db][ec][fc][gc]
+[hc][ib][ha]C[
+문제도37  자충으로 유도하는 수 
+
+黑先白死  B
+
+백을 자충으로 유도하는 절묘한 
+수가 있다.
+첫수가 비밀을 푸는 열쇠.
+
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[hb]C[
+절묘한 먹여치기!
+자충을 노린다.]
+(;W[gb];B[fa];W[fb];B[ic];W[ia];B[cc]C[
+<正解圖>
+
+양자충으로 잡힌 모양.]N[正解])
+(;W[fa]C[
+<변화도>
+
+붙여서 버텨오면..];B[gb];W[fb];B[ic];W[ga];B[ia]C[
+자충으로 몰려 잡힌다.]))

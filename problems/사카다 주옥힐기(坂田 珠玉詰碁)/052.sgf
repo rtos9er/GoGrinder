@@ -1,0 +1,20 @@
+(;AB[be][ce][dd][ed][db][eb][fc][gc][hc][hb][fe][he][ie][jd][kc][kb]AW[bb][cc][cd]
+[dc][ec][fb][fa][gb][ha][ia][ib][ic]C[
+문제도52  수조임의 급소
+
+黑先패  B
+
+백의 수를 조이는 강렬한 급소가
+있다. 결국 패가 된다.
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ab]C[
+백의 수를 줄이는 강렬한 급소.];W[ac];B[bd];W[bc];B[ca]LB[ba:A][ea:B]C[
+수상전의 급소 
+백이 A 에 두면 흑 B 로 白死]
+;W[cb];B[ba]C[
+<正解圖> 패가 최선
+
+패 만들기 성공.]N[正解])

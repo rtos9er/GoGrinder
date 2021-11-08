@@ -1,0 +1,14 @@
+(;AB[pb][pc][nb][od][oe][pf][qf][rf][rh]AW[re][qd][pd][qc][qb][pa]C[
+제189문 朝夕磨劍 조석마검
+
+< 黑 先 패 >
+
+정확한 수순의 조합으로 패가 된다.
+
+※ 실전에 자주 출몰하는 사활.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[qa]
+(;W[rb];B[sc];W[sd];B[sf]C[
+가만히 빠지는 수가 좋은 수.];W[sb];B[se];W[rc];B[qe]
+;W[ra];B[rd])
+(;W[ra];B[sb];W[rc];B[qe];W[sf];B[sg];W[sd]))

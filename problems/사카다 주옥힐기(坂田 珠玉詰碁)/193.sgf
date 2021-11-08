@@ -1,0 +1,22 @@
+(;AB[cb][db][ec][fc][gd][hc][hb][ha]AW[fb][gb][bb][bc][cc][ce][de][fd][fe][hf][ie]
+[id][ic][ib]C[
+문제도193  후절수의 맥
+
+黑先活  B
+
+신중한 수읽기가 요구되는 문제.
+흑이 살기위해서는 약간의 희생
+이 필요하다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ca]LB[fa:A][ga:B]C[
+꼬부림이 苦心의 一着!
+
+※ 이수로 A 에 붙이면 B 로 두어
+     죽게 된다.]
+;W[ea];B[ga];W[eb];B[fa];W[dc];B[gc];W[ba];B[da];W[eb];B[fb];W[ea];B[db]C[
+<正解圖>  黑生
+
+후절수로 살았다.]
+N[正解])

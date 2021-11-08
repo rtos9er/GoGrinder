@@ -1,0 +1,19 @@
+(;AB[as][br][bs][cs][es][er][eq][dq][dp][co][bo][ao]AW[aq][bq][bp][cr][bn][cn][do]
+[eo][fp][fq][fr]C[
+문제도2
+
+白 先  C
+
+패가 되는 문제.
+흑이 쉽게 죽을것처럼 보이지만
+반격이 있어 패가 된다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[cp]C[
+끊는수는 당연하며..];B[cq];W[dr];B[ar]C[
+이수가 흑의 멋진 반격수.];W[ds]
+;B[br];W[ar];B[cs];W[dr];B[as]C[
+<정해도>  패
+
+흑의 멋진 반격수로 패가 정답.])

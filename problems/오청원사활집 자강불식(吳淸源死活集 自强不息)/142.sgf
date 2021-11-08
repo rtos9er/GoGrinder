@@ -1,0 +1,16 @@
+(;AB[qb][qc][pd][pe][qf][rf][oc][nc][mc][ld][lb][kb]AW[qd][rd][pc][pb][ob][nb][mb]
+C[
+第142題 岐路亡羊 기노망양
+
+< 黑 先 白 死 >
+
+玄玄棋經에 나오는 문제.
+흑두점을 이용해서 백을 죽음의 궁도로 몰아라.
+첫수를 발견하는것이 관건.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ra]C[
+기막힌 妙手!
+이수로 백을 죽음의 궁도로 몰고갈수 있다.];W[rc];B[rb];W[sb]
+;B[ma];W[sc];B[na];W[sa];B[qa])

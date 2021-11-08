@@ -1,0 +1,32 @@
+(;AB[dp][cs][dr][fr][fs][gs][hr][hq][hp][ho][ep][eo]AW[ds][br][cq][cp][co][do][en]
+[fn][go][hn][io][jp][jq][ir][is][hs][gr]C[
+문제도47
+
+白 先  A
+
+흑을 잡는 문제.
+첫수가 절묘한 맥점으로
+문제해결의 열쇠.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[er]C[
+끼움이 妙手!]
+(;B[gp]C[
+최대의버팀수,
+다음 백의 한수는?]
+(;W[eq]C[
+치받음이 정확한 공격수.];B[dq];W[fq];B[gq];W[fp]C[
+<정해도>  黑 死
+
+자충이 되어 흑이 죽었다.])
+(;W[dq]C[
+백이 단수치는 수는 실패.];B[eq];W[cr];B[fo];W[fq];B[gn]C[
+<실패도>
+
+맞보기로 흑이 살아버린 모양.
+]))
+(;B[dq]C[
+흑이 잇는 수는..];W[fq];B[gq];W[fp];B[eq];W[cr]C[
+<변화도>  黑 死
+
+흑이 죽은 모양.]))

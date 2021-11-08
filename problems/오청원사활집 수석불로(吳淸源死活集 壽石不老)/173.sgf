@@ -1,0 +1,18 @@
+(;AB[rd][re][rf][qe][pe][oe][ne][me][md][mc][mb]AW[lc][nd][od][oc][pd][qd][rc][sd]
+C[
+제173문 山頂之變산정지변
+
+<黑 先 白 死 >
+
+백을 그냥 잡아야 한다.
+패가 되면 실패.
+정교한 수순으로 공격하라.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+
+(;B[rb]C[
+붙이는 수가 정해.];W[qc];B[pb];W[ob];B[sb];W[sc];B[oa];W[na];B[pa];W[nb]
+;B[qb];W[ra];B[ma])
+(;B[qc]C[
+흑이 끊는수는..];W[qb];B[rb];W[sb]C[
+패가 되어 실패.]))

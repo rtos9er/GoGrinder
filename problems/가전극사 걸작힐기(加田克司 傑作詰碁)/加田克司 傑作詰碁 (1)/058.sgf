@@ -1,0 +1,21 @@
+(;AB[cr][dq][eq][fq][fp][gp][hp][hq][hr]AW[gq][fr][br][bq][cq][co][dp][ep][fo][go]
+[ho][io][ip][jq][ir]C[
+문제도58
+
+白 先  S
+
+흑을 잡는 문제.
+
+※ Hint 밖에서 길을 찾는다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[cs]C[
+1선의 단수가 공격의시작.];B[dr];W[gs]C[
+妙手! 이문제의 정답으로 가는
+열쇠이다.]
+;B[hs];W[gr];B[ds];W[is]C[
+그냥 조여주는 수가 좋은 수.];B[bs];W[iq]C[
+<정해도>  黑 死
+
+계속 조아가서 흑이 죽은 모양.
+])

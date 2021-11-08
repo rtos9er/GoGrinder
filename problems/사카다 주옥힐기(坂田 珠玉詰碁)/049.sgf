@@ -1,0 +1,20 @@
+(;AB[bb][bc][cd][dd][ed][ef][ff][ge][hd][id][jd][jc][lb][lc][ld]AW[cc][dc][ec][fd]
+[gd][hc][ic][jb]C[
+문제도49  攻擊의 手順
+
+黑先白死  C
+
+공격의 급소자리부터 차근차근
+수순을 밟으면 백을 잡을수 있다
+최후에는 매화육궁이 된다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fb]C[
+공격의 급소!
+백의 약점을 정확하게 찌른 수.];W[eb];B[da]C[
+날일자 한방이 긴요하다.]
+;W[ea];B[hb]C[
+껴붙임은 맥점.];W[ib];B[gc];W[gb];B[ga];W[fc];B[gb];W[ja];B[ha]
+C[
+<正解圖> 백죽음
+
+매화육궁으로 죽은 모양.]N[正解])

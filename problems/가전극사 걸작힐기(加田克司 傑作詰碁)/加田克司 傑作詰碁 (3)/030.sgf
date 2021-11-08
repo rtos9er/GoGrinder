@@ -1,0 +1,23 @@
+(;AB[hp][hq][ds][dr][cq][cp][co][do][eo][ep][fq][gp]AW[bp][js][cs][cr][br][bq][bo]
+[cn][dn][en][fo][fp][gq][go][ho][io][ip][jq][kp][kr]C[
+문제도30
+
+白 先  S
+
+흑을 잡는 문제.
+수순이 중요하다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[gr]C[
+먼저 빠지고..];B[fr];W[dq]C[
+치중하는 수가 정확한 수순.]
+(;B[eq];W[fs];B[hr];W[er]C[
+<정해도>  黑 死
+
+흑이 자충에 걸려 죽은 모양.
+백이 먹여친수로는 A 에 넘어가도 흑이 죽게 된다.])
+(;B[fs]C[
+흑이 1선에 뻗어서 버티면..];W[er];B[es];W[eq];B[dp];W[eq]C[
+<변화도>  黑 死
+
+돌밑의 수가 발생하여 흑이
+죽게 된다.]))

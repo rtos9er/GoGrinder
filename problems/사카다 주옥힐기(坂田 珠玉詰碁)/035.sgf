@@ -1,0 +1,21 @@
+(;AB[ba][bb][cc][cd][de][fc][fd][gd][hd][id][jc][kc][kb][ka]AW[ca][cb][dc][ec][eb]
+[fb][gc][hc][ic][jb]C[
+문제도35  끈덕진 버팀수 
+
+黑先패  A 
+
+일견 백이 죽을것 처럼 보이지만
+백도 끈덕진 버팀이 있어 패가
+된다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ea]C[
+공격의급소!];W[fa];B[da]C[
+여기서 백에게 끈덕진 버팀수가 있다.];W[ia]
+C[
+호구치는 수가 끈덕진 버팀.
+];B[ja];W[hb];B[ib]C[
+<正解圖>
+
+결국 패가 되는것이 최선.]
+N[正解])

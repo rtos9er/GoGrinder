@@ -1,0 +1,28 @@
+(;AB[cb][db][bd][ce][dd][ec][fc][fd][gd]AW[eb][fb][gb][gc][ic][he][gf][cc][dc][ed]
+[ee][ef][dg][cg][bf]C[
+문제도11  삶의 급소
+
+黑先活  C
+
+삶의 급소자리를 발견하라.
+이후 마무리 수순도 깔끔하게..]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ba]C[
+마늘모가 유일한 삶의 급소.]
+(;W[ab];B[da];W[bc];B[bb];W[ad]
+(;B[ae];W[be];B[cd];W[af];B[aa]C[
+<正解圖>
+
+촉촉수로 백을 잡아서 흑이 살게
+된다.]
+N[正解])
+(;B[cd]C[
+<실패도>
+
+그냥 단수치는 수는 실패.];W[ae];B[ac];W[bc]C[
+흑이 죽게 된다.]))
+(;W[bc]C[
+<변화도>
+
+백이 나오는 변화..];B[bb]C[
+꽉 받아서 흑이 살게 된다.]))

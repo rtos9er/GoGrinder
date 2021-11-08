@@ -1,0 +1,15 @@
+(;AB[ae][be][ce][de][dd][ec][fc][fb][fa][cb]AW[ad][bd][cd][cc][dc][db][eb]C[
+문제도181  자충으로 유도
+
+黑先白死  C
+
+백을 자충으로 유도하는 수가
+있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb];W[ab];B[da]C[
+젖히는 수가 문제의 핵심.
+백이 자충으로 몰리게 된다.];W[ea]
+;B[ac];W[ca];B[aa]C[
+<正解圖>  白死
+
+유가무가로 백이 죽은 모양.]N[正解])

@@ -1,0 +1,22 @@
+(;AB[br][cr][cs][cq][dp][do][eo][fo][fp][fq][fr]AW[dr][ep][bs][ar][aq][bq][bp][co]
+[bn][dn][en][fn][go][gp][gq][gr][gs]C[
+문제도7
+
+白 先  B
+
+흑을 공격하는 문제.
+패가 최선.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[dq]C[
+먼지 찝어두는 수가 수순.]
+(;B[es]C[
+마늘모로 받는 수가 최선의 응수];W[cp];B[ds];W[fs];B[as]C[
+<정해도>  패 
+
+흑백 최선의 응수로 패가 되었다.])
+(;B[cp]C[
+흑이 그냥 이으면..];W[fs];B[es];W[eq];B[as];W[er]C[
+<실패도>  黑 死
+
+흑의 잘못된 응수로 죽은 모양.
+]))

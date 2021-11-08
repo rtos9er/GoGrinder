@@ -1,0 +1,20 @@
+(;AB[bd][ae][be][bf][ce][de][ed][fd][fc][fb][fa]AW[ad][bc][cc][cd][dd][ec][eb][ea]
+LB[ac:A][ca:B]C[
+문제도93  항아리속의 공방
+
+黑先패  B
+
+흑 A 에 두면 백 B 가 好手로 
+잡을수 없게 된다.
+패를 만드는 奇妙한 수단이 있다
+
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[cb]C[
+붙임이 급소.];W[bb];B[da];W[dc];B[ba];W[db];B[ca];W[aa];B[ca];W[ac];B[ba]
+C[
+<正解圖> 
+
+늘어진 패가 된다.]N[正解])

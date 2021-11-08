@@ -1,0 +1,24 @@
+(;AB[ds][dr][cr][cq][cp][dp][fp][fq][gr][hr]AW[dq][cs][bs][br][bq][bp][bn][co][dn]
+[eo][fo][gp][gq][hq][iq][ir][is]C[
+문제도2  
+
+白 先  A
+
+흑을 잡는 문제.
+연타공격으로 흑이 잡히게 된다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[gs]C[
+일단 붙이고..];B[fs];W[er]C[
+젖히는 수가 연타공격.]
+(;B[eq]C[
+흑이 한점 따면..];W[fr]C[
+<정해도>  黑 死
+
+옥집이 되어 죽게 된다.])
+(;B[fr]C[
+흑이 잇는 수는..];W[eq];B[ep];W[hs]C[
+<변화도>  黑 死
+
+흑이 죽은 모양.]))

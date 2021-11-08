@@ -1,0 +1,23 @@
+(;AB[cb][bd][be][cf][de][ee][fe][hd][id][ic][hb][gb]AW[bb][bc][cd][dc][ec][fc][gc]
+[hc]C[
+문제도34  공격의 방향
+
+黑先白死  C 
+
+흑이 어디에서 부터 공격을 시작 할것인가?
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ac]C[
+젖히는 수가 수순.]
+(;W[ab];B[ba]C[
+젖히고 다시 젖히는 연타공격이
+해결책.];W[cc];B[fb];W[eb];B[da]
+C[
+<正解圖>
+
+백이 잡힌 모양.]N[正解])
+(;W[fb]C[
+백이 궁도를 넓혀오면..];B[db]C[
+파호하는 수는 당연.];W[cc];B[ab]C[
+백이 잡힌 모양.]))

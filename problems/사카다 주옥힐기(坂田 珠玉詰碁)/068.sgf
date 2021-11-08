@@ -1,0 +1,30 @@
+(;AB[ab][bb][cc][bd][dd][ed][fe][ef][gf][if][id][jd][jc][jb][hc]AW[ba][cb][da][dc]
+[ec][fd][gc][gd][hd][ic]C[
+문제도68  본래의 급소
+
+黑先패  C
+
+살짝 헷갈리는 문제.
+첫급소를 잘 찾아야한다.
+A or B ?
+
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+
+(;B[fb]C[
+치중이 유일 절대의 급소.];W[eb];B[gb];W[hb];B[ib];W[ha];B[hc]C[
+<正解圖>
+
+패가 되는 것이 최선.
+
+]
+N[正解])
+(;B[gb]C[
+젖히는 수는 실패
+고정틀에 젖어있는 수.];W[hb];B[fb];W[ib]C[
+];B[eb]
+;W[db];B[ia];W[ha];B[ja];W[fa]C[
+<실패도>  白生
+
+백이 살아버린 모양.]))

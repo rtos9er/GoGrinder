@@ -1,0 +1,24 @@
+(;AB[kb][ka][bd][be][dd][de][dg][db][ec][fc][gc][gb][hd][ie][id][ic][jc][kc]AW[hb]
+[hc][ib][jb][ed][fd][gd][ff][he][hf][dc][cc][bc][eb]LB[eb:A]C[
+문제도137  패도발을 막아라
+
+黑先白死  C
+
+백이 A 로 끊어온 장면.
+패가 나지 않게 귀의 백을 
+잡아야 한다.
+흑의 옳바른 응수는?]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]LB[ea:A][da:B]C[
+마늘모로 받는 것이 침착한 응수
+
+※ 보통이라면 흑은 A 자리 단수치는 수이지만 이 경우에는 백이 B 에 먹여치기 하면 패가 발생
+한다.]
+;W[da];B[cb]C[
+일단 한번 나가서 키우는 수가 
+좋다.];W[bb];B[ea];W[ca];B[db]C[
+<正解圖>  白死
+
+흑의 멋진 응수로 백은 그냥
+죽게 되었다.]
+N[正解])

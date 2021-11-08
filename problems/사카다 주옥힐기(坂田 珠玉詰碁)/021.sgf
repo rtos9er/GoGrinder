@@ -1,0 +1,21 @@
+(;AB[bb][bc][bd][ce][ec][fb][ed][fd][gd][hd][id][jd][jc][jb][lc][mb]AW[cb][cc][dc]
+[eb][fc][gc][hc][ic][ib][ja][kb]C[
+문제도21  패가 나지 않게
+
+黑先白死  B
+
+이문제의 핵심은 패가 나지 않게
+잡아야 한다는 것이다.
+흑에게 냉정한 好手가 있다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gb];W[ia]C[
+최대의 버팀수.
+패도발을 노리고 있다.];B[da]C[
+냉정한 好手!
+이수로 오궁도화가 되어 죽는다.]
+;W[ca];B[ea];W[db];B[ga]C[
+<正解圖>
+
+백이 오궁도화로 잡힌 모양.]N[正解])

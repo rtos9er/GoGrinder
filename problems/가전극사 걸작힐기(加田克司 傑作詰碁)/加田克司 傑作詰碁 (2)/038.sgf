@@ -1,0 +1,20 @@
+(;AB[cr][dr][er][dq][fq][gr][eo][gp][go][fn][gm]AW[em][hl][gl][fm][dn][do][cp][cq]
+[bq][br][cs][hs][hr][gq][hq][hp][ho][in]C[
+문제도38
+
+白 先  B
+
+흑을 잡는 문제.
+정확한 공격수순으로 흑을 잡아보자.
+흑을 자충으로 유인하라.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[ep]C[
+일단 젖히고..];B[dp];W[fp]C[
+끊는 수가 좋다.
+자충으로 유도하고 있다.]
+;B[gs];W[en];B[eq];W[es]C[
+<정해도>  黑 死
+
+붙이는 수가 마무리 결정타.
+정확한 종격수순으로 흑이 죽은
+모양.])

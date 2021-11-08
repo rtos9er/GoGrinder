@@ -1,0 +1,26 @@
+(;AB[cr][bq][bp][co][do][eo][ep][eq]AW[cp][ap][ao][bo][bm][cn][dn][en][fo][fp][fq]
+[fr]C[
+문제도24
+
+白 先  A
+
+정확한 수순의 조합으로
+흑을 잡게 된다.]AP[MultiGo:4.2.1]
+SZ[19]MULTIGOGM[1]
+;W[ar]C[
+한칸 뛰는 수가 정확한 공격.]
+(;B[aq]C[
+차단하면..];W[dq]C[
+마늘모가 한칸뛴수와 연관된
+Combination Play.];B[er]
+;W[dr];B[ds];W[br]C[
+<정해도>  黑 死
+
+흑이 죽은 모양.])
+(;B[er]C[
+최대한 궁도를 넓혀오면..];W[aq];B[es];W[cs]C[
+붙임수가 정확한 공격.]
+;B[ds];W[dq];B[br];W[bs]C[
+<정해도>  黑 死
+
+흑이 죽은 모양.]))

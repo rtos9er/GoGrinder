@@ -1,0 +1,11 @@
+(;GM[1]FF[3]PL[B]C[Black to play and live.
+]AP[MultiGo:3.9.4]SZ[19]AB[bn][cm][bm][ck][cj][bi]AW[ch][ci][dj][dk][dl][dm][cn][co][cq][bh];B[aj]
+(;W[bk];B[bl];W[ak];B[al])
+(;W[al];B[bl];W[ah]
+(;B[ak];W[bj];B[am];W[ai];B[bo];W[bp];B[ao])
+(;B[bj];W[ak];B[bo];W[bp];B[ao];W[am];B[cl])
+(;B[am]
+(;W[bo];B[ai])
+(;W[ai];B[bj]
+(;W[bo];B[ak])
+(;W[ak];B[bo];W[bp];B[ao])))))

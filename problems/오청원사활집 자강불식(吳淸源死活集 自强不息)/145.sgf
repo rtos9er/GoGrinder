@@ -1,0 +1,20 @@
+(;AB[qb][qc][rc][sc][qd][pd][od][nd][md][nc][lc][lb]AW[oc][mc][mb][nb][pc][pb][qa]
+[ra][rb][sa][kb][kc][kd][kf][mf][of][qf][re]LB[sb:A][ob:B]C[
+第145題 李代桃강 이대도강
+
+< 黑 先 活 >
+
+그냥두면 흑이 4점을 따먹고도 잡힐수 있다.
+ex) A 에두면 B 로 이어 4점 먹고도 치중당해 죽게된다.
+흑의 위기를 타개할 妙手는?]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[na]C[
+붙임이 기가막힌 妙手!
+백 자충의 약점을 정곡으로
+찌른 한수.]
+(;W[ma];B[oa];W[ld];B[sb];W[ob];B[pa];W[qa];B[ra])
+(;W[ld]C[
+두점을 잡으면..];B[ob]C[
+먼저 먹여치고..];W[oa];B[sb]C[
+단수치면 묘하게 자충에 걸려
+흑이 살게 되었다.]))

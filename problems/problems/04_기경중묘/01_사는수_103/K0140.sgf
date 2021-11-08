@@ -1,0 +1,14 @@
+(;GM[1]FF[3]PL[W]C[White to play and live.]SZ[19]AW[rb][oc][pc][qc]AB[nb][nc][nd][pd][qe][qf][qa];W[ob]
+(;B[oa];W[pa];B[pb];W[ra]
+(;B[na];W[rd];B[re];W[sd])
+(;B[rd];W[qb];B[pa];W[na];B[pa];W[oa]
+(;B[lb];W[sb])
+(;B[sb];W[lb])))
+(;B[rd];W[pa]
+(;B[qb];W[rc];B[sc];W[sb];B[ra])
+(;B[rc]
+(;W[qb])
+(;W[ra]
+(;B[qb];W[sb])
+(;B[sb];W[qb])))
+(;B[sb];W[qb];B[ra];W[sc])))

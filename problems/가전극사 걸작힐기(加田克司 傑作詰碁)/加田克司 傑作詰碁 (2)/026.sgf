@@ -1,0 +1,30 @@
+(;AB[lj][ih][ij][ki][kj][il][mk][ll][kl][jl][jh][hl][gk][gj][hi]AW[km][lm][kk][lk]
+[ml][nl][mj][nj][li][mh][kh][kg][jg][ig][hh][gh][gi][fj][fk][fl][gl][hm][im][jm]
+C[
+문제도26
+
+白 先  B
+
+흑을 잡는 문제.
+옥집으로 만드는 테크닉이
+키포인트.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[jk]C[
+일단 뻗어서 흑의 응수를 묻는다.]
+(;B[ik]C[
+흑이 A 자리에 응수하면..];W[hj]C[
+역시 먹여치기가 妙手!];B[ii];W[jj]
+;B[ji];W[hk]C[
+<정해도1>  黑 死
+
+정확한 수순으로 흑이 죽음.
+
+])
+(;B[jj]C[
+흑이 B 자리에 응수하면..];W[ii]C[
+먹여치는 수가 妙手!];B[hj];W[ik];B[hk]
+;W[ji]C[
+<정해도2>  黑 死
+
+정확한 수순으로 죽었다.]))

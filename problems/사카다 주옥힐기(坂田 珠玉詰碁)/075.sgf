@@ -1,0 +1,16 @@
+(;AB[bb][bc][bd][cd][dd][ed][fd][gd][id][jd][jc][jb][ib][fc]AW[ba][cb][cc][dc][ec]
+[fb][gc][hc][hb][ic]C[
+문제도75  패가 타켓
+
+黑先패  C
+
+패를 만드는 수단을 강구하라.
+수순에 注意할것.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ha]C[
+먼저 젖히고..];W[ga];B[ea]C[
+치중이 정확한 수순.];W[ia];B[eb];W[da];B[ja]
+;W[fa];B[ha]C[
+<正解圖>
+
+백이 패를 피할 방법이 없다.]N[正解])

@@ -1,0 +1,23 @@
+(;AB[cq][cp][dp][do][eo][fo][fp][gp][gq][hq][er][fs]AW[ep][dq][eq][br][bq][bp][co]
+[cn][dn][en][fn][go][ho][ip][iq][ir][is]C[
+문제도55
+
+白 先  A
+
+흑을 잡는 문제.
+완벽한 수순의 조합으로 
+흑을 잡아보자.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[gs]LB[gr:A][ds:B][dr:C][fq:D]C[
+붙이는 수가 급소.
+이수에 A 에 두면 백B 흑C 백D로
+흑이 죽게 된다.]
+;B[ds]C[
+패도발을 노려보지만..];W[fr]C[
+단수가 좋은 수.];B[gr];W[dr];B[cr];W[es]
+;B[cs];W[fq]C[
+<정해도>  黑 死
+
+백의 절묘한 공격으로 흑이 
+죽었다.])

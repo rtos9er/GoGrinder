@@ -1,0 +1,22 @@
+(;AB[ba][bb][bc][cd][ce][ee][fd][ge][gc][hc][ib][jc][jd][ie]AW[ic][gb][hb][fc][ec]
+[eb][dc][cb]C[
+문제도98  攻擊의 手順
+
+黑先白死  B
+
+정확한 공격의 수순으로 백을
+잡아보자.
+패가 되면 실패.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]C[
+일단은 치중.];W[ia];B[jb];W[ca];B[ea];W[cc];B[da];W[ha];B[fb]C[
+자살수단이 문제의 포인트!]
+;W[db];B[ja];W[ga]LB[fa:A][ea:B]C[
+후절수에 주의해야 한다.
+A 에 두면 B 로 딱걸린 모양.
+]
+;B[ea]C[
+<正解圖>  白死
+
+정확한 공격수순으로 백이 
+죽은 모양.]N[正解])

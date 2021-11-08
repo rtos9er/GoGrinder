@@ -1,0 +1,27 @@
+(;AB[bb][bc][bd][ce][de][db][ec][ed][fd][gd][hd][id][jc][jb][ja]AW[cb][cc][dc][eb]
+[fc][gc][hc][ib]C[
+문제도20  한수에 집중
+
+黑先白死  B   
+
+백의 명치에 비수를 들이덴다.
+
+※ 첫수가 열쇠.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa]C[
+백의 심장을 멈추게 하는 匕首.
+여기서 백은 A 와 B 의 대응이 
+있는데..]
+(;W[hb]C[
+최강의 버팀수..];B[ca];W[da];B[ba];W[ga];B[fb];W[ia];B[ic]C[
+<正解圖1>
+
+양자충으로 백이 잡힌 모양.]
+N[正解])
+(;W[ga]C[
+먼저 백이 붙여서 버티면..];B[gb]C[
+단수 한방으로 끝.];W[hb];B[ha];W[fb]
+;B[ga];W[ia];B[ca];W[da];B[ba]C[
+<正解圖2>
+
+백이 잡힌 모양.]N[正解]))

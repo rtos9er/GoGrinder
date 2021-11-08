@@ -1,0 +1,14 @@
+(;AB[hq][br][cq][dq][bp][bo][cm][ck][ek][fk][fl][gm][gn][go][gp]AW[hn][iq][ip][in]
+[dn][em][el][hp][eq][ep][dp][cp]AP[MultiGo:3.7.0]SZ[19]
+
+(;W[gr]C[黑先
+
+白棋飞点是手筋]
+(;B[gq]C[如果直接粘，则白棋回家了];W[hr];B[fr];W[er];B[fq];W[fs]C[白棋回家了！])
+(;B[fr]N[正解]
+(;W[fq];B[gq];W[er];B[hr];W[fs];B[hs];W[gs];B[dr];W[cn];B[bn];W[eo];B[co];W[fn]
+;B[fm];W[dm];B[fo])
+(;W[gq];B[fq];W[hr];B[er])
+(;W[er]
+(;B[fq];W[hr];B[fs];W[fp];B[gq])
+(;B[hr];W[fq];B[gq];W[fs];B[hs];W[dr];B[cr];W[ds];B[gs];W[eo];B[co])))))

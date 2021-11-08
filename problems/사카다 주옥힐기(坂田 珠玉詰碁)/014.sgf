@@ -1,0 +1,22 @@
+(;AB[ab][bc][cc][db][ce][dd][ed][fd][gd][hd][hc][ib][jc]AW[bb][cb][dc][ec][eb][fc]
+[gc][hb]C[
+문제도14  意外의 급소
+
+黑先白死  C
+
+첫수가 意外의 곳.
+이후는 외길.
+ 
+
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ha]C[
+1선의 단수가 백을 잡는 妙手!]
+(;W[gb];B[da];W[ea];B[ga]C[
+<正解圖1>
+
+백이 자충으로 죽었다.]N[正解])
+(;W[da]C[
+백이 한점 따면..];B[fa]C[
+한칸뛰기로 잡히게 된다.];W[ba];B[ea]C[
+<正解圖2>]))

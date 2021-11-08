@@ -1,0 +1,10 @@
+(;GM[1]FF[3]PL[B]C[Black to play and live.]SZ[19]AB[pd][rc][qc][oc][nc][ob]AW[qe][pe][rd][od][nd][md][mc][nb][mb][pb];B[pa]
+(;W[qa];B[oa]
+(;W[rb];B[sb];W[qb];B[ra];W[sa];B[sc])
+(;W[qb]
+(;B[rb];W[sc];B[sb])
+(;B[ra]
+(;W[sc];B[sb])
+(;W[sb];B[sc];W[rb])
+(;W[rb];B[sb];W[sa];B[sc]))))
+(;W[qb];B[rb];W[qa];B[oa];W[sc];B[sb]))

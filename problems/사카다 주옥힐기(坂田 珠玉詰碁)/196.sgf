@@ -1,0 +1,28 @@
+(;AB[df][ic][bd][cd][ce][cf][eg][dd][ed][ec][ee][fd][ib][fh][gh][hh][ih][jg][jf]
+[ie][he][ge][hd][id]AW[kc][kb][bc][cc][dc][eb][fc][gc][gd][hc][hb][be][bf][bg][bh]
+[dg][dh][ef][ff][fe][gf][hf][if][je][ke]C[
+문제도196  탄력적인 妙手
+
+黑先패  B
+
+백모양의 약점을 찔러 패를
+만드는 문제.
+탄력적인 妙着이 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fb]C[
+일단 끊는점이 맥점.];W[fa];B[db];W[gb];B[ca]C[
+마늘모가 탄력적인 妙手!]
+(;W[ad]C[
+넘어가는 것이 최선의 응수.];B[ea]C[
+<正解圖>  패
+
+흑백최선의 공방끝에 패가 
+되었다.]
+N[正解])
+(;W[cb]C[
+백이 단수치는 수는 실패.];B[ac]C[
+이수가 선수가 되어..];W[da];B[fg]
+C[
+<변화도>  白死
+
+백의 잘못된 응수로 중앙백6점이 잡히게 되었다.]))

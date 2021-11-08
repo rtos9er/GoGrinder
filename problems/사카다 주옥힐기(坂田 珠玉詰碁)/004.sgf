@@ -1,0 +1,26 @@
+(;AB[eb][fa][bd][be][bf][cf][df][ef][ff][gf][ge][gd][gc][fb]AW[bc][hb][ea][da][db]
+[cc][cd][ce][ee][fe][ad][bh][ch][eh][fh][gh][hg][if][id][ic]C[
+문제도4  공격의 급소
+
+黑先活  B
+
+백의 약점을 찔러 흑을 살리는 
+문제. 공격의 급소는?
+
+
+
+ ]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[dc]C[
+찝는수가 공격의 급소.];W[ec];B[dd]
+(;W[ba];B[de];W[ac]C[
+<正解圖>  黑生
+
+서로 각생하는것이 정해.]N[正解])
+(;W[de]C[
+<변화도>
+
+백이 두점 잡는수는 실패.
+]N[변화도];B[cb];W[ed];B[dc];W[dd]
+;B[ca];W[dc];B[ac];W[ab];B[ba]C[
+오히려 백이 다 잡히게 된다.]))

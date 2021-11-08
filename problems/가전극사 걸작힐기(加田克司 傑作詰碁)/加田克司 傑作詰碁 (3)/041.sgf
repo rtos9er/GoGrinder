@@ -1,0 +1,29 @@
+(;AB[cr][dq][eq][eo][en][fn][gn][go][gq][gr][gs]AW[cq][fq][fo][bs][br][cp][do][cn]
+[dm][em][fm][gm][hn][ho][jo][iq][hr][hs][jr]C[
+문제도41
+
+白 先  S
+
+흑을 잡는 문제.
+한수한수 수순을 따라가다 보면
+흑을 잡을수 있다.
+차분하게 수읽기 할것.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[fp]LB[gp:A]C[
+잇는 수는  당연.
+이장면에서 흑이 A 로 받으면 
+앞문제와 동일.]
+(;B[ep];W[ds]C[
+한칸 뛰는 수가 수순.];B[es];W[gp];B[hp];W[fr];B[er];W[hq];B[fs]
+;W[fp]C[
+<정해도>  黑 死
+
+돌밑의 수로 흑이 죽은 모양.])
+(;B[dr]C[
+흑이 아래쪽을 이어서 버티면..];W[cs]C[
+가만히 밀고 들어가는 수로 흑이 
+죽게 된다.]
+;B[ep];W[ds];B[es];W[gp];B[hp];W[fr]C[
+<정해도>  黑 死
+
+흑이 죽은 모양.]))

@@ -1,0 +1,19 @@
+(;AB[ca][bb][cc][bd][dd][ed][fd][gd][hd][id][jc][kd][kb][lb][gc]AW[cb][db][ec][fb]
+[gb][ic][ib][jb][ka]C[
+문제도62  공배메움의 무서움
+
+黑先白死  B
+
+정확한 수순으로 백을 자충의 덫에 갇히게 만드는 수단이 있다.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ea]C[
+먼저 치중을 하고..];W[da];B[hb]C[
+끼움이 연타공격..];W[hc];B[ha];W[ga]
+;B[eb]C[
+먹여치는 수가 옥집으로 만드는 好手!];W[fa];B[eb];W[ea];B[dc]C[
+<正解圖>  白死
+
+자충이 되어 죽은 모양.]
+N[正解])

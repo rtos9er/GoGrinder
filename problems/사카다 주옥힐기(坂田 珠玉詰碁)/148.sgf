@@ -1,0 +1,32 @@
+(;AB[de][ja][bb][bd][cd][cf][jf][ee][ff][gg][hg][ig][ka][kf][le][lc][mc][mb][ec]
+[fc][gd][hd][id][ic][hb][jb]AW[ha][db][dc][cc][dd][ed][fd][fe][ge][he][ie][je][jd]
+[jc][kc][kb][lb][la]LB[ha:A]C[
+문제도148  정확한 응수
+
+黑先白死  B 
+
+백이 A 에 붙여온 장면 
+흑이 정확하게 응수하여 
+백대마를 포획하도록 하자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gb]C[
+일단 침착하게 늘어두고..];W[gc]C[
+먹여치기는 최강의 버팀수.
+이장면에서 정확한 응수가 필요
+하다.
+
+※흑의 다음 한수는?]
+(;B[eb]C[
+정확한 응수!
+이문제의 하이라이트!];W[ea];B[ga];W[ia];B[hc];W[ib];B[ja]
+;W[jb];B[fa]C[
+<正解圖>  黑生&白死
+
+흑이 정확한 응수로 살아버리니
+백이 죽게 되었다.]
+N[正解])
+(;B[ga]C[
+흑이 백한점을 막는 수는 실패.];W[ia];B[eb];W[ib];B[hc];W[ja]C[
+<실패도>  白生
+
+흑이 잘못된 응수로 백이 살아버렸다.]))

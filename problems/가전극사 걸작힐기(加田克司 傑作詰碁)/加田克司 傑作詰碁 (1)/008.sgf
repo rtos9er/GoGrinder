@@ -1,0 +1,29 @@
+(;AB[hk][hl][ji][kh][lh][li][lj][lk][ll][ih][hh][hi][hj]AW[gh][jf][ik][kk][ig][hg]
+[gg][gi][gk][gm][gl][hm][im][jm][km][lm][mm][ml][mk][mi][mh][mg][lg][kg]C[
+문제도8
+
+黑 先  C
+
+흑을 살리는 문제.
+
+※ 左右同形은 中央이 급소다.
+
+수순중간에 함정이 있다.
+유의하여 풀도록 하자.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[jk]C[
+끼움이 급소.];W[jj]
+(;B[jl]C[
+두점으로 나가는 수가 중요하다.
+이수를 읽었다면 완벽하다.];W[il];B[ij]
+;W[kl];B[kj];W[jk];B[jh]C[
+<정해도>  黑 生
+
+완벽한 수순으로 흑이 살았다.])
+(;B[ij]C[
+그냥 단수치는 수는 실패.];W[kj]C[
+백이 잇는 수가 있다.];B[jl];W[kl]
+;B[il];W[jh]C[
+<실패도> 
+
+패가 되어 흑이 실패.]))

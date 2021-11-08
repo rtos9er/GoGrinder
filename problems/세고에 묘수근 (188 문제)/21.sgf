@@ -1,0 +1,12 @@
+(;AB[dr][dq][dp][do][dn][en][fn][fo][gp][hp][gq][bo]AW[ds][er][eq][ep][eo][cr][cq]
+[cp][go][ho][ip][iq][hq][in][cl][el][gl]C[黑先
+
+如果黑a粘，则白B渡过，黑不行]
+LB[fp:a][gr:b]AP[MultiGo:3.7.0]SZ[19]
+
+(;B[fs]
+(;W[es];B[fp];W[gr];B[fr];W[cs];B[fq];W[co];B[cn];W[bp];B[bn];W[br];B[aq];W[ap]
+;B[ar];W[as];B[bs])
+(;W[fr];B[gr];W[es];B[fp];W[gs];B[hr]
+(;W[bp];B[co];W[ar];B[bs];W[cs];B[br];W[bq];B[ap])
+(;W[co];B[cn];W[bp];B[bn];W[br];B[aq];W[ap];B[ar];W[as];B[cs]))))

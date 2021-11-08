@@ -1,0 +1,16 @@
+(;AB[bb][bc][cc][ce][de][ef][ge][hd][id][ic][ib][kb][fc][ec]AW[cb][dc][dd][ed][fd]
+[gc][hc][hb][ia]C[
+문제도47  죽음의 궁도
+
+黑先白死  B
+
+※ 죽음의 궁도로 몰아넣고 조여      가는 방식으로 잡는다.
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[eb];W[db];B[fb]C[
+죽음의 궁도로 몰고 가는 수.];W[gd];B[ca];W[da];B[ha]C[
+<正解圖> 백죽음
+
+백이 한점을 따도 결국 매화육궁의 궁도가 되어 잡히게 된다.
+]
+N[正解])

@@ -1,0 +1,21 @@
+(;AB[rb][qc][pc][pd][pe][nc][mc][lb][ma]AW[ka][kb][kc][lc][md][nd][nf][of][qg][qf]
+[qe][qd][rc][qb][ra]C[
+第78題 捨短取長 사단취장
+
+< 黑 先 패 >
+
+귀의 흑한점을 이용하여 패가 
+되는 수순을 찾는다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[sb];W[sc];B[pb];W[sa];B[rb]
+(;W[sb];B[oa]LB[qa:A]C[
+마늘모 수가 포인트.
+이수로 A 에 먹여치면 백은
+흑이 마늘모한자리에 치중을
+하여 흑이 잡히게된다.]
+;W[od];B[qa]C[
+패가 되는것이 최선의 결말.]N[正解])
+(;W[qa]C[
+백이 따지 않고 이으면...];B[pa];W[sb];B[ob]C[
+妙手!];W[od];B[na]C[
+흑이 절묘하게 살게 된다.]))

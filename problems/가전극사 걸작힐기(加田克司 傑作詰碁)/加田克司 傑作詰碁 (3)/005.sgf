@@ -1,0 +1,15 @@
+(;AB[cr][cq][cp][ds][er][eq][ep][fq][gr][hq][iq][ir]AW[bq][cs][bs][br][bp][co][do]
+[eo][fp][gp][gq][fr][fs][ho][ip][jo][jq][jr][js]C[
+문제도5
+
+白 先  B
+
+흑을 잡는 문제.
+자충으로 유도하는 수순을 
+찾아야 한다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;W[hr]C[
+먹여치는 수가 좋은 맥점.];B[hs];W[is];B[dp];W[dr]C[
+<정해도>  黑 死
+
+자충으로 몰려 흑이 죽은 모양.])

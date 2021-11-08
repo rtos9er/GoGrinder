@@ -1,0 +1,16 @@
+(;AB[bb][bc][cd][dd][ed][fb][gc][gd][hd][id][jd][kc][lc][lb][la]AW[cb][dc][fa][gb]
+[hc][ic][jc][jb][kb][ka]C[
+문제도149  공격의 好脈
+
+黑先白死  C 
+
+백을 잡는 좋은 공격의 맥점이 
+있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ha]C[
+치중이 공격의 좋은맥점.];W[hb];B[ia];W[fc];B[eb];W[ec];B[ga];W[db];B[ea]
+;W[da];B[fa]C[
+<正解圖>  白死
+
+흑의 정확한 공격으로 백이
+죽은 모양.]N[正解])

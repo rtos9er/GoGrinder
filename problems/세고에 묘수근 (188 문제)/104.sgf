@@ -1,0 +1,9 @@
+(;AB[bq][bp][bo][bn][cm][cl][dk][fl][fm][gn][fp][fq][er][dr][hp][iq]AW[ar][br][cr]
+[cq][dq][eq][eo][fo][co][cn][dm][em]C[黑先
+
+以妙手杀白，主要破掉中间白棋的眼位，角上已经有一只铁眼了。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[do]C[正解]
+(;W[cp];B[ep];W[dp];B[en];W[dn];B[fn])
+(;W[ep];B[cp];W[dn];B[dp];W[fn])
+(;W[dp];B[cp];W[dn];B[fn];W[ep];B[en]))

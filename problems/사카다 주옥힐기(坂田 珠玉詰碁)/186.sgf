@@ -1,0 +1,20 @@
+(;AB[da][ea][fb][gb][gc][gd][fd][ef][df][bf][be][ad]AW[bc][bd][cb][eb][ec][fc][dd]
+[de]C[
+문제도186  急所 이후 手順
+
+黑先白死  B
+
+첫수가 급소자리.
+이후 백의응수에 정확히 대응
+하면 잡을수 있다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[bb]C[
+껴붙임이 絶妙한 急所!];W[ca]C[
+백이 차단해 오면..];B[ab]C[
+뻗는수가 침착.]
+;W[ac];B[cd];W[cc];B[ce];W[db];B[ed]C[
+<正解圖>  白死
+
+급소이후 완벽한 수순으로
+백이 죽은 모양.]
+N[正解])

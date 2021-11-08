@@ -1,0 +1,10 @@
+(;GM[1]FF[4]AP[Drago:4.23]CA[UTF-8]SZ[19]AB[bq][br][bs][ir][iq][io][gq][gp][fp][ep][dp][cp]AW[cq][dq][eq][fq][gr][hr][cr][hs]
+(;B[ds]
+(;W[cs];B[er]
+(;W[fr];B[fs])
+(;W[fs];B[fr]))
+(;W[fs];B[cs]
+(;W[er];B[es])
+(;W[es];B[er])))
+(;B[er];W[fr];B[ds];W[cs];B[fs])
+(;B[cs];W[ds];B[er];W[fr];B[fs]))

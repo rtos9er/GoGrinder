@@ -1,0 +1,19 @@
+(;AB[ad][bc][cd][ce][de][ee][fe][fd][hd][ic][hb][ec][eb][ea]AW[bb][cc][dc][db][da]
+[dd][ed][fc][gc]C[
+문제도54  귀의 테크닉
+
+黑先白死  B
+
+단순한게 최고!
+Simple is the best!
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ca];W[cb];B[ba]C[
+그냥 조여가는 수가 좋다.];W[aa];B[ba];W[ca];B[ac]C[
+그냥 조여가는 수법으로 잡았다.]
+;W[fb];B[ab];W[fa];B[eb]C[
+<正解圖>  白死
+
+그냥 막 조여가는 수단으로 
+잡았다.]
+N[正解])

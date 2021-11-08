@@ -1,0 +1,29 @@
+(;AB[ia][ma][bb][bc][cc][dc][eb][fb][ed][ee][gf][hf][if][ie][jd][kc][lc][lb][hb]
+[mb]AW[gb][ha][ec][fc][fd][gd][hd][he][ic][jb][kb][la][cb][ga]C[
+문제도26  후절수의 맥
+
+黑先白死  B
+
+양쪽 후절수의 맥으로 백이
+잡히게 된다.
+후절수가 무엇인지 확실하게 
+보여주는 문제.
+
+]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa];W[gc];B[ib];W[db];B[ea]C[
+이수가 妙手!
+후절수를 노린다.]
+(;W[da]C[
+4점을 따내면..];B[jc]C[
+이쪽에서 후절수가 발생한다.];W[hc];B[ja];W[ka]
+;B[ib]C[
+<正解圖1>
+
+후절수로 잡힌 모양.]N[正解])
+(;W[jc]C[
+이쪽을 이으면..];B[ka];W[ja];B[ca];W[da];B[eb]C[
+<正解圖2>
+
+후절수로 잡혔다.]
+N[正解]))

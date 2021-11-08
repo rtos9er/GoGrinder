@@ -1,0 +1,15 @@
+(;AB[ab][ac][bd][cd][dd][ec][ed][fd][gd][hd][ic][ib]AW[bc][cc][dc][ca][eb][fc][gc]
+[gb]C[
+문제도50  手順의 組合
+
+黑先패  C 
+
+수순의 조합으로 패를 만든다.
+흑3수가 妙手!]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[fa];W[ga];B[da]C[
+껴붙임이 고탄력의 妙手!];W[bb];B[db];W[fb];B[ba]C[
+<正解圖>
+
+패 만들기 성공.]
+N[正解])

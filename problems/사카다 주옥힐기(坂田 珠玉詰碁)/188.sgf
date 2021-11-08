@@ -1,0 +1,24 @@
+(;AB[db][da][ea][dc][ed][ee][fe][gf][fg][he][ie]AW[cf][cd][dd][bb][ec][eb][fa][fd]
+[gd][gc][ge]C[
+문제도188  痛快한 攻擊
+
+黑先白死  B
+
+백모양의 약점을 찔러 흑4점을
+살려라.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[gb]C[
+껴붙임이 정확한 공격의 급소.]
+(;W[hb];B[ga];W[ha];B[fb];W[fc];B[hc];W[fa];B[gb]C[
+<正解圖>  白死
+
+정확한 공격수순으로
+백이 죽은 모양.]
+N[正解])
+(;W[hc]C[
+빈삼각으로 응수하면..];B[ga]C[
+가만히 단수치는수가 침착.];W[fc];B[ic]
+;W[hb];B[ib];W[cc];B[ha]C[
+<正解圖>  白死
+
+정확한 공격수단으로 백이 죽은 모양.]))

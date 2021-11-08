@@ -1,0 +1,27 @@
+(;AB[cf][da][ae][af][bf][gd][df][ee][fe][fd][dh][hd][id][hc][ib][jb][ka][gb][fb]
+[eb]AW[mb][bb][cb][db][ad][be][ce][de][dd][ec][fc][ef][ff][gf][if][je][ke][ic][jc]
+[kc][kb][ja]C[
+문제도174  生死의 岐路
+
+黑先活  B
+
+흑이 死地에 몰린 모양.
+
+※준비공작후에 백모양의 약점       을 찔러 살게 된다.
+    정확한 수순이 관건이다.]
+AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[1]
+;B[ea]C[
+잇는수가 삶의 준비공작 1단계.];W[la];B[ha]C[
+백의 자충을 유도하는 수.]
+;W[gc]C[
+백이 잡으러 오면..];B[bd];W[ac];B[ab]C[
+먹여치는수가 起死回生의 妙手!
+문제의 하이라이트.]
+;W[bc];B[dc]C[
+마지막 결정타!];W[cc];B[ed]C[
+<正解圖>  黑生
+
+백이 자충으로 몰려 흑이 살았다
+
+]
+N[正解])
