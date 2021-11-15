@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[dk][dp][dr][cb][dc][ec][cd][bd][cr][bs][er][co][cn][cf][cm][en][bk]
+AW[bb][bc][cc][dd][ed][fd][gc][fb][ar][br][cq][cp][eq][eo][fr][gq][ep][do]C[32，33]
+AP[MultiGo:4.4.4]SZ[19]AB[dq]MULTIGOGM[1]
+
+(;B[bq];W[bp];B[ap];W[aq];B[ao];W[bo];B[an];W[bn];B[am];W[bm];B[al];W[bl];B[ak]
+;W[cl];B[dl]C[正解。])
+(;B[bp];W[bq];B[ao]C[失败。];W[es];B[aq]C[失败。])
+(;B[ba];W[db];B[ab];W[ca];B[ac];W[aa]C[正解。])
+(;B[db];W[ba]C[失败。]))

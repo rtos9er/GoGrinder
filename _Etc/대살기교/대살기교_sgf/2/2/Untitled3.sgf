@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[fm][ci][cm][cn][dn][en][em][el][dk][dj][ej][pd][fc][ec][dc][db][hd]
+[id][jc][kd][lc][rd][qd][eo][pc][fo][go][gp][hp][hq][fq][io][jo][jn][oe][of][pf]
+[qg][rh][qi][jm][il][jj][hi][gi][ii]AW[bb][bc][cd][dd][ed][fd][gd][hc][ic][gb][fb]
+[ip][pb][ob][oc][od][pe][qe][re][rf][rg][cq][bp][bn][bm][bl][cl][dl][ek][dm][fk]
+[er][fr][gr][gq][ir][iq][gl][gm][gn][hn][ho][in][hk][hj][fn]AP[MultiGo:4.4.4]SZ[19]
+AB[gc]MULTIGOGM[1]
+
+(;B[co]C[要点。];W[ep];B[dp];W[eq];B[gj];W[gk];B[fj];W[fp];B[ik];W[hr];B[ij];W[bo]
+;B[im];W[cp];B[hm];W[dq];B[hl]C[正解。])
+(;B[fj];W[co];B[gj];W[gk];B[ik];W[ep];B[ij];W[do];B[im];W[hr];B[hm];W[fp]C[失败。])
+(;B[rc]C[好手。];W[rb];B[sd];W[qb];B[sg];W[qc];B[sf]C[正解。])
+(;B[rb];W[rc]
+(;B[sc];W[qb];B[qc];W[se];B[sd];W[ra];B[qf];W[sb]C[失败。])
+(;B[qb];W[sd];B[qc];W[sb]C[失败。]))
+(;B[qb];W[rc];B[sc];W[rb];B[ra];W[sb];B[sd];W[se]C[失败。])
+(;B[ea];W[cb];B[ia]C[1，3好手。];W[hb];B[fa];W[jb];B[kb];W[cc];B[ga];W[ha];B[ja]
+C[正解。]))

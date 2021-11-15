@@ -1,0 +1,20 @@
+(;CA[gb2312]AB[qh][qi][er][cm][pj][cb][db][eb][fb][fc][rj][pq][pp][po][ed][nn][de]
+[or][nr][rp][oo][ib][hc][hd][he][hf][gg][fh][eg][rc][qb][dd][rd][pc][pd][mn][ln]
+[kn][jo][jp][jq][mc][jr][kr][nd][ne][oe][me][ap][pi][bo][bn][cp][dp][dq][pf][pg]
+[og][dr][cr][rg][sg]AW[bb][bc][cc][dc][ec][fd][gd][gc][gb][be][ee][ff][fg][fs][pb]
+[ob][oc][od][nc][mb][md][ld][pe][qd][re][se][qf][qg][rh][ri][ph][qr][qq][pr][oq]
+[op][qj][no][jn][in][ho][hq][hr][as][br][bq][bp][cs][cq][mo][lo][ko][qe][kp][kq]
+[lr][mq][oh][nh][co][do][eo][ep][fq][fr]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[1]
+
+(;B[fe]C[正解  1，3手筋。
+];W[ge];B[ga];W[df];B[ef])
+(;B[ga];W[fe];B[df];W[ha];B[ea];W[ca];B[hb];W[ba])
+(;W[le]C[正解
+];B[mf];W[of];B[nf];W[ng];B[of];W[lg])
+(;W[ng]C[错];B[of];W[le];B[mf];W[lg];B[sd];W[lf];B[sf])
+(;B[ar]C[正解];W[aq];B[ds];W[eq];B[bs])
+(;B[ds];W[eq];B[bs];W[es])
+(;B[mr]C[正解
+];W[ls];B[lq];W[lp];B[ks];W[os];B[ms])
+(;B[ls]C[错];W[mr];B[ms];W[ns];B[os];W[nq];B[ks];W[ps];B[ns];W[qp];B[qo];W[rq];B[ro]
+;W[rs]))

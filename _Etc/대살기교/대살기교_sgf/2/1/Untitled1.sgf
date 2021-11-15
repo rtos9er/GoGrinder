@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[pp][po][oq][nq][or][pr][mp][lp][kp][jp][lr][jn][kn][ab][bq][cc][cd]
+[ce][de][ee][ef][eb][ec][fc][fd][gc][mm][hd][br][on][cp][dp][ep][qc][er][qd][pc]
+[od][oe][of][og][cm][bm][dl][en][em][el][ek][oh][pi][pj][pk][dj][di][ci][qh][qg]
+[rg][rk][kq]AW[bb][cb][db][dc][dd][ed][fe][ff][fg][eg][df][cf][be][gd][lo][cq][bp]
+[bo][co][cn][dn][dm][dk][ck][cl][cj][bi][bh][rq][qq][op][jq][iq][np][no][mo][pq]
+[mq][lq][mr][kr][qi][ri][rh][ph][pg][pf][pe][pd][qe][oc][ob][pb][qb][rc]AP[MultiGo:4.4.4]
+SZ[19]AB[bc]MULTIGOGM[1]
+
+(;B[rd];W[re]
+(;B[sg];W[sf];B[rj];W[rf];B[qj]C[正解。])
+(;B[rj];W[sg];B[sf];W[rf];B[sh];W[si];B[qj];W[sg]C[失败。]))
+(;B[rj];W[rf]C[失败。])
+(;B[ms];W[ls];B[ns];W[ir];B[nn];W[qr];B[ln];W[ps];B[mn];W[qs];B[ko]C[正解。])
+(;B[nn];W[nr];B[ns];W[ls];B[ln];W[qr];B[mn];W[ps]C[失败。])
+(;B[bj];W[bk];B[an];W[ao];B[do];W[bl];B[aq]C[正解。])
+(;B[an];W[bn];B[do];W[bl]C[失败。])
+(;B[bf];W[bg];B[da];W[bd];B[ac]C[正解。]))
