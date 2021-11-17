@@ -1,7 +1,13 @@
-(;GM[1]FF[4]AP[Drago:4.32]SZ[19]CA[UTF-8]AB[bb][fb][fc][hc][id][hd][gd][jb][jc][mb]AW[gc][gb][hb][ib][ic][jd][je][ie][hf];W[fd];B[ge];W[ec];B[eb];W[db]
+(;CA[utf-8]FF[4]AB[bb][fb][fc][hc][id][hd][gd][jb][jc][mb]AW[gc][gb][hb][ib][ic]
+[jd][je][ie][hf]AP[Drago:4.32]SZ[19]GM[1]MULTIGOGM[1]
+
+(;W[fd];B[ge];W[ec];B[eb];W[db]
 (;B[dc];W[ed];B[cb];W[fa];B[da];W[ja]
 (;B[kb];W[ff]
 (;B[ia];W[gf];B[ha];W[ga])
 (;B[ga];W[gf];B[ia];W[ha]))
 (;B[ka];W[kc];B[kb];W[lb]))
 (;B[ed];W[fe];B[gf];W[ff];B[gg];W[dc]))
+(;W[ja];B[kb];W[fd];B[ge];W[ec];B[eb];W[db]
+(;B[ed];W[fe];B[gf];W[ff];B[gg];W[dc])
+(;B[dc];W[ed];B[cb];W[fa];B[da];W[ff])))

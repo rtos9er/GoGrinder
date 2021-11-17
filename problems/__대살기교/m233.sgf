@@ -1,3 +1,6 @@
-(;GM[1]FF[4]AP[Drago:4.32]SZ[19]CA[UTF-8]AB[pp][po][on][mn][mp][lp][kp][kq][nq][nr]AW[qq][pq][jq][iq][kr][lq][mq][mr][np][op];B[ns]
+(;CA[utf-8]FF[4]AB[pp][po][on][mn][mp][lp][kp][kq][nq][nr]AW[qq][pq][jq][iq][kr]
+[lq][mq][mr][np][op]AP[Drago:4.32]SZ[19]GM[1]MULTIGOGM[1]
+;B[ns]
 (;W[lr];B[oq])
-(;W[oq];B[lr];W[ls];B[ms]))
+(;W[oq];B[lr];W[ls];B[ms])
+(;W[ir];B[oq]))
