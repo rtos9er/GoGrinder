@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[lo][no][op][oq][pp][pr][qo][dp][fp][ip]AW[qn][pn][ln][cn][qk][ok]
+[mk][kn][ko][kp][jq][mp][mq][nr][or][pq]LB[qq:A][qr:B]C[第37图 白先 A级
+一石二鸟
+右下角即使白A长出黑B挡住，白仍失败，白棋要用其他的攻击手筋。
+找到一石二鸟的手筋之后，还是有一些麻烦手续。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[iq]MULTIGOGM[1]
+;W[rp]C[正解图]N[正解图]
+(;B[ro];W[qq];B[qr];W[rr]C[白1为点的手筋。
+黑若2位阻渡，则白3再5，攻杀白简单获胜。
+白1时，黑2若3提则白2，黑死。请自行研究。])
+(;B[rq]MN[2]C[参考图]N[参考图];W[ro];B[qp];W[qr];B[ps];W[qs];B[qq];W[os];B[pq];W[sq]
+;B[sr];W[rs]C[白1点时，黑若在2位碰，应手比较难。
+白3、黑4接应，白5重要，黑6至10接应时，白11再13，黑死。]))

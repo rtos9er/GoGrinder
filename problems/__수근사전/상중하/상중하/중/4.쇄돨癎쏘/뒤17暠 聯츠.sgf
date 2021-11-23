@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ep][eo][fo][go][gp][gq][hq][hr][pp][cp]AW[cr][eq][fq][fp][fr][gr]
+[cn][en][iq][io]C[第17图 黑先 A级
+证明
+实战下出之形。请证明一下白棋手拨是无理的。
+黑如何动手，白如何对应，须用双方最佳的手段。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[bq]C[正解图]N[正解图];W[br];B[ar];W[es];B[dr];W[dq];B[cq];W[bs];B[ds];W[gs];B[hs]
+C[黑1之尖为手筋，对白2，黑3扳攻击。
+白4以下为最强的粘力，但黑按手顺至11止杀掉白棋。
+黑1若2、白5黑1白4活掉了。])

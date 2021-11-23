@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[co][cn][cm][qo][hq][ho][dq]AW[eq][dp][do][dn][jq][jo][op][pq]LB[dr:A]
+[cq:B][fp:C]C[第8图 白先 B级
+姿态好
+左下角的战斗中，普通的着想是白A黑B白C，但高手不会这样下的。
+必须考虑和前面几图一样分量的先手利手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cp]MULTIGOGM[1]
+;W[gq]
+(;B[gp]C[参考图]N[参考图];W[cq];B[dr];W[cr];B[er];W[fr]LB[gr:A]C[白1是跳碰的手筋。
+黑若2应，白3断至7可吃到黑子，此形为黑棋上了白棋的当。黑2若A，白3仍然成立。])
+(;B[dr]MN[2]C[正解图]N[正解图];W[hr]LB[cq:A]C[对白1，黑大致2应，白3渡过。
+白1跳碰是把A断和3渡当做相对点的巧妙战略。]))

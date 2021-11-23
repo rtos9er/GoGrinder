@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[fm][hn][jn][jp][kp][hp][gp][pp][pn][dq][cp]AW[go][fo][fq][eq][jq]
+[kq][lq][nq]LB[hr:A][ir:B]C[第4图 白先 A级
+简洁
+左右两边白子能否握手。
+白单在A位飞被白B跨，白棋无法连结，白A之前要做点准备工作。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dn]MULTIGOGM[1]
+;W[ip]C[正解图]N[正解图];B[ho];W[hr];B[ir];W[hq];B[iq];W[is]LB[io:A]C[白1挖黑2接时，白再3飞，黑即使4跨，白5再7仍可渡过。
+白1时，黑若6、白4黑A白3即可。])

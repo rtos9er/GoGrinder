@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pn][iq][gr][fq][fr][er][dr][dq][dp][dn][dm][co][bn][bp]AW[nq][fp]
+[hq][eq][ep][eo][en][do][cp][cq][cr][bq][hp][hr][gq]LB[ar:B][bs:A]C[第4图 黑先 A级
+天下太平
+左下角黑白对杀。
+乍看之下，手筋不是A就是B，实则不然。意外之处潜伏着攻击手筋，才能天下太平。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+
+(;B[ap]C[正解图]N[正解图];W[ds];B[aq];W[ar];B[bs]C[角上对杀。
+黑1立是有点不易看出的手筋。
+白若2，黑3再5胜。白2若3则黑4胜。
+实战中，黑1这手棋容易错过。])
+(;B[bs]N[参考图];W[ap];B[bo];W[cs];B[ds];W[br];B[ar];W[as]C[黑1攻击是普通的想法，但白2至黑5时，白若6，黑只能7，白8成劫。
+黑1若7、白2黑3白1，攻杀黑负。]))

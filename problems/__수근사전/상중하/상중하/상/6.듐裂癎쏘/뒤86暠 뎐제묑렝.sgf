@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[dp][eq][em][cm][pp][im][qr][pr][pq][ol][oq][oo][mq][mp][lp][kp][kq]
+[nn][mm][om]AW[ck][ek][gk][hp][jq][kr][lr][mr][nr][or][lq][qq][qp][po][pn][pm][on]
+[qk]C[第86图 黑先 A级
+弹力攻防
+下边白棋爬了五手棋，似乎已经活了，但遭黑一击，会被夺去根据。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gm]MULTIGOGM[1]
+;B[ir]C[正解图]N[正解图]
+(;W[gr];B[gq];W[hq];B[hr];W[fq];B[gp];W[fp];B[go];W[er];B[iq]C[攻击下边白棋大龙的问题。
+黑1为点之手筋。白若2位隔断，黑3再5，不管怎么变化都是黑好。黑11止，黑大为有利。])
+(;W[gq]MN[2]C[参考图]N[参考图];B[gr];W[fr];B[hq];W[fq];B[gp];W[iq];B[hr];W[fp];B[go]
+LB[ip:A]C[黑1点时，白若2则黑3碰即可。
+白若4，黑5、7接应，不管怎么变化都是黑好。
+白4若9则黑8白A黑5，黑好。]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[lr][ep][eq][fr][fn][fm][hn][hm][bk][dk][dj][fk][fj][gj][hj][ml][mm]
+[om][qm][op][np][mp][mq][dn][kr][jr][jq][iq][co]AW[jp][pp][qp][oq][nq][kq][kp][ip]
+[ir][hq][gq][gr][go][ll][lk][mk][jk][ij][hk][gk][gl][fl][dl][cl][cn][bn][el][km]
+C[第39图 黑先 B级
+轻快的步调
+下边到中央转到左方的白子似乎已经全部连结，但黑棋可用巧妙的手顺将之切断。
+必须做点准备工作。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[1]
+;B[il]C[正解图]N[正解图];W[ik];B[jn];W[kn];B[ko]C[白棋似已全部连结，实则不然。黑用1、3、5的手筋，可将白棋分断。
+黑1若3，白4黑1，结果一样。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[gp][go][en][do][co][bo][lq][iq]AW[pp][nq][fp][eq][cp][bp]C[第40图 黑先 A级
+默想
+分先定石所下出的形。
+自认力量不错的人，也不容易正确算出死活变化。请弄成聚五死形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gq]MULTIGOGM[1]
+;B[dp]C[正解图]N[正解图];W[dq];B[br];W[cq];B[fr];W[er];B[cr];W[ap];B[es];W[ds];B[fs]
+;W[dr];B[bs];W[ar];B[bq]LB[aq:A][ao:B]C[目外定石所下出之形。
+黑1再3为手筋。白若4，黑5以下15止，白聚五死。此外，黑7之后，白若9、黑8白A黑B白15黑13止，白死。])

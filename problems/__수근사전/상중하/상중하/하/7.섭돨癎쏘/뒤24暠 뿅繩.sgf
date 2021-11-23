@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[nq][pr][kr][jq][jp][cr][br][bq][bp][ao][bn][bm][cm][dm][fn][gn][hm]
+[fq]AW[qn][jr][ir][iq][hp][hn][in][go][eo][eq][dr][cq][cp][co][cn][bo][qq][pp]C[第24图 黑先 A级
+恍惚
+官子问题。
+白若围成地有16目，希望黑能用巧妙的官子，削减白地。
+知道第一手棋，即可步入坦途。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[lq]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图]
+(;W[fr];B[ep];W[es];B[fo];W[gq];B[fp]C[黑1为挤之手筋。
+白若2，黑3再5从上边连出，赚了不少。
+下出的时候，不觉得怎么样，但在实战却不易注意到这个手筋。])
+(;W[dq]MN[2]C[参考图]N[参考图];B[gq];W[fo];B[ds];W[fr];B[fs]C[黑1时，白若2黏则黑3，次将4和5当做相对点。
+白若4，黑5再7成为劫争。
+损益根据劫材的多寡而定。]))

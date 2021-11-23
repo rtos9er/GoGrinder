@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[eo][fp][fn][gn][hn][jn][kn][kq][lr][dr][dq][dp]AW[pp][lp][mq][jo]
+[fo][go][ho][ep][eq][er][en][dn][co][cp][br]C[第54图 黑先 A级
+专家力量
+这是本辞典中，最难的一个问题。
+黑可做成相对点，白也有点的绝妙手筋，算得清楚有专家的力量。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[do]MULTIGOGM[1]
+;B[fr];W[fq];B[gq];W[es];B[gp];W[gr];B[io];W[hp];B[hq];W[ip];B[iq];W[in];B[jp];W[io]
+;B[im];W[ko];B[jq]
+(;W[mr]C[参考图]N[参考图];B[gs];W[fs];B[hs];W[hr];B[is];W[ir];B[js];W[jr];B[ks]
+C[黑1是夹碰的手筋。
+白6时，黑7再9是手顺。
+白18为恶手，被黑19打到，以下至27止，黑胜。])
+(;W[kr]MN[18]LB[gs:A][lo:B]C[正解图
+前图白18的变化。
+白18碰是左右兼顾的绝妙手筋，一手定江山。中国古书记载着日本棋手发现白18的故事。白18兼防黑A以及B。]
+N[正解图]))

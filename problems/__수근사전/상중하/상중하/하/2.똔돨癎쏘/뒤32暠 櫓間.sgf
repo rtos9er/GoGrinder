@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[is][ho][in][nq][dr][dq][dp][ep][ip][iq]AW[pp][pn][br][bp][co][dn]
+[fm][fo][go][hp][hr][fr][eq]C[第32图 黑先 B级
+中枢
+被包围的黑四子，是否能和右方黑棋连络？
+找出急所一点，不是能渡过，就是能在中央做活。
+解答有两个。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ir]MULTIGOGM[1]
+;B[gq]C[正解图]N[正解图];W[hq];B[gr];W[fq];B[gs];W[gp];B[hs];W[fp];B[fs]LB[er:A]
+C[黑1、3、5是手筋的下法。白6至9，黑自然连结。
+黑1时，白若8，黑4白2黑3白6黑A做活。])

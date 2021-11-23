@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[cm][ck][nq][jq][ir][hq][gq][go][gm][hm][er][dr][cq][cp][bo][bn]AW[pp]
+[gr][fr][fq][eq][dq][eo][co][em][el][dk][fk][hl][pn][hr]C[第63图 黑先 C级
+简单
+下边一间跳往中央出头的棋似已连结，但经黑棋出击，还是会被切断。
+本题容易。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dl]MULTIGOGM[1]
+;B[en]C[正解图]N[正解图];W[fn];B[dn];W[fo];B[fm];W[gn];B[hn];W[gp];B[ho];W[hp];B[ip]
+;W[iq];B[hq]LB[dm:A][dp:B][do:C][ep:D]C[黑1位挖，白若2以下至13止，黑杀掉白棋。
+白2若3，黑2白A黑B白C黑D即可。])

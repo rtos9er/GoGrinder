@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[kr][jq][jp][hq][dp][dn][dr][cj][pp][qp][mq][lq]AW[fq][ir][jr][kq]
+[kp][lp][jo][qn][qk]C[第33图 白先 C级
+一击
+这是个简单的问题，初学者一看到这个题目，就必须心里有谱。
+这种地方，多想是不行的，要算到第七手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[lr]MULTIGOGM[1]
+;W[hp]C[正解图]N[正解图];B[iq];W[hr];B[gq];W[gp];B[gr];W[fr]C[白1之碰为手筋。
+黑只好2位黏，白3至7攻击，简单可吃到黑子。
+在白1碰时，就应该放弃抵抗。
+])

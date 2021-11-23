@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][pn][ql][oq][or][in][qr][bq][cp][dp][ep][eo][bp][aq][fo][go][hp]
+[hq][gr][hn][gm][jm]AW[co][nr][ir][iq][ip][io][ho][dm][en][ck][nq][np][ns][os][nn]
+[gp][jn][kn][do][ap][ao][bo]C[第47图 白先 C级
+精密
+本题属于局部的小利益。
+对角上黑地，白棋如何收官？白棋收官方法好，可便宜两目。有时细腻的官子，将对胜负起到决定性的作用。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ps]MULTIGOGM[1]
+;W[gs]C[正解图]N[正解图];B[fr];W[hr];B[gq];W[fs];B[es];W[hs];B[er]C[这是官子的问题。
+白1之碰为手筋，黑2以下至8止接应。白1若3则黑4白1黑5白7黑2，黑地多出2目。官子之际，2目的利益很大。])

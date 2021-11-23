@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[oq][pn][qj][nm][nk][pp][mo][lk][lj][kj][jk][mn][il][cp][dp][ep][fp]
+[fo][go][gn][hn][in][hm][dr]AW[nn][no][mp][nq][nr][jj][ij][hk][hl][fl][fn][en][eo]
+[cn][bo][bp][bq][ho][io][jo][kk][kl][km][hq][eq][fr]C[第8图 黑先 A级
+潮流
+从左下角到中央的黑棋大龙没眼位，必须冲白棋包围圈的缺陷才能做活。
+知道手筋，自然可如流水般解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jl]MULTIGOGM[1]
+;B[kn]C[正解图]N[正解图];W[jn];B[jm];W[ln];B[ko];W[lo];B[kp];W[lm];B[hp];W[ip];B[iq]
+;W[gp];B[jp];W[hp];B[hr];W[gq];B[jr]C[黑若1碰，白2以下势成8止的进行，黑9挖至17止吃掉白棋了。
+被黑1碰到时，白棋就必须算清楚。])

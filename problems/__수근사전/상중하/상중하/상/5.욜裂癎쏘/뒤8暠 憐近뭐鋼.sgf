@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[gq][hp][hr][pp][mq][dp][ep][cp][co][bo]AW[cn][bp][bq][cq][dq][fr]
+[hq][iq][ip][in][kq]TR[hr]C[第8图 黑先 B级
+整形构想
+现在白棋去觑黑△子。黑棋单黏的话，不够生动，要打出手筋。
+黑棋的应法会使结果大为不同。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gp]MULTIGOGM[1]
+
+(;B[er]C[正解图]N[正解图];W[eq];B[fq];W[dr];B[gr];W[es];B[dn]C[黑1为跨之手筋。
+白2至6接应时，黑可下到7之扳。
+黑棋下到7位才是安定形。])
+(;B[gr]C[参考图]N[参考图];W[fq];B[fp];W[en]C[黑若1位黏，白2黑3时，白先4跳，相差一手棋。
+前图黑7扳和本图被白4跳到，其得失之大几乎能左右形势。]))

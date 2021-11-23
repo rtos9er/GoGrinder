@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[go][gp][fo][fn][en][do][dp][dq][dr][co][bp][pp][mq][mp]AW[bn][bo]
+[cn][dn][em][dl][eo][ep][fp][fq][er][iq][lq][kp][kn]C[第6图 黑先 B级
+斗角
+下边白棋乍看似乎连结，实则不然。遭黑一击，就会被分断。
+不过，攻白的手筋有两个，那一个成立呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[in]MULTIGOGM[1]
+
+(;B[gr]C[正解图]N[正解图];W[gq];B[hq];W[hr];B[hp];W[gs];B[ir];W[fr];B[jq];W[es]
+;B[br]C[下边白棋似已连结，其实不然。
+黑1跳就能分断白子。
+白若2，黑3以下11止活角为要领。黑棋成功。])
+(;B[hq]C[参考图]N[参考图];W[hr];B[gr];W[gq];B[hp];W[gs];B[ir];W[fr];B[jq];W[es]
+;B[br]C[本图黑1尖碰以下至11止的结果，和前图黑1于3位跳一样。
+以手筋的立场而言，二者都能成立。]))

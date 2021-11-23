@@ -1,0 +1,21 @@
+(;CA[gb2312]AB[pr][pp][qp][op][np][oq][oo][pn][nn][nm][nl][nk][oj][jj][cj][cq][dp]
+[dn][fn][fo][gp][jr][jq][lr][lq][mr][kp][jo][ko][lo]AW[qo][qn][pm][pk][pj][lj][ml]
+[mm][mn][mo][lp][no][mp][mq][nq][nr][or][kn][im][hn][go][fp][fq][dr][hp][ip][hr]
+C[第12图 黑先 B级
+轨道
+下边黑棋被包围，有没有脱困的方法？
+白棋冲黑缺陷，有一定的轨道，因此形经常出现在实战，应用范围广。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[in]MULTIGOGM[1]
+;B[jm]C[正解图]N[正解图]
+(;W[jn];B[io];W[jl];B[hm];W[il];B[ho]LB[ln:A]C[下边黑棋的处理办法。黑1扳为手筋。
+白2再4接应的话，黑5再7逃出。
+白4若5，被黑A冲出，白恶。])
+(;W[jl]MN[2]C[参考图]N[参考图]
+(;B[il];W[hm];B[kl];W[km];B[jn];W[jk];B[kk];W[ik];B[ij];W[hk];B[kj]LB[ln:A][io:B]
+[lk:C][li:D]C[黑1扳时，白若2位挡，黑3再5切断，白6若7，黑A白B黑6即可。
+白8以下至黑13止，次白C黑仍可D吃白。])
+(;B[km]MN[3]C[参考图]N[参考图];W[ln];B[jn];W[kl];B[il];W[hm];B[ll];W[lk];B[lm];W[mk]
+;B[kk]C[黑1白2时，黑也有3的应手。
+白4再6时，黑7再9挖，至13止吃到白二子而逃出。])))

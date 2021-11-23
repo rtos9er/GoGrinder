@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[hp][go][fo][ep][dp][cp][bp][bq][pp][np]AW[qn][fp][gp][cq][dq][eq]
+[br]LB[gq:A]C[第5图 黑先 B级
+笨蛋透顶
+类似前图之形。
+初学者第一手总是想下在A位，但就算没研究过这种手筋，也会被批评为笨蛋透顶。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ip]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图]
+(;W[fr];B[ar];W[dr];B[cs]LB[bs:A]C[黑1为手筋。
+白若2应则黑3扳，白若4，黑5点眼杀掉白棋。黑5若A扳，白5变成劫争。])
+(;W[ar]MN[2]C[参考图]N[参考图];B[ds]C[黑1时，白若2则黑3飞为手筋，白死。
+破眼的手筋在死活题是应用最广的手筋。]))

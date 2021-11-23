@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[fl][im][jn][kn][jl][kp][kq][kr][lr][ho][io][gp][gq][fr][eq][dr][dp]
+[fm][bp][qn][bm][cm][dm]AW[lo][pp][nq][mr][lq][lp][jo][in][hn][gn][fn][dn][bn][bo]
+[do][ep][fq][go][fp][en]C[第30图 白先 A级
+正确的细算
+左方被吃，但因下边黑棋有缺陷，可想点办法。
+解决的过程手顺长，容易生出错觉。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cq]MULTIGOGM[1]
+;W[gr]C[正解图]N[正解图];B[hp];W[fs];B[er];W[ip];B[hq];W[iq];B[hr];W[hs];B[gs];W[em]
+;B[el];W[gr];B[ir];W[jr];B[gs];W[hl];B[is];W[gl]LB[jp:A][ko:B]C[白1时，黑若2黏，白3以下9成劫，白11找劫材至19逃出。
+白1时，黑若5，白7黑A白8黑2白B即可。])

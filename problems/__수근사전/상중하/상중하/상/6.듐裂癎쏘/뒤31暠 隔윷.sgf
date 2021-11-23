@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[gr][fp][eq][dq][dp][cr][pp][mq][gp]AW[dr][er][fr][fq][ep][do][eo]
+[fo][qn]LB[cq:A][cp:B][bq:C][bp:D][br:E][cn:F]C[第31图 白先 A级
+贪婪
+白若A断，黑B白C黑D白E黑F的话，并不稀奇。
+白棋能否将黑子全部收下呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gq]MULTIGOGM[1]
+;W[bq]C[正解图]N[正解图];B[bp];W[br];B[cp];W[co];B[bo];W[bn]LB[cq:A][cn:B]C[白1为点之手筋。对黑2，白3至7，白胜。
+白1若A断，则黑4白1黑2白3黑B跳逃出，所以，白棋非于1位点不可。])

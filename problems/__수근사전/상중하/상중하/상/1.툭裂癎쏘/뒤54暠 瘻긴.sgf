@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[ep][jo][jq][nq][np][cm][dn][en][fn][ho][fo]AW[co][do][eo][dq][eq]
+[gq][hq][oq][pp][pn]C[第54图 黑先 A级
+转变
+左下角的白地，如果就这样决定，将有20目左右的地，但黑棋藏有破坏白地的手筋。
+因为变化很多，必须做出双方最佳的处理才行。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fp]MULTIGOGM[1]
+;B[cq]C[正解图]N[正解图]
+(;W[dp];B[fq];W[fr];B[bp];W[bo];B[dr];W[er];B[br];W[ds];B[cs]C[黑1之碰为手筋。
+白若2黏，黑3以下11成为劫争。
+在白地中成活，自然算黑棋成功。])
+(;W[cr]MN[2]C[参考图]N[参考图];B[fq];W[fr];B[dr];W[er];B[br];W[ds];B[dp];W[bq];B[cp]
+;W[bp];B[bo];W[ao];B[bn];W[ar]LB[gr:A]C[黑1碰时，白若2位应，则黑3白4时，黑5为手筋白若6，黑7以下至白16止，黑先手取得大利。
+白6若10，黑6白11黑A即可。]))

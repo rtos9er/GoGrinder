@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[hp][gq][pp][pn][pl][dp][cp][jp][kp]AW[nq][no][nm][kn][io][ho][go]
+[ip][fq][cn][dl]TR[fq]C[第28图 黑先 C级
+简单
+白▲碰想破坏下边黑地。
+黑棋如何阻止，问题简单吧！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[iq]MULTIGOGM[1]
+
+(;B[eq]C[正解图]N[正解图];W[fp];B[fr]LB[er:A][dr:B]C[黑1是夹碰的手筋。
+白只能2位退，黑3简单渡过。
+次白A断则黑B，到此为止。])
+(;B[fp]C[参考图]N[参考图];W[gp];B[hq];W[ep];B[eq];W[fo];B[fr];W[er]C[黑若1位扳，白会2再4打。黑5再7时，白8断成为劫争，所以，黑1是不成立的。]))

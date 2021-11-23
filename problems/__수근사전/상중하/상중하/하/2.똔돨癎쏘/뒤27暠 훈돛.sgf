@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cp][do][en][fr][fq][gp][pp][pn][br]AW[cr][dq][eq][eo][fp][go][ho]
+[iq][hr][nq]C[第27图 黑先 C级
+绕道
+下边被白围住的黑三子，有没有办法和角上黑棋连络？
+注意到白棋假眼的缺陷，应该马上知道手筋。想出第一着，问题就简单。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cq]MULTIGOGM[1]
+;B[cs]C[正解图]N[正解图];W[dr];B[ds];W[es];B[bs]LB[er:A]C[黑1扳，盯着白棋的接不归，简单可渡过。
+白若2黏，黑3再5到此为止。黑1若2断，白A黑1白4，黑无法渡过。])

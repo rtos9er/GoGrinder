@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][pq][qo][ro][rn][np][mq][lq][jp][jo][ho][hn][hq][fp][dp][cq][rk]
+[qj][ql][pl][ok][nk][nl][ll][jl][ik]AW[bp][cn][dl][dj][gm][hm][il][in][jn][kn][kp]
+[lp][kq][kr][mn][on][om][ol][qm][qn][rm][rl][qq]C[第40图 黑先 C级
+单行道
+下边到右边的白棋大龙似已全部连结，但遭黑一击，会破裂开的。
+必须一看白形状就知道手筋在那里。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[jj]MULTIGOGM[1]
+;B[ln]C[正解图]N[正解图];W[lo];B[lm];W[ko];B[mo];W[nr];B[mp];W[pr];B[or];W[oq];B[qr]
+;W[os];B[rq]LB[op:A][oo:B]C[黑1挖可吃到右边白子。
+白6为手筋，黑用7、9、11的手顺，可将损失减至最小。次，白若A，黑B即可。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[br][dn][dm][fn][gn][ho][in][iq][ir][gq][gr][fr][er][pp][pn][cp]AW[jp]
+[jq][jr][is][nq][do][eo][go][gp][eq][fq][dq][dr][es]C[第26图 白先 B级
+再生
+左下角被黑困住的白九子，有没有办法和右方白子连络？
+再生之路系于白棋的第一着，但因黑棋也藏有抵抗手法，后面的细算很重要。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[co]MULTIGOGM[1]
+;W[gs]C[正解图]N[正解图];B[hq];W[hp];B[ip];W[fs]LB[hr:A][hs:B]C[白1为跳碰手筋。黑2若5，白3黑4白A胜。
+黑若2应，白3再5，黑B打劫的手法不易实现。])

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dq][eo][fo][fn][fm][pp][pn][cq]AW[ep][fq][hp][jq][nq][cp][co][do]
+[en][em][el]C[第18图 黑先 C级
+基本手筋
+如何将分离的黑子巧妙连结的问题。
+要一并使用扭断手筋才能达成目的。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[gq]C[正解图]N[正解图];W[gr];B[fr];W[gp];B[fp];W[hq];B[eq]C[黑1为跨之手筋。
+白2时，黑3为扭断手筋，靠这两个手筋，黑得连结。
+此形为跨之手筋的标本。])

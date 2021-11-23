@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[eq][fp][eo][do][co][bo][cp][kq][hq][gr]AW[pp][mq][cn][dp][ep][dq]
+[cq][br][er]C[第26图 黑先 A级
+精采
+角上白棋生死问题。
+变化很多，连对细算有信心的人，也会感到困扰。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fq]MULTIGOGM[1]
+;B[bq]C[正解图]N[正解图];W[aq];B[bp]
+(;W[ar];B[bs];W[cr];B[ds];W[es];B[cs]LB[dr:A][fs:B]C[黑1为挤之手筋。
+白2时黑3照应。
+白若4黏，黑5为手筋。白若6，黑7再9，白死。另外，黑5时白若9、黑A白6黑8白7黑B止，白死。])
+(;W[cs]MN[4]C[参考图]N[参考图];B[dr];W[cr];B[es];W[ds];B[fs]TR[gr]C[对黑1之挤，白若2、4变化，黑5白6之后，黑7反打为破眼手筋。
+对白8，黑9长，白死。
+此一场合，黑△子当然有用。]))

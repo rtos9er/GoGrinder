@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[hn][qk][kq][kp][dm][in][gn][fm][em][qn][dn][co][cp][cq][dr]AW[gm]
+[gl][fk][dk][cl][go][dq][pp][rp][il][nq][er][dp][do][en][fn][ho][hq][jq]LB[cr:A]
+[fq:B]C[第28图 黑先 A级
+研究透澈
+黑若A黏则白B补，黑是否可省略A之黏，简单在白阵出棋呢？
+显然有棋，但想研究透澈则难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[jo]MULTIGOGM[1]
+;B[eq]C[正解图]N[正解图];W[cr];B[ep];W[ds];B[fo];W[fq]C[黑1断为严厉的手筋。
+白若2断，黑3再5吃掉白二子而连通。
+黑1若2黏被白6补到，则缺乏作用。])

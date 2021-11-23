@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[fo][eo][do][cn][cp][bp][pp][mq][hp][hq]AW[qn][dp][ep][fp][cq][bq]
+C[第3图 黑先 A级
+一路之差
+类似前图之形，但右方黑棋没贴住白棋，难了一点，不过，手筋是一样的。
+这个问题之所以难，自然是因为细算必须正确。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[go]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图];W[fr];B[gr];W[fs];B[fq];W[eq]
+(;B[dr];W[gq];B[dq];W[hr];B[gp];W[fq];B[br];W[ir]C[类似前图之形。黑1为手筋。
+白2时黑3，白若4，黑5以下至14止，黒\实利大，黑棋成功。])
+(;B[gp]MN[7]C[参考图]N[参考图];W[gq]LB[dr:A][dq:B]C[前图黑7的变化。
+前图黑7在A位长，但黑若7则变成劫争。但白棋可先手提个劫，等黑提回熱子时，白还有时间B黏。]))

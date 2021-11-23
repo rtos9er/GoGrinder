@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[bk][dl][dm][fl][gl][hl][ck][jl][kl][lm][ln][lo][lp][il][lr][hk][dp]
+[cq][eq][co][bo][fp][gp][jp][kq][qn][qk]AW[bn][dn][cn][en][do][gn][gm][hm][io][km]
+[ko][kn][kp][jq][jr][hq][gq][pp][np][mq][nn][mm][ml][ll][kk][jk][ik][bl]C[第20图 黑先 B级
+鬼手
+右边黑七子被吃掉了。
+白棋大龙看起来已经连络，但只要能找出鬼手，不难将尾巴白子留下。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[lq]MULTIGOGM[1]
+;B[in]LB[ho:A][jo:B]C[正解图
+黑1为碰之手筋。
+次，白若A则黑B，另外，白若B则黑A，白棋总能吃到一边。白棋须B位应，弃掉左边之子吧！
+黑1碰是凄厉的手筋。]
+N[正解图])

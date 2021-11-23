@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[dp][cp][do][dn][cm][cl][qn][jq][fq][er]AW[pp][np][cq][dq][bp][bo]
+[co]LB[br:A]C[第11图 黑先 A级
+小心
+问题在于角上白棋的生死。
+乍看之下，黑A似是攻白的手筋，其实没办法完全吃到白棋的，高手也会弄错，请当心。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ep]MULTIGOGM[1]
+
+(;B[cr]C[正解图]N[正解图];W[br];B[dr];W[bs];B[bn]LB[bq:A][ds:B]C[黑1是夹碰手筋。
+白2若3则黑2白A黑B即可。
+黑5止，白简单死。黑1若2则变成劫争。])
+(;B[br]C[参考图]N[参考图];W[cr];B[cs];W[bs];B[as];W[ds];B[dr];W[bs]LB[ar:A]C[黑1点虽然是普通的着想，但白2黑3时，白有4扑的手法，黑5至白8止变成劫争，黑不行。黑5若6则白A，同样是劫。]))

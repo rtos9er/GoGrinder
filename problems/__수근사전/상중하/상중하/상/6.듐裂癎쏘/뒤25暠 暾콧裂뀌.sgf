@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[bn][dm][em][fm][gm][ep][hl][im][jm][lm][jo][ko][kp][qn][qk][ip][hq]
+[cq][cp]AW[pp][qp][mq][kq][lp][lo][jq][jp][io][in][dq][cm][cl][dl][el][fl][gl]LB[hr:A]
+[gr:B][ir:C][gq:D]C[第25图 白先 A级
+云泥之差
+如何削减黑地的问题。
+普通的想法，白A黑B白C黑D就能满足，但此际白A碰是大损棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cn]MULTIGOGM[1]
+;W[gr]
+(;B[hr]C[参考图]N[参考图];W[hp];B[iq];W[gq];B[ho];W[gp];B[hn];W[hs];B[jn];W[ir]
+C[白1为点之手筋。黑2也有4的应手。
+白3、5以下至11渡过，白大获便宜。黑4不得不5位屈服，允许白4提。])
+(;B[gq]MN[2]N[正解图];W[hr];B[fr];W[fq];B[eq];W[fp];B[fo];W[hp];B[gp];W[iq]C[黑若2应，则成白3黑4的进行。
+白5断，黑6再8时，白9再11提通。此为双方都正确的接应。]))

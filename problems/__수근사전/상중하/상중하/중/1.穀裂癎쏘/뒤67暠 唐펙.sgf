@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[ip][io][ho][gn][fm][fo][eo][co][cn][bm][cl][dq][pq][op]AW[cq][cp]
+[bo][bn][eq][go][gp][gq][hp][iq][jq][qo]TR[dq]C[第67图 黑先 A级
+有棋
+下边若成白地则有二十目，黑是否可运用△搞点手段。
+手法很多，但不容易算清楚。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[lq]MULTIGOGM[1]
+;B[fq]C[正解图]N[正解图]
+(;W[fp];B[ep];W[fr];B[er];W[dr];B[fq];W[es];B[eq];W[hr];B[cr];W[ds];B[br];W[bq]
+;B[ar]C[黑1为巧妙的手筋。
+白若2，黑3以下15止，白攻杀负。所以，白6、8不成立。白6必须11位应。])
+(;W[er]MN[2]C[参考图]N[参考图];B[dr];W[dp];B[fr];W[ep];B[fp];W[gr];B[es];W[cr];B[hr]
+C[黑1挖时，白若2位应，黑有3、5的手顺。以下至黑9止，白10只好在角上应，黑11止，右方白子出现死活问题。黑1若4则白3，没棋。]))

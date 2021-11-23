@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[fp][gq][fq][hr][is][jr][jq][iq][qq][pp][qn][jp][dp]AW[dn][gn][fo]
+[en][gp][hp][ip][hq][gr][jo][lp][kq][kr][nq][pr][ko]LB[cp:A]C[第74图 白先 A级
+机会
+左下角，黑棋不在A位补一手，还不能算是完全的地。
+白棋如何动手呢？当然要利用到被吃去的白子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eo]MULTIGOGM[1]
+;W[dq]C[正解图]N[正解图]
+(;B[fr];W[cp];B[cq];W[do];B[ep];W[bq];B[cr];W[bo];B[br];W[ar];B[dr]C[白1之碰为手筋。
+黑大致上2应，白3以下黑12止接应。
+黑棋不得不这样让步。])
+(;B[cq]MN[2]C[参考图]N[参考图];W[fr];B[ep];W[er];B[bp];W[cr];B[br];W[co];B[cp];W[bs]
+C[白1碰时，黑若2位抵抗则无理。
+白3手法严厉，黑4以下至11止，和右边黑棋的攻杀，也是白棋有利。
+此为黑棋崩溃之形。]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dp][dn][eq][iq][jq][jp][ko][lo][ln][ml][nl][om][on][pn][pp][ro]AW[jo]
+[gp][kn][km][lq][or][qq][ol][nk][pk][pm][qm][qn][ip][hq][io]LB[kp:A]C[第13图 黑先 B级
+修补
+和前图一样，同样是授子棋经常下出的定石。
+白狙袭A之断，黑棋如何修补，有利处理。
+第一感的手筋，重要。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[qo]MULTIGOGM[1]
+;B[mr]C[正解图]N[正解图];W[mq];B[lr];W[nr];B[kq];W[rr]LB[nq:A][oq:B][pr:C][kp:D]
+C[黑1是点的手筋。白2至黑5时白6做活。
+黑3若4，白A黑B时，白3挡，把C和D当做相对点变成交换。])

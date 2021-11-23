@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[do][co][bo][cn][dm][qo][mq][jq]AW[pq][op][bn][cm][cl][dk][dn][en]
+[fp]C[第5图 黑先 B级
+一击之后
+找出白棋外面的缺陷，导致有利的结果。
+第一手立刻可知道，研究题材在后面。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dq]MULTIGOGM[1]
+
+(;B[fo]C[正解图]N[正解图];W[eo];B[ep];W[gp];B[go]LB[em:A][hp:B]C[白1为跨之手筋。
+白2再4时，黑应5位押。白棋无法同时兼顾A和B，总有一边被吃。])
+(;B[eo]C[参考图]N[参考图];W[fo];B[fn];W[em];B[fm];W[el];B[hn];W[ip]LB[hp:A][iq:B]
+C[黑1再3的话，则是俗筋不是本手。
+白4至黑7时，白8应，白棋要比前图好处理。黑若A，白B闪开即可。]))

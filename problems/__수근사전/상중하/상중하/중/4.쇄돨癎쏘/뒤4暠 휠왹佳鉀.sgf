@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[is][dp][do][es][gq][fq][hq][en][dm][fm][gm][hm][im][jn][ko][kq][kr]
+[dq][ir][js][nq]AW[co][pp][pn][cq][cp][cn][cm][dn][er][eo][fo][gn][hn][gp][hp][ip]
+[jq][jr][hr][iq][eq]C[第4图 白先 A级
+荣枯盛衰
+下边白棋大龙不活，但若能阻止黑从下边渡过，反而可吃到黑子而活。
+实战中，连高棋也会错过的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dr]MULTIGOGM[1]
+;W[gs]C[正解图]N[正解图];B[fr];W[ep];B[fs];W[cr]LB[fp:A]C[白1为巧妙的手筋，白一举成活。
+黑若2，白3、5攻杀胜。另外，黑2若3、白2黑A白5胜。白1若2或3，攻杀皆白负。])

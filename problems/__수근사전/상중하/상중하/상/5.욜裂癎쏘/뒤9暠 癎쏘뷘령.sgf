@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pq][op][cp][eq][fp]AW[qo][mq][ip][do][cn][cl][dj]C[第9图 白先 B级
+手筋横飞
+做为锻炼手筋的题材，大有参考价值。
+看到此形，应该马上可以知道手筋所在，但想有利解决，还得花点功夫。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[en]MULTIGOGM[1]
+;W[dq]C[正解图]N[正解图]
+(;B[dp];W[eo];B[ep];W[fo]LB[go:A][gp:B]C[白1为跨之手筋。
+黑2白3时，黑若4黏，白得5分断黑子，次黑若A，白可B断强硬战斗。])
+(;B[cq]MN[2]C[变化图]N[变化图];W[fo];B[go];W[dp];B[dr];W[er];B[cr];W[gp];B[gq];W[hp]
+;B[eo];W[ep];B[fq];W[fn]C[对白1，黑若2则白3跨，黑若4，白5以下15止，分断了黑棋。难以判断那一个比较好。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lq][eq][fq][gq][ep][ho][do][dn][dm][el][fm][pp][np]AW[dp][bp][co]
+[dq][bm][en][eo][fp][go][hp][kq][kp][lo][kn]LB[gp:A][gn:B]C[第61图 黑先 B级
+立判
+下边黑四子应如何处理？
+黑若A断则白B，黑仍有可能成活，但黑棋藏有生死立判的严厉手法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[lp]MULTIGOGM[1]
+;B[gn]C[正解图]N[正解图];W[gp];B[fo];W[fn];B[em]LB[io:A]C[左下边的战斗，黑棋如何处理？
+黑1之挡为手筋，白若2，黑3再5即可。白2即使A，黑3白4黑5即可。黑1若2断则白1，黑恶。])

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][nq][mp][lq][kq][iq][hq][gp][fp][eq][dq][cq][bq][dp][cj]AW[kp]
+[lp][fo][jq][eo][ep][cn][cp][bp][fq][fr][er][qj][qn][io][jp][go]LB[hr:C][jr:A][gq:B]
+C[第15图 白先 A级
+飞燕绝技
+白若A冲，黑B或C可吃到白三子，白棋有没有什么办法救这三颗棋子。
+希望各位使出飞燕绝技，让对手大叫一声。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dr]MULTIGOGM[1]
+;W[hr]C[正解图]N[正解图];B[ir];W[jr];B[gr];W[gq];B[hs];W[hp]LB[kr:A]C[白1碰，攻杀获胜。以下至白7止，吃到黑子。
+白1若3则黑1，攻杀黑胜。另外，白1若2，黑1、白A、黑5，黑胜。])

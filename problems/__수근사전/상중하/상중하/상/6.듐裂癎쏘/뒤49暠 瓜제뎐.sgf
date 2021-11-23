@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pp][pn][qm][om][nn][cj][nl][nk][mj][lk][jl][nm][in][ip][hp][gp][hn]
+[gl][bq][dq][cp][dp][dn][dl]AW[br][cr][dr][cq][fq][fp][fo][go][fm][jo][kp][jm][mm]
+[nq][pr][ql][rl][ol][ok][oj][nj]C[第49图 黑先 A级
+威力弹
+右方白子尚未完全安定，有机会打出锐利的一拳。
+功夫在于打出影响左右两块白棋的攻击手法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[il]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[fr];B[lq];W[lp];B[mq];W[mp];B[nr];W[or];B[np];W[oq];B[kq]
+;W[jq];B[jr];W[ir];B[iq];W[jp];B[js]
+(;W[mr];B[ls]C[黑1和白2交换之后，3为点的手筋。
+白4以下至16止必然，黑17、19重要。次，白若A则黑B。另外，白若B则黑A活。])
+(;W[ls]MN[18]C[参考图]N[参考图];B[kr];W[hr];B[gq];W[gs];B[hs]C[黑17止和上一图一样接应。
+白18虽然是破眼的手筋，但黑19黏，次对白20，黑21再23吃掉白二子。黑3点是严厉的狙袭手筋。]))

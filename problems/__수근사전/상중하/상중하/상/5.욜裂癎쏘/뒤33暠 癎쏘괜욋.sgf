@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[co][pp][pq][pn][jp][no][mo][lo][ko][cm][ip][hp][gp][fp][ep][cp][dq]
+[cr][cq]AW[oq][nq][mp][lp][kp][jq][iq][jo][jn][hn][fn][dn][do][dp][dr][er][eq][gr]
+C[第33图 黑先 A级
+手筋宝库
+被白棋困住的黑六子，能否找到白棋的缺陷加以反击。问题相当难。
+只要肯研究，总是有办法可想。 
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[np]MULTIGOGM[1]
+;B[hr]C[正解图]N[正解图];W[hq];B[fr];W[fq];B[gq];W[fs];B[is]LB[gs:A][ds:B][kr:C]
+C[黑1为跨之手筋。黑3、5、7是关连手筋，生出棋了。
+黑7后，白为防劫而A的话，黑B攻杀胜。黑7时，白若C则黑A造劫。黑手筋漂亮。])

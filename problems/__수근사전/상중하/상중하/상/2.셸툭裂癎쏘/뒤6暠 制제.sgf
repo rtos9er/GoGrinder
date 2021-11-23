@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ip][ho][hq][gq][pp][pn][dp][cp][bo][bn]AW[cl][cn][bm][en][ep][hp]
+[iq][ir][kq][kp][nq]LB[eq:A][fp:B]C[第6图 黑先 B级
+黏力
+黑若A位应，白棋当然B位长。
+这么一来，黑棋无法连结，所以要考虑是否有更巧妙的手法。考你最强的黏力。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jp]MULTIGOGM[1]
+;B[fp]C[正解图]N[正解图];W[eq];B[eo];W[do];B[fo];W[er];B[fr];W[bq];B[cr];W[cq];B[dq]
+;W[dr];B[br];W[bp];B[co];W[ao];B[dn];W[an];B[cm];W[ar];B[bs]C[黑1是夹碰的手筋。
+白若2，黑当然3了。白8时黑9抵抗，白棋一定要无理抵抗的话，以下至21止，白支离破碎了。])

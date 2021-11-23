@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[op][pp][qq][rq][dp][fq][go][hq][qj][oj][iq]AW[cn][ip][jq][kq][mp]
+[np][mn][oo][po][qn][qp][rp][cj]C[第16图 白先 A级
+一网打尽
+考虑一下攻击右下黑角的手法。
+黑形不完整，第一着是可以理解的，但要算清后面的变化，不容易。这个问题希望各位将黑一网打尽。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[oq]MULTIGOGM[1]
+;W[or]C[正解图]N[正解图];B[nq];W[nr];B[mq];W[mr];B[lq];W[lr];B[lp];W[ko]C[白1之碰为手筋。
+黑只好2以下试图逃出，至白7止为必然的进行。
+黑8时，白9急所封塞，黑束手就擒。])

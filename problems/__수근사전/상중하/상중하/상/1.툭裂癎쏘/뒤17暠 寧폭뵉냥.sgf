@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fr][fo][eo][pp][np][do][nr][kq][jq][kp][jo][gr][jn][ho][hn][er][dq]
+[bq][bp][em][fk][dk][ck][bl]AW[kr][hp][gp][fp][fq][go][qn][qk][mr][lr][cp][jr][bo]
+[ao][bm][cm][dn][co][ir][iq][ip][jp]C[第17图 白先 C级
+一气呵成
+被分离的左右两块白子都是死棋，有没有办法把这两块棋连成一气呢？
+先开路，后面变化一气呵成。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[mq]MULTIGOGM[1]
+;W[dp]C[正解图]N[正解图];B[ep];W[eq];B[cq];W[fm];B[en];W[el]LB[gn:A]C[白5为碰的手筋，黑6时白7，白棋简单获胜。
+此一手筋已经在前面出现过，要一眼就能看出。实战中，白1时，黑A白2才是正解。])

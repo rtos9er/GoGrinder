@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dq][eq][fp][fn][gn][em][el][fk][ck][pp][pn]AW[co][eo][cm][cq][cp]
+[fm][gm][hm][hn][hp][ip][gq][jq][nq]LB[en:A][ep:B]C[第72图 黑先 C级
+心得
+类似上一题之形，读者应该知道手筋也是一样的。
+假定，黑若A则白B切断，黑须一手兼顾两处断点。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[iq]MULTIGOGM[1]
+;B[do]C[正解图]N[正解图];W[dp];B[ep];W[dn];B[en]C[前面已有类似形，必须一眼看出手筋。
+对黑1挖，白只能2、4接应，黑3、5简单连结。])

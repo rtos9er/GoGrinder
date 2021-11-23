@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][np][lp][jp][bq][ir][hp][gp][hm][iq][fm][fo][eo][dn][dm][dp][cp]
+[bp]AW[qn][br][cq][dq][fq][fp][hr][cn][cm][cl][dk][el][gk][ik][jl][kn][in][io][go]
+[gn]C[第32图 黑先 A级
+急转直下
+左下角黑棋想活的话，只能动角上白棋的脑筋。
+变化很多，难以细算清楚，但想急转直下解决这个问题，要紧的是感觉灵活。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gm]MULTIGOGM[1]
+;B[eq]C[正解图]N[正解图];W[er];B[fr]
+(;W[ep];B[gq];W[ar];B[eq];W[es]LB[gr:A]C[黑1再3为绝妙的手筋。
+白6若1位黏则黑A应，白全部死光了。黑7先手提掉白三子。])
+(;W[gr]MN[4]C[参考图]N[参考图];B[dr]C[黑1再3时，白若4位应，黑5的断手重要。
+至此，白已经不活。所以，白4只能照前图那样活个小角。]))

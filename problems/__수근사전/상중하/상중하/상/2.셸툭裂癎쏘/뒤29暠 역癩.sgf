@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[mq][dp][do][cq][bq]AW[qn][bp][cp][dq][fq]LB[dr:A][bo:B][cn:C][eq:D]
+C[第29图 白先 A级
+开眼
+左下角，白若A则黑B，另外，白若C则黑D吃掉白子，白棋如何兼顾？
+这是角上经常出现之形，记住会有用的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;W[br]C[正解图]N[正解图]
+(;B[eq];W[dr];B[bo];W[cr];B[co];W[aq];B[fp];W[er];B[gp];W[ep];B[eo]C[白1是夹碰的手筋。
+黑2、4弃掉两子，以下至12止筑成厚势。
+白5也可11断舍弃白二子。])
+(;B[dr]MN[2]C[变化图]N[变化图];W[eq];B[cr];W[cn];B[bs];W[dn];B[fo];W[iq]C[对白1，黑若2、4，白5跳，黑6活角，以下白棋拆到9位。
+如此不能说黑恶，但白1确实成立。]))

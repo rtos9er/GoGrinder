@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[br][cr][dr][eq][dp][do][dn][cj][pp][pn][kq]AW[dq][cq][cp][er][fr]
+[ko][nq][no][qj]C[第32图 白先 A级
+设计
+授子棋下出之形。如何利用角上被吃的白三子去破坏下边黑地呢？
+可说是模范的处理形，白3、5、7连贯下法才取得成果。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;W[ep]C[正解图]N[正解图];B[fq];W[gq];B[fp];W[fo];B[gp];W[hp];B[go];W[ho];B[gn];W[hq]
+C[左下角白棋的处理问题。
+白1断做为弃子，黑2至白11止进行，白可吞下右方黑二子。])

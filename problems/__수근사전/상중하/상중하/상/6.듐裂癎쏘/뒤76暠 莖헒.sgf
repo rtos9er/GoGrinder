@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[gp][fp][ep][dp][bp][bo][pp][pn][iq]AW[bq][cq][eq][fq][kq][nq]C[第76图 黑先 A级
+天晴
+想吃掉角上一半的白棋不是问题，要通吃才行。
+问题很难，要找出黑潜伏的妙手筋。有这种慧眼，算是专家之艺。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gq]MULTIGOGM[1]
+;B[es]C[正解图]N[正解图];W[gr];B[hr];W[er];B[gs];W[ds];B[fs];W[bs];B[ar]LB[dq:A]
+[cr:B][br:C][aq:D]C[黑1为点的手筋。
+对白2再4，黑5重要。白6至黑9止，白死。
+白8若A，黑B白C黑D白9黑8，白死。])

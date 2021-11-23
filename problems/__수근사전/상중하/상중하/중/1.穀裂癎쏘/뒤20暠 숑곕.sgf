@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][dp][eq][er][ds][cr][em][eo][dm][fm][fl][hm][im][km][kn][kk][ll]
+[nl][om][on][np][cp][op][pq][nq][qr][rq]AW[oq][qn][ql][pj][pr][or][nr][lq][lo][ln]
+[lm][jo][ip][gn][fp][fq][fr][fs][es][co][bn][cl][dl][el][ej][cn][hn]C[第20图 黑先 B级
+减半
+不是死活问题，要研究如何削减下边白地。
+下边白地就这样围住的话有二十目，黑棋下出手筋，白地将减半。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[1]
+;B[lp]C[正解图]N[正解图];W[kp];B[mr];W[lr];B[mq];W[ms];B[mp];W[ko];B[kq];W[kr];B[jq]
+;W[jr];B[ns];W[os];B[ls]C[本图是损益的问题。
+对下边白地，黑1挖是官子手筋，白2以下黑15止，黑可吃到白五子。但黑13不必立刻下。])

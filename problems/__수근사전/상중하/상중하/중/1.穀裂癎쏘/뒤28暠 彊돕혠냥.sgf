@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dp][co][fp][go][gn][fn][em][el][dk][dj][bk][pp][qp][mq]AW[cl][dl]
+[cn][dn][en][bo][fm][gm][hm][hn][ho][hp][qn][qk]C[第28图 白先 B级
+水到渠成
+被黑包围的白六子不活，要冲角上黑棋的弱点，才能找出活路。
+手顺正确的话，水到渠成，自然解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bp]MULTIGOGM[1]
+;W[ep]C[正解图]N[正解图];B[eq];W[gp];B[fo];W[fq];B[eo];W[do];B[ep];W[cp];B[cq];W[er]
+;B[co];W[ek];B[fk];W[cp];B[dq];W[bq];B[co];W[ap];B[fr];W[gq];B[br];W[cp];B[dr]C[白1位挖，必然成为黑2以下24止的接应，白棋愉快活了。])

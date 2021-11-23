@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[hr][iq][lp][nq][bp][cp][do][ep]AW[cj][cn][dn][co][hq][ir][Wp][po]
+[pq]C[第58图 白先 A级
+轻妙
+白棋在下边黑地扭断，意图爆破黑阵。
+这不是死活问题，要研究出最有利的侵削方法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gr]MULTIGOGM[1]
+;W[kp]C[正解图]N[正解图]
+(;B[lo];W[ip];B[jq];W[kq];B[jr];W[jp]C[白1之碰是破坏黑地的手筋。
+黑若2位应，白棋从3位吃诱黑4长，白顺势5冲，黑阵被裂开了。])
+(;B[kq]MN[2]C[参考图]N[参考图];W[jq];B[ip];W[jp];B[kr];W[io];B[hp];W[jr];B[lo];W[ho]
+;B[gp];W[kn]C[白1碰时，黑若2位应，则给了白3再5的调子，黑棋不妙。
+白7以下13止，为白棋成功的侵削。])
+(;B[ip]MN[2]C[参考图]N[参考图];W[lq];B[mp];W[ko];B[kq];W[jq];B[kr];W[jr];B[lr];W[io]
+;B[hp];W[jp]C[白1碰时，黑若2位应，则白3以下，7、9、11、13整形，这也是白棋成功的处理形。
+白1若7或2，成果稍差。]))

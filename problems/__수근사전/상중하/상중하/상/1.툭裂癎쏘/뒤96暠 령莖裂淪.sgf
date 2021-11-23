@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[fp][hq][pp][pn][cp][co][dq][eq]AW[cq][bq][br][cs][dr][dp][ep][dn]
+[jq][nq]C[第96图 黑先 B级
+飞天之着
+如何处理左方黑二子，但不能影响到右边黑子。
+这是评断技术的好材料。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[er]MULTIGOGM[1]
+
+(;B[dm]C[正解图]N[正解图];W[en];B[cn]LB[do:A][eo:B][fo:C][bn:D]C[黑1之碰为手筋。
+白若2应，则黑3渡过。
+白2若3则黑A白B黑2白C黑D，可吃到白二子。黑1若3被C扳，黑恶。])
+(;B[do]C[参考图]N[参考图];W[eo];B[en];W[fo];B[dm];W[fn];B[em];W[gp]LB[cn:A]C[黑1、3的行动，会影响到下方黑子。
+黑1于5碰若白A送子，白损失大，黑右边受到的影响就可忍受。]))

@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[gp][fp][ep][dp][cp][cm][fq][pp][lq][jq][iq]AW[qn][ck][gq][hq][ir]
+[fr][eq][dq]C[第51图 黑先 A级
+关键第一着
+攻击下边白棋最佳的办法是？
+没办法全部吃掉，有利解决就算成功。
+知道第一手棋，后面就简单了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hp]MULTIGOGM[1]
+
+(;B[dr]C[正解图]N[正解图]
+(;W[gr];B[er];W[hs];B[jr];W[fs]C[黑1是夹碰的手筋。
+白只好2应，黑3白4，白棋小活，黑得先手便宜解决。])
+(;W[er]MN[2]C[参考图]N[参考图];B[cr];W[jr];B[kr];W[cq];B[bq];W[br];B[bs];W[ar];B[aq]
+LB[gr:A]C[对黑1，白若2黏，则黑3以下11止，白死。
+黑下1时，白棋必须判断2或A那一手比较好。]))
+(;B[er]C[变化图]N[变化图];W[dr];B[gr];W[es];B[hr];W[br]C[黑若1位断，白2抱吃。黑3再5时，白6跳做活。
+和前图相较，白棋有利。]))

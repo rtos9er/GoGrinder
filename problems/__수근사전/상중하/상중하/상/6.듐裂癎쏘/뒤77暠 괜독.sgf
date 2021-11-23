@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[pp][mq][mr][lp][ko][jo][jm][co][il][hl][gk][fk][ek][dl][cl][in][gn]
+[go][gp][gq][hr][ir][fq][eq][ep][eo][en][dr][cq][bq][ap][ao][bo]AW[hn][cp][dq][dp]
+[do][dn][dm][cn][bn][bm][em][el][fl][gl][gm][fn][ho][hp][hq][iq][jq][jp][io][kr]
+[bp][fo][fp][hm]C[第77图 白先 A级
+宝刀
+白棋大龙只有一眼，因黑棋已经活了，似很难找出复活之路。
+拿出传家宝刀用不可思议的方法，解开问题之錀。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bl]MULTIGOGM[1]
+;W[fs]C[正解图]N[正解图]
+(;B[er];W[gr];B[fm];W[jr];B[fr];W[hs]C[复杂问题。
+白1为点之手筋，黑若2应，白3断，黑4提掉三子时，白5再7弄成劫争。
+黑2之外，另有6、4等等应手。])
+(;B[fr]MN[2]C[参考图]N[参考图];W[cr];B[br];W[aq];B[ar];W[an];B[aq];W[cs]LB[ds:A]
+[er:B]C[白1点时，黑若2应，则白3断至黑8黏时，白9立下，黑无法A位进子。若A则白B，变成双叫吃。])
+(;B[fm]MN[2]C[参考图]N[参考图];W[cr];B[br];W[aq];B[ar];W[an];B[aq];W[ds];B[cs];W[er]
+LB[bs:A]C[白1点时，黑若2提掉三子，白3至黑8黏的手顺接应之后再白9扳，黑10白11止成劫。黑10若11则白A，同样是劫。]))

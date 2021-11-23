@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pp][op][pn][qm][nq][mq][mp][lp][jq][dp][ep][fp][eq][dn][cj][ej][gj]
+[ij]AW[gq][fq][kq][kp][jo][lo][mo][no][np][qk][fo][gp]TR[go]LB[ho:A][gn:B]C[第14图 白先 A级
+一贯作业
+现在黑于△位切断。
+白棋如何使此处的损失减至最小。必须有正确的细算才能一贯作业。平凡地白A黑B被大吃，白难以忍受。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[go]MULTIGOGM[1]
+
+(;W[gn]C[正解图]N[正解图];B[ho];W[hn]
+(;B[io];W[in];B[hq];W[iq];B[ip];W[ir];B[fn];W[hp];B[eo];W[jp]TR[go]C[对黑△断，白棋应该如何处理？
+白1扳至黑6时，白7挖为巧妙的手筋，黑不得不8应，以下至17止为白棋有利的处理结果。])
+(;B[ip]MN[4]C[正解图]N[正解图];W[io];B[hp];W[iq];B[fn];W[hq];B[eo];W[jp]C[白1位扳为手筋。
+黑若4尖，白5黑6时，白7碰为手筋，黑只好8应，白9再11，此亦为白棋有利的处理形。]))
+(;W[ho]MN[2]C[参考图]N[参考图];B[gn];W[hn];B[gm]C[黑1断时，白若2黑至5止接应，上方可围到相当的地白棋失败。
+和前两图比较，损益明显。]))

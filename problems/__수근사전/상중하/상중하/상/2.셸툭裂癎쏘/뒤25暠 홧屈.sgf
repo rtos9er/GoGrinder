@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dp][pp][pq][qn][qm][ip][mp][mq][lq][kq][jp][cp][jn][io][go][gp][gm]
+[eo][eq][dq]AW[dm][cn][pl][pm][oq][nm][lm][kn][jo][kp][lp][jq][jr][hq][gq][fq][er]
+[dr][cr][cq][jl][hl][gl][fm][fn]C[第25图 黑先 C级
+缺陷
+左下角到中央的黑棋大龙做不活。
+黑棋如果去找白棋的缺陷，马上可发现吧！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[no]MULTIGOGM[1]
+;B[ln]C[正解图]N[正解图];W[lo];B[mn];W[km];B[ko]C[左下角到中央的黑子不活，但看出白棋的缺陷，下出黑1夹碰的手筋。白只好以2、4的劫形接应。前面已经出现过类似形。])

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[cp][jq][dn][do][dq][em][fm][gm][hn][in][io][kn][jp][jr][nq]AW[hm]
+[jm][gk][ek][dl][fn][bl][cr][pp][dm][pn][bq][bp][er][eq][gp][gn][en][ip][im][iq]
+[ir]C[第13图 黑先 C级
+一口气解决
+中间黑三子被困住，虽然下边白棋有缺陷，但因黑棋只有三气，必须一口气解决，否则就来不及了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[1]
+;B[go]C[正解图]N[正解图];W[fo];B[fp];W[ho];B[eo];W[go];B[gq];W[hp];B[hr];W[fq];B[ep]
+;W[gr];B[is]C[黑中间三子和右方黑子都不活，但黑1以下巧妙的手顺，反而可吃到白棋。
+被黑1挖到，白2只能在3位收兵。])

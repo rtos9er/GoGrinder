@@ -1,0 +1,19 @@
+(;CA[gb2312]AB[cj][dj][fj][gj][fk][dn][qj][bm][bn][co][do][bj][dp][el][fo][jp][jn]
+[pp][pn][oq][mp][np][no][nn][nm][mn][ml][lm][dq]AW[en][eo][fl][gl][gk][ik][fq][kq]
+[lp][mq][nq][lo][ln][mo][kn][km][kl][ck][cm][cl][cn][dm][em]C[第46图 黑先 A级
+蹂躏
+问题在于如何侵削下边白棋大空。
+完全照黑棋的意思进行，自然是题外话，困难度在于白棋的黏力。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dl]MULTIGOGM[1]
+
+(;B[fr]
+(;W[gr]C[参考图]N[参考图];B[gq];W[gp];B[hq];W[fp];B[hr];W[er];B[gs];W[eq];B[hp]
+LB[bl:A]C[这是侵削白地的重大问题。
+黑1之碰为手筋。
+白若2则黑3断，白4以下黑11止，在白地中愉快成活。左边因有黑A之渡，安全。])
+(;W[gq]MN[2]C[正解图]N[正解图];B[gr];W[hq];B[hr];W[iq];B[ir];W[jq]C[黑1碰时，白棋只好2位让步。
+黑3以下白8止，白棋让步，白地缩减，黑地增加，黑亦无不满。]))
+(;B[fp]C[参考图]N[参考图];W[ep];B[eq];W[gq];B[hp];W[ir]LB[fm:A]C[黑1再3切断的话，则是黑棋无理。
+白4长，黑5白6止，次黑无法A断，而且没办法在中央做活，完全送菜了。]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qq][qp][pp][rr][pn][kn][jr][jq][jp][io][jn][nl][km][kl][kk][jj][dp]
+[cp][ep][fp][go][gn][hn][en][cm][ck]AW[cq][dq][eq][fq][gp][hp][ho][hr][in][im][jm]
+[jk][ik][gk][ek][kq][mp][oq][pq][qr][nn][om][ol][oj]C[第6图 黑先 B级
+缺点何处
+右下角的白棋往中央逃出，请试图找出白形的缺陷，看看有否手段可施。
+应可立即看出手筋，但要13手棋才能搞定。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ql]MULTIGOGM[1]
+;B[no]C[正解图]N[正解图];W[mo];B[np];W[mn];B[mq];W[lq];B[mr];W[lr];B[ls];W[ks];B[ms]
+;W[lp];B[kr]LB[nq:A]C[黑1碰为手筋，白2黑3时，白不得不4黏，黑5以下至13止，和右方黑子连络了。
+白4若A位接应，会被黑4切断，大吃。
+])

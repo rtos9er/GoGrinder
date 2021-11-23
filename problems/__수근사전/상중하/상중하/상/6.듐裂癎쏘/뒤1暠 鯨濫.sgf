@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ip][hp][lo][go][fo][ep][eq][er][dp][cp][nq][kq][kr]AW[gp][pp][pn]
+[ck][co][bo][bp][dq][dr][es][fr][gq][hq][iq][jq]C[第1图 黑先 A级
+挑战
+下边白棋有没有和左边白子连在一起？黑棋有什么手段不让白棋渡过？
+黑棋的下法决定了白棋的命运。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jp]MULTIGOGM[1]
+;B[cs]C[正解图]N[正解图];W[cr];B[br];W[ds];B[cq];W[bs];B[bq]C[黑1是点的手筋，白遭此一击即死。
+白2若5或3，黑4即可。黑1若5冲，白3跳就可愉快渡过了。])

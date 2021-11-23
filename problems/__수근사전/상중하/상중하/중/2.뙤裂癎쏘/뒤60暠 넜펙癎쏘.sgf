@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ip][jp][go][fp][ep][dp][bp][gm][fl][dm][pp][np][kq]AW[cq][eq][hq]
+[fr][iq][jq][qn][qj][dn][cn][en][dj]LB[cp:A][dl:B][cl:C]C[第60图 黑先 B级
+吃棋手筋
+左下角的战斗，黑若A则白B。另外，黑若C则白A冲，看起来白棋好像两边有渡手，黑能否一手防之。
+前面已经出现过多次这种类似形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kp]MULTIGOGM[1]
+;B[dq]C[正解图]N[正解图];W[dr];B[cr];W[br];B[cl]LB[cp:A][dl:B][ds:C]C[黑若A位黏，白B可和上边白子连络，但黑1再3断，白陷入上下两难。
+白若4应，黑5可分断白子。另外，白4若B，黑可C攻击。])

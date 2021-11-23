@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nr][cr][pm][dp][do][gl][eo][fn][gm][hl][il][jm][jn][jo][jp][iq][kp]
+[lq][nq][cq][qo][qn]AW[no][pp][qp][or][po][pn][lo][lp][lm][kl][jl][hm][ho][io][ip]
+[hq][fo][fp][dq][er][jq][ep][im]TR[jq]C[第77图 黑先 B级
+秘术
+下边黑棋不吃掉白▲子无法活，但白棋也会抵抗的。
+由此处的攻防，黑棋才能找到活路。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ql]MULTIGOGM[1]
+;B[ir]C[正解图]N[正解图];W[jr];B[hr];W[gr];B[gq];W[hs];B[hp];W[is];B[hn]LB[in:A]
+C[下边黑棋已经做不活，但1、3以下至白8时黑可9挖，白无法A黏，黑得吃两子连通。])

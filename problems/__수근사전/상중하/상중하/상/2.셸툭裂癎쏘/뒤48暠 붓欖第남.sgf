@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[dq][cr][bq][co][dj][eo][fo][go][fp][gp][hp][gq][hq][iq][jq][jr][io]
+[pp][np]AW[qn][dm][dn][do][en][fn][gn][hn][ho][ep][eq][er][dr][fq][fs][gr][hr][ir]
+C[第48图 白先 B级
+鹤占鸠巢
+授六子棋的形，看过定石书，就知道手筋在何处，因有实用价值，特予揭载。
+黑棋下出恶手才会出现此形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;W[cp]C[正解图]N[正解图];B[cq];W[bo];B[cn];W[bn];B[cm]
+(;W[bm];B[cl];W[bp];B[bl];W[ar]C[白3扳打，正是夹碰的手筋。
+黑4以下11止，攻杀白胜。
+这个手筋是在授六子棋经常出现之形。])
+(;W[cl]MN[7]C[变化图]N[变化图];B[bm];W[bl];B[bp];W[am];B[cp];W[an];B[dl];W[dk];B[el]
+;W[ek];B[fl];W[cj]C[白7打的手法也能成立。
+白13时，黑若14位断，白15以下19止，白胜。]))

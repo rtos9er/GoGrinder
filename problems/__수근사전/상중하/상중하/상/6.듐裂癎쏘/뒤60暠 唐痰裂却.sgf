@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[cm][dl][cj][gp][hp][io][jp][jq][lp][nq][oq][pr][pp][oo][bl]AW[bm]
+[gq][pq][qr][pm][nn][ln][jn][jo][in][dp][dq][co][bn][qq][hq][qp][qo]TR[cq]C[第60图 黑先 A级
+有用之士
+问题在左下角。白似乎有二十目的地，但这是指△没发挥作用而言。
+找出味道，将可削掉一半的白地。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cq]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图]
+(;W[fq];B[dr];W[bq];B[br];W[bp];B[eq];W[fp];B[ep];W[eo];B[fo]C[在白地当中，黑1点为手筋。
+白若2应，黑3至白6时，黑7冲出至黑11断，攻杀黑胜。])
+(;W[dr]MN[2]C[参考图]N[参考图];B[fq]C[对黑1点，白只好2位应，黑3吃到右方白二子。
+白棋算清楚变化的话，只好允许黑3扳。]))

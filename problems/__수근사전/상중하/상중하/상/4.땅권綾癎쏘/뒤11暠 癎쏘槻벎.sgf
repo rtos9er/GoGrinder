@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[qn][pp][kq][hq][ho][dp][ep][cm][qr][qq][qp]AW[po][pq][pr][op][nq]
+[fq][fp][fo][gn][hn]LB[cq:A]C[第11图 白先 A级
+手筋效果
+问题在于对左下角黑子，白使用何种战略？
+此形，白棋的手筋不是A打入三三，要想办法限制并排黑两子的行动。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qo]MULTIGOGM[1]
+;W[cp]C[正解图]N[正解图]
+(;B[cq];W[co];B[dn];W[bq];B[dr];W[br];B[en];W[bn]C[白1是顶鼻子手筋。
+黑2若从角上应，白3以下9在角上愉快做活。
+白1紧住了黑并排两子的气。])
+(;B[co]MN[2]C[变化图]N[变化图];W[cq];B[er];W[bo];B[dn];W[bn]LB[do:A][dr:B]C[对白1，黑若2位从上边挡，则白3至7仍可活角。
+白5也有A断的手法，但黑B后面变化难。]))

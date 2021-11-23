@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[gl][el][dl][cl][cr][bn][bo][bp][bq][io][dq][dp][do][eq][fr][nq][jq]
+[hq][ip][hm]AW[pp][pn][hp][fp][fq][fn][ep][eo][dn][dm][cn][co][cp][cq][br]LB[dr:A]
+[er:B][cs:C][gq:D]C[第9图 白先 A级
+找对地方
+这块白棋若白A黑B白C黑D，白棋不活，必须另外想别的手筋。
+找对地方才能解决问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cm]MULTIGOGM[1]
+;W[ds]C[正解图]N[正解图];B[er];W[gr];B[gq];W[fs]LB[dr:A][es:B]C[白1为点之手筋。黑只好2位黏，白3再5攻杀白简单获胜。
+白1若3，黑A即可。另外，白1若B点，黑2即可。])

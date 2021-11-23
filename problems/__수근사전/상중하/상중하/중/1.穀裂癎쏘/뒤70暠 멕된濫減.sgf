@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[cp][do][dn][en][fq][fr][gp][pq][op]AW[cr][er][dq][ep][eo][fo][io]
+[iq][qo]C[第70图 黑先 A级
+高等战术
+下边黑三子如何处理比较好？属于高等战术的问题。
+光是逃很简单，要紧的是不能带给左边黑子坏影响。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cq]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图]
+(;W[jp];B[hp];W[jq];B[gn];W[fn];B[fm];W[go];B[ho];W[hn];B[gm];W[bq];B[in];W[bp]
+;B[bo];W[bs]C[黑1为绝妙手筋，可导致战斗有利的局面。
+白若2，黑3以下白16止，黑可一举制住大势。])
+(;W[hp]MN[2]C[参考图]N[参考图];B[go];W[fn];B[jp];W[ho];B[gn];W[fm];B[hq]LB[gq:A]
+[fp:B]C[黑1时，白2这边接应的话，黑3白4先手交换再5长，以下至9止，白棋大损。
+白8若A则黑8，白无法B断，所以白8不得不8应。]))

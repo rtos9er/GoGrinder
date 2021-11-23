@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][mq][kq][kp][ko][ip][hq][hr][gs][fr][eq][dq][dp][cp][cn][dn][en]
+AW[qn][cr][bq][bp][bo][bn][cm][cl][em][fm][gn][gp][hp][fp][ep][gq][gr][io][jo][jq]
+LB[jp:A][jr:B]C[第53图 白先 A级
+惊异
+白若A黏，黑B可简单渡过，但白棋藏有不A黏而吃掉左边黑子的手段。
+前面已经出现过类似形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fn]MULTIGOGM[1]
+
+(;W[is]C[正解图]N[正解图];B[jp];W[hs];B[jr];W[fs]C[白1为点的手筋，黑只好2位应，白3再5可吃到左方黑子。
+黑2若3则白2，可吃到全部黑子。])
+(;W[jp]C[参考图]N[参考图];B[jr];W[ir];B[is];W[iq];B[lr]C[白若1位连，黑2至6可简单渡过。
+实战中多数人会下意识的在1位黏。请记住，1下在4位才是手筋。]))

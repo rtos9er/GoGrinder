@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][qn][cr][dr][eq][cp][dp][dn][fn][fm][gm][jp][jq][ir][hq][hp]AW[cq]
+[fq][fp][go][gn][hm][in][km][ln][lo][lq][nq][iq][dq][er]C[第25图 白先 B级
+回味
+形虽不同，手筋则类似前两图。
+下边黑棋已活，但若受到角上白棋的牵连，会生出微妙的问题。
+也请考虑一下，黑棋如何接应最有利？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kn]MULTIGOGM[1]
+;W[bq]C[正解图]N[正解图];B[ep];W[gr];B[br];W[kr]C[白1黑2交换之后再3尖，黑必须4位应。
+此时，白5尖可吃掉黑棋，所以，黑4是否应于5位做活？损益计算复杂。])

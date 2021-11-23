@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[dp][dn][fp][fo][gn][gm][hm][im][jm][kn][jp][pp][pn][cq]AW[dq][eq]
+[fq][gp][go][hn][in][jn][ko][lo][lq][nq]C[第4图 黑先 A级
+归趋
+下边白地将近三十目，但白地中黑一子已没作用了吗？
+可弄成攻杀，但其归趋难以算清楚。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[1]
+
+(;B[ho]C[正解图]N[正解图];W[hp];B[jo];W[io];B[ip];W[ho];B[hr];W[gq];B[jr];W[iq]
+;B[jq];W[gr];B[hq];W[hs];B[ir];W[kr];B[dr];W[er];B[cr];W[fs];B[is]C[白地中有没有手段可施？
+黑1断为手筋，白只好2位应，黑3以下至21止攻杀，为宽气劫黑胜。])
+(;B[jo]C[参考图]N[参考图];W[ho];B[hq];W[gq];B[hr];W[jq];B[ip];W[gr];B[dr];W[er]
+;B[cr];W[iq];B[hp];W[ir]C[黑1同样是断，但却非在2位断不可。
+白得2黏，黑3至白8的攻杀，至白14攻杀变成白胜。]))

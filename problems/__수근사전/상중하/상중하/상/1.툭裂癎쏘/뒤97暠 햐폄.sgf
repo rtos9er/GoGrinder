@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[cp][ep][dq][dn][cl][pq][op][lq][bp]AW[qo][jq][gq][er][cr][cs][ar]
+[as][bq][co]C[第97图 黑先 A级
+轻骑
+分先小目二间夹定石经常出现的形。
+利用下边白棋连络上的缺陷，黑棋可得到相当的利益。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cq]MULTIGOGM[1]
+;B[hq]C[正解图]N[正解图]
+(;W[hp];B[dr];W[ds];B[gr];W[fq];B[iq];W[ip];B[jr]
+(;W[jp];B[kq]LB[hr:A]C[黑1为碰之手筋。白2也有于A位应的手法。
+白若2应，黑3至7渡过，获利不小。])
+(;W[ir]MN[10]C[前图之变化]N[前图之变化];B[hr];W[kr];B[is];W[kq];B[fr];W[eq];B[jp]
+;W[kp];B[gp];W[fp];B[go];W[fo];B[jo]C[白10、12的行动无理。
+黑15止，下边先手活，17、19切断以下至23止，白棋无法兼顾。]))
+(;W[hr]MN[2]C[参考图]N[参考图];B[gr];W[fr];B[ir];W[gs];B[iq]C[黑 1碰时，白若从下边2位应，则黑3扭断至黑7止裂开白子，黑棋有利。
+这是分先布局经常出现之形。]))

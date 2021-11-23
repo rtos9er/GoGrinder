@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cr][dn][fm][fp][gq][hq][go][ho][in][jo][kp][pp][qn][cp][bq]AW[eo]
+[gp][io][ip][jp][kq][lq][nq][cq][dq][eq][fq][dr]C[第2图 白先 A级
+将心比心
+左下角白棋被分断，能否运用黑的缺陷，找出和左方白子连络的手段。
+将心比心，双方你来我往，非常复杂。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[br]MULTIGOGM[1]
+;W[ir]C[正解图]N[正解图];B[hr];W[hs];B[hp];W[fs]LB[gs:A]C[白1跳黑2时，白3扳为渡的手筋。
+黑只好4提，白5渡过，黑4若A则白4，黑被吃。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mq][lq][kq][jp][ip][iq][hr][gr][fq][eq][dp][cn][pp][np][nn]AW[rp]
+[qn][qq][kp][lp][kn][mn][jq][jr][ir][kr][hq][gq][fp]C[第9图 白先 B级
+高手
+下边被截断的白四子，能否将上方黑三子吃掉而生还呢？
+做为问题来解答比较简单，实战若能看出则属高手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[mo]MULTIGOGM[1]
+;W[ho]C[正解图]N[正解图];B[jn];W[in];B[jo];W[jm];B[im];W[ko]C[白1跳封，黑2逃时，白3是夹碰的手筋。
+黑4再6断时，白7紧气，吃掉黑子。])

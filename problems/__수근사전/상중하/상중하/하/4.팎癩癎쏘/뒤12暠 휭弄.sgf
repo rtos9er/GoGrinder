@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[jr][ip][ho][go][fo][eo][do][dp][eq][cq][cr][pp][np][jp]AW[qn][qk]
+[ep][fp][gp][hp][dq][dr][er][iq][ir]C[第12图 黑先 B级
+容易
+研究过前面的图形，黑的第一手马上就知道，但之后白棋生死如何？
+这种程度的问题，B级读者应该很容易回答。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jq]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[fr];B[hs];W[is];B[hq]LB[hr:A][fq:B]C[黑1点为手筋。白若2则黑3，白死。
+另外，白若A、黑4白3黑B，白死。白2若5黏、黑3白4黑B，白死。])

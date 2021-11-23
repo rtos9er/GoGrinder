@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[hk][pq][po][qp][qn][kp][nm][lm][ll][ln][kn][gk][jo][ip][dp][ik][jk]
+[lk][mk][kl]AW[ol][mo][mp][lp][kq][jr][iq][hq][cn][nj][mj][lj][kj][jj][ij][hj][oq]
+[or][on][pn][pl][km][jm][jl][hm][kk]C[第43图 黑先 A级
+回转
+中央白四子将黑棋裂开了。黑棋如何处理？
+本题必须运用碰和征的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qm]MULTIGOGM[1]
+;B[gm]C[正解图]N[正解图];W[hn];B[im];W[il];B[hl];W[in];B[jn];W[im];B[go];W[gn];B[fn]
+;W[fm];B[ho];W[gl];B[io];W[gm];B[em];W[fl];B[fk];W[el];B[dl]C[本图必须兼有碰以及征子的手段。
+黑1为碰之手筋，黑9则是征子手筋。
+将这两种手段合并使用，至黑21刺杀白子。])

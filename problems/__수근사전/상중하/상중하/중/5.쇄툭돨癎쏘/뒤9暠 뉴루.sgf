@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[co][cn][dm][dl][fm][gm][im][ho][hp][gq][gr][hr][pp][dq]AW[cm][ck]
+[cl][dk][dn][do][eo][fn][fp][gp][hq][iq][ir][lq]C[第9图 白先 A级
+春风
+白六子被黑困住，但因角上黑棋有缺陷，是否可动动脑筋。
+请使用宛如春风一度般的手筋解决之。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;W[cp]C[正解图]N[正解图];B[bp];W[eq];B[er];W[dr];B[cr];W[fr];B[ds];W[fq]C[被黑包围的白六子有无手段可施？
+白1断和黑2先交换之后，白3、5为巧妙的手筋，黑只好6应，白7再9可逃出。])

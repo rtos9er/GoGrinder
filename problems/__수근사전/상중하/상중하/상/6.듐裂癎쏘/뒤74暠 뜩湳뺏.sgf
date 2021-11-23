@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[cn][cp][do][dp][dq][eq][fr][gr][es][pp][mq][bp]AW[cm][dn][en][bm]
+[dl][fp][gq][hq][hr][er][dr][cq][bq][cs][qn]C[第74图 黑先 A级
+多样化
+角上黑棋乍看是死形，值得注意的是，白棋也还没有活透。是否能对角上白棋做点手脚？手法很多，取舍令人头痛。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[1]
+;B[ar]C[正解图]N[正解图]
+(;W[br];B[aq];W[fq];B[bs]C[角上黑棋已经做不活了，但黑1点可弄成劫争。
+白若2则黑3再5劫活。])
+(;W[fq]MN[2]C[参考图]N[参考图];B[br];W[cr];B[aq];W[bs];B[fs];W[hs];B[ap];W[gs];B[as]
+;W[ds];B[fr]C[黑1点时白若2断，黑3再5渡过。白6时，黑7为巧妙的手筋，白8至12接应的话，黑13切断，形成倒脱靴，黑活。·]))

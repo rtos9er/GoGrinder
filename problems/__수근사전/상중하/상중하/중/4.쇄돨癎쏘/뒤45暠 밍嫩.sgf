@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[br][bq][cp][dp][ep][fq][gq][pp][pq]AW[cq][dq][er][bp][bo][cn][ck]
+[nq][kq]C[第45图 白先 A级
+怪异
+左下角黑白对杀。
+常识的想法为白负，但白棋藏有绝妙手筋，攻杀可胜。请尝尝手筋的妙味。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[qm]MULTIGOGM[1]
+
+(;W[ds]C[正解图]N[正解图];B[cs];W[cr];B[as];W[eq];B[fs];W[bs]LB[dr:A]C[白1为绝妙手筋，可导致胜利。
+黑2再4露骨的造劫，没有问题。黑2若3则白A，攻杀黑负。])
+(;W[cr]C[参考图]N[参考图];B[ds];W[bs];B[cs];W[ar];B[as]C[白1是众目一致的手法，但被黑2点到，为白不利之劫。白只好3扳，变成黑4再6的劫。]))

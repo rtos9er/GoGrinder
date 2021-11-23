@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[jq][kq][lp][lo][mo][no][mq][op][pp][dp][fp]AW[cn][hq][kp][ko][lq]
+[lr][mp][np][nq][oo][on]LB[ln:A]C[第49图 黑先 A级
+生彩
+白A扳马上可吃到黑子，黑棋能否不给白A的余裕而攻到下边的白子。
+黑的巧妙手筋，大放光彩。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;B[nr]C[正解图]N[正解图]
+(;W[mr];B[oq];W[mq];B[kn];W[or];B[pr];W[ns];B[qo]LB[ln:A]C[白A就能吃到黑子，故黑对下边白子的攻击松懈不得。
+黑1再3为严厉的攻击手筋，以下至9止，黑棋成功。])
+(;W[oq]MN[2]C[参考图]N[参考图];B[mr];W[or];B[kr];W[qq];B[qp];W[rq];B[qn]C[黑1扳时，白若2冲，黑5止吃掉白二子，白6以下黑9止进行。
+如此，明显黑棋有利，看得出黑1的效果。]))

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[qp][po][qk][er][fq][bq][iq][ip][io][in][hn][hp][fm][em][en][cm][bm]
+[co][do][cp]AW[oq][br][cr][cq][dp][eq][eo][fo][go][ho][fn][bl][ck][dl][fl][gl][gm]
+[im][jm][jp][jq][lp][ln]LB[ep:A][dq:B][ap:C]C[第73图 白先 A级
+奇怪的手筋
+焦点在左下角的A、B处。
+白棋要防止接不归，但若在此处补一手，被黑C虎，白仍死翘翘。有什么方法能够两边兼顾呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gn]MULTIGOGM[1]
+;W[fr]C[正解图]N[正解图]
+(;B[gr];W[bp];B[bo];W[aq]LB[ep:A][dq:B][ap:C]C[白1断为绝妙的手筋，先手预防接不归。
+黑若2，白3、5断吃，反而是黑死。
+白1若A或B，黑C可吃掉白棋。])
+(;B[gq]MN[2]C[参考图]N[参考图];W[ep];B[ap];W[dr]C[白1断时，黑若2应，白3黏，黑4活左边黑子时，白5活了，右边黑死。所以，被白1断到，黑棋两边总要死一边的。]))

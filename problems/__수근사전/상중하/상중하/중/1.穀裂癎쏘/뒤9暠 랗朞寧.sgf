@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fp][ep][dp][cp][bp][bq][eq][er][pp][jq][hq]AW[br][cq][dr][es][fr]
+[gq][hp][ho][jo][gn][en][cn][bn]LB[iq:A][hr:B]C[第9图 白先 A级
+二选一
+角上黑白的战斗。
+白棋好像有A、B两手，应该选择那一手？
+细算必须正确，变化多很难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gp]MULTIGOGM[1]
+;W[iq]C[正解图]N[正解图];B[hr];W[ir];B[gr];W[hs];B[fq];W[fs]C[白1以下至7止，白棋渡过，黑棋死了。
+白1以下的变化，在细算时容易弄错。])

@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[np][mp][lp][kq][jq][iq][jr][io][dq][dp][cm][pp][po][qo]AW[qk][ok]
+[fq][fo][kr][lq][mq][or][qq][qp][kp][ko]C[第39图 黑先 B级
+左或右
+问题在右下角。
+角上白棋似已连络，事实则否。遭黑一击，左右总有一半会被吃去。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]AB[ro]MULTIGOGM[1]
+
+(;B[nr]C[正解图]N[正解图];W[nq];B[oq];W[pq];B[op];W[mr];B[pr];W[ns];B[qr];W[js]
+;B[is];W[ks]C[黑1为跨之手筋。白2以下黑9止，白必须10、12做活。
+黑从1位跨可取得先手，但外边白二子尚有一点活路。])
+(;B[pr]C[参考图]N[参考图];W[pq];B[oq];W[nq];B[op];W[qr];B[nr];W[ps];B[lr]C[黑1也是跨的手筋。
+白2以下至黑9，白棋取得先手，要比上一图好，但黑左右一旦连结，外面两子自然烂掉。]))

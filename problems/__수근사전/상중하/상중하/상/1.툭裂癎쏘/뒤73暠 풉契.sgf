@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[oo][mo][ko][in][iq][ep][cp][en][pp][op][oq]AW[cn][ck][pq][qr][qp]
+[po][pn][kq][mq][jp][pl]C[第73图 白先 A级
+潜行
+手筋和上一题类似。
+显然是关系白棋生死，不能漠视的问题，实战中应用机会很多。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[or]MULTIGOGM[1]
+
+(;W[hq];B[ip];W[jo]
+(;B[io];W[jn];B[jm];W[kn]C[类似上一题之形，手筋也一样是1之碰。
+黑若2，白取得调子3至7突围，黑方反而危险。])
+(;B[jn]MN[4]C[参考图]N[参考图];W[io];B[hp];W[ho];B[gp];W[hn];B[hm];W[gm]C[对白3，黑4从这边堵住的话，白5以下11止，黑已无力续攻。
+另外，白1时，黑若6则白2断，吃黑一子成活。]))
+(;W[ip]C[参考图]N[参考图];B[hq];W[hp];B[gq];W[gp];B[fp];W[gn];B[gm];W[fm];B[fn]
+;W[hm];B[hn];W[gl];B[go]C[白1押是平凡着手，失败。
+黑2以下至14止的手顺，可吃掉白棋。
+另外，黑6也可从7位动手。]))

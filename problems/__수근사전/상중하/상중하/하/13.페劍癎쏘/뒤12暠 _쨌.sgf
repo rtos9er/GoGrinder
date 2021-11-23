@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[fn][go][gp][fq][hq][fr][es][kq][bp][bo][co][cn]AW[pp][mq][bq][cq]
+[dr][er][cp][do][ep][fp][cm]C[第12图 黑先 A级
+迴路
+做到这里，这已经算是简单的题目，但高手还是会有疏忽的时候。
+第一着使电流迴路接通，初学者经此暗示，也能马上看出手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[en]MULTIGOGM[1]
+
+(;B[dp]C[正解图]N[正解图];W[dn];B[dm];W[dq];B[cl];W[bm];B[bl];W[ap];B[am];W[ds]
+;B[aq];W[ar];B[bs]C[黑1为扑之手筋，破坏白棋眼位，同时补自己的毛病。
+白若2，黑3以下7，到此为止。
+角上白8、10时，黑11、13止，白死。])
+(;B[dn]C[参考图]N[参考图];W[eq]TR[cm]C[担心▲子而在黑1连接的话，白2就简单活了。
+黑1太过谨慎。]))

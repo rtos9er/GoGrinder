@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[cp][hq][ip][ck][cl][dj][fj][gk][gl][gm][pp][pn][cq][dq][eq]AW[nq]
+[jq][jp][io][im][go][ep][dp][co][cm][dl][fl]C[第1图 黑先 A级
+分断之后
+要切断白棋不难，难的是算清白之死活。
+变化很多，要拿出高级技术才能做最佳的处理。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]AB[fq]MULTIGOGM[1]
+;B[fo]C[正解图]N[正解图]
+(;W[fp];B[gp];W[fn];B[ho];W[gn];B[hn];W[fm]
+(;B[do];W[eo];B[dn];W[en];B[cn];W[bn];B[bo];W[dm]C[黑1是跨的手筋。
+白8之黏，正确。但后面的变化难。黑若9，白10以下16止，活了。])
+(;B[dn]MN[9]C[参考图]N[参考图];W[cn];B[do];W[eo];B[en];W[fo];B[bn];W[bm];B[bo];W[ek]
+;B[dk];W[fk];B[em];W[dm];B[ej];W[el]C[黑8黏时，黑也有9的应手。
+白10接应再14黏时，黑有15的狙袭，但白18止中央活了。]))
+(;W[fn]MN[2]C[参考图]N[参考图];B[fp];W[gn];B[en];W[fm];B[dm]C[对黑1跨，白若2位应，被黑3至7切断，白棋被吃掉一半，白恶。就算被切断，白棋也要想办法在中间做活比较便宜。]))

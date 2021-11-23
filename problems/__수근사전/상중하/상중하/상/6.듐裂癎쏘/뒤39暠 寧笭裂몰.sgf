@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pp][pn][cq][dq][dp][ep][er][fq][gq][hr][fo][fn][dn][em][dm][bm]AW[bq]
+[do][cp][eo][dk][cj][fl][hl][hn][hp][gp][fp][iq][ir][nq][bn][br][cn]C[第39图 黑先 B级
+一纸之隔
+左边黑七子已经做不活，但角上白棋也没有活净，要想复活，只有动这块白棋的脑筋。
+注意第一着手筋。光明和黑暗只是一纸之隔。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cm]MULTIGOGM[1]
+
+(;B[ao]C[正解图]N[正解图];W[ap];B[an];W[bo];B[am];W[ar];B[en];W[cr]C[黑1为点之手筋，白只好2位应，黑3渡过。
+白6不得不做活，黑7叫吃，吃到白二子。白棋必须在8位后手做活。])
+(;B[bp]C[参考图]N[参考图];W[co];B[ao];W[bo];B[an];W[ap];B[am];W[ar]C[此形大家经常在黑1断，这是帮忙的恶手。
+至黑7止时，白得8位做活，左方黑子就这样死掉了。]))

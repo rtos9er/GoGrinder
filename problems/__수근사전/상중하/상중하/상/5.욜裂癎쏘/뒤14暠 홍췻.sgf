@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ip][hp][gp][ir][kq][kr][ls][mr][dr][dq][eq][cp][do][dn][cn][bn][ao]
+[jp]AW[er][ds][cr][bq][bp][bo][co][ks][qn][js][jq][jr][iq][hq][fr]C[第14图 黑先 C级
+全灭
+左下角白棋大概有十目的地，但存有缺陷。找出锐利手筋，能将白全歼。
+必须一看图形就知道手筋在那里。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[gq];B[fq];W[hr];B[gs]C[黑1为跨之手筋。
+白只好2、4应，黑5止，白两边不入子，死了。
+黑1若2则白4，反而让白简单活了。])

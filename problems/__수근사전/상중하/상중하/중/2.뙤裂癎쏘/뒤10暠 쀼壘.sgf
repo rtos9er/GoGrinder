@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lo][mn][nn][np][op][pp][pq][qo][pj][qj][dp][dn]AW[fq][mo][lq][nr]
+[oq][pr][qq][qn][pn][pl]LB[ro:A][nl:B]C[第10图 黑先 B级
+回忆
+左边白三子把A渡和B逃当做相对点，黑棋是否有先手阻白渡过的手段。
+前面有类似形，请读者回忆一下。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;B[qr]C[正解图]N[正解图];W[rr];B[ok];W[qp];B[rq];W[rp];B[ro];W[sq];B[po]C[黑1白2交换之后，再黑3尖，白若4，黑5断还是能防白渡过。
+黑1若单3尖，白7扳简单渡过。])

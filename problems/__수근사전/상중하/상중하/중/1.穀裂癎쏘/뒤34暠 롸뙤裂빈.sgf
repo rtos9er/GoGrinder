@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][pn][qq][qk][dp][dq][er][dn][fn][dl][cl][el][ir][iq][jq][jp][jo]
+[jn][jm][jl][ik][ij]AW[fq][hq][hp][hn][hl][hk][fl][fj][ek][dk][ck][jr][kr][kq][ko]
+[km][lo][nq][pr]C[第34图 黑先 C级
+分断之后
+中央到左边的白子似已全部连结，但黑可设法将之切断。
+分断之后，还必须正确的要害一刀。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hj]MULTIGOGM[1]
+;B[ho]C[正解图]N[正解图];W[go];B[gn];W[hr];B[is];W[io];B[hm];W[im];B[gm];W[in];B[il]
+;W[ip];B[fp];W[gp];B[fr];W[fo];B[eo];W[ep];B[gr]LB[fm:A][gl:B][en:C]C[黑1为挖的手筋，白2以下至黑19止，白死。
+黑1若7挖，白3黑9白A黑10白B黑8白C，黑棋反而损失。])

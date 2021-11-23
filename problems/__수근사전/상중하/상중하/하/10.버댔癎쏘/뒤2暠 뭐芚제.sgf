@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[ep][en][el][cl][bo][co][do][cp][ap][qp][op][ql][bq]AW[qj][mq][br]
+[cr][dr][cq][eq][fp][cn][cj]LB[fq:A]C[第2图  黑先 B级
+构造力
+左下角白棋被黑A断则成劫争，但黑可下点功夫，让劫处理。
+拿出漂亮的手筋造成好形，心中岂不快哉！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dq]MULTIGOGM[1]
+;B[fq];W[dp];B[gp];W[eo];B[fo]
+(;W[ep]C[参考图]N[参考图];B[er];W[dq];B[gr]C[下边白棋如何处理？
+黑1断至5时，白若6、8黏，被黑9虎到，角上白棋死掉了。])
+(;W[fr]MN[6]C[正解图]N[正解图];B[ep];W[hq]C[黑5叫吃时，白若6，黑7提二子，白8飞出。
+如此，白可使损失减至最少，但黑的姿态也不错。
+
+]))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][pn][bo][bn][gq][dn][en][fn][fo][cn][dp][dq][dr][gp][hp]AW[cr]
+[co][cp][cq][ds][er][eq][ep][eo][hq][iq][ip][ho][go][in][gl][cl][bm][nq][el]LB[fp:A]
+[gr:B]C[第24图 黑先 A级
+起死回生
+黑若A黏被白B渡过，黑棋大龙就死掉了。
+黑棋只能吃掉角上白子而活，急所一击，起死回生的手筋在何处？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[do]MULTIGOGM[1]
+;B[fs]C[正解图]N[正解图];W[fp];B[es];W[gr];B[cs];W[bs];B[ds];W[ar];B[ap]C[黑1为点的手筋。白只好2应，黑3以下9止吃到角上白子而活。
+黑1若2粘则白4渡，黑死。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[eq][fq][gq][hq][gr][kq][cq][cp]AW[pp][mq][bp][co][do][cm][ep][fp]
+[dq][dr][er][fr]C[第66图 黑先 B级
+三选一
+左下角的攻杀，黑棋有三种下法，何者最佳？
+必须一眼就能看出手筋所在。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[br]C[正解图]N[正解图];W[bq];B[cr];W[ar];B[bs]C[角上的攻杀。黑1之尖为手筋，白2以下至黑5止，攻杀黑胜。
+黑1若2则白1。另外，黑1若3则白1，不管那一图都是黒\攻杀负。])

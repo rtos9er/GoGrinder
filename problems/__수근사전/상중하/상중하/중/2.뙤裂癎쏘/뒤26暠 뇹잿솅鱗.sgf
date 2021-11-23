@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[dq][dp][co][dn][em][fm][qo][mq]AW[eq][ep][eo][en][dm][dl][pq][op]
+C[第26图 白先 A级
+处理佳作
+左下角被裂开的白四颗棒子，如何处理比较好？
+白棋下法不同，损益相差很多。
+本题变化多。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;W[dr]C[正解图]N[正解图];B[cr];W[cq]
+(;B[cp];W[cn];B[do]
+(;W[bo];B[bq];W[bp];B[cq];W[bm];B[er];W[fr];B[ds];W[ho]C[白1黑2时，白3断为绝妙的手筋，可导致白棋有利的结果。黑若4，白5以下黑14止，此时白下到15位，白有利。])
+(;W[bq]MN[7]C[参考图]N[参考图];B[er];W[ds];B[cs];W[bo];B[es];W[dr];B[ds];W[bp];B[dr]
+;W[gq];B[hr];W[gr];B[gs];W[hq];B[ir];W[iq];B[jq];W[jp];B[kq];W[io]C[白也有7立的手法。
+黑若8断，白9以下15止绞封。白17时，黑不得不18渡，以下至27止，白棋在攻击中取得大利。]))
+(;B[er]MN[4]C[参考图]N[参考图];W[do];B[cp];W[cn]C[白3时，黑若4，白5再7吃通，分断白棋的黑两子烂掉，白恶。
+白1再3为漂亮的处理手法。]))

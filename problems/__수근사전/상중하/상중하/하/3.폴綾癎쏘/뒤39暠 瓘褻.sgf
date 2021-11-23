@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[gq][hs][fp][ep][do][cp][bp][bo][bq][cr][ar][nq][iq][ir]AW[pp][pn]
+[br][aq][cq][dq][eq][fq][gr][hr][fs]LB[as:A]C[第39图 白先 A级
+味噌
+将它当做诘棋，说不定能找出手筋，但实战中十有九人会白A提，错过美味。若A提只能劫活无法净活。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hq]MULTIGOGM[1]
+
+(;W[bs]C[正解图]N[正解图];B[cs];W[dr];B[as];W[ds];B[ap];W[er]C[普通情况，白1是笨筋，但此处变成绝妙的手筋。
+黑只好2，白3再5时，黑必须6提，白7可活。])
+(;W[as]C[参考图]N[参考图];B[dr];W[er];B[cs];W[ds];B[es]LB[is:A][gs:B][dp:C]C[白1提为常识下法，如此，黑有2再4的手法，白5黑6止成劫。
+白5若6被黑A黏住，白B、黑C，白死掉了。]))

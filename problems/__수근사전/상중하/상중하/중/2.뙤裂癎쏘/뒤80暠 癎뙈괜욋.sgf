@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[br][cq][dp][ep][fq][gq][cl][el][gm][gn][io][jo][ko][lo][mo][np][nq]
+[op][pp][pq][qo][ro][qk]AW[lq][bq][bp][cn][eo][fn][fp][gp][hp][iq][jn][jl][ln][lm]
+[nn][nl][pn][qn][qq][pr][or][nr][oq]C[第80图 黑先 A级
+手段宝库
+白棋大龙从左下角延伸到右下角，黑能否将白拦腰切断？
+下出手筋之后，后面是白棋生死的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ok]MULTIGOGM[1]
+;B[kq]C[正解图]N[正解图];W[kr];B[lr]
+(;W[mr];B[jr];W[ls];B[jq];W[do];B[cp];W[bl];B[bk];W[bm];B[ck];W[co];B[aq];W[ao]
+C[下边一带白棋有缺陷，黑用1再3断的手段，可将白棋分断。但白8以下16止可露骨地做活。])
+(;W[jq]MN[4]C[参考图]N[参考图];B[mq];W[kp];B[mr];W[rr];B[do];W[dn];B[em];W[en];B[bm]
+C[前图白4的变化。
+黑3断时，白若4应，黑5、7接应，此时白8活右边，黑9以下13止，这块大龙死了。白棋照前图的下法比较有利。]))

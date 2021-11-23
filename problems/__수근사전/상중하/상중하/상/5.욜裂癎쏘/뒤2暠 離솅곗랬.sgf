@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ep][en][dl][gm][hm][ho][io][iq][gr][oq][mp][bq][cq][co]AW[cm][cl]
+[cj][br][cr][dq][eq][fq][gp][go][gn][qp][po]C[第2图 白先 B级
+最佳办法
+如果只要做活则简单，但必须用最佳的手段做活才算正解。
+这个问题要一看形就知道筋在何处。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+
+(;W[hr]C[正解图]N[正解图];B[hq];W[gq];B[fr];W[er];B[ir];W[fs];B[hs];W[ar]C[白1为跨之手筋。
+黑2至白8接应的话，白下到9，活了。
+白1可把白棋全部做活。])
+(;W[fr]C[参考图]N[参考图];B[gq];W[aq];B[fp];W[gs]LB[es:A]C[白若1位应，黑2时，白3必须后手活角。黑4断掉白三子，和前图相比，白损。白5不下的话黑有A的点手。]))

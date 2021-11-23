@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cl][pp][mq][lr][kq][kp][ko][ln][io][ho][go][fo][eo][hp][in][jn][em]
+[fm][dp][br][bq][bp][bo][bn][cm]AW[qn][kr][jr][ir][jq][jp][jo][hq][gq][ip][gp][dq]
+[cr][cp][co][do][dn][dm][el][fl][gl][il][kl][km][kn]C[第45图 黑先 A级
+快刀
+被白棋困住的大块黑棋没办法做活，只能试图寻找白阵之缺陷。
+死马医成活马，乐不可支，拿出你的快刀吧！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dl]MULTIGOGM[1]
+
+(;B[fq]C[正解图]N[正解图];W[fr];B[er];W[eq];B[fp];W[gr];B[cq];W[dr];B[ep]C[黑1之碰为手筋。
+白2时，黑3是相关连的手法，白若4则黑5，白只好6黏，黑7再9，吃掉白五子。白4若5则黑9黏，白4时黑7即可。])
+(;B[ep]C[参考图]N[参考图];W[cq];B[fq];W[fr];B[er];W[eq];B[fp];W[gr]C[黑若1位黏，白也2黏，黑3时，白4至8仍可连结。
+黑1不黏单在3位碰，是手顺之妙。]))

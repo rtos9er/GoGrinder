@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][pn][nm][km][kl][jm][in][hn][ho][hp][hq][gp][fp][fq][gr][eq][dq]
+[cq][bp][bo][cn][bm][cl][dl][cj]AW[nq][bl][cp][co][ep][eo][em][gn][hm][im][hk][jl]
+[jk][bq][br][cr][dr][er][fr][ir][ip][jo][jn][no]C[第41图 黑先 B级
+手顺之妙
+下边黑子被切断已经活不了，但因上方白棋也有缺陷，可从这方面动脑筋。
+动手的时候，要注意手顺的先后。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ej]MULTIGOGM[1]
+;B[gm]C[正解图]N[正解图];W[gl];B[en];W[fn];B[do];W[dn];B[dp]LB[fo:A][dm:B][go:C]
+C[黑1断再3挖为手顺。白只好4，黑5、7提掉。
+白4若A，黑5白7黑4白6黑C，白全部被吃掉了。])

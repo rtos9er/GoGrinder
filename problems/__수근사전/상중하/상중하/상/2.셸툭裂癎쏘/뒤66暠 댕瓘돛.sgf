@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[cq][co][dp][ep][fp][gp][hj][dm][fn][fm][fl][fk][gj][cr][ij][kk][lj]
+[nj][pj][qk][rk][rl][qn][pp][pq][oo][mo][mm][nm][om][ln][kn]AW[eq][fq][gq][hp][fo]
+[go][gn][gm][gk][hk][jl][jm][ll][lm][ml][nl][ol][pl][ql][nq][kq][cm][dl][cj][dq]
+C[第66图 黑先 A级
+大味道
+问题图很大。
+下边一带很大，白棋好像已经全部连结，实则存在裂开白阵的大味道。
+实战才找得到这种大弱点。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dn]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图]
+(;W[hq];B[io];W[ho];B[in];W[iq];B[im];W[il];B[gl]C[黑1是夹碰的手筋。
+白有2和4两种应手。白若2黏，黑3再5即可。
+白若6，黑7再9吃到尾巴白子。])
+(;W[ho]MN[2]C[参考图]N[参考图];B[iq];W[jo];B[hq];W[hr];B[ir];W[gr];B[dr];W[er];B[fs]
+C[对黑1，白若2位上黏，黑3再5弄成攻杀，白6以下至11止，攻杀黑快一气。
+兹事体大，必须弄清楚。]))

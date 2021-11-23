@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[co][jq][eo][en][fn][bn][dp][dq][gq][gm][gl][go][ik][jk][kl][jm][jo]
+[do][jp][lo][qn]AW[in][pp][nq][lq][ip][io][im][il][hn][gn][fq][bq][cp][bo][ap][cn]
+[dl][em][fm][dn][cq]C[第8图 白先 A级
+抽丝剥茧
+被黑困住的白七子不活，要利用右边白子的配置关系才有棋可下。
+抽丝剥茧自然地找出线头，这是最高的境界，但第一手要何处动手呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hk]MULTIGOGM[1]
+;W[gr]C[正解图]N[正解图];B[hq];W[iq];B[hr];W[ir];B[jr];W[fp];B[gp];W[js];B[fr];W[kr]
+C[被黑棋包围的白七子的处理办法。
+白1扳为手筋，黑2至6时，白7和黑8交换再9扳，黑只好10，白11渡过逃掉了。])

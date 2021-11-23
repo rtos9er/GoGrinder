@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[qp][op][mp][lq][jq][gq][ir][ip][hp][gp][fp][jr][dp][bp][ap][bq][ao]
+[bn][bm][co][do]AW[aq][br][cq][cp][dq][eq][fq][gr][hr][hq][iq][jp][jo][lo][in][gn]
+[en][dn][cm][dl][bl]C[第1图 黑先 A级
+断一手
+黑棋大龙已经不活，只好去动下边白棋的脑筋。
+会生出种种变化，需要力量够，才能找到正确的结论。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ep]MULTIGOGM[1]
+;B[cr]C[正解图]N[正解图]
+(;W[dr];B[bs];W[cs];B[ar];W[as];B[fm];W[fn];B[bs];W[cr]C[这块白棋看起来是活形，但被黑1切断已然活不了。黑3和1是关连手筋。
+黑9提劫，白10黏住。以下见次图。]
+;B[hs]MN[1]C[续前图]N[续前图];W[fs];B[es];W[er];B[is]LB[fr:A]C[黑1白2时，黑3为手筋。白若4，则黑5黏，白死。
+白2若A则黑3攻杀，但黑可赢棋。])
+(;W[bs]MN[2]C[变化图]N[变化图];B[fr];W[er];B[fs];W[es];B[cs]LB[dr:A]C[黑1断时白若2立，黑3的断手重要。
+白只好4位应，黑5和白6先手交换之后再黑7，白无法A位紧气，黑吃到角上白三子，白棋全灭。]))

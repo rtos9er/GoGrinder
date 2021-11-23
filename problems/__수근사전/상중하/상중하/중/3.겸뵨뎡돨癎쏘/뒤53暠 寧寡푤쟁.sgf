@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[er][eq][fp][fo][hp][jq][np][oq][pr][pp][qp][ro][pn][on][nm]AW[fq]
+[dq][jo][mp][mn][nq][nr][or][qk][pm][qn][qo][cq][ep][eo]LB[fr:A]C[第53图 黑先 A级
+一望千里
+问题在左下角。
+白A可吃到黑二子，在这之前，黑如何欺负白棋，才有一望千里的风光。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[en]C[正解图]N[正解图];W[do];B[co]
+(;W[dn];B[cp];W[cn];B[bq];W[bp];B[bo];W[br];B[ap];W[cr];B[bn];W[em];B[gq]C[黑棋如何处理角上的战斗比较好？
+黑1再3为攻击手筋，白若4则黑5黏，白若6，势必成为黑7至15止的进行，黑可吃到角上白子。])
+(;W[cp]MN[4]C[参考图]N[参考图];B[dn];W[dp];B[fr];W[cn];B[cm];W[bo];B[bn]C[白若4断，黑5叫吃白6黏时，黑7至11封锁，白恶自不待言。
+此为黑1、3手筋的效果。]))

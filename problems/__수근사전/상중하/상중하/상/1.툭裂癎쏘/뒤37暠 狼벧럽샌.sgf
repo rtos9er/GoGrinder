@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[fr][er][eq][dp][do][dn][bo][bp][cl][pp][jq][gq]AW[fq][fp][ep][en]
+[em][go][ho][bq][cq][dq][cp][dr]C[第37图 白先 A级
+要害反击
+角上白五子不活，只好去冲下边黑棋的缺陷。
+黑形气紧，但白棋着手顺序不能弄颠倒。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gp]MULTIGOGM[1]
+;W[iq]C[正解图]N[正解图]
+(;B[ir];W[hr];B[ip];W[gr];B[hq];W[es]LB[hp:A]C[白1之碰为手筋。
+黑只好2应，白3挡以下至7止，吃到黑三子。
+黑2若4则白A黑6白2，黑棋不行。])
+(;B[hr]MN[2]C[参考图]N[参考图];W[ir];B[jr];W[hs];B[ip];W[hp]LB[gr:A]C[白1碰时，黑若2则白3至7止，黑负。
+白7止的结果，黑棋损失比前图大，不利。
+白1若2则黑A，白负。]))

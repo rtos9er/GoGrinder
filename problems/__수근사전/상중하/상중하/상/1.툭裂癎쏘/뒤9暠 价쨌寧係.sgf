@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fp][fq][gq][hp][ip][hn][pp][cj][ej][pn][dp][cp]AW[nq][bn][cn][do]
+[eo][fo][go][gp][hq][iq][jp]C[第9图 白先 B级
+死路一条
+被裂开的白子，若能将中间黑三子制住可解决问题。
+知道手筋，还必须能一路算到底。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[1]
+;W[in]C[正解图]N[正解图];B[ho];W[hm];B[gn];W[gm];B[fn];W[fm];B[en];W[dn];B[em];W[el]
+;B[dm];W[dl];B[cm];W[cl];B[bm];W[bl]C[白1是碰的手筋，黑若2黏，白3以下17止追击，可吃到黑子。
+实战中被白1碰到时，黑棋就要弄清楚能否2黏。])

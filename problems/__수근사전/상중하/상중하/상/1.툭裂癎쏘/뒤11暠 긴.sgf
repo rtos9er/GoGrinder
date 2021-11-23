@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[ro][sr][jp][rq][po][no][nn][jr][qp][np][jq][ip][kp][hq][hr][fq][dp]
+AW[hp][kq][kr][in][is][ir][iq][cn][js][rs][oq][pq][qq][rr][mq][mp][mo][mn][kn][ho]
+C[第11图 黑先 A级
+变色
+白棋吃到五黑子，但因阵形有缺陷，地中有棋。
+黑可利用之，拦下角上白子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[StoneBase:SGFParser.3.0.1]SZ[19]GM[1]HA[0]MULTIGOGM[1]
+;B[mr]C[正解图]N[正解图]
+(;W[nr];B[hs];W[ks];B[lq]C[黑1碰的手筋，在白地中搞出棋来。
+白若2，则黑3至5吃到白七子。
+黑1另外也是破角上白子眼位的手筋。])
+(;W[lr]MN[2]C[参考图]N[参考图];B[ms];W[nr];B[ks];W[ls];B[hs]LB[nq:A]C[黑1碰时，白若2位接应，黑仍有3的巧手，次狙袭A和5。
+白4若5，黑A可吃到右方白子。
+黑3是两边有相对手段的妙手。]))

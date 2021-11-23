@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[gn][iq][pp][pn][dp][dq][dn][fo]AW[nq][kq][eq][fq][gp][go][hn]C[第16图 黑先 A级
+魔剑
+下边白地中的黑子，如何处理比较适切。
+此形经常在实战中出现，记住会有用的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fp]MULTIGOGM[1]
+;B[hp]C[正解图]N[正解图];W[ho];B[gq]
+(;W[gr];B[hq];W[hr];B[ir];W[jp];B[hs];W[fr];B[es];W[jr];B[ep];W[ip];B[gs]C[黑1是夹碰的手筋。
+白若2黏，黑3断弄成攻杀，黑9以下15止，黑胜。
+黑11也可15,11是本筋。])
+(;W[ip]MN[4]C[参考图]N[参考图];B[hq];W[jq];B[gr]LB[jp:A][io:B]C[对黑1白2黏，对黑3白若4，黑5白6时，黑7攻杀胜。
+黑1若A或B逃出，只能说是缓着。]))

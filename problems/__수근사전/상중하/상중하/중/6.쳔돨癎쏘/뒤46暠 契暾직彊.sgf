@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[qo][qm][pm][cq][dq][ep][eo][en][em][dm][hl][hp][jk][jl][jm][jn][ko]
+[kq][lq][lr][dk][cn]AW[kr][cp][ip][io][in][im][il][hk][ij][bq][bo][do][dn][cm][cl]
+[qp][pq][op][iq][pn][jr]C[第46图 白先 A级
+行云流水
+中央到下边的白子被黑△断，白能否将之制住？
+重要的是要有如行云流水般的杰出细算。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ik]MULTIGOGM[1]
+;W[gl]C[正解图]N[正解图];B[hm];W[gm];B[hn];W[go];B[ho];W[gp];B[hq];W[hr];B[gq];W[fq]
+;B[gr];W[fr]C[能否吃掉分断白棋的黑一子？
+白1至黑4先交换掉再白5门为焦点。黑若6，白7以下至13止可漂亮地吃掉黑棋。])

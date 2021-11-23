@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][qp][op][nq][mq][hq][mm][kn][jn][jr][iq][bn][io][ho][go][fo][en]
+[do][dp][eq][cq][cr][dr][cn]AW[qk][br][bq][cp][co][bo][bm][dm][cm][dn][er][fr][gq]
+[gp][hp][ip][jq][jo][lo][lp][oq][qn][on]C[第90图 白先 B级
+有利的活法
+要做活陷在黑阵中的白棋，何种下法最佳？
+同样是活，损益差很多，重要的是能算清楚变化。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[no]MULTIGOGM[1]
+;W[lr]C[正解图]N[正解图];B[kq];W[jp];B[lq];W[kr];B[hr];W[is];B[ir];W[gr];B[mr];W[hs]
+LB[ks:A]C[白1为点的手筋。黑2以下白11止，白胜。
+白1若5，黑2白3黑1白8黑A白6，白同样活，但损失十目左右。])

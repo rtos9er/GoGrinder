@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[do][eq][er][gr][ho][fm][el][ej][cj][pp][pn][om][bq][cq]AW[cl][co]
+[cp][hr][hp][gp][fp][ep][jp][jn][nq][ql][dq][dr]TR[dr][dq]C[第4图 白先 B级
+白鸟
+左下角白▲子被吃，但白棋能否利用这两颗子而救出左方白三子？
+如白鸟展翅，手筋比较简单。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;W[dn];B[eo];W[en];B[fo];W[fn];B[go];W[io];B[hn];W[hm];B[ds];W[gn];B[cr];W[dq];B[dr]
+;W[in];B[dq];W[gm]C[角上左边之战，白棋如何处理？
+白1至5追杀，黑6时白7再9，黑不得不10打，白11以下至17整形。])

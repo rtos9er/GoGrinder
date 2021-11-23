@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][dn][dl][fn][fm][go][gp][gq][iq][jp][pp][pn][cq]AW[cr][dq][ep]
+[fo][fq][fp][gr][gn][hn][nq]LB[dr:A][er:B]C[第81图 黑先 B级
+打劫不行
+六子至九的授子棋所下出之形。
+攻击角上白棋的急所在何处？应该一看形就知道手筋。
+黑若A断白可B劫应，黑棋不行。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图];W[bq];B[fr];W[cp];B[bo];W[co];B[bn];W[dr];B[bp];W[ds];B[hr]
+;W[bs]C[授六子棋经常出现之形。黑1为点之手筋，白2以下9止，必然。
+白10为巧妙的手筋，黑只好11，白12可活一半。白棋就算活了也是大损。])

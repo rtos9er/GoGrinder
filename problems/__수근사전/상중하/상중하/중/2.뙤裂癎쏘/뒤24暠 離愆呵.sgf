@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[jq][jo][im][gn][gp][fp][eq][eo][do][co][cp][cn][bm][cl][pp]AW[bn]
+[bo][bp][cq][dq][dp][fq][gq][hq][hp][ho][qn]C[第24图 黑先 B级
+最少损失
+类似形已经在前面出现过，所以，看一眼就能知道手筋在那里吧！
+白棋如何使损失减至最少。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[1]
+;B[bq]C[正解图]N[正解图]
+(;W[br];B[cr]LB[dr:A][er:B]C[黑1断之后黑3可裂开白阵。
+次，白若A则黑B，另外白若B黑A即可。
+此一手筋已经在前面的类似形出现过。])
+(;W[er]MN[2]C[参考图]N[参考图];B[br];W[cr];B[bs];W[cs];B[an]LB[ep:A]C[对黑1之断，白2再4让步，至黑7止，可将损失降至最小。
+黑1若A被白2渡过，再笨不过。]))

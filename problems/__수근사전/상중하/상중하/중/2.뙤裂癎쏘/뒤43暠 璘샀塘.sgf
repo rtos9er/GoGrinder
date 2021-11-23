@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fr][gq][hq][cn][cm][dl][ck][qp][dq]AW[bo][co][ep][fp][gp][fq][dn]
+[dm][fm][oq][lq]C[第43图 白先 B级
+左或右
+要冲下边黑棋的缺陷，从何处着手比较好？
+虽然知道有棋，但第一手的顺序如何决定呢？本题应用范围广。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[1]
+;W[gr]C[正解图]N[正解图];B[hr];W[er];B[gs];W[dr];B[cq];W[cr];B[br];W[bq];B[bp];W[aq]
+;B[ap];W[cp];B[ar];W[bq]C[白棋从1位切断才是手顺。
+黑大致应2吃，白3以下15止吃到黑子。])

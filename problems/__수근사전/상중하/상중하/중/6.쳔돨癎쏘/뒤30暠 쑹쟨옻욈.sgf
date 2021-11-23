@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pp][mq][mo][dr][cr][cq][cp][co][do][bo][cm][dm][cj][ej][eq][fq][fp]
+[gp][go][ho]AW[kp][bl][bm][bn][cn][dn][en][eo][fo][ep][dp][dq][er][fr][gr][gq][hp]
+[ip][iq]C[第30图 白先 A级
+精励刻苦
+白棋想要安定左方一团还不成问题，但能否将分断白棋的黑六子也收下呢？
+想提高着手效率就要辛苦点。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hq]MULTIGOGM[1]
+;W[in]C[正解图]N[正解图]
+(;B[hm];W[hn];B[gn];W[gm];B[fm];W[gl];B[fn];W[fl];B[em];W[dk];B[ek];W[el];B[ck]
+;W[cl]C[白1门封，黑若2位逃，白3再5断，以下至黑10止时，白11这手棋为巧筋。
+黑棋行动变得不自由，白15止漂亮的解决了。])
+(;B[gn]MN[2]C[参考图]N[参考图];W[gm];B[fm];W[fl];B[hm];W[gl];B[hn];W[il];B[im];W[jm]
+;B[jn];W[jl];B[io];W[kn];B[ko];W[lo];B[jo];W[ln]C[白1门封时，黑若2应，白的应法比较难。
+白3黑4时，白5重要。黑6再8时，白9门封以下至19止可吃掉黑子。必须有相当的力量才能算到这里。]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pp][qp][mq][kq][kr][jp][ip][hp][gp][gn][hn][gm][em]AW[dk][dq][dp]
+[hm][cm][il][in][jn][ko][kp][jr][jq][gq][hq][qn][qk][co][fl][gl]C[第68图 黑先 A级
+薄冰
+被困住的黑棋，能否冲白棋薄味找出活路？
+问题不难，但必须注意着手顺序。应用很广的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[1]
+;B[iq]C[正解图]N[正解图];W[ir];B[fq];W[fr];B[er]
+(;W[gr];B[hs];W[eq];B[hr];W[fp];B[js]C[被困住的黑棋的处理方法。
+黑1白2时，黑3、5连扳为手筋。被黑7点到，白不得不8断，黑9再11吃到白子了。])
+(;W[hr]MN[6]C[参考图]N[参考图];B[fs];W[gs];B[gr]C[前图白6起的变化。
+白若6黏，黑7白8变成劫争，但因要看劫材的多寡，好坏难断。]))

@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pp][oq][pq][or][nn][dp][dn][jp][mo][nm][qm][qn]AW[fq][pr][qr][qq]
+[qp][qo][no][mn][nq][cj]C[第81图 白先 A级
+轻快
+授六子至九子局，经常出现的形。
+白子被切断，如何整形，将显示出白棋的力量。重要的是有轻快的着想。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[po]MULTIGOGM[1]
+
+(;W[kp]C[正解图]N[正解图]
+(;B[jo];W[mp];B[lo];W[ko];B[ln];W[kn];B[lm];W[jn]C[白1之碰为手筋。
+黑若2位应，白3至7顺势出头。
+白9止，为白之处理形。])
+(;B[mp]MN[2]C[参考图]N[参考图];W[jq];B[iq];W[ip];B[jo];W[hq];B[ir];W[jr]C[白1碰时，黑若2应，则白3至9成战斗，但因4、8两颗黑子被吃，白棋有利。]))
+(;W[lo]C[参考图]N[参考图];B[mp];W[lp];B[mq];W[lq];B[mr]LB[kp:A]C[白1至黑6止，白棋弃掉二子，并不是本筋。
+白棋应A碰才能影响到两边黑子，才算手筋。]))

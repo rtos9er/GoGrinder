@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qp][qq][rq][pq][sp][nq][nr][mp][pk][qk][ql][nk][dq][ep]AW[co][mq]
+[mr][kq][np][oo][qo][rp][rn][qm][pl][qr]TR[mp]C[第35图 白先 B级
+熟视
+右下角的白子被黑△分断，但只要看清楚棋形，就能想出办法吃到要子的。
+若吃不到这颗黑子，白上下将被双击，明显苦战。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hq]MULTIGOGM[1]
+;W[mo]C[正解图]N[正解图];B[lp];W[oq];B[or];W[op];B[pr];W[ko];B[lo];W[ln];B[mn];W[kp]
+;B[no];W[lq];B[on];W[pn]C[想吃掉切断白棋的黑一子，首先白1、3、5定形之后再7门才是手顺。
+黑若8，白9以下至15止吃到黑三子。])

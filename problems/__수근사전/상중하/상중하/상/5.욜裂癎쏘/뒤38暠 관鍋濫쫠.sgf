@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[ep][eo][en][jp][jq][io][in][ko][pp][np][cr][dr][dq]AW[br][cq][cp]
+[do][dn][dm][gn][fp][hp][ip][jo][qn]C[第38图 黑先 B级
+包围战略
+左下角的战斗中，黑棋若能包围住白四子，本身安全就没问题，但想包围白棋，多少有点危险性。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[go]
+(;W[ho]C[参考图]N[参考图];B[hn];W[fo];B[gm];W[fn];B[fm];W[fq];B[em];W[hr];B[dl]
+C[黑1为跨之手筋。白若2应，黑3以下9接应。
+白必须10位做活，黑得11挡住，为白不利之形。])
+(;W[fo]MN[2]C[正解图]N[正解图];B[fn];W[ho];B[gm];W[hn];B[hm];W[fq];B[el];W[hr]LB[fm:A]
+C[对黑1，白2的应法比较好。
+黑3以下至黑7时，白8不补不行，黑得9跳。
+白8若A断，被黑8敲到，攻杀白负。]))

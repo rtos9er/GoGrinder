@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][qn][cr][cq][er][dp][do][dn][dm][dl][cm][cj][dj][ej][fj][hj][ik]
+[il][hm][gm][in][io][jo][jp][go][iq][hq]AW[br][bq][cp][co][cn][bm][cl][bk][ek][gl]
+[hl][gp][hp][ip][im][jl][jm][jn][jq][kq][kp][ko][ln][nq]C[第5图 白先 C级
+一瞬
+能否利用散在黑地中的白六子去破坏黑阵?
+黑一瞬之间做了个恶梦，但问题并不难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gq]MULTIGOGM[1]
+;W[fm]C[正解图]N[正解图];B[ho];W[fp];B[fo];W[gn]LB[hn:A]C[黑地当中是否有棋？
+白1扳，可吃到黑二子。黑2若A则白3，吃到黑七子。])

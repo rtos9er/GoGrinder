@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[do][fo][gp][ho][hq][gr][dr][cq][cp][bp]AW[pp][mq][br][cr][dq][dp]
+[fq][fr]C[第5图 黑先 A级
+峻烈
+攻这块白棋，如果是劫杀则不成问题，但要无条件将之吃掉，可就难啰！
+实战，多数人会当做劫杀。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cn]MULTIGOGM[1]
+;B[ds]C[正解图]N[正解图];W[cs];B[ep];W[eq];B[ar];W[aq];B[as]LB[bq:A][ap:B][er:C]
+C[黑1白2时，黑3和白4交换之后，黑5碰，白只好6，此时，黑7下出手筋，白一弹毙命。
+黑7若A，白7黑B白C变成宽气劫，失败。])

@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pp][pn][ar][br][gs][cp][bp][dp][ep][cq][cl][fo][go][ho][hp][hq][hr]
+[hs]AW[nq][aq][bq][cr][bs][er][dq][eq][fp][gp][gq][gr][eo][en][fm][hm][in][jp][jr]
+C[第63图 黑先 A级
+玄妙
+如果认为黑棋先攻，白棋也能活一半的话，未免太早下结论。
+黑用绝妙的手筋，可将白棋全部吃掉，恐怖吧！令人尝到手筋之妙味了。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]SZ[19]AB[cn]MULTIGOGM[1]
+;B[ds]C[正解图]N[正解图]
+(;W[fr];B[cs];W[as];B[br];W[dr];B[ar];W[bs];B[ap]C[黑1之点为手筋，一举杀掉白棋。
+白若2，黑3为急所，白4以下9提掉白二子，白死。])
+(;W[as]MN[2]C[参考图]N[参考图];B[es];W[fr];B[dr]LB[fs:A]C[黑1点时，白若2则黑3白4黑5止，白无法A挡，白棋就死了。
+黑1之点不是很漂亮的手筋吗？]))

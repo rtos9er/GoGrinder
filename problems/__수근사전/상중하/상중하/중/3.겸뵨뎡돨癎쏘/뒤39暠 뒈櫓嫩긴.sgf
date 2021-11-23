@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pp][pn][qq][mn][ln][kn][ko][jp][jq][iq][kr][hr][hp][gp][fp][dq][dp]
+[do][co][bp]AW[pr][cp][cq][bo][bm][cn][an][dn][eo][fo][go][ho][io][jo][ip][hq][kp]
+[kq][lq][lr][lo][mo][nq]C[第39图 白先 A级
+地中异变
+黑地中有没有棋呢？
+考虑途中，可渐次想出次一手，但能否算到底呢？关键在第十一手棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bq]MULTIGOGM[1]
+;W[cr]C[正解图]N[正解图];B[br];W[ep];B[eq];W[fq];B[gq];W[fr];B[dr];W[gr];B[hq];W[hs]
+;B[is];W[jr];B[gs];W[fs]C[下边黑地有没有棋？研究细算的材料。
+白1至7进行，势必至10止接应。
+白11为扳之手筋，13、15成劫。])

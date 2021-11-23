@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hq][gr][dr][cr][bq][bp][co][cn][bn][em][ck][jo][ho]AW[pp][mq][jq]
+[fq][er][dq][dp][do][cp][cq][bo]C[第18图 白先 A级
+双重机关
+这块白子好像死了。
+攻击角上黑棋缺陷时，会被弄成倒脱靴，但白棋可再度使用巧妙的弃子，有双重机关。
+希望你让人见识一下力量。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hm]MULTIGOGM[1]
+;W[br]C[正解图]N[正解图];B[bs];W[ar];B[cs];W[ds];B[es];W[fs];B[ao];W[ds];B[aq];W[as]
+C[白1再3时，黑4是做出倒脱靴的常用手筋，此时，白5的弃子为形，可导致劫争。
+白11提黑子之后见次图。]
+;B[cr];W[dr];B[bs];W[fr];B[ep];W[gp];B[iq];W[eo]C[黑12断，白13再15做眼，黑若16再去攻击，则白17再19活了。
+正解图1的白5，连高手也很容易疏忽。])

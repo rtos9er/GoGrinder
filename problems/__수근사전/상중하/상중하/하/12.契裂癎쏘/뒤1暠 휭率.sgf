@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[eo][fo][dn][cn][cm][bm][dl][pp][np][mo]AW[qn][lq][hq][fq][ep][do]
+[co][bn][bp][ao][cl]C[第1图 黑先 A级
+容姿
+左下角白地是否完整？
+乍看似乎容姿整齐，但黑方法对，反而可吃到白棋成为黑地。
+鉴定棋力的好材料。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[cp]C[正解图]N[正解图];W[bo];B[cr];W[bq];B[eq];W[fp];B[br]C[角上的攻杀。
+黑1打白2时，黑3为跳之手筋。
+白若4，黑5再7，攻杀胜。
+黑3先在5位打也可以。])

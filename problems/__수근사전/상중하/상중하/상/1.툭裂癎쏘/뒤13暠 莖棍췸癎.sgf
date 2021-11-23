@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pr][im][op][nq][em][no][lo][gm][fl][pq][dm][cm][dq][dr][bn][bo][co]
+[ep][fp][fq][en]AW[po][qq][qn][iq][lq][fr][er][eo][fn][dp][cp][cn][dn][eq][qk][pp]
+[do]LB[cr:A][gr:B][fo:C]C[第13图 白先 A级
+天外妙手
+左下角的战斗，白若A则黑B，白若B则黑C，白棋都苦，白棋要想个办法，一手兼顾。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jo]MULTIGOGM[1]
+
+(;W[gp]C[正解图]N[正解图];B[gq];W[gr];B[hp];W[hq];B[go];W[fo];B[gp];W[cq]C[白1碰为巧妙的手筋，导致白棋有利的结果。
+黑只能2、4接应，至白9止，白形完整。])
+(;W[gq]C[参考图]N[参考图];B[gp];W[hq];B[fo]LB[hp:A][go:B][cr:C][gr:D]C[普通的着想是白1扳，但被黑2再4接应，左方白六子就这样被吃去，白棋失败。
+白3若A则黑B应，白若C则黑D，大破白地。]))

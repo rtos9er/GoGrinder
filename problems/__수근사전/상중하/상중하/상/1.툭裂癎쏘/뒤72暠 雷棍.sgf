@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[fp][em][fr][gq][jo][lq][pp][pn][qm][ln][bp][cp][dp]AW[qk][ok][kp]
+[jq][er][eq][dq][cq][bq][dl][el][cn]C[第72图 白先 A级
+意外
+下边白二子遭到攻击，希望白棋能下出手筋脱离困境。
+平凡的着手是不讨好的，只好使出令人意外的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ep]MULTIGOGM[1]
+
+(;W[mq];B[lp];W[ko]
+(;B[kn];W[lo];B[mp];W[mo];B[np];W[mn]LB[jn:A]C[白1之碰为手筋。
+黑若2应，白顺势3至9出头。
+因黑棋有A位的断点，无法放手攻白。])
+(;B[lo]MN[4]C[参考图]N[参考图];W[kn];B[km];W[jn]C[白1再3时，黑4防白从这边逃出的话，白5再7可从左方逃出。
+如此，黑左边自顾不暇，无力攻白。]))
+(;W[lp]C[参考图]N[参考图];B[mq];W[mp];B[nq];W[np];B[nn];W[oq];B[or];W[pq];B[pr]
+;W[qq];B[op];W[qr];B[kr]C[白1押则是平凡的着手，失败。
+黑2至白5时，黑在12位应也行，但黑6封塞的办法更严厉。以下至14止，黑愉快获胜。]))

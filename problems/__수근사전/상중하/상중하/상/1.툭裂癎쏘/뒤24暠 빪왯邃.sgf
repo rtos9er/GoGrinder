@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[em][fn][fo][fp][go][ho][gm][dn][do][co][cp][cq][cr][dq][er][fs][kq]
+[lq][ko][lo][mp][mr][op][pq]AW[bq][bp][bo][bn][cm][dm][dk][en][eo][ep][eq][fq][fr]
+[dp][gp][ip][iq][jq][kp][lp][jo][jn][hn][qo][ql][mq]C[第24图 黑先 B级
+虎口馀生
+左下角黑棋不活，但右方白棋也有缺陷，想个办法虎口逃生吧。
+看出妙筋，就是展颜欢笑的时刻。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[el]MULTIGOGM[1]
+;B[hq]C[正解图]N[正解图];W[gs];B[es];W[hr];B[gr];W[gq];B[hp]C[黑1是碰之手筋。
+白2再4时，黑5重要，黑7止胜。
+黑1若7冲，白1黑6白5黑4成劫，不行。
+黑1很容易错过。])

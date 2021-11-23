@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][pn][pl][oq][nm][nl][mk][gm][lj][kj][jj][jk][jl][hk][gk][co][hm]
+[go][ho][io][jo][ko][gq][gr][hq][iq][er][eq][fp][ep][dp]AW[cn][dn][cj][fo][fn][fl]
+[fq][fr][gp][hp][ip][jp][jq][ir][lp][mq][mn][mm][ml][lk][kl][jm][jn][im][il][oj]
+[qj][rl]C[第83图 黑先 B级
+壮快之击
+重点在于从何处攻击白棋的大龙。
+黑棋手顺好，瞬间可破坏白阵，很恐怖。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]SZ[19]AB[mj]MULTIGOGM[1]
+;B[lo]C[正解图]N[正解图];W[mo];B[kp];W[kq];B[lr];W[lq];B[mr];W[kr];B[nq];W[ln];B[ll]
+;W[lm];B[kn];W[km];B[kk]C[白棋大龙的生死问题。黑1、3之后，5为点的手筋。
+对白10，黑11押，白棋无法做出眼位。])

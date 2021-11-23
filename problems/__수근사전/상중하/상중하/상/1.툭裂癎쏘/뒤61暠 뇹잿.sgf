@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pr][qp][op][np][iq][gq][cp][co][bp][cm][cl][ck][bn][bm][dk][ej][ql]
+AW[dn][nq][or][kq][cn][bo][ko][io][eq][cq][ek][fk][dj][dm][do][nr][dl][qj]C[第61图 黑先 A级
+处理
+这是分先布局经常出现的形，问你下边黑二子如何处理？
+常用的手筋就能漂亮处理好。不用说，重要的是急所还有手顺先后。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[oq]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图]
+(;W[dr];B[dp];W[ep];B[fr];W[bq];B[hr]LB[dq:A]C[黑1之碰为手筋。
+白2应时，黑3先冲再5退为手顺。
+白6补A位断点时，黑7可做出活形。])
+(;W[fr]MN[2]C[参考图]N[参考图];B[fq];W[dr];B[ep];W[dp];B[dq];W[bq];B[ao];W[eq];B[kr]
+;W[es];B[lq]C[黑1碰时，白若2应，黑3至7弄成劫争。白10提劫时，黑有11的劫材，次黑13扳，得到大利。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[hp][gp][eo][do][cp][bo][bq][ar][dr][pq][op][kq][ko][jn]AW[br][cq]
+[dp][dq][eq][hq][iq][ip][qo]LB[gq:A][cr:B]C[第23图 白先 B级
+盘角曲四
+下边白若A则黑B，另外，白若B则黑A，白难以成活。但如果想到要用一手棋来照顾两边，马上就能想出手筋的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hn]MULTIGOGM[1]
+;W[er]C[正解图]N[正解图];B[cr];W[bs];B[gq];W[gr]C[白1是兼顾左右的手筋。
+黑若2则白3。黑若4则白5渡。
+白1的术语可称之为“拐”。])

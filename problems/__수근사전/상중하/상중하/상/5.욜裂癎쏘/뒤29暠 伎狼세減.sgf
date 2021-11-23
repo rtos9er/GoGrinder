@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[lp][hq][gq][gp][fp][ep][dp][cp][pp][jp][jq][jr][ir]AW[gn][en][ck]
+[cn][in][iq][ip][hp][jo][ko][hr][gr][fq][eq][fs][cr]C[第29图 黑先 B级
+须要技术
+授子棋实战中经常出现的形。因为能正确解决的人少，所以特别采用。
+双方都正确解决，须要技术。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hs]MULTIGOGM[1]
+;B[dr]
+(;W[dq]C[参考图]N[参考图];B[er];W[fr];B[br];W[cq];B[bq]C[黑1为跨之手筋。白若2应，黑3要着，是和1有关连的手筋。
+白若4黏，黑5再7，白死。
+此为授子棋经常出现的形。])
+(;W[bq]MN[2]C[正解图]N[正解图];B[cq];W[br];B[es];W[bp]LB[er:A][dq:B][ds:C]C[黑1时，白2的应法正确。
+黑若3则白2再6渡过，可减少损失。
+黑3若6则白A黑B白C活。]))

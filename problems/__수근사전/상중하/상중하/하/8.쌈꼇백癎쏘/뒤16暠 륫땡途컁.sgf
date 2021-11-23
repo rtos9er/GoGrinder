@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[eq][dp][cs][co][bo][bp][cn][cm][en][eo][pp][mq][fr]AW[kq][hq][gr]
+[fq][fp][do][cp][cq][bq][br][bs]C[第16图 白先 B级
+浮动圆木
+角上白棋只有一眼，要冲黑棋缺陷才能做活。
+请利用黑之气紧，找出接不归的手法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[er]MULTIGOGM[1]
+;W[ep]C[正解图]N[正解图];B[dq];W[dr];B[ds];W[fs];B[cr];W[gs];B[dn];W[es]C[类似前图之形。
+白1再3为导致接不归的手筋。
+黑若4，白5黑6提时，白7黏，黑8白9止，白吃到黑三子和右方白子连通。])

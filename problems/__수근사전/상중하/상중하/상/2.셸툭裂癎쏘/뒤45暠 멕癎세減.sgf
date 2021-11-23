@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[dr][pp][oq][pn][mq][mr][lr][kq][jq][iq][hq][gp][fp][dp][do][dq][ds]
+AW[cr][bs][cm][em][go][hp][ip][jp][kp][lp][mp][np][lq][kr][gq][fq][cp][cq][co]C[第45图 黑先 A级
+高手技术
+问题很难，若能算清变化就有业余初段的实力。
+想吃掉黑阵中两白子，不可等闲视之。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cs]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图];W[gr];B[hr]
+(;W[er];B[eq];W[fs];B[hs];W[fo];B[ep]C[黑1是夹碰的手筋。
+白若2，黑3以下9止，攻杀黑胜。
+另外，要算好白4于9位打的变化。])
+(;W[ep]MN[4]C[变化图]N[变化图];B[fo];W[eo];B[fn];W[eq];B[en];W[er];B[es];W[fs];B[dn]
+;W[jr];B[hs];W[is];B[ks]C[黑1再3时，白若4则成10止的进行。此时，黑11再13很重要，白14以下黑16止，将白收下，白负。]))

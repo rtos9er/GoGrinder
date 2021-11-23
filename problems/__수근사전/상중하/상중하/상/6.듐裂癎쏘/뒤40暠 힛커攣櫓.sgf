@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[fo][bp][bo][co][do][eo][fp][gp][hp][ip][dm][cl][bl][jo][kq][kp][ko]
+[kn][km][nq][pr][qq]AW[cm][bm][ck][iq][cp][pp][qp][qn][cj][qk][bq][dp][ep][fq][gq]
+[hq][jq][jp][io][ho][go][jn][gl][jl][el][dl]C[第40图 黑先 B级
+三目正中
+左边黑棋大龙处于假死状态，很容易可以看出白棋包围的薄味。
+击中三目当中的急所之后，重要的是细算问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kl]MULTIGOGM[1]
+;B[hm]C[正解图]N[正解图];W[gn];B[gm];W[fn];B[fm];W[en];B[em];W[dn];B[cn]LB[in:A]
+[il:B]C[黑1为点的手筋。白若2位逃，黑3以下至9可大吃白棋。
+黑1时，白若A则黑B，结果一样。])

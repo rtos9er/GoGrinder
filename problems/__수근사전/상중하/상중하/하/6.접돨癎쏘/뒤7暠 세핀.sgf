@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ro][qo][pp][op][rp][mp][lp][ko][jn][np][hn][fo][eo][do][cp][dq][dr]
+[gq][gr][kq][kr]AW[qp][qq][rq][pq][oq][mq][lq][lr][kp][jp][hp][hq][hr][gp][ep][eq]
+[er]LB[ip:A][jq:B]C[第7图 黑先 A级
+技巧
+下边白地有没有棋。
+黑若A则白B渡过，没棋。但黑在A冲之前可要点技巧，简单就有棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[io]MULTIGOGM[1]
+;B[nq]C[正解图]N[正解图];W[nr];B[ks];W[mr];B[ip];W[jq];B[iq];W[jr];B[ir];W[ls];B[is]
+C[黑1和白2交换之后，黑3立为手筋。
+白不得不4应，黑再5冲，以下至11止，可吃到左方白子。])

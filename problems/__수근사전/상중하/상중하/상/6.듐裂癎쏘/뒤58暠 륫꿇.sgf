@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[iq][hn][qq][qp][pp][op][np][mp][ql][ol][dp][fp][hq]AW[cn][cj][ip]
+[jp][jq][mq][nq][oq][pq][qj][oj]C[第58图 黑先 A级
+浮草
+一疏忽就会忽略，但下边白七子确实不够完整。
+黑棋的攻击手筋有两个，最严厉的手筋可夺白根据，叫白棋往外跑。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hp]MULTIGOGM[1]
+
+(;B[kr]C[正解图]N[正解图];W[jr];B[lq];W[lp];B[mr];W[nr];B[lo];W[kp];B[pr];W[lr]
+;B[ls];W[kq];B[lr];W[ns];B[jn]C[黑1为点之手筋。
+白若2，黑3以下至白14时，黑得15包围，白聚五死。])
+(;B[lq]C[参考图]N[参考图];W[lr];B[kr];W[kq];B[lp];W[jr];B[mr];W[ks];B[nr]C[黑也有1再3连扳的手段。
+如此，白4以下至黑9吃白四子，黑棋也不坏，但照前图那样用点的手筋，更加严厉。]))

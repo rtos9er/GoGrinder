@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pp][pn][hq][co][cp][fq][eo][bs][dr][er][gr][bp][fp][gp][go][iq][ip]
+[io]AW[ar][br][cr][ds][cq][hn][eq][ep][dp][ko][dq][nq][kq][jq][jm][ir][hr][hp][ho]
+[gn][fn][bn][fo][em][cm]C[第14图 白先 A级
+罗汉脚
+左下角的战斗中，被切断的黑子似已吃掉角上白棋成活，但白棋运用巧妙的手段，可将两块黑棋一起吃掉。
+有意思的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[do]MULTIGOGM[1]
+;W[es]C[正解图]N[正解图];B[fr];W[gs];B[cs];W[as];B[cs];W[bs];B[bq];W[fs];B[gq];W[kr]
+;B[aq];W[hs];B[cs]C[用滚打办法吃掉黑棋大龙的问题。
+白1以下至10止滚打，黑14吃白十颗子之后--]
+;W[cr]LB[cq:A][bs:B]C[前面黑14提掉白十颗子之后的形。
+虽然吃掉这么多颗白子，白仍可15断，次黑A则白B，黑棋活不了。
+实战若能下得出来就有意思了。])

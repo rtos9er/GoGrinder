@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][pn][oq][nn][dp][eo][fp][gp][hq][iq][jq][kp][ko][jn][in][hn][im]
+[cj]AW[gq][io][jo][go][fo][gm][jm][jl][kn][ln][mo][np][nq][qj][hp][ho]C[第39图 白先 A级
+沉思默考
+中央的战斗中，若能将切断白棋的中央黑四子吃掉，则不是问题，但吃不掉反而大损，事情就闹大了。
+务请各位沉思默考解决此一问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[il]MULTIGOGM[1]
+;W[ik]C[正解图]N[正解图];B[hl];W[gj];B[gl];W[fl];B[fm];W[gk];B[el];W[fk];B[gn];W[fn]
+;B[em];W[hk]C[能否吃到中央黑五子？
+白1黑2时，白3大门可吃到黑子。黑4再6时，白7为要着，黑即使8以下行动，也会至13止被白擒住。])

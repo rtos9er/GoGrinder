@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[qm][cn][cm][cl][bl][am][en][do][dp][dq][pp][pq]AW[qk][no][nq][kp]
+[cq][cp][co][bn][bm][ao][fo][fq][gm]C[第16图 黑先 B级
+怀剑
+授子棋的实战，经常出现之形。
+利用攻角上白棋的机会，可削掉右方大半白地。
+能正确作答的人，似乎不多。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[on]MULTIGOGM[1]
+
+(;B[dr]C[正解图]N[正解图];W[cr];B[cs];W[bs];B[ds];W[ar];B[gr]C[角上白棋和右方白地的关连性问题。
+黑1立为手筋。白2以下6活角时，黑7跳进去，愉快地破了白地。])
+(;B[cr]C[参考图]N[参考图];W[br];B[dr];W[bs]LB[gs:A][gr:B][fs:C][hs:D][er:E][ir:F]
+C[黑1扳为业余对局的通病。
+白2再4，次黑若A飞、白B黑C白D黑E白F，黑无法像前图那样大破白地，所以算失败。]))

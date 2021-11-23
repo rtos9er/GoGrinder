@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[dl][cl][ck][ek][fk][hq][ho][kq][cq][cp][do]AW[pp][mq][br][cr][dq]
+[fq][dj][cj][dk][el]C[第85图 黑先 A级
+伤心事
+左下角白棋乍看是活形，但经黑一击就出事了。
+白棋也有种种防御办法，不易算清楚，是训练心算的好题材。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[em]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图]
+(;W[dp];B[fr];W[co];B[bo];W[cn];B[bn];W[bp];B[eo]C[角上白棋的死活问题。
+黑1为点之手筋，白若2则黑3渡过，对白4，黑5再7，白吃两子仍无眼位。])
+(;W[fr]MN[2]C[参考图]N[参考图];B[eq];W[ep];B[dr];W[dp];B[fp]C[黑1点时，白若2则黑3至7可吃到白三子。
+黑1点能否吃到白子？棋力就是练习细算的过程中培养出来的。]))

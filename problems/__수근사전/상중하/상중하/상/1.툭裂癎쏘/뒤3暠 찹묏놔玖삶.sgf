@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oq][jp][cq][eq][er][dp][do][dn][cn][pp][pn]AW[ql][nq][np][cp][co]
+[bp][bn][cm][dq][dr][es][fr]LB[cr:A]C[第3图 黑先 A级
+慢工出细活
+本题从黑A下手，问题很难，慢工才能出细活啊！
+本题第11手下出碰之手筋，到第23手才搞定。实战时初学者不易弄清楚，值得好好研究。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[om]MULTIGOGM[1]
+;B[cr]C[正解图]N[正解图];W[ds];B[fq];W[gr];B[gq];W[hr];B[fs];W[gs];B[cs];W[fs];B[ir]
+;W[hq];B[hp];W[iq];B[jq];W[jr];B[is];W[js];B[ip];W[hs];B[ir];W[is];B[kr]C[黑1至白10止的手顺，松懈不得。
+黑11碰是狙袭手筋，至23止，漂亮地制服了白棋。])

@@ -1,0 +1,20 @@
+(;CA[gb2312]AB[gp][in][im][hm][cq][bn][bp][br][bq][hr][bs][dp][do][eo][fo][io][nq]
+[jr][iq]AW[pp][pn][hn][gn][gr][dq][dr][cr][cs][cp][co][cn][dn][en][bm][cl][eq]LB[es:A]
+C[第10图 白先 A级
+一景
+下边白棋有没有做活手段？要有高段者的力量，才能做出正确的细算。
+单下A位是活不成的，要下点功夫。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[bo]MULTIGOGM[1]
+
+(;W[go]C[正解图]N[正解图]
+(;B[fn];W[fp];B[gm];W[es];B[fr];W[gq]C[白1为挤之手筋。
+黑若2，白3和黑4交换之后再5尖，黑6时白7简单活了。
+白1是有点不易被发现的手法。])
+(;B[fp]MN[2]C[参考图]N[参考图];W[es];B[fr];W[fq];B[gs];W[gq];B[fs];W[hp];B[ho];W[fn]
+C[白1时，黑若2黏，白3黑4攻击时，白5以下9止，黑10时白11，白可吃黑六子而活。
+白1为巧妙的做活手筋。]))
+(;W[es]C[参考图]N[参考图];B[fr];W[fq];B[gs];W[gq];B[fs];W[hp];B[ho];W[go];B[fn]
+;W[gm];B[fm];W[gl];B[fp];W[hq];B[fl]C[白1虽是手筋，但白3以下7止接应时，被黑8至12冲出，白吃不到这块黑子，失败。
+白1想要有效，须先下点功夫。]))

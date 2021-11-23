@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[gp][bq][bp][cp][dp][eo][fo][dn][dm][pp][jq][hq]AW[br][cq][dq][fq]
+[gq][fp][cl][dl][em][gl][gn][go]LB[bm:A]C[第3图 黑先 A级
+做活之前
+被白棋包围的一团黑子，若黑A则活，但能否先动角上白棋的脑筋。有这种想法，就会找出妙手的。
+用什么样的手顺进行呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hp]MULTIGOGM[1]
+;B[eq]C[正解图]N[正解图];W[er];B[fr]
+(;W[gr];B[dr];W[fs];B[cr];W[hr];B[ir];W[hs]LB[ep:A]C[黑1为巧妙的手顺。
+白只好2位应，黑3断，白不得不4或A应，黑5再7吃掉白二子，白须8、10才能后手活。])
+(;W[ep]MN[4]C[正解图]N[正解图];B[gr];W[ar];B[eq];W[es]LB[dr:A]C[黑1再3断时，白若4，黑5至8，白棋可活角。白8若A黏则损失两目，要注意。]))

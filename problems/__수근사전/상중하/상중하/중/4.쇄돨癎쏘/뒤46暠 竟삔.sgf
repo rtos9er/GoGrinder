@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[mp][no][op][pp][qp][rq][dp][dn][cj]AW[rp][ro][qo][po][oo][qk][nq]
+[np][fq]C[第46图 白先 B级
+体会
+黑棋去吃白二子。白的处理方法，可显示出实力。
+此形随处可见，若能善加体会，用处很大。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[1]
+
+(;W[or]C[正解图]N[正解图];B[pr];W[mr];B[kq];W[lr];B[kp];W[rr]C[下边白二子的处理问题。
+白1之尖为手筋。黑若2，白3至黑6时，白7夹碰，不管怎样变化都是白有利的结果。])
+(;W[oq]C[参考图]N[参考图];B[pr];W[mr];B[lr];W[or];B[os]LB[nr:A][kq:B]C[白1之拐不是手筋。
+黑2跳，白3时黑4成立。白5时黑6扳，到此为止。
+白5若A黏，黑B即可。]))

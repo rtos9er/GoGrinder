@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][np][jp][jq][io][in][il][gk][gr][fq][eq][er][dr][br][cq][cp][do]
+AW[qn][ir][gq][gp][fp][ep][dp][dq][fo][cr][co][cj][pk][ip][iq]C[第66图 白先 B级
+细算问题
+下边白棋如何处理呢？前面已经出现过两、三个类似形，应该一眼看出手筋。
+就算知道手筋，后面能否算清变化还是个问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eo]MULTIGOGM[1]
+;W[bq]C[正解图]N[正解图];B[cs];W[bp];B[cr];W[en];B[bo];W[cn];B[bn];W[cm]LB[dn:A]
+[dm:B]C[已经出现过好几个类似形，一眼就能看出手筋。白1之断为手筋，以下至9止大致如此。黑6若A逃，白B黑7白6，黑棋被吃掉了。])

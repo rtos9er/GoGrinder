@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qq][pp][pn][qj][ar][bq][cq][cp][dp][ep][fq][fo][go][ho][io]AW[fr]
+[br][fp][gp][hp][bo][cn][en][eo][cj][nq][lq][pr][cr][dq][eq]C[第7图 黑先 B级
+手筋之妙
+左下角黑六子被吃，能否找出白棋包围网的缺陷，死灰复燃呢？
+有两种办法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图];W[dr];B[gq];W[hq];B[gr];W[hr];B[fs];W[jq]LB[iq:A][ir:B]
+[jr:C]C[黑1断为手顺，白若2黏则黑3长，白4以下至7止，黑先手处理好角隅。
+黑1时白若3，黑2白A黑8白B黑C白6，黑同样先手活角。])

@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[dq][er][dp][do][en][fn][gn][fo][ho][io][hm][jm][km][lm][ml][nl][fq]
+[gq][hq][ir][qp][op][oq][nq][mq][iq]AW[ek][eo][ep][eq][go][fp][gp][ip][hp][jp][jq]
+[jr][lo][ln][nn][nm][ol][pm][np][cn][dn][ck]C[第40图 黑先 A级
+高招
+问题复杂。
+白棋大龙见似连络，但黑棋可运用巧妙手法将之切断。想得出这种高招，一定很有力量。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cr]MULTIGOGM[1]
+
+(;B[mo]C[正解图]N[正解图];W[mp];B[no];W[mn];B[kp];W[ko];B[jo];W[lp];B[kq];W[lq]
+;B[kr];W[lr];B[js]C[黑1和5两手棋都是碰的手筋。
+黑1、3先交换再黑5碰，白6以下至13止的接应，黑可吃到左边白棋大龙。])
+(;B[kp]C[参考图]N[参考图];W[ko];B[jo];W[lq];B[mo];W[lp];B[mn];W[mr];B[nr];W[ms]
+C[黑直接于1位碰的话，白2黑3时，白4门住，黑5再7虽然能切断白子，但白8再10可活。所以，黑1的碰不成功。
+手顺是很重要的。]))

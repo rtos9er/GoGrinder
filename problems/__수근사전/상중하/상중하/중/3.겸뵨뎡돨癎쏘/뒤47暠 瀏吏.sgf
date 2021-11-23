@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dp][eo][fo][fq][gp][ip][jo][jq][qn][cq][bq]AW[kp][bp][pp][np][kq]
+[bo][do][dn][em][ep][fp][eq][dq][gq]LB[fr:A][go:B]C[第47图 黑先 B级
+追踪
+黑A则白B，黑B则白A，下边白棋似乎活了，但黑藏有让白窒息的手段。
+黑的第一着，立刻可杀白。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[1]
+;B[dr]C[正解图]N[正解图];W[fr];B[er];W[fq];B[hq];W[go];B[fs];W[hp];B[gr];W[gp];B[gn]
+C[黑1若2立，被白6断，黑恶，但黑1扳的手筋可导致胜利之路。以下至黑11止，可漂亮吃掉白棋。
+黑1不是很妙吗？])

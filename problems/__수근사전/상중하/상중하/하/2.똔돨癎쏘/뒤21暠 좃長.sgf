@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][pn][nn][lo][lp][lq][oq][dp][dn][qr][pr]AW[qq][pq][or][nq][np]
+[kp][ip][fq]C[第21图 白先 C级
+两睨
+被黑棋困住的白数子被吃，但能否利用角隅的关系，而从左边渡过去？
+找出两睨手法，可如流水般的解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qp]MULTIGOGM[1]
+;W[mr]C[正解图]N[正解图];B[op];W[kr];B[kq];W[jr]LB[lr:A][rq:B]C[白1之尖为手筋。黑只好右边2位应，白3再5和左方白子连络上。
+白1时，黑若A应，则白B立，可吃掉黑二子。])

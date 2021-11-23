@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[gq][fq][fp][dp][cp][bp][do][dn][en][cj][ej][eo][pp][kq][hr]AW[ep]
+[fr][eq][co][cn][dm][cl][fl][fo][go][dr][cq][bq][hq]C[第1图 黑先 B级
+敌中突破
+被白棋包围的黑七子，可否能突破白的包围网？
+必须细算到第十一手，但只要想出手筋，并不是很难的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gr]MULTIGOGM[1]
+;B[em]C[正解图]N[正解图];W[el];B[gn];W[fn];B[fm];W[gm];B[hn];W[ho];B[io]C[黑3是跳碰手筋。
+白4再6的话，黑7再9让白窒息。
+黑1先3碰，白4黑1进行，结果也一样。])

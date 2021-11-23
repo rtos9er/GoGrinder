@@ -1,0 +1,21 @@
+(;CA[gb2312]AB[dq][pp][pq][po][pm][cq][nl][ml][ll][kl][lm][om][ko][kp][nq][nr][mq]
+[lr][ms][in][im][hm][fn][fp][gq][dp]AW[ho][hp][hq][km][kq][kr][lq][lp][lo][ln][mm]
+[nm][on][oo][op][mp][cp][co][cl][hn]LB[ir:A]C[第43图 黑先 A级
+难解
+这个问题很难。
+对下边白棋大龙，看起来黑A是攻击手筋，但这种攻法会让白活掉的。
+高手也很容易看走眼，要注意手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[kn]MULTIGOGM[1]
+
+(;B[jr]C[正解图]N[正解图]
+(;W[jq];B[ir];W[hr];B[ks];W[js];B[is];W[hs];B[ls]C[黑1是夹碰的手筋。
+白若2则黑3，以下至9止，白死。
+白2也有5位应的办法。])
+(;W[ks]MN[2]C[参考图]N[参考图];B[ir];W[hr];B[ip];W[jp];B[io];W[iq];B[jq];W[is];B[jo]
+C[黑1时白若2应，黑3和5是重要的手筋。
+白6时，黑7黏以下至黑11止，白死。
+要细算到此处，须有一定技术。]))
+(;B[ir]C[失败图]N[失败图];W[hr];B[jr];W[js];B[ip];W[jp]C[黑1点好像是手筋，白2黑3时，白4扳的手法成立，白6止，黑棋失败。
+黑1下在3位，普通是笨筋，此处却成了妙手。]))

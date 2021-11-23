@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][pr][qn][br][bp][eo][dq][co][cn][dn][bl][js][fo][fp][gp][hp][ip]
+[jp][jo][iq][ir][jr][kr][lr][mr]AW[dl][do][dp][cp][ep][eq][fq][gq][hq][dr][hr][hs]
+[is][kq][kp][mp][nq][nr][ql][ln][km][in][gn][en][em]C[第2图 黑先 A级
+买票
+下边黑棋大龙，吃不掉白棋就活不成。
+这块白棋乍看是活形，但黑用绝对手筋可吃掉白棋。请买票进场观赏。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cq]MULTIGOGM[1]
+;B[cs]C[正解图]N[正解图];W[ds];B[fr];W[cr];B[bq];W[er];B[fs];W[bs];B[ar]LB[es:A]
+C[黑1尖，白棋做不活，所以2以下弄成攻杀，但白只有八气，黑十二气，黑胜。
+黑1若4、白3黑2白A成劫，比不上如图净吃。])

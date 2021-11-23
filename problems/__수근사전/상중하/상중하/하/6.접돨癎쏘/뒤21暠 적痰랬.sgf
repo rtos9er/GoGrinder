@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dp][en][cn][cm][bq][br][pp][mq]AW[kq][hq][eq][ep][cq][cr][bp][bo]
+C[第21图 黑先 B级
+利用法
+角上对杀。
+白四气黑三气，普通情况黑棋不利，但黑若记得利用角之特性，简单可导致胜利。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cp]MULTIGOGM[1]
+;B[bs]C[正解图]N[正解图];W[aq];B[dq];W[dr];B[bn];W[ar];B[er];W[fr];B[co]C[黑1为利用角隅2之一的手筋。
+白若2位攻杀，黑3至白6时，黑7断，白8黑9止，攻杀黑胜。])

@@ -1,0 +1,20 @@
+(;CA[gb2312]AB[hq][ho][hn][hm][fn][en][do][cp][dq][eq][cj][pq][po][oq][qp]AW[dn]
+[dm][ep][eo][fp][fq][fr][jq][jo][in][nq][np][op]C[第47图 白先 A级
+潇洒手筋
+问题相当难，变化很多，连专家棋士也会困扰。
+被分断的两块白子如何处置？重点在于找出急所。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hr]MULTIGOGM[1]
+
+(;W[bq]C[正解图]N[正解图]
+(;B[cq];W[co]
+(;B[bp];W[dp];B[br];W[dk]LB[ej:A]C[白1为绝妙的点之手筋。
+黑大致2位应，白3至7愉快逃出。
+黑6若A则白6，攻杀白胜。])
+(;B[dp]MN[4]C[参考图]N[参考图];W[bp];B[bo];W[cn];B[br];W[bn];B[aq];W[ao];B[cs];W[es]
+C[白1再3打，黑若4黏，白5以下至13攻杀，黑负。
+黑12时，白13的尖为巧妙的手筋，确保攻杀胜。]))
+(;B[co]MN[2]C[参考图]N[参考图];W[cq];B[dp];W[bn];B[bp];W[cr];B[dr];W[ds];B[es];W[cs]
+;B[er];W[ap];B[ao];W[aq];B[fs];W[gs];B[gr];W[bo];B[hs];W[cn];B[gs]C[白1时黑若2，白用3、5、7、9的手顺追杀，白13、15扳黏时，黑只好16逃，白17挡住至黑22止，为白棋有力的结果。]))
+(;W[dp]C[参考图]N[参考图];B[co];W[cq];B[bq];W[cr];B[br];W[dr];B[bm];W[cs]C[白1再3为普通的着想，黑4至白7时，黑若8白必须9位后手做活。白虽然活了，但外面白二子烂掉，此为白不利的结果。]))

@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[ck][bk][dl][dm][dn][eo][fo][go][hp][hq][ir][jq][jj][qq][pp][po][pn]
+[bo][on][om][dp][cp][bp]AW[cq][dq][ep][fp][gp][gr][do][co][cn][cm][cl][ho][hn][qp]
+[rp][ro][qn][pm][pl][rm][hr]C[第7图 白先 A级
+长征
+有没有办法使左边被吃掉的白五子生还？
+这个问题要同时使用门和征子才能解决。手数长达43手，自然非有正确的细算能力不可。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qo]MULTIGOGM[1]
+;W[en];B[fn];W[fm];B[em];W[gn];B[en];W[dk];B[el];W[ek];B[fl];W[gk];B[gm];W[gl];B[hm]
+;W[fk]C[白1从根部切断着手。
+黑若2，白3、5绞封，7为细算手筋，黑10时白11门，是重要的一着。]
+;B[fm]C[续前图]N[续前图];W[im];B[hl];W[ik];B[in];W[io];B[il];W[jl];B[jm];W[hk];B[im]
+;W[km];B[jn];W[jo];B[kn];W[ln];B[ko];W[kp];B[lo];W[mo];B[lp];W[lq];B[mp];W[np];B[mq]
+;W[mr];B[nq];W[oq]C[黑16若黏成团子，白17、19又是痛快的绞封手筋。
+至黑26止，白27以下征吃成功。能否请你在实战尝试下出这一图。])

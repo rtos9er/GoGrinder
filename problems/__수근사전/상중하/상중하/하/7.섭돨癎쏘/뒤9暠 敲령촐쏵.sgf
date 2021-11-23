@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[kr][km][nq][lq][lo][jm][in][io][ip][iq][hn][gn][fn][eo][dp][co][bo]
+[ap][bq][cq][dr]AW[jo][cr][pp][qn][aq][ar][jp][br][dq][eq][fq][fo][ep][ho][gr][ir]
+[jr][jq][jn]LB[hq:A][hs:B]C[第9图 黑先 A级
+突飞猛进
+下边白棋，黑若A白B可简单渡过，其实不然。
+黑棋藏有欺负白棋的手法。
+稍微考虑一下就会知道手筋。实战中会令对手惊叫的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hr]MULTIGOGM[1]
+;B[gq]C[正解图]N[正解图];W[hs];B[fr];W[hq];B[er];W[gp];B[cs]LB[go:A][js:B][fp:C]
+C[黑1为挤之手筋。
+白只好2应，黑3断至7止，吃到角上白四子。之后，黑有A白B黑C白1的官子。])

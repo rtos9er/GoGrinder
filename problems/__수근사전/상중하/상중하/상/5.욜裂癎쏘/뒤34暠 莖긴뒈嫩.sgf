@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[bn][fn][hn][ek][pp][mq][dq][dp][do]AW[dl][el][fl][en][eo][fq][hl]
+[jl][kn][kp][kq]C[第34图 黑先 A级
+天地变异
+有没有方法救出被白切断的黑二子。马上可知道棋在那里，难得是如何处理最佳？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dn]MULTIGOGM[1]
+;B[fp]
+(;W[ep]C[参考图]N[参考图];B[eq];W[fo];B[gp];W[go];B[hp];W[ho];B[io];W[gn];B[iq]
+C[黑1为跨之手筋。
+白若2再4接应，黑5以下必然至11止进行，白地变黑地，所以，白2不成立。
+黑1若2则白1，全部成为白地了。])
+(;W[gp]MN[2]C[正解图]N[正解图];B[fo];W[gq];B[em]C[对黑1，白大致上应2、4让步。如此，白地还有十目。
+此和前图相差几十目，相当大。]))

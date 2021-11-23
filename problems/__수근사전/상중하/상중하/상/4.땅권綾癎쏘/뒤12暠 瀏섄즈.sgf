@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ml][ll][jl][il][hl][gm][go][dp][hq][iq][jq][kq][lp][qq][qp][po][ql]
+AW[qr][pq][or][nq][lq][kp][jp][ip][im][mm]TR[lp]C[第12图 白先 B级
+追缉令
+如何吃到黑△子而连结？不弄清楚变化是不行的。
+想巧妙活逮，必须算到第十三手棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ol]MULTIGOGM[1]
+;W[mp]C[正解图]N[正解图];B[lo];W[ln];B[ko];W[kn];B[jo];W[io];B[jn];W[jm]C[白1黑2时，白3是顶鼻子的手筋。黑若4逃，白5以下9吃到黑子。
+白下出3时，黑若算得清楚就必须收兵。])

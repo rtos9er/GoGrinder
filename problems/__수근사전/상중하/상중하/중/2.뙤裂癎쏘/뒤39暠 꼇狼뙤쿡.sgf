@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dp][fp][gn][in][jn][kn][lm][mn][mo][mp][mq][po][qo][qn][rp][rq][rm]
+[rl]AW[rk][cn][en][hq][kq][jo][ko][mr][nq][or][qr][rr][qq][qp][nn][on][pn][qm][ql]
+[mm][ml][nk][oj][qj][rj]C[第39图 黑先 C级
+不要断念
+右方被分断的黑七子已经不活，黑棋必须狙袭上方白地的缺陷，才能将之救活。
+不管怎样，总要先试图和左方之子握手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[qk]MULTIGOGM[1]
+;B[oo]C[正解图]N[正解图];W[no];B[np];W[op];B[pm];W[pl];B[ol];W[om];B[pk]C[右边黑七子不活，但白棋也有缺陷。黑5至7的手筋反而可吃到白棋。所以，白2只好撤兵让黑棋连络。])

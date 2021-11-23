@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dk][fk][ap][bp][cp][dp][ep][fq][gq][go][pp][mq]AW[io][iq][jm][hm]
+[fm][en][cn][bo][cr][bq][dq][eq][er]C[第49图 黑先 C级
+真假
+左下角黑棋就这样死了吗？设法和上方黑棋连结，轻易可找出渡过手筋。
+但想判断真货假货，可要有点眼光。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cl]MULTIGOGM[1]
+;B[dn]C[正解图]N[正解图];W[dm];B[cm];W[do];B[bn];W[bm];B[an]LB[co:A]C[黑1挖为手顺，白2再4时，黑5为渡之手筋。
+黑1若3则白A，黑棋渡不过去。黑1若5则白A，黑也渡不过去。黑1重要的理由即在此。])

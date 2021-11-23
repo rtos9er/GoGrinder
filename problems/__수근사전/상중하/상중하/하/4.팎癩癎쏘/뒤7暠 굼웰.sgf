@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[hp][go][fo][eo][do][dp][cp][bp][bq][pp][nq][jp]AW[qn][ep][fp][gp]
+[cq][dq][br][dn][cn][cj][hr]C[第7图 黑先 B级
+崩溃
+和前面几图类似，所以第一手马上知道，但要有技术才能应付后面双方不同的下法。
+白如果太贪，会被吃光。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jr]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图]
+(;W[er];B[gq];W[eq];B[hq];W[ar]LB[gr:A][dr:B]C[黑1为手筋，白若2，黑3至白6活。
+白2若A应，黑4白3黑B可吃到白三子。])
+(;W[eq]MN[2]C[参考图]N[参考图];B[gr];W[hq];B[gq];W[ip];B[ho];W[iq];B[io];W[jq];B[kq]
+;W[kp];B[hs];W[jo];B[ir];W[jp];B[kr]C[黑1时，白若2黏，黑3要紧。
+白4黑5白6以下至黑17止，黑不但吃到角上白棋，而且中央白子变浮棋，白棋比前图更坏。])
+(;W[gq]MN[2]C[参考图]N[参考图];B[dr];W[cr];B[eq];W[ds];B[er]C[黑1时白若2应，黑3跳碰为手筋，白若4则黑5断，攻杀黑胜。
+黑1若2被白1应，白棋愉快成活。]))

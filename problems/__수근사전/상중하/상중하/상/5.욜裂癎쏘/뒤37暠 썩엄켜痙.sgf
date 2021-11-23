@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ep][dp][cp][bp][nq][ip][ir][hq][gq]AW[pp][pn][gr][fr][eq][dq][br]
+C[第37图 黑先 A级
+解决难题
+这块白棋好像已经完全活了，但黑可利用巧妙的手筋弄成劫杀。
+这是相当难的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fq]MULTIGOGM[1]
+;B[cr]C[正解图]N[正解图];W[cq];B[bq]
+(;W[dr];B[bs];W[cs];B[ar]LB[ds:A]C[黑1为跨之手筋。白4时，黑5再7成劫。白6若7，黑A同样是劫。
+黑1和5是关连的手筋。])
+(;W[cs]MN[4]C[参考图]N[参考图];B[ar];W[bs];B[dr];W[er];B[gs]C[黑1至5时，白若6黏，黑有7再9的手法，白死。
+所以，白6应7提，让黑6来打劫。]))

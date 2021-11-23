@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pq][oq][qr][rr][rp][np][mq][mr][fq][iq][jj][pj]AW[op][oo][po][qo]
+[ro][nq][nr][or][pr][dp][dn][cj]C[第24图 白先 A级
+紧急手段
+类似第21图之形，所以很好找出手筋。但光是看出手筋却细算不够，是解决不了的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;W[mp]C[正解图]N[正解图];B[no];W[lr];B[lq];W[lp];B[kq];W[mn];B[nn];W[nm];B[on];W[om]
+;B[pn];W[pm];B[qn];W[rn];B[qm];W[ql];B[rm];W[rl]LB[ps:A]C[白3是夹碰的手筋，已经在前面的类似图出现过。
+白7跳封时，黑棋要对8以下的逃法断念。白3若单5则黑A吃到白四子。])

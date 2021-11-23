@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[fq][gq][gp][fo][fn][gn][hm][im][in][dn][pp][nq][mq]AW[dr][ep][co]
+[dq][cn][cm][el][gl][gm][hn][ho][ip][hq][lp][mp]C[第91图 黑先 A级
+极意
+陷在白阵中的黑子，如何处理最佳？
+黑棋下法不同，可能劫活也可能愉快活掉。
+可说是表现极意的一着。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[1]
+
+(;B[jq]C[正解图]N[正解图];W[jp];B[hp];W[io];B[iq];W[lq];B[hr]C[黑1为点的手筋。白若2则黑3以下7止，黑活。
+白2若5，黑4白3黑2即可。白2若3则黑2分断。])
+(;B[hp]C[参考图]N[参考图];W[io];B[iq];W[jq];B[hr];W[jr]C[黑1再3切断为笨筋。白4再6，黑死。
+黑1于4位点，把1和2当做相对点才有妙味。]))

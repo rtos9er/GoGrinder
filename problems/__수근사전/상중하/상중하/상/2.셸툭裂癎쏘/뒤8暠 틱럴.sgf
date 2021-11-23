@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[fq][hp][hq][jq][fo][em][fl][gm][cl][dl][qo][ql][cq][cp][dq]AW[cn]
+[co][dp][ep][fp][gp][ho][io][ko][lq][pq][op][fm]LB[go:A][do:B]C[第8图 白先 C级
+平凡
+白棋有A、B两处断点，如果不能同时补断，白子将无法全部连在一起。
+问题虽然不难，但也不能大意。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eq]MULTIGOGM[1]
+;W[fn]C[正解图]N[正解图];B[en];W[eo];B[gn];W[go]LB[do:A]C[白1长，黑若2则白3再5，全部连结。
+黑2若3白5即可。白1若5则黑A，另外，白1若3则黑5断。])

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dq][dp][fp][gp][go][jq][np][pp][dk][cl][fk]AW[qn][fo][eo][em][gm]
+[cn][bp][cq]C[第6图 黑先 B级
+攻击的呼吸
+左下白棋形状不完全，黑棋是否能动点脑筋。
+黑棋下出手筋，才能找到正确的手顺。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hk]MULTIGOGM[1]
+;B[cp]C[正解图]N[正解图];W[br];B[cr];W[bq];B[dn];W[dm];B[bn];W[co];B[bo];W[do];B[cm]
+;W[dr];B[er];W[cs];B[gn]C[黑1、3交换之后，5为跨之手筋。对白6，黑7可将白棋分断。
+白14止活角时，黑下到15位，中央白棋没救。])

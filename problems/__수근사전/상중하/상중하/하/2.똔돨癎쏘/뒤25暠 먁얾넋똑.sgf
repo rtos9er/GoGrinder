@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nq][dp][dq][cq][bp][bo][cn][cm][dm][en][fn][fo][gp][fq][fr]AW[qn]
+[ip][hn][gm][em][el][eo][ep][eq][er][do][dn][co][cp][gq][hq][ho]LB[fs:A][gs:B]C[第25图 白先 B级
+感应程度
+左下角被黑困住的白八子，能否和右方白子连结？
+白A则黑B，渡不过去的，必须下点功夫。这是对手筋感应程度的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;W[cr]C[正解图]N[正解图];B[bq];W[fs];B[gs];W[fp];B[es];W[dr]LB[br:A]C[角上白棋想和右方连络，靠1、3相关连手筋才成功。
+黑若4则白7止接应。黑2若A则白3，仍是白胜。])

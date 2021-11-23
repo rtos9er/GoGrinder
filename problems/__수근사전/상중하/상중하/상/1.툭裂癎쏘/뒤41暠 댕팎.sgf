@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[op][or][po][qo][pn][pl][nl][mk][lk][lq][jq][gq][in][dq][cq][dp][eo]
+[fo][go][km]AW[bq][bo][do][dn][en][fn][gn][gk][qp][qq][ro][qn][qm][rm][sn][ll][lm]
+[ln][kk][kj][ik][cp]C[第41图 白先 A级
+大破
+在黑棋大阵地中，白三子如何处理的问题。
+白棋方法对的话，可大破黑阵，是比死活还有重大的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[kl]MULTIGOGM[1]
+;W[jn]C[正解图]N[正解图];B[jm];W[jo];B[im];W[io];B[kn];W[ko];B[lo];W[hn];B[mn];W[lp]
+;B[mo];W[hm];B[mm];W[ho]C[白1之碰为手筋。
+黑只好2、4接应，白5时，黑不得不6、8。以下至白15止，黑地被破了一半。白1、3是经过细算的巧妙手筋。])

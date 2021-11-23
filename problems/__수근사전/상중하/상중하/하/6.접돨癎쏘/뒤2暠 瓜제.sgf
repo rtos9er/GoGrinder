@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[in][im][gm][el][jo][cl][nq][kq][jp][cn][iq][hq][hp][gp][do][eo][ep]
+[dq][fq][fr]AW[pp][qn][co][cp][cq][bn][cr][dn][en][fn][fo][fp][go][ho][io][ip][gq]
+[gr]C[第2图 白先 A级
+威力
+中央白九子和下边二子，两边都被吃掉，但切断白子的黑形也有不完备之处，可动点脑筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cm]MULTIGOGM[1]
+;W[gs]C[正解图]N[正解图]
+(;B[hr];W[es];B[fs];W[eq];B[er];W[dp]C[被困住的白九子，使用白1的手筋，可找到活路。
+黑若2，白3至7吃掉黑三子。])
+(;B[eq]MN[2]C[参考图]N[参考图];W[fs];B[es];W[ds];B[dr];W[er]C[白1立是巧妙手筋，但黑2藏有打劫手段。
+白3至黑6变成劫争，但这个下法，不能断定一定比前图有利。]))

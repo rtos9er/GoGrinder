@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[cl][em][jq][jo][ho][pq][op][cq][bp][cp]AW[qo][hq][dq][dp][eo][cr]
+[br][bq][pm]C[第6图 黑先 A级
+剥空
+对左下角白子，黑棋一箭射到那里比较好？
+不是直接的死活问题，但黑棋可运用之而得有利结果。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cn]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[gq];B[er];W[hr];B[dr]
+(;W[fr];B[eq];W[fp];B[aq]LB[gp:A][hp:B]C[黑1为点之手筋。白若2，黑3之跳为手筋。白若4，黑5至9止，攻杀胜。
+对黑1，白若4则黑2白A黑B，黑攻杀胜。])
+(;W[eq]MN[6]C[参考图]N[参考图];B[fr];W[fq];B[aq]C[黑1为点之手筋。黑3跳是把5点和4渡当做相对点的手段。
+白若6，黑7再9，攻杀黑胜。]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[rr][rq][pr][pq][pp][qp][nq][np][mp][qk][nm][nl][ml][lk][lj][mj][nj]
+[oj][pj][cr][rl][rm][rn][ko][jn][jm][hn][il][hl][gl][fm][fn][fo][eo][dp][dq][cp]
+AW[mk][br][bq][bp][cq][cn][en][em][el][fl][gk][hk][ik][jj][jl][kl][ll][ln][go][ho]
+[io][fp][fq][iq][jp][kq][mq][mr][nr][or][rp][ro][qo][po][oo][pn][qm][pl][pk][ok]
+[nk]LB[mn:A][kn:B]C[第22图 黑先 B级
+兼顾
+问题是如何吃右边一团白子。
+单纯下黑A的话，白B可吃到左方黑子，黑棋必须自救，同时吃到白子。请想出一石二鸟的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[nn]MULTIGOGM[1]
+;B[lm]C[正解图]N[正解图];W[km];B[kn];W[lo];B[lp];W[mm];B[kp]C[谁死谁活的重大问题。
+黑1挖，不但连结了全部黑子，而且可吃到右边白棋。黑1挖是一石二鸟的手筋。])

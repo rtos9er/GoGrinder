@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hq][gp][go][gn][fm][em][dm][cl][cn][co][bn][an][fq][fr][fs][eq]AW[pp]
+[dn][do][fo][fp][ep][dq][cq][cp][bo][ao][er][es][mq][en]C[第10图 黑先 A级
+手筋浪漫
+类似前面两图，同样的手筋还是成立，但本图和前面两题不同，杀不死白棋只能弄成劫争。
+死活变化有其困难度。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qn]MULTIGOGM[1]
+;B[br]C[正解图]N[正解图];W[ar]
+(;B[bq];W[bp];B[dr];W[cr];B[cs];W[bs]C[类似前面两图，手筋也一样，马上可看出，但本图白棋不是净死而是劫杀。
+黑1时，白2为妙手筋。黑若3，白4以下至8止成为劫争。])
+(;B[aq]MN[3]C[参考图]N[参考图];W[cs];B[cr];W[dr];B[bp];W[bs]C[前图黑3的变化。
+黑若3挡，白4为接应要领，黑5至白8止，同样是劫。
+因三三处有白子而起了变化。]))

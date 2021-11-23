@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[fn][fm][gl][im][jm][jn][ip][iq][ir][lq][fq][gr][do][cq][cr][dp]AW[pp]
+[nq][dq][eq][ep][fo][gn][hn][in][gp][hp][hq][hr]C[第7图 白先 A级
+照明
+被困住的白棋的生死问题。
+因为中央有一眼，只要考虑下边的眼位。
+想法单纯会搞不好的。能籍以照明，才能将手筋发出光辉。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dn]MULTIGOGM[1]
+;W[es]C[正解图]N[正解图]
+(;B[hs];W[fr];B[gq];W[fp];B[gs];W[dr]LB[fs:A][er:B]C[白之生死问题。
+白1跳为手筋。
+黑若2渡，白3至7做活。
+黑4若A则白B，黑接不归。])
+(;B[er]MN[2]C[参考图]N[参考图];W[dr];B[fs];W[ds];B[hs];W[gq]C[白1跳时，黑2再4的话，白5粘，黑6渡时，白7造成黑的接不归。
+白1之跳，实战容易错过。]))

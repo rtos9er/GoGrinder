@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[ep][dp][co][cq][bq][pp][pn][gq]AW[cr][dq][eq][iq][hp][ho][go][nq]
+C[第18图 白先 B级
+血脉相连
+能不能救出左下白三子，显然和右方的配置有关。
+但怎样下最有利？做活而遭致损失，不合算的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gp]MULTIGOGM[1]
+;W[gr]
+(;B[hr]C[参考图]N[参考图];W[fp];B[fq];W[fr];B[fo];W[hq]LB[ir:A][jq:B][jr:C][kr:D]
+C[白1为碰之手筋。
+黑若2则白3为手顺。黑若4，白5再7即可。
+黑6若7，白6黑A白B黑C白D，攻杀白胜。])
+(;B[fr]MN[2]C[正解图]N[正解图];W[fq];B[fp];W[er];B[hr];W[fs];B[hq];W[jp]C[白1碰时，黑2的应手正解。
+以下至黑8止，将白棋裂开，就算白棋做活，也没什么损失。
+白9整形，告一段落。]))

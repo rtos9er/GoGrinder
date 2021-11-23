@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[cm][qp][pp][op][np][kn][lo][ko][jo][io][ho][mp][hq][fp][fo][ep][dp]
+[cp][bp][cq][co][cn]AW[bq][qn][oo][no][mo][ln][mm][km][jm][hm][fm][dm][dn][cl][dk]
+[bm][bk][lp][lq][ip][iq][hr][gq][fq][eq][dq][cr][br]C[第21图 黑先 A级
+复活
+从左下角延伸到右边的黑棋大龙想要复活，少不得要动下边白棋的脑筋。问题是从何下手呢？
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hp]MULTIGOGM[1]
+;B[kq]C[正解图]N[正解图];W[kr];B[jr];W[ir];B[jq]LB[kp:A]C[黑1是碰的手筋。
+白若2，黑3再5即可。白4若A则黑4断。
+黑1、3是严厉的攻击手筋。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][pn][ar][ao][bn][cm][co][cp][dp][dq][dr][fp][fr][hq][hp][in][jo]
+AW[cq][cr][cs][ds][fq][hr][ir][iq][jp][kp][nq][bo][bp][bq]C[第15图 白先 B级
+连络
+角上白棋已经活不成。除了和右方连络之外，无法可想。
+这个问题的手顺很容易弄错。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[1]
+;W[er]C[正解图]N[正解图];B[eq];W[es];B[gr];W[gs]LB[fs:A]C[角上白棋不活，但白1挖就能连结。
+黑2若4，白5黑2白3，结果一样。白1若A、黑5白1黑3成劫。])

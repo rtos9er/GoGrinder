@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[bp][bo][cn][dm][fm][gp][hp][ip][kq][nq][ar][dr][dq]AW[pq][po][ql]
+[hq][cr][cq][cp][co][do][aq][bq][ck][ek]TR[hq]C[第46图 白先 A级
+死不了
+左下角白棋是死是活虽有两种变化，但总要有个结论。
+白▲有作用。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;W[en]C[正解图]N[正解图];B[em];W[fq]
+(;B[fp];W[ep];B[eq];W[ds];B[eo];W[er];B[ep];W[gq];B[fr];W[es];B[iq];W[gr]C[白1黑2交换之后，黑3为点的手筋。
+黑若4，白5以下15止可活。])
+(;B[ep]MN[4]C[参考图]N[参考图];W[fp];B[eo];W[fo];B[dn];W[fn];B[cs];W[bs];B[ds];W[bn]
+;B[bm];W[er]C[白3点时，黑若在4位抵抗，白5至9变成攻杀，但白13断可长出一气，15止白快一气。]))

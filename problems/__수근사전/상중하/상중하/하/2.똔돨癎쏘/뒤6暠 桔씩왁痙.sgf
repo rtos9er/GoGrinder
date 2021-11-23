@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[dq][dp][cm][pp][qm][kq]AW[fq][fo][ho][ko][lp][lq]C[第6图 黑先 A级
+研究课题
+下边遭到包围的黑子有没有办法和角上黑子连络？
+授子棋的实战经常出现之形，研究过就能派上用场。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hq]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图]
+(;W[er]
+(;B[fp];W[gq];B[gp];W[hp];B[gr];W[eq];B[ep];W[hr];B[iq];W[gs];B[ir];W[fs];B[dr]
+C[黑1再3为常用的手筋。
+白若4，黑5再7要领好，以下必然成为15止的结果，黑可吃白。白4应5、黑8白9黑7为行情。])
+(;B[eq]MN[3]C[参考图]N[参考图];W[gr];B[fp];W[gq];B[gp];W[hp];B[hr];W[fs];B[dr];W[go]
+;B[ep];W[iq];B[ir];W[jq];B[jr];W[kr]C[黑1白2时，黑3断为大恶手。
+白若4至8接应，以下至18止，不但黑棋反而被吃掉，而且白12先手叫吃，黑棋难堪。]))
+(;W[gr]MN[2]C[参考图]N[参考图];B[gq];W[er];B[fp];W[eq];B[ep];W[fs];B[hr];W[dr];B[cr]
+;W[ds];B[go];W[gn];B[gp]LB[gs:A][ir:B][es:C][ip:D][bq:E]C[黑1时，白棋反方向2位挡。
+黑3以下至7时，白必须8位做活。白8若9、黑8白A黑B白C黑D白11黑10白12黑E，白死。]))

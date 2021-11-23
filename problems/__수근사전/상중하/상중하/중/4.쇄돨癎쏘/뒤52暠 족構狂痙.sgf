@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[mn][ml][kr][hq][gq][fr][er][eq][cq][dp][do][eo][cl][pp][mq]AW[cj]
+[ep][fp][fq][gr][hr][ir][jp][lp][qn][pk]C[第52图 白先 C级
+练习问题
+下边白棋若能吃到黑二子则可安定，但因白二子自身气紧，所以要花点苦心。
+类似形已经在前面出现过好几次。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[mp]MULTIGOGM[1]
+;W[go]C[正解图]N[正解图];B[gp];W[fo];B[ho];W[hp];B[ip];W[iq];B[hp];W[hn];B[io];W[jn]
+;B[gn];W[fn];B[in];W[im];B[hm];W[jo];B[hn];W[hl];B[gm];W[fm]C[白1尖可收下黑二子。
+黑若2、4挣扎，白5以下至21滚打、门、征吃全派上用场，漂亮的吃掉黑棋。])

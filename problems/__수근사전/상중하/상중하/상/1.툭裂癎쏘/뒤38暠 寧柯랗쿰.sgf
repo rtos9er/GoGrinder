@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[gp][jp][jq][jr][pp][pn][dq][dp][do][eo][en]AW[eq][ep][cq][bp][fq]
+[bn][cn][dm][em][fm][fo][go][kq][nq][pr]LB[dr:A][hp:B]C[第38图 黑先 A级
+一石二鸟
+角上黑五子，黑若A则白B，黑若B则白A，好像没棋，却有一石二鸟的手筋。
+前面出现过类似型，应该一看就知道手筋所在。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fp]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图];W[er];B[dr];W[gq];B[hp];W[gr];B[fs]C[黑1之碰为手筋。
+白若2则黑3再5，黑胜。
+黑1若4则白3渡过，另外，黑1若3则白5征吃黑二子，黑负。])

@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[bs][as][br][qn][ir][iq][ip][in][gn][en][cn][bo][gr][gq][fr][eq][dr]
+[cs]AW[gp][fp][fq][ep][dp][cp][cq][cr][bq][aq][pp][rp][nq][hr][hq]C[第7图 白先 A级
+秘手
+这个问题比较难。
+白棋一眼也无，很多人会断念的。
+白棋可用绝妙手筋做活，希望你不要太早放弃。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dq]MULTIGOGM[1]
+;W[fs]
+(;B[hp];W[er];B[es];W[ar]LB[ds:A]C[白1夹碰是绝妙的手筋，白棋可活。
+黑若2则白3再5，黑无法A黏。以下如次图所示。]
+;B[gs]C[续前图]N[续前图];W[ds];B[cs];W[bs]C[黑只好6提，白7提掉黑四子带响，黑8只能提吃一子，白9挡住而活。])
+(;B[gs]MN[2]C[变化图]N[变化图];W[es];B[hp];W[ar];B[er];W[ds];B[cs];W[bs]C[白1时，黑若2则白3长，黑只能4应，白5再7提掉黑四子带响，黑8不得不提白三子，白9挡住成活。])
+(;B[er]MN[2]C[变化图]N[变化图];W[hp];B[hs];W[gs];B[es];W[gs];B[fs];W[ar];B[is];W[ds]
+C[白1夹碰时，黑若2黏则白3再5送子。以下至9止，黑子接不归，白11提带响，同样活了。]))

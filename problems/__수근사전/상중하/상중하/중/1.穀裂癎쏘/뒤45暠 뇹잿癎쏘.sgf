@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][pn][oq][nn][ln][jn][jo][kp][kq][dr][dp][cp][ep][fp][gp][gq]AW[fq]
+[gr][eo][cn][iq][jq][io][in][jm][kn][lo][nq][np][fr][er]C[第45图 黑先 A级
+处理手筋
+下边遭白切断的黑四子若想有利处理，从何处着手最佳？
+这种地方的下法就是术语所谓的处理。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图]
+(;W[jp];B[ko];W[km];B[kr];W[mn];B[hq];W[ir];B[hp];W[hr];B[mr];W[nr];B[mo];W[lm]
+;B[no]C[黑1挖为手顺。黑5是左右有相对点的手筋。
+白若6，黑7以下15止，将左右两块白子都吃掉。])
+(;W[hp]MN[2]C[参考图]N[参考图];B[ko];W[km];B[kr];W[mn];B[hq];W[jp];B[ir]C[黑1时，白若2位应，黑3、5左右同样有相对手段。
+白若6位逃右边，黑7再9简单渡过了。]))

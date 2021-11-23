@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[fl][dq][eq][fp][cp][gp][jp][kq][lq][hp][bl][cl][cm][dl][el][dp][gl]
+[br][cr]AW[in][pp][np][lp][kn][gn][fm][il][eo][dm][cn][co][bm][bp][cq][ep][bq]C[第82图 黑先 A级
+有漏洞
+看起来白似已安全连络，事实上存有很大的漏洞。
+黑用巧妙的手顺，不打劫也能断掉白棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[qn]MULTIGOGM[1]
+;B[hn]C[正解图]N[正解图];W[hm];B[gm];W[ho];B[en];W[fn];B[em]C[黑1时，白只好2位应，黑3白4进行时，黑5之碰为手筋，黑7止可吃到左边白子。
+用黑1和5两手棋才能成功。])

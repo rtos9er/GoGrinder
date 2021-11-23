@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qo][qn][ql][nq][mp][lp][kq][jq][jp][gp][eq][cp][rr][qq]AW[pr][pq]
+[qr][pp][po][pn][nr][mq][lq][kp][ko][jn][ho][hp][hq]C[第22图 黑先 A级
+双击
+被白棋困住的黑三子为有弹力之形，利用形之配置，可和左方黑子连络。
+应无条件渡过或是打劫，很难以选择。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qp]MULTIGOGM[1]
+;B[js]C[正解图]N[正解图]
+(;W[lr];B[gr];W[hr];B[hs];W[gq];B[fq]C[陷在白阵中的黑三子，有没有办法和左方黑棋连络？
+黑1之跳为手筋。白若2位补右边，黑3再5可渡过。])
+(;W[ir]MN[2]C[参考图]N[参考图];B[mr];W[lr];B[ls];W[ms];B[kr]C[黑1跳是左右有狙袭手段的手筋，白若2位从左边应，则黑3断至7打劫。
+白若于4位补比较没问题。]))

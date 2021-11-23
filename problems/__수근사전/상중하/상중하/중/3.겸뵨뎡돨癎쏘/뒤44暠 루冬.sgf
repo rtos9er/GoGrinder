@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[fp][fo][fn][gq][gr][hp][ip][iq][jo][kn][nq][cn][cp]AW[pn][bq][pp]
+[cq][er][fq][gp][go][ho][io][hm][jn][hq]TR[kn]C[第44图 白先 B级
+风韵
+黑在中央连扳，给了白棋机会。
+黑△随手扳为致命伤，前面类似形可供为参考。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+
+(;W[ir]C[正解图]N[正解图];B[hr];W[jp];B[jq];W[ko];B[kq]C[白棋如何挑下边黑形的毛病。
+白1之扳为手筋。黑若2提，白3至黑6止，上边白棋变厚，没有不满。])
+(;W[jp]C[参考图]N[参考图];B[ko]
+(;W[ir];B[jq];W[hr];B[jr];W[fr]C[白若从1断下手，黑2至6会舍弃二子。
+和前图比较，很难判断那一图对白棋比较有利。])
+(;W[jq]MN[3]C[参考图]N[参考图];B[ir];W[jr];B[is];W[fr];B[kr]LB[lp:A][eq:B][fs:C]
+[bs:D][mo:E]C[白1黑2时，白3叫吃则是俗手。
+白7时黑8可吃到白子。白7若A逃，黑7白B黑C白D黑E，白恶。])))

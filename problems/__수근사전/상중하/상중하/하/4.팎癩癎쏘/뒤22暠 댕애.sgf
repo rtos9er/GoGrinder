@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hp][ho][gq][fq][eq][dq][cq][cp][bo][bn][qp][jp]AW[oq][kp][jq][iq]
+[hq][gp][fp][ep][dp][co][cn]LB[cm:A][en:B]C[第22图 黑先 B级
+大局
+对左下白六子，黑如何对待？
+普通情况是黑A扳白B接应，但此处必须使用照顾大局的严厉攻法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jo]MULTIGOGM[1]
+
+(;B[en]C[正解图]N[正解图];W[fn];B[gn];W[fm];B[fo];W[em];B[go];W[dn];B[eo];W[cl]
+;B[do]C[黑1正是破眼手筋。白若2碰，黑3为好棋，以下成为11止的接应。
+黑3于5位挖。白7黑3白9黑4挡的下法也很严厉。
+])
+(;B[cm]C[参考图]N[参考图];W[en]C[有句话，二子头要扳，黑1扳也不坏，但如此一来，白得2跳形整。所以，黑1于2位袭击才严厉。]))

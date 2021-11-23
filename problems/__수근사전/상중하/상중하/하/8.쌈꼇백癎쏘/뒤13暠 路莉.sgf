@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[lq][kp][jp][ip][jn][km][il][hq][hr][fq][dp][pp][nq]AW[np][lp][lo]
+[kn][hn][ho][hp][iq][ir][kq][kr]C[第13图 白先 A级
+重组
+类似前图之形，手筋应该马上知道。
+白棋只要想吃上方黑三子，马上想得出手筋。
+本题容易弄错手段，要当心。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[mq]MULTIGOGM[1]
+;W[jo]C[正解图]N[正解图];B[io];W[jm];B[ko];W[ln];B[im];W[in];B[jl];W[jq]C[前图之类似形。
+白1挖黑2应时，白3断为导致接不归的手筋。
+黑4至白9止，白吃掉下边黑子了。])

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[mp][mr][lq][kq][jq][kp][ip][io][ho][go][hq][hr][fr][dr][pq]AW[cq]
+[fp][dp][gp][hp][iq][ir][jr][kr][lr][jp][jo][ko][in][qo]C[第47图 白先 A级
+二重奏
+下边白五子死了，但分断白棋的黑四子也是浮子，白能否籍攻黑子而生还？
+必须用两个门的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[1]
+;W[fn]C[正解图]N[正解图];B[hn];W[hm];B[im];W[jn];B[gm];W[hl];B[gn];W[fl];B[gl];W[gk]
+;B[hk];W[il];B[fk];W[gj];B[fm];W[el];B[em];W[dm];B[dl];W[ek];B[dn];W[cm];B[en];W[cn]
+C[有没有办法吃掉分断白棋的中央黑四子？
+白1门，黑若2，白用3以下的手顺追杀至25，可大吃黑棋。])

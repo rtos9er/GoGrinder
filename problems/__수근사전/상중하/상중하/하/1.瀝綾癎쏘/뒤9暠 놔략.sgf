@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[op][lq][dq][eq][dp][do][dn][dm][bn][dk][ck][bk][el][fl][fm][pq]AW[cm]
+[cl][dl][em][en][eo][ep][fq][gp][fk][ek][gl]C[第9图 白先 A级
+出帆
+左边白三子，不将黑三子吃掉就无法脱困，但想找出手筋是一件难事。
+藏有意外的妙手，白未始不能扬帆而去。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]AB[go]MULTIGOGM[1]
+;W[gn]C[正解图]N[正解图];B[fn];W[fp];B[gm];W[hm];B[hn];W[fo];B[gn];W[in];B[ho];W[io]
+;B[hp];W[hq];B[ip];W[jp];B[iq];W[ir];B[jq];W[kq];B[jr];W[kr]C[白1黑2时，白3黏为手筋。
+黑4以下至21止追杀，可吃掉黑子。白3的手筋，连高手也很容易看走眼。])

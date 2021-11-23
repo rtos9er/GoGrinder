@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cj][ep][fp][fo][go][eq][pp][mq][dp]AW[dq][er][fq][gr][gp][hp][qn]
+LB[cq:A][dr:B]C[第3图 黑先 A级
+自信
+黑只有A、B两种下法，B断能吃到白子再好不过，但必须能算清楚才可动手。
+这是培养细算能力的好材料。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dn]MULTIGOGM[1]
+;B[dr]C[正解图]N[正解图];W[cq];B[es];W[fr];B[cr];W[bq];B[br]
+(;W[bo];B[co];W[bp];B[bn];W[ar];B[bs];W[ds];B[ao]C[黑1断，成立。
+如此，势必成为黑7止的接应。此时，白8跳至黑11止，攻杀黑胜。以下至黑15，到此为止。黑1断时，必须算到这里。])
+(;W[co]MN[8]C[参考图]N[参考图];B[cp];W[bp];B[bn];W[bo];B[cn];W[ar];B[bs];W[ds];B[ao]
+C[黑7时，白若8，黑9至13止，同样黑胜。
+白1若2则属缓手，但细算能力不正确的话，不能在1位断。]))

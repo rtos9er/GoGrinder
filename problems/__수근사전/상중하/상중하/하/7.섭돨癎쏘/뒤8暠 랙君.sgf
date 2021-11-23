@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[go][eo][dp][dn][co][bn][qn][bp][qp][pp][oq][nq][ko][jm][im][kk][ik]
+[hk][io][ip][hq][gq][fp]AW[ok][om][ql][oo][op][mo][mp][mr][ln][ll][gk][fl][hl][hm]
+[hn][in][jo][bq][cq][dq][eq][fq][gr][cn][bm][cm][cl][dm][fn][hr][mq]TR[jo]LB[jp:A]
+[kq:B]C[第8图 白先 A级
+发现
+下边白▲子若A逃，会被黑B门吃，白棋有没有活用这颗白子打出手筋的方法？
+藏有绝妙的手筋，展现围棋的趣味性。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jn]MULTIGOGM[1]
+;W[jp]C[正解图]N[正解图];B[kq];W[iq];B[jq];W[ho];B[kp];W[hp]LB[ir:A]C[白1黑2时，白3为挤之手筋。
+黑只好4，白5再7可吃到右方白子。
+黑4若A则白5，结果一样。])

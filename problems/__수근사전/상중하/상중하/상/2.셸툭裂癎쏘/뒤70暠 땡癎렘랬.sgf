@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[fr][pp][pq][qm][dp][dn][eq]AW[nq][fp][fq][gr][fn][kp][kn][hm]C[第70图 黑先 B级
+动手方法
+这是授四子、五子棋，白棋布出的模样。
+黑棋从何处动手侵削这块模样呢？这个问题对实战有帮助。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[er]MULTIGOGM[1]
+;B[hr]C[正解图]N[正解图];W[gs];B[gq];W[hq];B[gp];W[hp];B[go];W[ir];B[fo]C[黑1是夹碰的手筋。
+白若2位阻渡，黑可3以下9止破坏。
+黑1时，白若3黑可2渡，白地一下子锐减。])

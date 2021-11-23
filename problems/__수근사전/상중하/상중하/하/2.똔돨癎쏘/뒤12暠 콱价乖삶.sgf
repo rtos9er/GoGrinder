@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[or][np][lp][lo][jp][jo][iq][hq][ir][is][ks][dq][er][co]AW[qp][qm]
+[lr][lq][kq][jq][jr][js][ip][io][jn][im][gr][gp][fp][eo][nr][mr]C[第12图 黑先 A级
+你死我活
+下边的战斗中，白八子死了。焦点是切断白棋的下边黑四子能否和左方本队连络？如果办不到，反而是黑死白活，立场逆转。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[oq]MULTIGOGM[1]
+;B[fs]C[正解图]N[正解图];W[gq];B[gs]LB[hs:A][fq:B][fr:C]C[下边黑四子若能和左方连络，右方白子将无疾而终。
+黑1为手筋，白2时黑3渡过。白2若A，黑3即可。黑1若2、白B黑C白A，黑负。])

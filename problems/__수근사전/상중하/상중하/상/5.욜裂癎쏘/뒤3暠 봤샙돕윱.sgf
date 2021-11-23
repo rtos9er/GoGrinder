@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[bn][bm][pq][op][dq][fp][cp]AW[qo][mq][jq][cn][cm][cl][bl][do][eo]
+LB[gq:A][hq:B]C[第3图 白先 A级
+好机到来
+角上黑棋要黑A或B补一手才是完全的形。
+白棋如何利用黑棋的缺陷，导致有利的结果。第一手可立刻明白，问题在后面如何解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[co]MULTIGOGM[1]
+;W[eq]C[正解图]N[正解图];B[ep];W[dp]
+(;B[dr];W[cq];B[bq];W[er];B[cr];W[gq]LB[fq:A][fr:B][gr:C]C[白1为跨之手筋。
+黑若4应则白5断，黑6时，白7再9进行。白1时，黑若A则白2黑7白4黑8白B黑提白C，黑同样被分断。])
+(;B[cq]MN[4]C[参考图]N[参考图];W[fq];B[gq];W[gr];B[gp];W[hr]C[黑也有4黏的手法。
+白5至9同样可分断黑子，很难说那一图比较好？]))

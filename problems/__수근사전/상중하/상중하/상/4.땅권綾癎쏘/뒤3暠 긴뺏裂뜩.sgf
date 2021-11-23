@@ -1,0 +1,21 @@
+(;CA[gb2312]AB[eo][en][fn][fp][pq][op][dp]AW[qo][do][ep][eq][fo][go][gp]C[第3图 黑先 A级
+变化之多
+这是分先定石经常出现之形。黑的第一手可导致有利的结果。
+因为变化多，难以细算，但此等手筋应用广泛，值得一记。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cp]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图]
+(;W[fq];B[dr]C[此为分先定石下出之形，黑1为顶鼻子手筋。
+白若2应则黑3退整形。
+黑1顶鼻子明显成功，黑棋有利。])
+(;W[dq]MN[2]C[变化图]N[变化图];B[fq]
+(;W[fr];B[gq];W[dr];B[hq];W[co]
+(;B[bp];W[bo];B[cr];W[cq];B[bq];W[es];B[br];W[ap];B[cs];W[ds];B[aq];W[as];B[ao]
+;W[bm];B[gs]C[白若2位抵抗，黑3再5接应。
+白若6，黑7至11攻杀，以下黑23止，攻杀黑胜。])
+(;B[cq]MN[9]C[变化图]N[变化图];W[bp];B[cr];W[es];B[bq];W[bo];B[bs];W[ar];B[ds];W[cs]
+;B[fs]C[白8时，黑若9则白10从外面攻击。
+至白16时，黑17再19的手顺重要。此一手顺使黑得籍有利之劫而解决。]))
+(;W[cq]MN[4]C[变化图]N[变化图];B[bq];W[bp];B[co];W[fr];B[gq];W[dr];B[hq];W[bo];B[cn]
+;W[bn];B[cm];W[bm];B[cl]LB[br:A]C[黑1再3时，白若4则黑5以下至17止，白吃到角上黒\一子，但黑外面变厚，黑有利。角上留有黑A长气之手段。])))

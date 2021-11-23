@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[mr][kr][kq][hp][dq][dr][ds][es][fr][co][dn][fn][pp][pr]AW[nq][nr]
+[mp][lp][kp][jq][iq][hq][gq][fp][ep][eq][er][fs]C[第15图 黑先 C级
+不花力气
+右方被困住的黑三子，有没有办法和左方黑棋连络？
+只不过是一手就能解决的问题，能不花力气自然地想出手筋，是件愉快的事。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qn]MULTIGOGM[1]
+;B[hs]LB[is:A][hr:B][js:C]C[正解图
+黑1飞，左右黑子简单握手。
+黑1若从A位飞，被白1碰，黑B白C，黑无法渡过。]
+N[正解图])

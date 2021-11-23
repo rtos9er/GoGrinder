@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[nr][nn][mm][jp][im][hm][gn][dp][dn][eq][pp][pn][oq]AW[ql][np][nq]
+[mr][lo][lm][jn][jm][in][ho][gp][gr]C[第53图 黑先 B级
+消失
+要破坏下边白地，应从何处着手？
+白围到这块地，有20目，但因形有缺陷，黑棋只要找到要害，可破掉大半的地。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[or]MULTIGOGM[1]
+;B[lr]C[正解图]N[正解图]
+(;W[lq];B[ms];W[kr];B[mq];W[kq];B[mp]C[黑1是夹碰的手筋。
+白2黑3时，白4不得不让步，黑5提，成为黑7止的结果。
+当然喔！黑7也可以手拔。])
+(;W[ms]MN[2]C[参考图]N[参考图];B[lp];W[lq];B[kq];W[mq];B[mo];W[mp];B[kp]LB[kr:A]
+[jr:B][jq:C][ks:D]C[黑1时，白若2，黑有3跳碰的手筋，白4至黑9止，白地被大破，白失败。黑3若4则白6黑7白3黑8白5黑A白B黑C白D渡过，黑棋失败。]))

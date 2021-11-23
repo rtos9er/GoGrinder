@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[kq][gq][gr][fp][eq][dq][cq][dp][pp][np][qo][mn]AW[qn][rn][on][nl]
+[pj][fq][fr][er][ep][eo][do][co][ck]C[第21图 白先 A级
+搭配
+左下角白三子似已被吃，但如果动外面黑一子的脑筋，应该是有办法可想的。
+本题要搭配门的手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ll]MULTIGOGM[1]
+;W[gp]C[正解图]N[正解图];B[fo]
+(;W[hr];B[hq];W[hp];B[iq];W[gn];B[fn];W[fm];B[en];W[em];B[dn];W[cn];B[dm];W[dl]
+;B[cm];W[bm]C[白3是夹碰的手筋。
+白7门住，黑若8逃，白9至17大吃。
+所以，白7时，黑必须放弃。])
+(;W[hp]MN[3]C[参考图]N[参考图];B[dr];W[fn];B[go];W[hn];B[es];W[gn];B[fs]C[白1黑2时，白若3，黑立刻在4位紧气，白不得不5、7，以下黑10止可吃到白三子。
+两图比较，即可明白夹碰手筋的效果。]))

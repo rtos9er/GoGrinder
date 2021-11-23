@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[do][dn][en][dl][cm][bm][an][bq][br][fp][gp][gr][pp][pn]AW[jq][hq]
+[nq][hp][go][hn][fn][fm][el][cs][cr][cq][cp][co][cn]C[第39图 白先 B级
+光线
+角上白六子能否和右方主力部队连络上？
+密室透点光线，就能找到出口，问题简单。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dq]MULTIGOGM[1]
+;W[er]C[正解图]N[正解图]
+(;B[eq];W[dp];B[ep];W[gq];B[fr];W[fq];B[dr];W[es]LB[ds:A]C[白1为渡之手筋。
+黑若2应，白3和黑4交换之后再5冲，至白9止，黑A不入子，故白棋渡过。])
+(;B[fr]MN[2]C[参考图]N[参考图];W[ep];B[dp];W[eq]LB[gq:A]C[白1跳是狙袭3和A的手筋。
+黑若2应，白3为手筋，可分断黑子。黑若4，白5即可。黑2是损棋，必须在5位应。]))

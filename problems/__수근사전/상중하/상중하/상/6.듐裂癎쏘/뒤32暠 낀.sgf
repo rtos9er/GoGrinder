@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][dn][em][fl][dq][eq][fq][gp][hp][ho][iq][pp][pn][br][bq]AW[cn]
+[cp][fp][fo][gn][fm][gl][in][ip][jp][gq][hq][fr][nq]C[第32图 黑先 A级
+长蛇
+黑棋不吃掉下边白三子则无法救上边三子。
+强吃的时候，变化迭起，好看。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[hr];B[ir];W[gs];B[is];W[hs];B[es];W[er];B[ds];W[dr];B[cs]
+;W[cr];B[bs];W[cq];B[fs];W[gr];B[dp];W[co];B[cm];W[bn];B[bp];W[bm];B[bl];W[cl];B[am]
+;W[dm];B[an]C[黑1以下至5攻击，然后黑7为点之手筋。
+白8以下逃，白14黑15时，白16不能黏。若黏，则至黑27止，白全灭。])

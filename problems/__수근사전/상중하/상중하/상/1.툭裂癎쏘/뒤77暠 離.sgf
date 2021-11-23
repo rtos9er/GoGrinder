@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[bq][pp][mq][mo][ho][ik][in][ip][hp][ar][hq][gn][fn][fl][gl][fo][dl]
+[dk][cn][cp][bo]AW[jo][io][hn][hm][im][gp][ep][eo][en][em][cq][dq][dp][br][lq][jq]
+[jp]C[第77图 白先 A级
+最善
+左下的白棋，如何处理最佳？
+只要做活，事情就简单了，但要得到最佳的结果，就必须花点功夫。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[lp]MULTIGOGM[1]
+;W[hr]C[正解图]N[正解图]
+(;B[gr];W[gq];B[ir];W[go];B[hs];W[iq];B[hr];W[fr]C[白1之碰为手筋。
+黑若2则白3断，以下白9止白胜。
+白1若3也能活，但不能如图般渡过，实质损。])
+(;B[ir]MN[2]C[参考图]N[参考图];W[gr];B[iq];W[go];B[gq];W[fp];B[fr];W[fq];B[gs];W[er]
+;B[hs];W[jr]C[对白1碰，黑若2则白3黑4时，白5断以下至13止，黑棋被吃，损失很大。
+白1碰时，黑只好让白渡过。]))

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cp][dp][eq][fq][gq][eo][fo][gn][hp][jp][pp][nq]AW[bq][cq][dq][ep]
+[fp][gp][go][ho][kn][lo][lq][do][cn]C[第33图 黑先 B级
+反复
+左下角黑三子和中央白五子短兵相接。
+黑吃掉白五子，事情就可获得解决。反复的练习，就能明白简单的吃法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bp]MULTIGOGM[1]
+;B[in]C[正解图]N[正解图]
+(;W[ip];B[io];W[hq];B[hn];W[hp];B[hr];W[iq];B[jq]C[角上黑三子被吃，但是用黑1之门，反而可吃到白五子。
+白若2，黑3滚打至黑9，到此为止。])
+(;W[fn]MN[2]C[参考图]N[参考图];B[en];W[hn];B[hm];W[gm];B[io];W[gn];B[gl];W[fm];B[em]
+;W[fl];B[fk];W[el];B[dl]C[黑1门时，白2再4想往上方逃的手法也不成立。
+黑5以下至11止可征白子。]))

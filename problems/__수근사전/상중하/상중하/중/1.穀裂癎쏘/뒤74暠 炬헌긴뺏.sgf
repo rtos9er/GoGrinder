@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fp][pp][pq][qm][br][cr][bp][cp][dp][do][dn][en][em][dl][dk][fk][fl]
+[hk][hl][im][jm][hn][jo][jp][iq][hq][gp]AW[cq][ep][co][cn][dm][cm][cl][ck][dj][hm]
+[gm][gn][go][hp][io][il][jl][kl][jj][qk][nq][no][ir][hr][gq][fq][fr][dr][dq]C[第74图 白先 A级
+算清变化
+陷在黑阵中的白六子，能否吃掉外面黑子而逃出？
+问题看起来简单，实际上很难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fo]MULTIGOGM[1]
+;W[jn]C[正解图]N[正解图];B[kn];W[in];B[km];W[ko];B[lo];W[kp];B[kq];W[lp];B[lq];W[mp]
+;B[mm];W[jr];B[jq];W[mq]LB[np:A][ip:B]C[白1以下5断时，黑若6、8接应，白15止的攻杀，白胜。所以，白3时，黑4必须11、白A黑4白5黑6白14黑7白B接应。])

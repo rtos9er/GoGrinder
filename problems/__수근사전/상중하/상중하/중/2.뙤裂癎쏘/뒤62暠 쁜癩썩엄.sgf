@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][op][qo][mq][lr][kq][jq][jo][jn][im][gm][em][dm][cn][do][cp][dq]
+[eq][ip]AW[qn][dp][ep][eo][en][fp][fq][gq][go][ho][io][jp][kp][lp][ln][no][pn]C[第62图 白先 A级
+慧眼解决
+下边白棋被吃，能否冲黑棋包围网的缺陷而做活？
+要有五段的力量，才能用慧眼算清变化。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hp]MULTIGOGM[1]
+;W[cq]C[正解图]N[正解图];B[cr];W[bq];B[br];W[bp];B[co];W[dr];B[er];W[fs];B[hr];W[ds]
+;B[bo];W[es];B[ap];W[fr];B[aq];W[fn]LB[iq:A]C[相当难的问题。
+白1断以下至9止为手顺。黑10若11则白A断。
+白17止白棋活了。])

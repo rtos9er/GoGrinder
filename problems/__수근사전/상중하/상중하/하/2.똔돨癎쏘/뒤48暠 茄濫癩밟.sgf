@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[kp][gr][fs][gq][fq][eq][eo][dp][cp][co][bo][pp][mq]AW[dq][cq][fr]
+[bq][bp][jq][iq][io][im][fm][dn][cn][ck][ds][er]C[第48图 黑先 A级
+实战眼光
+被白棋包围的黑棋是否能做活？
+因和角上白棋有关连，会变成角上白棋的死活研究。经常研究死活的人马上会知道的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[kq]MULTIGOGM[1]
+;B[gs]C[正解图]N[正解图];W[kr];B[dr];W[cr];B[bs];W[br];B[es];W[ap];B[ar]LB[jr:A]
+C[利用左下角的死活关系，黑能从右方渡过。
+黑1时，白若2位阻渡，黑3再5，角上出棋。所以，对黑1，白不得不5位补，让黑A渡过。])

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[bn][bo][kq][pq][op][do][eo][go]AW[qo][gq][eq][co][cp][bp]C[第10图 黑先 C级
+实战应用
+实战下出之形，必须一眼就看出手筋。
+自然啦！也要替白棋想出损失最小的办法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cn]MULTIGOGM[1]
+;B[dq]C[正解图]N[正解图]
+(;W[dr];B[dp];W[cr];B[cq];W[br];B[bq];W[iq]C[黑1为跨之手筋。白只好2应，黑3再5进行。
+白6若7被黑6切断，白恶。])
+(;W[dp]MN[2]C[参考图]N[参考图];B[ep];W[dr];B[fq];W[er];B[fr]LB[cr:A]C[对黑1，白若2应，黑可3至7分断白子，白恶。
+另外，白4若6则黑A，角上变成黑地，不可。]))

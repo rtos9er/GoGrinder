@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dp][dn][qn][nr][oq][mo][op][oo][mp][lo][ln][lm][nj][nk][nl][nm][om]
+[lq][pm][pn][rn][ro]AW[ko][fq][kq][kp][kn][lp][kk][mk][ml][mn][nn][on][pl][po][rp]
+[pp][pq][pr][or][mm][qo]C[第2图 黑先 A级
+成败的歧路
+被白棋包围的一团黑子如何脱困呢？
+就算知道手筋，也不能弄错手顺。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ql]MULTIGOGM[1]
+;B[lk]C[正解图]N[正解图];W[lj];B[ll];W[mj];B[jm]LB[km:A][kl:B][jl:C]C[黑1为手顺。白若2，黑3再5愉快逃出。
+白2若3应，黑A白5黑B白2黑C逃出。黑1若A或B则无法逃出。])

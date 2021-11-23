@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][dq][cp][co][eq][fr][ep][cl][dk][ek][fl][fn][gm][jm][ko][io][ho]
+[jp]AW[dl][fq][gq][gr][iq][jr][kr][lq][lo][ln][lm][kl][jl][il][hn][go][cn][dn][do]
+C[第66图 黑先 B级
+贪心
+白吃黑六子，黑吃白四子，是吗？没想像中那么简明。
+希望你不但吃掉白子，还能把中间黑子救活。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[jq]MULTIGOGM[1]
+;B[gp]C[正解图]N[正解图];W[fp];B[fo];W[hp];B[hm]LB[gn:A][eo:B]C[中央黑六子的处理问题。黑1为巧妙的手筋，白只好2位应，黑3再5简单连结。
+黑1若A，白3黑5白B，左方白子会跑掉的。])

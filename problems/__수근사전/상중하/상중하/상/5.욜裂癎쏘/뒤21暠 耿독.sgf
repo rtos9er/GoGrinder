@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][pq][qm][om][mn][do][lp][kp][jp][jn][dq][hj][eq][cr][br][eo][fo]
+[co][fn][em][el][dl][dj][fj]AW[ok][nq][np][no][lq][kq][jq][iq][gp][fq][er][hn][gm]
+[fm][en][dn][dm][cl][ck][cj][bn][bo][cp][bq][qk]C[第21图 黑先 A级
+剃刀
+左下角黑棋活不成，但因白棋也有缺陷，可动点脑筋，知道第一手棋，后面自然会下。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[mp]MULTIGOGM[1]
+;B[ho]C[正解图]N[正解图];W[go];B[gn];W[hm];B[hp];W[hq];B[il]LB[io:A][ip:B][in:C]
+[im:D][hl:E][jl:F]C[黑1为跨之手筋。白2至6时，黑7飞封，攻杀黑胜。
+黑1时，白若A则黑2白B黑C白D黑E白4黑F止，攻杀同样黑胜。])

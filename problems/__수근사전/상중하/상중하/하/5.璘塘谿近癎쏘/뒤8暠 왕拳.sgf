@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[hq][gp][go][gn][fq][fr][fs][eq][fm][em][dm][cl][cn][co][bn][an]AW[er]
+[es][dq][ep][fp][fo][en][dn][do][cp][bo][ao][pp][mq]LB[bp:A][dr:B]C[第8图 黑先 A级
+空想
+角上黑A或B都能够吃白二子，但黑棋有没有更巧妙的手法？
+空想一通，看出手筋，岂不快哉！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[qn]MULTIGOGM[1]
+;B[br]C[正解图]N[正解图];W[bq];B[aq];W[cr];B[cs]LB[bp:A][dr:B]C[黑1点为绝妙手筋，白一弹毙命。
+白若2则黑3，白4时黑5，次，白若A则黑B，另外，白若B则黑A扑，白棋就这样死了。])

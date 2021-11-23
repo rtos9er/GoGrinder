@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[go][fo][eo][dp][cp][bp][bq][pp][mq][hp]AW[qn][gp][fp][ep][dq][cq]
+[br]C[第4图 黑先 B级
+围棋变数多
+类似前面几图之形，第一手马上知道，但重要的是白棋的应法。
+围棋存有变数，有时可活一半，有时也会全部死掉。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ho]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图]
+(;W[er];B[gq];W[ar];B[eq];W[es]LB[dr:A]C[类似前图。黑1为手筋，黑1若3则白1接应。
+黑3时，白若4则黑5，白6立的活法比较便宜，比A黏便宜两目。])
+(;W[gq]MN[2]C[参考图]N[参考图];B[eq];W[er];B[dr];W[fq];B[cr];W[eq];B[bs];W[hq];B[iq]
+;W[ir];B[jr];W[jq];B[ip];W[is];B[kq];W[gr]C[黑1时白若2，黑3再5断重要。
+白10以下至18止，白棋可活。]))

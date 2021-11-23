@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[pn][bs][br][bq][bp][bo][bn][cr][hq][dq][dp][ep][eo][fo][fn][hn][in]
+[cn][hp][ip][jp][kp][kq][ko][lo][mp][mq][mr][ms][qr][rr][pr][qq][pp][qo]AW[cm][bm]
+[ps][or][pq][oq][po][oo][np][fm][en][dn][do][co][cp][cq][cs][ds][dr][fp][fq][eq]
+[gq][fr][hr][iq][jq][kr][lr][lq][lp][mo][mn][ln][jn][jm][il][gm]C[第55图 黑先 A级
+不自由
+左右黑子都不活，能否利用下边白棋的缺陷，将中央黑棋做活呢?
+变化很多，难以取舍，但只要巧妙进行，白的行动不自由。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[gp]MULTIGOGM[1]
+;B[hs]C[正解图]N[正解图]
+(;W[gr];B[ir];W[jr];B[js];W[is];B[es];W[er];B[ir];W[gn];B[go];W[is];B[dm];W[em]
+;B[ir]C[黑1是夹碰的手筋。
+白若2应则黑3再5成劫，以下至黑15提劫，黑胜。])
+(;W[ir]MN[2]C[变化图]N[变化图];B[fs]LB[er:A][gr:B][dm:C]C[黑1时，白若2黏则黑3跳碰，次白若A则黑B，劫。
+黑C处有劫材，黑大龙可活。])
+(;W[is]MN[2]C[变化图]N[变化图];B[jr];W[ir];B[ks];W[js];B[ls]C[对黑1，白若2位应，则黑3至7吃掉白四子，黑两边都活了。
+黑1夹碰是绝妙手筋。]))

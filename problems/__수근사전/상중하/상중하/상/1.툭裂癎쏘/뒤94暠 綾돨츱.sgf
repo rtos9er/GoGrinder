@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[es][eo][do][cn][cp][bp][cs][pp][pn][gn][gp][fp]AW[br][bq][cq][dq]
+[dp][dr][iq][hp][ho][nq]C[第94图 白先 A级
+子的生命
+角上白棋生死问题。
+单以角上而言，白棋做不活，所以要利用外边的形才能解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eq]MULTIGOGM[1]
+;W[ds]C[正解图]N[正解图];B[aq];W[ar];B[bs];W[fq];B[gq];W[fr];B[gr];W[ep]LB[hr:A]
+C[白1至黑4先手交换之后，白5为碰之手筋。
+黑只得6应，白7再9活了。
+白1时，黑应收兵改着A位。])

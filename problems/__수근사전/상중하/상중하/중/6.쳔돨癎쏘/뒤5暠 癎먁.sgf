@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[er][eq][dp][cp][co][cj][jj][fp][pp][np][jq]AW[fq][ep][eo][do][dn]
+[cn][ip][qn][pj]TR[fp]C[第5图 白先 A级
+手感
+左下角的战斗中，对黑△切断，白棋如何处理？
+因中央的配置关系，征子白棋不利。征子不利仍然想要手感好的处理，为本题难处。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[jp]MULTIGOGM[1]
+;W[gp]C[正解图]N[正解图];B[fo];W[fn];B[go];W[hn]
+(;B[ho];W[io];B[hp];W[hq];B[gq];W[gn];B[fr];W[iq];B[in];W[jo]TR[fp]C[如何对左下角黑△之断。无法征吃，所以用白1、3再5门的手筋。至白13止，黑若14断，白15变成战斗。])
+(;B[hp]MN[6]C[参考图]N[参考图];W[ho];B[gq];W[gn];B[fr];W[hq]C[白1至黑4时，白5门封为巧妙的处理。
+黑若6，白7以下至黑12黏止，白可着厚外势。]))

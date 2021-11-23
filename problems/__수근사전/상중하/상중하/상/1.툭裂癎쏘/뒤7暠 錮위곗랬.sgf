@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][pq][pn][qn][co][np][mp][lp][kp][qk][jo][jn][jq][jr][iq][hr][gq]
+[fq][fp][dp]AW[dm][oq][nq][mq][kq][kr][op][oo][on][om][ll][jl][hm][io][ip][jp][hp]
+[gp][hq]C[第7图 黑先 B级
+脱困办法
+陷在白阵内的黑七子，有何脱困办法？
+第一感的急所，可冲白形缺陷而找到，问题在于后面的细算。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[ln]MULTIGOGM[1]
+;B[hn]C[正解图]N[正解图];W[gn];B[go]LB[fo:A][fn:B]C[黑1碰为手筋，白若2则黑3，到此为止。
+另外，白2若3，则黑2冲，白A时黑B，白被大吃。])

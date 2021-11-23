@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[eq][fq][gq][hq][bl][jr][kq][go][hn][hp][gm][fm][em][dl][cl][cq][qn]
+[bp][br][cr]AW[io][pp][mq][mo][ko][ip][ho][gn][fn][fp][eo][dm][cm][co][bq][gp][cp]
+C[第83图 黑先 B级
+容易弄错
+左边到右方的白子已经连结了吗？黑可用巧妙的手顺裂开白子。
+这个问题，实战容易错过。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[im]MULTIGOGM[1]
+;B[do]C[正解图]N[正解图];W[dn];B[en];W[dp];B[fo];W[bo];B[aq];W[ep];B[bn];W[bm];B[am]
+C[黑1挖可分断白子。白若2，黑3以下11止，白死。
+黑1挖时，白若细算一下，2必须5撤兵。])

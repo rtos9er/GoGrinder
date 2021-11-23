@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pn][ho][io][gm][gn][fo][dn][gp][fq][eq][dq][cq]AW[nq][jp][jo][gq]
+[iq][fp][ep][cp][do][dm][cm][em][bn][gl][hl][hm][hn][jn][hr]C[第15图 黑先 C级
+概念
+中央黑六子被吃，但白棋的包围网是否有缺陷？看到这里，你马上要有概念。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;B[co]C[正解图]N[正解图];W[cn];B[dp];W[bo];B[eo]C[黑1为挤之手筋。
+白若2，黑3再5吃掉白二子。
+看到黑1会觉得很简单，但在实战中，多数人不会注意到的。])

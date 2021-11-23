@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dq][dp][gq][co][cn][cm][cl][el][fm][pq][op][bs][cr]AW[br][cp][bq]
+[cq][bo][bn][bk][ck][dk][do][eo][fp][hp][qo]LB[bm:A][ap:B]C[第19图 黑先 A级
+一举两得
+高目定石生出之形。
+现在白棋想往左边渡过，黑若A位阻渡则白B做活。黑棋能否不让白棋渡过，也不让白棋做活。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dr]MULTIGOGM[1]
+;B[ap]C[正解图]N[正解图];W[bm];B[bl];W[al];B[am];W[an];B[bp]C[黑1为点之手筋，一举置白于死地。
+白2渡时，黑3以下7，到此为止。
+此为分先高目定石下出之形。])

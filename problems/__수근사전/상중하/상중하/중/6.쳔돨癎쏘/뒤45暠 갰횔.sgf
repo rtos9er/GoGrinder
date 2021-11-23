@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[hk][hl][il][jl][kl][lm][ln][mn][nn][on][pn][qn][ql][ko]AW[jk][ik]
+[lq][kn][pq][po][pk][qk][qo][ol][ml][ll][mm][kk][km][jn][dp][cm][dj]C[第45图 黑先 A级
+昂然
+相当难的问题，会让你大吃一惊，怎么有这么大规模的门吃手法。
+将中央白三子包围，就能昂然挺胸的场面。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hj]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图];W[hn];B[in];W[io];B[jo];W[im];B[ho]
+(;W[gn]C[中央白三子的处理问题。
+黑1大门为妙手筋。白若2逃，黑2至7攻击时，白只好8。8若3黏则黑8，可吃掉白棋。])
+(;W[in]MN[8]C[参考图]N[参考图];B[gn];W[go];B[hp];W[gm];B[fn];W[hm];B[fm];W[gl];B[fk]
+C[白8若3黏劫，黑9挡去进攻。
+白不得不10以下至16逃，但被黑17门封，白被大吃了。])
+(;W[hm]MN[8]C[参考图]N[参考图];B[in];W[jm];B[fn];W[gm];B[fm];W[gl];B[fk]C[白若8，黑9再11攻击至黑15止，白窒息了。
+白棋只能照正解图争劫，知道黑1门的厉害了吧！]))

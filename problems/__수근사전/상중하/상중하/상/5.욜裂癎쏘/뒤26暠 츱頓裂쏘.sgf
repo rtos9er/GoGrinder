@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dj][ej][fj][gj][hj][ij][jk][kk][lk][ll][ml][pl][ql][pj][pq][pp][po]
+[np][mq][jr][jq][jp][kn][im][dp][eq][fr][gq][gp][go][fn][en][cn]AW[ol][dl][ek][fm]
+[gl][gk][hk][ik][gn][hn][ho][hp][hq][gr][ir][mm][pm][pn][qo][qp][qq][mk][lj][kj]
+[jj][nj][cl][nn][nl]C[第26图 白先 A级
+命运之筋
+左边白棋一团不活，但冷静观察，可找出黑棋的缺陷，想找出缺陷就必须一眼就看出手筋，否则白想了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cj]MULTIGOGM[1]
+;W[km]C[正解图]N[正解图];B[jl];W[jn];B[jm];W[jo];B[lm];W[ko];B[mn];W[ln];B[nm];W[mo]
+;B[on];W[no];B[om];W[oo]C[白1为跨之手筋。黑只好2应，白3黑4时，白5为要着。
+对黑8，白9重要，以下至白15止，黑棋被吃掉了。看到白1，黑棋必须断念。])

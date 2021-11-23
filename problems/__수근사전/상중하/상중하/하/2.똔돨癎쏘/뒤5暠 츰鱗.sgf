@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[bq][bo][cp][co][do][eo][ep][fq][gq][hq][hp][ho][pp][qp][no][mq]AW[on]
+[dq][qk][eq][dp][fr][fp][gp][fn][gn][fl][jq][jo][im][km][qn][ar][br][cq]C[第5图 黑先 A级
+名作
+被困住的黑五子想和右方黑棋连结，看起来好像办不到，事实不然。
+要利用角上关系才能找出渡手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ap]MULTIGOGM[1]
+;B[ds]C[正解图]N[正解图]
+(;W[dr];B[hs]
+(;W[ir];B[fs];W[es];B[er]LB[kr:A][jr:B][js:C]C[乍看好像没棋，但黑1点的手筋能搞出棋来。
+白若2应，黑3再5成劫。白4若6，黑A白B黑C渡过。])
+(;W[es]MN[4]C[参考图]N[参考图];B[kr];W[jr];B[js]))
+(;W[er]MN[2]C[参考图]N[参考图];B[hs];W[gr];B[hr];W[kr];B[cr];W[dr];B[bs];W[es];B[cs]
+;W[as];B[cs];W[gs];B[cr]C[黑1点时白若2应，黑3至9要打劫。
+如果白10不打劫，黑11以下至15止，白死。]))

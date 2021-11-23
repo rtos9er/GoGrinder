@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[cp][dp][ep][cl][fq][fr][er][hr][iq][pp][pn][bq]AW[ar][br][cq][dq]
+[eq][dr][cs][fp][gp][hq][ip][ir][jr][nq]C[第72图 黑先 A级
+预感
+下边黑四子是死是活？实战容易弄错，普通手法是活不成的。
+黑藏有妙手段，死地求活，令人感受到围棋的乐趣。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bp]MULTIGOGM[1]
+;B[bs]C[正解图]N[正解图]
+(;W[gq];B[ds];W[es];B[fs]C[用普通的办法攻杀，黑负，但黑棋巧妙地在1位点可弄成劫争。
+白若2则黑3至7止成劫。])
+(;W[as]MN[2]C[参考图]N[参考图];B[gq];W[jq];B[es];W[ds];B[gs]C[黑1点时，白若2位应，黑3再5时白不得不6位应，黑7活了。
+白棋要照前图弄成劫争，须算算劫材。]))

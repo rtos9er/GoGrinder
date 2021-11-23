@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[lp][kq][kn][jn][im][gm][gl][cq][eq][fq][dp][co]AW[ep][cn][dm][fm]
+[fn][ho][hq][jo][qp][po]C[第1图 黑先 C级
+一刀两断
+虽然是简单的手筋，但实战中，初学者经常错过。
+一看此形，就应该知道用什么手筋。
+希望各位一刀两断，干净俐落吃掉白子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[1]
+;B[go]C[正解图]N[正解图]
+(;W[gn];B[hn];W[gp];B[fo]LB[fp:A]C[黑1碰就能分断白子。
+白若2则黑3，到此为止。
+初学者，黑1会想在2位冲，但白A就连结了。])
+(;W[fp]MN[2]C[参考图]N[参考图];B[gp];W[gn];B[hn];W[gq];B[hp];W[io];B[ip];W[jp];B[iq]
+;W[jq];B[ir]C[黑1碰时白若2位接应，黑3至7可以逃出，结果和上一图一样。
+黑棋能截断白子，获利二十几目，价值很大，将关系到胜负。]))

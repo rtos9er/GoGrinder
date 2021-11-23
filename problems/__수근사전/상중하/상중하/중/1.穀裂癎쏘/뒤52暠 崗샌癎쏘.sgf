@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[jq][cm][kp][ko][iq][jn][br][dr][fr][cq][ep][dp][co][dn][en][lq][fm]
+[dl]AW[bn][ar][bq][bp][bo][cn][dm][em][el][hl][gq][gr][gp][hn][ip][jp][cj][fp]C[第52图 黑先 A级
+双击手筋
+能否利用棋形配置，攻击左右两块白子。
+手法很多，要算清楚才能选对答案。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fq]MULTIGOGM[1]
+;B[hm]C[正解图]N[正解图]
+(;W[gm];B[gl];W[im];B[ek]C[黑想双击左右白子，获取利益。黑1为左右开弓的手筋。
+白若2，黑3再5吃到白三子，获利不小。])
+(;W[im]MN[2]C[参考图]N[参考图];B[gm];W[in];B[il];W[ek];B[jm]C[黑1挖时，白若从2位应，则黑3再5断，同样形成双击之势，白总有一边会被吃去。
+白6若7则黑6吃白三子。]))

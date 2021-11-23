@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[oq][lq][lr][kr][kp][jp][jn][jm][jl][ln][il][hm][hn][gp][gq][fp][eo]
+[do][co][cp][dq][dr]AW[dp][ep][eq][fq][fr][gr][hr][jr][jq][kq][ip][io][in][im][hl]
+[qp][po][ql]C[第16图 白先 A级
+生死问题
+下边白棋生死的问题。
+看起来能简单成活，事实不然。要利用左方黑棋的缺陷才活得了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[er]MULTIGOGM[1]
+;W[fo]C[正解图]N[正解图]
+(;B[fn];W[is];B[iq];W[hp];B[go];W[hq]C[下边白棋生死问题。
+白1断进去，重要。和黑2交换之后再白3做眼，黑即使4断，白5仍然简单可活。])
+(;B[go]MN[2]C[变化图]N[变化图];W[is];B[iq];W[hq];B[hp];W[gn];B[fn];W[gm]LB[ho:A]
+C[对白1，黑若2位应白同样3，黑4再6来破眼的话，白7靠成立，白9止活了。白1若单3，黑4白5黑6白A时，黑可8应，白死。]))

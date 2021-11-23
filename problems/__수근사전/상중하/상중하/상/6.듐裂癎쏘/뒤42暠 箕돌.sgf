@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[co][bl][bk][ek][bp][hp][do][eo][fo][go][gp][kp][ip][jo][kn][ko][kq]
+[pp][np]AW[dl][cl][bm][cj][io][fq][qn][bq][cp][bj][dp][fp][gq][hq][iq][jq][jp][ho]
+[jn][km][fl][jl][hl][el]C[第42图 黑先 B级
+压倒
+类似40图之形，黑的第一着应该马上想得出。
+想出第一着之后，要算到第十五手棋才能解决，但因为是单行道，并不难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[1]
+;B[im]C[正解图]N[正解图];W[hn];B[hm];W[gn];B[gm];W[fn];B[fm];W[en];B[em];W[dn];B[dm]
+;W[cn];B[cm];W[bn];B[in]C[黑1为点的手筋。
+白若2逃，黑3出击至15止吃掉白子。被黑1点中时，白棋必须算清楚能否开跑。])

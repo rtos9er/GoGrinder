@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cp][dq][eq][fq][fr][jq][qn][bm][an][bo]AW[pp][np][cq][cr][er][dp]
+[do][co][cn][bn][bl][cl]C[第12图 黑先 C级
+惊险之渡
+左下角黑白对杀。
+黑棋有两种选择，何者最佳。问题简单，初学者也可一眼看出。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[bp]MULTIGOGM[1]
+;B[br]C[正解图]N[正解图];W[bq];B[aq]LB[ar:A][ap:B][as:C][bs:D][cs:E]C[黑1是跳碰的手筋。白2黑3止，攻杀黑胜。
+黑1若2，白1黑A白3黑B白C黑D白E变成劫争，黑棋不行。])

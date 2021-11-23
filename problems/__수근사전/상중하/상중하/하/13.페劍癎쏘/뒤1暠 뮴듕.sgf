@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[pp][qp][dp][ep][dq][dr][cq][es][fo][go][gm][el][dl][co][bn][cn][dn]
+AW[en][fq][fp][er][ds][cr][bq][bp][bo][cp][do][eo][em][qn][qk][iq]C[第1图 黑先 A级
+古典
+录自中国古书，以手筋而言，绝妙透顶，但不是实战弈出。
+黑从一路爬而吃掉上方白四子的过程。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[1]
+;B[cs]C[正解图]N[正解图];W[br];B[fs];W[fr]
+(;B[gs];W[gr];B[is]LB[jr:A][fm:B][hs:C]C[黑3、5、7在一路爬是处理妙手，逃到这里，攻杀可胜。
+黑7之后，白若A则黑B胜。黑7若C则白7，攻杀黑负。])
+(;B[gr]MN[5]C[参考图]N[参考图]
+(;W[gq];B[hq];W[hr];B[fm]LB[eq:A]C[黑5时，白若6应，黑7和白8交换之后，黑9攻击，白无法A位紧气，白负。
+因为白棋手顺不好才有这样的结果。])
+(;W[bs]MN[6]C[参考图]N[参考图];B[gq]LB[hq:A][hr:B]C[黑3白4时，黑5扳上去为恶手。
+白6好棋，黑7白8止变成劫争。
+黑7若在1之右位黏，白7黑A白B，黑负。])))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][qn][jp][ip][iq][io][in][hm][gm][fl][el][cm][cn][co][bp][bq][br]
+[cr][dq][qq]AW[kp][jq][jo][fm][fn][gn][fp][dr][cq][cp][dp][do][dn][nq][pr][kq]C[第47图 白先 A级
+安居
+左下白棋是否能在中间做活，或者从左边渡过的问题。但若留下味道则不能算满分。安居诚难事耳！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eq]MULTIGOGM[1]
+;W[gr]C[正解图]N[正解图];B[er];W[ir]LB[fq:A][gq:B][fr:C][ds:D][gp:E][hp:F][hq:G]
+[go:H][hr:I]C[白1为巧妙手筋，黑只好2，白3渡过。
+白1若2、黑A白B黑C白1黑D白3也能渡过，但会生出黑E白F黑G白H黑I的手段，故白1的下法比较实在。])

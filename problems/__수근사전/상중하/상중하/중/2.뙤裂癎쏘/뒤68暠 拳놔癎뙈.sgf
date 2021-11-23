@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pp][po][pn][qo][nq][nr][om][nm][nn][ln][kn][jn][im][hm][hn][ho][hp]
+[gn][fm][fn][fo][fp][dn][do][dp][dq][dr][cn]AW[eq][ao][bo][co][bq][cr][cl][el][fl]
+[gl][il][jk][jm][km][ol][pl][pm][on][qn][rn][mr][lq][mp][iq][ip][io][in][gq][gp]
+[go][fq]C[第68图 黑先 B级
+想出手段
+左下角黑棋大龙不活，但白形有缺陷还有药可医。
+黑棋也要算算如何和右边连结的手段。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[1]
+;B[hq]C[正解图]N[正解图];W[hr];B[gr];W[fr];B[ir];W[gs];B[jr];W[kp];B[kr]LB[lr:A]
+[jp:B]C[黑棋大龙必须冲白缺陷才能做活。
+黑1、3、5为手顺，黑9止黑棋从右方渡过。9之后，白若A黑B即可。])

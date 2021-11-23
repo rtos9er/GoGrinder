@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pq][nq][qp][qo][pj][cm][bn][cn][gq][cp][dp][ep][en][em][gm][gn][gl]
+[co][hk][ik][hn][ho][hp][ip][jq][jr][ir][hr][jl][kl]AW[cq][dq][do][eo][il][go][gp]
+[fp][fq][fr][gr][fo][pm][qn][po][kr][kq][jp][jo][iq][in][im][jm][hm][jk][kk][ij]
+[hj][gk][cl][fk][fl][dl][bl][bo][bp]C[第65图 黑先 A级
+气紧
+被白棋困住的黑棋大龙不活，但可针对右方白包围网的缺陷，找出生路。
+形态有个盲点，容易引发错觉。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hl]MULTIGOGM[1]
+;B[kp]C[正解图]N[正解图];W[lp];B[ko];W[ln];B[io]LB[kn:A]C[被包围的黑棋大龙似已不行，但黑1断可活。黑3时，白无法A位征吃，是死活的关键。黑5吃到白二子活了。])

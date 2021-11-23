@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hp][gp][fp][ep][fq][fr][do][co][bo][cl][pp][np][kq]AW[qn][gq][gr]
+[fs][er][eq][dp][cp][bp]LB[cr:A][br:B]C[第75图 黑先 A级
+命运
+角上白棋，普通围到这样的地已是活棋，但因有缺陷，藏有黑的妙手筋。
+平凡的黑A点，白可B应，搞不出棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[iq]MULTIGOGM[1]
+;B[ar]C[正解图]N[正解图]
+(;W[br];B[ap];W[cq];B[dr];W[aq];B[bq]C[角上白棋的生死问题。
+黑1为点的手筋。白若2应，黑3至7止劫。此一手顺中，白2和4为好棋，才能弄成劫争。])
+(;W[bq]MN[2]C[参考图]N[参考图];B[dq];W[dr];B[br];W[aq];B[cr];W[cq];B[ao];W[es];B[ap]
+;W[dq];B[cs];W[gs];B[hr]C[黑1点时，白2的应手不好。
+黑3、5为好手顺，白若6，黑7以下至15止，白死。能算清楚变化的人，有相当的力量。]))

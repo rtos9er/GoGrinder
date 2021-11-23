@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][qp][ro][rn][qm][om][mm][oj][oq][nq][np][jq][jo][io][hm][dp]AW[jn]
+[cn][kn][ko][mq][lq][mo][no][oo][po][qo][op][rp][qj][en][dj]LB[jl:A]C[第2图 白先 B级
+手筋两题
+下边白棋大龙可A位开跑，但如果角上黑地有棋就不用这么辛苦。
+手筋有两个，选择的问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fp]MULTIGOGM[1]
+;W[pq]C[正解图]N[正解图];B[qq];W[qr];B[rq];W[pr];B[rr];W[nr]C[对角上黑地，白1断为手筋，黑2以下至白5止，攻杀白胜。
+另外，白1若3、黑4白1黑2白5，结果也一样。])

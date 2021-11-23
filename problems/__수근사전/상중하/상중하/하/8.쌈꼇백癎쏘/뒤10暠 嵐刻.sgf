@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[jp][io][jn][hn][fn][fo][fp][eq][dq][dp][bp][em][dm][ek][cl][bl][bm]
+AW[bn][en][cm][fm][gm][hm][im][ip][iq][kr][fq][gq][eo][ep][cn][dn]C[第10图 白先 B级
+展示
+左下角黑地中白七子死了，但外面黑棋有缺陷，是否可攻击之而逃出？
+这是展示手筋魔力的局面。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;W[ho]C[正解图]N[正解图];B[hp];W[go];B[gn];W[in];B[gp];W[ho];B[jo];W[hq]C[白1挤为导致接不归的手筋。
+黑2再4时，白5断，黑6提二子时，白7扑，黑8白9止白胜。])

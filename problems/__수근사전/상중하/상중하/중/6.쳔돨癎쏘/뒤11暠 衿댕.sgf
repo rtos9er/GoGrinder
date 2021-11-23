@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[jq][jr][ir][kr][mo][nn][np][nq][oo][pp][ip][cm][em]AW[qq][qp][qn]
+[jp][kp][kq][iq][hq][hr][mp][ck]TR[ip]C[第11图 白先 A级
+雄大
+下边白棋遭黑△切断，白棋应如何处置最适切？重要的是雄大的构想，不要拘泥于小事。
+这是鉴定棋力的好题目。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;W[lr]C[正解图]N[正解图];B[mr];W[lq];B[ls];W[ks];B[js];W[hs];B[ms];W[io];B[hp];W[go]
+;B[gp];W[fp];B[gq];W[fq];B[gr];W[fr];B[gs];W[ho];B[is];W[eo]C[下边的战斗，白棋应该如何处理？
+白1以下7交换之后，9再11门，接应至21止，可破坏左下角黑地，所以是白棋有利的处理形。])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[hn][gm][nq][ds][dr][dq][eq][ep][eo][iq][ir][hp]AW[pp][pn][cp][bq]
+[cr][dn][en][fm][fo][go][fq][er][hq][hr]C[第33图 黑先 A级
+狮吼
+被包围的黑六子，有没有办法和右方黑子连络？
+第一手很重要，但就算知道这个手筋，后面的手顺也不能弄错。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ho]MULTIGOGM[1]
+;B[fs]C[正解图]N[正解图];W[fr];B[fp];W[gp];B[fn];W[gn];B[hs];W[gq];B[es]C[黑1跳为渡之手筋。
+白若2黏，黑3再5手顺接应，白6时，黑7扳，白不得不8黏，黑9渡过了。])

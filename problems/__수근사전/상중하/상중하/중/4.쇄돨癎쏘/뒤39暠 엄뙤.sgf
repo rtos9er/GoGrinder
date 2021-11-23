@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][qn][ql][oq][lq][kq][jp][jn][io][hn][gn][fn][go][hl][el][bl][cn]
+[dn][cp][dp][cq][cr]AW[ol][dq][eq][ep][fo][en][em][fm][dm][ek][gp][hp][ho][iq][nq]
+[np][lp][ln][on]LB[fp:A][eo:B]C[第39图 黑先 A级
+决断
+有没有可能使下边变成黑地。
+要弄清楚黑A白B之后有没有棋，不要贸然动手，以免遭来损失。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fq]MULTIGOGM[1]
+;B[fp]C[正解图]N[正解图];W[eo];B[gr];W[er];B[hq]LB[hr:A][gq:B][fr:C]C[黑1再3可吃到白四子。白若4则黑5止胜。另外，白4若A则黑4渡。黑3若B或C，黑负。])

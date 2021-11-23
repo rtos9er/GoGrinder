@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nq][jo][in][fr][fq][fp][ep][do][co][bo][ao][fn][cr][br][jq]AW[gr]
+[pn][fs][ds][dr][er][eq][cq][dp][cp][bp][ap][hq][pp][gq][ho]C[第11图 白先 B级
+要着
+白棋吃得到角上黑三子则活，吃不到则死。目前有接不归的困扰，要想办法防之。关键在第一手棋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[bq]MULTIGOGM[1]
+;W[ar]C[正解图]N[正解图];B[aq];W[dq];B[as];W[cs]LB[bs:A]C[白1是跳碰的手筋。黑只好2打，白3再5，攻杀胜。
+白1若A碰，黑2白3黑4止为劫，白不行。
+])

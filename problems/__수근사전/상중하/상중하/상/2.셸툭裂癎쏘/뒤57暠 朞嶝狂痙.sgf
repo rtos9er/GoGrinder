@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pp][mq][mp][lo][kn][ho][gn][gp][fp][ep][fq][en][dn][cn][bo][bq][cr]
+[gr][in]AW[fr][er][eq][dq][dp][do][qn][kq][lq][hq][gq]TR[jq]LB[jp:A][iq:B][jr:C]
+C[第57图 白先 A级
+选择问题
+下边的战斗中，现在黑△来问应手。
+白棋的应手有A、B、C三种，其中那一种最好？必须细算一下。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jq]MULTIGOGM[1]
+
+(;W[iq]C[正解图]N[正解图];B[jp];W[jr];B[kr];W[js];B[lr];W[hr]C[白1是夹碰的手筋。
+黑只好2应，白3至7可活。
+实战中易于漏算白1的手筋。])
+(;W[jp]C[参考图]N[参考图];B[iq];W[ip];B[hr];W[hp];B[kp]LB[jr:A][ir:B]C[白1若从上边扳，黑2至白5时，黑6断，到此为止。
+另外，白1若从下边A位扳，黑2白B黑4即可。]))

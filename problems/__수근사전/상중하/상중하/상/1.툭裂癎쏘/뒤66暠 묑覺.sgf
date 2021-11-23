@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[cl][em][gl][hl][hn][go][fo][ep][dq][er][hq][cn][bn][bo][pp][pn][om]
+AW[ck][bk][ql][nq][jr][jp][io][ho][fp][eo][do][co][bp][cq][cr][gk][fk][ek][dk]LB[dr:A]
+C[第66图 白先 C级
+攻势
+角上白A就活了，但如果想藉攻黑棋而成活，自然会看出更锐利的手法。
+这种手筋是一看形就知道的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[el]MULTIGOGM[1]
+;W[gp]C[正解图]N[正解图];B[hp];W[fm]LB[fl:A][gn:B]C[白1黑2先交换，生出白3碰的手筋。
+黑若A则白B，另外，黑若B则白A吃掉黑子。黑棋要计算舍弃那一块比较合算。])

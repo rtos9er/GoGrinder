@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[ap][pp][pr][qn][jq][np][oq][lq][kq][cj][iq][hq][lr][gp][go][gn][eo]
+[dp][cp][bo][co][dm]AW[bq][br][cq][fq][gq][hp][ho][hn][hm][jp][jn][lp][ln][mp][nq]
+[or][qq][cn][bp][mq]LB[gr:A][fr:B][hs:C]C[第31图 黑先 A级
+飞跃
+黑A白B黑C平凡做活的话，脱离不了业余的范畴。
+重要的是要有飞跃的着想。各位已经看过类似形，应该马上知道手筋在何处。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[op]MULTIGOGM[1]
+;B[fr]C[正解图]N[正解图]
+(;W[er];B[gr];W[dq]LB[dr:A]C[黑1为碰之手筋。
+白2正确，黑3白4止，黑棋可先手做活下边。
+白4不下的话，黑有A夹的手筋，白死，要当心。])
+(;W[gr]MN[2]C[参考图]N[参考图];B[dr];W[er];B[dq];W[hr];B[ir]C[黑1碰时，白若2则黑3跳，将白子分断。接下去的攻杀，白负。
+前面已经出现过多次黑1的类似形，希望各位能很快看出。]))

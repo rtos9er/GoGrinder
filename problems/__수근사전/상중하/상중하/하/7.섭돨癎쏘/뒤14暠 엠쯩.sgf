@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[fo][eo][dp][cp][bp][bq][ck][pp][lq][er]AW[jq][gq][fr][ep][cq][dq]
+[dr][br]LB[eq:A][es:B]C[第14图 黑先 C级
+骏马
+黑若A，白B渡逃走了，连初学者也会下。
+必须一眼看出手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[fp]MULTIGOGM[1]
+;B[fq]C[正解图]N[正解图]
+(;W[gr];B[ds]LB[eq:A][es:B]C[黑1为挤之手筋。
+白只好2黏，黑3扳简单吃到左边白五子。
+黑1若A让白B渡过，笨蛋透顶。])
+(;W[eq]MN[2]C[参考图]N[参考图];B[gr];W[es];B[hq]C[对黑1，白若2则黑3再5吃白一子，但在这种布局，右方有黑棋的势力，左下白子孤立的话，不利。]))

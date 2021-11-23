@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ck][oq][op][lq][bo][co][eo]AW[qp][qn][pq][jq][gq][eq][dq][cp]C[第89图 黑先 B级
+震动
+对下边白棋，黑棋从何处进攻？黑棋的下法会产生出很大的损益。
+不是死活问题，是中盘手筋问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fp]MULTIGOGM[1]
+;B[ir]C[正解图]N[正解图]
+(;W[iq];B[hr];W[gr];B[jr]LB[hq:A]C[攻击这块白棋的手筋之一是黑1点。
+白若2应，黑3再5渡过，黑好。黑棋不但取得实利，而且白棋留下A的缺陷。])
+(;W[jr]MN[2]C[参考图]N[参考图];B[fq];W[fr];B[iq];W[ip];B[hq];W[gr];B[hp]C[黑1点时，白若2位隔断，黑3至7接应，简明易懂吧！
+白8黑9止，白恶。]))

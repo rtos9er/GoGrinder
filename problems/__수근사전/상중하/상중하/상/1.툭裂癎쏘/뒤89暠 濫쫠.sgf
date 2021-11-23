@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cm][gq][hq][qp][po][ql][dq]AW[ck][ek][em][gp][hp][ip][jq][mp][oq]
+LB[fq:A][fr:B]C[第89图 白先 A级
+战略
+想破坏左下角黑地，应从何处着手呢？高手的实战中，经常使用这种弃子战略。
+白A黑B交换的话，妙味全失。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[do]MULTIGOGM[1]
+;W[dr]C[正解图]N[正解图]
+(;B[er];W[cq];B[dp];W[bo];B[cp];W[cn];B[dn];W[bm]LB[bq:A]C[如何破坏左下角黑地的问题。
+白1之碰为手筋。
+黑若2位应，白3至9和左边连络，次留有白A逃出的手段。])
+(;B[eq]MN[2]C[参考图]N[参考图];W[cq];B[cp];W[bq];B[er];W[cs]C[白1碰时黑若2退，白3再5活角，黑地少掉一半。
+白1也有3碰的手筋，但此际白1碰才是破角的常用手筋。]))

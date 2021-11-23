@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][pn][bq][cq][ek][dp][do][fp][el][jp][fj][gj][hj][ik][il][jm][km]
+[kn][lo]AW[mq][dq][dr][cr][cp][co][cn][cm][ck][dj][ej][fk][gk][gm][im][jn][io][ko]
+[kp][ip][iq][gq]C[第42图 黑先 A级
+手艺精巧
+散在白阵中的黑六子似乎无法可想，但黑可用巧妙的手顺，在白阵内活一块。
+请用精巧手艺做出活形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[1]
+;B[fq]C[正解图]N[正解图];W[br];B[gl];W[fl];B[fm];W[hl];B[hk];W[gl];B[gn];W[hm];B[ho]
+(;W[em];B[in];W[fn];B[hn];W[fm];B[fo];W[dn];B[jo]C[散在白地中的黑子，用1、3以下的手筋可找到活路。
+白若12断，黑13以下19止逃出。])
+(;W[in]MN[12]C[变化图]N[变化图];B[en];W[gp];B[go]C[前图12以后的变化。
+白若12黏，黑13再15，成为丁字形活棋。]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qk][cq][mr][mq][mp][kp][mo][ko][kq][jq][jn][jm][hn][fn][eo][em][fq]
+[gq][er][dq][lr][dp][bq][bp]AW[ln][qp][oq][oo][nn][mn][kn][lo][lp][lq][kr][jo][hp]
+[gp][fp][ep][eq][cp][co][do][dm][dl][bo][jp]C[第18图 白先 B级
+薄味的缺陷
+陷在黑阵中的白子似已被吃，能否冲黑形薄味的缺陷而做活呢？
+平凡的手段并不讨好。死活关键在于着手次序。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[qn]MULTIGOGM[1]
+
+(;W[fr]C[正解图]N[正解图];B[gr];W[jr];B[iq];W[hq];B[ir];W[hr];B[ks];W[gs];B[dr]
+;W[gq]C[白1切断为手顺。黑只好2位应，白3至7冲，黑8打时，白9提掉黑子，黑10时白做眼。])
+(;W[jr]C[参考图]N[参考图];B[iq];W[hq];B[ir];W[hr];B[ks];W[fr];B[dr]LB[gr:A]C[白从1位下手的话，黑2至6时，白虽7断，黑8黏住，白棋仍然活不成。知道手顺的重要了吧！]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pq][pp][op][oo][pn][qn][pl][pj][nj][lj][kj][jk][kl][lm][mn][nn][mo]
+[lp][nq][io][hn][hp][gp][iq][eo][dp][cp]AW[lk][ll][nl][om][on][no][np][mp][mq][oq]
+[or][pr][qr][rr][ln][lo][ko][jp][ip][hq][hr][fq][cq][dr]LB[mm:A][km:B]C[第7图 黑先 A级
+探究心
+黑三子若A黏，会被白B断吃。能否利用这三颗棋子下出巧手呢？
+藏有绝妙的手筋，如果能算出，不亦快哉！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[rq]MULTIGOGM[1]
+;B[kp]C[正解图]N[正解图];W[jo];B[mm];W[km];B[jm]LB[jq:A][kn:B][kq:C]C[黑1为挤之手筋。
+白若2，黑3再5可吃通。
+白2若A、黑B白C黑3逃掉。
+黑1是容易忽略的巧妙手筋。])

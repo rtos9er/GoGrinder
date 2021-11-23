@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pr][ql][iq][dq][cr][cq][cp][co][cm][cl][dk][dj][qp][op][oq]AW[kq]
+[jo][dr][eq][dp][do][dn][dm][dl][ek][qj][nq][nr][or]TR[iq]C[第59图 黑先 A级
+重大问题
+在白棋模样中，如何处理△子的研究问题。
+这是分先布局出现之形，但黑棋手法有异，结果大是不同。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[np]MULTIGOGM[1]
+;B[fq]C[正解图]N[正解图]
+(;W[fr];B[ep];W[er];B[gq];W[fp];B[gp];W[fo];B[go];W[fn];B[hm]C[黑1是夹碰的手筋。
+白棋有2扳、3黏、4黏三种应法，若白2应，黑3以下11止可愉快出头。])
+(;W[er]MN[2]C[正解图]N[正解图];B[fp];W[ep];B[ho]C[对黑1，白若2位应，黑3和白4交换再5飞。
+黑5是此一场合一手安定之形。])
+(;W[ep]MN[2]C[正解图]N[正解图];B[fr];W[er];B[ho]LB[go:A][gp:B][io:C][jn:D][hm:E]
+C[对黑1，白若2位上黏，则黑3和白4交换之后，黑5飞为形。另外，黑5也可A。
+黑5时，白若B则黑C白D黑E出头，没问题。]))

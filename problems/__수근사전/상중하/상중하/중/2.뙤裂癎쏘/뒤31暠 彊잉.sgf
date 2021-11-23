@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[do][dm][em][gm][fm][hm][in][jo][kn][hp][ip][kp][kq][kr][qj][bp][ep]
+[eq][fq][dr][qm]AW[lr][lq][lo][dq][dp][eo][fn][gn][ho][fp][gp][en][gq][lp][qp][op]
+C[第31图 白先 C级
+水雷
+被包围的白子，陷于死活不明的状态。
+白棋要想做活的话，如何着手最佳？
+好像很快就能活，实际上很容易出错觉的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[1]
+;W[er]C[正解图]N[正解图];B[fr];W[gr];B[es];W[ir];B[hq];W[hr];B[is];W[fs];B[gs];W[hs]
+LB[ks:A]C[白1断再3、5进行为巧妙的手顺。
+黑若6、8攻击，白9再11为手顺，次黑若9黏，白A可渡过。])

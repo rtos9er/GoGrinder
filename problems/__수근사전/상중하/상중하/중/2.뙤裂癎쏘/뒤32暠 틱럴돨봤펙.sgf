@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][qp][np][mp][pn][on][mn][ln][mm][ml][km][lq][kq][jq][dp][bp][fp]
+AW[jp][cn][lp][kp][lo][kn][lm][ll][kl][il][hm][qo][qn][pm][qk][ir][iq]LB[ip:A]C[第32图 黑先 C级
+平凡的好棋
+下边白棋A位有缺陷，黑棋如何攻之？
+不算清楚不能贸然动手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gq]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图];W[hp];B[io];W[ho];B[jo]LB[ko:A][jm:B][in:C][hn:D][im:E]
+[jn:F]C[黑1断，白若2则黑3再5，白棋窒息。
+次，白若A则黑B攻杀胜。黑5若C、白D黑B白E黑F白5止变成劫争，黑棋失败。])

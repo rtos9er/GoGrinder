@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[ir][is][dp][dq][co][fp][fo][cj][pp][pn][gq][hq][hp]AW[jq][jr][nq]
+[ip][ho][gp][gr][hr][fq][eq][cn]LB[go:A][io:B][jp:C][hn:D]C[第25图 白先 A级
+绝妙
+白A黏的话，会被黑B白C黑D征吃。
+为应付这种危机，白棋想出绝妙手法。本题尚有可供发挥的空间。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[iq]MULTIGOGM[1]
+;W[eo]
+(;B[ep]C[参考图]N[参考图];W[go];B[io];W[jp];B[hn];W[gn];B[gm];W[fn];B[en];W[fm]
+C[白1为碰之手筋。
+黑若2应，白3以下11止逃掉了。如此一来，黑棋崩溃。
+白1为凄厉的手法。])
+(;B[go]MN[2]C[正解图]N[正解图];W[ep];B[io];W[bo];B[bp];W[do];B[cp];W[dm];B[jp]C[对白1碰，黑必须2位应。
+如此，白3黏以下至8止，逃出白四子，但因为右方白子遭到痛击，黑不致人财两失。]))

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cp][cn][do][eo][fo][fm][dq][pq][pn][op][bq]AW[qo][qm][dk][dm][cm]
+[iq][fq][ep][dp][cq][cr][br]C[第39图 黑先 A级
+弃子之妙
+左下角的白棋在下边二间拆，似乎已经安定，但黑棋未尝没有攻击手法。
+想太多会搞迷糊的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[bp]MULTIGOGM[1]
+;B[hq]C[正解图]N[正解图]
+(;W[hp];B[gp];W[gq];B[hr];W[ir];B[eq];W[gr];B[fp];W[er];B[dr];W[ds]LB[fr:A]C[黑1之碰为手筋。
+白若2则黑3至7接应。白只能8，黑得9提。
+黑7时，白若9黏则黑A，白棋全灭，不行。])
+(;W[hr]MN[2]C[参考图]N[参考图];B[gr];W[gq];B[hp];W[fr];B[ir];W[gs];B[jq]C[黑1碰时，白若2位从下边应，则黑3再5。
+白只好6应，黑7再9，右边成为庞大的黑棋地模样，比前图更有利。]))

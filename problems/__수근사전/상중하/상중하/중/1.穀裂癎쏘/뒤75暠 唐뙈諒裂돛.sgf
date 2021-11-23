@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][pn][qk][qq][jq][jp][jo][jm][hq][fp][dp][cp][em][el][dl][dj][ck]
+AW[dm][cl][do][en][gn][ho][hm][il][kk][lm][lo][lq][nq][pr][ip][cm][cn]C[第75图 白先 A级
+有段者之道
+如何切断下边黑子的问题。手顺很长，第7手和第十三手是关键。
+这个问题，只要手顺正确，自然能够解决，但中途有些曲折。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[bl]MULTIGOGM[1]
+;W[iq]C[正解图]N[正解图];B[ir];W[hr];B[hp];W[io];B[jr];W[gp];B[gq];W[fq];B[gr];W[fr]
+;B[go];W[ep];B[eq];W[fo];B[eo];W[gp]C[白1、3冲断，黑若4、6接应，白7挖再9打，以下至15止为双劫，白至少吃到一边黑子。])

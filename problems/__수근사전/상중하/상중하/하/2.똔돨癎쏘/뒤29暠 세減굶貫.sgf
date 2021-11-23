@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pn][cq][cr][co][cn][dn][dl][fo][go][ho][io][gq][hq][iq][hr]AW[jq]
+[kn][jr][ir][nq][fq][dq][do][eo][en][fm][gn][hm][in][jo][ip]C[第29图 黑先 B级
+技术本位
+被困住的黑八子能否和左方黑子连络？
+技术本位的手筋可愉快渡过。必须一眼即解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[1]
+;B[ep]C[正解图]N[正解图];W[dp];B[er];W[eq];B[fr]LB[dr:A][fp:B][cp:C]C[黑1白2时，黑3跳，白只好4应，黑5渡过。
+黑1若3，白A黑1白4黑2白D黑C白5，攻杀黑负。 ])

@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[dn][eq][er][gn][lj][hl][hk][ik][kk][dp][mj][nk][ok][pk][qk][rl][pp]
+[pn][oq][nr][or][jp]AW[cl][fr][fq][gp][ho][hn][im][il][kl][ll][mn][np][nq][mr][nj]
+[oj][pj][qj][rj][rk]C[第26图 黑先 A级
+算清变化
+下边白地没办法就这么解决的。
+黑棋如何侵削之？要算清楚才动手。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hm]MULTIGOGM[1]
+;B[lr]C[正解图]N[正解图]
+(;W[ms];B[lp];W[lq];B[kq];W[mq];B[no];W[mo];B[mp]C[黑1是夹碰的手筋。
+白若2位抵抗，黑3跳以下9止，吃掉白棋了。
+白2大大无理。])
+(;W[lq]MN[2]C[参考图]N[参考图];B[ms];W[kq];B[mq];W[mp];B[kr];W[jq];B[jr];W[iq]C[黑1夹碰时，白不得不2应。
+黑3渡，白4长至10止退让，只好如此。]))

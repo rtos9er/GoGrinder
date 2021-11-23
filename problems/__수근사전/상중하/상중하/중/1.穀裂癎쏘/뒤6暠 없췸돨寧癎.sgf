@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[lq][lp][nq][np][lm][qp][qq][qr][ro][rn][dp][cn][jr]AW[fq][iq][jq]
+[ir][jo][kn][ln][mn][on][om][qn][oq][pq][nr][or]C[第6图 白先 A级
+绝妙的一手
+下边白四子要和上方白棋连络没问题，但是否有办法吃下边黑六子呢？
+问题很难，藏有令人惊叫的绝妙手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kr]MULTIGOGM[1]
+
+(;W[mp]C[正解图]N[正解图];B[mq];W[po]LB[mo:A][mr:B]C[白1为绝妙手筋，不但连回白四子，而且杀掉黑棋，为一石二鸟的手筋。
+黑若2则白3，到此为止。黑2若A，白B黑2白3，到此为止。])
+(;W[mr]C[参考图]N[参考图];B[op];W[pp];B[po];W[oo];B[qo];W[lr];B[kq]LB[no:A]C[白若1，黑2以下至8止成为攻杀，此一攻杀，白慢一气，请自行研究。
+白1若2，黑A白5黑1活了。]))

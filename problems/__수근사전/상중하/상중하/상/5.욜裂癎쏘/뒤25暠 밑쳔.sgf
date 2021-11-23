@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[fp][fo][gn][pp][pn][dp]AW[nq][hq][ho][go][fn][eo][cn]C[第25图 黑先 A级
+关门
+不想被人家让子，就要通过这一关。找出突破白棋包围的最佳方法。
+定石书中有这一形，因会在实战出现，所以采用。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ep]MULTIGOGM[1]
+
+(;B[dn]C[正解图]N[正解图];W[dm]
+(;B[em];W[fm];B[el];W[en];B[do];W[dl];B[dk];W[ck];B[ek];W[gm];B[cj];W[bl];B[bk]
+;W[cl];B[bj];W[bo];B[bm];W[am];B[bp]C[黑1为跨之手筋。白2时，黑3是和1关连的手筋。白4时，黑5为要着。以下至黑17止，白负。
+次，白若18，黑19即可。])
+(;B[en]MN[3]C[参考图]N[参考图];W[fm];B[em];W[el];B[do];W[dl]C[黑1不错，但白2时，黑3是初学者的通病。白4以下8止，黑棋被关在角内，白外势变厚。
+黑3非于5位扳不可。]))
+(;B[en]C[参考图]N[参考图];W[fm];B[em];W[el];B[fl];W[gm];B[dl];W[ek];B[dm];W[dk]
+;B[ck];W[cj];B[bl];W[bj];B[cp]LB[dn:A]C[黑下1、3则是俗手。
+白4以下至黑15止黑实利大也不坏。但黑1于A位跨才是本筋。]))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[jr][ir][kn][in][gn][hq][gq][ip][gk][ek][cj][pp][mp][mn][lq]AW[hr]
+[gr][fq][eq][cq][cl][em][iq][jq][jp][kp][qn]C[第64图 白先 B级
+细算
+陷在黑阵中的白四子能否脱困。
+就算想出第一着手筋，后面也要有正确的细算才能搞定。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[1]
+;W[ho]C[正解图]N[正解图];B[gp];W[go];B[fp];W[fo];B[ep];W[dp];B[eo];W[en];B[do];W[co]
+;B[dn];W[cn];B[dm];W[dl]C[白1之点为手筋。黑若2逃，白3以下至15止追杀，黑棋断念。
+白下出1时，黑2算清变化只好收兵。])

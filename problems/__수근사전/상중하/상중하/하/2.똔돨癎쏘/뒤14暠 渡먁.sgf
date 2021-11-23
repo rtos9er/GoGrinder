@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qn][oq][nq][mr][lr][iq][ir][hr][gr][gq][fp][cr][cq][cp][do][dn]AW[mq]
+[kq][kr][jp][ip][hq][gp][go][fo][eo][eq][dp][dr][mp][np]C[第14图 黑先 B级
+预感
+被困住的黑六子，能否和角上黑棋连络。
+这种问题，与其沉思答案，不如用第一感解决。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;B[er]C[正解图]N[正解图];W[dq];B[fq];W[ep];B[ds]LB[es:A][fs:B]C[黑1夹碰为手筋。白若2，黑3再5渡过。
+黑1若3、白4黑1白A黑B变成劫争，所以，手顺很重要。])

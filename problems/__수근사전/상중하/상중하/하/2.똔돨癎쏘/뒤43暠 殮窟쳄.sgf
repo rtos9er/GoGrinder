@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[jo][po][pq][pp][on][pr][qm][qk][lo][jn][in][qn][il][gl][el][cl][co]
+[bo][dp][fp][gq][kr][kq][kp]AW[mp][rq][qr][ro][qo][rn][fn][nq][lp][mn][ko][kn][km]
+[kl][jp][jq][iq][io][ho][hn][dn][cn]C[第43图 黑先 B级
+直线美
+下边黑三子被吃，但黑子若能逃出，左方白棋大龙反而不活，问题很大。
+黑找出相对手段，就能一举获胜。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[jl]MULTIGOGM[1]
+;B[ks]C[正解图]N[正解图];W[hr];B[ms]LB[os:A][or:B]C[下边黑三子于1位立，左右总有一边可渡过。
+白若2，黑3（或A）渡，白2若B则黑2从左边渡。])

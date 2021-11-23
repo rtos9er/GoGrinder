@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[do][cn][bn][cl][fp][jp][po][qp][pm][cr][cq]AW[co][cp][bp][bq][br]
+[dq][fn][dn][dm][lp][np][pq]TR[dq]C[第14图 黑先 C级
+自然死
+若能将白▲子吃掉，角上白棋就死了。
+吃这颗白子的手法应该简单可算出，此亦为宽气征子之形。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[dr]C[正解图]N[正解图];W[eq];B[er];W[fq];B[gq];W[fr];B[gr]C[简单的宽气征子。
+黑1白2时，黑3至7可吃掉白子。一看到此形就必须知道手筋才行。])

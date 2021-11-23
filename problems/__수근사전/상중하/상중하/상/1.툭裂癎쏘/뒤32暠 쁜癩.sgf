@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[do][dn][ep][fp][gp][go][mp][oq][dm][bp][bo]AW[qp][po][eo][fo][fn]
+[fm][el][cl][bm][ap][bq][cp][dp][dq][dl]C[第32图 黑先 A级
+慧眼
+一看角上白棋的形状，就知道手筋在那里，但要算到底有点难。
+黑棋有两个手筋，取舍是个困扰问题，若能打开慧眼解决，则有四、五段的力量。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[co]MULTIGOGM[1]
+
+(;B[dr]C[正解图]N[正解图];W[eq];B[er];W[fq];B[gr];W[fr];B[fs];W[gq];B[hq];W[cq]
+;B[hr];W[cr];B[es];W[ar];B[bs];W[cs];B[ao];W[bn];B[gs];W[an];B[ds]C[黑1为碰之手筋。
+白若2冲，黑3以下至17止攻杀，成为劫争，但这是黑棋的宽气劫，白不利。])
+(;B[cr]C[参考图]N[参考图];W[dr];B[br];W[cq];B[er];W[ar];B[bs];W[ds];B[ao];W[aq]
+C[黑若1位点，白2黑3时，白4至8接应，成为攻杀。
+此一攻杀，白棋七气，黑棋六气，显然是白胜。黑棋失败。]))

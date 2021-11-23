@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ep][en][co][cj][pp][dq]AW[cp][cq][dr][eq][fq][gp][jq]LB[bo:A]C[第49图 黑先 B级
+子的效力
+左下角黑A立不会有问题，但是落了后手。
+黑棋同样要落后手的话，是否有更好的办法。能这样想自然会找出手段。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[cr]C[正解图]N[正解图];W[br];B[bq];W[bp];B[bo];W[cs]C[黑先手整形的话，黑1断有力。白2时，黑3至白6可先手整形。
+黑1若单在5位立则落后手，不能中意。])

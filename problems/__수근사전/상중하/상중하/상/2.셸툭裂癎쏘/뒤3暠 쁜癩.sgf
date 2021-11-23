@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[mp][nm][ol][lm][iq][jm][in][dp][rq][qr][ps][or][nq][no][ir][js][kr]
+[hp][gq]AW[rp][pr][pq][po][qm][qk][qp][cn][ip][jr][jq][jp][jo][ko][lo][mo][kq][lq]
+[lp]C[第3图 白先 A级
+慧眼
+陷在黑阵中的白子只有一眼，要下点功夫做出另一眼。
+要点在微妙之处，但即使同样的手筋，也不能弄错手顺。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[io]MULTIGOGM[1]
+;W[nr]C[正解图]N[正解图]
+(;B[ns];W[mr];B[oq];W[ms];B[ks];W[os]C[白1是夹碰的手筋。
+黑若2，白3再5时，黑必须6应，故白7止成劫。
+黑6若7黏则白6扑，净活。])
+(;B[mr]MN[2]C[参考图]N[参考图];W[lr];B[ks];W[ls];B[is];W[ns];B[mq];W[ms]C[白1时，若能叫黑2应，则白3以下9止活了。
+白1若3，黑4白5黑6白1时，这次黑棋含有在7位扳。所以，白1夹碰才是手顺。]))

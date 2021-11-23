@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[hq][hr][io][pp][qm][br][bq][cp][dp][ep][eo][fo][gp][gq][ho][hp]AW[fr]
+[eq][gr][go][gn][fn][cn][im][jo][ip][iq][ir][nq][cr][fp][fq]C[第25图 黑先 B级
+松就失败
+被分断的黑八子，还有可能逃出吗？看得出来，黑子和左方白子攻杀，黑慢一气。
+只能想办法从右方逃出。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hs]MULTIGOGM[1]
+
+(;B[jp]C[正解图]N[正解图];W[ko];B[kq];W[kr];B[jr]C[黑1断为手顺。白若2应，黑3尖为手筋，白若4则黑5，黑胜。
+黑吃到这三颗白子，连带角上白棋也死了。])
+(;B[jn]C[参考图]N[参考图];W[in];B[jp];W[ko];B[kq];W[hn]LB[jr:A][jq:B][kp:C][is:D]
+[kr:E][lq:F][lr:G][js:H]C[黑若1位扳出，白2至黑5时，黑可6位紧气，攻杀黑负。黑5若A、白B黑5白C黑D白3黏黑E白F黑G止，白胜。]))

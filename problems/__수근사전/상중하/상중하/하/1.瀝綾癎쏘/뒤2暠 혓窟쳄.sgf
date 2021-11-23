@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[do][dn][eq][jp][kp][jq][jr][lo][ln][lm][io][ho][go][jk][nl][pn][pp]
+AW[eo][hr][jo][ko][in][km][lp][lq][kq][nq][pl][qj][oj][mj][kj][fp][gp][hp][ip]C[第2图 黑先 A级
+曲线美
+问题复杂。必须同时使用门和征的手筋才会成功。途中，白棋看出征子就必须罢手。此形不易用目算解答。
+这是长达27手的大作品。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[jm]C[正解图]N[正解图];W[jn];B[hm];W[im];B[il];W[jl];B[hn];W[ik];B[hl];W[kl]C[黑1碰为急所之一击。和白2交换之后，黑3门为本题的主题。知道这个手筋，问题自然解决。
+白4、6时，黑7攻击，白不得不8、10接应。]
+;B[kn]C[续前图]N[续前图];W[jm];B[kk];W[ll];B[lk];W[ml];B[mk];W[mm];B[nm];W[mn];B[mo]
+;W[nn];B[no];W[on];B[om];W[oo];B[op]C[黑11叫吃再13追杀，以下描出曲线美，至27止漂亮地将白生擒。
+这是练习细算能力的好材料。])

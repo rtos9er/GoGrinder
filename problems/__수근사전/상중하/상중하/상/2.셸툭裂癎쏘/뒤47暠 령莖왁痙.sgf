@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[dr][dp][pp][nq][mq][lr][kr][kq][jp][jo][io][ho][go][fo][fp][dq]AW[mp]
+[jq][jr][ks][ip][hp][gp][fq][fr][er][cq][cp][cn][kp][qn][lp]C[第47图 黑先 A级
+飞天课题
+下边白棋是死是活？
+问题很难，高手也很容易弄错，但要想成为高手，就非得研究清楚不可。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eq]MULTIGOGM[1]
+
+(;B[ir]C[正解图]N[正解图];W[iq];B[hr];W[gr];B[is];W[js];B[ls];W[gq];B[es];W[fs]
+;B[hs]C[黑1是夹碰的手筋。
+黑5重要，以下至黑11止，聚五杀白。
+黑1为非手筋的手筋，妙透！])
+(;B[hr]C[参考图]N[参考图];W[ir];B[hq];W[hs];B[gs];W[iq];B[is];W[gq];B[ls];W[js]
+;B[es];W[hs]C[黑1点普通是手筋，但此际被白2接应，以下白12止，变成劫争。
+此形大家都会下黑1，虽然是常识........。]))

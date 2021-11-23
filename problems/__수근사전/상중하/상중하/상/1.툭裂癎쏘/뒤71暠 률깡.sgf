@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[cm][dq][er][ds][eo][co][cn][bn][pp][pn][iq][io]AW[do][cp][cq][dr]
+[cr][bo][bp][br][nq][kq][ko]LB[eq:A]C[第71图 白先 B级
+伏兵
+下边黑地看起来大致确定了，焦点在于A处有缺陷。
+如何利用这个缺陷来破坏黑地呢?从何处着手，端视找出伏兵所在。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;W[hq]C[正解图]N[正解图]
+(;B[hp];W[eq];B[ep];W[fq]C[白1之碰为手筋。
+黑若2应则白3断，白5止吃到黑一子，破掉了黑地。
+白棋得到大利。])
+(;B[fq]MN[2]C[参考图]N[参考图];W[ir]LB[eq:A][hr:B][ep:C][fr:D][gr:E]C[白1碰，是把3渡和A断当做相对点的手筋。黑2防左边断点时，白3渡过，获利不小。
+白1时，黑若B应，白A黑C白2黑D白E，白胜。]))

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hp][hq][gp][fp][ep][dp][pp][np]AW[dq][eq][fq][gq][qn][qj][ck][ek]
+C[第73图 黑先 B级
+感觉测验
+角上白棋活了，黑如何攻击最好？攻法不同，会生出相当的差异。
+这是鉴定棋力的好题目。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[jp]MULTIGOGM[1]
+;B[cq]C[正解图]N[正解图];W[cr]
+(;B[br];W[ds];B[cp];W[bs];B[ar];W[hr];B[ir];W[hs];B[is];W[fs]C[如何攻击左下角白四子。
+黑1再3连扳为严厉的攻击手筋，白只好4虎，黑5以下至12止，可压缩白形。])
+(;B[bq]MN[3]C[参考图]N[参考图];W[br];B[co];W[hr];B[ir];W[gs]C[黑1白2时，黑若3应则是非筋的恶手。
+白4黑5，黑落后手，白得6再8做活。
+和前图比较，白的活法便宜多了。]))

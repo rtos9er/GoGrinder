@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pp][pr][qo][np][mp][mr][lq][kq][ko][jo][io][jp][ir][hp][gp][fp][ep]
+[dp][cq][cr][bs][ar][bq][bp][bo][cn]AW[cp][co][do][dn][bn][bm][ck][dq][dr][ds][cs]
+[fr][hr][hq][iq][ip][kr][lr][mq][nq][nr][qn][pn][qj][ho][in][hm]C[第48图 黑先 A级
+难问
+焦点在中央黑数子。
+下边白阵似已完整，仔细盯着它的薄味，却藏有巧手。
+本题相当难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fn]MULTIGOGM[1]
+;B[jr]C[正解图]N[正解图];W[jq];B[gr]
+(;W[gs];B[gq];W[hs];B[eq]C[下边白阵尚不完整，有无手段可施？
+黑3挖为手筋，白若4、6接应，黑7止吃掉白四子。])
+(;W[gq]MN[4]C[参考图]N[参考图];B[er];W[es];B[eq];W[fs];B[hs];W[gs];B[js]LB[ks:A]
+C[前图白4以后的变化。黑3时，白若4位应则黑5至白8进行。
+此时，黑9再11，白A无法进子，变成大劫。]))

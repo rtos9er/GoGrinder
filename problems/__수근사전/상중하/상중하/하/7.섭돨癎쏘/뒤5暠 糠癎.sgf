@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[fn][fo][fq][fp][mo][jn][pn][on][np][lp][ko][fm][in][kq][jp][hm][gm]
+[qp][lr][mr][nr][or][pr]AW[mq][lq][mp][kr][jr][ip][hq][ho][hn][im][hl][dq][en][cn]
+[ck][jo][nq][ep][qk][pm][qn][qo][oq]C[第5图 白先 B级
+顺手
+下边白棋还没有完全活掉，如何处理最好？
+考虑一下利用右方被吃的白五子的手法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+;W[jq]C[正解图]N[正解图];B[io];W[kp]LB[kn:A][jm:B]C[白1为挤之手筋。
+黑只好2提，白3提劫。
+白1时，黑2若3黏被白A切断、黑2白B止，白可吃到黑三子。])

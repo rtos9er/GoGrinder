@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dq][dp][do][dn][en][em][co][ck][pp][np][jq]AW[qn][dr][fq][cq][cp]
+[bo][cn][cm][dm]TR[dr]C[第15图 黑先 A级
+最佳处置
+现在白棋在左下角▲位扳。
+对之，黑棋如何处置最佳。这是显示着手次序重要性的一个例子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[gp]MULTIGOGM[1]
+
+(;B[bn]C[正解图]N[正解图];W[bp];B[er];W[cr];B[eq];W[dl]LB[dk:A]C[此形，黑1断进去再3挡才是好手顺。
+如此，白只能6位出头。6不能A碰是黑1的效果。])
+(;B[er]C[参考图]N[参考图];W[cr];B[eq];W[dk]LB[bn:A][dl:B]C[黑棋不照前图于A位断而单于1位挡的话，白2黑3黏之后，白可4位碰，和前图生出大差异。前图的白4在B愚形出头，本图则可生动的4碰。]))

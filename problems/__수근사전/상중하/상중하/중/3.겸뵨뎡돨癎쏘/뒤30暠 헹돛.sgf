@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[eq][dp][co][cn][cm][pp][mq]AW[er][fr][fq][fp][fn][dn][do][cq][jq]
+TR[cq]C[第30图 黑先 A级
+求道
+授子棋经常出现之形。目前白▲觑，黑棋如何处理才对？
+黑应如何才不致使白棋太高兴。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dr]MULTIGOGM[1]
+;B[cr]C[正解图]N[正解图]
+(;W[cp];B[bp];W[bq];B[br];W[aq];B[dq];W[bo];B[ar];W[ap];B[an]C[授子棋所下出之形。
+黑1为好棋，白2断时黑从3位扳是手筋，以下至11止，黑胜。
+白2只能在7位断。])
+(;W[dq]MN[2]C[参考图]N[参考图];B[bq];W[ep];B[cp]TR[cq]C[白▲点时，黑1的应法正确。
+白大致上2断，黑3再5接应。对白▲，黑1若2被白下到1位或5断，黑棋均恶。]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dn][el][fn][gn][fo][fp][kp][jp][jo][jn][jm][jl][lo][mo][no][mp][nm]
+[om][on][qm][pp]AW[cl][go][gp][gq][gm][hm][hn][hk][jj][lj][nj][nl][mm][nn][kn][ln]
+[ko][iq][kr][lp][lq][mq][nq]C[第20图 黑先 C级
+急所一个
+实战下出的形，场面大但急所只有一个。
+被白棋包围的中央黑六子，如何找出白棋的缺陷而脱困？不能太大意。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[lm]C[正解图]N[正解图];W[ll];B[km];W[ml];B[mn]C[黑1是夹碰的手筋。
+白只好2位应，黑3再5吃掉白子。
+因为是实战经常出现之形，值得一记。])

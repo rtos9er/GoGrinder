@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dq][eq][er][es][fp][eo][fm][dl][op][pq][bq]AW[co][cp][cq][dp][ep]
+[dn][fq][fr][hq][qo][pm]C[第20图 白先 A级
+下棋要交换
+被黑棋切断的左右白子，如何处置呢？
+白棋下得不好的话，很可能被双击，问题很大。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cr]MULTIGOGM[1]
+;W[fn]C[正解图]N[正解图];B[gn];W[go];B[gp];W[ho];B[fo];W[en];B[hp];W[ip];B[io];W[hn]
+;B[iq];W[jp];B[gq];W[gm]C[白1为跨之手筋。黑2时，白3是关连的手筋。
+黑4以下15止成为交换，白棋外边势力变强，故为白棋有利。])

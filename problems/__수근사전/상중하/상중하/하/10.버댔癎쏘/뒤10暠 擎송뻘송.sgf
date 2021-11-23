@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ep][fp][eq][go][pp][np][nn]AW[fr][fq][gp][hp][cn][fo][lq][qn]TR[fo]
+C[第10图 黑先 B级
+讨价还价
+授子棋碰挡定石下出之形。
+此刻，黑棋应该如何处理？
+围绕▲子的攻防中，双方都会讨价还价一番。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[1]
+;B[fn]C[正解图]N[正解图];W[eo];B[dn];W[gn];B[ho];W[en];B[em];W[fm];B[do];W[fn];B[ip]
+;W[iq];B[io];W[hr];B[fl];W[gl];B[el]C[黑1时，白2无理，以致生出黑3导致滚打的手筋。
+白若4、6逃，黑7、9滚打，把白棋弄成团子，成为黑有利之形。])

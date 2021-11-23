@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dr][er][eq][fq][cq][cp][do][eo][jj][pq][op]AW[cr][co][dq][dp][ep]
+[fp][gp][fo][qo][pm]C[第48图 白先 B级
+整形术
+被黑分断的白子，无法征吃黑二子，必须另外考虑其他办法。
+请想出最有利的处理方法。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[br]MULTIGOGM[1]
+;W[bq]C[正解图]N[正解图];B[cs];W[bp];B[cr];W[cn]C[白棋如何处理这个角呢？
+白从1位切断是手筋，黑只好2提，白3再5，白形变得有利。])

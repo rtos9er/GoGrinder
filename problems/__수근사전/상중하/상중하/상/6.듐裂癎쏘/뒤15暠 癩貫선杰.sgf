@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[eo][en][gq][hp][ip][jq][kr][lr][qn][qk][bq][cp][co]AW[oq][mq][mr]
+[qp][kq][kp][jp][io][jn][fo][fp][eq][dp][cq][cr][br]C[第15图 白先 B级
+眼位急所
+下边黑棋生死问题。
+普通是活形，但白棋用巧妙的手顺和手筋可置白于死地。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[cl]MULTIGOGM[1]
+;W[jr]C[正解图]N[正解图];B[iq];W[hr];B[ir];W[gr]C[白1黑2先交换之后，白3为点的手筋。
+黑只好4位应，白5退，黑简单死了。
+黑4若5则白4，攻杀白胜。])

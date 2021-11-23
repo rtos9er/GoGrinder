@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fq][pp][qq][rp][po][pn][qn][qm][ql][pk][ok][ol][nm][mm][mk][kl][jl]
+[hk][dp][co]AW[qj][pj][cm][cj][hq][ho][im][jm][ln][mn][no][nq][on][om][pm][pl][qo]
+[ro][rn][rm][rl][qk]C[第37图 黑先 B级
+便宜活法
+只想做活右下角黑棋不是问题，但同样要活的话，总是要用最有利的活法。重点在于紧紧咬住白棋的薄味。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[fo]MULTIGOGM[1]
+;B[np]C[正解图]N[正解图];W[mp];B[op];W[mo];B[mq];W[lq];B[mr];W[nr];B[lr];W[kr];B[kq]
+;W[ls];B[lp];W[ms];B[lq];W[jq];B[jr];W[ks];B[jp];W[iq];B[or];W[ir];B[oq];W[ns];B[os]
+;W[js];B[kn];W[km];B[lm];W[ko]LB[oo:A]C[对黑5，白有6、8、10的手法至16逃出，但黑25止不但先手活了，还留有黑A吃白的手段，黑收获很大。])

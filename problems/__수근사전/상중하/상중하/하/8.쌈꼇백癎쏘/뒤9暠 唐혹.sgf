@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[io][in][hq][gq][fq][ep][dp][do][dn][en][ck][pp][pn]AW[nq][kq][iq]
+[ir][hp][ho][gn][gl][fo][eo][fp][eq][er][cq]C[第9图 黑先 B级
+有趣
+下边黑三子死了，只能针对上方白棋包围网的缺陷，寻找活路。
+中央也会出现接不归，有趣吧！
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[ip]MULTIGOGM[1]
+;B[gm]C[正解图]N[正解图];W[hm];B[hn];W[fm];B[go];W[fn];B[gp]C[接不归的情形也会出现在中央。
+黑1挖，白2再4时，黑5扑，白6时黑7吃通。
+白6若7提则黑6，白子接不归。])

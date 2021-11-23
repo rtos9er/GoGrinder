@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[hq][do][dm][en][gm][fm][hm][im][jn][ko][kq][kr][nq][ir][is][dp][js]
+[gq][fq]AW[co][pp][pn][cq][cp][cn][cm][dn][eo][gn][hn][gp][hp][ip][jq][jr][hr][iq]
+[fo]C[第5图 白先 A级
+打钉子
+被包围的一团白子不活。但对下边黑子，白有否手段可施？
+知道死中求活的手筋之后要细算清楚很难。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[dq]MULTIGOGM[1]
+;W[eq]C[正解图]N[正解图]
+(;B[dr];W[er];B[es];W[gs];B[ep];W[fr];B[fp];W[cr]LB[gr:A]C[白1为巧妙的手筋。
+黑2也有3的应手。
+白5为绝妙手筋，以下至白9止，黑负。黑6于7、白6黑A的下法，可减少损失。])
+(;B[er]MN[2]C[正解图]N[正解图];W[gr];B[ep];W[fp];B[cr];W[fr];B[br];W[eq];B[fq]C[白1时，黑若2应，白3为巧妙的手顺。
+黑4至白7止，白吃掉黑三子，白棋活了。]))

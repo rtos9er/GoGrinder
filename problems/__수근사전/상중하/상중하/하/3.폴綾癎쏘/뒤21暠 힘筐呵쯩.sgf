@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[mo][gn][km][jm][co][bm][cn][cp][cq][jq][iq][hp][dm][em][fm][fn][hn]
+[ln][in][pp]AW[qn][jn][jo][ip][kq][ho][go][ep][eq][do][dn][en][cm][cl][ck][ek][gl]
+[im][hq][il]C[第21图 黑先 A级
+塞翁失马
+相当难的问题。被困住的黑七子有没有活路？
+想办法冲下边白棋的缺陷，逐渐会找到巧妙手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[1]
+;B[gp]C[正解图]N[正解图]
+(;W[gq];B[fp];W[fo];B[io];W[fq];B[jp]C[被困住的黑子，用黑1、3的弃子可找出活路。
+白若2、4接应，黑5再7即可。白2若5位应则生出次图的变化。])
+(;W[io]MN[2]C[参考图]N[参考图];B[dp];W[eo];B[fo];W[fp];B[gq];W[hr];B[gr];W[jr];B[hs]
+;W[ir];B[er]C[黑1时白若2黏，黑再3挤为手顺。
+白4黏时，黑5再7以下为细算手筋，白12时黑13碰，吃到白棋。]))

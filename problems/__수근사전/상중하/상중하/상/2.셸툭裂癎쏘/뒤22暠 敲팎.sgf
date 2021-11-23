@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ho][jo][pp][qo][nq][dp][eq][cn][dn][dm][dl][fn]AW[er][dr][fq][cq]
+[hp][kp][lq][qm][cm][cl][dk][cj][qj]C[第22图 黑先 B级
+突破
+下边白地明显不完整，但怎么动手比较好呢？
+黑棋手法不同，结果大不一样。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[hn]MULTIGOGM[1]
+
+(;B[hq]C[正解图]N[正解图];W[gp];B[jq]C[黑1是夹碰的手筋。
+白2应时，黑3跳是和1有关连的手法可分断左右白子。])
+(;B[ip]C[失败图]N[失败图];W[iq];B[hq];W[gp];B[jq];W[ir];B[jp];W[jr]C[黑若1则白2，至白6时，黑只能7黏，白得8渡，下边地域没减掉多少。
+黑1若4，则白3就连络了。]))

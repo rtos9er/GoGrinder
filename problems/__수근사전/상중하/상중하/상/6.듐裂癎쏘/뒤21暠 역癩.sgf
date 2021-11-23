@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ep][fr][pq][op][bq][bp][cp][do]AW[qo][br][cq][dq][dp][eo][er]LB[dn:A]
+[dr:B][gq:C][ar:D]C[第21图 黑先 A级
+开眼
+黑A白B黑C白D做活是普通的结果，黑棋是否可以想出更紧凑的手法呢？
+若能在实战中解决这个问题，你的棋力又上一层楼了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[1]
+;B[ds]C[正解图]N[正解图];W[cr];B[dn]LB[dr:A][gq:B][ar:C][es:D]C[黑1为点之手筋，白经此一击就死了。
+白若2则黑3，到此为止。黑1若3则白A黑B白C活。另外，黑1若D则白2黑3白1成劫。])

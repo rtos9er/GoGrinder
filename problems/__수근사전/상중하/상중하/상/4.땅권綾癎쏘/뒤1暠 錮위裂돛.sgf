@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[fn][lp][lo][ln][lm][ll][kq][mj][jr][jq][jp][ip][hp][ir][eq][er][fr]
+[dp][cp][co][cn][cm][lr][fm][gm][hm][il][hk]AW[lq][pq][po][qn][ql][mq][kr][ks][kp]
+[ko][km][kl][jn][im][hn][ho][gn][fo][fp][fq][hq][hr][ep][do][dn][kk][gq]C[第1图 黑先 A级
+脱困之道
+下边黑七子做不活。但因右方白形不完整，是否可藉攻击而脱困。
+难的在于弄清变化。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]AB[qo]MULTIGOGM[1]
+;B[nq]C[正解图]N[正解图];W[mr];B[nr];W[mp];B[np];W[mo];B[no];W[mn];B[nm];W[nn];B[on]
+;W[om];B[mm];W[ls];B[oo]C[黑1是顶鼻子手筋。
+白2以下至白8时，黑9跳封，攻杀黑胜。白棋看到黑1碰时，只好断了吃黑的念头。])

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[cq][dq][dp][ep][fp][dn][en][fm][ek][fk][gk][hk][ij][jj][kk][ml][mo]
+[pn][pp]AW[lp][nq][ol][ql][ik][il][hm][go][hq][fr][eq][dr][cp][bp][cn][cm][dl][dk]
+[cj][ej][fj][gj][hj]C[第24图 黑先 B级
+大龙不死
+左下角黑棋自己做不活，要针对白形的缺陷去找活路。
+这是龙长三尺不死的好例子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[bq]MULTIGOGM[1]
+;B[fq]C[正解图]N[正解图];W[er];B[hp];W[iq];B[in];W[hn];B[io];W[jm];B[ko]LB[gp:A]
+[gq:B][gr:C][hr:D][ho:E][gn:F]C[黑3为跨之手筋。白若4应，黑5又是手筋，白若6，黑7再9，攻杀黑胜。黑3时，白4若A则黑B白C黑4白D黑E白F黑5白8黑9即可。])

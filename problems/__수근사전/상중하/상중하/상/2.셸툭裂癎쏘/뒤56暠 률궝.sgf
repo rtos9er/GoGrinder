@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[bn][dm][em][fm][gn][iq][kq][dq][cp][do]AW[pp][dn][en][eo][ep][eq]
+[gq][bm][cm][dl][ck]C[第56图 白先 A级
+伏笔
+角上黑地有棋，白棋可趁攻击时愉快做活，但要找出巧妙手段。
+不过，算清楚变化毕竟不是容易的事。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[cn]MULTIGOGM[1]
+;W[cq]C[正解图]N[正解图]
+(;B[bq];W[cr];B[dp];W[dr];B[bo];W[br];B[ar]C[白1是夹碰的手筋。
+黑大致2位应，白3以下黑8止，黑活，但白棋就这样先手活了。])
+(;B[cr]MN[2]C[变化图]N[变化图];W[bq];B[dp];W[dr];B[er];W[ds];B[cs];W[bp];B[es];W[dr]
+;B[ds];W[bo];B[hr];W[co]C[对白1，黑若2位打，白3黑4时，白5、7利用弃子至13止，黑不得不14逃生，白得15断，黑大损。]))

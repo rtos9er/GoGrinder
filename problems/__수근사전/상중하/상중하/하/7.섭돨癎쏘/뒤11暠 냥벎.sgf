@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dp][co][dn][dj][cj][fj][pp][pn][fr]AW[nq][jq][er][dq][cq][dm][cm]
+[dk]LB[fq:A][ep:B][gr:C][dr:D][es:E][cr:F]C[第11图 白先 A级
+成果
+左下角的问题，若是白A黑B白C黑D白E黑F接应的话，不值得在此处一提吧！要想办法做更佳的处理，才有研究的价值。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[eq]MULTIGOGM[1]
+;W[cp]C[正解图]N[正解图];B[ep];W[bo]LB[fq:A]C[白1为挤之手筋。
+黑大致上2黏，白3和上方白子连结。
+黑2若A黏，白仍可3渡。
+白1为巧妙手筋。])

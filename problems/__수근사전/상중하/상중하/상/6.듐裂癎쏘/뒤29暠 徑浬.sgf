@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lp][mp][np][mn][po][qp][fq][gp][iq][kq]AW[dq][do][cn][kp][ko][io]
+[km][lq][lr][nq][oq][qr][rq]C[第29图 白先 A级
+逃走
+下边黑五子尚未完全安定，白棋是否能夺其根据，逼迫黑棋往外跑。
+第一着手筋马上可知道，但后面需要细算。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kr]MULTIGOGM[1]
+;W[gr]C[正解图]N[正解图];B[fr];W[hq];B[hp];W[ir]LB[hr:A][gq:B][eq:C][gn:D]C[白1为点的手筋。黑若2应，白3再5，吃右方黑二子而逃生。
+对白1，黑大致上A应，白2黑B白C黑D。])

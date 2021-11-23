@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[nq][mq][lp][kp][jp][dp][fq][fo][fm][fk][co][pp][qp][pr]AW[qn][qk]
+[cj][cm][or][nr][mr][lq][kq][ir][hq][ho][hm]C[第16图 黑先 C级
+时机
+下边到中央出头的白棋似已连结，但黑棋展开攻击，可将之分断。
+必须一看形状就知道手筋。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[oq]MULTIGOGM[1]
+;B[ip]C[正解图]N[正解图];W[hp];B[jr];W[jq];B[iq];W[kr];B[hr];W[js];B[gr]LB[ks:A]
+C[黑1白2先手交换之后，黑3为跨之手筋。
+白4以下至黑9止，白棋被裂开。
+白4若6，黑5白7黑A，白渡不过去。])

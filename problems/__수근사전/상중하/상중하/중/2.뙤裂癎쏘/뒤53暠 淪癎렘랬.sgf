@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[gp][fp][eo][en][dn][cn][bo][pq][op][hq]AW[bp][co][do][ep][dq][fq]
+[gq][hr][iq][qo]C[第53图 黑先 A级
+着手方法
+有没有手段可破坏左下角白地？
+白棋是到处都有缺陷的薄形，重点在于黑从何处下手。手顺正确与否很要紧。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hp]MULTIGOGM[1]
+;B[gr]C[正解图]N[正解图];W[ir];B[cp];W[dp];B[fr];W[eq];B[cq];W[cr];B[bq];W[br];B[ap]
+;W[er]C[黑1断白2黏的话，此时黑3断，白若4黏，黑5叫吃为手顺，至白6黑7止，白8以下12不得不让步。
+黑先手赚取利益。])

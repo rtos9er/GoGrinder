@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[bp][bo][fq][fp][fo][fn][fm][pp][mq][cp][dq][dr]AW[eq][ep][co][do]
+[bn][cl][fl][gl][gm][ho][hq][fr][gr][cj]C[第35图 黑先 B级
+多算几步
+中央黑五子好像已经被吃去，但切忌过早放弃。
+白如果不让黑棋生还，反而无理行动，将自取灭亡。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[er]MULTIGOGM[1]
+;B[eo]C[正解图]N[正解图];W[dp];B[cm];W[dm];B[dn]C[黑1时，白若2位黏，则黑棋生出3碰的手法。白4时黑5，吃到五颗白子。
+所以，黑1时，白棋不能2黏，只能4位补一手，让黑吃三子。])

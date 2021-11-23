@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[en][em][fm][gm][ir][io][ip][kp][jq][nq][hr][fr][eq][fq][gq][es][cn]
+[ar][bq][cp][bo]AW[er][pp][pn][br][dr][dq][cq][dp][ep][gp][hp][hq][iq][eo][fn][gn]
+[fp]LB[cs:A][bs:B]C[第71图 白先 B级
+精华
+左下白棋，白若A则黑B，劫活。但白棋能否不打劫而成活呢？这是手筋中的精华。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[hm]MULTIGOGM[1]
+;W[gs]C[正解图]N[正解图];B[gr];W[bs];B[ds];W[fs];B[hs];W[fs]C[白1为点之手筋。
+黑若2黏，白3至黑6提两子时，白7于5位扑，可使尾巴黑子接不归而活。])

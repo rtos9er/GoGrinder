@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ro][qo][pp][oo][np][nq][mq][lr][hn][jq][nn][mn][ln][km][kl][jn][in]
+[fk][im][ho][go][fo][fn][ep][dp][cp][co][bo][ao][bk][ck][dk][ej][gj]AW[bp][bn][cn]
+[bl][cl][el][en][gn][gm][gl][gk][hm][il][jl][jm][ij][kk][lk][ml][ol][pk][on][pn]
+[qn][no][mo][mp][lp][lq][kp][jp][ip][iq][gq][fq][dq][cq][bq]C[第21图 黑先 A级
+大龙不死
+问题图棋形大。
+左下角到中央的黑棋大龙。频临死地。找不出白棋包围网的缺陷，无法解决问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[1]
+;B[em]C[正解图]N[正解图];W[dl];B[dn];W[fl];B[eo]LB[fm:A][dm:B]C[黑1挖，白2至5止，黑简单可活。
+白2即使A断，黑B白2黑3白4黑5，结果一样。初学者黑1若下在A位则无解。])

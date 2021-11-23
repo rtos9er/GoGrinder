@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cq][cr][dn][dm][fn][gn][fp][hq][hr][ir][pp][pn]AW[nq][kq][jr][iq]
+[ip][is][dr][eq][ep][eo]C[第30图 白先 B级
+轨道
+被困住的白四子，是否能和右边白子连络？
+因右方黑形有缺陷，找出攻击的轨道，自然能解决这个问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;W[hp];B[gp];W[gq];B[fq];W[fr];B[gr];W[gs]C[角上白四子想和右方连络的话，要从白1下手，至白5打出巧妙的手筋。
+黑只好6，白7愉快渡过。])

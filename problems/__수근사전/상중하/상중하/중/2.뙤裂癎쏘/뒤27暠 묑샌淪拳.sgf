@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][bq][cp][dp][dm][fp][gq][hr][ir][ep][gn][gl][il][im][el][em]AW[jm]
+[bp][co][do][eo][fo][cn][cm][dl][dk][gp][hp][hq][iq][jq][lq][in][kn]LB[bo:A][cr:B]
+C[第27图 白先 B级
+攻击着想
+左下角黑地，若白A黑B，黑有十五目，白是否可不A黏而先攻黑子。
+手法立刻可看出，但必须是双方都做最佳的处理。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[go]MULTIGOGM[1]
+;W[fq]C[正解图]N[正解图];B[gr];W[cq];B[dq];W[cr];B[dr];W[br];B[fr]LB[bo:A][eq:B]
+[ap:C]C[白1黑2时，白3断为严厉的手筋。
+黑4若A、白B黑C白4黑黏白7止，攻杀黑负，所以，黑不得不4以下至8让步。])

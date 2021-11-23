@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dq][ep][dp][co][pp][mq][gr][fr]AW[cr][dr][eq][fq][fp][hq][hr][kq]
+LB[bq:A][br:B]C[第98图 黑先 B级
+细算
+左下角的攻杀。黑若A则白B，攻杀明显黑负，所以，第一手会考虑B碰，后面变成细算问题。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[er]MULTIGOGM[1]
+;B[br]C[正解图]N[正解图];W[bq];B[cq];W[bs];B[ar];W[aq];B[ds];W[as];B[br];W[ar];B[es]
+;W[cs];B[bp]C[黑1之碰为手筋。
+白只好2应，黑3切断，利用弃子，以下至13止，攻杀黑胜。])

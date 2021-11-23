@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[cr][cq][dq][dp][em][bn][cn][dn][am][pp][fm][gn][gp][ip][io][jq][lq]
+[lp][mr][nq]AW[bm][cm][dm][bk][el][do][en][eo][ep][eq][dr][fq][iq][ir][jr][kr][lr]
+[qn]C[第2图 黑先 B级
+挖心掏肺
+有个手法，可将白棋全部吃掉，重要的是着手顺序。能找到挖心掏肺的痛烈手段才能解决。
+谁都能吃到一半的白子，这是不够的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[1]
+
+(;B[fr]C[正解图]N[正解图];W[er];B[hr];W[gr];B[hq]C[黑1碰为手筋，手顺正确。
+白若2则黑3再碰，白只能吃到黑1之子，活不成。
+黑1、3妙吧！])
+(;B[hr]C[参考图]N[参考图];W[hq];B[gq];W[gr];B[fr];W[hs];B[er]C[黑若在1位碰，白2以下至7止，可先手活掉一半。
+同样是碰，但手顺颠倒，结果将大差。
+手顺重要喔！]))

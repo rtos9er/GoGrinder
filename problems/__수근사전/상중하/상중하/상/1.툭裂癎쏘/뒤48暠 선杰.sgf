@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[eq][dn][fm][dl][ik][no][kl][lm][mm][nm][nn][ns][np][mo][op][pp][qo]
+[oq][or][os][fp][ps][dr][cq][dp][ep][jp]AW[gn][fq][er][nq][nr][mr][lq][mp][lo][ln]
+[mn][km][jm][qp][rp][pq][pr][qs][rr][fr][gp][hp][fo]C[第48图 黑先 B级
+急所
+黑棋如何侵削到这块白地？能否取得好处，端视第一着而定。
+围棋的胜负，往往在于官子。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[lk]MULTIGOGM[1]
+
+(;B[lr]C[正解图]N[正解图];W[kr];B[ls];W[kq];B[ks];W[ir]LB[is:A][hs:B][js:C][ms:D]
+[lp:E][kp:F]C[黑1之碰为手筋。
+白只好2、4接应，成为黑5白6止的结果。后面，黑A白B黑C为黑之权利。黑1时，白若D则黑E白F黑3，白子接不归。])
+(;B[ls]C[参考图]N[参考图];W[lr];B[ms];W[jr];B[js];W[is];B[ks];W[ir]LB[lp:A][kp:B]
+C[黑若1位跳，白2至8止，黑比前图稍损。
+黑1时，白若3位隔断，则黑A白B黑2，白接不归。]))

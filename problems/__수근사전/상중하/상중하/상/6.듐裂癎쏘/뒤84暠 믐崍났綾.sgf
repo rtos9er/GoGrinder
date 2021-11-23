@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[dq][eq][er][fr][il][gp][iq][kq][lp][gq][dl][el][fl][gl][cl][dp][eo]
+[en][fn]AW[jq][io][im][jm][go][gn][gm][fo][fp][fq][ep][cp][cq][qp][dn][cr][do][qm]
+[dm]C[第84图 白先 A级
+故障车子
+下边黑棋，左右似已连络，实则不然。遭白一击，黑会被裂开。
+这么一说，黑棋车子显然要故障了。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[1]
+;W[hr]C[正解图]N[正解图]
+(;B[gr];W[ir];B[ip];W[jp];B[jo];W[jr];B[ko];W[hp];B[hq];W[ho]C[下边黑棋似已连络，但白1点可将之分断。
+黑若2黏，白3以下11攻杀，白胜。])
+(;B[ir]MN[2]C[参考图]N[参考图];W[jr];B[jp];W[hq]LB[ip:A][hp:B]C[白1点为巧妙的手筋。
+黑若2应，白3诱黑4再白5冲，黑只能A应，白B可吃到左边黑子。]))

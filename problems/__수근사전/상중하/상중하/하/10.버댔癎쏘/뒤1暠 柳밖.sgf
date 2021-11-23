@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[fr][dp][do][dn][cm][bl][dl][fp][pp][np][eq]AW[qn][dr][dq][cp][co]
+[cn][bn][bm][ep][eo][fq][gq]C[第1图 黑先 A级
+壮观
+下边遭到攻击的黑子，如何处理比较好？
+二路爬活，这是不成为问题的。
+请想点办法，弃掉三子将白封锁。
+http\://www.flygo.net
+飞扬围棋网
+]
+AP[MultiGo:4.4.4]SZ[19]AB[er]MULTIGOGM[1]
+;B[en]C[正解图]N[正解图];W[fo];B[gp];W[go];B[hp];W[gr];B[hn];W[ho];B[io];W[ip];B[hq]
+;W[hr];B[iq];W[in];B[jo];W[gn];B[hm];W[gm];B[gl];W[hl];B[im];W[fl];B[gk];W[fm];B[fk]
+C[下边黑棋的处理方法。
+黑若1、3，白只好4、6，黑7跳封，白8以下至黑25止，黑可压缩白棋制住大势。])

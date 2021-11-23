@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][np][nn][qj][dq][dp][cn][cm][ck][bk][fp][fo][go][ho][io][jo][jp]
+AW[qn][cj][dk][fk][hk][jk][jm][ln][lp][kp][lq][jq][ir][ip][hp][gp][fq][eq][ep][dn]
+LB[eo:A][do:B]C[第43图 黑先 A级
+珍妙
+中央黑七子遭白切断，频临死地。
+黑A白B断的话，黑能否吃掉白子？问题复杂，要看黑的力量。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[1]
+;B[eo]C[正解图]N[正解图];W[do];B[em];W[co];B[bp];W[bo];B[cp];W[en];B[fm];W[fn];B[gm]
+;W[gn];B[hn]C[黑1白2断时，黑3门，吃掉了这块白子。
+白4以下12行动时，黑13挡住，攻杀黑胜。])

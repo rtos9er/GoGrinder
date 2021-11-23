@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[bo][cn][dl][dm][dn][do][dp][eo][fn][gn][fp][fq][es][hq][jr][fr]AW[cs]
+[am][co][bl][cl][cm][fo][go][io][jp][kq][kr][ho][cq][ep][cp][eq][er][bn]C[第34图 黑先 A级
+有棋
+下边的黑棋已经不活，不得不动角上白棋的脑筋。形是不像有缺陷的样子，但如果能找到绝妙手筋，自己会感到很开心的。
+http\://www.flygo.net
+飞扬围棋网]
+AP[MultiGo:4.4.4]AB[pp]MULTIGOGM[1]
+
+(;B[bq]
+(;W[bp]C[参考图]N[参考图];B[dr];W[dq];B[cr];W[ao];B[br];W[ir];B[hr];W[js];B[gp]
+C[黑1之碰为巧妙的手筋。
+白若2位应，黑3至7侵入白地，所以，黑3时，白只好5位黏，让黑4吃三子而活。
+黑1为凄厉的狙袭。])
+(;W[br]MN[2]C[正解图]N[正解图];B[dq];W[dr];B[bp];W[cr];B[ar];W[ao];B[bs];W[as]C[黑1碰时，白若2位应，黑3以下至白10止，变成劫争，白棋比前图有利。
+黑1碰，藏有这样的手段，才不愧为绝妙之筋。]))
+(;B[dr]C[参考图]N[参考图];W[dq];B[bq];W[br];B[bp];W[cr];B[ar];W[bs];B[fs];W[ds]
+C[黑1白2交换之后，黑再3碰则失败。白4应，黑5再7时，白8防劫，攻杀黑负。
+手顺颠倒，结果大是不一样。]))
