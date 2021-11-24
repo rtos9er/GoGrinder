@@ -1,0 +1,15 @@
+(;GM[1]FF[3]AB[qh][qf][qe][pd][od][md][nc][mb]AW[qc][qd][oc][ob]PL[B]C[Black to play and kill.
+(Guan Zi Pu)
+Consider the exchange Black A, White B, or else it will become a ko.]LB[pc:A][pb:B]AP[MultiGo:3.9.3]SZ[19]
+(;B[pc];W[re]
+(;B[pb];W[qb];B[rf];W[se]
+(;B[qa];W[ra];B[sb];W[sc];B[rc];W[rd];B[sd])
+(;B[rb];W[ra];B[rc];W[rd]
+(;B[sb];W[sc];B[sd])
+(;B[sc];W[sb];B[sa]))
+(;B[sc];W[sb];B[rb];W[rc];B[sa];W[sd];B[sf]))
+(;B[rf];W[pb];B[rb];W[rc]
+(;B[se];W[sb];B[ra];W[sd];B[rd])
+(;B[qb];W[sb];B[ra];W[qa];B[pa];W[oa];B[nb])
+(;B[sb];W[qb];B[se];W[sd];B[rd])))
+(;B[rb];W[qb];B[se];W[sb];B[sc];W[ra];B[sa]))
