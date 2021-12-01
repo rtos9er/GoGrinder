@@ -1,5 +1,6 @@
-(;GM[1]FF[3]AB[fm][eo][fo][ho][io][dq][fq][gq][jq][kq][er]AW[em][dn][fn][do][cp]
-[hp][cq][hq][cr][dr][gr][ir]PL[W]C[White to play and connect underneath.]AP[MultiGo:3.9.4]
-SZ[19]
-;W[es];B[fs];W[fr];B[ds];W[ep];B[fp];W[go];B[gn];W[en];B[gp];W[eq];B[dp];W[eq];B[ep]
-;W[cs];B[es];W[gs])
+(;GM[1]FF[3]AB[fm][eo][fo][ho][io][dq][fq][gq][jq][kq][er]AW[em][dn][fn][do][cp][hp][cq][hq][cr][dr][gr][ir]PL[W]C[White to play and connect underneath.]AP[MultiGo:3.9.4]SZ[19];W[es];B[fs];W[fr];B[ds];W[ep];B[fp]
+(;W[go];B[gn];W[en];B[gp];W[eq];B[dp];W[eq];B[ep];W[cs];B[es]
+;W[gs])
+(;W[eq];B[dp];W[eq];B[ep]
+(;W[cs])
+(;W[gs])))

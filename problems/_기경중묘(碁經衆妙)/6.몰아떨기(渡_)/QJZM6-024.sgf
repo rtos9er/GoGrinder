@@ -1,6 +1,6 @@
-(;GM[1]FF[3]AB[ir][gr][cr][hq][cq][hp][dp][ho][go][do][cn]AW[jr][er][jq][gq][dq]
-[gp][ep][jo][gn][fn][km][im][em]PL[B]C[Black to play and connect underneath.]AP[MultiGo:3.9.4]
-SZ[19]
-;B[es]C[只此一手]
-(;W[ds];B[dr];W[fr];B[fp];W[fq];B[fo];W[eo];B[eq]C[成劫])
-(;W[fs];B[fr]C[渡过]))
+(;GM[1]FF[3]AB[ir][gr][cr][hq][cq][hp][dp][ho][go][do][cn]AW[jr][er][jq][gq][dq][gp][ep][jo][gn][fn][km][im][em]PL[B]C[Black to play and connect underneath.]AP[MultiGo:3.9.4]SZ[19];B[es]C[只此一手]
+(;W[ds];B[dr];W[fr];B[fp];W[fq];B[fo];W[eo]
+(;B[eq]C[成劫])
+(;B[cs];W[gs];B[hr];W[fs];B[hs];W[ds];B[eq]))
+(;W[fs]
+;B[fr]C[渡过]))
