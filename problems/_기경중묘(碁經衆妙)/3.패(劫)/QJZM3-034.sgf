@@ -1,6 +1,7 @@
-(;GM[1]FF[3]AB[ir][hr][hq][gq][gp][fp][ep][dp][cp][bp]AW[jr][gr][fr][cr][kq][iq]
-[fq][eq][bq][ip][ho][gn][en][cn][bm]PL[B]C[Black to play and get a ko.]AP[MultiGo:3.9.3]
-SZ[19]
-;B[aq]
+(;GM[1]FF[3]AB[ir][hr][hq][gq][gp][fp][ep][dp][cp][bp]AW[jr][gr][fr][cr][kq][iq][fq][eq][bq][ip][ho][gn][en][cn][bm]PL[B]C[Black to play and get a ko.]AP[MultiGo:3.9.3]SZ[19];B[aq]
 (;W[ar];B[dr];W[dq];B[cq];W[br];B[es];W[er];B[cs])
-(;W[dr]C[互相活棋]))
+(;W[dr]C[互相活棋];B[br];W[es]
+(;B[cq]
+(;W[cs];B[bs])
+(;W[gs];B[cs]))
+(;B[cs];W[gs];B[cq])))
