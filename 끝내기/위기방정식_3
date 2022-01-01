@@ -50,8 +50,8 @@
         양후수일 때,
             E = 2 * V = B + W
     흑과 백의 변동가의 집수
-        BH = (wB - bW) / (b + w)
-        WH = (bW - wB) / (b + w)
+        BH = (B - W) / (b + w)
+        WH = (W - B) / (b + w)
         양후수일 때,
             BH = 1/2 x (B - W) = B - 1/2 E
             WH = 1/2 x (W - B) = 1/2 E - W
