@@ -235,3 +235,15 @@
 (;W[ao];B[bo];W[co];B[ap];W[am];B[aq];W[dl]))
 (;B[ap];W[bo])
 (;B[bo];W[co];B[ap]))
+(;GM[1]FF[4]AP[Drago:4.32]SZ[19]CA[UTF-8]AB[ap][ao][bo][co][dn][dp][ep][eq][er][fr][fo][go][ip][kq]AW[br][aq][bp][cp][dq][dr][es][fq][fp]
+(;B[bs]
+(;W[ar];B[cq];W[bq];B[ds];W[cs])
+(;W[ds];B[ar];W[bq];B[cr];W[cq];B[fs])
+(;W[bq];B[fs];W[ds];B[cr]))
+(;B[fs];W[ds];B[bs];W[ar];B[cq];W[bq]))
+(;GM[1]FF[4]AP[Drago:4.32]SZ[19]CA[UTF-8]AW[br][cr][ds][er][fq][fo][go][ip][jq]AB[cq][dr][dq][dp][do][dn][dm][ck][dl]
+(;B[ar]
+(;W[bq];B[bp];W[aq];B[ap];W[as])
+(;W[aq];B[bq];W[as];B[cs];W[bs];B[ap]))
+(;B[bq];W[ar];B[hk];W[aq];B[bo];W[ao];B[an];W[ap];B[bn])
+(;B[ik];W[aq];B[ap];W[bp];B[bq];W[ar]))
