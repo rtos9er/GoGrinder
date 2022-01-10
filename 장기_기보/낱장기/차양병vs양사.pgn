@@ -1,0 +1,30 @@
+[Event "Edited position"]
+[Site "DEV"]
+[Date "2022.01.10"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+[Variant "janggitraditional"]
+[VariantFamily "janggi"]
+[FEN "3k5/4a4/3a5/4P4/3P5/9/9/4R4/4A4/4K4 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . k . . . . .
+. . . . a . . . .
+. . . a . . . . .
+. . . . P . . . .
+. . . P . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . R . . . .
+. . . . A . . . .
+. . . . K . . . .
+white to play
+--------------}
+1. d6 Add8 2. Ra2 Ke9 3. Ri2 Af7 4. Ri9+ Ke8 5. Ri8+ Af8 6. e7+ Kxe7 7.
+Rxf8 Ae8 8. Rf5 Ad8 9. Re5+ Kf7 10. de6 Ad7 11. ef6+ Kf8 12. Ri5 Ae7 13.
+Ri8+ Kf9
+*
+

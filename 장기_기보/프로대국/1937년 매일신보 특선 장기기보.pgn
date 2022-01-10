@@ -1,0 +1,84 @@
+[Event "매일신보"]
+[Site ""]
+[Date "1937년"]
+[Round "특선"]
+[White "귀마 이상두(李翔斗)"]
+[Black "귀마 허익(許翼)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "70"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Hf2 Hc7 4. Ef3 Ef6 5. g4 Che7 6. Cbe2 Cd7 7. Af1
+cd6 8. Kf0 Ea6 9. cb3 Rc9 10. Ade1 Hb5 11. Ce0 Hd4 12. Hxd4 Cxd4 13. Cg0 g5
+14. Cxg5 Af8 15. Cg0 Cd7 16. Cb2 Rc1 17. Cxb6 Cxe3 18. Cb2 Ke9 19. Ch2 Ade8
+20. a4 e5 21. a5 Ed8 22. Ra4 Ec4 23. bc3 Rxc3 24. Exe3 Rxe3 25. Rxc4 Rxf3
+26. ab5 Cf9 27. bc5 de6 28. Ce2 ed6 29. c6 d5 30. Cd0 i5 31. cd6 Ea6 32.
+Ce6+ Ad8 33. Cxa6 Afe8 34. Ce6+ Kd9 35. Ce2 Ri6
+{여기까지가 매일신보(每日申報)에 실린 7보이다.
+ 
+ 8보가 전하지 않아 입력할 수 없다.
+ 
+ 이 기보는 9보에서 끝난다.
+ 
+ 초(楚) 완승}
+
+{Black resigns} 1-0
+
+[Event "매일신보"]
+[Site ""]
+[Date "1937년"]
+[Round "특선"]
+[White "귀마 허용(許鏞)"]
+[Black "귀마 이상두(李翔斗)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "70"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ed3 Ce7 4. Hg2 Hd7 5. Che2 Ad8 6. c4 Ce9 7. gf3
+ab6 8. Rxa9 Cxa9 9. Af1 Ce7 10. Ci2 Ei6 11. Cbe2 Ed6 12. cd4 c5 13. i4 Rh9
+14. Cf2 Ke9 15. de4 Afe8 16. ih4 Cf9 17. Ei3 h5 18. Rh0 g5 19. hxh5 Rxh5
+20. Rxh5 gxh5 21. Cf0 Cb9 22. bc3 Cg9 23. Hh0 h4 24. Cc0 b5 25. fg3 Cxg3
+26. Eg6 hg4 27. ef4 Exf4 28. Cxe6 Cxg6 29. Ce2 Cg9 30. Ef6 cd5 31. ef3 de5
+32. fxf4 gxf4 33. Cf0 Eg4+ 34. Ke0 fe4 35. Hc4 e3
+{매일신보(每日新報)에는 15보(譜)까지 실렸으나 하필 8~9보가 전하지 않는다.
+ 
+ 더 입력할 수 없다.
+ 
+ 한(漢) 완승}
+
+{White resigns} 0-1
+

@@ -1,0 +1,611 @@
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 16강 1경기"]
+[White "이남춘"]
+[Black "조한영"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Af8
+8. Ch4 Kf9 9. Ch1 Ade8 10. Ca1 Rb9 11. ab3 Ce9 12. Cg1 cd6 13. Exg6 fxg6
+14. Cxg6 bc6 15. Ra5 Cd7 16. Cg1 Cd5 17. Ef3 Ef6 18. Cb1 cb6 19. Exd6 Cd7
+20. Rf5 Hxd6 21. Rxf6 i5 22. Cf1 Ca7 23. He3 Cf7 24. g5 Ra9 25. Ke0 Ra5 26.
+Rg6 Rg9 27. Rxg9+ Cxg9 28. Rxi5 Cgd9 29. Afe1 Ke9 30. Hf5 Hc8 31. Cc1 Ra7
+32. Hd6 He7 33. Cxe7+ Kf9 34. Cxa7 Hd5 35. d4 Hf6 36. Cf1 Hh7 37. Rh5 Hi9
+38. g6 Ke9 39. Re5 bc6 40. Hc8+ Kf9 41. Rxe6 Ad8 42. g7 Ci7 43. Hg4+ Ae8
+44. Ri6 Ce7+ 45. Kf0 Ke9 46. Re6 Cxd4 47. Rxc6 Cd9 48. Hh6 Cf9 49. gf7 Axf7
+50. Hxf7+ Ke8 51. Hd6+ Cd7 52. Hg9+
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 16강 4경기"]
+[White "한기출"]
+[Black "박선구"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 Ce7 3. Ke0 ih6 4. Ri1 ed6+ 5. Afe1 Hc7 6. Hf1 Cd7 7. Ee2
+Ca7 8. Rc0 Hge6 9. cd3 Cd7 10. Cd2 Ra7 11. Cf0 ab6 12. Ci2 Ei6 13. gf3 Rh9
+14. ih3 Ra5 15. f4 Rg5 16. Ei3 Ra5 17. h4 Af8 18. Cc2 Ra7 19. Exg6 Cf9 20.
+hg4 d5 21. Ei3 h5 22. fe4 hg5 23. gh4 Af7 24. Ef5 gxf5 25. Rxi6 fe5 26.
+exe5 dxe5 27. Ri8+ Ke9 28. Cxf7 ef5 29. Ch2 Rg9 30. Cf2 Ae8 31. Cf0 f4 32.
+Chd2 Rg1 33. b4 Ra5 34. Hi2 Rh1 35. Hig3 Rg1 36. Hh5 Rag5 37. b5 Rxb5 38.
+Hxf4 Hxf4 39. Cxf4 Rf5 40. Cff0 Cxe2+ 41. Axe2 Rfxf1 42. Ade1 Rf4 43. h5
+Rf5 44. Rh8 Rh1 45. Rc4 Rfxh5 46. Rg8 Rh6 47. A2f2 Re6 48. Cg2 Re7 49. Rg9
+Ee6 50. Rf4 Rd7 51. Ce2 cd6 52. e4 Kd9 53. Ri9 Rh4 54. Rf3 Rxe4 55. de3
+Ec3+ 56. Ad1 Ra4 57. Ae1 Ee6 58. Cd2 Ra0+ 59. Aed0 Kd8 60. Cxd7
+{漢의 다음 수는 16漢包34楚包 打
+漢 실격패}
+
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 16강 2경기"]
+[White "김영윤"]
+[Black "김재두"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Cb4
+Ade8 8. c4 He6 9. Cb1 Ri5 10. Ci1 Ra5 11. Ca1 ab6 12. Ed3 R5a6 13. ih3 R9a8
+14. Ri5 Ce9 15. Rc0 Rc8 16. Ea5 h5 17. Exg6+ Cee7 18. Rxh5 Kd9 19. Cxa6
+bxa6 20. He3 Aff8 21. c5 Cc7 22. Rh9 Cxc5 23. Rxg9+ Aff9 24. Ed3 Hef8 25.
+Ra0 cb6 26. Ed4 Cc9 27. Exb7 Rc7 28. Exb6 axb6 29. Ra7 He6 30. Rg4 Hd8 31.
+Hec4 dc6 32. Rd4 Ce9 33. Ad1 Hc5 34. Rd5 Ri7 35. Kd0 Ed6 36. Afe1 Hxb7 37.
+Ce0 Aff8 38. Ha5 Rf7 39. Rxb7 Rf6 40. Hxc6 bxc6 41. Rc7 Ce6 42. Rc9+ Kd8
+43. He4 Rf5 44. Rd2 Hxb3 45. Ra2 Ha5 46. Hxd6 cxd6 47. Cc0 Rb5 48. Cf0 Aff7
+49. Ra9 Hb3 50. R2a8+ Kd7 51. Rc9 Rb7 52. Rc3 Aef8 53. f4 Ke7 54. f5 Ce9
+55. f6 A7e8 56. Cxf8 Axf8 57. Rxf8 Hc5 58. Rf7#
+{White mates} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 16강 3경기"]
+[White "김민수"]
+[Black "구중완"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Che7 4. Ed3 ed6 5. ab3 Cd7 6. Ra4 He6 7. ef3
+Ri7 8. Hd2 d5 9. Rg4 Rg7 10. He3 g5 11. Rh4 d4 12. Hd5 cd6 13. Hf6+ Ke9 14.
+Exg5 Rxg5 15. Ee3 Ra8 16. Hh7 Rg7 17. Hxg9 Rxg9 18. Rxi6 Ade8 19. Cxe6 dxe6
+20. Ce2 Ca7 21. Rxd4 ab6 22. Rc4 Rc8 23. h4 Kd9 24. Af1 Aff8 25. Ad1 Cd7
+26. Rxe6 b5 27. Rec6 Cf9 28. Rxc7 Rxc7 29. Rxc7 Rg5 30. Rc8 Ri5 31. hg4 bc5
+32. gf4 cd5 33. cd3 de5 34. d4 ef5 35. fxf5 Rxf5 36. de4 Ce9 37. ef4 Ra5
+38. bc3 Cd7 39. Ec6 Ad8 40. Exf8 Cxd1 41. Hc4 Ra1 42. Kf2 Rc1 43. He5 Cb1
+44. Ed5 Ad7 45. Hxd7
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 8강 1경기"]
+[White "배성철"]
+[Black "이남춘"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "161"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hf2 Ce7 3. Af1 Ed6 4. Kf0 ih6 5. Ef3 Hd7 6. Cg2 Exf3 7. exf3
+ef6 8. Ee3 cd6 9. Hbd1 Ce9 10. Ade1 ab6 11. Rxa9 Cxa9 12. Ce2+ Ce7 13. Ce0
+Ad8 14. gh3 Ee6 15. Rg0 Hh9 16. Rg4 Ri5 17. Ra4 Cg9 18. Ch4 Hg7 19. Ci0 Rg5
+20. Cd0 bc6 21. Ra8 Ae9 22. Chh0 Ad9 23. Ra4 Cc9 24. Ce0 Cf9 25. f4 Ke9 26.
+Cg0 Rg1 27. Ce0 A9e8 28. cd3 Rg5 29. Cg0 Hh9 30. fg4 Rb5 31. dc3 Rb9 32.
+Ra5 Hf8 33. Ce0 f5 34. Eh1 Ra9 35. Rb5 cb6 36. Rb4 d5 37. Rc4 dc5 38. Rd4
+Cd9 39. Rd2 Ra4 40. Rc2 Cf9 41. cd3 h5 42. He3 g5 43. gxg5 hxg5 44. Cxd7
+Adxd7 45. Rxc5 Ra6 46. Rc4 bc6 47. Ch0 fe5 48. hg3 Cd9 49. ih3 cd6 50. d4
+d5 51. dxd5 exd5 52. Hed1 Rb6 53. bc3 d4 54. Rc5 de4 55. Rxg5 ef4 56. Rc5
+Ra6 57. cd3 Cf9 58. Rg5 Eb4 59. Hc3 Cd9 60. Rb5 Ee6 61. Hd5 Rd6 62. Hxf4
+Cf9 63. gf3 Eh8 64. de3 Ri6 65. Cd0 Cd9 66. Rb9 Kf9 67. Hd5 Ce9 68. Ef4 Re6
+69. Hb4 Ef5 70. Rb5 Ec7 71. Rc5 Ea4 72. Hfd3 Add8 73. Ra5 Hg6 74. Rxa4 Hxf4
+75. Cf2 Cf7 76. Cxf4 Rh6 77. Cf2 Rxh3 78. Ke0 Ce7 79. He5 Ke9 80. Hxf7+
+Axf7 81. Hd5
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 8강 2경기"]
+[White "서정만"]
+[Black "한기출"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hc2 Hd8 3. Ce2 Ee7 4. ab3 Ra8 5. ed3 gf6 6. Hf2 f5 7. Ra4 i5
+8. Ef3 fg5 9. g4 gh5 10. Cxh5 Ri6 11. Ch1 Cc7 12. Rxi5 Rf6 13. Ca1 Cb2 14.
+Cf1 Cf7 15. He3 cd6 16. Ke0 Ra7 17. Afe1 Ke9 18. Ri9 a5 19. Ra2 Cbb7 20. b4
+Ae8 21. Ri5 Cd9 22. Exd6 Cxd6 23. Cxf6 exf6 24. Rixa5 Rxa5 25. Rxa5 Cd9 26.
+Ea3 Aff8 27. Hd5 fe6 28. Hxe7 Axe7 29. Cxe7 Kf9 30. Ce2 Hc7 31. Rc5 Hdb9
+32. g5 Ce7 33. gf5 Ae8 34. Hg4 Ce9 35. f6 exf6 36. Hxf6 Ee6 37. Hxe8 Exc3+
+38. dxc3 Kxe8 39. cd3 Ca9 40. Ec0 Cc9 41. Ee3+ Cxe3 42. dxe3+ Kd8 43. Rf5
+Cc0+ 44. Ad1 Cc8 45. Rf4 Hd5 46. Rd4 Hc7 47. hg3 Ce8 48. gf3
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 준결승전"]
+[White "서정만"]
+[Black "배성철"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Af1
+Ade8 8. Kf0 Ce9 9. Ci2 Rh9 10. Ade1 He6 11. Cbf2 ab6 12. Rxa9 Cxa9 13. Cd0
+c5 14. Rh0 Hef8 15. Rh4 Ce9 16. Ra4 Ee6 17. Ee2 cd5 18. c4 Kd9 19. Ra9 Cg7
+20. ih3 gf6 21. Hi3 f5 22. cd4 fe5 23. dxd5 exd5 24. Hc4 bc6 25. Cb2 Ri9
+26. Cxb9 Ri4 27. Hd2 Exg3 28. fxg3 He6 29. Ra2 Cb7 30. Ke0 Hd8 31. Ch0 Hxb9
+32. Ra9 d4 33. Cd0 de4 34. Eb5 Ci7 35. Hh1 ed4 36. Hf2 hg6 37. Hg4 d5 38.
+He3 c5 39. bc3 gf6 40. Hb3 fe6 41. Hxd5 cxd5 42. Cxd5+ ed6 43. Cd2 Ri6 44.
+Kd0 Cc7 45. Eg5 Re6 46. Hc5 d5 47. Hxd7 Axd7 48. Cxd5+ Rd6 49. Cd2 Rb6 50.
+Exd7 Cc9 51. Ra4 Rxb5 52. Rxd4 Ce7 53. Rb4+ Rd5 54. Rxb9 Ke8 55. Rxc9 Rxd7
+56. gf3 Ce9 57. hg3 Cg9 58. Rc8+ Ke7 59. Rg8 Ce9 60. Rg7+ Ke8 61. Rxd7+
+Kxd7 62. cd3+
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승 2회전"]
+[White "김영윤"]
+[Black "서정만"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 Ri8 10. c4 Hb9 11. Hd4 Rd5 12. Rai1 i5 13. g4 Ke9 14.
+Af1 Ra8 15. ab3 Raa5 16. Kf0 Ade8 17. Ade1 Hd8 18. Ce0 ih5 19. Cd2 Ra0 20.
+Ri6 c5 21. cxc5 Rxc5 22. Hxe6 Re5 23. Hc7 bc6 24. Hxe8 Axe8 25. Ri9 cd6 26.
+Rxh9+ Af9 27. Cxd6 Cxe3 28. Cd0 Che7 29. dxe3 Rxd0 30. Axd0 Rxe3 31. Ed6
+Re6 32. Exf9 Hxf9 33. Rii9 Hh8 34. Rxh8
+{Black resigns} 1-0
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 16강 2경기"]
+[White "임영선"]
+[Black "배성철"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "46"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ke9 7. Ra4
+Ee6 8. Rg4 d5 9. Exg6 He5 10. Rh4 Exh4 11. Ee3 Ee6 12. f4 ab6 13. g4 Hf3+
+14. Kf2 Ra0 15. Afe1 Ra4 16. cd3 Hh2 17. Ri2 Hxg4+ 18. Kf1 Hxi3 19. bc3 Eh4
+20. Kf0 Hxg2+ 21. Rxg2 Ri0+ 22. Kf1 Rxf4+ 23. Af2 Rxf2+
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "A조 16강 3경기"]
+[White "권오영"]
+[Black "서정만"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Ce2 Ce7 4. ed3 Ef6 5. Ef3 Ri8 6. Ri4 ih6 7. Rg4
+Hf7 8. Hc2 Ke9 9. Ee3 g5 10. Rxg5 Exh3 11. Rg4 Exf0 12. Kxf0 Ade8 13. Exh6
+Hxh6 14. Rg6 Rf8 15. Ke1 Rf6 16. Rg9 Hf7 17. Eg6+ Af8 18. Cd2 Rf5 19. Cf0
+Rh5 20. Ei9 Raa5 21. Exf7 Exf7 22. Ke0 Rag5 23. Rxg5 Rxg5 24. g4 Ra5 25.
+Rb0 A9e8 26. Ae1 Cb7 27. Ra0 Che7 28. de3 cd6 29. cd3 Cd7 30. Rb0 Rb5 31.
+ab3 Cf9 32. b4 Ri5 33. bc4 b5 34. Ra0 ba5 35. Cc0 Cc9 36. c5 Hd9 37. c6
+dxc6 38. Cxc6 Hc7 39. Ra2 Rb5 40. Hd4 Exd4 41. dxd4 ed6 42. Cf6 Rb0+ 43.
+Ad0 Cf9 44. Ke1 Hb5 45. ed3 Rb1+ 46. Ad1 de6 47. Cf1 Cxf2 48. Kxf2 Rxd1 49.
+Cf4 Rxd3 50. Rxa5 Rf3+ 51. Ke1 Hxd4
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 16강 1경기"]
+[White "임소용"]
+[Black "김보용"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ee2 ef6 5. He4 Hf7 6. Ke0 Ee6 7. cd3
+Af8 8. Ade1 Ce9 9. Ca2 Ha6 10. ab3 Ca7 11. Ea3 Hd8 12. Hd1 ih6 13. Rxi9
+Cxi9 14. Rc0 Rc9 15. Rc4 Cf9 16. gf3 f5 17. hg3 Ef6 18. g4 Eg3+ 19. fxg3
+Exc4 20. Cc2 Rb9 21. bc3 Cxa3 22. cxc4 fe5 23. Hec3 Rb7 24. Cf2 Ri7 25. Cd0
+Ri3 26. gf3 Caa9 27. Caf2 Ce9 28. cd4 c5 29. gf4 b5 30. fe4 exe4 31. dxe4
+c4 32. Ha2 Cf7 33. Cf4 bc5 34. dc3 Ca9 35. Hc1 cxc3 36. Hxc3 Ce9 37. Cd4 c4
+38. Cxd9 cxc3 39. Ha2 cb3 40. Cd2 b2 41. Hb0 b1 42. Hd1 bc1 43. ed4 Hc6 44.
+d5 Hcb8 45. d6 Kf9 46. C2f2 c1xd1 47. Axd1 Cxe2
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 16강 4경기"]
+[White "강창호"]
+[Black "표세철"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Ri5 3. Ce2 Hd7 4. ef3+ Kd8 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Ra5 8. Rxa5 axa5 9. ih3 Hhf8 10. Ri5 Ade8 11. Ed3 a4 12. Ea5 Cg7 13. Hh0
+Ch5 14. Hf1 Rxa5 15. f4 Ch1+ 16. Exh1 Rxi5 17. Cxb9 Cb7 18. Cg9 Cg7 19. Cb9
+Ra5 20. Cbb2 a3 21. Cb4 d5 22. Ce4 axb3 23. Hxb3 Ra3 24. Hd2 c5 25. cxc5
+Hxc5 26. Cg4 Hd7 27. He3 Ra1+ 28. Ad1 g5 29. Cg0 Eb4 30. Hc2 Rb1 31. Cee0
+d4 32. Hxb4 Rxb4 33. Hf1 d3 34. gf3 Cg1+ 35. Kd0 He6 36. Afe1 Hd4 37. Ce4
+Rb2 38. Ke0 Kd9 39. Cd0 Rb0 40. fe3 dc3 41. Ch4 Hc2 42. Ch2 Hxd0 43. Adxd0
+hg6 44. hg3 gf6 45. Af2 Cc1 46. Cd2+ Ke9 47. Hh2 Cc9 48. Hi4 gf5 49. gf3
+Cc0+ 50. Ad1 Cc4+ 51. Cd0 Cxi4 52. fxf5 fxf5 53. f4 fe5 54. e4 exe4 55.
+fxe4 Hf6 56. ed4 Hg4 57. Afe1 Cxd4 58. Ef4 Aff8 59. Ec6+ Kf9 60. Kf0 Rb6
+61. Ea3 Ci4 62. Ed5 Rf6+ 63. Ef2 Ce4 64. Add2 Hi3 65. Ade2 Hh1+ 66. Kf1 Rg6
+67. Ei4 Rg4 68. Ef2 Rg1+ 69. Kf0 Rxe1#
+{Black mates} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 8강 1경기"]
+[White "김보용"]
+[Black "김영윤"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Ea6 5. Ce2 Ef6 6. ed3 Hf7 7. Ee3
+gh6 8. Hd1 Rg9 9. Ef3 Exh3 10. gxh3 Rg1+ 11. Af1 Hg5 12. Ei1 ed6 13. Rb0
+Hce6 14. Rb4 Ra7 15. h4 Rd7 16. Rg4 Rxg4 17. hxg4 Hf7 18. Kf0 Ad8 19. Ade1
+c5 20. ab3 Exc3 21. bxc3 Ra7 22. Ch2 Ra4 23. Cg2 Ra0+ 24. Ae0 Hf4 25. Ce2
+Hxe2+ 26. Cxe2 Kd9 27. He4 bc6 28. Ef3 Afe8 29. Exd6 Ce9 30. Hf6 Cc7 31.
+Ef3 cd6 32. Ad0 cd5 33. Ae1 de5 34. gf4 de6 35. Hg4 Ra4 36. Ei1 Rxf4+ 37.
+Hf2 Rxf2+ 38. Axf2 Cc0+ 39. Ke1 Cxi0 40. Ec6 ed6 41. Ea3 Ci3 42. Hb2 d5 43.
+Hc4 Hg5 44. Eg4 h5 45. Hd6 Ce6 46. Hb5 Add7 47. Hc7+ Ke9 48. Exd5 Ci7 49.
+Ha6 exd5 50. Cg2 He4+ 51. Kf1 hg5 52. d4 Hg3 53. Ed2 de5 54. Hc5 Ce3
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 8강 2경기"]
+[White "표세철"]
+[Black "김민수"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 ef6 5. ed3 Ee6 6. Ch4 Ra5 7. Hf2
+Rg5 8. Rg0 ih6 9. ab3 Hf7 10. Ch1 Exg3 11. hxg3 Ri3 12. g4 Rf5 13. de3 He6
+14. Ra4 Ke9 15. Cd1 Afe8 16. Cf1 Rd5 17. ed3 Kf9 18. He3 Rh5 19. Ea3 Ce9
+20. Ra8 Hed8 21. b4 Cb7 22. bc4 Rb5 23. cd4 Af8 24. d5 Rb2 25. Ce4 Ch7 26.
+Ad1 Cd7 27. Ad2 c5 28. Hed1 Rb4 29. Ce0 Ade8+ 30. Kd0 cxd5 31. Exd5 Rb5 32.
+Afe1 Rxd5 33. Hb2 Rb5 34. Ra2 bc6 35. gf4 Ri2 36. Hbd1 Cg9 37. Rh0 Ch7 38.
+Rf0 Cd9 39. Ra9 Hb7 40. Ra6 Hfd8 41. fe4 Aff7 42. Ra4 Ee7 43. Exh6 gxh6 44.
+Cxf6+ Ke9 45. Rg0 Aff8 46. e5 cd6 47. Cf0 Chd7 48. Rg8 Aff9 49. Hh3 Ri0 50.
+Hg5 h5 51. Hf3 Rb1 52. Hd4 Cxd4 53. Rxd4 de6 54. Re4 Hc5 55. Rc4 Rb5 56.
+exe6 Hcxe6 57. Rc8 Rb1 58. Ade2 Rc1 59. He3 Hf4 60. Cd2 Hxe2 61. Rg2 Rxe0+
+62. Kxe0 Rc0+
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "B조 준결승전"]
+[White "김민수"]
+[Black "김영윤"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "70"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Ce7 4. Che2 Ef6 5. Ef3 Hf7 6. Af1 gh6 7. cd3
+Rg9 8. Cd2 Rg5 9. Kf0 Af8 10. Ade1 Raa5 11. Ce0 Rac5 12. Hd4 Ri5 13. Rg0
+Cg7 14. Cg2 Ri2 15. Cee2 Kf9 16. ab3 Ea6 17. Cg4 Ri1 18. Hxe6 Hxe6 19. Cxe6
+Rg5 20. Ce2 Ade8 21. Ke0 Ri4 22. Ra4 Rb5 23. Exh6 ixh6 24. Rb4 Rc5 25. dc3
+Cb7 26. Ra4 Cb5 27. Ea3 Cb0 28. Aef0 Ca7 29. Rf4 Cxa3 30. Rxf6 Ca9 31. He4
+Ra5 32. Rh0 Ra0 33. Cg0 Cxf0+ 34. Ke1 Cxf6 35. Hxf6 Ri1
+{White resigns} 0-1
+
+[Event "제3회 십단전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승 1회전"]
+[White "서정만"]
+[Black "김영윤"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ri8 7. Ri4
+Ee6 8. Ad1 Ra5 9. Kd0 Ke9 10. Afe1 i5 11. Rc4 Rd5 12. Ce0 c5 13. Ra4 Rdd8
+14. Cc0 Ra8 15. Rf4 g5 16. cb3 b5 17. Rd4 Hd5 18. b4 Rid8 19. bxb5 cxb5 20.
+Cd2 Hb4 21. Hxb4 bxb4 22. Rxd8 Axd8 23. Ee2 Afe8 24. Cg0 ih5 25. Cf0 bc4
+26. ab3 Rxa0+ 27. Cxa0 cd4 28. bc3 de4 29. Exh5 gxh5 30. gf3 f5 31. c4 Ef6
+32. hg3 h4 33. c5 Ei4 34. Eb4 Exg3 35. fxg3 f4 36. Add2 hg4 37. gxg4 Exf2
+38. gxf4 exf4 39. Axf2 He5 40. dc3 Hf3 41. Afe1 Hd4 42. cd3 Hb3 43. dc3 Hc1
+44. Cf0 Ha2 45. Ee6 fe4 46. cd5 ed4 47. cb3 d3 48. Add1 Ce3 49. b4 Af7 50.
+Af2 Ade8 51. bc4 Cd7 52. d6 Cf9
+{White resigns} 0-1
+

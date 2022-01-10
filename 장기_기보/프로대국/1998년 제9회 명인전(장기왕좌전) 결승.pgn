@@ -1,0 +1,40 @@
+[Event "제3회 프로10걸전 "]
+[Site ""]
+[Date "1998년"]
+[Round "명인 결정전 2국"]
+[White "귀마 김경중"]
+[Black "귀마 신대순"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. Cb4
+Kd9 8. Cb1 Ri5 9. Cf1 Afe8 10. Ed3 Ce9 11. i4 Rd5 12. Cd1 Ee6 13. ih4 Exc3
+14. bxc3 Cc9 15. g4 He6 16. c4 Rf5 17. f4 Rb5 18. fe4 Hef8 19. e5 gf6 20.
+gf4 hg6 21. Cf1 Cg7 22. Ri2 Ce9 23. cd4 Rc5 24. de4 Rc3 25. Cd1 fe6 26.
+exe6 dxe6 27. hg4 ef6 28. Ri9 Ed6 29. Hi3 Cb7 30. e5 Hh7 31. Rh9 Hdf8 32.
+Rh8 Cxe5 33. Exc6 Rxc6 34. Hh5 Ce9 35. Exf6 Hxf6 36. Hxf6 gxf6 37. He4 fe6
+38. Ra3 Rc7 39. Cf1 ab6 40. Rc3 Rac9 41. Ri3 e5 42. Hd2 Rh7 43. Rhi8 Rh1
+44. Rd3 e4 45. Rxd6 e3 46. Ce4 Rc1+ 47. Ad1 e2+ 48. Kxe2 Rxd1 49. Cxf8 Rh3
+50. Hc4 Rxd6 51. Hxd6 bc6 52. Hxe8 Axe8 53. Cf2 Re3+ 54. Kd2 Rd3+ 55. Ke1
+Rd7 56. Kf1 c5 57. Ae1 Cf7 58. Ri9 c4 59. Ce0 c3 60. fe4 Rd3 61. Ae2 Rd1+
+62. Kf0 Rd0 63. Ae1 Rxe1+ 64. Kxe1 Af9+ 65. Ce3 Cxi9
+{White resigns} 0-1
+

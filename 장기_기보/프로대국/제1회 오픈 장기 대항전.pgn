@@ -1,0 +1,1372 @@
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기 [제주지회 對 남양주지부] - 1회전"]
+[White "송은미 [남양주지부]"]
+[Black "이재헌 [제주지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Cb2 4. Ra2 Cb8 5. ab3 Rxa2 6. Hxa2 ef6 7. Cc2
+Ee6 8. Ce2 Hf7 9. e4 Ce7 10. Ea3 Cg8 11. Exc6 bxc6 12. g4 Ha6 13. Cxc6 Ca8
+14. Hb0 Hc5 15. gf4 Ri8 16. Ef3 Ha6 17. Cc1 ih6 18. Rxi8+ Cxi8 19. c4 Ke9
+20. Hc2 Afe8 21. c5 Kf9 22. b4 Cc8 23. Cc4 Ce9 24. b5 Hb8 25. Cb2 Cf8 26.
+cd5 Hd7 27. de5 Eb8 28. bc5 Hb6 29. Cc0 Ha4 30. Ce2 fe6 31. ef5 ed6 32. Af1
+g5 33. fxg5 Hxg5 34. hg3 Hf7 35. Kf0 hg6 36. Cg2 gf6 37. cb5 fe6 38. Hb4
+Cb9 39. Ec1 Ed5 40. Hxd5 dxd5 41. Exa4 de5 42. Ade1 exe4 43. fxe4 Cxf2+ 44.
+Afxf2 Ce9 45. bc5 Ce7 46. ef4 He5 47. g4 Hd3 48. cd5 Hb4 49. dc5 e5 50.
+Afe2 Ef6 51. Cd2 Ke9 52. Cc9+ Ad8 53. Cf2 Ei8 54. cb5 Hd3 55. Cd0 Hb2 56.
+Ed2 Add7 57. bc5 Cc7 58. c6 Cf7+ 59. Ke0 Cd9 60. A2f2 Ade7 61. Kf0 Cf9 62.
+Ke0 Ef6 63. Cc2 Hc4 64. cd6 Ei4 65. Aff1 Cd9 66. Cd3 Ef6 67. Cd1 Ei8 68.
+Ce2
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기 [제주지회 對 남양주지부] - 2회전"]
+[White "박재선 [남양주지부]"]
+[Black "현승헌 [제주지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ke9 8. Kd0 Rg8 9. ab3 Afe8 10. Ef3 Hd8 11. Ra5 Kf9 12. Afe1 Ce9 13. Ce0
+Rii8 14. Cd2 ih6 15. Rai5 Rxi5 16. Rxi5 Af8 17. Cd7 Hb9 18. g4 Ad8 19. Cd2
+Ade8 20. Cc0 Hbd8 21. Cg0 Rh8 22. Ch2 Rh7 23. Exg6 fxg6 24. Cxg6 Exc3 25.
+bxc3 He5 26. Rf5 Hf7 27. Cg0 Cg9 28. Exh6 Ke9 29. Ri5 Hd6 30. Exe8 Re7 31.
+Cxh9 Axe8 32. Ch2 Cd9 33. Ce2 Kf9 34. He3 Rc7 35. Cc0 Cbf7 36. Cf0 Ra7 37.
+Hf5 Hxf5 38. Rxf5 He6 39. Ke0 cd6 40. g5 Ra4 41. g6 Ri4 42. Re5 Ri0 43. gf6
+bc6 44. fxe6 dxe6 45. Rxe6 Cxd1 46. Cxe8 Cd9 47. Ce2 Kf8 48. He4
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기 [제주지회 對 남양주지부] - 3회전"]
+[White "김시현 [남양주지부]"]
+[Black "김영식 [제주지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "210"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra8
+8. Ch4 Ri8 9. Cf4 gh6 10. Cf1 Hb9 11. Ef3 Rg8 12. Exh6 ixh6 13. Ri9 Hd8 14.
+Rxh9 Ri8 15. Cxf6 Ade9 16. gh4 Ra5 17. Exc6 Ri7 18. Rxh7 Rxh7 19. Ee3 Exc3
+20. Cf1 Ee6 21. Hd4 Rd5 22. ab3 He5 23. bc3 hg6 24. Ra7 g5 25. Cd1 Rf7 26.
+He4 Eb4 27. Hb3 Rb5 28. Hxg5 Hxd3+ 29. cxd3 Rxg5 30. Eh5 Rf6 31. Cxd8 Rgf5
+32. Ade0 Rf2+ 33. Kd2 Kxd8 34. Rxe7 Aee8 35. Re4 b5 36. Ee3 R2f4 37. Rxf4
+Rxf4 38. Hd4 bc5 39. Ke1 cd5 40. Hb3 Rf3 41. Hd2 Rxh3 42. hg4 Kd9 43. Hb3
+Rf3 44. Ad0 Rf6 45. Ce0 Ra6 46. Af1 Ra3 47. dc3 dc5 48. Kf0 c4 49. Ec0 Ra4
+50. cxc4 Ed7 51. Hd2 Ra6 52. Ad1 Rg6 53. gh4 Ef4 54. Ke1 Ra6 55. hg4 Ed7
+56. Hf3 Ra1 57. Ee3 Rc1 58. He5 Ea5 59. cd4 Ed7 60. Hc6 Rc3 61. Hb8+ Rc8
+62. Hc6 Ra8 63. Kf0 Ea9 64. He5 Ra5 65. gf4 Ed7 66. Hc6 Rc5 67. fg4 Rc3 68.
+Ade1 Rc5 69. Cg0 Ea9 70. Cd0+ Ke9 71. Ha7 Aff8 72. gf4 Rc3 73. Eh5 Aff7 74.
+Ef2 Ed7 75. fe4 Rc7 76. Hb5 Rc5 77. Ha7 Eg5 78. Ad1 Ei8 79. d5 Rc1 80. Afe1
+Ef6 81. e5 Rb1 82. Hc6 Rb6 83. Hd4 Rb4 84. e6 Ed3 85. Cd2 Rb6 86. d6 Rb4
+87. Hc6 Rf4 88. Ke0 Re4 89. Cd0 Eg5 90. Ha7 Ei2 91. Hc8+ Kf9 92. Cd2 Rg4
+93. Cd0 Rg6 94. Ec4 Ad8 95. ef6 Rg4 96. fxf7 Rxc4 97. Hb6 Rb4 98. Hd5 Rh4
+99. de6 Rh8 100. e7 Eg5 101. Hc7 Rg8 102. Cxd8 Rxd8 103. e8+ Rxe8 104.
+f7xe8+ Exe8 105. Hxe8 Kxe8
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 2경기 [수원지부 對 울산지회] - 2회전"]
+[White "이석봉 [수원지부]"]
+[Black "김기태 [울산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hd7 3. Ce2 Ee7 4. Hg2 Hg7 5. Cf2 gf6 6. Ke0 Ke9 7. Ade1
+Afe8 8. Cd0 Cf7 9. g4 c5 10. h4 b5 11. Aff1 Add8 12. Ca2 Rc9 13. ab3 c4 14.
+ed3 cxc3 15. bxc3 He5 16. Hce3 Cd9 17. gf4 Cbf7 18. fe4 Hg6 19. Ci2 Rh9 20.
+Cc2 Rb9 21. Rh0 Ri9 22. Ei3 Hi7 23. Cg0 Hi8 24. Ra8 Cf9 25. Ci2 Ra9 26.
+Rxa9+ Cxa9 27. hg4 ba5 28. Rh8 Cc7 29. Ce2 Cxc0 30. e5 ed6 31. Cd0 fe6 32.
+Hf4 Cc7 33. exe6 Exe6 34. Hxe6 dxe6 35. Cxe6 i5 36. Cxd8 Rf9 37. Cd0 i4 38.
+g5 Ca4 39. Hd5 Ca8 40. Rh2 Hg7 41. Hxc7 Hxe6 42. Hxe6 ixi3 43. Hg7 Rf7 44.
+Rh7 Cf8 45. Rxi7 Cxf1 46. Cf2 Ca1 47. gf5 Ca9 48. Cxf7 Axf7 49. f6 Eg4 50.
+fxf7
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 2경기 [수원지부 對 울산지회] - 3회전"]
+[White "최진호 [수원지부]"]
+[Black "박인락 [울산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ade1 Hb9 10. ab3 Hd8 11. Ra4 Rg5 12. Ri3 Exg3+ 13. hxg3
+Ri5 14. Rxi5 ixi5 15. Kd0 Kf8 16. Ra5 gh6 17. Ef3 Ri6 18. Ce0 Afe8 19. gh3
+i4 20. Exh6 Hxh6 21. Rg5 Ce9 22. Rg9 Cc9 23. Rg8+ Kf9 24. Rh8 Ee7 25. Rxh7
+Hf5 26. Rg7 Ce9 27. Cd2 cd6 28. Ad1 Af7 29. Cb0 b5 30. Afe1 Ade8 31. Cbf0
+bc5 32. Hg4 fg6 33. Cxd6 He6 34. Cdf6+ gxf6 35. Cxf6+ Rxf6 36. Hxf6 cd5 37.
+Rg4 d4 38. Ec6 Hc7 39. Rf4 dxd3 40. Rxf5 dxc3 41. bxc3 Cg9 42. Hd5 Cd9 43.
+Ke0 He6 44. Re5 Hg7 45. Rg5 Hh9 46. Hc7
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 1경기 [전북지회 對 금천지부] - 2회전"]
+[White "김학림 [금천지부]"]
+[Black "이준일 [전북지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hc7 3. Ce2 Hg7 4. Hc2 Che7 5. ed3 ef6 6. Ege3 Hge6 7. Ri4
+c5 8. Cd2 Cd7 9. Af1 Ri7 10. Cf0 Ke9 11. Ke0 Afe8 12. Ade1 Cf9 13. Rb0 b5
+14. ab3 Rg7 15. Ea3 g5 16. Cxf6 gf5 17. Cf3 Hg5 18. Rg4 He6 19. Cf0 f4 20.
+Ec6+ Hc7 21. Exf4 Ra6 22. b4 Ege6 23. c4 Rg6 24. bxb5 Ce4 25. b6 Ra5 26.
+bc6 Cxg4 27. gxg4 Rb5 28. cb4 Rb7 29. cxc7 Rxc7 30. gxg5 Rxg5 31. Hge3 Add8
+32. Hd4 Rb7 33. Hxe6 Exe6 34. Cxe6+ Kd9 35. Ce2 Rg0 36. Exi6 c4 37. b5 Rd7
+38. Rb3 Rd6 39. Eg3 Rh0 40. Ed5 Rd7 41. hg3 Rb7 42. b6 Cb9 43. bxb7 Cxb3
+44. bc7 Add7 45. Ea7+ Kd8 46. cxd7+ Axd7 47. Hf5 cb4 48. Hg7 Cb7 49. He6+
+Ce7 50. Ed1 Rg0 51. gf3 ba4 52. Ec4 Rg6 53. de3
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 1경기 [전북지회 對 금천지부] - 3회전"]
+[White "정국봉 [금천지부]"]
+[Black "구중완 [전북지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hf2 Hg7 3. Ce2 Che7 4. Ra4 ef6 5. ed3 Hge6 6. ih3 f5 7. Hc2
+c5 8. Ee3 Af8 9. Cd2 Cd7 10. Ri2 Ke9 11. Eh5 g5 12. Exf8 Ra8 13. Exi6 Rai8
+14. Ef3 Rxi6 15. Rxi6 Rxi6 16. Exc5 Hxc5 17. Rc4 He6 18. gf3 Ae8 19. Cd6
+Hg7 20. Rxc7 Rxd6 21. Rxc9+ Ad9 22. Ke0 Ke8 23. Ade1 Cf9 24. Rc8+ Ad8 25.
+fe3 He6 26. Ca2 Ke9 27. Cd2 Rb6 28. Cxd8 Rd6 29. Cb8 Cxf2 30. Axf2 Hf4+ 31.
+A2e1 Hxh3 32. Rg8 Ed7 33. Cb2 Ri6 34. Cd2 Ef4 35. Rd8 Hg1+ 36. Kd0 Kf9 37.
+Rd7+ Kf8 38. Rxe7 Ri0 39. c4 ab6 40. Hd4 He2 41. Axe2 Rxf0+ 42. Kd1 fe5 43.
+He6 Re0 44. Rd7#
+{White mates} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기 [부산지회 對 송파지부] - 1회전"]
+[White "이점섭 [부산지회]"]
+[Black "하성호 [송파지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "189"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. ef3 ed6 6. Ee3 Ee6 7. Ke0
+Ri5 8. Ri1 cb6 9. Ra4 dc6 10. Rf4 Ed6 11. Afe1 Kd8 12. Kf0 Ade8 13. Ce0 Kd9
+14. c4 Ce9 15. Cf2 Eg9 16. Ci2 Rh5 17. ih3 He6 18. Ri4 Exf3 19. Cf2 Rxh3
+20. gxf3 cd6 21. Hf4 Hxf4 22. Rxf4 bc6 23. Ed3 ab6 24. Ri8 Ee6 25. Rg8 Hf8
+26. Af1 Rc9 27. Ade1 Rc7 28. Cd0 ba6 29. Exc6 Cd7 30. Ea3 Cxd3 31. cd4 Eh4
+32. Ce3 Rh1 33. Aff2 He6 34. Re4 g5 35. Re5 h5 36. Ce0 Ad8 37. Rb5 Ade8 38.
+de4 Cd8 39. Rg6 Ri7 40. e5 Ri2 41. He4 Ri3 42. Hg3 Rg1 43. exe6 Exe6 44.
+Hxh5 Rxf3 45. Hg7 Cd2+ 46. Af1 Re3 47. Ce5 Rg4 48. Ce2 Rc4 49. Rgxg5 Rc1
+50. Hf5 Rd1 51. Ke0 Rd3 52. A1e1 Rxd0+ 53. Axd0 Cd5 54. Hxd6 Cxd0 55. He4
+Ec9 56. Hc5 Rd4 57. Ae1 Cd8 58. Hb7 Ee6 59. Hxd8 Axd8 60. Rbf5 Afe8 61. Rf3
+ab6 62. Ec0 Rc4 63. Ee3 Eb8 64. Eg6 Rc0+ 65. Ad0 Rc2 66. Exe9 Rxe2+ 67. Ae1
+Re7 68. Rc3 Kxe9 69. Rc8 Add9 70. Rxb8 bc6 71. Rg6 c5 72. Rg5 c4 73. Rg4
+Af9 74. Rxc4 Ri7 75. Re4+ Afe8 76. Rb6 Ri0+ 77. Af0 Ri7 78. Rg6 Rf7 79.
+Rg9+ Rf9 80. Rg7 Ad8 81. Ae1 Ri9 82. b4 Kf9 83. Rf4+ Ke9 84. bc4 Ri0+ 85.
+Af0 Ri9 86. Re4 Ad9 87. c5 Rf9 88. cd5 Ad8 89. d6 Kd9 90. Ra7 Ke9 91. d7
+Ad9 92. Ae1 Rf7 93. d7xe8+ Rxe8 94. Rg4 Rxe1+ 95. Kxe1
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기 [부산지회 對 송파지부] - 4회전"]
+[White "조만정 [부산지회]"]
+[Black "목지욱 [송파지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hd2 Ce7 3. e4 ed6+ 4. Ce2 Ee6 5. cb3 Hc7 6. Ef3 Cd7 7. Ra1
+Ke9 8. Hc4 Cxe4 9. Exd6 Hxd6 10. Hxd6 cxd6 11. Ke0 ab6 12. Hf2 Ce7 13. g4
+Ra5 14. Rc1 bc6 15. Afe1 Afe8 16. Add1 Cf9 17. Kd0 Rf5 18. He0 Rf3 19. Hg1
+Rf5 20. Ce0 Ef6 21. Rc2 g5 22. Rg2 gxg4 23. Rxg4 Cd7 24. Rg2 Rc5 25. Rf2
+Exh3 26. Hxh3 Eg3 27. Rg2 Exd1 28. Cd2 de6 29. Hg5 Exa3 30. Hxe6 Rc2 31.
+Hd4 Rc4 32. Hf5 Rc2 33. Ad1 Ca7 34. Hxe7 Cxe7 35. Re2 Ri7 36. Rg0 Kf9 37.
+Rg9+ Kf8 38. Ae1 Ca7 39. Rf2+ Cf7 40. Rh2 Ri8 41. Ee2 Rc4 42. Rf2 Rd4 43.
+Cb0 Ec0 44. Cb8+ Rd8 45. Cb1 ih6 46. Rg0 Ri3 47. Cf1 He6 48. Rg8+ Kf9 49.
+Rxf7+ Af8 50. Rxd9#
+{White mates} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기 [부산지회 對 송파지부] - 5회전"]
+[White "김청호 [부산지회]"]
+[Black "윤기현 [송파지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "165"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Ra5 5. Rb4 Hf7 6. ed3 ef6 7. Rbi4
+gh6 8. Ef3 fg6 9. Ee3 g5 10. Hf2 Ef6 11. Rf4 gf5 12. Rg4 Rh9 13. Af1 He6
+14. Exh6 ixh6 15. Rg8+ Af8 16. Cxh6 Hxh6 17. Rg6 Cxh3 18. Rxf6 Chxe3 19.
+Hxe3 Rxa3 20. Kf0 Ra5 21. Rh0 Rg9 22. Rhxh6 Rxg3 23. Afe1 Cxe3 24. dxe3 Kd8
+25. Cxe6 Exe6 26. Rxe6 Ade8 27. cd3 f4 28. Reg6 Ri3 29. Ri6 Rxi6 30. Rxi6
+Rf5 31. Ri3 cd6 32. Ke0 bc6 33. Add1 d5 34. Ri6 c5 35. Rd6+ Ad7 36. d4 de5
+37. Rc6 cb5 38. Rc4 Afe8 39. Rc3 Aee7 40. dc4 Rf6 41. Rb3 Rb6 42. c5 b4 43.
+Rc3 Ke8 44. Hh3 ef5 45. cd5 b3 46. Rc4 Rf6 47. de5 Rh6 48. Hf2 fxe5 49.
+Rxf4 Rc6 50. Hd3 ed5 51. e4 Rc0+ 52. Add0 Rc3 53. Hf2 b2 54. Rf5 dc5 55.
+ed4 bc2 56. Hd1 Rd3 57. Rxc5 cd2 58. Axd2 Rxd2 59. Rc4 Rg2 60. Ae1 Kf9 61.
+de4 Aee8 62. Rc3 Ke9 63. e5 Rg5 64. Re3 Ade7 65. e6 A7f7 66. ef6 Af8 67.
+fe6 Rg0+ 68. Af0 Rg7 69. Hf2 Kd9 70. Rd3+ Rd7 71. Rxd7+ Axd7 72. Ae1 Afe8
+73. ed6 Ade7 74. Hd3 Ke9 75. de6 A7d7 76. Hf4 Aed8 77. He2 -- 78. Kd0 A8e8
+79. ed6 Kd9 80. dxd7 Axd7 81. Ke0 Ae8 82. Hd4 Ke9 83. He6
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 [남양주지부 對 수원지부] - 2회전"]
+[White "박재선 [남양주지부]"]
+[Black "이석봉 [수원지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "165"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 Cd7 5. Ra4 ef6 6. ih3 He6 7. ed3
+Ri7 8. Rc4 ab6 9. Ea3 Ra5 10. Kf1 c5 11. Rh4 Ra8 12. Rh7 Rxh7 13. Cxh7 Kf7
+14. Rxi6 Rh8 15. Ch2 Exi6 16. Cxh8 Ch7 17. g4 b5 18. Ei5 Cg7 19. h4 Ce7 20.
+g5 Hf4 21. Ca2 Ke8 22. hg4 Hfe6 23. gxg6 fxg6 24. Cc8 Hd5 25. Hf2 Hg7 26.
+Ke1 He3+ 27. Ce2 Hf5 28. He4 Ke9 29. g5 gxg5 30. Hxg5 Eg9 31. Ef3 Ad8 32.
+He3 Cf7 33. Cg8 Hxe3 34. dxe3 Ade8 35. Cg6 Ei6 36. Cg1 Hh5 37. cd3 Cd9 38.
+Cc1 Ea6 39. Ei1 Aff8 40. He6 Hi3 41. Af1 Ed8 42. Hg5 Eg9 43. Hf3 Cf9 44.
+Hh2 Ci9 45. Eg4 Ef5 46. Exe7 Exh2 47. Af2 Axe7 48. Cxh2 Cf9 49. Ce2 Afe8
+50. Cf1 Hg4 51. bc3 Ei6 52. e4 Ef8 53. Cxf8 Axf8 54. ef4+ Kd9 55. fxg4 Aee8
+56. Ec0 cd5 57. c4 bc5 58. cxc5 dxc5 59. d4 Aff7 60. Ee3 Cc9 61. g5 Cf9 62.
+Ce5 Cc9 63. Eg6 Cf9 64. Ci5 Aff8 65. Cxc5 -- 66. Ch5 -- 67. Ce5 -- 68. d5
+Cd7 69. d6 Aff7 70. gf5 Cf9 71. fg5 Cd7 72. Ce0 Cg7 73. gf5 Cd7 74. f6 Aff8
+75. Ee3 Cf9 76. fe6 Cc9 77. Eh5 Ce9 78. Exf8 Axf8+ 79. ef6 Ae8+ 80. Kd1 --
+81. Ade1 -- 82. Kd0 -- 83. dc6
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 [금천지부 對 부산지회] - 1회전"]
+[White "정국봉 [금천지부]"]
+[Black "이점섭 [부산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "317"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Af8 7. Ad1
+Kf9 8. Kd0 Ra5 9. Afe1 Ade8 10. Ce0 Ce9 11. ab3 Rxa0+ 12. Cxa0 Cg9 13. Cf0
+Ee6 14. Ef3 ih6 15. Rxi9 Cxi9 16. Exh6 gxh6 17. Hg4 hi6 18. He5 cd6 19. Hf3
+Exg3 20. Hg5 Cd7 21. hxg3 ih6 22. Cxh9 fg6 23. Hh3 Ke9 24. Ch4 Cc9 25. Ha3
+Cg9 26. gf3 Ch7 27. Cxf7 Afxf7 28. Hf4 gf6 29. Hh3 Kf9 30. f4 Cd9 31. Hf2
+Hd5 32. fg4 de6 33. Cd4 e5 34. Cd2 Ce7 35. Eg0 f5 36. Ei3 Ke9 37. c4 Hc7
+38. bc3 Aff8 39. cd4 Cf9 40. Cf0 Hb9 41. gf4 fxf4 42. Cxf4 h5 43. Cf0 Hd8
+44. Hg4 He6 45. Hh6 Hg5 46. Cc0 Hh3 47. Hc4 ba6 48. Hd6 hg5 49. Cf0 Cd7 50.
+Eg0 Hg1 51. Hi4 ef5 52. Hg3 ab6 53. Cf6 f4 54. He2 Hh3 55. Cxb6 f3 56. Ei3
+f2 57. Axf2 Hxf2 58. Ae1 Hh3 59. Ce6 Cf9 60. Hc8+ Ad8 61. Ha7 Ad7 62. Hc6
+Cc7 63. Hg3 Kd9 64. Ce0 Afe8 65. d5 g4 66. He4 gf4 67. Hf6 Add8 68. Cc0 Af7
+69. Hh5 Ade8 70. Cf0 Ke9 71. Ke0 fg4 72. He5 gh4 73. de3 hi4 74. Eg0 Hg1+
+75. Kd0 Cd9+ 76. cd3 Afe7 77. Hg3 ih4 78. He2 Hh3 79. Cd2 Cg7 80. d6 Hi1
+81. Ei3 hi4 82. Ef1 Hh3 83. de6 A7f7 84. ef6 Afe7 85. ef3 Hg5 86. f4 Hh3
+87. fe6 A7d7 88. f5 Cc7 89. f6 Hg5 90. Ke0 He4 91. Cf0 Cxd3 92. Hg4 Cd8 93.
+Hh6 Hg5 94. Hc3 Kd9 95. Hb5 Ch7 96. ed6 Ade7 97. fe6 A7f7 98. Cd0 Ch5 99.
+Hc7+ Ke9 100. Kf0 Cf8 101. Hg8 Ce5 102. Hf6 Ci5 103. Ed4 He4 104. Hd5 Hg5
+105. Hf4 Ci3 106. Eb7+ Cd8 107. H6h5 Ci9 108. ef6 Afe7 109. de6 A7d7 110.
+He2 Cd9 111. Ke0 ih4 112. Hg7 He4 113. Hf5 hg4 114. Hh6 g3 115. Hg8+ Kf9
+116. Cf0+ Cf8 117. Hi7 Add8 118. Hg6 Cf5 119. Ee5 Ke9 120. Hh4 Cf8 121. Eh7
+Hg5 122. Hg6 gf3 123. Hf4 Kf9 124. Hxf8 Axf8 125. Hg6 Ade8 126. Cf5 fe3
+127. e7 Axe7 128. Cxf8 Ke8 129. Cf5 Kd8 130. fe6 Ae8 131. Ee5 Hh3 132. Af1
+e2 133. Cf0 Hg5 134. e7 He4 135. Ae1 e2xe1+ 136. Kxe1 Hg5 137. e7xe8+ Kxe8
+138. Kf1 He4 139. Hf4 Hd2+ 140. He2 Hc4 141. Eh7 He3 142. Ef4 Cf7+ 143. Ec6
+Hg2 144. Cf2 Hh4 145. Hd4 Hg6 146. Hf3 He7 147. He5 Cd9 148. Ea3 Hf5 149.
+Ec6 Hg3+ 150. Ke1 He4 151. Cd0 Hc5 152. Kd1 Ha4 153. Hg4 Hb2+ 154. Ke1
+{빅장}
+154... Kd8 155. He5 Ke8 156. Ee3 Ha4 157. Hg4 Hc3 158. Hf6+ Cf7 159. Ec6
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 [금천지부 對 부산지회] - 2회전"]
+[White "김태용 [부산지회]"]
+[Black "김학림 [금천지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "148"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Ra7 7. g4
+Cf7 8. Ee3 gh6 9. h4 Af8 10. Ke0 Cf9 11. Hf4 Hxf4 12. gxf4 Ege6 13. Rg0 Ri7
+14. hg4 i5 15. g5 ih5 16. gf5 Eh4 17. Rg3 Ke9 18. Ra1 Ade8 19. f6 Kd9 20.
+Cb9+ Ee6 21. fxe6 Hxe6 22. fg4 Rf7 23. gxh4 hxh4 24. Cb0 hg4 25. Rxg4 Rxf3
+26. Exc6 Hf4 27. Ade1 dxc6 28. Kd0 Cd7+ 29. Hd2 Hxd3 30. Rd4 Hf4 31. Cee0
+Rg3 32. Cb4 Hg2 33. cd3 Ke9 34. bc3 hg6 35. Cg4 Hi3 36. Cc4 cb6 37. Rd6 Rb7
+38. Cc1 Cf9 39. Ra4 Hh5 40. Cf1 Cd9 41. Cd1 Hg7 42. Hf1 Rg5 43. He3 a5 44.
+Rg4 Rxg4 45. Hxg4 g5 46. He5 Hf5 47. Rg6 gh5 48. c4 ab5 49. Cd5 Rb8 50. Ad1
+He3 51. dxe3 Rd8 52. cd4 bc5 53. Cd2 Rxd4 54. ed3 Cxd3 55. Rxb6 Cd9 56.
+Afe1 Ce4 57. Rc6 cd5 58. Hg4 hg5 59. Hf2 de5 60. Hxe4 exe4 61. Re6 ef4 62.
+Ce2 Re4 63. Rxe4 fxe4 64. Ce0 ef4 65. Ce6+ Kf9 66. Ke0 g4 67. Cf0 f3 68.
+Add2 g3 69. Ade2 Aef7 70. -- fe3 71. A2d2 gf3 72. Cd0 A8e8 73. Kf0 Afe7 74.
+Add1 fg3
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 [금천지부 對 부산지회] - 4회전"]
+[White "이철호 [금천지부]"]
+[Black "조만정 [부산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "183"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Hc2 Ce7 3. Che2 e5 4. ab3 Ed6 5. ef3 Exb3 6. cxb3 cb6 7. Hge3
+Hf7 8. Ra4 Ef6 9. Cd2 Hc5 10. Rg4 ih6 11. b4 e4 12. Hc4 Exc4 13. bxc4 Hd7
+14. Rxe4 Rc9 15. Rd4 Hde5 16. Ha3 a5 17. Ee3 a4 18. Hb1 Hxc4 19. Hc3 ab4
+20. Ad1 b3 21. He4 Hxd2 22. Hd6+ Kf8 23. Rxd2 Afe8 24. Af1 Ch1+ 25. Af2 Ci7
+26. ih3 Ch5 27. Hxf7 Axf7 28. Rd6 Ch7 29. Rxb6 bc3 30. Ri4 Ade8 31. Rc6 Ce7
+32. Ric4 Rcd9 33. Rxc3 Ce9 34. Ea3 Kf9 35. Exg6 hxg6 36. Rxg6 Cd7 37. Ec6
+Rd8 38. Rd3 Ri1+ 39. Af1 Afe7 40. Rf6+ A7f7 41. fe3 Ch9 42. Ef4 Chd9 43.
+Exd7 Cxd7 44. Ce0 Aff8 45. e4 Ke9 46. e5 Rb8 47. ef5 Kf9 48. Rc6 Rb9 49.
+Rh6 Ri9 50. Rh7 Rb7 51. Rc3 Rb9 52. f6 Rd9 53. Kf0 Rd8 54. Ade1 Cd9 55. gf3
+Ra8 56. Rd3 Ra0 57. Rd0 Ra2 58. Aff2 Ra8 59. hg3 Ad8 60. Rc0 Ra2 61. f7
+Afe8 62. f7xe8+ Axe8 63. Rd0 Ra9 64. Rdd7 Ri8 65. Ri7 Rh8 66. Rdh7 Rg8 67.
+Cg0 Rxg3 68. fxg3 Ra8 69. Rh8 Rd8 70. Ke0 Ke9 71. Ri4 Rd7 72. Re4 Rf7 73.
+Cd0 Cf9 74. g4 Rd7 75. g5 Cd9 76. g6 Rf7 77. g7 Rd7 78. Ad2 Re7 79. Rxe7
+Axe7 80. Ade1 Ae8 81. g8 Kf9 82. Cf0+ Ke9 83. g8f8 Ae7 84. Rh7 Ae8 85.
+f8xe8+ Kxe8 86. Rh8+ Ke9 87. Rd8 Cf9 88. Rd7 Cb9 89. Rb7 Ch9 90. Re7+ Kd9
+91. Rd7+ Ke9 92. Rf9#
+{White mates} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 순위 결정전 [수원지부 對 부산지회] - 1회전"]
+[White "최진호 [수원지부]"]
+[Black "이점섭 [부산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Af8 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ade1 Kf9 10. ab3 Ee6 11. Ra4 Ade8 12. Rai4 i5 13. Ra4 Ce9
+14. Ri1 Cg9 15. g4 cd6 16. Kd0 Ha6 17. Ca2 Cc7 18. Hb0 Ci7 19. Rh1 Ca7 20.
+Cxa6 bxa6 21. Rxa6 Ch7 22. Ra4 Cd7 23. Hbd1 Cd9 24. Ri1 Ci7 25. Rg1 Ce7 26.
+gf4 Rg5 27. Rxg5 gxg5 28. Ra5 f5 29. fxf5 gxf5 30. Rxf5 i4 31. Eh5 Cg7 32.
+Ef3 Ri6 33. c4 Ec9 34. Ec5 de6 35. Rf4 Ea6 36. Rg4 Cd7 37. d4 He5 38. Re4
+Aff7 39. d5 Ef6 40. Cd2 Exh3 41. Hxh3 ih4 42. Hf4 Hg4 43. Hxe6 Ri3 44. d6
+Hf6 45. Rxh4 Ch7 46. Ee3 Ce7 47. Rf4 Ri6 48. Eb1 Ed8 49. Exe8 Axe8 50. dc6
+Ke9 51. Hc7 Hh5 52. Rh4 Rxc6 53. Hxd9 Hg7 54. Rg4 Hf9 55. Ed4 Rc9 56. Eg6+
+Hg7 57. Ri4 Rc6 58. Ee3 Ra6 59. Hb2 Axd9 60. Ri9+ Hf9 61. Cxd9 Ke8 62. Cd2
+Ef5 63. Ri5 Ra5 64. bc3 Rb5 65. Hc0 Ce9 66. cd3 Re5 67. Rg5 He7 68. Aff1
+Rb5 69. Cf0 Rb3 70. Cf3 Rb6 71. Ri5 Rh6 72. Cf0 Eh8 73. Ra5 Rd6 74. Hb2 Hf5
+75. Cd2 Rb6 76. Ra8+ Kf9 77. Cf0 Rh6 78. c5 Ch9 79. Ec6 Rd6 80. Rxh8 Cd9
+81. Ke0 Cxd3 82. Cxf5 Cd8 83. Cf0+ Ke9 84. Rh9+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 순위 결정전 [수원지부 對 부산지회] - 2회전"]
+[White "김태용 [부산지회]"]
+[Black "이석봉 [수원지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Hg7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Kf8 8. Ee3 g5 9. Rc4 ih6 10. Kd1 h5 11. Exc6 dxc6 12. Rxc6 Afe8 13. Hd2 Kf9
+14. Ade1 Ri6 15. Kd0 gf5 16. Ce0 Ce9 17. Cf2 Hd8 18. Rxi6 Exi6 19. Ca2 Rb9
+20. Cb0 ab6 21. Exb6 Ee6 22. Ee4 Exc3 23. bxc3 fe5 24. Eh6+ Kf8 25. Ce0 Rb2
+26. He3 Rb6 27. Hec4 Rxh6 28. Cg2 ef5 29. Ch0 Exg3 30. fxg3 Hi8 31. Ra5 Rf6
+32. Cxh5 Hc6 33. Rc5 fe5 34. Cc2 e4 35. cd3 Hd8 36. Rg5 Hh6 37. Ch0 Cxf0
+38. Cf2+ Rc6 39. Axf0 Rxc4 40. Cxh6 Af9 41. Rg8+ Kf7 42. gf3+ Ke7 43. Rg7+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 순위 결정전 [수원지부 對 부산지회] - 3회전"]
+[White "신한은 [수원지부]"]
+[Black "박동민 [부산지회]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "78"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Hf2 ef6 6. He3 Af8 7. Ef3
+Ee6 8. Ke0 Ce9 9. Ra1 Ra5 10. a4 Rg5 11. Rg1 Kf9 12. g4 Rb5 13. Afe1 Rb0
+14. Kf0 Exc3 15. dxc3 He6 16. Ce0 Rb5 17. c4 Ade8 18. ab4 Ra5 19. Rgi1 g5
+20. h4 gxg4 21. hxg4 Rh5 22. Che2 f5 23. Rxi6 Rxi6 24. Rxi6 f4 25. Ei1 cd6
+26. gxf4 Hxf4 27. Ef3 Cc7 28. cd4 bc6 29. bc4 c5 30. Ri4 Hh3 31. Hxh3 Rxh3
+32. Ei5 Rh5 33. Hg2 Ef6 34. Ri2 cxc4 35. Ee3 Eh3+ 36. Rh2 Rg5 37. Exf7 Rxg2
+38. Rxh3 Afxf7 39. dxc4 Afe7
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전 [남양주지부 對 금천지부] - 2회전"]
+[White "박재선 [남양주지부]"]
+[Black "김학림 [금천지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ri4
+Cd7 8. Raa4 Rg7 9. Ea3 cb6 10. Rah4 Kd8 11. Rh8+ Ade8 12. Ch7 gh6 13. Ch9
+Rf7 14. Exh6 ixh6 15. Cxh6 b5 16. Rg8 Ce9 17. Ch1 f5 18. Hf2 a5 19. Ca1 Ra6
+20. Cf1 f4 21. Ec0 Hd5 22. He3 He7 23. Rh8 bc5 24. Ri5 ab5 25. ba3 Rf6 26.
+Rf5 Ri6 27. Cd1 Kd9 28. g4 Hg6 29. Rg8 fxg4 30. Hfxg4 Hef4 31. Rxg6 Raxg6
+32. Rxf4 Ri2 33. Hf6 Ce6 34. Heg4 Rgi6 35. Ra4 Rg2 36. Ra9 Ri0 37. Rxc9+
+Kd8 38. Ade0 Rh0 39. Hf2 Rg6 40. H6g4 Ce9 41. Ee3 Rb6 42. Ec6 Ee6 43. Rc8+
+Kd9 44. Exe9 Afxe9 45. Hf6 Af7 46. Ra8 Ri0 47. Ra9+ Kd8 48. Rxe9 Ri6 49.
+Rf9 Rb7 50. Rxf7 Ri8 51. Re7 Exc3 52. Hxd7
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전 [남양주지부 對 금천지부] - 3회전"]
+[White "황호철 [금천지부]"]
+[Black "김시현 [남양주지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Hd2 Ed6 7. f4
+Ra8 8. g4 e5 9. Ed3 ed5 10. Exg6 hxg6 11. He3 de5 12. Hg2 Ee6 13. Ad1 e4
+14. fxe4 Exc3 15. bxc3 Exg4+ 16. Kd0 Exd2 17. Axd2 Ri5 18. Hf4 Rf5 19. Rg0
+g5 20. Afe1 Cf7 21. Hh3 Hi6 22. i4 Rf3 23. Hxg5 Hxg5 24. Rxg5 Ke9 25. e5
+Ade8 26. e6 Ce3 27. ed6 Hf8 28. Rxc5 Cd9 29. Rc9 Rb8 30. Rxa6 Rf5 31. Eb6
+Rxb6 32. Rxb6 Rd5 33. c4 Rd3 34. c5 Rc3 35. Ce0 He6 36. Rb4 Hd8 37. Ci2
+Aff8 38. Aed1 Kf9 39. Rh4 Ce9 40. Rh2 Hb7 41. Cf2+ Rf3 42. Rc7 Ha5 43. d7
+Cf7 44. Rc9 Cd9 45. d7xe8+ Kxe8 46. Rc8+ Ke7 47. cd5 Hb3 48. d6 Hxd2 49.
+Rc7+
+{Black resigns} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전 [남양주지부 對 금천지부] - 5회전"]
+[White "안룡일 [금천지부]"]
+[Black "장기업 [남양주지부]"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "63"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. Hd1 Ce7 3. Ee2 ih6 4. Ed3 ed6 5. gf3 d5 6. c4 He6 7. Ke0 ab6
+8. Ade1 Hbc7 9. Cf2 Ke9 10. Cd0 c5 11. cxc5 dxc5 12. Hcb2 b5 13. a4 Ad8 14.
+Rc0 Ef7 15. Aff1 Cd7 16. Cc2 Cd9 17. Ca2 Rb9 18. Cb0 Af8 19. a5 Ed7 20.
+axb5 Hxb5 21. Ha4 Rc9 22. Hdb2 Cf9 23. Cd2 Afe8 24. Cd6 Rc6 25. Cxb5 Rxd6
+26. Rxc5 Ci7 27. ih3 Rxd3 28. Hxd3 Exc5 29. Haxc5 Hg5 30. Ce5+ Kd9 31. Ha6
+hi6 32. Hb8#
+{White mates} 1-0
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기 [제주지회 對 남양주지부] - 4회전"]
+[White "이원준 [남양주지부]"]
+[Black "임태봉 [제주지회]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "204"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 ef6 5. Ef3 g5 6. Ri4 Hce6 7. ed3
+Ra7 8. Rb4 Rc7 9. Ch4 f5 10. Ch1 f4 11. He3 c5 12. Cc1 Ce4 13. Eh0 Cxh0 14.
+Hf2 Ce7 15. Hd5 cxd5 16. Cxc7 Hxc7 17. Rxf4 Hge6 18. Rb4 Ch8 19. Ee3 ih6
+20. Ad1 Ke9 21. Af1 Afe8 22. Rg0 Cd8 23. g4 gf5 24. Kd0 dc5 25. Ec6 Cg8 26.
+Rh0 Cc8 27. Ef4 cb5 28. Ra4 a5 29. Ra2 fxf4 30. gxf4 Hxf4 31. Ch2 Hg2 32.
+Rg0 He6 33. Afe1 Hef4 34. hg3 Cg8 35. g4 Cg3 36. gxf4 Cxg0 37. Hxg0 Hxf4
+38. Rf2 Ri0 39. Rxf4 Rxg0+ 40. Af0 Ece6 41. Rf2 Add8 42. Ae1 Rg4 43. Aff1
+Ra4 44. Ch9+ Ei6 45. Ca9 Rh4 46. Ca0 Rg4 47. Rf6 Rg6 48. Rf5 Eh8 49. Ri5
+Add7 50. Cf0 Rg4 51. de3 Cb7 52. ef3 Rd4+ 53. Ad1 Cf7 54. Ae1 Ade7 55. fe3
+Cd9 56. cd3 Rg4 57. bc3 Ee6 58. Re5 Eg9 59. Ke0 Rg0 60. ef3 hg6 61. de3 gf6
+62. cd3 Cf9 63. d4 Eb8 64. de4 fe6 65. Ri5 ed6 66. e5 bc5 67. e6 Egxe6 68.
+Rxc5 a4 69. Rc4 a3 70. Ra4 Ed5 71. Ra6 Edg3+ 72. Kd0 ab3 73. Rxd6 Cf2+ 74.
+Af1 Cf6 75. Rd2 Cxf1 76. fxg3 Exg3 77. Ae1 Cb1 78. Rd3 Cb9 79. ef3 Ee6 80.
+Rxb3 Cf9 81. Re3 Eb4 82. f4 Ed7 83. Re5 A7f7 84. f5 Eg9 85. Re6 Af8 86. Rc6
+Rg4 87. fe5 Rg5 88. e6 Rd5+ 89. Ke0 Ei6 90. Rc3 Re5 91. ed6 Rg5 92. Rc2 Rg0
+93. Re2 Eg3+ 94. Kd0 Cd9+ 95. dc6 Af7 96. Af1 Afe7 97. Re4 Rg2 98. Re1 Rc2
+99. cb6 Ed5+ 100. Ke0 Eb2 101. Cd0 Rc0+ 102. Rd1 Rxd0#
+{Black mates} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기 [제주지회 對 남양주지부] - 5회전"]
+[White "조원위 [제주지회]"]
+[Black "장기업 [남양주지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "44"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. ab3 Ke9 3. Ce2 Ade8 4. ih3 Hd9 5. Ed3 He7 6. Ra4 Cc7 7. Ef3
+Ci7 8. Rh0 Hg7 9. Rg4 ab6 10. Ch7 gh6 11. Ce4 Hf5 12. Ce2 Rh9 13. Cc7 hg6
+14. e4 ih6 15. Ce0 Cd7 16. e5 exe5 17. Cxe5 Ri9 18. Hf2 Ri1+ 19. Af1 Cxd2
+20. Kxd2 Rxf1 21. Ae1 Ra2+ 22. Kd1 Ra1+
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 2경기 [수원지부 對 울산지회] - 1회전"]
+[White "엄등록 [울산지회]"]
+[Black "고승원 [수원지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. Cf2 Ef6 6. ef3 c5 7. Ke0 Af8
+8. Ade1 Kf9 9. g4 Ade8 10. f4 Ce9 11. Aff1 ab6 12. Rb0 Cg9 13. Cf0 ed6 14.
+Ece3 Ea6 15. Exg6 hxg6 16. Hge3 Hd5 17. Hxd5 cxd5 18. f5 Ec8 19. He3 bc6
+20. Rb2 Cd9 21. cd3 d4 22. dxd4 Exd4 23. bc3 Ea6 24. c4 Ec3+ 25. Rc2 Ra3
+26. Rh0 gh6 27. Ri0 Ea5 28. f6 Exc2 29. Hxc2 Ra4 30. fxf7 Aexf7 31. Ri2
+Rxc4 32. gf4 Rg9 33. Ee3 Ra4 34. Rf2 Rg3 35. Exc6 dxc6 36. f5 Exf5 37. Rxf5
+Rc3 38. Ad2 Ce7 39. Afe1 Ke9 40. Re5 A8e8 41. Re6 cd6 42. Re5 d5 43. Re6
+hg6 44. Hd0 Rg4 45. i4 Rg0 46. i5 Rf3 47. Hb1 d4 48. ih5 d3 49. Rd6 de3 50.
+Ce4 Rf4 51. Re6 gf6 52. Re5 Rf5 53. Rxf5 fxf5 54. Hc3 Ad7 55. h6 ed3 56.
+Ha4 f4 57. Hc5 Afe8 58. Ade2 de3 59. A2f2 fxe4 60. Hxe4 ef3 61. Afe2 Ce3
+62. Hc3 f2
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 1경기 [전북지회 對 금천지부] - 1회전"]
+[White "안룡일 [금천지부]"]
+[Black "이래원 [전북지회]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ef3 Hce6 6. Ri4 Cf7 7. Hd2
+Ra7 8. Rc0 Rc7 9. cb3 c5 10. Ei3 Af8 11. Rg4 gh6 12. Ef6 Ri7 13. He3 Cf9
+14. Ke0 d5 15. Cxe6 Hxe6 16. Afe1 Cxf6 17. Rg8 Cf9 18. Cf2 Ce5 19. Rxg9 Ke9
+20. Cc2 Rcg7 21. Cxc9+ Ae8 22. Rxg7 Rxg7 23. Cc2 Ce7 24. bc3 ab6 25. Cf2 d4
+26. ab3 de4 27. Hef1 ef4 28. Kf0 fxf3 29. Hxf3 i5 30. Hh2 i4 31. Eg0 i3 32.
+Rc2 ixh3 33. gxh3 Rg2 34. Rd2 Cxf3 35. hg3 Rxf2+ 36. Hf1 Rxd2+ 37. gxf3 Ri2
+38. Hg3 Ri0 39. Hf5 Rxg0+ 40. Kf1 Ce5 41. Hxh6 Cb5 42. Hi4 Cf5+ 43. fe3
+Cf9+
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 1경기 [전북지회 對 금천지부] - 4회전"]
+[White "유기수 [전북지회]"]
+[Black "이철호 [금천지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ra7 8. Hd2 Ke9 9. Rg4 gh6 10. Ef6 Ri7 11. Rb4 Afe8 12. Rb7 Ra8 13. Rc7 hg6
+14. Ed3 ih6 15. Ee3 Ra9 16. Kd1 Add8 17. Exc6 dxc6 18. Rxc6 Cd9 19. Ade1
+Hd4 20. Rc8 Ri5 21. fe3 Ee6 22. gf3 Hb5 23. c4 Hd6 24. Rc6 ab6 25. Rxa9
+bxc6 26. Ra4 c5 27. cd4 gf6 28. Kd0 Hf5 29. de4 Hc4 30. Cb9 Rg5 31. e5 Rxg2
+32. exe6 Exe6 33. Ca2 Rg0 34. Cb0 Hfxe3 35. fxe3 Cxe3 36. Ra9 hg6 37. Ce2
+Rg5 38. Rc9 Hxd2 39. Axd2 Rd5 40. Afe1 Rxd3 41. Rxc5 Rxb3 42. Cf0 Ce7 43.
+Rh5 Eb4 44. Ce0 Cd7+ 45. Ad1 Rf3 46. Rh9+ Af9 47. Ke1 fe6+ 48. Ce4 e5 49.
+Rh7 Ade8 50. Rxe7 Axe7 51. Cxe7 e4 52. Ke0 Cxd1 53. Ce1+ Ae8 54. Axd1 Exd1
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기 [부산지회 對 송파지부] - 2회전"]
+[White "강민승 [송파지부]"]
+[Black "김태용 [부산지회]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "206"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ke9 7. g4 Ri8
+8. Ef3 Ee6 9. Ch4 Raa8 10. Cc4 Hb9 11. Rb0 Hd8 12. cb3 Ade8 13. Rc0 Ce5 14.
+Ra0 Cd7 15. Cc1 Ce7 16. Cg1 Ra5 17. a4 Ra8 18. d4 Aff8 19. Ca1 Rc8 20. Ci1
+Ci7 21. ab4 Cd9 22. Ra9 Kf9 23. Rg0 Rg8 24. Cc1 Rc7 25. Cg1 Ri8 26. bc4 Ra7
+27. Rxa7 Cxa7 28. Ri0 Cg9 29. gf4 g5 30. de4 Cc9 31. ed4 f5 32. fe4 Ef6 33.
+Ri3 ih6 34. Rxi8 Exi8 35. Cd1 Ch7 36. Cf1 Ef6 37. hi3 h5 38. Ei1 cd6 39.
+Ha3 h4 40. e5 fxe5 41. Cxf6 Ci9 42. Ef3 gf5 43. ih3 f4 44. Ei1 Cxh3 45.
+Hxh3 hxh3 46. Cxe5 hi3 47. Eg6 Cxi1 48. Exi3 Ci7 49. Ef5 Ce7 50. Kd1 fg4
+51. Ade1 Ke9 52. Kd0 Hh6 53. Ed2 bc6 54. Aff1 gf4 55. Cf2 Eh4 56. Cf0 Exf1
+57. Cxf4 Eh4 58. Ce0 He6 59. Cxe6 dxe6 60. d5 Ef7 61. Cb4 Kf9 62. Hb5 Ch7
+63. Cb0 Cd7 64. Ke0 Ad8 65. Ha7 cd6 66. dxd6 exd6 67. Hb9 Afe8 68. Hc7 Ke9
+69. Hb5 de6 70. Cf0 Hi4 71. Eg0 Hg3 72. Ee3 Hf5 73. Ec6 Hh4 74. Cb0 Hf3 75.
+Cb4 He5 76. Ee3 Hxc4 77. Eg6+ Cg7 78. Ce4 Kf9 79. Kf0 ef6 80. Ei3 He3 81.
+Ef1 Hg2+ 82. Ke0 Ce7 83. Kd0 Ce9 84. Hd4 f5 85. Hc2 f4 86. Ce0 Cg9 87. Ce2
+f3 88. Cb2 Hf4 89. Ei3 Ec5 90. Cb4 fg3 91. Ef5 Ef7 92. He3 gf3 93. Hc4 Cd9+
+94. Ke0 Hh5 95. Cb0 Hg3 96. Cf0 Add7 97. He5 fe3 98. Ei3+ Eh4 99. Af2+ Cf7
+100. Eg6 Hh1 101. Hxf7 Hxf2+ 102. Ke1 e2+ 103. Kd1 Axf7
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기 [부산지회 對 송파지부] - 3회전"]
+[White "지차용 [부산지회]"]
+[Black "정원직 [송파지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Ce2 Ce7 4. Hg2 Hf7 5. ef3 Ef6 6. Cf2 Af8 7. Ad1
+Kf9 8. Cd0 Ade8 9. Hge3 Ce9 10. Ke0 ab6 11. Ea3 Cg9 12. Ri2 ed6 13. Afe1
+Ra5 14. Rf2 Ee6 15. f4 Cxg3 16. f5 Cg9 17. fxf6 gxf6 18. Rxf6 Rg5 19. Rf1
+Ch0+ 20. Af0 Rxi3 21. Ke1 Ri2 22. Ec0 Ch7 23. Ra4 Ce7 24. Ce4 Re5 25. Ce2
+Rg5 26. cd3 Cd9 27. Ra9 Rc5 28. Rg1 Ke9 29. d4 Rxc2 30. Ad2 Rc1+ 31. Ad1
+Cxe3 32. Rg9+ Aff9 33. Rxf9+ Kxf9 34. Exe3 Ri1+ 35. Af1 Rxf1+ 36. Kxf1
+Rxd1+ 37. Kf0 Rxd0+ 38. Kf1 Eh4#
+{Black mates} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 [남양주지부 對 수원지부] - 1회전"]
+[White "고승원 [수원지부]"]
+[Black "김시현 [남양주지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+ed6 8. Cb1 dxc6 9. Ci1 Rh9 10. He3 a5 11. Ed3 He6 12. Hf5 Ce5 13. Ra2 Ke9
+14. Ca1 Ri9 15. f4 g5 16. fe4 gxf5 17. exe5 fxe5 18. b4 Ade8 19. Cxa5 e4
+20. gf3 ed4 21. Eg1 Ch5 22. ba4 c4 23. cxc4 dxc4 24. Hd2 cd4 25. Rb2 cb6
+26. Ce0 Ch7 27. Rb4 Ch1+ 28. Ei4 d3 29. Hb3 Ch7 30. Hd4 Cb7 31. Rc4 Ce7+
+32. Ce2 Hxd4 33. Rxd4 Hc5 34. Ca1 Rxa4 35. Rxa4 Hxa4 36. Rg0 Ee6 37. Rg4
+Hc3 38. Ad1 Ri5 39. Af1 Ra5 40. Kf2 Rxa1 41. Rc4 Hxd1+ 42. Ae1 d2 43. Ch2
+d2xe1 44. Ef6 e1f1+ 45. Kxf1 He3+
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 [남양주지부 對 수원지부] - 3회전"]
+[White "송은미 [남양주지부]"]
+[Black "최진호 [수원지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Ri4 Ce7 3. Ke0 ab6 4. Hf2 Ce5+ 5. Re4 Hc7 6. Hc2 Cd7 7. Cbe2
+Ke9 8. Ade1 Ce7 9. Rg4 ef6 10. ed3 Ra5 11. He4 He6 12. a4 Ri5 13. gf3 Ri0
+14. Hf2 ih6 15. Rg0 R9i4 16. a5 Ri5 17. Ee3 Afe8 18. fg3 Cf9 19. c4 Add8
+20. Ef3 Rxg0 21. Hxg0 Rg5 22. Hf2 Hf4 23. Cg2 Rf5 24. Hd4 Rd5 25. Ra3 h5
+26. Cd2 Hfe6 27. Ce2 Ei6 28. g4 Hxd4 29. dxd4 Rf5 30. Ei1 hg5 31. Aff1 Ee6
+32. Cf0 gxg4 33. Hxg4 Rg5 34. Hf2 Ca9 35. ab5 Ci9 36. bxb6 cxb6 37. Ef3 b5
+38. Cc0 Hb9 39. Exg6+ fxg6 40. Ra9 Rf5 41. Ed6 Aed7 42. Ea8 b4 43. Ec5 bxc4
+44. dxc4 Rf4 45. Ra4 A8e8 46. Cf0 Hc7 47. cd4 Cd9 48. He4 Ri4 49. Cxe6 Ri5
+50. Ee2 Hb5 51. Rc4 Hxd4 52. Ce3 Eg9 53. Cd0 Ee6 54. Hg3 Re5 55. Ad2 Hxe2
+56. Hxe2 Rxe3 57. Afe1 Rxh3 58. Kf0 Rf3+ 59. Cf2 Cxd2+ 60. Axd2 Rxf2+ 61.
+Ke0 Eg3#
+{Black mates} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 [남양주지부 對 수원지부] - 4회전"]
+[White "최재용 [수원지부]"]
+[Black "이원준 [남양주지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 Ra8 9. Ria1 cb6 10. Ed3 Rc8 11. Rc0 Ke9 12. Ade1 Afe8 13. Aff1
+Hh9 14. Kf0 Hf8 15. Ce0 Cc7 16. Rb0 Cf7 17. Cf2 Add8 18. Ra4 Cf9 19. Ci0
+Ra5 20. Ri4 Exc3 21. Rc0 Cc9 22. bxc3 Ra3 23. Exb6 axb6 24. c4 de6 25. ih3
+Ed6 26. Ra0 Rxa0+ 27. Cxa0 Ra8 28. Cg0 Ra5 29. Ci2 gf6 30. Ce2 hg6 31. cd4
+Kd9 32. Hc4 Rc5 33. Cc0 Rh5 34. Ch2 Re5 35. f4 Cb4 36. Ce2 Ra5 37. Cg0 Ea8
+38. fe4 g5 39. Cd0 Ra0 40. Ri5 gf5 41. gf3 Cf9 42. hg3 Cbb9 43. Ce0 bc6 44.
+d5 c5 45. dxc5 Exc5 46. ed4 fe5 47. d5 exd5 48. Rxd5 Ce9 49. Cxd7+ Adxd7
+50. Rxc5 Ce7 51. Ra5 Rb0 52. Hd2 Rb4 53. Eb5 ed6 54. Cg0 fe6 55. Cd0 Rh4
+56. He3 Rh5 57. Hec4 Ke9 58. Ee3 Rh4 59. Rg5 Cd9 60. Rg8 d5 61. g4 Rh6 62.
+Ke0 e5 63. g5 e4 64. Cxd5 ed4 65. Hb2 Rb6 66. Hdc0 de4 67. Hd1 exe3 68.
+fxe3 Rd6 69. Hc3 Rc6 70. Hd1 Rxc0+ 71. Cd0 Cxd1 72. Af2 Cd9 73. gf5 Rxd0#
+{Black mates} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 [금천지부 對 부산지회] - 3회전"]
+[White "지차용 [부산지회]"]
+[Black "황호철 [금천지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "100"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hd7 3. Hc2 ab6 4. Cbe2 Ra8 5. Cf2 Cbe7 6. ed3 ef6 7. Ad1
+Ee6 8. He3 Cf7 9. Ke0 Ke9 10. Afe1 Ade8 11. Cd0 Cd9 12. g4 Aff8 13. Ei3 ih6
+14. Rh0 Ri5 15. h4 Rc5 16. Rh3 Exc3 17. dxc3 Rxc3 18. Cg0 He6 19. gf4 Hd4
+20. Ce4 Hc5 21. Ceg4 Hde6 22. Ci4 Rc1 23. Add2 Hb3 24. Ci2 Hxf4 25. Rf3 Hd5
+26. Ade2 Hxe3 27. Rxe3 Ed6 28. Kf0 Hd4 29. A2d2 Ra5 30. Cf2 Cg9 31. Hi1 Rg5
+32. Cgd0 He6 33. Rh3 Rg1 34. Aee2 Hf4 35. Re3 Rxi1 36. Rxe7 Axe7 37. Exg6
+hxg6 38. Aee1 Afe8 39. Ca2 Cd9 40. Ade2 Hd3 41. A1d2 Hb2 42. Rb0 Rxc0 43.
+Rxc0 Hxc0 44. Ade1 Ri3 45. Caf2 Rxa3 46. Cg0 Hxe1 47. Axe1 Eb3 48. Ae2 Ra4
+49. Ce0 Rxh4 50. Ci0 Rh0+
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 순위 결정전 [수원지부 對 부산지회] - 4회전"]
+[White "조만정 [부산지회]"]
+[Black "한시녕 [수원지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hd2 Ce7 3. e4 Hf7 4. Ra1 e5 5. Ce2 exe4 6. Hxe4 Ee6 7. Hgf2
+ab6 8. cb3 Ra5 9. Ed3 Rd5 10. Exb6 cxb6 11. Rc1 Hb5 12. Hc5 bc6 13. Ef3
+cxc5 14. Rxc5 Rxc5 15. Exc5+ Ke9 16. Ri4 Ef6 17. Kf1 Af8 18. Cg2 gh6 19.
+Rg4 Hc7 20. Cc2 Ec3+ 21. bxc3 He6 22. Afe1 Af9 23. Ce2 Rg9 24. Rb4 Rg5 25.
+c4 Ch5 26. g4 Cf5+ 27. Ef3 Rxg4 28. Rb6 Hf4 29. Cc9+ Ke8 30. Rb8+ Ad8 31.
+Ec5+ Kd9 32. Cxf9 Rg1+ 33. Kf0 Hxe2+ 34. Hg4 Rg0+ 35. Kf1 Hf4+ 36. Hf2 Hg2+
+37. Hg4 Rg1+ 38. Kf2 Ei4+ 39. h4 Cf8+ 40. Ke2 Hf4+ 41. Ef3 Cxb8 42. Cxf4
+He5+
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전 [남양주지부 對 금천지부] - 1회전"]
+[White "송은미 [남양주지부]"]
+[Black "정국봉 [금천지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Ce7 3. Ri4 ef6+ 4. Ee2 ab6 5. He4 Hc7 6. Cg2 Hge6 7. Ca2
+Rb9 8. g4 f5 9. Cb2 fe5 10. Hg3 Ke9 11. Ri2 c5 12. Ke0 b5 13. h4 Rb8 14.
+Ra1 Rf8 15. Rd1 ed5 16. Rg1 Cd7 17. Afe1 Ea6 18. cd3 Afe8 19. Cb6 g5 20.
+gxg5 Hxg5 21. h5 He6 22. h6 Cf9 23. hxi6 Hf4 24. Ri4 Rxi6 25. Rxi6 Exi6 26.
+Hh1 Hxe2 27. Axe2 Cxe2 28. Hc2 Rf2 29. Rc1 Rh2 30. ef3 Ec9 31. Cb3 Ee6 32.
+Ce3 Ad8 33. Ra1 Cb2 34. Rc1 Kd9 35. Cb3 c4 36. a4 bc5 37. ab4 Rd2 38. bxc4
+cxc4 39. Ae1 Rxd3 40. Ce3 c3 41. -- Rd4 42. Ra1 cxc2 43. Ca0 Rh4 44. Hf0
+Ec3 45. Cd0 Rd4 46. Ad1 Rc4 47. Ke1 Eg9 48. Ch3 Ee6 49. Chd3 Ke9 50. Cf2
+Rg4 51. Cdd0 Rg1+ 52. Ke0 Rf1 53. Cd3 cd2
+{White resigns} 0-1
+
+[Event "제1회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전 [남양주지부 對 금천지부] - 4회전"]
+[White "이철호 [금천지부]"]
+[Black "이원준 [남양주지부]"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ed6 5. ed3 Hd7 6. Hce3 Ke9 7. Cf2
+Afe8 8. Ke0 g5 9. Ei3 ih6 10. Af1 h5 11. Cf0 Ri6 12. Ade1 Ci7 13. Rh0 Cbe7
+14. c4 Cf7 15. d4 Kf9 16. h4 Ce9 17. g4 ef6 18. gxg5 hxg5 19. d5 Af8 20.
+dxd6 cxd6 21. hg4 gh5 22. a4 Ade8 23. g5 Rh6 24. Hg4 de6 25. gf5 Rg6 26.
+fxf6 exf6 27. H2e3 Rg5 28. Cd0 Ch7 29. Ri0 h4 30. Cg0 Ri5 31. Hf2 He6 32.
+Ci2 hi4 33. Heg4 Ca7 34. ab4 Rh5 35. Cxi4 Rh4 36. Ci2 Hf4 37. cd4 Cae7+ 38.
+Ee3 Rxa0+ 39. Cxa0 Hg2 40. bc4 f5 41. Eg6 f4 42. Rg0 Hi3 43. Hf6 f3 44. Hg8
+Hg4 45. Ce2 fxe3 46. Exe3 Hxe3 47. Cf0 Aef7 48. He4 Hxc4 49. Rg6 Ha3 50.
+Cxf7+ Axf7 51. Hxe7+ Axe7 52. Rg3 Cxe4 53. dxe4 Rxe4 54. Rxa3 Ee6 55. Kf0
+Rg4 56. Ce0 Ae8 57. Ri3 Rg3 58. Ri6 Hc5 59. Ri5 bc6 60. Aff2 Rg9 61. Rf5+
+Ke9 62. Rd5 Eg3 63. Aef1+ Kf9 64. Rf5+ Af8 65. Rf3 Rg6 66. Ra3 Ae8 67. Ra9+
+Kf8 68. Rb9 Hd3 69. A2e1 Ed5 70. Rb8 Exb8
+{White resigns} 0-1
+

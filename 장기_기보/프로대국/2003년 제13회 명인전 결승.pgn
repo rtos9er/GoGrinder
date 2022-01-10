@@ -1,0 +1,199 @@
+[Event "제13회 명인전"]
+[Site ""]
+[Date "2003년"]
+[Round "명인 결정전 제1국"]
+[White "귀마 황문수 8단"]
+[Black "귀마 조용희 6단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Hg2 Ce7 4. Che2 Hd7 5. ef3 ed6 6. Ee3 Ad8 7. Cb4
+Kd9 8. c4 Afe8 9. Ke0 Ce9 10. Ri1 Cbe7 11. Ria1 cb6 12. Ed3 Ca7 13. Exb6+
+Hxb6 14. Ca2 Ri5 15. Ade1 Ra5 16. Cxa6 Rxa1 17. Rxa1 Ci7 18. Cb2 Hd7 19.
+Ra3 d5 20. Ce2 dc5 21. Ec6 Hb8 22. Cd6+ Cd7 23. Rxa9 Hxc6 24. cxc5 Ha7 25.
+Cd0 Hc8 26. Ra8 Hd6 27. c6 Hf5 28. c7 Cf9 29. Hc4+ Hd6 30. Hxd6 Ce6 31.
+He4+ Ke9 32. Hc5 Add9 33. He3 gf6 34. Aff1 Ee7 35. bc3 hg6 36. Ra9 Ei6 37.
+cd7 g5 38. d7xe8+ Kxe8 39. Ra8+ Ad8 40. He4 f5 41. Rxd8+ Ke9 42. Hc5 Ce8
+43. Hd7
+{Black resigns} 1-0
+
+[Event "제13회 명인전"]
+[Site ""]
+[Date "2003년"]
+[Round "예선"]
+[White "귀마 김도경"]
+[Black "귀마 신대순"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Hd2 Ad8 6. Ke0 Ri5 7. Ri1
+Ed6 8. Ee3 cb6 9. Ed3 Rc5 10. ih3 Exb3 11. cxb3 Rd5 12. bc3 Rc9 13. Ra3 Kd9
+14. Afe1 e5 15. Ri4 Ee6 16. c4 g5 17. Cc2 Rb9 18. cd4 Rc5 19. Cf2 Afe8 20.
+Ce2 Cb0+ 21. Ad1 Rc0+ 22. Cd0 Rbc9 23. dc4 Cbb7 24. Exb6 axb6 25. Kf0 Ce9
+26. Af1 gf5 27. Ade1 Rc1 28. Rd4 Ra9 29. Rad3 Ra0 30. Hb3 Rc2 31. Hc5 Hxc5
+32. cxc5 Rxc5 33. Rg4 Rxd0+ 34. Rxd0 Rc7 35. Ce0 e4 36. Ri4 Ec3 37. Ce2 fe5
+38. Rd6 Cf7 39. Rxb6 Hf5 40. Ri9 Rc9 41. Ch2 exe3 42. Cd2+ ed5 43. Hxe3 Ra9
+44. Rb0 He7 45. Hxd5 Aed7 46. Hxe7+ Ke8 47. Hd5 Exf1 48. Axf1 Ra1 49. Ri8+
+Kf9 50. Hf4 A8e8 51. Rd0 Ra4 52. Ri5 Re4 53. Rf5 hg6 54. Ae1 Af8 55. Rd1 g5
+56. Rf6 Cf5 57. Af2 Ae8 58. Cd0 Re0+ 59. Kf1 Re5 60. Rd2 Aff7 61. Cd7+ Af8
+62. Cd0 A8e8 63. Ri6 Re4 64. Rg6 Re5 65. Ae1 Cf8 66. Ri6 Re4 67. Cf2
+{Black resigns} 1-0
+
+[Event "제13회 명인전"]
+[Site ""]
+[Date "2003년"]
+[Round "명인 결정전 제2국"]
+[White "귀마 조용희 6단"]
+[Black "귀마 황문수 9단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 Rd5 9. Ed3 cb6 10. Afe1 dc6 11. ih3 Rd4 12. Add1 Ed6 13. Exc6
+bxc6 14. fe3 Ad8 15. Ce4 Exb3 16. cxb3 Kd9 17. Ri9 Ce5 18. Cf2 Ce9 19. Ri5
+c5 20. Cd0 Rd5 21. Ri4 Rd6 22. Ce2 Afe8 23. gf3 Rb6 24. Ra2 Hh9 25. Hf4
+Hhf8 26. Ri9 g5 27. Cf0 g4 28. Hd5 Cf7 29. Hf6 gh4 30. hxh4 hg6 31. He4
+Exh4 32. bc3 Rbb9 33. Hd6 Cf9 34. c4 cxc4 35. Hxc4 Rc9 36. Hd6 Rc6 37. He4
+ab6 38. Rxa9+ Cxa9 39. Ea1 Ee6 40. Ec4 Rc8 41. Rg9 Ce9 42. Ri9 Ra8 43. Hb3
+Ra4 44. Hd2 Ra5 45. Cc2 Ra4 46. Cf2 bc6 47. C0d0 c5 48. Cf4 Ra0 49. Hb3
+cxc4 50. Cxc4 Ce7 51. Cf4 Ke9 52. Hd4 Hc5 53. Hc6 Cxe4 54. exe4 Hxe4 55.
+Hxd8 Rc0 56. Hb7 Rc3 57. Ri3 Rc7 58. Ha5 Hc3 59. Cf1 Rc5 60. Hb3 Rc4 61.
+Cf0 Rb4 62. Hc1 Hh7 63. Hd3 Eh4 64. Cf4 Rd4 65. Hf2 Ee6 66. fe3 Rd5 67. e4
+gf6 68. Cd4 Hxe4 69. Hxe4 Rxd4 70. Hd2 Hg5 71. Hf1 Cxf1 72. Axf1 Rxd1 73.
+Ri9+ Af9 74. Rxf9+ Kxf9 75. Ae1+ fg6 76. Axd1 Eg3+ 77. Ke1 Exd1 78. Kxd1
+He4
+{White resigns} 0-1
+
+[Event "제13회 명인전"]
+[Site ""]
+[Date "2003년"]
+[Round "명인 결정전 제3국"]
+[White "귀마 황문수 8단"]
+[Black "귀마 조용희 6단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. Cb4
+Kd9 8. c4 Afe8 9. Ed3 Ce9 10. Ci4 Ee6 11. Ci1 Rf9 12. ih3 Cc9 13. Cd1 Ce7
+14. Cf1 Rh9 15. Ri4 d5 16. cd4 dxd4 17. Rxd4 Ri9 18. hi3 ab6 19. Rxa9 Cxa9
+20. Exc6 bxc6 21. Rc4 c5 22. Rb4 Eb8 23. Cc1 Cc9 24. fe3 Cf9 25. Ke0 Ed5
+26. gf3 Ri5 27. Ade1 Ed6 28. bc3 Eg8 29. ih3 Ri0 30. Cf1 Rg0 31. Hf4 g5 32.
+h4 Ch7 33. Kd0 gf5 34. Ce0 Rg2 35. Hxd5 cxd5 36. Cd1 fe5 37. hg4 Ed6 38.
+gf4 Ch4 39. Eb6+ Ke9 40. Rb1 Ch7 41. c4 Ce7 42. cd4 dxd4 43. Cxd4 Rg6 44.
+Cb0 Cb7 45. Ed3 Ce7 46. Ea1 Ea4 47. Rb4 Ec7 48. Ce0 Hc5 49. Cd1 Ra6 50. Ec4
+Ra2 51. Rb5 Hge6 52. e4 exe4 53. fxe4 Exe4 54. Cd6 Ra6 55. Rxc5 Rxd6 56.
+Cxe4 Rxd2+ 57. Axd2 Hxc5 58. fe3 hg6 59. Afe1 Cc9 60. Ea1 Hb3 61. Ed3 Add7
+62. Ce2 Hc5 63. Ke0 Cc3 64. Kf0 Cxe3 65. Ea1 Cc7 66. Cb2 Cc2 67. Ec4 Ha4
+68. Ea7 Hxb2 69. Ed5 Hc4
+{White resigns} 0-1
+
+[Event "제13회 명인전"]
+[Site ""]
+[Date "2003년"]
+[Round "명인 결정전 제4국"]
+[White "귀마 조용희 6단"]
+[Black "귀마 황문수 8단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ed3 Rd5 9. Ri1 Ra8 10. Rc1 Ra5 11. Rxa5 axa5 12. c4 a4 13. cd4 Ra6
+14. Ra1 c5 15. f4 d5 16. de4 Ed6 17. Afe1 Ce9 18. Cb4 Cbe7 19. Cb0 Ad8 20.
+Add1 c4 21. Rc1 ab4 22. Cg0 bxb3 23. Rxc4 bc3 24. e5 dxe5 25. Cxe5 cxd3 26.
+Hf1 Ea8 27. Ce2 Ec5 28. Kf0 Cg9 29. Exg6 hxg6 30. Cd0 Cc9 31. Rb4 d2 32.
+Ce0 d2xd1 33. Axd1 Ef3 34. Rb5 Exd0 35. Rh5 Kd9 36. Rb5 Ea2 37. Rb9 Rc6 38.
+Hfe3 Ade8 39. Cg0 Ke9 40. gf3 Ec5 41. Cxg6 Eb8 42. Cg9+ Af8 43. Ra9 Exf3
+44. Cg4 Kf9 45. Cg0 Hh5 46. ih3 Ri6 47. Ce0 Ri2 48. Hh4 Ce9 49. Hf1 Ec5 50.
+Hf5 Rf2 51. Ra4 Cc1 52. Ad2 Cc7 53. Ra3 Hxf4 54. Rg3 Hg2+ 55. Rxg2 Rxg2
+{White resigns} 0-1
+

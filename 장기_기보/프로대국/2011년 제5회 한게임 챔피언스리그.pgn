@@ -1,0 +1,1501 @@
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-13"]
+[Round "최종 예선전"]
+[White "귀마 이남춘 프로"]
+[Black "귀마 박강평 프로"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 Exg3+ 10. hxg3 fe6 11. Rg1 Ef6 12. Afe1 gh6 13. Rii1
+Rg9 14. Add1 Ke9 15. ab3 Ade8 16. Kd0 cd6 17. Ce0 Ri5 18. Rxi5 ixi5 19. Cd2
+Ce5 20. Exh6 Hxh6 21. Cg2 Ri9 22. Eg6+ Aff8 23. Exi9 Cb7 24. Cd2 Cd7 25.
+gf3 Hf7 26. Exf7 Afxf7 27. Rg9+ Cf9 28. f4 Exd3 29. cxd3 Ce7 30. Hh3 ih5
+31. Cc0 bc6 32. Ch0 c5 33. Cxh5 cd5 34. Ch0 de5 35. Cc0 Hb9 36. Hb4 Hd8 37.
+bc3 Hb7 38. Hg5 Aff8 39. Hi6 e4 40. fxe4 Cxe4 41. Hh8 Ce7 42. Hxf9 Afxf9
+43. Rg5 Hd8 44. Rc5 Ad9 45. Ha6 Hf7 46. Hb8 Afe8 47. Ri5 Hh8 48. Ri9+ Hf9
+49. Cxd6 exd6 50. Ri6 d5 51. Ri5
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-14"]
+[Round "최종 예선전"]
+[White "귀마 송종일 프로"]
+[Black "귀마 양철섭 프로"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Hd2 Ed6 6. Ed3 c5 7. Ke0 Ad8
+8. Ri1 a5 9. Rc1 Af8 10. c4 Exf3 11. Rxa5 Rc9 12. gxf3 cxc4 13. Ra4 He5 14.
+fe3 Ei6 15. e4 Hg4 16. Rcxc4 gf6 17. ef4 Hh2 18. Ee3 Hi0 19. Af1 hg6 20.
+Exg6 fxg6 21. Rxc9 Rxc9 22. Ra7 Rc7 23. Rxb7 Rxb7 24. Cxb7 gf6 25. Ade1 Hh5
+26. fg4 Hh2 27. ih3 Hg0 28. Cb0 Hxe1 29. Axe1 Hg7 30. g5 e5 31. Cg0 Hi8 32.
+Hh4 Eg9 33. g6 f5 34. gf6 Ce3 35. Eb6+ Kf9 36. Hg6 Ade8 37. Hc4 Ce7 38. fe6
+Exe6 39. Cxe6 ed5 40. Kd0 Aff7 41. Hh8+ Ke9 42. Ca6 Ch7 43. hg3 Cd7+ 44.
+Ke0 fe5 45. Cg8 d4 46. Hb2 e4 47. Cxi8 e3 48. bc3 Ch7 49. Ce6+ Ce7 50. Hg6
+Kf9 51. He5 d3 52. cxd3 exd3 53. Hbxd3
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-15"]
+[Round "최종 예선전"]
+[White "귀마 김동학 프로"]
+[Black "귀마 정연기 프로"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Ri5 3. Ce2 Hd7 4. ef3+ Kd8 5. Ee3 ed6 6. c4 Ee6 7. Cb4 c5
+8. cxc5 Rxc5 9. Hd2 Rc1+ 10. Ke0 Hhf8 11. ih3 Ade8 12. Cb1 Rc5 13. Ri4 Cg7
+14. Afe1 gf6 15. Hi3 a5 16. Rc4 d5 17. Ch1 hg6 18. Rxc5 dxc5 19. Ec6 Ra7
+20. Exf8 Afxf8 21. Cd1 ab5 22. He4+ cd5 23. Rxa7 Cxa7 24. Ed3 Kd9 25. Cxd5+
+Ke9 26. Cd2 Ce7 27. f4 Cxe4 28. Cxd7 Axd7 29. fxe4 Kd9 30. Hh5 Cb7 31.
+Exf6+ gxf6 32. Hxf6 Exg3+ 33. hxg3 Afe8 34. bc3 bc5 35. Ad2 Cf7 36. Cc2 cb5
+37. Hd5 Ed6 38. e5 Ea8 39. Hb6 Cb7 40. e6 Ke9 41. c4 Kf9 42. gf3 -- 43. f4
+-- 44. f5 -- 45. A0e1 -- 46. Af1 -- 47. fe5 -- 48. Cf2 Ke9 49. Cf0 -- 50.
+Cf5 Kf9 51. Cxb5
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-20"]
+[Round "1주차 월요일 대국"]
+[White "귀마 김경중 프로"]
+[Black "귀마 이남춘 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "59"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. c4 Ee6
+8. Cb4 Exg3 9. fxg3 He6 10. g4 c5 11. bc3 cxc4 12. cxc4 Ra5 13. Rxa5 axa5
+14. ih3 ab5 15. Cbe4 Ra3 16. Ri5 Cxb0 17. Cb2 ba5 18. Ad1 Cg0 19. Exg0 Rxh3
+20. Rxa5 Rg3 21. Kd0 Rxg4 22. Ade1 Hf4 23. Cxg4 Hxg2 24. Cxg2 de6 25. Cb2
+Ed6 26. Cb4 gf6 27. Ce2 Ke9 28. Cd4 Afe8 29. Ri5 Add8 30. Ce0
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그 "]
+[Site "한게임"]
+[Date "2011-06-21"]
+[Round "1주차 화요일 대국"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김영윤 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "173"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ra8 7. Cb4
+Ke9 8. c4 He6 9. Cb1 Rii8 10. Cg1 ab6 11. Rxa8 Rxa8 12. ih3 g5 13. Ri9 Ei6
+14. Rh9 h5 15. Rh6 Ri8 16. g4 Ade8 17. Ci2 Eg9 18. Hi3 Rf8 19. Kd1 Kd9 20.
+gxg5 hxg5 21. Cxg9+ Ce9 22. Cg1 Cxb3 23. hg3 Cb8 24. Cb2 Rf5 25. Cf2 Rd5
+26. Cb1 Ra5 27. Ke1 Ee7 28. Kf1 gf5 29. Afe1 f4 30. Kf0 fxf3 31. gxf3 Ri5
+32. Eg6 Cf8 33. Ee2 Ra5 34. Hg2 Ra3 35. Hh4 Ra5 36. Ke0 Ri5 37. Af0 Cc9 38.
+Ade1 Cc8 39. cd4 Hg7 40. Hf5 Hh9 41. Ch1 Hf8 42. Cd1 de6 43. de4 Ke9 44.
+Hg3 e5 45. f4 Rg5 46. Cxf8 Afxf8 47. Hi4 Ri5 48. Hg3 exe4 49. fxe4 Ra5 50.
+Cd4 Ra3 51. Hf5 Rd3 52. Cf4 Kd9 53. Cxf8 Axf8 54. Hxe7+ Ae8 55. Hf5 Cf8 56.
+Ri6 Rf3 57. Ei3 Af7 58. Eh4 Rh3 59. Exf7 Ce9 60. Ed4 Ra3 61. He7+ Ke8 62.
+Hg8 Rg3 63. Hf6+ Hxf6 64. Rxf6 Rg7 65. Edf1 Ra7 66. Ad0 Rd7 67. Afe1 Kf9
+68. Re6 cd6 69. Re5 bc6 70. Eh4 Rg7 71. Ee2 Rf7 72. Eg5 Cg9 73. Ef1 Rd9 74.
+Re7 Ce9 75. Ei3 Ce6 76. Eg0 Ce9 77. Hf3 Rd8 78. Hh4 Cc8 79. Rf7+ Cf8 80.
+Hi6 Cg9 81. Ee3 Cc9 82. Re7 Cc8 83. e5 Cg8 84. Rf7+ Rf8 85. Rd9+ Ce9 86.
+Rd7+ Ce8 87. Hg7+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-21"]
+[Round "1주차 화요일 대국"]
+[White "귀마 하성호 프로"]
+[Black "귀마 김동학 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Cb4
+Ke9 8. Cb1 Ria8 9. Exg6+ hxg6 10. Rh0 Rh8 11. He3 Hf8 12. Cg1 Ri8 13. Ri0
+Afe8 14. Ra4 Add8 15. Ca1 Kd9 16. Ri4 ab6 17. Rxi8 Rxa1+ 18. Ad1 Ce9 19.
+Ri9 Cb7 20. Af1 Hh7 21. Ri4 Exg3 22. Rg0 Ee6 23. Rxg6 Exc3 24. Ed3 Rc1 25.
+Exb6 Hxb6 26. Rh6 Hg9 27. Ri5 Hf7 28. Rg6 Ee6 29. Ra5 Ci7 30. Rg7 Ci1+ 31.
+Rg1 Ci7 32. Cc2 Cc7 33. Ra7 Cc5 34. Ce2 Ccc9 35. b4 Rc5 36. Rb7 Ca9 37. Rg0
+Ra5 38. Rb0 Hg5 39. Ce0 Add7 40. Kd0 Ca3 41. b5 Ra4 42. bxb6 Cxf3 43. Hxf3
+Hxf3 44. bxc6 dxc6 45. Rc0 cd6 46. Rcc7 Ade7 47. Rb6 Rd4 48. Hf5 He5 49.
+Ae1 Rd5 50. Rc2 Hd3 51. Rd2 A7d7 52. ih3 Eh8 53. Hg7 Ee7 54. Rb3 Hc5 55.
+Rxd5 dxd5 56. Rb6 d4 57. Rh6 Hd3 58. Rxh8 Hb4 59. Ce6 Aed8 60. Rf8 A7e8 61.
+Cxe8 Eg4 62. Cc8 Hc2+ 63. Cc1 Cc9 64. He6 Ad7 65. Rf7+ Ae8 66. Hc7+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-22"]
+[Round "1주차 수요일 대국"]
+[White "귀마 김경중 프로"]
+[Black "귀마 송종일 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "69"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 g5 9. gxg5 Rxg5 10. Ch1 Hb9 11. ab3 Hd8 12. Ra4 cd6 13. Cd1 bc6 14.
+Ef3 Ce5 15. Rai4 f5 16. Rxi6 Rxi6 17. Rxi6 Cd7 18. Ei1 Ri5 19. Rg6 Rg5 20.
+Ri6 Af8 21. Exc6 Cf9 22. Ee3 Ke9 23. Ke0 Ade8 24. Ade1 Cc9 25. Ha3 Hh8 26.
+Ri9 Hf7 27. Hb5 Hb7 28. h4 Rg6 29. hg4 Rh6 30. Ri3 Hc5 31. Ha7 Hb7 32. c4
+Hfd8 33. Hb5 Ce7 34. Ef3 dc6 35. Exh6
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-23"]
+[Round "1주차 목요일 대국"]
+[White "귀마 이남춘 프로"]
+[Black "귀마 하성호 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ri5
+8. Af1 Ra8 9. Kf0 Ad8 10. Ade1 c5 11. cd4 Ri9 12. Ci2 Rh9 13. Cif2 Ce9 14.
+Cd0 Kd9 15. ih3 Ri9 16. Rxi9 Cxi9 17. Hi3 Cf7 18. Cg2 Hi6 19. Exg6 hxg6 20.
+Cxg6 a5 21. Hh5 Ce9 22. Cg2 cb5 23. Ed3 Rc8 24. Hf4 Afe8 25. d5 dxd5 26.
+Hxd5 Rc5 27. Exa5 bxa5 28. Cb2 Ed6 29. Ce2 Exg3 30. hxg3 Hh4 31. Ke0 a4 32.
+bc3 Hf5 33. c4
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-28"]
+[Round "2주차 화요일 대국"]
+[White "귀마 하성호 프로"]
+[Black "귀마 송종일 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Ke0
+Ri5 8. Ri1 Rd5 9. Ed3 Ra5 10. Rxa5 axa5 11. c4 d5 12. Ra1 Ee6 13. Ade1 c5
+14. b4 cxc4 15. bxc4 a4 16. Ce4 a3 17. Cf2 Ke8 18. Aff1 dc5 19. Rc1 cxc4
+20. Rxc4 Ra8 21. Ce2 Ad8 22. Kf0 g5 23. ih3 gf5 24. Cd0 fe5 25. Rg4 Ce9 26.
+Cxe5+ Hxe5 27. Rxg7 Ad7 28. Rg8+ Af8 29. f4 Hc4 30. Ec6 Cee7 31. Cf2 Kd8
+32. Rxf8+ Ae8 33. Rf6 Ce9 34. Hf3 Rc8 35. Cd0+ Hd6 36. Cd5+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-06"]
+[Round "3주차 수요일 대국"]
+[White "귀마 김동학 프로"]
+[Black "귀마 차선균 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1 d5
+8. Ad1 Ed6 9. Ed3 c5 10. Ra1 a5 11. c4 Ea4 12. cb4 d4 13. bc3 c4 14. bxc4
+dxd3 15. cxd3 Exd2 16. Axd2 Ri5 17. Ce4 Ke9 18. Cf2 Afe8 19. d4 Ch7 20. Ke0
+Cbe7 21. Ade1 Add8 22. Ce2 Rc9 23. g4 Ca7 24. Rb1 Ca0 25. Cf0 Hf8 26. i4
+Rb5 27. Rxb5 axb5 28. ih4 Cd7 29. Ri5 b4 30. Ra5 bxc4 31. Rxa0 cxd4 32. Eb5
+Rc7 33. Ra8 Kf9 34. fe3 Eb4 35. Ch2 Ke9 36. Ra4 dc4 37. Ce2 Kf9 38. e4 Cd9
+39. He3 Add7 40. Hxc4 Rc5 41. Rxb4 Cd5 42. e5
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-07"]
+[Round "3주차 목요일 대국"]
+[White "귀마 김동학 프로"]
+[Black "귀마 이남춘 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. c4 Ee6
+8. Cb4 Ra8 9. Rh0 Rf5 10. f4 Rf8 11. g4 Ke9 12. Cd4 Hc9 13. g5 ab6 14. Rxa8
+Rxa8 15. gxg6 hxg6 16. Exg6 Rg8 17. Cg4 Ade8 18. Rh3 Hd7 19. He3 Cxe3 20.
+Rxe3 Ce7 21. Rh3 Kd9 22. cd4 Rf8 23. Cxg7 Rg8 24. Cg1 Rxg6 25. Cd1 Rg2 26.
+Cd3 Rg1+ 27. Af1 Ce9 28. de4 Ad8 29. Cd1 Afe8 30. Ed3 Rg2 31. Af2 Rg0 32.
+e5 Eg9 33. f5 Cc9 34. Eg5 Cf9 35. He4 Rg4 36. Ce0 Cc9 37. Hc3 Ei6 38. Rh6
+Eg3 39. Ce2 Cf9 40. Rh8 Rf4 41. Af1 Hf8 42. Exe8 Ei6 43. Ri8 Rd4 44. Eg5
+Hh7 45. Rxi6 Hxg5 46. fxg5 Ae8 47. Ri8 Ee7 48. e6 Cd7 49. exe7 Axe7 50. gf5
+c5 51. Ri4 Rd3 52. Re4 Af7 53. f6 Af8 54. Ke0 bc6 55. Ra4 Ae8 56. fe6 Re3
+57. exd6 cxd6 58. i4 d5 59. Ade1 Rd3 60. ih4 Re3 61. He4 Af7 62. Hg5 Ae8
+63. Ra9+ Kd8 64. Ra6 Ae7 65. b4 Re5 66. Hh7 Cd4 67. hg4 Ad7 68. Hf8 Ae7 69.
+Ra8#
+{White mates} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-12"]
+[Round "4주차 화요일 대국"]
+[White "귀마 하성호 프로"]
+[Black "귀마 김영윤 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. Rh0
+Ee6 8. Af1 Rc5 9. c4 Rf5 10. Kf0 Kd8 11. ih3 Ade8 12. Cc2 Rd5 13. Ade1 Ce9
+14. Cf2 ab6 15. Rxa9 Cxa9 16. Ri0 Ce9 17. g4 Ra5 18. Cd0 Kd9 19. Hf4 g5 20.
+Ed3 Rf5 21. gxg5 Rxg5 22. Exc6 bxc6 23. Hxe6 Re5 24. Hxg7 Cxg7 25. hg3 Cb7
+26. Ce2 Cf7 27. cd4 Ad8 28. de4 Rc5 29. Ri4 Af8 30. Rg4 h5 31. b4 Cf9 32.
+bc4 Rb5 33. Ke0 Ade8 34. cd4 Ad8 35. Rg7 Afe8 36. g4 Hf8 37. f4 Cd7 38. Rg9
+de6 39. Eg1 cd6 40. Ei4 Rc5 41. Ef2 Ra5 42. dc4 Ra1 43. ed4 Ra3 44. Kf0 Rg3
+45. d5 Ra3 46. c5 Ra0 47. Ke0 Ra5 48. fe4 Ra3 49. gf4 Rh3 50. f5 hi5 51. e5
+Re3 52. Rg4 exe5 53. fxe5 dxd5 54. cxd5 Ce7 55. Rb4 Cf9 56. Rb6 Add7 57.
+Ri6 Hh7 58. Rh6 Hf8 59. Hc4 Re4 60. Ha5 Rg4 61. e6 Ce4 62. d6 Add8 63. Rh3
+Hg6 64. Re3 He5 65. Hb7 Hc4 66. Rc3 He5 67. Rc5 Hg6 68. Rc4 Rf4 69. Hxd8
+Axd8 70. d7 Ke9 71. ef6 Cg4 72. fe6+ Ce4 73. d7xd8 He5 74. e7
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-13"]
+[Round "4주차 수요일 대국"]
+[White "귀마 김경중 프로"]
+[Black "귀마 김영윤 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ri8 7. Ef3
+Ke9 8. Ad1 Raa8 9. c4 He6 10. Kd0 ih6 11. Rxi8 Rxi8 12. ab3 Rd8 13. Ra9 Rc8
+14. Afe1 Afe8 15. Ce0 Rc7 16. Cc0 Kf9 17. Exc6 bxc6 18. Hb4 Ce9 19. c5 Hed8
+20. cxc6 Re7 21. Ra8 Ee6 22. cd6 Exg3 23. hxg3 Re5 24. Cd2 Rg5 25. g4 Rh5
+26. Rc8 fe6 27. dxe6 Hxe6 28. Ce0 Hed8 29. Rc1 Ef6 30. Ec5 Af8 31. Exf7
+Hxf7 32. Cxd9 Cd7 33. Rc7 Ch7 34. Rc6 Exd3 35. Hfxd3 Cd7 36. Rc7 Ae8 37.
+Cxf7 Axf7 38. Rxd7+ Kf8 39. Rd9 Rb5 40. Rxe9 gf6 41. He5 Rb7 42. Hxf7 Rxf7
+43. Cc0 Re8 44. Cf0+ Rf7 45. Re7
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-14"]
+[Round "4주차 목요일 대국"]
+[White "귀마 차선균 프로"]
+[Black "귀마 이남춘 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. c4 Ee6
+8. Cb4 Hh9 9. Cf4 Hf8 10. Ed3 Ke9 11. Cf1 Afe8 12. i4 Ri7 13. Ra3 Cc7 14.
+Ca1 Cxc4 15. Ca4 ab6 16. Ea5 Rxa5 17. Hxc4 Rb5 18. Hd2 Rc5 19. Ca1 d5 20.
+Cf1 de5 21. bc3 Ce7 22. Cc2 e4 23. Cxc5 cxc5 24. Kd1 exe3 25. fxe3 Exg3+
+26. ef3 Ee6 27. cd3 Ed6 28. Ade1 Cb7 29. d4 Cf7 30. He4 bc6 31. Ra6 cb6 32.
+Ra3 bc6 33. Kd0 Cf9 34. Cc1 Hb8 35. Ke0 Rb7 36. Ad0 Cd7 37. He3 Cxd4 38.
+Cxc6 Cd7 39. Afe1 Rb6 40. Cc1 cd5 41. Hc2 d4 42. Hxd6 Rxd6 43. Ri2 d3 44.
+Hb4 Rd4 45. Hc2 Rd5 46. Cf1 Cf9 47. fe3 dc3 48. Hb0 Hd7 49. Ri3 Rc5 50. Hd1
+c2 51. ed3 Rg5 52. Ri2 Rg4 53. He3 Rc4 54. Ra2 He5 55. Raxc2 Rxc2 56. Rxc2
+Hxd3 57. Rc4 He5 58. Re4 Hc6 59. Hc2 He7 60. Hd4 Eg3 61. ih4 g5 62. Hb5 gf5
+63. Re3 Ed5 64. Cxf8 Axf8 65. Rxe7+ Ade8 66. Re6 Eg3+ 67. Af1 f4 68. Rxh6
+f3 69. Ae1 fe3 70. Hc7 e2 71. Axe2 Cxf1 72. Rg6 Ei0 73. Rg0
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-18"]
+[Round "결승전 제2국"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl "25분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "61"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. g4 Ra5 7. Hf2 Kf8
+8. Ch4 He6 9. Cc4 Ea6 10. a4 Ri5 11. Rxi5 ixi5 12. a5 Cxh0 13. Ch4 Ec9 14.
+Ch1 Afe8 15. ab5 Kf9 16. bxb6 cxb6 17. Rb0 ba6 18. Ec6 i4 19. He3 i3 20.
+hxi3 Rxi3 21. Hg2 Ri0 22. Rb5 gh6 23. Ade0 Cg7 24. Hxh0 Rxh0 25. Ri5 Cg2
+26. Ri1 Hed8 27. Ee3 Ee6 28. Ad0 Cg9 29. Cxh9 Hh8 30. Ch7 hg6 31. Eh1
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-22"]
+[Round "1주차 수요일 대국"]
+[White "귀마 차선균 프로"]
+[Black "원앙마 허금산 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ed6 4. Ef3 d5 5. Hf2 He6 6. cd3 Rb9 7. b4 c5
+8. Ea3 Hhg7 9. Cb2 Ra9 10. Che2 Ra7 11. Cd2 Rc7 12. Rc0 ih6 13. gh3 Hg5 14.
+Rg0 H7e6 15. Rg4 Ke9 16. Exd5 cxd5 17. Cxd5 Ri8 18. Kf1 Ch5 19. Cd1 Cc5 20.
+Hd4 Cc8 21. Rxc7 Hxc7 22. Hf5 Afe8 23. Hxe7 Axe7 24. Cxe7 Ee6 25. bc4 ab6
+26. Rd4 Rd8 27. Rf4 Hd5 28. Ce5+ Ce8 29. d4 Eb8 30. c5 Rd6 31. dxd5 Rf6 32.
+Rg4 b5 33. cxb5 Exd5 34. Rd4 Ea7 35. Rd7 Re6 36. Hd3 Rf6 37. hg3
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-28"]
+[Round "2주차 화요일 대국"]
+[White "귀마 김동학 프로"]
+[Black "원앙마 허금산 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ad8 8. Ee3 g5 9. Rc4 ih6 10. Kd1 Cd9 11. Exc6 dxc6 12. Rxc6 Ke9 13. Hd2
+Afe8 14. Ade1 h5 15. Kd0 Ri4 16. Ce0 Hf5 17. Cc0 Cf9 18. Ad1 Hed4 19. Rg6
+Ege6 20. Afe1 Exg3 21. hxg3 Ee6 22. c4 Hxf3 23. gxf3 Rxc4 24. Rxe6 Rc2 25.
+Ce0 Rac9 26. Re5 R9c6 27. Cb5 Hg7 28. Exg5 hxg5 29. Cxg5 Kd9 30. Cg0 Ce9
+31. Rd5 He6 32. Ce2 Rc1 33. Ke0 Hc7 34. Rg5 Ca9 35. Rb0 Cb9 36. Rd0 Cf9 37.
+He4 Ce9 38. fe3 Rb6 39. Rb0 Rbc6 40. Cd0 Ce7 41. bc3 ab6 42. cd3 Ca9 43.
+Hh4 Cf9 44. Rg6 Ca7 45. Rxb6 Rxb6 46. Rxb6 Cad7 47. Cd2 Rc0+ 48. Add0 Rc4
+49. Hg6 Rc0 50. Hf6 Rc5 51. Hxd7 Cxd7 52. d4 Rc3 53. e4 Cf9 54. e5 Rc5 55.
+dc4+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-29"]
+[Round "2주차 수요일 대국"]
+[White "귀마 허금산 프로"]
+[Black "원앙마 이남춘 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "200"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ed3 Hge6 6. ih3 Cd7 7. Ra4
+Ri7 8. Rc4 ab6 9. Ea3 Ra6 10. b4 Ra5 11. Kf1 c5 12. Rh4 Ra8 13. Rh7 Rxh7
+14. Cxh7 gh6 15. Exh6+ ixh6 16. Ri9 Ke9 17. Rxg9 Ri8 18. Ch4 hg6 19. gf3
+Ae8 20. Rh9 Ri4 21. Ke1 f5 22. Hf2 f4 23. fg3 Cb7 24. bc4 cxc4 25. Cxc4
+Ri1+ 26. Af1 Cb1 27. Kf0 Ea6 28. cb3 Cb5 29. Cc0 Cb8 30. b4 Ri0+ 31. Ke1
+Ri5 32. Rg9 gf6 33. Rh9 Cg8 34. Rh6 Cg1+ 35. Af0 fg6 36. Rh7 Cc1 37. Af1 b5
+38. ba4 Rc5 39. He3 Rc2 40. Cce0 Rc4 41. Kf0 Ec9 42. Hf5 Ce5 43. Hh4 gf6
+44. Cg2 Kd9 45. Ed1 Rxa4 46. Cg9+ Af8 47. Cxc9 Ce7 48. Cc6 Hc5 49. Rh6 fe6
+50. Hg6 Ce9 51. Hxf4 He4 52. de3 Hc3 53. gf3 Cc5 54. ed3 Hb1 55. Ade1 Ca5
+56. Rh7 Aff7 57. Rh6 Cf5 58. Hd5 Hb9 59. Cxe6 bc5 60. Hc3 Hxc3 61. dxc3 Ra6
+62. Ce0 Hd8 63. Rh5 Cxf2+ 64. Afxf2 Rxc6 65. cd3 Cc9 66. Ef4 Rc7 67. Ch0
+Cf9 68. hg3 c4 69. Cd0 Ke9 70. Ke0 c3 71. de3 Cd9 72. Re5 Af8 73. Afe2 Re7
+74. e4 Rxe5 75. exe5 Aff7 76. fe3 Hb7 77. A2d2 Ha5 78. gf3 Kf9 79. e4 Hc6
+80. e6 Hb4 81. fe3 Aff8 82. e5 Ke9 83. Add1 Cf9 84. Ei2 Hc6 85. ed6 Ha5 86.
+e6 Hc4 87. e4 He3 88. Eg5 Hg4 89. Cd4 Hi5 90. Ee2 cd3 91. Eb0 de3 92. Add2
+Hh3 93. Cd1 Hg5 94. ed4 Cd9 95. dc4 He4 96. Cd4 Hg5 97. Cd1 Hf3 98. Cd5 Hg5
+99. cd4 Hf3 100. dc4 Cf9
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-14"]
+[Round "최종 예선전"]
+[White "원앙마 허금산 프로"]
+[Black "귀마 김경만 프로"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. Ei3 gf6 5. Hc2 ih6 6. Ci2 Ke9 7. Cbe2
+Ade8 8. ed3 Ei6 9. Hce3 ab6 10. g4 Hg7 11. Ke0 Cbf7 12. h4 Cd9 13. Ade1
+Aff8 14. Aff1 Ee7 15. Rh0 Cg9 16. Cf2 h5 17. Cd0 hxh4 18. gxh4 Cf7 19. Cg0
+Ri7 20. Ci0 Ri8 21. Cg0 Ri7 22. Ci2 Ri8 23. h5 Ch7 24. hi5 Eh5 25. Ri0 Exe3
+26. Ca2 Rc9 27. Hxe3 Ef4 28. ih5 Hxh5 29. Hg2 fg6 30. Ee3 Cxg2 31. Exh5 Cg9
+32. Cc0 Cc7 33. Ef2 gf6 34. Rb0 Ce7 35. Rb4 Ce5+ 36. Kf0 Eh7 37. Rh4 Ri7
+38. Rh3 Ef4 39. Rh9 Rg7 40. Rg0 Rxg0+ 41. Cxg0 Ei6 42. Ci2 Kd9 43. Cxi6 Kd8
+44. Ci2 Rf9 45. Ci9 Aff7 46. Cd0 cd6 47. de3 Ce7 48. ef3 bc6 49. f4 c5 50.
+c4 cd5 51. f5 fxf5 52. Exf5 de5 53. Ei3 Aef8 54. Eg6 Ke8 55. Cg0 ef6 56.
+Ei3 de6 57. ab3 e4 58. b4 ef4 59. cd4 f3 60. Ec4 Cee9 61. d5 Hb6 62. dc5
+Hd7 63. cd5 Hb6 64. dc5 Hd7 65. cd5 Hb6 66. dc5 Hd7 67. cd5 Hb6 68. dc5 Hd7
+69. cd5 Hb6 70. dc5 Hd7 71. cd5 Hb6 72. dc5 Hd7 73. cd5
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-16"]
+[Round "최종 예선전"]
+[White "원앙마 김영윤 프로"]
+[Black "귀마 박동현 프로"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Hc2 Cbe7 5. ed3 ef6 6. Hge3 Ee6 7. Cd2
+Ra5 8. Ke0 Rc5 9. ab3 Ed6 10. Ra2 Cf7 11. Ade1 Rh9 12. Kd0 Exg3 13. hxg3
+Rg5 14. Ri3 Ci7 15. Rh3 Rxh3 16. gxh3 Rxg0 17. Ce0 Rg5 18. Cd4 Cf7 19. Ra8+
+Ad8 20. Ea3 c5 21. Rc8 Cd9 22. Cd1 Exb3+ 23. cxb3 He6 24. Cd6 Ce5 25. Hd4
+cb5 26. Hxe6 fxe6 27. Rxd8+ Ke7 28. Rxd9 exd6 29. Rxf9 de6 30. h4 gf6 31.
+Hg4 Ca5 32. bc3 He5 33. Ce2 bc6 34. Rxf6 cd6 35. Rxi6 Kd7 36. Hxe5 Cxe5 37.
+Rh6 bc5 38. h5 Rg4 39. Rh8 Ra4 40. cb3 cd5 41. Ce0 Rf4 42. h6 d4 43. bc3
+dxd3 44. cxd3 Rb4 45. Ed1 Rb3 46. d4 Rd3 47. de4 Ce7 48. Rh7 Ke8 49. ef4
+Rc3 50. Rh8+ Kd7 51. Rf8 Ce3 52. hg6 e5 53. Rf7+ Kd8 54. gf6 Rc4 55. Rf8+
+Kd7 56. f7 Rxf4 57. fe7+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-20"]
+[Round "1주차 월요일 대국"]
+[White "원앙마 허금산 프로"]
+[Black "귀마 송종일 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Hg2 Che7 4. Che2 Af8 5. ef3 gh6 6. Hge3 Cd7 7. Cd2
+Ri8 8. c4 Rg8 9. ih3 Ef6 10. h4 cd6 11. hg4 Kf9 12. Ri2 Ade8 13. Ke0 Ce9
+14. Afe1 ab6 15. Ea3 b5 16. b4 bxb4 17. cxb4 Ra5 18. Add1 Ri5 19. Rg2 Cg9
+20. f4 Rh8 21. Cf0 Cg7 22. f5 Cxg3 23. gf4 hg6 24. Hg4 Rh4 25. Rxg3 g5 26.
+fxg5 Rxg5 27. Rc3 Ha6 28. bc4 Hb8 29. Rb0 Hd7 30. Rb7 Ce9 31. c5 Ce7 32.
+Rb9 Ce9 33. Rb4 Ea6 34. c6 Rb5 35. Rxb5 Exc3 36. c7 Hh6 37. cxd7 Axd7 38.
+Hxf6 exf6 39. Cxf6+ Hf7 40. Rb8 Ae8 41. Ee3 Ce7 42. Rb9+ Ce9 43. Eac6 dxc6
+44. Exc6 Rh0+ 45. Af0 Ad8 46. He3 Ee6 47. Cxe6 Ke8 48. Ce2+ Ce6 49. Exf8
+Ad9 50. Rb6 Hd8 51. Cf2 Rh3 52. Hc4 Ce9 53. Exi6 Rc3 54. Hd6+ Ke7 55. He4+
+Cxe4 56. fxe4+ Re3 57. Afe1 Hf7 58. Rb3 Rxe2 59. Axe2 Hg5 60. Ef8 Ke8 61.
+Ed5 Ad8 62. Rg3 Hxe4 63. Re3
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-30"]
+[Round "2주차 목요일 대국"]
+[White "원앙마 차선균 프로"]
+[Black "귀마 하성호 프로"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Ra8 5. Cd2 Ke9 6. Af1 Hd7 7. ef3
+Afe8 8. He3 Ci7 9. Rh0 Cbe7 10. Cf0 ef6 11. Ei3 Ee6 12. c4 ih6 13. cd4 Cf7
+14. Ra1 Add8 15. Ke0 Cd9 16. Ade1 Cf9 17. Ca2 Rc8 18. Ci2 Rh9 19. ab3 cd6
+20. Rh2 g5 21. Ra9 hg6 22. Ce2 Exg3 23. fxg3 He6 24. dc4 Cc7 25. Ra2 Ce7
+26. b4 Rg9 27. h4 Cc7 28. Rh3 Kd9 29. Ra3 f5 30. hg4 gf6 31. Cb2 gxg4 32.
+gxg4 Cxc2 33. Rc3 Cxc4 34. bxc4 fe5 35. Rh4 e4 36. Hd1 d5 37. Cd0 d4 38.
+cxd4 Rxc3 39. Hxc3 exd4 40. Cxb9 bc6 41. Hb1 He5 42. Ea3 Rxg4 43. Rxg4 Hxg4
+44. Exc6 Hc7 45. Cb0 Hxi3 46. Hd2 He6 47. Hb3 Ke9 48. Cb6 Hg4 49. Cxe6+
+fxe6 50. Hxd4 e5 51. He6 Cd9 52. Cf0 Cd6 53. Hg5 Cd9 54. Ea3 He3 55. Ec6
+Hc4 56. Hh7 Cd6 57. Hf6 Kd9 58. Hg4 Add7 59. Cf4 Ha5 60. Ea3 Cd8 61. Ed1
+ed5 62. Cf0 Hc4 63. Ef4 He3 64. Hf6 Ade7 65. Eh1 Hg2 66. Cd2 d4 67. Hg4 d3
+68. Cd4 Ke9 69. Cd0 A7d7 70. Ad1 de3 71. Cd2 ed3 72. Cd0 dc3 73. Afe1 cb3
+74. Ee3 Hf4 75. Hf6 He6 76. Eg6+ Kd9 77. Hxe8 Kxe8 78. Exd8 Axd8
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site ""]
+[Date "2011-07-05"]
+[Round "3주차 화요일 대국"]
+[White "원앙마 허금산 프로"]
+[Black "귀마 김영윤 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "189"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Ra0 Ea6 6. Rb0 Exc3 7. bxc3
+Ce7 8. Cbe2 ih6 9. Ea3 ed6 10. Cf2 Ef6 11. g4 Ri5 12. cb3 Ke9 13. Ke0 Ade8
+14. Afe1 Rc5 15. Rb2 Cb7 16. Exc6 dxc6 17. Hd4 Ce7 18. Add1 Rc4 19. Cd0 Ra0
+20. e4 Hf7 21. He3 Rc5 22. e5 cd6 23. i4 Cxe3 24. Exe3 Ce7 25. Hf5 de6 26.
+exe6 Hxe6 27. Cxe6 Re5 28. Rc2 Rxd0+ 29. Kxd0 Rxe6 30. Ri3 Re5 31. Rf3 Aff8
+32. Rc9+ Ad9 33. ih4 Cg7 34. Eb1 Cd7+ 35. Ke0 Ae8 36. He3 Ri5 37. b4 Cf9
+38. Rf5 Ri0+ 39. Rf0 Ri5 40. Rg0 Hd8 41. Rc0 bc6 42. Ed4 cd6 43. Ef1 Ae7
+44. Rc9 Hc6 45. Rb9 Ae8 46. Rb5 Ri7 47. bc4 Re7 48. Rg3 Re4 49. c5 Hd8 50.
+Ei3 Af8 51. Hg2 Ade8 52. Re3 Ra4 53. Rb6 Cd9 54. Rb8 Kf9 55. Rb0 Rc4 56.
+Re5 de6 57. Ri5 Rc3 58. Hf4 Rh3 59. Hg2 Rg3 60. Hf0 Ke9 61. Ra0 Rc3 62. He2
+Rh3 63. Af0 Cxd1 64. Rc0 Cd9 65. c6 Rh0 66. Rc2 Ed3 67. Rd2 Rh3 68. Hf4 Rf3
+69. Ae1 gf6 70. c7 Rh3 71. c8 Ea5 72. Ra2 Exc8 73. Eg0 Rc3 74. Ra0 Ee5 75.
+Ri3 Rc1 76. He2 Rc4 77. Rc3 Rb4 78. Rac0 Cf9 79. gf4 hg6 80. hg4 ed6 81.
+Rc4 Rb7 82. fe4 fe6 83. exe5 exe5 84. Rc7 Rb6 85. R7c4 d5 86. R0c3 Re6 87.
+gf4 g5 88. Rg3 gf5 89. fxf5 exf5 90. Rg9 fe5 91. Hf4 Rh6 92. Hg6 Rh0 93.
+Rc9+ Ad9 94. Hxf8 Ke8 95. Rxd9+
+{Black resigns} 1-0
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-13"]
+[Round "최종 예선전"]
+[White "귀마 허남열 프로"]
+[Black "귀마 김경중 프로"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Ce7 4. Cbe2 Hf7 5. g4 ef6 6. Ef3 Kf8 7. Af1
+Afe8 8. Kf0 Ra5 9. Ade1 Ce9 10. Ce0 ih6 11. Rxi9 Cxi9 12. ab3 Rxa0 13. Cxa0
+f5 14. cd3 g5 15. h4 He6 16. Ea3 f4 17. gxf4 Hxf4 18. Hd4 c5 19. e4 Hg6 20.
+bc3 Cxh4 21. Cc2 b5 22. Hc6 Ee6 23. Exc5 bxc5 24. Cxc5 Ce9 25. Cc2 gf5 26.
+Ca6 Ec9 27. Ca0 f4 28. de3 fxe4 29. exe4 Kf9 30. cd3 Ee6 31. d4 Ch7 32. Ca6
+Eg3 33. Ca0 Hh4 34. Ed5 Ei6 35. Ke0 hg6 36. Cf0 Af8 37. Exf8 Exf8 38. He5
+Hxe5 39. exe5 Ke8 40. de4 gf6 41. Hg4 fe6 42. ef5 Ce7 43. fe5 exe5 44. exe5
+Ch1 45. Af2 Ch5 46. Ch2 Hg2 47. Cd2 Hf4 48. Ce2 Ce4 49. Cf0 Hg6 50. e6 Ke9
+51. ef6 Hh4 52. Cf4 Hg2 53. Kd0 Hxf4 54. Hi3 Exf6 55. Hxh5 Exh5
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-15"]
+[Round "최종 예선전"]
+[White "귀마 김진규 프로"]
+[Black "귀마 하성호 프로"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "62"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Cc2 Ri5 4. Cxc6 Ce7 5. Cc2 ef6+ 6. Kd1 Ee6 7. gf3
+Ed6 8. Cc4 Exf3 9. exf3 He5 10. Hd2 Hxc4 11. cxc4 Hg7 12. Ade1 Ce9 13. Kd0
+Ca7 14. Ce2+ Ec3 15. Ee3+ Ce7 16. Ra3 Cxa3 17. bxa3 ab6 18. Ed3 ba6 19. i4
+Rd5 20. Hf4 Rd7 21. ih4 f5 22. Ri7 fxf4 23. Rxg7 fxf3 24. Ec6 Raa7 25. h5
+Rxd3 26. hxh6 f2 27. Ca2 Rad7 28. Kd1 Ea0 29. cd4 R7xd4 30. Rxe7+ Kxe7 31.
+Cxf2 Rxd2+
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-27"]
+[Round "2주차 월요일 대국"]
+[White "귀마 이남춘 프로"]
+[Black "귀마 김영윤 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "178"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Cb4
+Ra8 8. c4 Ri8 9. Cd4 cb6 10. Cd1 Rc8 11. Ci1 Rf8 12. Cc1 Rb8 13. ih3 Ri8
+14. Rxi8+ Hxi8 15. Ed3 Ke9 16. Cf1 Hg7 17. Rc0 Ri8 18. hi3 Ri5 19. Ke0 Afe8
+20. Ade1 Ci7 21. Kd0 Cxi3 22. Hxi3 Rxi3 23. Ce0 Ce7 24. g4 Ri4 25. gf4 Ri5
+26. cd4 d5 27. de4 dc5 28. Cd1 bc6 29. Ra0 ab6 30. Ra4 Ed6 31. Cf1 Cb7 32.
+Ra3 Ce7 33. bc3 Hh9 34. Cb0 Hf8 35. Ce0 Ri3 36. Cb1 g5 37. cb3 hg6 38. Cf1
+Ri4 39. Ra4 Ri3 40. Af2 gf5 41. A0e1 fxf4 42. exf4 Exf3 43. Exc6+ bxc6 44.
+Cxf3 Ri0 45. f5 Eg3 46. Aff1 Ei6 47. Re4 cd5 48. Rg4 gh6 49. Cf0 Ri3 50.
+Ea1 hg6 51. Cf2 Rg3 52. Ri4 gh6 53. f6 Add8 54. Cb0 Kd9 55. Rc4 c5 56. Ra4
+Ce9 57. Cff0 Rg7 58. Ce0 de5 59. Ra2 hg6 60. fxg6 Rxg6 61. Ra4 cd5 62. bc3
+Rc6 63. c4 Hg6 64. Ra3 Hh4 65. Cc0 Rg6 66. Ce0 Hg2 67. Aff2 Hxf0 68. Axf0
+Rg3 69. Ra6 Ef8 70. A0e1 Rc3 71. Aff1 Eh5 72. Cc0 Ee7 73. Cf0 Eg4 74. cb4
+Exd2 75. Cxd2 Rb3 76. bc4 Rb0+ 77. Kd1 Rb3 78. Cd6 Rb1+ 79. Kd0 Rb0+ 80.
+Kd1 Rb9 81. Cd2 Ra9 82. Rxa9+ Cxa9 83. Cxd7+ Adxd7 84. Ed3 Cf9 85. Eb6+ Ke9
+86. Kd0 e4 87. Ke0 ed4 88. cxd4 dxd4 89. Aff2 Cc9
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-29"]
+[Round "2주차 수요일 대국"]
+[White "귀마 김동학 프로"]
+[Black "귀마 김경중 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "200"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. g4 Kf8
+8. Ch4 He6 9. Ch1 Afe8 10. a4 Rf5 11. Cc1 Ce9 12. Cf1 Ri5 13. Rxi5 ixi5 14.
+Exg6 fxg6 15. He4+ Ef6 16. Ef3 Kf9 17. ab4 Af8 18. de3 ba6 19. h4 Ce7 20.
+cd3 Cxe4 21. exe4 i4 22. de3 ixh4 23. gxh4 Ri2 24. Cf5 Rh2 25. hg4 Rg2 26.
+gh4 Rh2 27. hg4 Cg9 28. ef4 Ce9 29. fe4 Rg2 30. gh4 g5 31. Cf2 Eh3 32. Af1
+Ade8 33. Ad1 Ch9 34. Ri0 Cd9 35. Ri3 Rh2 36. bc4 ab6 37. ed3 b5 38. Ce0 bc5
+39. cxc5 cxc5 40. Ce3 Ee5 41. Cxe5 Rxh4 42. d4 Hxe5 43. exe5 Hd8 44. Ri5
+gh5 45. Ri8 c4 46. d5 c3 47. He3 hg5 48. Ei1+ Ke9 49. Hg2 Re4+ 50. Kf0 Ea6
+51. Ri5 Ed4 52. Ade1 Cf9 53. Ke0 cd3 54. Ch2 Hc6 55. Ce2 Hb4 56. Rxg5 Ha2
+57. Ch2 Hc1+ 58. Kd0 Ri4 59. Rg4 Rxg4 60. Exg4 Exg2 61. Cf2 Cd9 62. Ad1 de3
+63. Ke1 Ha2 64. Ad2 Hc3 65. Cc2 Ei5 66. Af2 Ef7 67. Ad1 Ei9 68. Ad0 Cf9 69.
+Ci2 Eg6 70. Cd2 Ei3 71. Cg2 He4 72. Ei7 Cd7 73. Ef5 Eg6 74. Ce2 ef3 75. Af1
+Kd9 76. Ce0 Hg3 77. dc5 Aff7 78. Ad1 Ad8 79. Af0 Afe8 80. cd5 Cf9 81. Kd0
+Ee3 82. Cb0 Eb5 83. dc5 Cd7+ 84. Ke0 f2 85. cxb5 He4 86. b6 Hc3 87. Afe1
+f2xe1+ 88. Axe1 Ha2 89. Ci0 Hc1+ 90. Kf0 Hd3 91. e6 Cf9+ 92. Ei7 Cc9 93.
+bc6 Hf4 94. Ef5 Ke9 95. cd6 Cf9 96. Ke0 Hh3 97. Kd0 Cd9 98. Cc0 Hg1 99. Cf0
+Hf3 100. Af2 Hd4
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-30"]
+[Round "2주차 목요일 대국"]
+[White "귀마 김영윤 프로"]
+[Black "귀마 송종일 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Cb4
+Ade8 8. c4 Ce9 9. Exc6 dxc6 10. Cg4 He6 11. He3 cd6 12. Ed3 ab6 13. Rxa9
+Cxa9 14. Cg1 bc6 15. Cb1 Cc9 16. Ci1 Ei6 17. Ea1 Kd9 18. Cd1 Ad8 19. ih3
+Afe8 20. Ri5 Hg5 21. Ri2 Ce9 22. g4 He6 23. Cf1 g5 24. gf4 Ch7 25. Ri3 Rg9
+26. Ri2 Cxh3 27. fe4 Ch7 28. Rg2 g4 29. cd4 Hef8 30. Cb1 Cb7 31. Hec4 Cf7
+32. Cg1 h5 33. Ed3 c5 34. Ha3 dc6 35. b4 h4 36. Ri2 gf4 37. exf4 Cxf3 38.
+Hab1 Exf4 39. Rh2 Cf7 40. Cd1 hg4 41. Ke0 g3 42. Ade1 gf3 43. de4 fe3 44.
+exf4 exe2 45. Axe2 Rg0 46. Hb3 Ce3+ 47. Af2 Cxb3 48. Ae1 Ce3+ 49. Kd0 Ce9
+50. Cf1 Ed6 51. Hd2 Cf9 52. Rh4 Rg3 53. Cd1 Hg6 54. Ri4 Cxf0 55. Axf0 Ef3+
+56. Hxf3 Rxf3 57. Cxd7+ Adxd7 58. Ae1 Rxd3+ 59. Ad1 Rb3 60. Ad2 Rxb4
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-05"]
+[Round "3주차 화요일 대국"]
+[White "귀마 송종일 프로"]
+[Black "귀마 이남춘 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ke0 Ri5 6. Ri1 Ed6 7. Ed3
+Exb3 8. cxb3 Rc5 9. Afe1 Ke9 10. ih3 Ade8 11. Cb4 Kd9 12. Cb1 Ce9 13. Ri4
+ab6 14. Ria4 Rxa4 15. Rxa4 ed6 16. ef3 He6 17. Ee3 Hef8 18. g4 Cg7 19. Cg1
+Ad8 20. Cd1 Afe8 21. h4 gf6 22. Hh0 Ri5 23. Hf1 Ri0+ 24. Af0 Ee6 25. gf4
+Ri3 26. Hg3 Cg0+ 27. Af1 Cg9 28. Ade1 Rh3 29. Ce4 hg6 30. hg4 f5 31. Kd0
+fxf4 32. gxf4 Cxg3 33. fxg3 Rxg3 34. Eh1 Rh3 35. Aff0 b5 36. Ce0 bc5 37.
+Ee3 cd5 38. Ea1 Rh4 39. Eh1 Rh3 40. Ra7 g5 41. Ca0 dc5 42. Ce0 cd5 43. Rc7
+Rh4 44. Ed3 g4 45. fxg4 Rxg4 46. Ra7 Eg3 47. Ce2 d4 48. Ea1 He6 49. Ra4 d5
+50. Cg1 Rh4 51. Cc1 c5 52. bc3 Hf4 53. Cb2 Rh6 54. Ra3 He5 55. Hf1 Rb6 56.
+cb3 Rg6 57. Ad2 c4 58. Cg1 Rh6 59. Hxg3 Hf3 60. Cg4 Hxd2 61. Cg0 Rh3 62. b4
+Hb1+ 63. Kd1 Hd3
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-06"]
+[Round "3주차 수요일 대국"]
+[White "귀마 하성호 프로"]
+[Black "귀마 김경중 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ad8 7. Ch4
+Kd9 8. g4 Afe8 9. Ca4 Ce9 10. Ca1 Ea6 11. a4 ih6 12. Rxi9 Cxi9 13. a5 Cf9
+14. Rb0 Ce7 15. cb3 Rb9 16. axa6 Hxa6 17. bc3 Hb8 18. Ha3 Hd7 19. Ke0 fe6
+20. Afe1 e5 21. h4 c5 22. Cf1 Ra9 23. Hc2 Ef6 24. Kf0 Cb7 25. Rc0 Ra4 26.
+Rc1 g5 27. Ra1 Rb4 28. gf4 Ce7 29. Rb1 Ra4 30. Ra1 Rb4 31. Ra3 cd5 32. cb3
+Rc4 33. dc3 Rc9 34. Ef3 Ch7 35. fg4 gxg4 36. Exh6 gxh4 37. Ee4 d4 38. Eh6
+Hxh6 39. Eg6 Rc5 40. Ke0 e4 41. Ra4 Rg5 42. Ee9 Kxe9 43. Ce6+ Kd9 44. Cxh6
+Eh3 45. Cxh3 hxh3 46. Hxh3 Rg3 47. Hi5 Cc7 48. cd3 Ce7 49. Ae2 Hc5 50. Ra7
+Hxd3 51. Ade1 Rg0+ 52. Af0 Hc1+ 53. Ke1 Hxe2 54. Rxe7 Rxf0+
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-12"]
+[Round "4주차 화요일 대국"]
+[White "귀마 송종일 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "188"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. ef3 Ed6 6. Ed3 Exb3 7. cxb3
+Ri5 8. Rh0 ed6 9. Rh4 Rc5 10. Rg4 cb6 11. Ke0 Rac9 12. Afe1 d5 13. He3 de5
+14. Cb4 R9c6 15. Cb1 h5 16. Ri4 g5 17. Cf1 Ad8 18. Ea1 Rh6 19. Rd4 He6 20.
+Rc4 Rxc4 21. Hexc4 ed5 22. He3 dc5 23. bc3 Ce9 24. c4 Kd9 25. cxc5 Hexc5
+26. Ec4 Afe8 27. Kf0 Cg7 28. Ce0 Ee6 29. Rc0 Cc9 30. Hd5 b5 31. Rb0 a5 32.
+Rb3 Eb8 33. He3 Ci9 34. ih3 b4 35. Ra3 a4 36. Ra1 Ca9 37. Rb1 h4 38. hxh4
+Rxh4 39. Ei3 Rh6 40. Hc2 Cf9 41. Ef2 b3 42. Hd4 a3 43. Rc1 Cc7 44. Rb1 Ce7
+45. He2 Rb6 46. Hf4 Ri6 47. Hg6 Cb7 48. Ra1 Rxi3 49. Ec4 Ca9 50. Rd1 Ri6
+51. Hxb3 axb3 52. Rd6 Cb0 53. Add1 Ce9 54. Cf7+ Axf7 55. He7+ Axe7 56. Rxi6
+Aee8 57. Ri5 Cb5 58. Ri6 Cc9 59. Rc6 Cf9+ 60. Af1 bc3 61. Ae1 cd3 62. Cg0
+Ke9 63. Cd0 de3 64. Cf2 exf3 65. gxf3 He4 66. fe3 Hg3 67. Ke0 Ch5 68. Rc8
+Ed5 69. Rc6 Eb2+ 70. Ad1 He5 71. Rc5 Hxf1 72. Rb5 Hh2 73. Ee1 Cd9 74. Rxb2
+Cxd1 75. Ca2 Hi0 76. Rg2 Hg1+ 77. Kf0 Hf7 78. Ec4 Hi0 79. Ea7 Add7 80. Ci2
+Cd8 81. Ce2 Ce5 82. e4 Ce3 83. ef4 Kf9 84. Ke1 Ce9 85. Ec4 Cg8 86. Rf2 Hg1
+87. Rf1 Hi2 88. f5 Hg3 89. Rf3 Hxf5 90. Ef6 Cd8 91. Ke0 Cf8 92. Ei8 g4 93.
+Ke1 Hd4 94. Rd3 Hf3+
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-13"]
+[Round "4주차 수요일 대국"]
+[White "귀마 송종일 프로"]
+[Black "귀마 김동학 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ke9 8. Ra1 Rai8 9. ab3 Afe8 10. Ce4 ih6 11. Rxi8 Rxi8 12. Cd2 Kf9 13. Ce2
+Ce9 14. Ra8 Hbd8 15. g4 Ch7 16. Ef3 Ri0 17. Ra1 Ri4 18. gh4 Ri6 19. Ra5 Ri0
+20. Ra1 Ri8 21. Ra5 Ri0 22. c4 Cc7 23. Ra4 g5 24. bc3 f5 25. Ra1 Ri6 26.
+Rf1 hg6 27. Afe1 gf6 28. Cf0 Af8 29. cd4 Ade8 30. Add1 Cg9 31. Rh1 Ci7 32.
+Hg0 Cc9 33. Ha3 Cg9 34. Hh2 Ce7 35. Hc2 Ch7 36. Hf1 c5 37. Ha3 Cd9 38. Cc0
+b5 39. dc4 cxc4 40. Hxc4 f4 41. Ri1 Rxi1 42. Exi1 Cxh3 43. Cf0 f5 44. Hb6
+Ef6 45. Hh0 Exc3 46. Hg2 Chxd3 47. hg4 fxg4 48. Exg4 Ec4 49. Ei1 Cb3 50.
+Ha8 Cg9 51. Hh4 Cxe3 52. Hc7 bc5 53. Hi6 Ke9 54. Cc0 Hd6 55. Ef3 He4 56.
+Ha6 He6 57. Kf0 Cd9 58. Hh8 Ef6 59. Ke0 Exa6 60. Ei1 Hd4 61. Kf0 Cxd1 62.
+Axd1 Hxe2+ 63. Ae1 H2g3 64. Af2 Ce7 65. Ae1
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-18"]
+[Round "결승전 제3국"]
+[White "귀마 김경중 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl "25분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "164"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ke9 8. Kf0 Ade8 9. Ra4 Ra7 10. Ci2 Rg8 11. ih3 ab6 12. Rxa7 Cxa7 13. Cif2
+Cf7 14. Ade1 Cd9 15. Cd0 Cb7 16. Ri4 Rg7 17. Ra4 Ri7 18. Ed3 Ri5 19. g4
+Hhf8 20. Hf4 c5 21. c4 Cg7 22. hg3 Ee7 23. Ke0 bc6 24. Ra5 cd5 25. Ra6 Eh9
+26. Ce2 Cc7 27. Hxe6 dxe6 28. Rxc6 Ce7 29. Eb6 ed6 30. Rc8 Hxb6 31. Rc9 Hd7
+32. Ra9 gf6 33. c5 fe6 34. cxd5 dxd5 35. bc3 hg6 36. c4 gf6 37. Hb3 Ad8 38.
+Ha5 Afe8 39. gf4 Kf9 40. Hc6 Ce9 41. Ra8 Hb6 42. Rb8 Hxc4 43. Hxd8 Ri7 44.
+Hc6 Rc7 45. Hb4 Ce7 46. Hc2 Ke9 47. Kf0 e5 48. Ce0 Cf9 49. Rb4 fe6 50. Cf2
+Hd6 51. Ha3 Rb7 52. Rc4 Rb3 53. Hb1 Rb6 54. Hd2 ef6 55. Rc7 Ra6 56. Cd0 fe6
+57. Hc4 Hb5 58. Rb7 Rc6 59. Hb6 Hd6 60. Rb8 Ef6 61. Cf2 Kd9 62. f5 exf5 63.
+Cxf5 Hh7 64. Cg0 e5 65. Cf2 Ed3 66. Ha4 e4 67. Ec0 Ke9 68. Ea3 d4 69. Hb6
+Rc3 70. Ra8 Eg5 71. g4 Rxf3 72. Ec6+ Kd9 73. Cgd0 Rd3 74. Ra5 Ed7 75. Rd5
+Hf7 76. gf4 Hhg5 77. f5 Hf3 78. Hc8 Ce3 79. Rb5 Hh4 80. Cxf7+ Axf7 81. Rb2
+Cxf5+ 82. Rf2 Hg2#
+{Black mates} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-16"]
+[Round "최종 예선전"]
+[White "귀마 성우제 프로"]
+[Black "원앙마 차선균 프로"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Af8 7. Ri4
+cb6 8. Ee3 f5 9. Raa4 Ri7 10. Ric4 Ce5 11. Rh4 a5 12. Ra1 b5 13. Rh8 Rg7
+14. Ke0 Cf7 15. Ri1 g5 16. Afe1 Cf9 17. Ch7 Rg6 18. Ch1 Ke9 19. Ca1 Ea6 20.
+Eh0 Ade8 21. Hf2 Ce7 22. Cg1 Hc5 23. gf3 Rf6 24. Cxg9 a4 25. Cg0 ab4 26.
+bxb4 bxb4 27. Ri4 Rb9 28. c4 bxc4 29. Rxc4 Cc9 30. Rb4 Hxd3 31. Rxb9 Hxb9
+32. Rh4 Hc7 33. Hb4 gh5 34. Rg4 hg5 35. Rh4 Hxb4 36. Rxb4 Kf9 37. Add1 Ch9
+38. Ch2 Hd5 39. Rb3 fe5 40. Cd0 Cd9 41. Eb5 Ce9 42. Ed2 Cf7 43. hg3 i5 44.
+Cf0 Rh6 45. gh3 Rc6 46. fe3 ef5 47. ed3 Cxf2 48. Ef3 ih5 49. Ra3 Cf4 50.
+Ca2 Cf7 51. hg3 Hb4 52. Ce2 Ec9 53. d4 Ee6 54. gh3 Hc2 55. Ra4 Hxd4 56.
+Rxd4 Cxf3 57. h4 hxh4 58. Rxh4 Cf7 59. Kd0 Ec9 60. Ce0 Ea6 61. Ra4 Cg9 62.
+Ra5 Cgd9 63. Ca0 Ed8 64. Ce0 Rc4 65. Ra9 Eb5 66. Ra6 f4 67. Rf6 g4 68. Rf5
+Exd2 69. Cxd2 g3
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-27"]
+[Round "2주차 월요일 대국"]
+[White "귀마 김경중 프로"]
+[Black "원앙마 차선균 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ra7 8. Ei3 Ad8 9. Rb4 ih6 10. Rb7 Rxb7 11. Cxb7 Ri5 12. Cb1 d5 13. c4 c5
+14. bc3 cxc4 15. cxc4 d4 16. cxd4 Rc5 17. Hd2 Hxd4 18. Cf1 Cd9 19. Ke0 Ege6
+20. Rb0 Hb5 21. fe3 Exg3 22. hxg3 Rg5 23. ef3 Cxd3 24. He3 Hd4 25. Rb4 Hge6
+26. Ef5 gf6 27. Ce5 fxf5 28. Rxd4 fxe5 29. Rxd3 e4 30. Ade1 exe3 31. fxe3
+Hc5 32. Rc3 Ee6 33. Rc4 Cxe3+ 34. Kd0 Exg3 35. Rf4 He6 36. Re4 Ch3 37. Af2
+Ke9 38. Rc4 Cd3+ 39. Hf3 Cd9+ 40. Ke1 Rd5 41. Ae0 Ei6 42. Re4 Eg9 43. Kf0
+Afe8 44. Aee1 Ri5 45. Ke0 Rc5 46. Ad0 Ri5 47. Ade1 hg6 48. Cd1 Ri0+ 49. Af0
+Ri3 50. He5 Rc3 51. A2e1 g5 52. Hg6 Ei6
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-06-23"]
+[Round "1주차 목요일 대국"]
+[White "원앙마 김영윤 프로"]
+[Black "귀마 김동학 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 c5 5. Cf2 Ef6 6. gf3 Hf7 7. Af1 Af8
+8. Ke0 Kf9 9. Ed2 Ade8 10. Ad1 Ce9 11. Cf0 ab6 12. Ea3 Cg9 13. Ri2 Ce7 14.
+Cc0 ed6 15. Afe1 d5 16. cd3 He6 17. Hf4 Hxf4 18. fxf4 Ci7 19. Rf2 Cc7 20.
+Ra2 Rxi3 21. f5 Ec8 22. Cf0 b5 23. ef3 Ri0 24. de3 c4 25. f4 Ri3 26. ef3
+bc5 27. Cb0 cd4 28. Hb4 dc4 29. Hc6 Ra6 30. fe4 cb5 31. He5 dxe5 32. exe5
+bc5 33. Rb2 Ch7 34. Cc2 Exe5 35. fxe5 Ce7 36. Kd0 Hxe5 37. Ra2 Cd9 38. Cxc5
+Hd3 39. fe3 Hxc5 40. Rf5 He6 41. Cf0 Rxe3 42. Rd5+ gf6 43. Rb2 Ra5 44. Rd6
+Rae5 45. Eg4 Rxe1+
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-07"]
+[Round "3주차 목요일 대국"]
+[White "원앙마 허금산 프로"]
+[Black "귀마 김경중 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Ra0 Ea6 6. Rb0 Ce7 7. Ra0
+Ef6 8. Che2 ih6 9. ef3 Hf7 10. c4 Af8 11. Cd2 cd6 12. He3 Kf9 13. Ke0 Ade8
+14. Afe1 Ce9 15. Add1 Ec9 16. Ea3 Ra5 17. Cf0 Rg5 18. cd4 Ea6 19. Cc0 Ha8
+20. b4 Cg9 21. d5 Rh5 22. Ri1 dxd5 23. Hxd5 ed6 24. Hf4 Rh0 25. Rb0 Cb7 26.
+Rb3 Hc9 27. Ri2 Hd7 28. Rg2 g5 29. Cf0 Rh1 30. Ci0 Ri1 31. Cii2 Rh9 32. Rh2
+Rg1 33. Rh0 gf5 34. Hd3 Rxg0+ 35. Rxg0 Cxg0 36. He3 hg6 37. Hxf5 Rh0 38.
+Kd0 g5 39. f4 Cg4+ 40. Ce0 Cg9 41. Hf2 Ri0 42. Cd2 Rxi3 43. gh3 Ri4 44. Cf0
+gxf5 45. fxf5 Ei8 46. He4 Cd9 47. Rg3 Cxb4 48. Hf2 Cb7 49. Ce2 de6 50. Ke0
+Ce7 51. Rg6 Ec3 52. hg3 Hc5 53. Ed5 Hd3 54. Rxe6 Hxe1 55. Re3 Hg2 56. Cd0
+Ri1 57. Ce4 Hh6 58. fe5 Cxd1 59. Ea3 Rf1 60. Re1 Rxe1+ 61. Kxe1 Cg1 62. Ed5
+Ce9 63. Ce6 Cxg3 64. Ce2 Hi1 65. He4 Cb3 66. Hxc3 Cxe5 67. He4 Hg4 68. Ke0
+Hh3 69. Hg3 He3 70. Cf0+ Ke9 71. Hf1 Hxd5 72. Ke1 Cb9 73. Ce0 Cf9 74. Hh2
+Hb4 75. Cd2 Kd9 76. Hg0 Ce9+ 77. Kd1 Hg1
+{White resigns} 0-1
+
+[Event "제5회 한게임 장기 챔피언스리그"]
+[Site "한게임"]
+[Date "2011-07-14"]
+[Round "4주차 목요일 대국"]
+[White "원앙마 허금산 프로"]
+[Black "귀마 하성호 프로"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ci7 4. Rh0 ih6 5. Ri0 Ei6 6. Rh0 Ed6 7. h4 Ke9
+8. g4 Afe8 9. Cbe2 ab6 10. ed3 Cc7 11. Ri0 Hd7 12. Ke0 Ad8 13. Ade1 Kd9 14.
+Aff1 Cc5 15. Hce3 Cc9 16. Cf2 ef6 17. Cd0 Rh9 18. gf4 Ce7 19. fe4 h5 20.
+Ch2 g5 21. Ca2 Rb9 22. Cb0 Cb7 23. Rh0 hxh4 24. Rxh4 Rxh4 25. Hxh4 g4 26.
+Hi2 Ci9 27. Hg1 g3 28. Ca4 Ra9 29. e5 gf3 30. Ca2 Rc9 31. Hd1 Cf7 32. ed5
+Eg4 33. Cd0 c5 34. Cf0 cxd5 35. Cxf3 Exe1 36. Kxe1 Rc6 37. Af2 f5 38. Ee3
+Rg6 39. He0 Ke9 40. Kd0 de5 41. Ed2 Rg3 42. Cf0 e4 43. Eeg0 Kf9 44. Ae1 f4
+45. ab3 Rg5 46. Hb0 Ce9 47. Ei3 Hh5 48. Ef1 Hg3 49. Cg2 Re5 50. Ra1 e3 51.
+dxe3 Rxe3 52. Ei3 Af8 53. Eif5 Re7 54. Cg8 Afe8 55. Cg2 Ci9 56. cd3 Cid9
+57. bc3 Re5 58. Exd8 Axd8 59. Ra4 Ke9 60. Rc4 Ae8 61. Ea4 Cb7 62. Hc2 Ce7
+63. Cd2 Hc5 64. de3 Cxe3 65. Af2 Ce7 66. Hg1 Hce4 67. He0 f3 68. cd3 Hxf2
+69. Hg1 Hxd3 70. Cd6 f2
+{White resigns} 0-1
+

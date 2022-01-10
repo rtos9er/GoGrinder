@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[FEN "5k3/4a4/9/9/4P4/9/3E5/4E4/4A4/4K4 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . . . k . . .
+. . . . a . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . P . . . .
+. . . . . . . . .
+. . . E . . . . .
+. . . . E . . . .
+. . . . A . . . .
+. . . . K . . . .
+white to play
+--------------}
+1. Eb6 Af7 2. e6 Ke9 3. Eh4 Af8 4. e7 -- 5. Ef1 -- 6. Ei3 -- 7. Ef5 -- 8.
+Ec7 -- 9. ed7 Af7 10. d8 Ae7 11. d9#
+{White wins} 1-0
+

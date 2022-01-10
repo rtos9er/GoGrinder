@@ -1,0 +1,314 @@
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승전"]
+[White "귀마 송은미"]
+[Black "원앙마 김귀임"]
+[Result "1-0"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Hg7 3. Cg2 ef6 4. He4 Cbe7 5. Ee2 Hge6 6. g4 Ca7 7. h4
+ab6 8. ab3 Ke9 9. g5 Afe8 10. hg4 Ea6 11. Ha2 Exc3 12. Haxc3 Hd4 13. b4 Ha6
+14. Rb0 Hc2+ 15. Cxc2 Af7 16. Cf2 Ade8 17. Hd1 Cb7 18. Rb3 Cxb4 19. Exb4
+Rh9 20. Rh0 Rd9 21. Ee2 Rd4 22. gxg6 fxg6 23. Ea3 Ca4 24. Ke0 Rc4 25. Ade1
+Afe7 26. Hb2 Ee6 27. Rd3 Ec3+ 28. Hxc3 Rxg4 29. Hcxa4 b5 30. Rc3 c5 31. Hb6
+Ad8 32. Rd3 Aee8 33. Cd2 Hb4 34. Rd6 Rg3 35. Cxd8 Rxe3 36. Hc8 Kf9 37. Cd0
+Rxa3 38. Cf2 Hd5 39. Rf6+ Af8 40. Ra6+ Rf3 41. Ra7 Hf6 42. Ra9+ Ke8 43.
+Rxh9 Hg4 44. Re9+ Kd8 45. Cd0 Hxh2 46. Hd3+ cd5 47. Hf4+ de5 48. He6+
+{다음 수는 26漢25
+ 그 다음 수는 45楚24漢宮 打}
+
+{Black resigns} 1-0
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 결정전"]
+[White "귀마 조경자"]
+[Black "원앙마 김귀임"]
+[Result "1-0"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Ef3 ef6 4. ed3
+{빅장}
+4... Ce7 5. Ce2 g5 6. Ee3 Hg7 7. Hd1 Ege6 8. cb3 Ra5 9. Rc0 Ra6 10. Af1 Cf7
+11. Kf0 Hf5 12. Rg0 Exg3 13. hxg3 ih6 14. Ade1 Ee6 15. gh3 fg6 16. Ce0 Ra7
+17. Exc6 bxc6 18. Ca0 Ha6 19. Rxc6 Cxf3 20. Cxa6 Eh8 21. Ca0 Rd7 22. bc3
+Ri4 23. hg3 Cf8 24. Ch2 gh5 25. Cd2 Rb7 26. cb3 Hg7 27. gf3 hg5 28. Rd6 Ad8
+29. Ch2 Rh4 30. Cd2 Ee6 31. de3 Ad7 32. Rc6 Ae9 33. Ri0 hi6 34. Cg2 Rg4 35.
+Cb2 Rc7 36. Rd6 Cd8 37. Ra6 Ci7 38. Rh0 gh6 39. Ke0 gh5 40. Cf0 Ce7 41. Cd0
+Eh4 42. Rh3 Rg5 43. Ra4 Rc0 44. Re4 He6 45. Rb4 Hc7 46. Re4 Hd5 47. fg3 Rg6
+48. g4 Hf6 49. Re6 Cf8 50. Cg2 Hxg4 51. Cxg6 Hxf2 52. Afxf2 hxg6 53. Re5
+ih6 54. Hc3 Kf9 55. Ri3 Ke8 56. e4 gf6 57. Rh3 Ee6 58. Rd5 Exc3+ 59. Rxc3
+Ad9 60. Rxc0 Cxf2 61. Cxd7 Cf8 62. Cd0 Cd8 63. Rc7 Ce3+ 64. Kf0 Cf8+ 65.
+Cf2 fg6 66. Rf5 Ce7 67. e5 hg5 68. Rf3 Ad8 69. Rd3 Ce9 70. ef5 Ce7 71. fe5
+gf6 72. Rc6 hg6 73. Ke0 g4 74. Cd0 gf4 75. Cxd8 f3 76. Cd0 Ce3+ 77. Rxe3
+fxe3 78. Rd6 Cd8 79. ed5 Cg8 80. Rd7+ Kf8 81. Cf0+ ef3 82. Re7 Ce8 83. Kd0
+Cg8 84. Cf4+
+{Black resigns} 1-0
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승전"]
+[White "귀마 송은미"]
+[Black "원앙마 박민선"]
+[Result "1-0"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Ri4 Ce7 3. Ke0 ab6 4. Hf2 Hc7 5. Ade1 Cd7 6. Cg2 ef6 7. cd3
+He6 8. Ca2 Ea6 9. Cc2 c5 10. a4 b5 11. Ee2 Ad8 12. ab4 Rb9 13. bxb5 Rxb5
+14. Eb4 i5 15. Rg4 g5 16. Rxg5 Rxb4 17. Cxc7 Hxc7 18. Rxc5 Rb7 19. Hg4 Ri6
+20. Hc2 Cd9 21. Ce2 He6 22. Rxi5 Rxi5 23. Hxi5 Rc7 24. Hb4 Ec9 25. Ea3 Rc5
+26. Hg4 fg6 27. gf3 Rc4 28. Hi5 Rxb4 29. Hxg6 Ad7 30. Ed1 Rc4 31. hg3 Ke9
+32. Rb0 Afe8 33. Eb4 Hc5 34. Exd7 Hxd7 35. Hxe7 Axe7 36. Cxe7 Ee6 37. Ra0
+Hc5 38. Ad0 Ea6 39. Ce5+ Kf9 40. Ra1 Rc0 41. Ae1 Cg9 42. Rb1 Hd7 43. Ce2
+Eb8 44. Rb7 Hf8 45. Rxb8
+{Black resigns} 1-0
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강전"]
+[White "양귀마 박민선"]
+[Black "원앙마 김숙자"]
+[Result "1-0"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. ih3 Ce7 3. Ri4 ab6 4. Ce2 Hc7 5. Ed3 b5 6. Ef3 Cd7 7. Rg4 Ri7
+8. Rxg6 Af8 9. e4 c5 10. Hd2 Ad8 11. cb3 Cd9 12. Exc5+ bxc5 13. Rc0 Ha6 14.
+Ea5 ed6 15. Hg4 Ege6 16. e5 cd5 17. exe6 Hxe6 18. gf3 Hd4 19. fe3 Hxe2 20.
+Cxe2 Ee6 21. Rc8 Hc5 22. Ed3 Ra5 23. Exa5 i5 24. Hf6+ Rf7 25. Hde4 Hb7 26.
+Rc7 Hxa5 27. Hxd6+ Cxd6 28. Cxe6 Ad7 29. Rc8+ Ad8 30. e4 ih5 31. Hg4 Cd9
+32. a4 Hb7 33. Rc7 Ad7 34. Ce2 Hc5 35. bc3 Hxa4 36. e5 Rf4 37. Hf6+ Af7 38.
+Rxd7+ Ke9 39. e6 Hxc3 40. exe7+
+{다음 수는 66漢46楚 打
+ 그 다음 수는 85楚15漢宮 打}
+
+{Black resigns} 1-0
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강전"]
+[White "귀마 이은성"]
+[Black "귀마 송은미"]
+[Result "0-1"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. Ed3 cb6 4. Exb6 Exb3 5. Hd2 Rc9 6. Che2 axb6 7.
+Ra8+ Ke9 8. cxb3 Afe8 9. ih3 Ch2 10. Ri4 Rc1+ 11. Ad1 Ri8 12. ef3 gf6 13.
+Raa4 Cg7 14. Ri2 Ch6 15. Rd4 Kf9 16. Cb4 f5 17. He3 fe5 18. Cf4 Ke9 19. Ce0
+Cb7 20. Kf1 Cd6 21. Afe1 Ce7 22. Ce2 Cd8 23. Rc4 Ra1 24. Cf2 Hg7 25. Rg4
+Ri7 26. Rc4 Cd3 27. Kf0 Cxd1 28. Hc2 Ra0+ 29. Cd0 Cd6 30. Ha3 Rb0 31. Ee3
+Cd8 32. Ke0 Cxd2 33. Axd2 Rxb3 34. Ra4 Hc5 35. Ra9 e4 36. Eb1 Ha6 37. Rb9
+Rxa3 38. Rxb6 Ra4 39. Cg0 Hb4 40. Cg4 Ra0+ 41. Ke1 Hd5 42. Rb3 e3 43. fxe3
+Hxe3 44. Kf1 Hxg4 45. gxg4 Hf5 46. gf4 Rg7 47. hg3 Hh4 48. Rh2 Hg6 49. fg4
+He5 50. gf4 Rg0 51. Rh3 ih6 52. Ed4 Ri7 53. Ae1 Rg1+ 54. Kf2 Rii1 55. Af0
+Rd1 56. fe4 Rd0+
+{White resigns} 0-1
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강전"]
+[White "귀마 허자임"]
+[Black "귀마 조경자"]
+[Result "0-1"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Hd2 Hd7 6. Rh0 Ee6 7. Ee3 d5
+8. Ra4 c5 9. Rg4 Ed6 10. Rf4 ab6 11. Ed3 Ad8 12. Ad1 Kd9 13. Kd0 Afe8 14.
+c4 b5 15. Ade1 Ce9 16. Rg4 Cc9 17. cxc5 bxc5 18. Ce0 Ec3 19. Rb4 Cf7 20.
+Ad1 Ea0 21. Hb1 Ce9 22. Afe1 Ch7 23. Ri0 Rh9 24. ih3 Ra1 25. Eb0 He6 26.
+bc3 Cc7 27. Ch2 Hef8 28. Cd2 Eg8 29. Rb3 Ee5 30. Rb2 Cg7 31. h4 Ra4 32. hg4
+gf6 33. Cf0 hg6 34. Cd2 f5 35. Ri6 g5 36. gxg5 f4 37. Rc6 Ra9 38. Cc0 fxf3
+39. g6 Cxg3 40. Cxa0 Cg9 41. gf6 fxe3 42. Cc0 Exg2 43. Ccf0 e2 44. Cxg2
+e2xe1+ 45. Axe1 Rh2 46. Rf2 Rh7 47. Cgd2 Cc9 48. Rc8 Cf9 49. Cd6 Ra6 50.
+Cdd2 Cxf6 51. Ee2 Cf9 52. Rg2 Rh9 53. Eg5 Rg6 54. Re2 Rxg5 55. Cc0 Rh6 56.
+Ce0 He6 57. Cd6 Re5 58. Cxh6 Rxe2 59. Cxe2 Hf4 60. Ce0 He5 61. Rc6 Cd7+ 62.
+Hd2 Ke9 63. Cb6 Cd4+ 64. Ad1 He2+ 65. Ke1 Hf4 66. Cd6 Kf9 67. Cb6 Ce9 68.
+Ce4 Cd7 69. Cf6 Hg2+ 70. Kf1 d4 71. Ce6 d3 72. Rxc5 Hg4 73. Hf3 H4e3+ 74.
+Kf2 Hxd1+ 75. Ke2 de3+ 76. Kd2 Cd9+ 77. cd3 exd3+ 78. Ke2 de3#
+{Black mates} 0-1
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승전"]
+[White "귀마 조경자"]
+[Black "원앙마 박민선"]
+[Result "0-1"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "72"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hc2 Ce7 3. Ce2 Ci7 4. ef3+ Kf8 5. Ri3 Cxi3 6. hxi3 ih6 7. gh3
+Hc7 8. Ee3 ab6 9. fg3 Ri5 10. a4 ef6 11. Ef3 Rc5 12. Ra3 Ege6 13. Ra2 Rxc3
+14. Exg6 hxg6 15. Af1 Exg3 16. hxg3 Hge6 17. Hf2 Hd4 18. Ce0 Ee6 19. ih3
+Cg7 20. Kf0 Exg3 21. hxg3 Cxg3 22. Ec1 Cg7 23. Ade1 Cg2 24. Cg0 Hxc2 25.
+Cc0 Rh3 26. Cxc2 Rxh2 27. Ke0 He6 28. Ra0 Hd4 29. Cc0 Rh0+ 30. Aff0 Cg9 31.
+Kd0 Hb3 32. Ce0 Hxc1 33. Rc0 Hxe0 34. Kxe0 Rxa4 35. Kd0 Rd4+ 36. Ke0 Ce9+
+{White resigns} 0-1
+
+[Event "제4회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강전"]
+[White "양귀마 이혜옥"]
+[Black "원앙마 김귀임"]
+[Result "0-1"]
+[TimeControl "각 15본, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hf2 ih6 3. Ce2 Hc7 4. Hd2 Cbe7 5. Ra1 g5 6. e4 h5 7. Ef3 Ri6
+8. Ad1 Ke9 9. Kd0 Ade8 10. gh3 Cf7 11. Rg0 Cxf2 12. Ed3 Rg6 13. Rg2 Cf8 14.
+Afe1 g4 15. Cb4 hg5 16. Cb0 Hi6 17. Cg0 Cd8 18. Exg5 Rxg5 19. Cxg4 Aff8 20.
+Ca2 ab6 21. ba3 Rb9 22. Ca0 Cxe4 23. ab3 Ce7 24. Cf0 Ea6 25. Rc1 e5 26. cd3
+ed5 27. bc3 Ee6 28. c4 b5 29. Cb0 bc5 30. Ci0 Hh8 31. cxc5 cxc5 32. Exc5
+dxc5 33. h4 Rb4 34. Ke0 Hf7 35. Cgi4 Rxg2 36. Cxb4 Rg0+ 37. Cf0 Eg3+ 38.
+Kd0 He6 39. Ra1 Exd1 40. Rxa6 Hf4 41. Cg4 Hxd3 42. Ci4 Hfe5 43. Ci1 Rg3 44.
+Cxd1 Re3 45. Re6 Hb2 46. Hf1 Hxd1+ 47. Kxd1 Hd3+ 48. Rd6 Hb2#
+{Black mates} 0-1
+

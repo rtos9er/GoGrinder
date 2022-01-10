@@ -1,0 +1,444 @@
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 1회전"]
+[White "귀마 김동학"]
+[Black "귀마 차선균"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. He3 Cee9 12. Rh4 Kf8 13. Rhi4
+Rb1+ 14. Ad1 Cxe3 15. dxe3 Eb4 16. Ce0 Rxd1+ 17. Kf2 Ee6 18. Rxi6 Rxi6 19.
+Rxi6 Afe8 20. cd3 Exg3 21. hxg3 Kf9 22. Ri9 Ce9 23. Ae1 Ra1 24. ab3 Ra5 25.
+gh3 Rg5 26. Hi1 He6 27. Kf1 Hf8 28. Kf0 gh6 29. Ch0 fg6 30. Cd0 Add8 31.
+Ch4 h5 32. Chh0 Cg9 33. Ri3 Cd9 34. Ce0 Ef6 35. Ce2 Hh7 36. Ri7 Hhg9 37.
+bc3 Af8 38. Cxd8 Exh3+ 39. Hxh3 Rg0+ 40. Kf1 h4 41. Hi1 Rg5 42. Cd0 gf6 43.
+Kf0 f5 44. Ri6 f4
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 4회전"]
+[White "귀마 차선균"]
+[Black "귀마 김동학"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "155"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Ad1 Ee6 7. Kd0
+Ke9 8. Hf2 Hc7 9. Ri4 c5 10. Afe1 Cd7 11. Cxe6 fxe6 12. Exg6+ Cg7 13. Ce2+
+Afe8 14. He4 Ca7 15. Rb0 cb5 16. Cb2 ba6 17. Ci2 Ee7 18. Ei3 Add8 19. Rxi6
+Rxi6 20. Cxi6 Ca9 21. Ee2 a5 22. ab3 Cf9 23. Ci0 Ra6 24. Cc0 e5 25. Hf2 He6
+26. Ke0 Eb9 27. b4 Cb7 28. c4 Cc9 29. He3 Rd6 30. d4 a4 31. Ra0 bxb4 32.
+cxb4 axb4 33. Exb4 Heg5 34. Hc2 Cg7 35. Ee2 Hi6 36. Rb0 Cf9 37. Hg4 Ce7 38.
+Rb5 ef5 39. Hge3 fe5 40. d5 exd5 41. Hxd5 Hih8 42. Ch0 Ch7 43. Hce3 Re6 44.
+Rb8 Add7 45. Cd0 Ch9 46. Hc4 Ee7 47. Eg0 Rc6 48. Hcb6 Cd9 49. Hb4 Rc0 50.
+Ee3 He5 51. Ra8 Hhf7 52. Ra5 Add8 53. H6d5 Add7 54. Ra6 Kf9 55. Rf6 Add8
+56. gf3 Eb9 57. hg3 Ed6 58. f4 Ce9 59. f5 Hd7 60. Rg6 Ea8 61. Ra6 Ec5 62.
+Rc6 Ra0 63. Hd3 Rc0 64. Hb2 Rc1 65. Cf2 Hf8 66. f6 Cxd5 67. fxf7 Cxe3 68.
+f7xf8+ Ke9 69. f8xe8+ Axe8 70. gf3 Ci3 71. f4 Cb5 72. Rc9+ Ad9 73. Cd0 Cd5
+74. Hd3 Rc3 75. Hxc5 Ke8 76. Rc8+ Ad8 77. f5 Re3 78. Hb7
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 5회전"]
+[White "귀마 김동학"]
+[Black "귀마 차선균"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. He3 Cee9 12. Rh4 Rb5 13. Rhi4 i5
+14. R4i3 Ee7 15. Hf2 Ri8 16. R3i1 Ci9 17. Rh1 Kf8 18. Ke0 Afe8 19. ab3 Ra5
+20. Rc1 Cg9 21. Rg1 g5 22. Cg2 i4 23. Afe1 f5 24. Hed1 Exg3 25. hxg3 Cxg3
+26. Cd2 Cg9 27. Rh1 Kf9 28. Ce2 Ce9 29. Cf0 Af8 30. He3 Ce6 31. Rh9+ Ke8
+32. Rh7 Ca9 33. Hh3 Ca0+ 34. Ad1 He5 35. Hg1 Ca7 36. Rh6 cd6 37. Rih0 Cf7
+38. Ei1 Ra4 39. Cd2 Ra0+ 40. Cd0 ih4 41. Ri0 Ri4 42. b4 Hb7 43. bc4 Kd8 44.
+cd4 Cc6 45. Rh8 Ade8 46. d5 dxd5 47. Hxd5 Hd6 48. Hb4 Ci6 49. de3 Cd7 50.
+Rh6 Rb0 51. Hc2 Hdf7 52. Ra6 Rc0 53. Add2 Ci3 54. Eg4 Cxc3 55. Rxi4 hxi4
+56. e4 gxg4 57. exe5 Hxe5 58. Ra8+ Kd9 59. Ra9+ Kd8 60. Ra3 Cc1 61. Hh3 ih4
+62. Hf2 Cg1 63. Ra8+ Kd9 64. Ra9+ Kd8 65. He4 Hc4 66. Hc5 Hxd2+ 67. Axd2
+Rxc2 68. Cxc2
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "준결승 1회전(A조)"]
+[White "귀마 김동학"]
+[Black "귀마 정원직"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "169"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ad1
+Kf8 8. Af1 Afe8 9. Ef3 Ce9 10. Ri4 Che7 11. Rg0 Ee6 12. Kf0 f5 13. Ade1 ih6
+14. Rxi9 Cxi9 15. g4 Cg9 16. Ri0 g5 17. h4 Kf9 18. Ce0 Add8 19. Ri3 Cd9 20.
+Ri9 Af8 21. Ch0 Ke8 22. Ri3 gxg4 23. hxg4 fg5 24. gf4 Ef6 25. Ca0 Rb5 26.
+ab3 Exc3 27. dxc3 Ra5 28. ba3 Rd5 29. Ce2 cd6 30. fe4 bc6 31. ab3 Ke9 32.
+Ke0 de6 33. Ei1 Cf9 34. Cf0 cd6 35. ef4 Cc9 36. fg4 gf5 37. Cd0 Ade8 38.
+Hb0 Ra5 39. Hd1 Ra4 40. cd3 h5 41. bc3 hg5 42. d4 gxg4 43. Exg4 fe5 44. Ri6
+Ra3 45. c4 Cf9 46. Ri9 Kd9 47. Hh3 Ce9 48. Rg9 Cd7 49. Hf2 Hb5 50. Ei1 Hc3
+51. Hxc3 Rxc3 52. Hg4 ed5 53. dxd5 Cxd5 54. cb4 Aef9 55. Rg5 Ed3 56. Ri5
+Cd7 57. Kf0 Rc0 58. Ke0 Rc3 59. Kf0 Ef6 60. Ce0 Rd3 61. Ri3 Rd4 62. b5 Rd5
+63. b6 A9e8 64. Ce2 Ce7 65. bc6 dxc6 66. Cxe6 Rd6 67. Cxc6 Ec4 68. Cg6 Exe1
+69. Axe1 Hg5 70. Ri5 Cxe1 71. Kxe1 He4 72. Cg1 Ke9 73. Ef3 Rd4 74. Re5 Hg3
+75. Ec6+ Kd9 76. Hf6 Cd1 77. Re4 Rd3 78. Re3 Rd4 79. Ea3 Cd8 80. Cd1 Ke9
+81. Hxe8 Hf5 82. Re5 Axe8 83. Rxf5 Re4+ 84. Kd2 Re7 85. Eh6
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "준결승 2회전(A조)"]
+[White "귀마 정원직"]
+[Black "귀마 김동학"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "194"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Ke9 8. Cb4 Rc8 9. ih3 Ade8 10. Af1 Hf8 11. Ri5 Raa8 12. Kf0 Kd9 13. Cd4 Ce9
+14. f4 Ad8 15. Ed3 Ca7 16. Ca4 cb6 17. Rc0 Cc9 18. Ade1 Afe8 19. gf3 dc6
+20. fe4 Ed6 21. Cd4 Ce7 22. hg3 Cf9 23. Ca2 Rab8 24. e5 gf6 25. Cb4 Cb7 26.
+ed5 hg6 27. Cb0 Rc9 28. Cd0 Cg7 29. Hi3 Cc7 30. g4 Hh7 31. Ri6 Eg9 32. Rb0
+Hhf8 33. Ri8 Exg4 34. Hxg4 Ee6 35. Rg8 f5 36. Caf2 g5 37. Hh2 Ce7 38. Ec0
+Cb7 39. Ra0 Cb5 40. Hi4 Rcc8 41. Ra1 Ca9 42. Rd1 Cb7 43. Exg5 fxg5 44. Hxg5
+Cf9 45. Cg0 Ce7 46. Cxf8 Axf8 47. Rxf8 Ae8 48. Rg8 Ce9 49. Ce0 Ec9 50. Hde4
+Ae7 51. Rxc8 Rxc8 52. Cg0 Rf8 53. b4 Rf5 54. Cd0 Cxe4 55. de5 Rxe5 56. Hxe4
+Ke9 57. Hf2 Rg5 58. Ke0 He5 59. fe3 Hf7 60. Rd3 Ee6 61. Ea3 Ae8 62. Ed1 cd6
+63. e4 bc6 64. Rh3 Rg1 65. cd4 Hg5 66. Rh1 Rg3 67. Rh5 Hf7 68. Rh3 Rg1 69.
+bc4 Hg5 70. Rh1 Rg3 71. Rh5 Rg1 72. Ef4 Hf7 73. Eh7+ Rg7 74. Ef4 ab6 75.
+Rh3 Ec9 76. Ed1 de6 77. Rb3 Rg1 78. Hh3 Rg6 79. Hf4 Rg4 80. Cf0 Rg0 81. Hh3
+Hh6 82. Ef4 Hf5 83. Hf2 Ea6 84. -- Cb9 85. Rh3 cd6 86. Hd1 Cf9 87. Rb3 bc6
+88. Ra3 Ed8 89. Rh3 Hg7 90. Rh8 Hf5 91. Rh3 He7 92. He3 ef6 93. Ed1 f5 94.
+Hc2 de6 95. Ea3 cd6 96. He3 ef6 97. Ed1 fg5
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "준결승 1회전(B조)"]
+[White "귀마 차선균"]
+[Black "원앙마 유광진"]
+[Result "1-0"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. ef3 ed6 4. Ee3 gh6 5. Exc6 dxc6 6. He3 Hg7 7. Rg0
+Cf7 8. gh3 Ri7 9. ab3 Af8 10. Ra4 He6 11. Hd5 cd6 12. Hb6 Ad8 13. Hc8 a5
+14. Hxd6+ Ad7 15. Rc4 Ea6 16. Hb7 Ra8 17. Hxa5 Hd4 18. cd3 Hxf3+ 19. Ke0
+He5 20. Rc5 Hg6 21. Hc6 Hf4 22. Hd2 Ce9 23. He5+ Hxe2 24. Cxe2+ Ce6 25. Hf3
+Ce9 26. de3+ Kf9 27. He5 Ade8 28. Hxf7 Afxf7 29. Rcg5 Ce7 30. Ed3 Rb8 31.
+Afe1 Ed8 32. Cb2 Rc8 33. Cg2 Hi8 34. Ef6 hg6 35. Cxg6 Rc2 36. Ce6 Hg7 37.
+Ce2 Rc6 38. Ec4 Ce9 39. Rxg7 Rxg7 40. Rxg7 ih6 41. e4 Ei6 42. Kf0 hg6 43.
+Cc2 Rd6 44. Cf2+ Ef5 45. ef4 Exi3 46. fg4+ gf6 47. hxi3 Aef8 48. Cxf7+ Axf7
+49. Rxf7+ Ef8 50. He4
+{Black resigns} 1-0
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 2회전"]
+[White "귀마 차선균"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Ad1 Ee6 7. Kd0
+Ke9 8. Afe1 Rai8 9. Hf2 ih6 10. Rxi8 Rxi8 11. ab3 Hd8 12. Ra5 Afe8 13. Ce0
+Kf9 14. Cd2 Ce9 15. g4 Cg9 16. Ef3 Cxg4 17. Exh6+ Hxh6 18. Cf0 Ke9 19. Cd2
+Cg9 20. Eg0 Ci9 21. Ei3 Cf9 22. Ci2 Rg8 23. He3 Ee7 24. Ca2 Cf7 25. Ca9+
+Hb9 26. He4 Ri8 27. Hg2 Hg8 28. d4 C7d7 29. h4 Cg7 30. Exg6 fxg6 31. Hf4
+Exh4 32. Hxg6 Ee6 33. Hf4 Eh4 34. Hg6 Ee6 35. Re5 Eb8 36. cd3 Cg9 37. Hh4
+Ri4 38. Hf5 Ri5 39. Hxe7 Rxe5 40. Hxg8+ Af8 41. Aed2 Re6 42. Hi9 Ke8 43.
+Hh7 Cc9 44. d5 Af7 45. Hhg5 Ce9 46. Hh7 Cc9 47. d4 Ae7 48. Cxe6+ Exe6 49.
+ba3 Ae9 50. Ca2 Cd9 51. de5 Eh4 52. d5 Kd8 53. Hi5 Ef7 54. Hg6 A7e8 55. Cg2
+Cd7 56. Ae2 Kd9 57. Cd2 A9f9 58. e6 Ce9 59. Hg5 Hd8 60. Ade1 Hb7 61. He5 b5
+62. Hxf7 Axf7 63. ef6 A7e8 64. Hxd7 Axd7 65. Cxd7 Ke8 66. Cd2 bc5 67. dxc5
+Hxc5
+{White resigns} 0-1
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 3회전"]
+[White "귀마 김동학"]
+[Black "귀마 차선균"]
+[Result "0-1"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. He3 Cee9 12. Rh4 Rb5 13. Rhi4 i5
+14. R4i3 Ee7 15. g4 Exc3 16. Rxi5 Rbxi5 17. Rxi5 Rxi5 18. Exi5 Ea6 19. Hf2
+cd6 20. gf4 fe6 21. f5 Cg9 22. h4 Ke9 23. Heg4 Ade8 24. Cg2 Cxg4 25. hxg4
+ef6 26. Ke0 fxf5 27. Cxg6 d5 28. Cg1 He5 29. Ca2 d4 30. Cxa6 Hxd3 31. Hd1
+Hb7 32. Ca0 Cb4 33. Eg2 de4 34. g5 fxg5 35. Cxg5 Cg4 36. Af1 Hd6 37. Ee5
+Hxe5 38. Cd5 ef4 39. Ade1 Hb5 40. ab3 Hg6 41. Cd0 Aff8 42. Kf0 Cg9 43. b4
+Hc7 44. Hb2 Cg4 45. ba4 He5 46. a5 Hg6 47. Hd3 Cg9 48. Hb4 He5 49. Cg0 Cc9
+50. Ce0 Hc4 51. Ca7 Hd5 52. Hc6 Cf9 53. Ce2 fe4 54. Aef2 e3 55. Ch2 Eh5 56.
+Ke1 Cf5 57. a6 Ee7 58. Ca0 Cf9 59. Ke0 Cf6 60. a7 Hd6 61. Hd4 Hb5 62. Hxb5
+Exb5 63. A1e1 Cf9 64. Cf0 Cf7 65. ab7 He7 66. b8 Cb7 67. ba8 Cb3 68. Cd0
+Hd5 69. Cd6 Ed8 70. Cd1 Hb6 71. a9 Cf3
+{White resigns} 0-1
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "준결승 3회전(A조)"]
+[White "귀마 정원직"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Ke9 8. Cb4 Hf8 9. Cb1 Afe8 10. Ci1 Rh8 11. Cc1 cb6 12. Ed3 Ra7 13. ih3 Ch9
+14. Ch1 Rg8 15. Ri5 bc6 16. Cc1 ab6 17. Rxa7 Cxa7 18. Exb6 cxb6 19. Cc7 g5
+20. c5 Hf6 21. Cb2 gh5 22. Ri4 h4 23. hxh4 Rg5 24. Cc2 Rxc5 25. Cf2 H6h7
+26. Cxb6 Ee7 27. Ke0 Cg7 28. Hh0 dc6 29. Cbb2 Exh4 30. Ce2 Cd7 31. g4 Ef7
+32. Hf1 cd6 33. Afe1 Add8 34. gf4 h5 35. Cf0 hi5 36. Ri2 Rg5 37. Hg3 Kd9
+38. f5 Rg4 39. f6 Ei9 40. Add1 Cf9 41. He4 dc6 42. Cd0 Cd7 43. Hc3 Rc4 44.
+fe6 Eh5 45. Exc6 Hxe6 46. Ef4 Ci7 47. Rf2 Cf7 48. Rg2 Hhg5 49. Ei2 Hxf3 50.
+Hf5 Cc9 51. Hd6 Rc6 52. Hxe8 Hed4 53. Cd3 Kxe8 54. Ef4 Rg6 55. Rxg6 Exg6
+56. Kd0 Kf9 57. Ce0 Cg9 58. b4 Cd9 59. bc4 Hf5 60. Ec6 Ae8 61. Add2 Ee7 62.
+c5 H3d4 63. cd5 Hh4 64. Ea3 Hb5 65. Hxb5 Exb5 66. dc5 Ebd8 67. Cd1 Hf3 68.
+cd5 Hd4 69. Cxd4 Exd4
+{White resigns} 0-1
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "준결승 2회전(B조)"]
+[White "원앙마 유광진"]
+[Black "귀마 차선균"]
+[Result "0-1"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ed6 4. Cbe2 g5 5. ed3 ab6 6. Cf2 Hd7 7. Ke0
+Ad8 8. Ade1 Kd9 9. Cd0 Afe8 10. c4 b5 11. d4 c5 12. cxc5 bxc5 13. Rb0 Ra6
+14. Ri4 i5 15. Rf4 ih5 16. dc4 cd5 17. Hge3 Hb6 18. Ra0 Ra9 19. Ra1 Ri6 20.
+Rd1 de5 21. ab3 gf5 22. Rf2 Ci7 23. b4 Cd7 24. Rc1 Cf9 25. Rg2 Hd7 26. b5
+f4 27. bc5 e4 28. c6 Rc9 29. Hb4 Hf5 30. Hec2 Cg7 31. gf3 fxf3 32. Rg4 ef4
+33. Rg2 fe4 34. Ei3 e3 35. Ci2 Rh6 36. Rg4 Ei6 37. Ra1 Cb7 38. Ra5 Ce7 39.
+Rg8 ef6 40. cxd6 Hxd6 41. Rd5 Hf5 42. Ri8 ed3+ 43. Ee3 fxe3 44. Af1 Eg3 45.
+Ra5 e2 46. Kf0 e2xe1+ 47. Hxe1 d2 48. Hf3 d1 49. Cg0 Rxc4 50. Ri9 Ce9 51.
+Ha6 hg5 52. Hg1 He3 53. Af2 Ed5 54. Ce2 Cf5+ 55. Ae1 d1xe1+ 56. Kxe1 Rc1+
+{White resigns} 0-1
+
+[Event "제4회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3∼4위 결정전"]
+[White "원앙마 유광진"]
+[Black "귀마 정원직"]
+[Result "0-1"]
+[TimeControl "각 20분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Che2 Ef6 5. c4 Af8 6. Cd2 Kf9 7. b4
+Ade8 8. ef3 Ce9 9. f4 ed6 10. cd4 ab6 11. Ea3 Hf7 12. g4 c5 13. Rb0 b5 14.
+bxb5 Hxb5 15. Rb3 Cc7 16. Ca2 Rb9 17. Hce3 Ci7 18. Ci2 Rg9 19. f5 Cd7 20.
+Rb4 c4 21. dxc4 Ce4+ 22. Kf1 Cxb4 23. cxb4 Hc7 24. Hc2 Ha6 25. Ca5 Hc5 26.
+Hge3 Hd3 27. Ci4 Ea6 28. Afe1 Ed8 29. Ca0 Cd9 30. Add1 Exf5 31. gf4 Ec3 32.
+Kf0 g5 33. Cd4 Rxb4 34. fe4 gf5 35. Ke0 fe5 36. Cd2 exe4 37. Hf1 Rb1 38.
+Ri2 Rc1 39. Cd0 Hf4 40. Rf2 Rg2 41. Rxg2 Hxg2 42. Hg3 Rxc2 43. Hxe4 Cxd1
+44. Hxc3 Rxc3 45. Exd1 Rc0
+{White resigns} 0-1
+

@@ -1,0 +1,1524 @@
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 3경기"]
+[White "귀마 송재권"]
+[Black "귀마 이점섭"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ad1
+Kf8 8. Kd0 Afe8 9. Afe1 Ce9 10. Ca2 Rf5 11. Cad2 ih6 12. Rxi9 Cxi9 13. ab3
+Ri5 14. Cf0 Kf9 15. Ef3 Ri6 16. Ra5 He6 17. g4 Cg9 18. c4 Af8 19. Ce2 Ade8
+20. Ce0 Cc7 21. Hd4 Hed8 22. bc3 Cd9 23. gf4 fe6 24. f5 ed6 25. h4 d5 26.
+Exh6+ gxh6 27. Hf3 hg6 28. h5 Ea6 29. hg5 gh6 30. fe5 Ch7 31. Ra2 dxe5 32.
+Exc6 Hxc6 33. Rb2 Exc3 34. Rxb6 He7 35. Hxe5 Hxe5 36. Cxe5 Cd7 37. Cxe8
+Kxe8 38. Rb8+ Ke9 39. Rxf8 Ri4 40. Cc0 Ri7 41. Ce0 Cf9 42. Rd8 Cdd9 43.
+Aed2+ Hc6 44. He4+ Re7 45. Rd6 Ha5 46. dxc3 Ke8 47. Rxh6 Kd7 48. Cxe7 Kxe7
+49. Hd6 Kd7 50. Hb5 Ee7 51. Ra6 Hb3 52. cxb3 Exc4 53. Hc7 Ee7 54. Ra8 Cxd2+
+55. Axd2 Eg4 56. Re8#
+{White mates} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 5경기"]
+[White "귀마 김현기"]
+[Black "귀마 황갑식"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "57"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ce7 4. Ci2 Hi7 5. Hd2 Ce5+ 6. Cbe2 Cc7 7. ef3
+Cg7 8. Ee3 c5 9. Rh0 Ce7 10. Exg6 h5 11. Rh2 ef6 12. Ee3 Ra7 13. Ra4 Ed6
+14. Ri4 Ee6 15. He4 Cxe4 16. Rxe4 ab6 17. Ed3 Ra1+ 18. Ad1 Cc7 19. Exf6 Kd8
+20. Rxe6 Exb3 21. cxb3 Ade8 22. Ed3 Rb1 23. Ci6 Hg8 24. Cd6+ Hf8 25. Cd2+
+Ad7 26. Ea5+ cd5 27. Rxb6 Rb2 28. Cd6+ Ae8 29. Ed7+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 6경기"]
+[White "귀마 최승걸"]
+[Black "귀마 조경자"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. Ed3 Ce7 4. ih3 ef6+ 5. Ce2 Ee6 6. Hd2 Hf8 7. ef3
+Ce5 8. Ee3 c5 9. Ri4 Ad8 10. Rd4 Exf3 11. gxf3 ih6 12. fg3 Cb7 13. Ec6 Ra8
+14. Exf8 Cf7 15. Ke0 Axf8 16. Ade1 Kf9 17. c4 Rc8 18. Rxa6 cxc4 19. Ra9+
+Ke8 20. Rxd7+ Axd7 21. Rxi9 Cd9 22. Eb6 cd4 23. gf3 Cf7 24. hg3 Rc6 25. Ri4
+Rc2 26. Kd0 Rc6 27. Rxd4 Rc8 28. Rc4 Ra8 29. He3 Ra0+ 30. Rc0 Ra7 31. Ce0
+Rb7 32. Rc8+ Kf9 33. Ad1 Afe8 34. Afe1 Ce7 35. Cc0 Ce9 36. Hec4 Ra7 37. Cf0
+h5 38. Ce2 Ce7 39. Rc9+ Ce9 40. Rc8 Ce7 41. He3 Rb7 42. Hd5 Ce5 43. Hc4 Ci5
+44. Hde3 Cd9 45. Ke0 Cg5 46. Rc5 Ch9 47. g4 Cg7 48. Rxh5 Ce9 49. Cxe6 Cc7
+50. Cxg6 Cf7 51. Cxf6 Rc7 52. Rh7 Kf8 53. Cg0 Rc6 54. Cf2 Ce7 55. Kf0 Cc7
+56. He5 Re6 57. H3c4 Ri6 58. g5 Re6 59. Hg6+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 1경기"]
+[White "귀마 최진호"]
+[Black "귀마 엄등록"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Af8 8. Ra1 Ra5 9. Rai1 Ri5 10. Rxi5 ixi5 11. g4 f5 12. Afe1 g5 13. gxg5
+Hxg5 14. Ri1 Ef6 15. Add1 cd6 16. Kd0 Hd5 17. h4 Exc3 18. h5 Hf7 19. hxi5
+bc6 20. Ce0 Ea6 21. Ca0 Ed8 22. d4 Hf4 23. Cd2 fe5 24. Ri3 He6 25. Cdf0 Ce9
+26. Cxf6 Cc7 27. Hb4 ef5 28. de4 Rg9 29. Cf3 f4 30. exf4 Hxf4 31. Exc6 dxc6
+32. Ce0+ Kf9 33. Ri4 Hg6 34. Hxc6 Ae8 35. ih5 Cg7 36. Ce2 Cd7+ 37. Ke0 He5
+38. Hxe5 Cxe5 39. Cf0 Ce9 40. Ef3 Ce7 41. Re4 Rg6 42. Ec5 Ce9 43. Rd4 Re6
+44. hg5 Ce7 45. gf5 Cd9 46. Rh4 Ke9 47. Add2 Cxd2 48. f6 Re5 49. Rh9+ Aff9
+50. fxf7 Axf7 51. Hg4 Rf5 52. Hh6 Rf4 53. Hxf7+ Rxf7 54. Exf7 Cd9 55. Cxf9
+Ke8 56. Eh4 Ef5 57. ab3 Ke9 58. Rh7 Eh2+ 59. Af1 Ke8 60. Cf0 Ce9 61. Rh8+
+Ke7 62. Rf8
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 3경기"]
+[White "귀마 김영곤"]
+[Black "귀마 송은미"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "63"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ad8
+8. Cb4 Ra8 9. Ed3 Ce5 10. Cb1 Hh9 11. g4 Hhf8 12. Ci1 Rg9 13. ih3 g5 14.
+Ca1 ab6 15. ba3 Rc8 16. gxg5 Rxg5 17. Ri2 Rg9 18. Cg1 Rh9 19. ab3 Kd9 20.
+Ra9 Ce9 21. Cc1 Rb8 22. cb4 hg6 23. Hf4 Ce7 24. Exg6 Afe8 25. Ra5 Hxg6 26.
+Hxg6 Rxh3 27. Hxe7 Cxe7 28. Cc9 Af7 29. Ca9+ Ke8 30. Ri8+ Eh8 31. Ri9 Rh1+
+32. Af1
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 5경기"]
+[White "귀마 김동학"]
+[Black "귀마 김영헌"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "57"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hf7 4. ed3+ Kf8 5. Ee3 ef6 6. g4 Ee6 7. Ch4
+Hbd8 8. Cd4 Cd7 9. Cd1 Afe8 10. Cf1 Rf5 11. Hf2 Ri5 12. Rxi5 ixi5 13. ab3
+i4 14. Ra5 Ri6 15. g5 gxg5 16. Rxg5 Cb5 17. Exc6+ Kf9 18. Rh5 Ee7 19. Rh9+
+Kf8 20. Ee3 Hh6 21. Hg4+ fg6 22. Ef3+ Cf7 23. Exh6 gxh6 24. Rxh6 Ri9 25.
+Rf6 Cb7 26. Hh6 Ri6 27. Cxe6 Hxe6 28. Rxe6 b5 29. Hxf7+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 16강 3경기"]
+[White "귀마 최승걸"]
+[Black "귀마 김현기"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Ri4 Kf8 9. Ef3 Afe8 10. Af1 Ce9 11. Rai0 i5 12. Rc4 Che7 13. Kf0 Rf5
+14. Afe1 Cg7 15. Rh4 Kf9 16. Eh6+ gxh6 17. Rxh6 Cd7 18. Rh4 Cxd1 19. Exc6
+Cd6 20. Ee3 fg6 21. Rc4 Cf6 22. Ke0 bc6 23. Hg4 c5 24. Rb4 Cf8 25. Rb7 Hb9
+26. Ec6 Hbd8 27. Rb6 Ce7 28. Hge3 Exg3+ 29. hxg3 Rh5 30. Ca2 Cf6 31. Ef4
+Ci6 32. Rxg6 Cxi0 33. Kd0 Ce9 34. Rg7 Ri7 35. Rg6 Af8 36. Cb2 Ri6 37. Rg7
+Rb6 38. ab3 Ra6 39. Cf2 Rh0+ 40. Kd1 Rc0 41. d4 Rd6 42. Hf5 Re6 43. Ce2 Ci6
+44. Rg9+ Cxg9 45. Hg7#
+{White mates} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 3회전"]
+[White "귀마 최진호"]
+[Black "귀마 양승태"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Ri8 9. Ef3 Ri5 10. Rxi5 ixi5 11. g4 f5 12. Ri1 g5 13. gxg5 Hxg5
+14. Exi5 f4 15. Ri3 f3 16. Exf3 Rxi3 17. hxi3 Hxf3 18. Ade1 Eg3+ 19. Cg2
+He6 20. Kd0 c5 21. Cd2 Ei0 22. Ce2 Exf2 23. Cxe6 Hg5 24. Ce2 Ed5 25. Aff1
+Eg7 26. Cf0 Af8 27. ab3 Cf7 28. Cb0 b5 29. Eh5 Cf9 30. He3 Kd8 31. Cg0 Ee4
+32. Hg4 Eg1 33. Cg2 He6 34. Exe7 Af7 35. Exb5+ cxb5 36. Cg9 Hg5 37. Ci9
+Ade8 38. Ci0 Kd9 39. Ke0 Ee7 40. Cd0+ Ke9 41. d4 Cf4 42. cd3 Kf9 43. Hi5
+Eb9 44. Hg6 Ee7 45. de3 Cf8 46. Cg0 Hi6 47. ih3 bc5 48. Ce6 Cf6 49. bc3 Eb5
+50. cd3 Ed8 51. Hf4 Ea6 52. Ce2 Ed8 53. Ce5 Ef5 54. He2 Ee4 55. Hg3 Ei7 56.
+exe4 Cf8 57. Hh5 Ef5 58. Cd0 Ed8 59. hg3 Afe7 60. Ci5 Ea6 61. Cxc5
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 4경기"]
+[White "귀마 박영완"]
+[Black "원앙마 구중완"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 Cf7 5. Ri4 c5 6. ab3 Ri7 7. Hd2
+ed6 8. Rg4 ih6 9. Ei3 He6 10. ef3 Ri6 11. Rb4 Ri8 12. Rb7 Ch7 13. Rb8+ Ad8
+14. Rc8 Cf7 15. Rxc5 Ke9 16. Ra4 Af8 17. Rc8 Afe8 18. Rac4 Ri5 19. Rxc9+
+Rxc9 20. Rxc9+ Cd9 21. Ra9 d5 22. Rxa6 d4 23. Eg1 de4 24. Ad1 Rd5 25. Ke0
+ef4 26. Ra4 Hd4 27. fe3 Hxe2 28. Cxe2 g5 29. Afe1 He6 30. Ra6 Rd6 31. Rxd6
+Cxd6 32. Cxe6 Exe6 33. Hc4 Cd9 34. Ed3 Cg9 35. Hh0 fe4 36. exe4 Cxe4+ 37.
+Kd0 Ce7 38. Hf1 h5 39. Ha5 Cd9 40. Hc6 Cd6 41. Aed2 gf5 42. Hd4 Eh8 43. g4
+fe5 44. Hg3 ed5 45. Hb5 dc5 46. He4 Cxd2+ 47. Axd2 cxb5 48. h4 hxh4 49.
+gxh4 Ee6 50. Hg5 Eb8 51. c4 Kf9 52. Hi6 Af7 53. Hh8+ Ke8 54. Hg6 Cg7 55.
+Ef5 Ee6 56. Ke1 Cd7 57. Eh2 Cd9 58. Eb6+ Cd7 59. hg4 Ke9 60. Hf4 Eb8
+{빅장}
+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 2경기"]
+[White "귀마 이현기"]
+[Black "원앙마 이수형"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ed3 Hg7 4. Ce2 ed6 5. ab3 Hce6 6. gf3 gh6 7. hg3
+Cf7 8. g4 i5 9. Hf4 Hf5 10. Hd2 h5 11. Ei3 Hxf4 12. fxf4 Hg7 13. Ef1 Ei6
+14. e4 Af8 15. Ad1 Cf9 16. Kd0 Ke9 17. Afe1 Ade8 18. Ce0 c5 19. Cg2 He6 20.
+Ri3 d5 21. Cc2 Eg9 22. Cce2 Ra7 23. Cc0 i4 24. Rh3 hi5 25. Rh6 Rh9 26. Rxh9
+Cxh9 27. Cg0 Ei6 28. Cc0 Cd9 29. Cxe6 Exe6 30. g5 Cf9 31. Cf0 Cc9 32. g6
+Exc3 33. bxc3 Cxc3 34. f5 ih5 35. e5 dxe5 36. fxe5 Eg3 37. gf6 Rd7 38. e6
+Cee3 39. Rxa6 Rxd3 40. Ra4 h4 41. Ra5 c4 42. Ra9+ Rd9 43. Rxd9+ Kxd9 44.
+He4 Exe6 45. fxe6 Cc9 46. Hd6 cd4 47. Cd2 Ke9 48. Hc8+ Kf9 49. Cf0 Aef7 50.
+e7 Axe7 51. Hxe7+ Ke8 52. Hf5 d3 53. Cc0 Kd9 54. Ce0 Ca3 55. He7+ Ae8 56.
+Hd5 Kd8 57. Hc7 Ad9 58. Ed4 Ch9 59. Eg6+ Kd7 60. Hxd9 de3 61. Hf8+ Ke8 62.
+Hxh9 Ch3 63. Hg7+ Kf7 64. Exe3 Cd3+ 65. Ad2 hg4 66. Hf5 gf4 67. Hh6+ Kf8
+68. Ke1 ih4 69. Ec6+ Kf9 70. Exf4
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 8경기"]
+[White "귀마 이병현"]
+[Black "원앙마 최창문"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ef3 Hce6 6. ab3 Ra7 7. Ra4
+g5 8. g4 gh5 9. h4 hi5 10. g5 ih6 11. Ri3 Cf7 12. f4 Hxg5 13. Ef6 He6 14.
+Hd2 hg6 15. Rg3 Ri6 16. Ee3 Hxf4 17. Exg6 Hxe2+ 18. Cxe2 Ke9 19. Rag4 Ade8
+20. Ri3 ab6 21. Rg5 Aff8 22. Rixi5 Rxi5 23. Rxi5 Ra4 24. Ec4 Cf9 25. hg4
+He6 26. Ee3 Ra0 27. Ke0 Hd4 28. Ce4 Ra2 29. Afe1 c5 30. Rxc5 dc6 31. Rd5
+Hc2 32. Ce2 Ege6 33. Exe7 Axe7 34. Rd8 Aee8 35. Rc8 Ra4 36. c4 Hxd0 37.
+Cxe6+ Kd9 38. Axd0 Ra5 39. Ce2 cd6 40. c5 Ra7 41. Cb2 Ra2 42. Cb4 Ke9 43.
+Ae1 Cd9 44. Rxc9 Ra0+ 45. Ec0 Ra7 46. Cb0 ba6 47. Cd0 de6 48. Hf4 ef6 49.
+Hd5 Rf7 50. Ea3 ab6 51. c6 bxc6 52. Exc6+ Ad8 53. Hxf6 Rxf6 54. He4 Rf7 55.
+Rxd9+ Rxd9 56. Cxd9
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 16강 3경기"]
+[White "귀마 김동학"]
+[Black "원앙마 리영파"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. c4
+Cd7 8. Hb4 Ca7 9. Ea3 cb6 10. c5 a5 11. Rc0 ab5 12. Hd5 bxc5 13. Hxc7+ Hxc7
+14. Rxc5 He6 15. Rc8+ Ke9 16. Ri4 f5 17. Ric4 f4 18. Rxc9 Rxc9 19. Rxc9 Ce5
+20. Rb9 ba6 21. Rb5 Ce8 22. Rd5 Rb7 23. dc3 Ad8 24. Rd6 ab6 25. Ch9 gf6 26.
+Ch1 Cd7 27. Cd1 Rb8 28. Rd2 Cd9 29. cd3 ih6 30. bc3 Rb7 31. Rb2 Ei6 32. Hf2
+Af8 33. Cf1 hg6 34. Ec1 Cg9 35. gf3 Cc9 36. fe3 Cf9 37. Ke0 Ra7 38. Ed5 Ra6
+39. Exf8 Exf8 40. Afe1 Cb9 41. Rd2 Ra5 42. Kf0 Ei6 43. Ce0 Cf9 44. Rb2 bc6
+45. Rb7 Rg5 46. Ri7 Ef8 47. Re7 c5 48. Ea4 cd5 49. c4 gh6 50. Ed2 Rg2 51.
+Ea0 h5 52. Ec3 hg5 53. cd4 dxd4 54. Exe6 dxd3 55. exd3 fxe6 56. Rxe6 Kd9
+57. Cxf4 g4 58. Cf1 Cxf2 59. Rf6 Ch2 60. Rxf8 Ke9 61. Ri8 Kf9 62. Ri2 Cd2+
+63. Af2+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 1경기"]
+[White "귀마 박영완"]
+[Black "원앙마 지차용"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "61"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Hg7 3. Ce2 Cbe7 4. Ed3 Cf7 5. Ri4 ed6 6. ef3 He6 7. ab3
+Ra7 8. Hd2 Ke9 9. Ee3 g5 10. Exc6+ dxc6 11. Exg5 Hxg5 12. Rc4 Rc7 13. He3
+i5 14. Hd5 Rd7 15. Hxe7+ Afe8 16. Hf5+ Kf9 17. Hxg7+ Kf8 18. Rh4 ih5 19.
+Rxh5 Hh7 20. Cb8+ Rd8 21. Cb1 Ri2 22. Hf5 Hf6 23. Rh8+ Kf9 24. Hh6 Rxd2+
+25. Kxd2 He4+ 26. fe3 Ee6 27. Hxf7 Exh8 28. Hxh8+ Kf8 29. exe4 Ri4 30. Rxa6
+Rxe4 31. Rxc6
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 1회전"]
+[White "귀마 박영완"]
+[Black "원앙마 조룡호"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. ef3 ed6 4. Ee3 g5 5. Rh0 Ri7 6. Rh4 d5 7. Rb4 Ra8
+8. Ed3 Hg7 9. ab3 Ke9 10. Hd2 Cf7 11. Rb7 Rc8 12. Ef6 Afe8 13. Exc8 Cxb7
+14. Rxa6 c5 15. Ra9 Ce7 16. Rxc9 Rh7 17. ih3 g4 18. Ra9 gxg3 19. fxg3 Kf9
+20. Ad1 Rh6 21. Kd0 Rd6 22. Ra4 d4 23. Afe1 Add8 24. Ce0 Cd9 25. gf3 ih6
+26. Cc0 Rd5 27. Hf4 Ri5 28. Ce2 Ke9 29. Ra5 Hge6 30. Hxe6 Hxe6 31. Cxe6 d3
+32. Ce2 dxd2 33. Aexd2 cd5 34. Eb5
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 4회전"]
+[White "귀마 최진호"]
+[Black "원앙마 박영완"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hf2 Hg7 3. Ce2 Che7 4. ed3 ef6 5. Ee3 c5 6. ih3 Hge6 7. Hc2
+Cd7 8. Ke0 Ke9 9. Afe1 Afe8 10. Cd2 Cf9 11. Ra4 Ca7 12. Rh4 Ci7 13. Ci2 ih6
+14. Ef3 Ca7 15. Exh6 gxh6 16. Rxh6 Ri6 17. Rxi6 Exi6 18. Cf0 Hd5 19. Cid2
+Ef8 20. Ri4 ab6 21. c4 b5 22. cd4 Hdc7 23. Cxf6 Ce7 24. Ri9 Eh5 25. Exh5
+Hxd4+ 26. Kf0 Hxb3 27. dc3 Ha5 28. Cf1 Cb7 29. Ca2 Rb9 30. Ce2+ Af7 31.
+He4+ Ae7 32. Hxc5+ Ae8 33. Hxb7 Rxb7 34. Exe7 Hd5 35. Eg4+ Kd9 36. Ei7 Rh7
+37. Ce0 Hf4 38. He3 Hh5 39. Hf5 Hxi7 40. Rg9 Hh5 41. Cxe8 Kxe8 42. Rxf9+
+Kd8 43. cd3 bc5 44. Cd1+ cd5 45. Cxd5
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 1경기"]
+[White "원앙마 김귀임"]
+[Black "원앙마 김봉철"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. ab3 ih6 3. Ce2 Ce7 4. Hc2 Hc7 5. ef3 ef6 6. c4 Hge6 7. b4 Cd7
+8. Ece3 Ca7 9. Rc0 ab6 10. Ke0 Cd7 11. Cd2 Ad8 12. Afe1 Ke9 13. Ci2 Ei6 14.
+g4 Rg9 15. Rh0 Afe8 16. Ce2 Cf9 17. f4 Ea6 18. Rb0 Ch9 19. ih3 h5 20. Rb3
+Cf9 21. Add1 Rh9 22. Cd0 hg5 23. h4 gxg4 24. fxg4 Ec9 25. Ei3 gh6 26. Exc6
+bxc6 27. cd4 c5 28. Rhh3 hg6 29. bc4 cxc4 30. dxc4 Ea6 31. Rb6 Rb9 32.
+Rxb9+ Cxb9 33. Hb4 Cg9 34. Hc6 Cb7 35. Rb3 Cd7 36. He3 g5 37. Hd5 Kd9 38.
+Hxf6 gxg4 39. hxg4 Cc9 40. He5 Eg9 41. Ef1 Rh6 42. He4 Ce9 43. Hg5 Ce7 44.
+Hc6 Ce9 45. Hi4 Rg6 46. Hh2 Hf4 47. gxf4 Rxc6 48. Rb4 Rf6 49. c5 Cc9 50.
+cd5 Ei6 51. fe4 Ef8 52. d6 Cd3 53. Rb3 Ec3 54. Rb6 Hd5 55. Rc6 Ce9 56. ed4
+Hf4 57. Hf3 Ee6 58. de4 Hh5 59. Cf0 Eg3 60. He5 Ri6 61. Rc3 Ch3 62. Rc4 Ch9
+63. Hc6 Ce7 64. de6 Exe6 65. Cd0 Hg3 66. Ce5 Ke9 67. Hxe7 Axe7 68. Cxe7 Eh4
+69. Ce3+ Ae8 70. ef4+ Re6 71. fe4 Ra6 72. e5 Ra3 73. Ch3 He4 74. Rxe4 Rxh3
+75. Exh4 Kf9 76. Kf0 Ce9 77. Cf2+ Af7 78. ed5 Rf3 79. Exf7 Rxf7 80. Re7
+Rxf2+ 81. Axf2 Exd5 82. Rd7+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 6경기"]
+[White "원앙마 리영파"]
+[Black "원앙마 유광진"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. ih3 ab6 3. Hc2 Hc7 4. Cbe2 Cbe7 5. ed3 ef6 6. Hce3 c5 7. g4
+Cf7 8. Cf2 Ad8 9. Af1 Cd9 10. Ke0 Ke9 11. Ed2 Ege6 12. Ade1 Afe8 13. Cd0 b5
+14. h4 ih6 15. Rxi9+ Cxi9 16. Ca2 Ea6 17. ab3 Rb9 18. Ce2 Cd9 19. gf4 g5
+20. Cg0 hg6 21. hg4 gxg4 22. Cxg4 Hh9 23. Cg0 Hf8 24. Cd0 Cg9 25. Cf0 Ca7
+26. Rb0 Cg7 27. Hh4 Cb7 28. Ra0 Ce7 29. f5 fxf5 30. Hhxf5 Ca7 31. Rb0 Cd9
+32. Hg2 Cf9 33. Hfh4 Kd9 34. Cxf8 Exh4 35. Hxh4 Axf8 36. Hxg6 Afe8 37. de3
+Rb6 38. He5 cd5 39. Hf3 Ce7 40. Ef5 He6 41. Ei7 Ca9 42. Eg4 Cee9 43. cd3
+Hc7 44. Aff2 Rg6 45. Hh2 Cb9 46. ef3 Cg9 47. Ee3 Rg5 48. Rc0 bc5 49. f4 Ce9
+50. Cg2 Rh5 51. Cd2 Ce6 52. Kd0 Cc9 53. b4 Cf9 54. b5 Hxb5 55. Ee7 Rh6 56.
+Exb5 Add7 57. fe4 Ce9 58. ed4 dxd4 59. Cxd4+ Ad8 60. Exd8 Ke8 61. Cd2 Exd8
+62. Rxc5 Ra6 63. Rh5 Ra7 64. Rh8+ Kf7 65. Hg4 Ra0+ 66. Kd1 Ra1+ 67. Kd0 Ke7
+68. Rh7+ Ke8 69. Hf6+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 16강 1경기"]
+[White "원앙마 지차용"]
+[Black "원앙마 김귀임"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 ab6 3. Ce2 Hg7 4. Hc2 Che7 5. Cd2 ef6 6. Ca2 Rb9 7. ab3
+Ece6 8. Cd2 Cd7 9. Af1 Ad8 10. Ke0 Ke9 11. Ade1 Afe8 12. Cf0 c5 13. ed3 Cd9
+14. g4 b5 15. Ece3 Rb6 16. Ra9 Exc3 17. bxc3 Ha6 18. h4 Ee6 19. gf4 Hb4 20.
+Hb0 g5 21. Hd1 Ri7 22. d4 f5 23. fe4 Eb8 24. cb3 Hd3 25. bc3 Hc1 26. Ra1
+cd5 27. dxd5 Exd5 28. Rxc1 b4 29. c4 Eb8 30. c5 Cg9 31. c6 Rb7 32. c7 Rb6
+33. c8 Add7 34. cxb8 Rxb8 35. Rc6 b3 36. ed4 Cd9 37. Rc9 Rb6 38. Ec6+ Add8
+39. Ee3 He6 40. Cxe6 Rb4 41. Cd0 i5 42. Ce2 Ri6 43. Ri3 Kf9 44. Rh3 Rh6 45.
+Ri3 Ri6 46. Rf3 Ke9 47. hg4 ih5 48. gxg5 hxg5 49. Hh4 Rf6 50. Ri3 g4 51.
+Ri9+ Af9 52. Hi6 Rh6 53. dc4 Rb8 54. Ri8 Ae8 55. Hh8 Rf6 56. Ri7 g3 57.
+Ri9+ Af9 58. Hxf9 Rxf9 59. Rxd9+ Kxd9 60. Rxf9#
+{White mates} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 7경기"]
+[White "원앙마 조룡호"]
+[Black "귀마 강갑진"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Hf7 4. Che2 Ri8 5. ef3 ih6 6. c4 cd6 7. Hge3
+g5 8. Ke0 Af8 9. b4 Kf9 10. Cd2 Ade8 11. Afe1 Ce9 12. Cf0 ab6 13. Ea3 b5
+14. Add1 bxb4 15. cxb4 Ra8 16. Rb0 Rb8 17. Cc0 Ha6 18. Ri1 Ef6 19. Rf1 Cg9
+20. Cb2 Ra8 21. Ci2 Rg8 22. f4 Ra9 23. Ca2 Rb9 24. Ce2 Cd9 25. g4 gxg4 26.
+fxg4 Ce7 27. Rf4 Ei8 28. b5 Ef6 29. ih3 h5 30. Rf5 Rh8 31. hg3 Ei8 32. b6
+e5 33. Rf4 Hb8 34. Cf0 Ke9 35. Rbb4 Hd7 36. bc6 Rxb4 37. Hxb4 de6 38. Rc4
+hg5 39. c7 gxg4 40. cxd7 Axd7 41. gxg4 Rh1 42. Rxc9 Afe8 43. Ei3 Ef6 44.
+Eg6+ Kf9 45. Cxf7 Ed3 46. Hxd3 Kf8 47. Hc5 Add8 48. Hxe6 Kxf7 49. Rc4 Kf8
+50. Rf4+ Cf7 51. Cxe5 Rh6 52. g5 Rh3 53. Ec6 Rg3 54. Ri4 Cd9 55. Ri8+ Kf9
+56. Hg7+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 16강 2경기"]
+[White "원앙마 박영완"]
+[Black "귀마 송재권"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. Hc2 Hf7 4. ef3 ab6 5. Hge3 ih6 6. Cd2 Af8 7. Ad1
+Kf9 8. f4 Ade8 9. Cd0 Ri8 10. Ke0 Ce9 11. Afe1 Cg9 12. g4 Ce7 13. Ca2 Ea6
+14. c4 Rb9 15. ab3 ed6 16. b4 Cd9 17. Ea3 He6 18. Ce2 gf6 19. Rb0 hg6 20.
+Rh0 Rh8 21. ih3 g5 22. h4 f5 23. fxf5 gxg4 24. f6 Hf4 25. fxf7 Afxf7 26.
+Cf0 Ke9 27. Ce4 g3 28. hg4 Rxh0 29. Cxh0 Hg6 30. Ce2 Cf9 31. Rb3 gf3 32.
+Hf5 Cxf5 33. g5 Cf9 34. gxg6 d5 35. Ei3 cd6 36. gh6 Cc9 37. Cxh9 Rb8 38.
+Rxf3 Cxc2 39. Rc3 Cxc4 40. Rxc4 b5 41. Rg4 Kd9 42. Rg9+ Kd8 43. Ra9 Ed4 44.
+Ra6 bc5 45. Rxd6+ Ad7 46. Exd5 Rxb4 47. Ch0 Rb3 48. Eg6 Rh3 49. Cd0 Ea2 50.
+Eb2 Ae8 51. Ra6
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 8강 2경기"]
+[White "원앙마 조룡호"]
+[Black "귀마 최승걸"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Hg2 ih6 4. Che2 Ri5 5. ef3+ Che7 6. Cd2 Cd7 7. Ke0
+Ca7 8. Rb0 ab6 9. c4 Cd7 10. He3 cd6 11. Afe1 b5 12. Cf0 bc5 13. i4 Ri8 14.
+cxc5 Ra5 15. c6 dxc6 16. Ea3 cd6 17. b4 Ef6 18. Add1 Ed3 19. Add2 Ra7 20.
+Ri3 h5 21. Cd0 Ef6 22. b5 Ra4 23. b6 Rixi4 24. Rxi4 Rxi4 25. b7 Cxb7 26.
+Hf5 Kf8 27. Hxd6 exd6 28. Cxd6 Rc4 29. Ee3 Ed3 30. Rb3 Ea5 31. Cd0 Cd7 32.
+Eac6 Ke8 33. Hd4 Rc5 34. Ef4 Ca7 35. Hc6 Ee6 36. Hxa7 Cxa7 37. Rb7 Ca3 38.
+Efc6 Hd8 39. Rxc7 Hxc6 40. Rd7+ Kf8 41. Cf0+ gf6 42. Exc6+ Rxc6 43. Rd5 Eb4
+44. Rxa5 Ca6 45. fe3+ fe6 46. gf3+ ef6 47. ed3 h4 48. Ra4 Rb6 49. Ra5 Ed7
+50. fe3+ fe6 51. Rh5 hg4 52. Rh8+ Kf7 53. Rg8 gh4 54. Cxf9 Rb0+ 55. Ad0 Cf6
+56. Cxe6 Ae8 57. Cxd7 Axd7 58. Ce2 Rb7 59. e4 Cf9 60. d4 Ae7 61. e5 Rd7 62.
+d5 Ae8 63. d6 Rd8 64. e6 Ad9 65. Rg7+ Kf8 66. d7
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "3·4위 결정전"]
+[White "원앙마 조룡호"]
+[Black "귀마 양승태"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ed6+ 4. Che2 ih6 5. ef3 Ee6 6. c4 Ad8 7. Hge3
+Kd9 8. f4 Ca7 9. Rb0 Afe8 10. Cd2 Cd7 11. Ea3 ab6 12. Ca2 Rb9 13. Cxe6 Ef6
+14. Cee2 Cd3 15. g4 Cb7 16. cd4 Cf3 17. b4 Ri5 18. f5 Eh9 19. Cd2 Rh5 20.
+Ke0 Rh2 21. Afe1 Cf9 22. i4 h5 23. Cf0 Hh7 24. Add1 gf6 25. fe5 c5 26. Cb2
+Rh1 27. Cxb6 Rg1 28. Cc0 Ee7 29. Cxc5 Exg4 30. Cc0 Ce7 31. Cb2 Cxe3+ 32.
+Hxe3 Rxb4 33. Hc2 Rb3 34. Ce2 Rd3 35. Rb1 Hg5 36. Ca2 Exe1 37. Axe1 Hf3 38.
+Cf2 Hxe5 39. Rh0 Rf3 40. Ca2 Rfg3 41. de4 Hg4 42. ef4 Hi3 43. Rxh5 Hh1 44.
+Cd2 Rd3 45. Rh2 He6 46. fe4 f5 47. Ca2 f4 48. e5 Hg5 49. ef5 Hf3 50. Rh9
+Add7 51. f6 Ade7 52. Cf0 fe4 53. Cd0 Hxe1 54. Rxe1 Rxe1+ 55. Kxe1 Hg3 56.
+fe6 Ke9 57. exd6 Rxd6 58. Rg9 Hxi4 59. Rg4 Hh6 60. Rxe4 Rg6 61. Ce2 Rg1+
+62. Ke0 Hg4 63. Cxe7+ Af7 64. Ce2+ Kd9 65. Ed5+
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 1회전"]
+[White "원앙마 박영완"]
+[Black "귀마 최진호"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3 Ri8 6. Cf2 ih6 7. Ei3
+Hd7 8. He3 Ad8 9. g4 Kd9 10. d4 Afe8 11. Ke0 Ce9 12. Ade1 Cc9 13. c4 ed6
+14. Cd0 Ri5 15. a4 Ri8 16. Aff1 He6 17. h4 Hef8 18. gf4 Ee6 19. f5 Exh4 20.
+Hxh4 Cg7 21. Hhg2 de6 22. Ra3 Cg9 23. Ci2 Rh8 24. Ca2 Ri8 25. Rc3 Rc8 26.
+Ci2 Rh8 27. Rh0 Cb7 28. ab4 Ra8 29. Ea3 Ch7 30. Ri0 Ch3 31. Hc2 Ch7 32.
+Hce3 Cc9 33. Ca2 Rc8 34. Ch2 cd6 35. Ce2 Ra8 36. Rb3 Cb7 37. Rd3 Cg7 38.
+Ed1 Ra5 39. de4 Ri8 40. e5 gf6 41. Ea3 Ca7 42. Ed1 hg6 43. Rh0 Ri7 44. cd4
+fxf5 45. exe6 dxe6 46. Exf5 Rh7 47. Rxh7 Cxh7 48. Exd8 Axd8 49. Rc3 Rc5 50.
+Ra3 Rc8 51. d5 gf6 52. bc4 Cb7 53. c5 Ce7 54. Eb4 bc6 55. cxc6 Rxc6 56. Ra8
+Ae8 57. dc5+ Hxc5 58. Hd5+ Ke9 59. Hxe7 Axe7 60. Rxf8 He4 61. Rb8 Cf9 62.
+Ed1 Hc3 63. Ef4 Rc5 64. Eh7+ Kd9 65. Hf4 Hxe2 66. Hd3+ Hd4 67. Cxd4 Rc7 68.
+Cd0+ Ad7 69. Rf8
+{Black resigns} 1-0
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 8경기"]
+[White "귀마 임대빈"]
+[Black "귀마 하성호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "204"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ri5 8. Kf0 Kd8 9. Ci2 Rd5 10. Ade1 Ade8 11. Cif2 Ce9 12. Cd0 Ri5 13. ih3
+Rxi0+ 14. Cxi0 ab6 15. Rxa9 Cxa9 16. c4 Kd9 17. g4 Hh9 18. gf4 Hhf8 19. Cd0
+Ad8 20. f5 Afe8 21. hg3 Cc9 22. g4 Cf9 23. gf4 Cg7 24. Hi3 Hh9 25. fe5 Hi7
+26. exe6 dxe6 27. Ke0 Ed6 28. fe4 gf6 29. f4 Cb7 30. b4 hg6 31. Ci0 Hg8 32.
+Cc0 Hh6 33. Ed3 g5 34. Exb6 cxb6 35. Cc7 ba6 36. b5 gf5 37. fg4 e5 38. ed4
+f4 39. gxf4 Cxf4 40. c5 Cf9 41. Eh5 Ef3 42. c6 f5 43. Ef2 Cb4 44. Cc4 Cbb9
+45. c7 Hf8 46. Hxf3 He6 47. Hd2 Hxc7 48. bc5 He6 49. Hb3 Ce9 50. Cc6 Hg5
+51. Cc0 Ce7 52. Kd0 Ke9 53. Cf0 Cd7+ 54. Cd2 Hf3 55. Cd6 Hf7 56. c6 Ce3 57.
+Hh1 Hxd6 58. cxd6 Cd9 59. dc6 Ce7 60. Ad1 Cxd4+ 61. Ae1 Cd9+ 62. Ke0 Kf9
+63. Kf0 Hh4 64. Hi3 fg5 65. Ec4 Cf7+ 66. Ke0 Ce9 67. Hd2 a5 68. Hg2 Hxg2
+69. Cxg2 ab5 70. Cc2 gf5 71. Ce2 bc5 72. Ef2 Cd9 73. Hb3 cd5 74. Ce6 e4 75.
+Ei4 fe5 76. Ha5 Cg9 77. Hb7 Add7 78. cd6 Ade7 79. Cc6 Cf7 80. Ha5 ef4 81.
+de6 A7d7 82. ef6 Cf5 83. Ci6 Ce9 84. Hb7 Cf3 85. fg6 Ce6 86. Eg1 e4 87. Ei4
+Ce3+ 88. Kd0 Ce7 89. Ha5 Ce9 90. Cf6 Cg9 91. Ke0 Ke9 92. Hc6 Cg3 93. Eg7 d4
+94. He5 Cf5 95. gh6 f3 96. Hc6 Ce3+ 97. Kd0 Af7 98. Ei4 Ade8 99. Ha7 Kd9
+100. Hc8 fg3 101. hg6 Ce6 102. Hd6 Aff8
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 7경기"]
+[White "귀마 이호준"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+ed6 8. Cb1 Ee6 9. Ci1 Rg9 10. Ea9 Rxa9 11. Hd2 d5 12. Cd1 Ri9 13. He3 gf6
+14. Cg1 Exg3 15. fxg3 Hh5 16. Hg2 Hxg3 17. Cxg3 Rg9 18. ih3 Cxh3 19. Ri7
+Ce9 20. Ra4 a5 21. Rh4 Rxg3 22. He4+ Cxe4 23. Rxe4+ Kd8 24. Ree7 Ade8 25.
+Ri8 Re9 26. Hh0 Aff8 27. Hf1 Axe7 28. Cxe9 Rg7 29. Rxf8+ Ae8 30. Ri8 de5
+31. Ee2 cd5 32. He3 Ch9 33. Hc4 Rg9 34. Cxe5 Hxe5 35. Hxa5 Hf3+ 36. Kd1 Cf9
+37. Hc6+ Kd9 38. cd3 Rg7 39. Ri5 Rc7 40. Rxd5+ Ke9 41. Eg5 Rxc6 42. de3
+Rc1+ 43. Kd2 Rc2+ 44. Kd1 Hxg5 45. Rxg5 Cxf0 46. ed3 hg6 47. Re5 Cf9
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 16강 1경기"]
+[White "귀마 이현기"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "152"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ke9 8. Ri1 Ria8 9. Ed3 Ade8 10. ih3 Kd9 11. Ri4 Hf8 12. Ad1 Ce9 13. Afe1
+Cc9 14. c4 ab6 15. Rxa8 Rxa8 16. Kf0 Ra2 17. Cb4 Ra0+ 18. Ce0 Cb7 19. Cf4
+Ra6 20. Cf2 Cf7 21. Hh0 Ce9 22. Hhf1 Cb7 23. Ce2 Ra4 24. Cd0 Ad8 25. Ke0
+Afe8 26. Cf0 Cc9 27. cd4 d5 28. de4 c5 29. f4 b5 30. gf3 Cf9 31. Ri9 c4 32.
+hg3 bc5 33. Ri5 d4 34. exd4 cxd4 35. bc3 c4 36. cxc4 dxd3 37. c5 Rc4 38. c6
+Ce7 39. Rd5 dxd2 40. Rxd2 Eb4 41. cd6 Exd6 42. Rxd6 gf6 43. Ce4 Rc5 44. Rd4
+Ee6 45. Ce2 Ke9 46. fe4 Cd9 47. Ra4 Hb6 48. Rb4 Rc0+ 49. Cxc0 Exb4 50. Eb5
+Exe2 51. Exe7 Axe7 52. Axe2 Cxd1 53. Hd2 Cd7 54. Cf0 hg6 55. fe3 fe6 56.
+gf3 gf6 57. Ae1 Ade8 58. ef4 Hg6 59. f5 fxf5 60. Cxf5 Hh4 61. Cf0 Hd5 62.
+He4 e5 63. Hc5 Hc3 64. Hd3 ed5 65. Hc1 d4 66. Cc0 Hd5 67. He2 d3 68. exd3
+Hxf3 69. dc3 A7f7 70. Cf0 Cg7 71. cd3 Ce7 72. Kd0 Hxe1 73. Cd2 Hc2+ 74. Kd1
+Hdb4 75. dc3 Hb0+ 76. Kd0 H4c2#
+{Black mates} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 16강 4경기"]
+[White "귀마 이병현"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "157"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+ed6 8. Cb1 Ee6 9. Ci1 Rg9 10. He3 gf6 11. Ra4 dxc6 12. Rg4 hg6 13. Ed3 ab6
+14. Cd1 Ce5 15. ih3 Ke9 16. f4 Cf7 17. f5 Cxf5 18. Hxf5 fxf5 19. Rxg6 Hf8
+20. Rg4 Rf7 21. Rii4 Ce7 22. Cf1 Re8 23. Kd1 Ra8 24. Ade1 Exc3 25. bxc3 Ra3
+26. Re4 Ke8 27. Rxe7+ Kxe7 28. Re4+ Kd7 29. Kd0 cd6 30. Cd1 Rxc3 31. Ce0
+Rxd3 32. Hd2 Rd5 33. Re7+ Kd8 34. Cg0 Hfe6 35. Cg6 He8 36. Cxd6 Rg7 37.
+Rxg7 H8xg7 38. Cxd5 cxd5 39. Cg6 Hd4 40. Hc4 dc5 41. Hd2 b5 42. Ke0 Hge6
+43. Cg0 Ke8 44. Aff1 Ke9 45. gf3 b4 46. fe3 Afe8 47. Cc0 Hb3 48. He4 fe5
+49. Hg3 cd5 50. h4 bc4 51. hg4 cd4 52. Kf0 Hg7 53. Cg0 Hf5 54. gf4 Hh4 55.
+Ke0 d3 56. fg4 Hg2 57. ef3 Add8 58. Hi2 Hi3 59. gh4 Add7 60. Hg1 Hd4 61.
+fg3 de3 62. gh3 Hh1 63. Cd0 e2 64. Ch0 e4 65. hg4 e3 66. Ch2 e2xe1+ 67.
+Axe1 Hf3 68. Hxf3 exf3 69. Ch4 Hf2+ 70. Axf2 fxf2 71. gf4 Ade7 72. fe4 fg2
+73. hg3 gf2 74. g4 Kd9 75. Cf4 fe2 76. g5 Ke9 77. gf5 ef2 78. Kf0 fe2 79.
+Kf1
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 2경기"]
+[White "귀마 김동학"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 Ri5 9. Rxi5 ixi5 10. Rb0 Kf8 11. c4 Afe8 12. Hd4 i4 13. Exc6
+bxc6 14. Hxc6 Ce9 15. gf3 Cc9 16. Ha5 i3 17. hxi3 Rxi3 18. fe3 Ri0 19. Rf0
+Ri2 20. Ef3 f5 21. Rh0 f4 22. Ce0 fxf3 23. exf3 Eh4 24. Cc2 Ce9+ 25. fe3
+Rxf2+ 26. Axf2 Cxh0 27. Cxc7 Ef6 28. Kd0 Hd6 29. cb4 Ch6 30. Cc0 Af7 31.
+dc3 g5 32. ef3 He8 33. Cc1 Cd6+ 34. Ae1 Ad8 35. Ch1 Cd9+ 36. Cd1 Ae7 37.
+Hc6 Aed7 38. fg3 Ee6 39. Hd4 Exg3 40. Aee2 Cf7 41. b5 Kf9 42. bc5 Cxf2 43.
+Cxd7+ Axd7 44. Axf2 Cg9 45. Hc6 Ei4 46. ab3 Ee6 47. Af1 Hg7 48. Ke0 Ke9 49.
+cd3 Cd9 50. de3 Hf5 51. e4 Eg9 52. e5 Hg3 53. Ae1 gf5 54. cd5 fxe5 55. dxe5
+Cd3 56. bc3 Ci3 57. c4 Ci5 58. cd4 Hh5 59. Cc9 Ke8 60. d5
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 1회전"]
+[White "귀마 양승태"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ed3
+Ke9 8. Ri4 Rfa8 9. Ria4 Ade8 10. Hd2 ed6 11. c4 Kd9 12. Cb4 Ce9 13. Cg4
+Cbe7 14. R4a1 Ca7 15. Ca2 Hi8 16. gf3 Ee7 17. Cg1 Exc4 18. bc3 Ef6 19. Exf6
+gxf6 20. Rb0 Ad8+ 21. Kf1 Rb9 22. cb3 Rb5 23. Rd1 ab6 24. Cf2 Cg7 25. He4
+de6 26. Rd2 hg6 27. Hi3 Hh6 28. Hc3 Rba5 29. h4 Afe8 30. h5 Hg8 31. b4 Hi7
+32. Ca2 Rc5 33. ba4 Rc8 34. He4 Re5 35. Rh2 cd6 36. Ci2 Hg8 37. Ci5 f5 38.
+f4 ef6 39. Rd2 dc6 40. fxf5 fxf5 41. Hg2 Hi7 42. Ce1 Cb9 43. Ra0 Cf9+ 44.
+ef3 Rxe4 45. Cxf5 Hxh5 46. He3 Rg4 47. ab4 Rxg0 48. Rda2 Rc9 49. Rh2 Hg3+
+50. fxg3 Rxg3 51. Hd5 g5 52. Ca5 Rf3+
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 준결승 2회전"]
+[White "귀마 최진호"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "148"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Ri8 9. Ef3 Rg5 10. Rg1 gh6 11. Afe1 Rig8 12. Ri3 Ke9 13. g4 Rd5
+14. Exh6 ixh6 15. Cg2 Rh8 16. Cd2 Rf5 17. Ce2 Exc3 18. Cf0 Ra5 19. dxc3 Rg8
+20. Ri7 Ade8 21. Exc6 bxc6 22. Add1 He6 23. Ri3 f5 24. Rg3 h5 25. Ri6 cd6
+26. Rd3 Ra6 27. Cxf5 hg5 28. gxg5 Hf4 29. Re3 Hxe2 30. Axe2 Rxg5 31. Cf0
+Ch2 32. Ade1 Ch8 33. cd3 He5 34. He4 Rg4 35. d4 Cd8 36. Rh6 Hf7 37. Rxd6
+Rxd6 38. Hxd6 Cxe2+ 39. Rxe2 Hxd6 40. Re6 Hb5 41. d5 Hc3 42. He3 Rg5 43. d6
+Ee7 44. ab3 Hb5 45. b4 Hc7 46. Rh6 Re5 47. Hf1 Re4 48. Rh4 Rxh4 49. hxh4
+Ha6 50. ba4 Hc5 51. ab4 Hd3 52. de6 Hxb4 53. He3 Hd3 54. Hf5 Eh9 55. Cd0
+Hc5 56. Hg7 Ee7 57. hg4 Eb5 58. gf4 Cf8 59. f5 He4 60. f6 Ed8 61. Cg0 Cf4
+62. Cg9+ Af8 63. Hh9 Ea6 64. Ci9+ Aff9 65. Hi7+ Af8 66. Kf0 Ec3 67. Hh5 Cc4
+68. fg6 Cc1 69. ef6 Cc9 70. Ae2 Kd9 71. Hi3 Cf9 72. Ci0 Hxf6 73. gxf6 Cxf6
+74. Cd0 Ef5+
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 32강 2경기"]
+[White "귀마 차선균"]
+[Black "원앙마 지차용"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Cf7 5. Ri4 c5 6. ed3 Ad8 7. Ef3 cd5
+8. Ke0 Ke9 9. Ade1 Afe8 10. Hf2 ef6 11. Kd0 Cd9 12. Ce0 g5 13. Rc4 Hge6 14.
+Cd2 f5 15. Cxe6 Hxe6 16. Cxd5 f4 17. Ec1 ih6 18. He3 hg6 19. Cd2 Ri0 20.
+gf3 fxf3 21. Exf3 gf6 22. Raa4 Cf9 23. Hd5 Ce5 24. de3 fg6 25. Hh1 Ch5 26.
+hg3 Cxd5 27. Ri4 Rxi4 28. Rxi4 ab6 29. Ea3 Ch5 30. Ri8 Ra7 31. Hi3 Cb5 32.
+e4 Rg7 33. b4 Cb7 34. Ed5 gf6 35. c4 gf5 36. Hh5 Rf7 37. Rg8 Cd9 38. Ef2
+bc6 39. Ei4 Ch7 40. Hxf6 Ce7 41. Rg4 Ei6 42. Rg6 Ef8 43. cd4 c5 44. g4 Ri7
+45. Ef2 Ri3 46. Eh6 Rb3 47. bc4 Rd3 48. g5 fxg5 49. Rxg5 cxc4 50. dxc4 Af7
+51. e5 Hc7 52. Rg4 Ade8 53. Rd4 Rxd4 54. cxd4 Hb5 55. d5 Hc3 56. Cd6 Ei6
+57. Hh5 Hb1+ 58. Kd1 Eg9 59. Hf4 Ca9 60. Ec4 Ha3 61. Cd4 Hxc4 62. Ch4 Hb2+
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 32강 4경기"]
+[White "귀마 정국봉"]
+[Black "원앙마 허금산"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Hf2 Hc7 4. Ra4 ef6+ 5. Che2 Hge6 6. ih3 Ri7 7. ed3
+Rg7 8. Ri2 Ke9 9. Ee3 c5 10. Cd2 Cd7 11. Ke0 a5 12. Rh4 ab5 13. Afe1 Afe8
+14. Cf0 Cf9 15. gf3 ih6 16. Cg2 Rf7 17. Cxg9 Cg7 18. Rhi4 Hd8 19. Ri9 Ee6
+20. Rh9 Exg9 21. Rxg9 Ce7 22. Ee2 Ra2 23. Hb0 Ra4 24. Rgi9 Rg7 25. hg3 f5
+26. R2i4 Ra6 27. b4 Hde6 28. bxb5 cxb5 29. Hd1 gf6 30. c4 hg6 31. d4 Rh7
+32. Hh3 Ra3 33. Rg9 Add8 34. Rii9 Ca7 35. Af1 Ra6 36. Ade1 Ce7 37. Cd0 Ra0
+38. Hb0 Ra8 39. Hd1 Ra0 40. Kf0 -- 41. Eb0 Ra2 42. d5 f4 43. Hi5 Rh5 44.
+de5 Rah2 45. Aff2 fxf3 46. exe6 fxf2 47. Cxf2 Rh0+ 48. Kf1 R5h1+
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 16강 4경기"]
+[White "귀마 하성호"]
+[Black "원앙마 조룡호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "148"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Hc7 3. Ce2 Che7 4. Hf2 ef6 5. ih3 Hge6 6. ed3 c5 7. Ad1
+Cd7 8. Kd0 Ke9 9. Ae1 Afe8 10. Ri4 f5 11. Ce0 Cf9 12. Ci0 Ca7 13. Ea3 ab6
+14. Rc0 Ce7 15. Cf0 g5 16. Ce2 Add8 17. Rh4 i5 18. Rh8 ih5 19. Rg8 Cd9 20.
+g4 gxg4 21. Hxg4 hg5 22. Hf2 Ra4 23. Ce0 Rai4 24. hg3 R9i8 25. Rxi8 Rxi8
+26. gf3 b5 27. Rb0 Ri4 28. fe3 Ei6 29. Ce2 Rh4 30. Cc0 g4 31. Cb2 g3 32.
+Cd2 Ef4 33. ef3 gxf3 34. Exf3 Ei6 35. Exc5 bxc5 36. b4 f4 37. Ccf0 Ea6 38.
+Ec6 fe4 39. b5 Exc3 40. b6 e3 41. dxc3 Hd4 42. cd3 exd3 43. Hxd3 c4 44.
+Hxd4 cxd4 45. Rb4 He6 46. Hf2 dc4 47. Ra4 cb4 48. Ra3 Hd4 49. Rc3 He6 50.
+Ee3 bc4 51. Ra3 Ef8 52. Eb1 Rh5 53. Rb3 Rc5 54. Hd3 Rc7 55. Hf2 c3 56. Rb4
+Hd4 57. Cg2 Eh5 58. Hd3 cxd3 59. Exd4 Rd7 60. Eg6+ Ef8 61. bc6 Rd5 62. Cg8
+Re5 63. Rg4 dc3 64. Rg3 Re6 65. c7 c2 66. c8 Add7 67. c9 Cf9 68. Ed4 Rc6
+69. Cg2 Rxc9 70. Ca2 c1 71. Aed2 Rc2 72. Rg9 c1xd1+ 73. Kxd1 Ei6 74. Ke1
+Exg9
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 16강 2경기"]
+[White "귀마 김영곤"]
+[Black "원앙마 허금산"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. ab3 Hce6 6. c4 g5 7. e4 Cf7
+8. Ra1 Ke9 9. h4 Rh9 10. gf3 Af8 11. Ee3 Cf9 12. f4 Ade8 13. b4 ih6 14. Ad1
+Ei6 15. Af1 h5 16. hxh5 gxh5 17. Rh0 Exf4 18. exf4 Hxf4 19. Hxf4 Cxf4 20.
+Kd0 Ee6 21. Rg0 Rh7 22. Ra3 Cf9 23. Afe1 ab6 24. Rxa9+ Cxa9 25. Exc6+ dxc6
+26. Ed3 Cg9 27. Ri0 Cd9 28. Exb6 cxb6 29. Cxb6 Hf5 30. Ri6 Exb4 31. cxb4
+Hd4 32. Rd6 Hxe2 33. Axe2 hg5 34. Cb0 Rh4 35. bc4 Cxd2+ 36. Adxd2 Rxc4 37.
+Cf0 g4 38. Af2 Re4 39. Ade1 Aff9 40. Rd3 gf4 41. Cc0 Rc4 42. Cf0 fe4 43.
+Ad2 Rd4 44. Rxd4 exd4 45. Ade1 --
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 준결승 2회전"]
+[White "귀마 조룡호"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "100"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Hd2 ed6+ 4. Cbe2 Hg7 5. ab3 Hce6 6. ef3 d5 7. Ee3
+g5 8. Ri4 Ra7 9. Ke0 Rc7 10. Ra2 ab6 11. Cf2 i5 12. Ri1 Cf7 13. Rc1 Ad8 14.
+Ra8 Cd9 15. Ade1 Ri8 16. Rb8 Ke9 17. c4 Afe8 18. Cd0 d4 19. b4 dxc4 20.
+bxc4 ih5 21. Aff1 gf5 22. cb4 Ri4 23. Rc4 Rxc4 24. bxc4 Add7 25. g4 Ei6 26.
+h4 fg5 27. gxg5 hxg5 28. cb4 Ea6 29. b5 bxb5 30. Rxb5 Ec3+ 31. Kf0 c5 32.
+Rb6 Cf9 33. Rb3 gf5 34. Cc2 f4 35. fxf4 Hxf4 36. Hxf4 Exf4 37. Rxc3 Exc2+
+38. Ke0 Hf5 39. Ee2 c4 40. Ra3 Cd9 41. hg4 c3 42. gf4 Hg7 43. Ra6 cd3 44.
+Cxd3 Rc3 45. Ra3 Rxd3 46. Rxd3 Cxd3 47. Kf0 Cd9 48. Hc4 Cxe2 49. Ec6+ Kf9
+50. Ha3 Exf4
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 2회전"]
+[White "귀마 최진호"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "148"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hf2 Ce7 3. Ce2 Hc7 4. ed3 ef6 5. Ee3 c5 6. ih3 Hge6 7. Ri1
+Cd7 8. Hc2 Ke9 9. Ke0 Afe8 10. Afe1 Cf9 11. Cd2 Ca7 12. Rb0 Ci7 13. Rg1 f5
+14. Cf0 g5 15. g4 Cb7 16. Ra0 Cg7 17. Ri1 Ca7 18. Rb0 ih6 19. Rxi9 Cxi9 20.
+gxg5 fxg5 21. Ch2 h5 22. Exh5 Ce7 23. Ee2 Hg7 24. He4 Hce6 25. Hf6 Cf9 26.
+Exg5 Af8 27. Hg4 Hxg5+ 28. Hce3 Ece6 29. Add1 Ei6 30. Kd0 Ch7 31. Ef2 Ade8
+32. Cc2 Exc3 33. bxc3 H5e6 34. Rb4 Ce7 35. Hi5 Cd9 36. Aed2 a5 37. Hg6 Cxe3
+38. dxe3 ab5 39. Rb0 Ra2 40. Rc0 Ra4 41. Ce2 Rg4 42. He5 Rg0 43. Ke0 Rh0
+44. h4 Rxh4 45. A2e1 Rh1 46. cd3 Eg3+ 47. Kd0 Rh0 48. ef3 cd5 49. fxg3 dxe5
+50. Ei4 Rh6 51. Rc6 bc5 52. Ke0 cd5 53. de3 Hf5 54. ef3 Heg7 55. Rc7 He6
+56. Rc6 Hd8 57. Rc8 He6 58. f4 He7 59. Rc9 Hg5 60. Eg1 Rh1 61. g4 Rxg1 62.
+gxg5 Rxg5 63. Cd2 Rg0+ 64. Af0 Rg7 65. f5 Kf9 66. f6 Hf5 67. Rc3 Rg3 68.
+Rc9 Re3 69. Afe1 Hg3 70. Cf0 Hxe2 71. Axe2 Rxe2+ 72. Ae1 Ra2 73. f7 Ke9 74.
+f7xf8 Axf8
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 5회전"]
+[White "귀마 최진호"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hf2 Ce7 3. Ce2 Hc7 4. ed3 ef6 5. Ee3 c5 6. ih3 Cd7 7. Ra4 a5
+8. Re4 He6 9. Rg4 ab5 10. Hd1 Ra2 11. Ce0 Ri7 12. Kf1 Rg7 13. Cg2 Ra6 14.
+Exg6 Rxg6 15. Rxg6 fxg6 16. Cxg6 Hg7 17. Cxg9 Ci7 18. hi3 ih6 19. ih3 hi6
+20. hi3 Hh5 21. Ke1+
+{빅장}
+21... Kd8 22. Ri1 Hxi3 23. gh3 Ca7 24. He3 Ee6 25. Rg1 Exg9 26. Rxg9 Hh5
+27. Rxf9 Ae8 28. Rc9 Hg7 29. Ad1 Cae7+ 30. Kd0 Ce9 31. Afe1 Ra8 32. Hf5
+Hxf5 33. Rxc7 He7 34. Rxe7 Axe7 35. hg3 Cd7 36. gf3 ih6 37. fe3 Ae8 38. e4
+hg6 39. Ee2 Ra6 40. ed4 Kd9 41. Hh3 Cf9 42. Hf4 Rf6 43. Hg2 Cf2+ 44. Af1
+Cxe2 45. Cc0 Cf9 46. Ade1 Ce9 47. Cf0 Cxf1 48. Cd2 Cf9 49. dc4+ Cd7 50. b4
+Ra6 51. bxb5 cxb5
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 8강 1경기"]
+[White "원앙마 허금산"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3 Hd7 6. g4 Ad8 7. Hce3
+Ce9 8. d4 Kd9 9. Ra2 Afe8 10. Cf2 ih6 11. Ei3 Ri5 12. Ke0 ed6 13. Ade1 He6
+14. dc4 Hef8 15. Cd0 Cc9 16. Rc2 Ee6 17. ab3 Exc3 18. bxc3 Rb5 19. Exg6
+hxg6 20. Hf4 Ra1 21. Hd3 gf6 22. h4 Cf7 23. Ri3 de6 24. Hd5 cd6 25. c5 dxd5
+26. Cxd5 Rb4 27. Cd0 ed6 28. Ee3 fe6 29. Eg6 ef6 30. He5 de6 31. Ei9 Cc7
+32. c6 bxc6 33. Hxc6 Rb6 34. Rd2 Rxc6 35. Ri8 ed6 36. Cxd6 Ce7 37. Cd0 Ke9
+38. Ri7 Re6 39. Aff1 Cf9 40. Aff2 Ra3 41. Rd3 Ra4 42. Cf0 Ed6 43. gf4 Ea8
+44. hg4 Ec5 45. Rg7 Cd9 46. Cd0 Re5 47. Kf0 fe6 48. Eg6 Rh5 49. Ce0 Ea2 50.
+Cxe6 Hxg6 51. Cxd7 Adxd7 52. Rxd7 Axd7 53. Rxe7+ Kf9 54. Rxd7+ Kf8 55. Rd8+
+Kf9 56. Rxd9+ Kf8 57. Ce0 Ec5 58. Rd6 Hh8 59. cd3 Hf7 60. Rd7 Ra0 61. d4
+Rh0+ 62. Kf1 Ra3 63. Ad0 Rd3
+{White resigns} 0-1
+
+[Event "로하스테크배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 3회전"]
+[White "원앙마 박영완"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3 Ri8 6. Cf2 ih6 7. Ei3
+g5 8. Af1 Hd7 9. Cf0 Ad8 10. Hce3 Kd9 11. Ke0 Afe8 12. Ade1 Ce9 13. d4 ef6
+14. h4 h5 15. g4 hxh4 16. gxh4 gf5 17. Rh0 Ei6 18. Exf5 fxf5 19. Hxf5 Hxf5
+20. Cxf5 Rg8 21. He3 Rg3 22. cd3 Ef8 23. Cf0 Ed6 24. Cd0 Ra5 25. a4 Ra8 26.
+Ra3 Ca9 27. Ri0 c5 28. Hf5 Rg6 29. a5 Eb3 30. Cf0 Rc8 31. ab5 ba6 32. ba5
+cb5 33. Ee3 axa5 34. Ra1 Rg5 35. Rd1 Cf9 36. Ri9 Rg0 37. Rd2 Rc5 38. Hh6
+Ce7 39. Hg4 Ce9 40. Eg6 Rc0+ 41. Ad0 Cxf1 42. dc3 Exd0 43. Hh2 Eb3+
+{White resigns} 0-1
+

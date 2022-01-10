@@ -1,0 +1,36 @@
+[Event "KBS √÷∞Ìºˆ¿¸"]
+[Site "KBS"]
+[Date "1983≥‚"]
+[Round "8∞≠ ∞·¡§¿¸"]
+[White "±Õ∏∂ ¿Ã≥≤√· ˆ“¥‹"]
+[Black "±Õ∏∂ √÷¡æ¿± Œ˙¥‹"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 g5 5. Ee3 Ra5 6. Rb0 Rd5 7. d4 Rd8
+8. c4 Ha8 9. Hf2 Hf7 10. a4 e5 11. ab4 Af8 12. Af1 Ef6 13. Rb3 Kf9 14. Ce0
+ef5+ 15. Kf0 Ade8 16. Ade1 Ce9 17. b5 Cb9 18. Cd2 Cd7 19. Exc6 bxc6 20. bc5
+cb6 21. Ra3 f4 22. d5 Ce9 23. gf3 g4 24. Hd4 Ea6 25. c6 Ci7 26. Ci2 Rxd5
+27. cxb6 Hxb6 28. Rxa6 Hxc4 29. Rxf6 Rxd4 30. fxf4 gxf4 31. Rxi6 Hd2 32.
+Axd2 Rxd2+ 33. Cxd2 Cxi0+ 34. Rxi0 Rxi0 35. hg3 Hh6 36. Hh3 Hi4 37. gf3
+fxf3 38. Hg1 Ri1 39. Hxf3 Hg3 40. Af2 Hh1+ 41. Kf1 Hxf2+ 42. Kxf2 Re1#
+{Black mates} 0-1
+

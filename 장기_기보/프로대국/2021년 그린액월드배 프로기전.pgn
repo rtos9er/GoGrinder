@@ -1,0 +1,1422 @@
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [광야식품 對 대한홍삼] - 2회전"]
+[White "김동학 [광야식품]"]
+[Black "김건우 [대한홍삼]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. c4 Ra5
+8. Ad1 Hb9 9. Af1 Kf8 10. Ef3 Afe8 11. Ri3 Ce9 12. Rai0 Exg3 13. hxg3 Ri5
+14. Rxi5 ixi5 15. gh3 i4 16. Hd4 Hbd8 17. Rg0 Ri6 18. ab3 Kf9 19. bc3 Cg9
+20. Ri0 g5 21. Ce0 f5 22. Cd2 Af8 23. Kd0 Ade8 24. Afe1 f4 25. Ei1 Ef6 26.
+Cf0 g4 27. Eh1 Cc9 28. Exf4 gxf4 29. Cxf4 Exh3 30. Hxh3 Rf6 31. Ef3 ih4 32.
+Cf0 Rg6 33. Hf4 Rg3 34. Ri6 Cd7 35. Rg6 Ri3 36. Hfe6 Ri7 37. Hf5 h3 38. c5
+Ke9 39. cxc6 bxc6 40. Hxd8 Hxd8 41. Hd4 c5 42. He6 Kd9 43. Hxc5 Cdf9 44.
+Eh6 Rh7 45. Cd2 Ce9 46. de3+ Hb9 47. Rd6+ Hd8 48. e4 hg3 49. Ce2 Ce7 50.
+Exe8 Axe8 51. Rh6+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [에이원 對 햇터복지몰] - 2회전"]
+[White "김봉철 [에이원]"]
+[Black "송은미 [햇터복지몰]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. ab3 Ci7 4. Rh0 Ed6 5. b4 cb6 6. bc4 Cg7 7. Hc2 Cg5
+8. gf3 Ca7 9. Rb0 Cg8 10. Hf4 ih6 11. Hxe6 Ri1+ 12. Ke0 Cxg0+ 13. Rxg0 Exe6
+14. Ce2 Hhf8 15. Ade1 Rc9 16. hg3 Cg7 17. e4 gf6 18. Rh0 Cb7 19. Ra0 Ce7
+20. ed4 hg6 21. Ee3 Kd8 22. Ce4 Rg1 23. Cb2 Exg3+ 24. fxg3 Rxg3 25. Cf2 Rg5
+26. Cd0 fe6 27. Ra1 Cc7 28. Ra3 gf6 29. Hb0 Ade8 30. Hd1 Cf7 31. Rh3 Ca7
+32. Rb3 Ra5 33. Rb2 Kd9 34. Ce2 Cf7 35. d5 Ea8 36. dc5 Ad8 37. Rh8 Cb7 38.
+Rd2 Afe8 39. Eh5 Hh7 40. Rh9+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [정인 對 옻가네] - 1회전"]
+[White "성우제 [옻가네]"]
+[Black "김재두 [정인]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra8 3. Ce2 Hg7 4. ed3+ Ce7 5. Hg2 Hd7 6. Hce3 c5 7. Cf2
+Af8 8. d4 ef6 9. Ke0 Ee6 10. Ade1 Kf9 11. Cd0 Ade8 12. Ci2 ih6 13. Ei3 Rg9
+14. Ca2 Rc8 15. Cxd7+ Ke9 16. Cd0 Kf9 17. Ch2 Ri9 18. Ce2 Ce9 19. Ra2 g5
+20. a4 Ee7 21. c4 cxc4 22. dxc4 Cg9 23. Rc2 Cc9 24. Ra2 h5 25. Aff1 bc6 26.
+ab4 Cg9 27. Cf0 f5 28. Ra6 Ri6 29. Ci2 Rh6 30. Cc2 Exg3 31. hxg3 fe5 32.
+Ch2 Ri6 33. Ce2 gf5 34. g4 cb6 35. Ra4 Cf7 36. Ea3 Cf3 37. gh4 hg5 38. Rh0
+ba6 39. Ca0 Ca9 40. Rxa6 Rxa6 41. Cxa6 Cxa3 42. Hc2 Ra8 43. Hxa3 Rxa6 44.
+Hc2 Ra0+ 45. Hd0 e4 46. Rh3 Rc0 47. Kf0 Exc4 48. bxc4 Rxc4 49. Ce0 f4 50.
+Cg0 He6 51. Ra3 Cg9 52. Ra6 Cxg2 53. Rxe6 Rc3 54. Re5 Rg3 55. He2 Rxi3 56.
+Rxg5
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [대한홍삼 對 마히코디자인] - 1회전"]
+[White "이병현 [마히코디자인]"]
+[Black "정원직 [대한홍삼]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ch4
+Ke9 8. g4 Hc7 9. c4 Cd7 10. Ch1 Afe8 11. Cc1 Add8 12. Rb0 Cf9 13. c5 Cb9
+14. Ra0 cxc5 15. Cxc5 Ri7 16. Cc1 Ra7 17. Ci1 ih6 18. hi3 Rg7 19. Ca1 Rb7
+20. Rb0 Cf9 21. ih3 Ri7 22. Rxi7 Cxi7 23. gf4 Ce7 24. Cf1 Cc9 25. Rb2 g5
+26. Cb1 f5 27. fe4 b5 28. Hd4 b4 29. a4 Hd5 30. axb4 Exb4 31. Rc2 Rc7 32.
+Rxc7 Hxc7 33. Hb3 Cxe3 34. dxe3 Exe2 35. Exe2 Ee7 36. Ke0 hg6 37. Ade1 gf6
+38. hg3 Hh6 39. gf3 fe6 40. ed3 Cf9 41. fe3 Hi4 42. Cf1 Hg3 43. Cc1 ed6 44.
+Hh1 Hxh1 45. Cxh1 d5 46. Eh4 Hb5 47. Ef1 Cb9 48. Hd2 Eh5 49. Ei3 Ef8 50.
+Cd1 Hc7 51. Hf3 Cf9 52. Exf5 gxf5 53. Cf1 He6 54. Cxf5 Hc5 55. Hg5 Hd7 56.
+Aff1 de5 57. exe5 Hxe5 58. Cf0 Cd9 59. He6 Hg6 60. d4 Ei6 61. e4 -- 62. Cd0
+He7 63. Hg5 Ef8 64. He6 Add7 65. e5 Hg6 66. d5 Hf4 67. Hxf8 Axf8 68. Cxd7
+Ae8 69. Cd2 Cf9
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [대한홍삼 對 마히코디자인] - 3회전"]
+[White "유광진 [대한홍삼]"]
+[Black "박영완 [마히코디자인]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Hc2 Ce7 4. Cbe2 Hc7 5. Ca2 ef6+ 6. Che2 Rb9 7. ab3
+Rh9 8. Cd2 Cd7 9. Af1 Ke9 10. Cf0 Afe8 11. Ke0 Cf9 12. Ade1 c5 13. ed3 b5
+14. Ra4 Ege6 15. Ece3 Rb6 16. Exg6 fxg6 17. Rg4 Ci9 18. Ei3 Exg3 19. hxg3
+Hce6 20. Hce3 g5 21. Ra4 Add8 22. Ra8 Ea6 23. Ra9+ Add9 24. g4 gh5 25. Hf4
+Hc7 26. g5 ih6 27. Ef5 Hce6 28. gxh5 Hxf4 29. Cxf4 Hxh5 30. Cf0 Hg3 31. Cf3
+hi6 32. Rg0 Rg9 33. Ec7 Rbg6 34. Hf5 Hxf5 35. Rxg6 Rxg6 36. Exf5 Ed8 37.
+Ed2 Rg2 38. Kd0 Ef5 39. Cf0 Ei7 40. Cb2 Rg0 41. Ce2 Ad7 42. Ce0 ih6 43. Ad1
+Rg1 44. Afe1 Ef5 45. de3 Eh2 46. Ce2 Rg0 47. Cb2 Rh0 48. Eg4 Cc7 49. Ra7
+Cf7 50. Rxd7 Ae8 51. Rd6 hi6 52. Ci2 Rg0 53. Rxi6 Cid9+ 54. Ed6 Ef5 55. cd3
+c4 56. Rf6 Ei7 57. Rf2 Ef9 58. Ea8 Rg3 59. Ke0 Ei7 60. Ce2 Rg6 61. Rf5 Rb6
+62. Re5 Rb8 63. Ec5 bxc5 64. Rxc5 Kf9 65. Rxc4 Rxb3 66. Rc8 Ad7 67. Rg8 Ef5
+68. Rg7 Ae8 69. Rg5 Eh2+ 70. Af1
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [햇터복지몰 對 정인] - 1회전"]
+[White "하성호 [정인]"]
+[Black "송은미 [햇터복지몰]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hc2 Ce7 3. Ce2 e5 4. ed3 g5 5. Ee3 cb6 6. Eg6 Ri7 7. Cxh9 Hh8
+8. Hf2 Rg7 9. Ri4 Rxg6 10. He3 Hd7 11. Rd4 Ad8 12. ab3 Ce9 13. Ch4 Hf7 14.
+Ca4 Cbe7 15. Cxa9 Ca7 16. Rc0 Ed6 17. Rc4 Kd9 18. Rc7 Ca5 19. c4 Ade8 20.
+b4 i5 21. Ke0 ih5 22. cd4 Ri6 23. Ade1 Ri0 24. d5 exd5 25. Hxd5 Rxh0 26. d4
+gf5 27. de4 h4 28. bc4 hxh3 29. gxh3 fe5 30. exe5 Hxe5 31. Rd0 Ca8 32. cd4
+Ri0 33. de4 Hf7 34. He3 Ch8 35. hg3 Ca8 36. Hc4 Ri6 37. ed4 Ch8 38. d5 Rh6
+39. Rd4 Ch0+ 40. Af1 Ch7 41. dxd6 Hxd6 42. Rxd7+ Axd7 43. Hxd6 Rh0+ 44.
+Aff0 Afe8 45. Ca1 Rh5 46. Ch1 bc6 47. Hde4 ab6 48. Cd1 Ch0+ 49. Af1 Ce7 50.
+Hf6 Rh8 51. Rh4+ cd6 52. Rxh8
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [햇터복지몰 對 정인] - 2회전"]
+[White "김영윤 [햇터복지몰]"]
+[Black "김정수 [정인]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "61"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Hf7 5. ed3 ef6 6. Ee3 Ee6 7. Ke0
+Ra5 8. c4 Rd5 9. Hd4 gh6 10. g4 Cxh3 11. Af1 Chh7 12. Ef3 Ri8 13. ab3 Rg8
+14. Rg0 hg6 15. Ade1 ih6 16. Kd0 Ri8 17. Ce0 Ri3 18. Cd2 Af8 19. dc3 Rh5
+20. cd3 Kf9 21. gf4 Ade8 22. Ra9+ Ce9 23. f5 Ad9 24. Ra7 Afe8 25. fxf6 Exf6
+26. Exh6 Rxh6 27. Exg6 Af8 28. Exi3 Exd3 29. Rg7 Ade8 30. Rxc7 Eh4 31. Rc9
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 2라운드 [광야식품 對 그린액월드] - 2회전"]
+[White "김철 [그린액월드]"]
+[Black "김현기 [광야식품]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Che2 Ef6 5. ef3 c5 6. Hge3 Hf7 7. Cd2
+Af8 8. Ra4 a5 9. Rd4 Ea6 10. Ke0 Ce9 11. Ri4 Rxi4 12. ixi4 Che7 13. ih4 ab5
+14. Ri5 Cc9 15. Afe1 Ke9 16. Add1 Ade8 17. Cd0 Hh8 18. h5 Exc3 19. hxh6
+gxh6 20. bxc3 Ra4 21. Ea3 Rh4 22. Ei3 h5 23. Hf5 hxi5 24. Hxh4 i4 25. Hg2
+ixi3 26. Hxi3 Hi6 27. He3 Hg7 28. Cg0 Hi8 29. Hh5 Hh6 30. Cd0 Cf9 31. Hf4
+Ce5 32. c4 Ei8 33. cxc5 Cxf4 34. c6 Ha6 35. fxf4 Hc5 36. Cd5 Hb3 37. f5 Ce7
+38. Cxe6 Hd4 39. fe5 bc5 40. Hf5 cxd5 41. Hxe7 dxe5 42. Hg8+ Hxe6 43. Hxh6
+Hg7
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 2라운드 [대한홍삼 對 에이원] - 1회전"]
+[White "유광진 [대한홍삼]"]
+[Black "안동건 [에이원]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Hg2 Ef6 4. Che2 Ce7 5. ef3 Ri8 6. Ri4 ih6 7. Rg4
+Ri2 8. Hge3 Ri1+ 9. Af1 Rg1 10. Hd5 cd6 11. Hxb6 Ad8 12. Ee3 Hf7 13. Ad1
+Ea6 14. ab3 Rc9 15. h4 Kd9 16. Rc4 e5 17. Rf4 Afe8 18. Cd2 Ce4 19. g4 Rb9
+20. Ra5 Ce6 21. Hc4 Cd7 22. Hxe5 Cf9 23. Rc4 Rb7 24. Rac5 Cc6 25. Ra4 Ccc9
+26. Hxf7 Cxc5 27. Hxd6 Rb9 28. Hb5+ Cd7 29. Hxc7+ Cc8 30. Rxa6 Rxg0 31. Ra8
+Rc9 32. Ha3 Ke9 33. Exg6+ Af8 34. Ee3+ Kf9 35. Ra6 Cc5 36. Rxf6 Rxc7 37.
+Rxh6 Cd9 38. cd3 Ade8 39. Ec6 Aff7 40. Cf0 Rb7 41. fe3 Rxb3 42. Cf2+ Ae7
+43. Rf6+ Af8 44. Cxe7 Rb2 45. Rxf8+ Kxf8 46. Ce2+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 2라운드 [그린액월드 對 햇터복지몰] - 1회전"]
+[White "배성철 [그린액월드]"]
+[Black "박선양 [햇터복지몰]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "55"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hc2 Hg7 2. Ce2 Ce7 3. Hf2 Hc7 4. cd3 ab6 5. Ra2 c5 6. Ri1 ef6 7. gh3 g5
+8. He4 f5 9. Hxc5 bc6 10. He4 Hge6 11. Hf6+ Kf7 12. Hd4 Hxd4 13. dxd4 Ee6
+14. Rg1 ih6 15. Rg2 hg6 16. Cf2 gxf6 17. Rxg5 Ke8 18. Rg8+ Ke9 19. Cxf6
+Ade8 20. Cxc6 Kd9 21. Rc2 Ce9 22. Cc1 Hb5 23. Cxe6 Hxd4 24. Rd2 Ri7 25. Ci1
+Rd7 26. Cd1 Hxe6 27. Rxd7+ Hd8 28. Rdxe8#
+{White mates} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 2라운드 [그린액월드 對 햇터복지몰] - 3회전"]
+[White "김철 [그린액월드]"]
+[Black "김영윤 [햇터복지몰]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. ef3
+ih6 8. He3 Ra5 9. Ke0 ed6 10. Ri2 Hf7 11. Afe1 Af8 12. Cf0 He6 13. c4 Kf9
+14. Ea3 Ade8 15. b4 Rh5 16. Rg2 Ce9 17. Add1 Cg9 18. Ra0 Hed8 19. f4 He6
+20. fg4 Rh1 21. Exc6 bxc6 22. Ra5 Cd7 23. Ci2 Rh9 24. ih3 Ed3 25. Ei3 gf6
+26. Rf2 Rh0 27. Ce2 Hed8 28. cd4 de6 29. g5 Ci7 30. Ra3 Cd7 31. gf5 fxf5
+32. Rxf5 Ri9 33. Cxe6 Ci7 34. Ce2 Cd9 35. Rxd3 He6 36. Ra3 Ce7 37. bc4 Ke9
+38. Rf2 Cf9 39. Hf5 Ci7 40. Hg7 Cd9 41. Ra8 Rg9 42. Hf5 Cf9 43. Rc8 Kd9 44.
+Rxc6 Ad8 45. Hce3 Afe8 46. Hg2 Ri0 47. Hxh6 Hfg5 48. Rxf9+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "4위 순위 결정전 [대한홍삼 對 그린액월드] - 1회전"]
+[White "정원직 [대한홍삼]"]
+[Black "배성철 [그린액월드]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Ke0
+Ee6 8. Ri1 Ri5 9. Ria1 Ra5 10. Rxa5 axa5 11. c4 cb6 12. Ra1 Ade8 13. Ed3
+ba6 14. Rc1 Ce9 15. c5 ab6 16. cd5 dc6 17. Exb6 cxb6 18. Rc7 Ce7 19. Rc9
+bc6 20. Rxc6 Kd9 21. Ade1 Ci7 22. Ci2 Cbe7 23. Cbe2 Ce9 24. ih3 Cg9 25. Cf2
+Aff8 26. Cd0 Ke9 27. de5 gf6 28. Rc8 Kf9 29. Ec6 Ra7 30. exe6 Hxe6 31. Exf8
+Hexf8 32. He3 Ee7 33. Hf5 Hc9 34. Hxh6 Rc7 35. Rb8 Hh7 36. Rb6 Cd9 37. Cf2
+Eh9 38. f4 Cif7 39. Hxf7 Cxf7 40. g4 Hd7 41. Ra6 ab5 42. h4 Rc5 43. Cd0 Ee7
+44. Ra9+ Hc9 45. He4 Rc6 46. Aff1 bc5 47. Ch0 Cd9 48. Ra5 Hf8 49. bc3 c4
+50. Cc0 Rb6 51. Cf0 cd4 52. Hd2 Rc6 53. fe4 Hd7 54. exd4 Exg4 55. hxg4 Cxd4
+56. He4 fe6 57. Rd5 Cd6 58. Hxd6 exd6 59. Rg5 Ad8 60. cd3 Ke8 61. gf4 Ad9
+62. f5 Kd8 63. f6 Ae8 64. Ra5 Rb6 65. de3 -- 66. Cd0 Rb8 67. Ra6 d5 68. Rd6
+Rb5 69. Cxe8 Kxe8 70. Rxd7+ Ke9 71. Re7+ Kf9 72. f7
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "4위 순위 결정전 [대한홍삼 對 그린액월드] - 2회전"]
+[White "김철 [그린액월드]"]
+[Black "김건우 [대한홍삼]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ri8 5. ef3 c5 6. Hge3 Hf7 7. Cd2
+e5 8. Ra4 a5 9. Ri4 Rxi4 10. ixi4 Ke9 11. g4 ab5 12. Ea3 Ade8 13. Ke0 Ee6
+14. Afe1 cd5 15. f4 bc5 16. Add1 d4 17. Cd0 cd5 18. i5 Ra6 19. i6 hxi6 20.
+Rxi6 gh6 21. Ri5 Ch5 22. f5 e4 23. Hg2 Kd9 24. Ri4 Ce9 25. gf4 exf4 26.
+Rxf4 Ch7 27. Hce3 Cd7 28. c4 dxc4 29. Rxc4 Hb5 30. Hxd5 Hbd6 31. Rc5 Eg3
+32. He3 hg6 33. Ec6 Ce6 34. Cd3 Ei6 35. fe5 Rxc6 36. Rxc6 Cxc6 37. ed5 Ce6
+38. Cxd6 Eg3 39. Cd3 Ei6 40. Hh4 gh6 41. Hhf5 Ef6 42. bc3 hg6 43. d6 Hxd6
+44. Hxd6 Exd3 45. cxd3 Cxd3 46. Hb5 Eg3+ 47. Af1 Ce9 48. Hf5 Ei6 49. Hfd4
+Ce7 50. Hc6 Eg3 51. Hc7+ Kd8 52. Ha6+ Kd9 53. Hab8+ Ke9 54. Hxe7 Ee6 55.
+Hxg6 Af8 56. Hxf8 Kf9 57. Hxe6
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "4위 순위 결정전 [대한홍삼 對 그린액월드] - 3회전"]
+[White "유광진 [대한홍삼]"]
+[Black "하여명 [그린액월드]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hc2 Ce7 3. Hg2 ab6 4. Che2 Ri8 5. Cd2 Hf7 6. Rb0 Cb7 7. ab3
+Cb5 8. ba3 Cb8 9. ab3 ih6 10. Ei3 Cb5 11. ba3 Cb7 12. Ra0 Cbe7 13. Ca2 Ea6
+14. ab3 Rc9 15. Cd2 Ef6 16. Ra4 cd6 17. Rg0 g5 18. h4 Hd5 19. g4 Rg8 20.
+Hf4 Hxf4 21. gxf4 Eh3+ 22. Ke0 Ke9 23. ed3 Cxh4 24. f5 Ch9 25. Ri4 Rc5 26.
+Ri9 Ch5 27. Cd4 Ae8 28. Rg3 Exf0 29. Kxf0 Cxf5 30. Exf5 Rxf5+ 31. Ke0 g4
+32. Rg0 b5 33. Cd2 Rfg5 34. Ae1 gf4 35. Rf0 Rg0 36. Ri4 R8g4 37. Ri3 R0g3
+38. Rxg3 Rxg3 39. Rxf4 Ed8 40. Rc4 Ad9 41. Ea3 He5 42. Rc7 Afe8 43. Cf0 ef6
+44. de3 Rg5 45. cd3 Ef5 46. Kd0 Hd7 47. Rc4 hg6 48. Ri4 Kf9 49. Ri9+ Kf8
+50. Rg9 Cc7 51. Hd4 bc5 52. Ce5 Rg4 53. Hxf5 Cf7 54. Hh6 Rh4 55. Rg8+ Kf9
+56. Hi8 Rh7 57. Hg7 cd5 58. Ce2 fe6 59. bc3 de5 60. d4 Af8 61. e4 exe4 62.
+dxe4 Ke8 63. Cd2 Kd8 64. Rxf8+ Ae8 65. Rg8 Rh0+ 66. Kd1 Rh4 67. ed4 ef6 68.
+Cxd6+ Hb8 69. Cd2+ Hd7 70. de4+ He5 71. cd3+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 3라운드 [광야식품 對 옻가네] - 2회전"]
+[White "김현기 [광야식품]"]
+[Black "양승태 [옻가네]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 g5 6. Ch4 Ef6 7. Hf2
+Ri8 8. Ch1 Af8 9. Cc1 ed6 10. d4 Ee6 11. c4 Cd7 12. Ef3 Ra7 13. Exd6 Exh3
+14. gxh3 cxd6 15. c5 Cf9 16. Rb0 Rb7 17. He4 He5 18. Eh5 gxh5 19. Cxe5 Ke9
+20. Ce2 Ce5 21. Rb3 Rg8 22. hg3 i5 23. Cg1 Ri8 24. Cb1 Ri7 25. Ke0 Ade8 26.
+Ade1 Cb9 27. He3 Ra7 28. Cxb6 Kd9 29. Cb1 Cxe3 30. Rxe3 Rb7 31. Ci1 Rb0+
+32. Ad0 Rb6 33. Cxi7 Ce9 34. Rb3 Ra6 35. gf3 Eh4 36. Ci3 He6 37. Cd3 Hxd4
+38. Rb4 Cxe4 39. Rxd4 Rxa3 40. Rg0 Ee6 41. Rg9+ Aff9 42. Rxd6+ Ke9 43. Rxe6
+Rxd3 44. Rxe4 Kd9 45. Rxe8+ Kxe8 46. fe3+ Kf8 47. exd3
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 3라운드 [광야식품 對 옻가네] - 3회전"]
+[White "최승걸 [광야식품]"]
+[Black "성우제 [옻가네]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ra7 8. Hd2 Ad8 9. Rb4 ih6 10. Ei3 Cd9 11. Rb7 Rxb7 12. Cxb7 Ri5 13. Rxa6
+Rb5 14. Ra7 Kd7 15. g4 Rxb7 16. Rxb7+ Cxb7 17. Hf4 Hxf4 18. gxf4 Ce7 19.
+Ad1 Ke8 20. Kd0 Ei6 21. Afe1 Ee6 22. hg3 Ci9 23. Ef1 Cc9 24. Hb1 d5 25. Ce0
+c5 26. Cc0 g5 27. Cg0 h5 28. g4 Hh9 29. gxg5 hxg5 30. Eh4 Hf8 31. Exe6 Hxe6
+32. Hd2 Ke9 33. Cc0 Afe8 34. Ce0 Hg7 35. Cc0 Cf9 36. fe3 He6 37. e4 Af8 38.
+Ce0 Hg7 39. Eg1 Hh5 40. Cc0 Hi3 41. Cg0 gh5 42. fg4 Af7 43. ef4 Exf4 44.
+gxf4 Cxf4 45. c4 cxc4 46. Hxc4 Cf9 47. He3 de5 48. Hg4 Hxg4 49. Cxg4 hg5
+50. Cg0 gf5 51. Cc0 Cd9 52. Cf0 Ade8+ 53. Cd2 f4 54. bc3 fg4 55. Ed3 gf4
+56. Eb6 Cf9 57. cd3 Cf5 58. -- Cb5 59. -- Cg7 60. Ke0 fg4 61. Cd0 Cg3 62.
+d4 gf4 63. Cf0 f3 64. Cd0 fe3
+{楚의 차례에 다음 수를 漢이 착수하여 漢의 실격패}
+
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3위 순위 결정전 [대한홍삼 對 옻가네] - 1회전"]
+[White "양승태 [옻가네]"]
+[Black "정원직 [대한홍삼]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hc7 2. Ce2 Ce7 3. ed3 ab6 4. ih3 ef6 5. Ee3 Hg7 6. Hc2 Hce6 7. Cd2
+Ra7 8. Ri4 Ke9 9. Ef3 f5 10. Ke0 Afe8 11. Afe1 g5 12. Cf0 i5 13. Ri1 Cf7
+14. Add1 Ei6 15. Kd0 ih5 16. ab3 Rxa0+ 17. Cxa0 Add8 18. Ri4 Cf4 19. Ri1
+Cf9 20. c4 Cd9 21. Cb2 f4 22. Exc6 bxc6 23. Hb4 cd6 24. Ec5 Add7 25. Cf0
+Rf9 26. bc3 Af8 27. gf3 fg4 28. cd4 Re8 29. fe3 Rc8 30. c4 Afe8 31. Cg2 Rc7
+32. Cgd2 dc6 33. Ef3 cb6 34. Ci2 b5 35. Hc2 Ea6 36. Ha3 Rb7 37. Hc2 Cc7 38.
+Hb0 b4 39. cxb4 Rxb4 40. de4 Ce7 41. Hc2 Rb5 42. Ci0 Ci9 43. Cxi6 Hi8 44.
+hi3 hi5 45. Exi5 Rb2 46. Ef7 Axf7 47. Ci2 Heg7 48. e5 Afe8 49. Rh1 Cxi3 50.
+e6 Ca7 51. ef6 Ca2 52. fg6 Hf9 53. Cxf9 Cxc2 54. Cf0 Ci9 55. Rh9+ Cf9 56.
+Ce2 Kd9 57. Rh8 Ed8 58. Rxi8 Rb6 59. gf6 gf4 60. Ri6 g4 61. Ke0 Rc6 62. fe6
+Rc7 63. ed6 Ade7 64. dc6 Ra7 65. Hh3 Ra5 66. c7 Rc5 67. cb7 Ccc9 68. Ri7
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3위 순위 결정전 [대한홍삼 對 옻가네] - 3회전"]
+[White "유광진 [대한홍삼]"]
+[Black "최진호 [옻가네]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Cb4 Ra8 4. Ca2 ab6 5. Ea3 Rc8 6. Ci2 Rh9 7. ih3
+Ce7 8. Ce2 Ed6 9. ed3 Ei6 10. Exc6 Rxc6 11. Ra5 Hd7 12. Hd1 Af8 13. Ri4
+Exb3 14. Ee3 Rc5 15. Rxc5 Hxc5 16. Rc4 Hd7 17. cxb3 Kf9 18. bc3 Ade8 19.
+Cg4 gf6 20. gf3 Cb5 21. Cg0 Rh7 22. Rg4 Aff7 23. Ra4 Cb8 24. Ke0 Cg8 25.
+Hi1 Cg5 26. Ra9+ Ce9 27. Ade1 Ri7 28. h4 h5 29. Ra4 Cgg9 30. hxh5 Hxh5 31.
+Rh4 Hg7 32. Aff1 He5 33. Ce4 Ce7 34. Cd0 Ri9 35. d4 Rh9 36. Rxh9 Hxh9 37.
+d5 Hg6 38. d6 exd6 39. Cxd6 Hh4 40. fg3 Hg7 41. gh3 Hf3 42. Cd0 Hg5 43. Ce2
+Aff8 44. cd3 H5e6 45. Cf0 Hf4 46. Cf3 f5 47. d4 Ci7 48. hi3 Cxi3 49. de4
+Hfh5 50. e5 f4 51. Cd3 Hg3 52. Cxg3 Exg3 53. Hh3 fe4 54. Eb1 Ei6 55. Hf2
+ef4 56. Hh3 Ci7 57. He3 f3 58. Hf5 Hxf5 59. exf5 Cb9 60. Ed4 fe3 61. Ce5
+Ci3 62. f6 Cg3 63. Hi5 ed3 64. Hg6 Cg7 65. Hh4 Ef4 66. Hf5 Cb4 67. fe6 Ce4+
+68. Kd0 Ke9 69. Hxg7 Kd9 70. Hh5 Eh7 71. Ci5 Cb4 72. Cd5 dc3 73. Cd2+ cd3
+74. Cf0 Ee5 75. Eg6 Eb3+ 76. Ke0 Cb9 77. Hf4 Ce9 78. Cf3 dc3 79. Kf0 bc6
+80. Hd5 cd6 81. Hxc3 Cxe6 82. Cxb3
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [광야식품 對 대한홍삼] - 1회전"]
+[White "김동학 [광야식품]"]
+[Black "김건우 [대한홍삼]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Cbe7 4. ih3 ed6 5. Ef3 Hce6 6. ed3 d5 7. He3
+dc5 8. Ra4 g5 9. Ea3 Cf7 10. Rh4 ab6 11. Rh8+ Af8 12. Hf2 Kf9 13. Af1 Ade8
+14. Cxe6 Exe6 15. Ce2 Cd9 16. Rg8 Ri7 17. Kf0 Ke9 18. Ade1 Ra4 19. Ce0 i5
+20. Cg0 Exg3 21. hxg3 He6 22. gh3 Ri4 23. Rxi4 ixi4 24. Cc0 i3 25. hg3 Aef7
+26. Hed1 Ed7 27. Rg6 cd6 28. de3 Rg7 29. Ri6 Ri7 30. Rf6 Hd4 31. Exd6 Hf5
+32. He4 A7e8 33. gf3 Rg7 34. Ea8 b5 35. Exc5 Cf9 36. Ri6 bxc5 37. Hxc5 ih3
+38. He6 Rg8 39. Cg0 gh5 40. Cd0 Ad8 41. Ec6 Ae8 42. cd3 hg3 43. f4 Exf4 44.
+Hxf4 Rg4 45. Rf6 Hh4 46. Hd5 Rg6 47. Hxe7 Rxf6 48. Hg8+ Rf8 49. Exf8 Axf8
+50. Hc3 Ae8 51. Hd5 gf3 52. e4 hg5 53. Hb6 Hg6 54. d4 He7 55. Hh6 gf5 56.
+d5 Cf7 57. d6 Cd9 58. de6 Hg6 59. bc3 Hh4 60. Ke0 Kf9 61. cd3 Ch9 62. ef6
+Ch5 63. Cd4 Hg2 64. Hxf5 Cb5 65. Hc8 Cg5 66. fe6 Ad8 67. e7 Afe8 68. e7xe8+
+Axe8 69. Hcd6 Ke9 70. Hg7 Cg9 71. Hgxe8 Cg0 72. Hf6 Kf9 73. Hc8 -- 74. e5
+{Black resigns} 1-0
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [광야식품 對 대한홍삼] - 1회전"]
+[White "유광진 [대한홍삼]"]
+[Black "김현기 [광야식품]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Hf7 4. Che2 Ri5 5. ef3+ Che7 6. Cd2 ed6 7. He3
+Ee6 8. f4 Cd7 9. Ke0 Ke9 10. Afe1 Afe8 11. Cf0 Cf9 12. g4 Add8 13. c4 g5
+14. i4 Ri7 15. ih4 Rxi0 16. Cxi0 gxg4 17. hxg4 h5 18. Cf0 Kd9 19. Ei3 hg5
+20. Ef1 gxg4 21. fxg4 ab6 22. Ea3 b5 23. Add1 c5 24. cxc5 bxc5 25. Cd0 Hd5
+26. Cd4 Ra6 27. b4 Hf6 28. Cd0 Hh5 29. Rb0 Hg3 30. Cxe6 dxe6 31. Cd3+ Ke9
+32. Cxg3 e5 33. Kd0 e4 34. Hg2 Cd7+ 35. Ke0 ef4+ 36. Kf0 fxg4 37. Cg0 Cf9
+38. Cd0 g3 39. Hh0 Hg5+ 40. Af2 Ef6 41. Ec3 Ed3+ 42. Ae1 Rf6+ 43. Hf1 Exb0
+44. Hxb0 He4 45. Ea0 Rxf1+ 46. Kxf1 gf3+
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [마히코디자인 對 그린액월드] - 1회전"]
+[White "이병현 [마히코디자인]"]
+[Black "김철 [그린액월드]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "210"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+c5 8. Hd2 d5 9. Cb6 gh6 10. c4 Ra7 11. cxc5 dxc5 12. Cb1 Kf8 13. Ci1 Afe8
+14. Rg4 Rh9 15. Ef6 Rh7 16. He3 Cf9 17. Ed3 h5 18. Ca1 Rc7 19. Cf1+ Cf7 20.
+Ef6 Ce9 21. Rc0 Kf9 22. Cc1 cb5 23. Cg1 Rxc0 24. Hxc0 Hf5 25. Hd2 Hfd4 26.
+Ce5 Hc6 27. Ce2 Hcd4 28. Ce5 Hc6 29. Ce2 Rh6 30. Ed3 hg5 31. Rh4 Hcd4 32.
+bc3 bc5 33. Hb3 Rxh4 34. hxh4 ab6 35. Hxc5 Hxc5 36. c4 Hde6 37. cxc5 Hxc5
+38. Cxg5 Hxd3+ 39. Ke0 Hc1+ 40. Ad1 Cxe3 41. Exe3 Hb3 42. Cg0 Hd4 43. Ce4
+Ee6 44. Afe1 Add8 45. hg4 ih6 46. gh3 h5 47. Cd0 Hb3 48. Ch0 hi5 49. g5 Cd9
+50. Cd0 Cd3 51. f4 Cxh3 52. gf5 Cd3 53. fe5 Eh8 54. Cf0+ Cf3 55. fg4 ih5
+56. Cd0 Ei6 57. Cd5 Ef8 58. Cd0 bc6 59. Ch0 hi5 60. Ce2 cd6 61. Eg6 de6 62.
+ef5 Ca3 63. gh4 Ch3 64. Cd0 Add7 65. Cf0 Ca3 66. Af2 Cf3 67. Cd0 Hc5 68.
+Ch0 He4 69. Ee3 Hg3 70. Cxh8 Hxf5 71. Cxe6 Hxe3 72. Ce2 Hf5 73. Ch0 Hxh4
+74. Cd0 ih5 75. -- hg5 76. -- g4 77. -- g3 78. -- Ci3 79. Cf0 Cf3 80. Cd0
+Ade7 81. -- Ke9 82. Cf0 Ei6 83. Ade1 Eg9 84. Kd0 Ee6 85. Ce0 Ec3 86. Ce3
+Hf5 87. Ce0 Hd4 88. Cd2 Cb3 89. Ce2 gf3 90. Aff1 Cd3 91. Ad1 fe3 92. Af2
+exe2 93. Axe2 Ca3 94. Ke1 Ce3+ 95. Af2 A8d7 96. Kf0 Ce8 97. Ade1 Hf5 98. --
+Hg3 99. Cg2 Hh5 100. Ce2 Hi3 101. Aef1 Ee6 102. Ke1 Eb4 103. -- Hg4 104. --
+He5 105. Kf0 Hd3
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [마히코디자인 對 그린액월드] - 2회전"]
+[White "김영곤 [마히코디자인]"]
+[Black "배성철 [그린액월드]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Ke0 Ri8 7. Ri1
+Ke9 8. Ed3 c5 9. Cb4 Ee6 10. Rc1 Rc8 11. f4 d5 12. Cg4 Exc3+ 13. bxc3 Hi6
+14. Rca1 Rc6 15. Cd4 Afe8 16. Cd1 Kf9 17. Ade1 Ce9 18. Hd2 Cf7 19. ih3 g5
+20. Cf1 h5 21. Cc1 Rb6 22. Ca2 Ca7 23. Rb1 Rxb1 24. Hxb1 Hh8 25. Cf1+ Hf7
+26. Kd0 Af8 27. Cd1 Ra8 28. Rc0 Rb8 29. Hd2 Rb4 30. gf3 Cg9 31. Hi1 d4 32.
+Ce2 Ade8 33. cb3 Ra4 34. fe4 dxe4 35. Ce0 ed4 36. Eg6 dxd3 37. Cxd3 Hfe5
+38. Cg3 Ed6 39. Cxe5 Exb3+ 40. Hxb3 Hxe5 41. Hxc5 Ra5 42. He6 Rd5+ 43. Ke0
+Rd7 44. Hc7 Hxf3 45. Hg2 Ce9 46. Hxa6 Hd2+ 47. Kd0 Hxc0+ 48. Ad1 Ca0#
+{Black mates} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [에이원 對 햇터복지몰] - 1회전"]
+[White "박선양 [햇터복지몰]"]
+[Black "안동건 [에이원]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ ef6 5. Ke0 Ce7 6. Ee3 Ee6 7. Ra1
+Rg5 8. Rg1 Hd8 9. Ef3 Ke9 10. Rg2 Ade8 11. Cf2 Ri5 12. Rxi5 ixi5 13. Ri2 i4
+14. g4 Kd9 15. Ade1 Cg7 16. h4 i3 17. Rh2 Ee7 18. Cd0 Eb9 19. Hf2 Ed6 20.
+Exd6 cxd6 21. Aff1 Cc7 22. Ha1 Ch7 23. Rg2 ih3 24. gf4 Ri6 25. Rg0 Cg7 26.
+hg4 gh6 27. Rf0 hg3 28. He4 gf3 29. ab3 fxe3 30. dxe3 hg6 31. Rh0 Cd7 32.
+Hxd6 gh6 33. Rg0 Hxd6 34. cd3 H8b7 35. Rg3 Eg9 36. e4 Hf7 37. d4 Ce7 38.
+Rc3 Ce9 39. d5 h5 40. Rc7 Ha9 41. Hc2 Ad8 42. Hd4 fe6 43. de5 ed6 44. e6
+Afe8 45. b4 Cxd4 46. exd6 Rxd6 47. exd4 Rxd4 48. f5 Aed7 49. f6 Hd6 50. b5
+bxb5 51. gf4 Rxf4 52. fe6 Rc4 53. Ra7 Hc8 54. Ra3 Exe6 55. Rf3 A7e8 56. Kf0
+Rc3 57. Rf6 Rd3 58. Ce0 Ec3 59. Ce2 Cc9 60. Cf2 Cf9 61. Rf4 hg5 62. Ra4 bc5
+63. Ra3 He4 64. Ra4 Hxf2
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 1라운드 [정인 對 옻가네] - 2회전"]
+[White "하성호 [정인]"]
+[Black "최진호 [옻가네]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "70"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ri4
+Ke9 8. Hd2 Rfa8 9. Ria4 Ed6 10. Ed3 Ade8 11. ef3 c5 12. R4a1 Ce5 13. Ee3
+Cf7 14. f4 gf6 15. Ec6+ Cc7 16. c4 cxc4 17. fe4 Ce7 18. Exf6 exf6 19. Hxc4
+fe6 20. ed4 Hf5 21. Rd1 ab6 22. Rxa8 Rxa8 23. Cxb6 Ra2 24. Cb2 Kd9 25. Ea3
+Cc3 26. bxc3 Rxb2 27. Rd2 Rxd2+ 28. Kxd2 Hxd4 29. cd3 Hf5 30. g4 hg6 31.
+gf4 Hg7 32. d4 gf6 33. d5 Ea8 34. Ca2 Ec5 35. dxc5 Hxc5
+{빅장}
+
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [대한홍삼 對 마히코디자인] - 2회전"]
+[White "김영곤 [마히코디자인]"]
+[Black "김건우 [대한홍삼]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "162"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ke0 Ee6 7. Ra1
+Ra5 8. Rai1 gh6 9. Ef3 Exg3+ 10. hxg3 Rg5 11. Ri3 fg6 12. Hf2 Ef6 13. Afe1
+Ad8 14. Rg0 Kd9 15. Ca2 Afe8 16. Che2 Ce9 17. Kf0 Rg9 18. Cg2 Rf5 19. Ri1
+Ci9 20. Rig1 Rh9 21. Ca9 Cg9 22. Ri1 Rh8 23. Ri3 Cd7 24. g4 Ca7 25. Add1
+Cxg4 26. Exh6 Rxh6 27. ab3 Cg9 28. Rgi0 Hh8 29. Cd2 Ci7 30. Ke0 Cxi3 31.
+Rxi3 Ke9 32. ba3 Rh0+ 33. Cf0 Ri5 34. Rf3 ih6 35. Ca2 Hf7 36. Ce2 Kf9 37.
+ab3 Cd9 38. Rg3 Cg9 39. Rf3 cd6 40. d4 Af8 41. c4 Ade8 42. Kd0 b5 43. Ce0
+Cc9 44. Ha3 Exc4 45. dxc4 Rh4 46. bc3 b4 47. Eg0 Cg9 48. cxb4 Rxb4 49. Hc4
+de6 50. Ei3 Cd9+ 51. Hd3 Hd5 52. Ce2 Hxc3 53. He3 Rd4 54. Ke0 e5 55. Cd0 e4
+56. Hc1 Cxd1 57. Axd1 exe3 58. Rxe3 Hxd1 59. Rb3 Hf2+ 60. Ke1 Hg4 61. Ef1
+Ri1 62. Hd3 Re4 63. Rb9+ Ae9 64. Cd9+ Axd9 65. Rxd9+ Re9 66. Rxe9+ Kxe9 67.
+He5+ He3 68. Hd7+ Kd9 69. Hxf8+ Kd8 70. Kd2 Hd5 71. Ed4 Ke8 72. Hh9 Ri9 73.
+Hg7 Ri7 74. Hh9 Rh7 75. Ke1 Rxh9 76. Ea2 Rc9 77. Ce0+ Kf8 78. Ed4 Rc4 79.
+Eg2 Hf4 80. Ei5 Hd3+ 81. Ke2 Rc2#
+{Black mates} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 1라운드 [햇터복지몰 對 정인] - 3회전"]
+[White "김재두 [정인]"]
+[Black "박선양 [햇터복지몰]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ef3 Che7 4. ih3 ef6+ 5. Kf1 g5 6. Ce2 Cd7 7. Ra4
+Ke9 8. g4 gf5 9. Afe1 Afe8 10. Rc4 ab6 11. Ea3 Cf9 12. Exc6 bxc6 13. Rxc6
+Hge6 14. cd3 Ra6 15. Hb4 Ra5 16. Hf2 Add8 17. Ce0 f4 18. gxf4 Cxf4 19. Cd2
+Cf9 20. Hd5 Add7 21. Hxe7 Adxe7 22. Cd6 Ha6 23. Cxf6 Rf5 24. Cd6 Hf4 25.
+hg3 Hh5 26. Rg0 Hc5 27. bc3 ih6 28. gh3 He6 29. Rc4 Hef4 30. Rh0 hg6 31.
+Kf0 Ea6 32. Ce2 Hxh3 33. Hxh3 Rxf3+ 34. Ke0 Exc3+ 35. Rxc3 Rg3 36. Cd2 Hf4
+37. ef3 Rxh3 38. Rg0 Rxf3 39. Rc8 Ee6 40. d4 Rfi3 41. de4 Hxe2 42. Axe2 Ri0
+43. Rxi0 Rxi0+ 44. Ke1 Ri1+ 45. Kf0 A7f7+ 46. Cf2 Eh4 47. Rc2 Ri3 48. Ad2
+Cd9 49. Rc0 Re3 50. ef4 Rf3 51. A0e1 Rxf4 52. Ke0 Ee6 53. Rc6 Re4 54. Kf0
+g5 55. Rc5 g4 56. Rf5 Cf9 57. Ri5 g3 58. Ke0 gf3 59. Cc2 Eg3+ 60. Kd0 Rc4
+61. Ce2+ fe3 62. Ce5+ Kd9 63. Ade2 Cd7 64. A1f2 ed3+ 65. Ke1 Rc1+ 66. Kf0
+Rc0+ 67. Kf1 Cf9 68. Rg5 Ei0 69. Rg1 de3 70. Ke1 Rc1+
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 2라운드 [광야식품 對 그린액월드] - 1회전"]
+[White "김동학 [광야식품]"]
+[Black "하여명 [그린액월드]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ch4
+Ke9 8. g4 Hd8 9. Ch1 Ade8 10. Ca1 Rb8 11. Cg1 gh6 12. Ef3 Ci7 13. Rg0 Ri8
+14. ab3 Cd7 15. Cb1 Rg8 16. gf4 Rxg0 17. Hxg0 Cd9 18. fe4 Ch7 19. Hf2 Rb7
+20. d4 Ra7 21. Rc0 Ra5 22. cd3 Ce7 23. Ch1 Aff8 24. Ha3 Rc5 25. Rxc5 cxc5
+26. Cc1 hg6 27. dc3 cd5 28. c4 dxd4 29. cxd4 Hc6 30. Ch1 ih6 31. Cb1 Eb4
+32. bxb4 Hxb4 33. dc4 Ha2 34. Hc2 Hc3 35. cd4 Cxd0 36. dc4 Cxf2 37. Kxf2
+Cxe3 38. Hxe3 Hd1+ 39. Ce1 Hxe3 40. Ch2 fe6 41. cd4 Hg5 42. hg3 Hi4 43.
+Cxh9 Hxg3 44. Ke2 Hc2 45. Kd2 ef6 46. Ch0 Hi2 47. Ei1 Hh4 48. Ce5+ Kf9 49.
+Ce2 Ha1 50. Ca2 Hc2 51. Kd1 Hb4 52. Cd0 Hxa2 53. Ae1 Hg2 54. Cf2 Hxi1 55.
+Kd0 Hg0 56. Ke0 Hxf2+ 57. Axf2 g5 58. Kf0 g4 59. Ae1 h5
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 2라운드 [광야식품 對 그린액월드] - 3회전"]
+[White "배성철 [그린액월드]"]
+[Black "최승걸 [광야식품]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "56"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Ef6 3. Ed3 Hc7 4. Cc2 Exd3 5. cxd3 cd6 6. dc3 Hb5 7. cb3
+Hf7 8. Ce2 Ce7 9. ed3 He5 10. de3 Hd4 11. Cxe5 exe5 12. Cxb6 Ee6 13. Rc0
+Ad8 14. Rc4 ed5 15. Kd1 Af8 16. ed3 Ric9 17. dxd4 dxd4 18. Rxc9 Rxc9 19.
+Ade1 ih6 20. Hf3 d3 21. Ri2 Rc7 22. Ae2 Cd7 23. Ke1 Rc1+ 24. Kf2 de3 25.
+Afe1 Cf9 26. Kf1 Cf4+ 27. Rf2 exe2 28. Cxe6 e2xe1#
+{Black mates} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 2라운드 [에이원 對 옻가네] - 1회전"]
+[White "안동건 [에이원]"]
+[Black "양승태 [옻가네]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "162"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Kd0 Kf8 9. Ca2 Rf5 10. Afe1 Afe8 11. Cad2 Ce9 12. Cf0 Ra5 13. Exg6
+fxg6 14. Hg4+ Ef6 15. Ef3 Kf9 16. Hxf6 gxf6 17. Cxf6+ Af8 18. Cf0 Exc3 19.
+dxc3 He6 20. Ca2 Cd7+ 21. Cad2 i5 22. ab3 Hd4 23. cd3 Rxa0+ 24. Cxa0 Hxb3
+25. dc3 Hc1 26. Cf0 Cc9 27. Ke0 Ci7 28. Rh0 Ce7+ 29. Kd0 ih5 30. Cb2 Ha2
+31. He3 hg5 32. cb3 Ade8 33. Rh2 Ri6 34. Rd2 c5 35. Ce2 Hc1 36. Hc2 b5 37.
+b4 Ha2 38. bxb5 cxb5 39. Hd4 Hc3 40. Rd3 bc5 41. Hb3 He5 42. Exc5+ Ke9 43.
+Rd4 Rb6 44. Hc1 Hb1 45. Ke0 Cxc1 46. Ef3 Ca1 47. Rd5 Hf7 48. Cxf7 Afxf7 49.
+Rxg5 Cxd1 50. Rg9+ Af9 51. Rh9 Hc3 52. Kf0 Rf6 53. Ce0 Cg1 54. Rh6 Rf5 55.
+Rc6 Hd5 56. Rc9+ Ke8 57. Af2 Cg8 58. Rc5 Cd8 59. Rc8 Ce9 60. -- Kd9 61. Rc6
+He7 62. Rd6 Re5 63. Ch0 Ri5 64. Cd0 Hf5 65. Rd5 Ri2 66. Ae1 He3 67. Rd3
+A9e8 68. Rd2 Ri1 69. Af2 Afe7 70. g4 Rh1 71. Re1 Hd1 72. Ec5 A7d7 73. Ae2
+Rxh3 74. Ad2 Cxe1 75. Axe1 Hb2 76. Ee2 Rf3+ 77. Ke0 Hd3 78. Ad2 Hf2+ 79.
+Ke1 Cxd2 80. Cxf2 Rxf2+ 81. Ke0 Cd8
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 2라운드 [에이원 對 옻가네] - 2회전"]
+[White "김봉철 [에이원]"]
+[Black "성우제 [옻가네]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "213"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hc7 2. Ce2 Ce7 3. ih3 ab6 4. Hg2 Hg7 5. ed3 ef6 6. Rb0 Cb7 7. Ra0
+Che7 8. Af1 Hge6 9. g4 c5 10. Ke0 Cd7 11. Ade1 Ke9 12. Cf2 Afe8 13. Cf0 Cf9
+14. h4 ih6 15. Ei3 b5 16. Ee3 Af8 17. Rh0 Ade8 18. g5 gxg5 19. Cxf6 Ri7 20.
+Cd6 hi6 21. Cd0 Ra6 22. Cg0 ih6 23. Ca2 Rd6 24. ab3 Hd5 25. Cd2 Ra6 26. Rb0
+Hdf4 27. Hxf4 Hxf4 28. Kd0 Hg2 29. Rh2 Hxe3 30. dxe3 Rxi3 31. cd3 Ege6 32.
+Cc0 hg6 33. b4 Ra5 34. bxb5 Rxb5 35. Rxb5 cxb5 36. h5 Ea6 37. hxg5 gxg5 38.
+Rh6 Eac3 39. Rh4 bc5 40. Ra4 gf5 41. Ra5 Eg3 42. dxc3 cd5 43. cd3 fe5 44.
+Ra6 Ri2 45. Rg6 Cxf1 46. Rxg3 Cf9 47. Ce0 Ri6 48. Rg4 Rb6 49. Rc4 Cd9 50.
+Ce2 Rb5 51. Ke0 Aff7 52. Cf0 Cf9 53. Rc6 -- 54. Re6 Rc5 55. Hb0 Cd9 56. Hd1
+Rc4 57. Rf6 Aff8 58. Hc3 Aff9 59. Re6 Aff8 60. Rb6 Rc5 61. Ha4 Rc4 62. Hb2
+Rc2 63. Rb4 Rc5 64. ef3 Aff7 65. de3 Rc6 66. Hc4 Rh6 67. Cd0 Rc6 68. Hd6
+Aff8 69. Rb8 Kf9 70. Hc8 Aff7 71. Hxe7 Afxe7 72. Rb7 Rc0 73. Rb6 A7f7 74.
+Rf6 Aff8 75. fg3 Rc3 76. ef3 Aff7 77. Cf0 Rc7 78. g4 Aff8 79. f4 Rc3 80.
+Rd6 Rf3 81. Cd0 Re3 82. g5 Rf3 83. Rf6 e4 84. f5 e3 85. Cxe8 Kxe8 86. Rd6
+dc5 87. fe5 Ke9 88. g6 Ae8 89. Rc6 cb5 90. Rc9 Rf4 91. Rc2 Re4 92. ef5 b4
+93. f6 Re7 94. Rg2 bc4 95. g7 c3 96. Cf0 cd3 97. gf7 Axf7 98. Cxf7 Re8 99.
+Cf0 -- 100. Rc2 -- 101. Cd0 -- 102. Cd6 Rf8 103. fg6 Re8 104. Ch6 -- 105.
+gf6 Rb8 106. Rf2 Cf9 107. fe6
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 2라운드 [대한홍삼 對 에이원] - 2회전"]
+[White "고승원 [에이원]"]
+[Black "정원직 [대한홍삼]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ke0
+Ee6 8. Ra1 Ri8 9. Rg1 gh6 10. Afe1 Rg8 11. Ri4 Ke9 12. Add1 Ri5 13. Rxi5
+ixi5 14. Kd0 ih5 15. Cg2 Ri8 16. Cg0 hg5 17. g4 gf5 18. Ef3 hg6 19. Cd2 Cg7
+20. Ri1 Rxi1 21. Exi1 Hb9 22. ab3 Ade8 23. Cb0 Hbd8 24. Cbf0 Ee7 25. gf4
+fxf4 26. Cxf4 Hg9 27. Cff0 Cc7 28. Ha3 Cd7 29. d4 Cd9 30. cd3 Ccf7 31. bc3
+Aff8 32. de4 Exc3 33. dxc3 Hh7 34. hg3 Cg9 35. Hh1 Hi5 36. cd3 Cd7 37. Cd4
+Ci7 38. Ci4 Cd9 39. d4 g5 40. Hf2 f5 41. g4 Hh7 42. Ci0 gxg4 43. Cxf5 gf4
+44. exf4 Cxd4+ 45. Ke0 Cd9 46. Eg4 Cif7 47. Exe7 Axe7 48. Cd0 Aee8 49. fe4
+Hg5 50. Cff0 Hb7 51. e5 cd6 52. Hc4 bc6 53. Cf5 Ca7 54. Kf0 Hf3 55. Cd3 Hh4
+56. Cf1 Cf9 57. Add2 c5 58. Hb2 Ce7 59. Eh5 Cxf2 60. Exe7 Cxb2 61. Eg4 Cb9
+62. Cd0 Hg2+ 63. Ke0 He3 64. Ei1 Cb5 65. Cd3 Cxe5 66. Kd0
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "패자조 2라운드 [그린액월드 對 햇터복지몰] - 2회전"]
+[White "하여명 [그린액월드]"]
+[Black "송은미 [햇터복지몰]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 cd6 3. ef3+ Ce7 4. Ee3 g5 5. ab3 Ri8 6. ih3 Ef6 7. h4 ih6
+8. Rxi8+ Hxi8 9. hg4 h5 10. Ra4 Hg7 11. gxg5 hxg5 12. Rh4 Kd8 13. Rc4 Ade8
+14. Rc5 gf5 15. Rc9 Cb7 16. Hd2 d5 17. Ce0 ab6 18. Cf2 ed6 19. Af1 Che7+
+20. Kf0 Ce9 21. c4 bc6 22. Ed3 fe5 23. Rc7 Ce7 24. Rc8+ Kd9 25. Cxf6 Cb2
+26. Cf2 Cb8 27. Eg6 Ch7 28. Eg5 ef5 29. Cxf5 He6 30. g4 Ee7 31. He3 Cd8 32.
+Cxe6 Cf8 33. Rc7 He9 34. Rxe7 Axe7 35. Ce0 Afe8 36. Cf2 A7f7 37. Ade1 Hg8
+38. cd4 de5 39. gf4 Ce7 40. de4 ed5 41. ed4 de5 42. fe4 Ra5 43. Hec4 Ra6
+44. exe5 Hi7 45. Cg0 c5 46. Hb2 Cg7 47. Cgd0 Hxg6 48. dc4 Ke9 49. cxc5 Cxg5
+50. Hd3 Cd8 51. Hb4 Rb6
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "본선 3라운드 [광야식품 對 옻가네] - 1회전"]
+[White "김동학 [광야식품]"]
+[Black "최진호 [옻가네]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Cb4
+Ke9 8. c4 Hg7 9. Cb1 Cf7 10. Cg1 g5 11. f4 h5 12. Rh0 Ade8 13. g4 gxg4 14.
+fxg4 Ri7 15. Eg6 Rh7 16. g5 hi5 17. Rxh7 Cxh7 18. Hh4 Aff8 19. Hf5 Cb7 20.
+gh5 Hh9 21. hxi5 Cf7 22. ih5 Cf9 23. hg5 Kd9 24. Cd1 Cb7 25. He4 Cxf5 26.
+gxf5 Eh4 27. Ce0 Ce7+ 28. Kd2 Hi7 29. fg5 Ce9 30. Hf2 Ee7 31. cb4 Ee6 32.
+ih3 Eh9 33. Ade1 Ef6 34. Cd4 Ad8 35. Cd0 Cb9 36. Ra3 Cg9 37. Ei9 Ei8 38.
+Cg0 ab6 39. Ed3 Rxa3 40. bxa3 Cb9 41. a4 Cxi9 42. He4 Cc9 43. Kd1 Ce9 44.
+Hf2 c5 45. Cd2 bc6 46. Kd0 Afe8 47. Hg4 Hg8 48. gf5 He7 49. Hh6 Ec3 50.
+Aff1 Cc9 51. fg5 Hd5 52. Cxd5 cxd5 53. Hxi8 d4 54. Eg1 Ee6 55. Hh6 Eh8 56.
+hg3 Hf6 57. gf3 Hd5 58. Ke0 dc4 59. bxc4 Cxc4 60. gf5 Cc9 61. fe5 Hb6 62.
+Cd0 Hxa4 63. f4 Ce9 64. f5 Exf5 65. exf5 Hc5 66. Af2 Af8+ 67. Kf0 Ke8 68.
+Hi8 de6 69. Cg0 cd6 70. Ce0 Kd9 71. Hg7 Ade8
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3위 순위 결정전 [대한홍삼 對 옻가네] - 2회전"]
+[White "성우제 [옻가네]"]
+[Black "김건우 [대한홍삼]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Hd7 5. ed3 g5 6. Cd2 Ra8 7. Ke0 e5
+8. Ade1 i5 9. Aff1 Ri6 10. Cf0 ih5 11. Rxi6 Exi6 12. Hce3 Ad8 13. d4 c5 14.
+c4 cxc4 15. dxc4 gf5 16. g4 Kd9 17. h4 hxh4 18. gxh4 Afe8 19. Ei3 f4 20.
+Hxf4 Exf4 21. Cxf4 b5 22. Cf0 Ra6 23. Cd0 Ri6 24. Cxe5 Rxi3 25. Ce2 Ri5 26.
+Cf0 Ce9 27. Ra1 bc5 28. cxc5 Rxc5 29. Rd1 Rc6 30. Hd5 Rd6 31. Cd0 Hf5 32.
+hg4 Hg3 33. Aff2 Hxe2 34. Afxe2 Cbe7 35. Kf0 Af8 36. Ee3 Cc9 37. gf4 Cf9
+38. Eh5 Afe8+ 39. Ke0 Ca7 40. Ef2 Cf7 41. ab3 Ke9 42. bc3 Add9 43. c4 Ee7
+44. cd4 Hb6 45. Hxb6 Rxb6 46. f5 Add8 47. d5 C9d9 48. Rc1 Cxf2 49. A2xf2
+Cxd5 50. Rd1 Rb5 51. f6 Cd9 52. Cxd8 Rb6 53. Cd0 Rxf6 54. Rd4 Cf9 55. Re4
+Rc6
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [광야식품 對 대한홍삼] - 2회전"]
+[White "최승걸 [광야식품]"]
+[Black "정원직 [대한홍삼]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ra7 8. Hd2 Ad8 9. Rb4 ih6 10. Ei3 Cd9 11. Rb7 Rxb7 12. Cxb7 Ri5 13. Rxa6
+Rb5 14. Eb6 Rxb6 15. Rxb6 cxb6 16. Cb4 g5 17. Cb0 bc6 18. Ad1 h5 19. Kd0
+Ke9 20. Afe1 d5 21. Cg0 c5 22. fe3 Ade8 23. gf3 Ei6 24. h4 Aff8 25. hxh5
+gxh5 26. Cxg7 Hxg7 27. Ke0 Cg9 28. Hh0 Ee6 29. Ef1 Cc9 30. cd3 hg5 31. Hg2
+gf5 32. Kd0 Cg9 33. Hi3 fg5 34. Ce0 g4 35. Cb0 gh4 36. Exh4 Exh4 37. Cf0
+Ee6 38. bc3 Ci7 39. Hh1 Cc7 40. cb3 Cd9 41. Hi3 de5 42. Hg4 ef5 43. Hh6
+Cxd2+ 44. Adxd2 fe5 45. Hg4 ef5 46. Hf2 Ch7 47. bc3 Cd7 48. Ke0 cd5 49.
+Add1 Cf9 50. c4 Ec9 51. cd4 de5 52. Cd2 Ea6 53. d5 exd5 54. Cxd5 f4 55.
+fxf4 Eg3+ 56. Kd0 Exd5 57. fe4 Eg3 58. Hh1 Hh5 59. Add2 Ed8 60. Hf2 Eb5 61.
+Hg4 Ee7 62. He5 Hf6 63. Aee2 Hd5 64. ed4 Hb4 65. Ke1 Ee6 66. dc4 Ha6 67. d4
+Cd9 68. e4 Eh4 69. Af2 Ef7 70. Ade2 Hc7 71. Hc6 He6 72. Hb8 Cf9 73. Kd0 Hg5
+74. cb4 Hf3 75. bc4 Eh4 76. Aee1 Hg5 77. cb4 Ee6 78. Hc6 Cf6
+{White resigns} 0-1
+
+[Event "그린액월드배 4회 프로기전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [광야식품 對 대한홍삼] - 3회전"]
+[White "유광진 [대한홍삼]"]
+[Black "김현기 [광야식품]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Hg2 Ce7 4. Che2 Ef6 5. h4 Hf7 6. Cd2 Af8 7. ef3
+Ad8 8. c4 Ea6 9. g4 ih6 10. Ei3 g5 11. f4 gxg4 12. hxg4 cd6 13. Rb0 b5 14.
+Af1 Rac9 15. cd4 Kf9 16. Cf0 Cb7 17. ab3 Ed3 18. Rb2 Exd4 19. Hxd4 Cbd7 20.
+Hf5 e5 21. Hxh6 Hxh6 22. g5 Hf7 23. g6 Ce7 24. gf6 Hd5 25. fxf7 Axf7 26.
+Rd2 Ea5 27. Rb2 b4 28. f5 exf5 29. Cxf5+ Ke8 30. Rh0 Rc1+ 31. Kf0 Rg9 32.
+Rh8+ Af8 33. Hh4 Rxc0 34. Ae1 He3 35. Ce4 Rc5 36. Hg6 Rxg6 37. Exg6 Rxf5+
+38. Rf2 Rxf2+ 39. Axf2 Hg2+ 40. Ke1 Hf4 41. Ei3 de6 42. Kf1 e5 43. Ci4 bxb3
+44. Ci2 Hd3 45. Ci8 Cf9 46. Cxf8 Kd9 47. Afe1 Ae8 48. Cf0 e4 49. Cf5 Ed7
+50. Rh6 Hf4 51. Rh2 bc3 52. Kf0 cd3 53. Add1 de3 54. Add2 ed4 55. Eg6 d3
+56. Add1 Eb4 57. Kf1 Exd1 58. Axd1 Hd5 59. Cf0 Hc3 60. Ae1 Hb5 61. Rh5 Hc7
+62. Rc5 He6 63. Rd5+ Cd7 64. Rd6 Hg5 65. Cf2 He4 66. Rd4 Hg3+ 67. Kf0 Hh1+
+68. Kf1 Hxf2 69. Axf2 Ad8 70. Ri4 Ae8 71. Rd4 Ad8 72. Rd5 Ke8 73. Ed4 Cd9
+{White resigns} 0-1
+

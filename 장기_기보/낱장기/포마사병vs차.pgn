@@ -1,0 +1,28 @@
+[Event "Edited position"]
+[Site "DEV"]
+[Date "2022.01.10"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "1-0"]
+[Variant "janggitraditional"]
+[VariantFamily "janggi"]
+[FEN "5k3/9/2H2P3/9/9/4r4/9/3AC4/3K5/9 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . . . k . . .
+. . . . . . . . .
+. . H . . P . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . r . . . .
+. . . . . . . . .
+. . . A C . . . .
+. . . K . . . . .
+. . . . . . . . .
+white to play
+--------------}
+1. Ce7 Rxe7 2. fxe7 Kf8 3. Hb5 Kf9 4. Hd6 Ke9 5. e8#
+{Xboard adjudication: Checkmate} 1-0
+

@@ -1,0 +1,41 @@
+[Event "제2회 서울지회 강동 프로 친선대회 "]
+[Site ""]
+[Date "2019-04-07"]
+[Round "결승전 "]
+[White "귀마 하여명 프로"]
+[Black "원앙마 이창원 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 d5 7. He3
+Ce4 8. Eb6 Ca7 9. Rb0 Ci7 10. Ei3 dc5 11. Hd2 Cee7 12. Hf5 gf6 13. Hd6+ Kd8
+14. Exd9 cxd6 15. Exg7 fg6 16. Ra0 a5 17. Rh0 ih6 18. c4 d5 19. Eg0 Hxg7
+20. cxc5 dxc5 21. Ee3 He6 22. Exg6 hxg6 23. Ri0 Hd4 24. Ri5 He6 25. He4
+Cxe4 26. Re5 Rh9 27. Rxe4 Rh7 28. Ke0 Ra6 29. Ade1 ab5 30. Rxa6 Exa6 31.
+Cxe6 Re7 32. Rd4+ Cd7 33. Ci6 Exi6 34. Rd6 Ec9 35. Rxg6 Ef8 36. Rc6 Ef7 37.
+Rd6 Re4 38. Rd2 Ra4 39. Cf2 Ae8 40. Cd0 Ae7 41. Aff1 Ae8 42. Cg0 Kd9 43.
+Kf0 Ri4 44. Ce0 Ri8 45. Ra2 Cf9 46. Rd2+ Cd7 47. Re2 Ei6 48. Ri2 Cf9 49.
+Ci0 cd5 50. Cxi6 Ec9 51. Ri3 Ee6 52. Aef2 Cb9 53. Ci0 Rxi3 54. hxi3 Cxb3
+55. ih3 d4 56. A2e1 d3 57. Cd0+ Ke9 58. Ad1 dc3 59. Afe1 bc5 60. -- c4 61.
+-- c2 62. Cf2 Eb4 63. Ae2 c3 64. Ade1 Cb9 65. fe3 Cb2 66. ed3 cxd3 67. Cxc2
+Cb9
+{Black resigns} 1-0
+

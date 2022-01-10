@@ -1,0 +1,623 @@
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "8강"]
+[White "귀마 이남춘"]
+[Black "귀마 박계도"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "51"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 cd6 5. Ee3 g5 6. Hf2 Ef6 7. Ke0 Ri8
+8. Ra1 i5 9. Ef3 Ce5 10. g4 gxg4 11. Rg1 gf4 12. Rxi5 Rf8 13. Rxg9 fxf3 14.
+Hg0 Exh3 15. Rh5 Ca7 16. Rxh3 f2 17. Hxf2 Rxf2 18. Ade1 Rf7 19. Rg8+ Af8
+20. Ch8 Ae9 21. Eh5 Kd9 22. Cxf8 Rh7 23. Ci8 ef6 24. de3 de6 25. e4 Cee7
+26. Rd3+
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "8강"]
+[White "귀마 김경중"]
+[Black "귀마 임웅규"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. ab3 Ce7 3. Hc2 gh6 4. Ri4 Hc7 5. Hf2 Ef6 6. Rb4 Af8 7. Che2
+Rg9 8. ed3 Kf9 9. Ee3 c5 10. Rb6 Cb5 11. Rc6 Ch7 12. Rxc5 Exh3 13. gxh3
+Rg1+ 14. Af1 Cg5 15. Cd2 Ra7 16. Rc4 Cg0 17. Cf0 Ad8 18. Ra1 He5 19. Rd4
+Ra8 20. Ke0 Ef7 21. Rf4 Ade8 22. Afe1 Cg9 23. d4 Cc9 24. Add1 hg6 25. de4
+Hc6 26. Ef3 g5 27. Ri4 ih6 28. Ra2 Ce7 29. cd3 Ha5 30. b4 Rb8 31. d4 Ke9
+32. Cc0 Hb3 33. Eb5 Hxb5 34. bxb5 Rxb5 35. Rxa6 Cf9 36. Rxe6 h5 37. Ri8 Rb7
+38. d5 Kd9 39. Ec5 Cd7 40. d6 Cxd1 41. Exe8 Axe8 42. Rg6 Hc1 43. Rg9+ Kd8
+44. Rgg8 Cb1+ 45. Kf0 Cb8 46. Ci0 Rxe1+ 47. Hxe1 Hxe2 48. Cd0+ Ed4 49.
+Rxe8+ Cxe8 50. Cd5+ Rd7 51. dxd7+ Kxd7 52. Cd2+ Ea6 53. ed4#
+{White mates} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "도전자 결정전 1국"]
+[White "귀마 김경중三"]
+[Black "귀마 이남춘九"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Ri5 7. c4 Hd7
+8. Ed3 Hh9 9. Ad1 Hf8 10. Af1 c5 11. Ric0 cb5 12. b4 bxb4 13. cxb4 Ke9 14.
+Rc8 Afe8 15. Kf0 Kf9 16. Ci2 Rh5 17. Cif2 Ce9 18. Rc7 Ce7 19. Cf4+ Ke9 20.
+Rc8 Rd5 21. Ra3 Ce5 22. Rc7 Ce7 23. Rc0 Ce5 24. Rc7 Ce7 25. Rc8 Ce5 26. Ce2
+Cf7 27. Cf2 Ce7 28. bc4 Ra7 29. Ade1 Rb5 30. c5 Rbb7 31. c6 Exg3 32. fxg3
+Cf9 33. Ce0 Add8 34. gf3 Kd9 35. Rc3 dxc6 36. R3xc6 Rc7 37. R8xc7 Cxc7 38.
+Hf4 Ch7 39. Exg6 hxg6 40. Hxg6 Hxg6 41. Rxg6 Hf8 42. Rc6 Add7 43. Eg5 Cc7
+44. Exd7 Cxd7 45. Cd0 Ee7 46. He4 Ke9 47. ih3 Cf9 48. hg3 Ccf7 49. Hd6 C7d7
+50. Ce2 He6 51. Rc8 ab6 52. Hc4 Rc7 53. Hxb6 Rxc8 54. Hxc8+ Kd9 55. Ce0 Hc7
+56. Cxe7 Axe7 57. Hxe7+ Ke8 58. Hg8 Ca7 59. Hf6+ Ke9 60. Cf2 Cxf3 61. gxf3
+Cf7 62. Hd7+ Ke8 63. He5 Cb7 64. f4 Ce7 65. Hc4 He6 66. Hd6+ Ke9 67. f5 Hg7
+68. f6 Ci7 69. Ke0 He8 70. Hc8+ Kd9 71. f7 Hg9 72. fg7 He8 73. gh7 Cb7 74.
+Ha9 Hf6 75. hg7 He8 76. gf7 Hd6 77. fe7 Ci7 78. Cd0+ Ke9 79. Ad1 Hf7 80.
+Hc8+ Kf9
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "결승 3국"]
+[White "귀마 송종일"]
+[Black "귀마 김경중"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ef6 6. Ef3 Che7 7. Ce2
+Ke9 8. Ra4 Ri8 9. Hf2 Rbb8 10. Ch4 Cb9 11. ed3 Ea6 12. Ee3 ih6 13. Rxi8
+Rxi8 14. Ch1 Afe8 15. Cd1 ed6 16. Exc6 dxc6 17. He3 Kf9 18. Hd5 Ca7 19. Rg4
+He6 20. Exh6+ gxh6 21. Hxf6 Ce9 22. Cf1 Af8 23. de3 cd6 24. cd3 bc6 25. Rb4
+Ade8 26. H6g4 Ri6 27. He5 h5 28. g4 Cg7 29. h4 hxh4 30. gxh4 Cge7 31. Heg4
+Cg9 32. h5 Ke9 33. Ra4 Ed8 34. bc3 Cd9 35. e4 Cf9 36. de3 Kd9 37. cd3 Ce9
+38. e5 Hg7 39. h6 Ri4 40. hg6 Hh9 41. Ra7 Cd7 42. gf6 Hh8 43. e6 dxe6 44.
+fxe6 Ri6 45. e7 Axe7 46. Cxe7 Ae8 47. Ce2 Cf9 48. Rh7 Ri8 49. Hf6 Hf8 50.
+Hg8 cd6 51. Cd1 de6 52. Af1 Ce7 53. Cxe6 Hxe6 54. Hxe7 Hg5 55. Rh5 Axe7 56.
+Rxg5 Hf7 57. Rg6 Ae8 58. He4 Ke9 59. Hd6 Hxd6 60. Rxd6 Rf8 61. Rb6 Ef5 62.
+Af2 Ei3 63. Ri6 Cxf2 64. Rxi3 Cf9 65. Ri9 Rf4 66. Ke0 Af8 67. ef3
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "4강"]
+[White "귀마 이남춘"]
+[Black "귀마 김권윤"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ri8
+8. Ch4 gh6 9. Ch1 Rg8 10. Ca1 Rb9 11. Cg1 Rh8 12. Ef3 c5 13. ab3 Ke9 14.
+Ra4 Ra8 15. Rxa8 Hxa8 16. Exh6 ixh6 17. Ri9 Hc7 18. Rxh9 Ae8 19. Cg7 Ch5
+20. Rxh6 Cb5 21. Rxf6 Ra9 22. Ha3 Cbe5 23. Cg1 b5 24. Rxf7 Axf7 25. Cg9+
+Ae8 26. Cxa9 cd5 27. Ca1 Ca7 28. g5 Cee7 29. g6 Exc3 30. bxc3 Kd9 31. gf6
+Aff8 32. Cf1 Ce9 33. Ke0 Cd7 34. Afe1 Cf9 35. Cc1 bc5 36. fg6 Hb9 37. h4
+Hd8 38. hg4 Cf3 39. gf6 Cc9 40. g5 Cf9 41. g6 d4 42. dxd4 Cxc3 43. Eh5 Cc6
+44. Exf8 Axf8 45. He4 Ae8 46. dc4 Cxc4 47. Hxc5 Cc6 48. Hb5 Hb9 49. He6
+Cxf6 50. Hec7+ Hxc7 51. Hxc7+ Kd8 52. gxf6
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "8강"]
+[White "귀마 김권윤"]
+[Black "원앙마 이래원"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. Ef3 Cf7 5. g4 Ad8 6. ih3 Cd9 7. cd3 c5
+8. Hf2 ef6 9. Af1 Ke9 10. Kf0 Afe8 11. Ade1 Hge6 12. Ce0 Rb9 13. b4 Ca7 14.
+Ea3 ab6 15. Rb0 Ea6 16. Cg0 Ce7 17. Cd2 b5 18. Cc0 Cb7 19. Ra0 bxb4 20. e4
+Ce7 21. Exc5 Add7 22. Hd4 Hxc5 23. Cxc7 Hxe4 24. Hxe4 Exd4 25. Cxd4 Rb7 26.
+Rc0 Rxc7 27. Rxc7 Cxc7 28. Ec6 Aed8 29. g5 Ce7 30. gxg6 fxg6 31. Cd0 Ae8
+32. Hf2 Ri7 33. Ri4 Ee6 34. Cd6 i5 35. Rg4 gf6 36. Cxf6 ih5 37. Rg0 Ri6 38.
+Cd6 Eh8 39. Cd0 Rxc6 40. Rg8 Ef5 41. Cxd8 Rc0+ 42. Cd0 Ec7 43. Rg4 bc4 44.
+Rg6 Cf9 45. Rc6 Ef5 46. Rc5 hg5 47. hg3 Af7 48. He4 Ae8 49. Hxg5 Eh8+ 50.
+gf3 Rc2 51. He4 Cxe1 52. Kxe1 Rc1+ 53. Ke0 Rxf1 54. Hg5 Rf2 55. Re5 Cd9 56.
+Re1 Rg2 57. He4 Rg8 58. Hf6 Cf7 59. Hd7+ Kf9 60. He5 Ef5 61. Cf0 Rg5 62.
+Hxc4 Eh2+ 63. Kd0 Rg0 64. Hd6 Rxf0+ 65. Rxf0 Cxf0 66. fg3 Kf8 67. gh3 Cf9
+68. de3 Cd7+ 69. Hc4 Cf9 70. He5 Cf7 71. Hg4 Cd9 72. Hxh2
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "8강"]
+[White "원앙마 성우제"]
+[Black "귀마 최성우"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hg2 Ce7 3. Hc2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Hf7 7. ef3
+ih6 8. He3 Ra5 9. Ke0 Ef6 10. Afe1 Af8 11. Add1 Kf9 12. f4 Rh5 13. Cf0 Ade8
+14. f5 Rh1 15. Ri2 Rg1 16. Rg2 Rxg2 17. Hxg2 cd6 18. Hce3 Ce9 19. cd3 Cg9
+20. g4 Ea6 21. bc3 b5 22. Ea3 Ce7 23. Cc0 Cb7 24. Ra0 Hb9 25. Cf0 Ch7 26.
+Rb0 Ed8 27. c4 Hc7 28. d4 Ea6 29. Ci2 Rh9 30. Cc2 Cb9 31. Ra0 Exd4 32. cxd4
+Cg9 33. dc4 Hb9 34. Rb0 Ha7 35. Ch2 Cb9 36. Ra0 Cg9 37. Ec0 Hb9 38. Ra8 Hc7
+39. Rc8 Ri9 40. Cc2 Hd5 41. cd4 Hb6 42. Rb8 dc6 43. Ci2 Rh9 44. Ce2 ed6 45.
+fxf6 gxf6 46. Hf4 de6 47. Hed5 bc5 48. Hxf6 exf6 49. Cxf6 Ce7 50. Ege3 Ha4
+51. Rb4 Hb6 52. Exc6 Hc8 53. Cf0 Ri9 54. ih3 Ri5 55. Ea3 Re5 56. Add2 Re3
+57. d5 Rxa3 58. dxc5 Rxh3 59. Rb8 Hd6 60. cd5 Rg3 61. dxd6 Rxg4 62. de6 Ce4
+63. ef6 Hd6 64. He6 Rg0 65. f7
+{Black resigns} 1-0
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "결승 1국"]
+[White "귀마 김경중"]
+[Black "귀마 송종일"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ef6 6. Ef3 Che7 7. Ce2
+Rb8 8. ed3 Ri8 9. Ee3 gh6 10. Exc6 bxc6 11. Ra6 cd6 12. Exd6 exd6 13. He3
+Rd8 14. Hf5 Ci7 15. Rh0 Rg8 16. Hf2 Af8 17. Ra7 Hb5 18. Ra9 Rc8 19. He4+
+Kf9 20. Rg0 Ci5 21. Rg2 Ce5 22. Cf2 de6 23. Af1 Cg7 24. Ri2 Cg9 25. Cf0
+Ade8 26. Cc0 Rd8 27. Hxh6 Hxh6 28. Rxi6 Hi8 29. Cg0 Rh8 30. Rg6 Rh9 31. Hc5
+Hc7 32. Hxe6 Hxe6 33. Rxf6 Hc7 34. Rf5 Rd5 35. d4 Rxd4 36. Rxe5 Ce9 37.
+Rxc9 Hd9 38. Rec5 Cxc9 39. Rxc9 Rh6 40. Cb0 Rhd6 41. cd3 Rxd3 42. Rc0 Rd2+
+43. Ke0 Rxe2+ 44. Ade1 Rb2 45. bc3 Rc6 46. Cd0 Ra2 47. Cf0 Ke9 48. c4 Ra5
+49. gf3 He7 50. hg3 Hc8 51. Cd0 Hb6 52. Rb0 Hxc4 53. Rb7 Hh6 54. Ad1 Re6+
+55. Afe1 Ra9 56. Kf0 Hf5 57. Ri7 Rh6 58. Ri9+ Aff9 59. Ri2 Ra0 60. Ke0 Ha3
+61. Rb2 He7 62. Rb3 Rh5 63. Rb9+ Ad9 64. Ra9 Re5 65. Kf0 Ae8 66. Ra4 Ri5
+67. Ke0 Ri0+ 68. Af0 Ra1 69. Ae1 Hf5 70. Rf4 Hc2 71. Re4 Hfd4 72. -- Ra0
+73. Ad1 Rc0 74. -- Ra0 75. -- Hxd0 76. Rxd4 Hb1+ 77. Ad0 Ri4 78. fe3 Rxd4
+{White resigns} 0-1
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "결승 2국"]
+[White "원앙마 송종일"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. Hg2 Ef6 5. ef3 gh6 6. g4 Rg9 7. f4 cd6
+8. Cf2 Hd5 9. Ri2 Af8 10. Ad1 Kf9 11. Cd0 Ade8 12. c4 Hb6 13. Hge3 Ce9 14.
+f5 Ca7 15. Rb0 Ei8 16. ih3 Hxc4 17. Hxc4 Rxg4 18. H4e3 Rg1+ 19. Ke0 Rxg0
+20. Rg2 Rxg2 21. Hxg2 hg6 22. Hh4 ih6 23. b4 Ra8 24. bc4 Rc8 25. He3 Ch7
+26. Rb5 Ch5 27. Rb1 Cxh3 28. Afe1 h5 29. Hf3 Cxe3 30. Exe3 Rxc4 31. Hh2 hg5
+32. Rb5 ab6 33. Ra5 Rf4 34. fxg5 Exg5 35. Exg6 Exe2 36. Axe2 ef6 37. Ei3
+Cxe2 38. Rg5 Ce9+ 39. Ae1 Ee6 40. Cf0 Ec3+ 41. Kd0 Rd4+ 42. Ad1 Re4 43. Cc0
+Re2 44. Hg0 Re3 45. Ri5 bc6 46. He1 Ea6 47. Ri4 d5 48. Eg0 Re2 49. Rf4 Ed4
+50. Rxf6 Ea2+ 51. Ke0 c5 52. Cf0 Ce5 53. Cxf7+ Afxf7 54. Kf0 d4 55. Rg6
+Rf2#
+{Black mates} 0-1
+
+[Event "제6회 명인전"]
+[Site ""]
+[Date "1995년"]
+[Round "4강"]
+[White "원앙마 성우제"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{김경중 二단이라는 신예 기사를 원앙마 공격형 기풍의 성우제 五단이 가로막았다.}
+1. ab3
+{김경중 二단은 명인(名人)이 되겠다는 신인답지 않은 꿈을 꾸고 있었고}
+1... Hc7
+{성우제 五단도 명인의 꿈을 꾸고 있었다.}
+2. Hg2
+{이 경기는 인천지회에서 열렸고}
+2... Ce7
+{일간스포츠배로 치러졌다.}
+3. Hc2
+{성우제 五단은 원앙마 공격형 기풍이었지만 지금은 귀마 공격형 기풍이다.}
+3... Hf7
+{김경중 二단은 예나 이제나 귀마 공격형이다.}
+4. Che2
+{성우제 五단은 변형 원앙마를 차리려 하고}
+4... Ef6
+{김경중 二단은 귀윗상을 내보내었다.
+
+참고로 제1회 국수전 결승전에서 김경만 九단은 이양근 三단을 상대로 중앙상을 내보내어 원앙마를 부순 바 있다.}
+5. Cd2
+{성우제 五단이 쥐포...아니 귀포를 놓았다.}
+5... gh6
+{한편 다른 조에서는 이남춘 프로와 김권윤 프로가 역시 격전을 치르고 있었다.}
+6. ef3
+{지금부터는 모범적인 성우제 五단의 원앙마를 감상하도록 하자.}
+6... Rg9
+{김경중 二단은 차를 2칸 안으로 당겼고}
+7. He3
+{성우제 五단은 신속하게 원앙마를 차렸다.}
+7... cd6
+{한에서 합병하여 수비를 하고}
+8. Ke0
+{초에서도 안궁을 한다.}
+8... Af8
+{한에서도 궁수비를 갖출 듯하다.}
+9. Afe1
+{초에서 우사를 닫고}
+9... Kf9
+{한에서도 우안궁을 했다.}
+10. Cf0
+{초에서 귀포를 아래로 넘기고}
+10... Ade8
+{한에서는 좌사를 닫았다.}
+11. Ra4
+{초에서는 차를 내보냈다.}
+11... Ce9
+{여기까지는 서로 평온하기 그지없는 흐름이다.}
+12. Rg4
+{그런데 초에서 먼저 차대를 청했다.}
+12... ab6
+{한에서는 차대를 받기 앞서서 좌변병을 열었고}
+13. Rxg9+
+{초에서 먼저 차대를 했다.}
+13... Cxg9
+{초에서 먼저 차대를 청하는 것은 이례적인데, 졸을 밀어올리는 수가 한차에 의해 방해받고 있다고 생각한 것일까.}
+14. g4
+{이제야 졸이 올라간다.}
+14... Ea6
+{한에서는 좌변상을 내보내고}
+15. f4
+{초에서는 본격적인 압박붕대...아니 압박장기를 시도한다.}
+15... Cc9
+{한에서는 양득을 노린다.}
+16. f5
+{양득이 되건 말건 초에서는 졸을 올려 상머리를 눌렀다.}
+16... Exc3
+{양득을 당하는 것은 매우 기분이 나쁜데...초에서는 어떤 작전일까?}
+17. bxc3
+{당장은 한에서 기분이 좋다.}
+17... Cxc3
+{한에서 지금까지 둔 진행은 후수 귀마의 전형적인 선수 원앙마 대처법이다.}
+18. Ea3
+{이후 한의 역습을 기대하시라.}
+18... Cc9
+{한포가 뒤로 넘고}
+19. gf4
+{초에서는 졸을 당겼다.}
+19... hg6
+{한에서도 병을 당겨서 중앙을 지키려는 것 같다.}
+20. ih3
+{한에서도 우변병을 마저 열 것이다.}
+20... ih6
+{원앙마 포진에서 졸은 상대방을 압박하는 중요한 기물이다.
+
+성우제 五단은 3졸, 김경중 二단은 5병이 있다.}
+21. hg3
+{어디까지 압박이 가능할 지 궁금해지는데..}
+21... Hb5
+{한의 고전적인 대응법은 저렇게 마가 나가서 초의 면포를 노리는 것.}
+22. Ca2
+{면포가 걸리기 전에 먼저 한차를 씌웠다.}
+22... Rb9
+{한차가 당연히 피했고}
+23. Add1
+{초에서는 좌사를 올렸다.}
+23... Hc3
+{좌사를 올린 까닭은 초의 하포를 좌진으로 넘겨서 한차 등을 견제코자 함일 것이다.
+
+실전은 한마가 한 수 빠르다.}
+24. Cg2
+{초포가 우진으로 피신}
+24... bc6
+{한에서는 차길이 열렸다.}
+25. g4
+{한의 5병이 참 튼튼해보이는 가운데}
+25... Ce7
+{면포까지 놓였다.}
+26. Ei3
+{초에서는 한에서 방어가 완성되어 기분이 상쾌하지 못하다.}
+26... Rb3
+{그리고 면까지 불안하니..}
+27. Exg6
+{일단 양득하고 보는 성우제 五단}
+27... hxg6
+{주의: 양득 이후에는 후수가 됨}
+28. Cxg6
+{한의 이후 진행이 매우 기대된다.}
+28... Hb5
+{지난 16년 동안 장기를 연구해온 달인 김병마() 선생의 수를 보도록 하자.}
+29. Ec0
+{상이 후퇴하는 수 치고 좋은 수는 없다.
+
+알고도 당하는 전형적 모양이다.}
+29... Rb1
+{원앙마 두는 입장에서 이 수는 참 귀찮다.}
+30. Cg1
+{당장은 초포를 중포로 놓아 방어가 되는 것 처럼 보이지만}
+30... Ke9
+{후방에 있는 한포가 가세하면 곤란해진다.}
+31. fxf6
+{초에서는 졸 1개로 병과 상을 잡는 수를 두고 있다. 그러나 그 수가 꼭 도움이 되는 것은 아니다.}
+31... exf6
+{지금 초에서는}
+32. Cxf6
+{방어가 안 되고 있다.}
+32... Rc1
+{한차를 끼우니 초마나 초상 중 하나는 죽게 되었다.}
+33. Kf0
+{성우제 五단은 초마를 살리고}
+33... Rxc0+
+{초상을 죽였다.}
+34. Add0
+{저 수도 불만이다. 초의 양 마가 떨어진다.}
+34... Cxc2
+{걷잡을 수 없이 초의 좌진이 깨지고 있다.}
+35. Ri9+
+{초에서는 으로 한 수 벌지만 그뿐이다.}
+35... Aff9
+{초에서 지금 뛰는 기물은 중앙마 정도}
+36. Hxc2
+{그나마 그 중앙마도 자결을 결심했다.}
+36... Rxc2
+{한에는 양마가 있고 초에는 양마가 없으며,  대신 양포가 있는데 위치가 좋지 않다.
+
+따라서 초에서는 한마를 하나 정도는 잡아 두어야 한다.}
+37. Ri5
+{물론 발 없는 마()가 천 리를 가는 법이다.
+잡힐 리 없다.}
+37... Hc7
+{가만히 뒤로 빠지니 더 진행이 안 된다.}
+38. Cd1
+{초에서는 이번에 양포를 활용하려고 한다.}
+38... Rh2
+{한에서는 차를 써서 초의 작전을 어렵게 하려고 하고 있다.}
+39. Ra5
+{성우제 五단은 초차를 좌변으로 빼 구실을 찾으려 하고
+}
+39... Hh6
+{김경중 二단은 귀마를 뽑아들었다.}
+40. Ra9+
+{초차가 한궁을 부르는 손길이 매섭다.}
+40... Hd9
+{한궁은 그 손길을 거부했다.}
+41. Cxd9
+{성우제 五단은 아예 포로 마를 잡아버렸다.}
+41... Rh0+
+{포를 잡기에 앞서서 먼저 장군을 부르는 김경중 二단}
+42. Kf1
+{초궁도 한차의 손길을 거부하고 있다.}
+42... Axd9
+{성우제 九단은 빅을 노리는 것 같다. 여기서 마포대가 된다면 서로 완승은 어렵다.}
+43. Ra7
+{일단 초차가 한포를 걸고}
+43... Afe8
+{한에서는 포를 지켰다.}
+44. Ra3
+{초에서는 별 수 없이 초차를 뒤로 빼고}
+44... Hi4
+{한에서는 마가 전진했다.}
+45. Ri3
+{초차를 뒤로 뺀 까닭은 이렇게 막는 수를 두기 위함이지만}
+45... Hh6
+{뒤집힐 판세는 아니다.}
+46. Ri6
+{다시 한마를 견제}
+46... Af9
+{한에서는 궁성을 좀 정리한 후 한마를 사용할 방법을 찾을 것이다.}
+47. Ri7
+{초 입장에서는 마음이 불편하다.}
+47... Ade8
+{초차가 한마와 한차를 묶는 수가 있는데 김경중 二단은 어떻게 대응할 것인가?}
+48. Rh7
+{일단 묶는 것은 좋은 수이다.}
+48... Rh2
+{그러나 한에서는 묶인 것을 풀기 위해 차대를 청할 것 같다.}
+49. Cxc6
+{초에서는 악착같이 빅을 보려고 하고}
+49... dxc6
+{한에서는 아직 기물이 많다.}
+50. g5
+{최후에 웃는 자는 누구일까..}
+50... Rh1+
+{한에서는 먼저 장군을 불렀다.}
+51. Kf0
+{궁이 내려가니}
+51... Rh3
+{한차가 4선으로 갔다.
+
+장군을 불러 묶인 것을 풀자는 뜻이다.}
+52. Af1
+{그걸 알기에 초에서도 미리 사로 막았지만}
+52... Rd3
+{이렇게 빠지니 결국 묶인 것이 풀린다.}
+53. Afe1
+{그리고 졸이 걱정된다.}
+53... Hf7
+{선수로 차와 졸이 걸려서는 가망이 없다.}
+54. Rh5
+{결국 졸 1개의 희생이 확정되었다.}
+54... Rf3+
+{초에서는 앞으로 얼마나 더 버티느냐가 문제일 뿐 패국을 피할 수 없다.}
+55. Af1
+{김경중 二단은 이 대국을 이겨서 도전자 결정전에 진출하게 된다.}
+55... Rxf4
+{-이후 장황설은 생략함-}
+56. gf5 cd6 57. Ri5 Kd9 58. Ae1 Ce9 59. Aff2 Rh4 60. f6 Hh6 61. Rg5 Hg4 62.
+Aee2 Ad8 63. Afe1 Afe8 64. A1f2 Add7 65. Afe1 Rh0+ 66. Kf1 He3 67. Rg3 Hd5
+68. Rg6 Hf4 69. Rg4 Hd5 70. Rg6 Cc9 71. A1f2 Cf9 72. f7 Hf4 73. Rg3 Rh1+
+74. Kf0 Hxe2+ 75. Ke0 Rh0+ 76. Ke1 Rf0+ 77. Kd1 Rd0#
+{Black mates} 0-1
+

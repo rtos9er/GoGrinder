@@ -1,0 +1,1423 @@
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "귀마 박선양"]
+[Black "귀마 채희종"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hf7 4. ed3+ Ce7 5. Ef3 ef6 6. Ke0 Ee6 7. Ra1
+Hd8 8. He3 Kf8 9. Rai1 Rg5 10. Rxi6 Rxi6 11. Rxi6 Exg3+ 12. hxg3 Afe8 13.
+Ri3 Ce9 14. Hf2 Kf9 15. ab3 Ra5 16. Afe1 Ee7 17. Kf0 Eb9 18. Ce0 cd6 19.
+Cd2 de6 20. Add1 e5 21. g4 Ed6 22. Ei5 Exb3 23. g5 gxg5 24. Exf7 Axf7 25.
+cxb3 Cxb3 26. Ri6 Cb8 27. Rxf6 Cf8 28. Rxb6 e4 29. Hf1 ef4 30. de3 Ade8 31.
+Cd0 g4 32. Rg6 He6 33. Hxg4 fxg4 34. Rxg4 Hg5 35. Cf2 Cg9 36. Rh4 Ce9 37.
+Hh2 Ra1 38. Rg4 He6 39. ef3 Hc5 40. Ee3 Ra6 41. Rg6 Ra4 42. Ec6 Ad8 43.
+Exf8 Axf8 44. Cxf8
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "귀마 서영현"]
+[Black "귀마 이은성"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Kf8 8. Ra1 Ra5 9. Ade1 Afe8 10. Ca2 Rg5 11. g4 Ri5 12. Rxi5 ixi5 13. ab3
+Ce9 14. Ca0 i4 15. Ra5 Kf9 16. Ef3 i3 17. Rh5 ixh3 18. Rxh3 Cg7 19. gf4 Ri4
+20. fe4 Eg3+ 21. Kd0 Cd7+ 22. Cd2 Ei6 23. ed4 Ee7 24. Ce0 Eg4 25. Ad1 Ed6
+26. Exd6 cxd6 27. Cb2 Hc7 28. Cxb6 d5 29. dc4 -- 30. Cb2 Ef4 31. Ce2 Ha6
+32. Afe1 Ri5 33. Rh4 f5 34. Cb0 g5 35. Cf0 de5 36. cd4 Ri0 37. Ke0 Hb8 38.
+b4 Hc6 39. Exc6 Exc6 40. bc4 Ef8 41. c5 Ri3 42. cd5 exd5 43. dxd5 Add8 44.
+He3 Cd9 45. Rh3 Rxh3 46. Hxh3 Cxe3 47. dxe3 Cxd5 48. Hi5 Ei6 49. Cf6+ Ke9
+50. ef3+ Kd9 51. Hg6 Eg9 52. fe3 Add7 53. Cf0 Hh6 54. Cd0 Cd8 55. c4 Hg4
+56. e4 Ei6 57. Af1 Cxd1 58. cd4 Hh2 59. Af2 Hg4 60. Ke1 Cd6 61. d5 Cd8 62.
+Cd6 Ef8 63. dc5 He3 64. c6 Hc4 65. Ch6 Hb2 66. c7 Hd3+ 67. Kf1 f4 68. cxd7
+Axd7 69. exf4 Hxf4 70. Hxf8+ Ke8 71. He6+ Hxe2 72. Axe2 g4
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 차선균"]
+[Black "귀마 고승원"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 gf6 6. Ra1 Ke9 7. Hf2
+f5 8. Ke0 Ra8 9. g4 Ef6 10. gf4 fe5 11. Eg6+ Cg7 12. Rai1 Rai8 13. Ch4 Rh9
+14. Ch1 Rhi9 15. Ci2 Exh3 16. Cxi8 Rxi8 17. Rxi6 Rf8 18. Ri8 Exf0 19. Kxf0
+Cg2 20. Rxf8 Axf8 21. He3 Cd2 22. Ad1 Cd6 23. Ri9+ Ke8 24. Ei3 Cf6 25. Ke1
+Hd6 26. Ee2 Cf9 27. Ri4 b5 28. ab3 Ce7 29. Ad2 e4 30. fxe4 Cxf2 31. Kxf2
+Hxe4 32. Ke1 Hg3 33. Rh4 e5 34. Cc1 Ee6 35. Rh3 e4 36. Hg4 bc5 37. Kd1 Cb7
+38. He5 Ce7 39. Hxc6 Hxe2 40. Axe2
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(A조)"]
+[White "귀마 김현기"]
+[Black "귀마 김시현"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "57"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ri1 ed6 6. He3 Ee6 7. Hf5
+Ce5 8. g4 Ke9 9. f4 h5 10. Ed3 Rf8 11. fe4 Ce8 12. gf4 Eh4 13. Hxh4 hxh4
+14. Rg1 Hi7 15. Ke0 Cc7 16. Rga1 cb6 17. Exb6 d5 18. Hd2 Cg7 19. Exd9 Kxd9
+20. Rxa6 Cxg0+ 21. Ke1 Rxa6 22. Rxa6 d4 23. Cxb9 dxe4 24. fxe4 Cxd0 25.
+Cxf9 Cf2 26. Cf4 Ce3 27. Hc4 Ce7 28. Ra9+ Ke8 29. Ra8+
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(A조)"]
+[White "귀마 박선양"]
+[Black "귀마 이한울"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ ef6 5. Ef3 Kf8 6. Ke0 Ee6 7. Ra1
+Rg5 8. Rg1 Cg7 9. Rg2 Exg3 10. Cf2 Ri5 11. Rxi5 ixi5 12. Cxf6+ gxf6 13.
+Rxg3 Cxg0+ 14. Rxg0 Afe8 15. Rg7 Ri7 16. Afe1 ih5 17. Cb2 Hbd8 18. Cf2 Kf9
+19. Cxf6+ Ke9 20. Cf0 He6 21. Rg6 Heg5 22. hg3 Ce7+ 23. Ee3 Rg7 24. Rh6 Rh7
+25. Rxh7 Hxh7 26. Ad1 hg5 27. Kd0 Af8 28. ab3 Ade8 29. c4 Ef6 30. Hd4 Exd3
+31. bc3 He5 32. cxd3 cd6 33. c5 Hi5 34. Cd2 g4 35. gxg4 Hixg4 36. Hf5 Hxf3
+37. Hxd6 Hge5 38. Hc8+ Kf9 39. Hxb6 Hxd3 40. cd5 Hb4 41. Hc4 Ce9 42. Cf0
+Hc2+ 43. Ke0 Cxe3+ 44. Af2 Ce9+ 45. Ade1 Hxe1 46. Axe1 Cxe1 47. He5 Ce7+
+48. Hxf3 Ce9+ 49. He5+ Af7+ 50. Hxf7 Ke8+ 51. He5
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(A조)"]
+[White "귀마 서영현"]
+[Black "귀마 김희상"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. ab3 Ra7 3. Hc2 ab6 4. Rxa7 Hxa7 5. Ce2 Kf8 6. Ri4 Afe8 7. ed3
+Cg7 8. Ee3 ef6 9. Hf2 Ce7 10. Ra4 Ce9 11. Ca2 Hb9 12. Kd1 Ee6 13. Ade1 ih6
+14. g4 Kf9 15. Cad2 Hbd8 16. Ra5 Cd7 17. Ef3 Cg9 18. c4 Af8 19. Hd4 Ch7 20.
+Exc6 bxc6 21. Ra6 Cxg4 22. Hxc6 Cg9 23. Hxd8+ Axd8 24. Ra8 Ade8 25. Ec5 Cd7
+26. b4 Ce9 27. cd4 Hd8 28. d5 Ri5 29. d6 Cd9 30. Exe8 Axe8 31. dxe6 Hxe6
+32. Ce2 Ce7 33. bc4 Rb5 34. Ce0 Rb0 35. hg3 Rb5 36. g4 Ke9 37. Ra6 Cf9 38.
+Cxe6 Rb1+ 39. Kd0 Rb0+ 40. Kd1 Rb1+ 41. Kd0 Rb0+ 42. Kd1
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(B조)"]
+[White "귀마 김준호"]
+[Black "귀마 우창균"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Hf2 Ce7 4. Ee2 Hf7 5. Ke0 Af8 6. Ade1 Ce9 7. Cd2
+ih6 8. Rxi9 Cxi9 9. Ca2 Ea6 10. ab3 Exc3 11. bxc3 Ra5 12. Ea3 Ri5 13. Ch4
+Ef6 14. g4 g5 15. Ch0 Ri0 16. Ch4 Ri5 17. Ra1 gxg4 18. Hxg4 Rg5 19. hg3 cd6
+20. cd3 Kf9 21. Cd2 Ade8 22. Aff1 Cc9 23. Hb0 Cd7 24. Hd1 Ra5 25. Cd0 h5
+26. Cf4 hg5 27. Hi3 Hb5 28. Rc1 dc6 29. Ra1 Rxa3 30. Rxa3 Hxa3 31. e4 cd6
+32. d4 bc6 33. Cxf7+ Afxf7 34. Exg5 Cg7 35. g4 Ke9 36. gf4 Ce7 37. Hh5 Hc2
+38. Ci0 Hxd4 39. exd4 Eh3 40. Hg3 Cf9 41. de4 ef6 42. Ee2 Cd9 43. Cd0 fg6
+44. Cg0 gf6 45. Hc3 Cg9 46. Aff2 Cc9 47. Hb5 Cg9 48. Hc3 Cc9 49. Hd1 Cg9
+50. Hb2 Cg7 51. Hh5 Cd7 52. Hc4 fe6 53. f5 Cc9 54. He3 Ccf9 55. ef4 ef6 56.
+Hg3 fxf5 57. fxf5 de6 58. Cg5 Ch7 59. Hg4 Cc7 60. Hi5 Cc3 61. He4 Cc8 62.
+Hg3 Cc3 63. He4 Cc7 64. Hxh3 Cxf5 65. Eb4 e5 66. Hg3 Cf8 67. Cg2 c5 68. Ce2
+Kd9 69. Ed1 c4 70. Hg5 ef5 71. Hi6 f4 72. Hh5 f3 73. Aff1 Cc1 74. Hh4 fe3
+75. Ce5 e2 76. Axe2 Ccxf1 77. Ce1 Cd8 78. Hf5 Aff8 79. Hd6 cd4 80. Ef4 Aff9
+81. Hb5 Cff8 82. Hxd4
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(B조)"]
+[White "귀마 최진호"]
+[Black "귀마 노영주"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Ri8 9. Ef3 Rg5 10. Rg1 gh6 11. Afe1 Ke9 12. g4 Rgg8 13. Add1
+Ade8 14. Kd0 Hb9 15. Ce0 Hd8 16. Cd2 Ce5 17. Cc0 Cc7 18. ab3 Ci7 19. Rh0 f5
+20. Ccf0 f4 21. Cg2 Rxg4 22. Ei5 f3 23. Cxf3 Hg5 24. Cf0 Ri4 25. Ef3 Hf7
+26. Cg0 Ci9 27. Rh2 Ce7 28. Rhg2 Aff8 29. Rg4 Rxg4 30. Rxg4 Ri7 31. Cd2 He5
+32. Ra4 Cf9 33. hg3 Hxd3 34. cxd3 Exg3 35. Rg4 Ei0 36. Exh6 ixh6 37. Hh3
+Ef6 38. Hb4 Cd9 39. bc3 b5 40. Hc2 c5 41. Cc0 Exd3 42. cxd3 Cxd3 43. Hg1
+Ri3 44. Rg9+ Aff9 45. Eh1 Eg3 46. Hd4 Exd1 47. Hf5 Ea3 48. Ce0 Ri2 49. Ae2
+Ri7 50. Rg3 Cd9 51. Rxa3 Rf7 52. Hxh6 Rf1 53. Rg3 Hb7 54. Ae1 Rf8 55. Hf3
+Hd6 56. He5 Rh8 57. Rg6 Hf5 58. Hg8+ Aff8 59. Ef4 cd5 60. Hf3 d4 61. Ec6+
+Kf9 62. He5 Rh1 63. Ce2 He3 64. Ke0 Hc2 65. Cf0+ Af7 66. Af2 Rh2 67. Rd6
+A8e8 68. Cf6+ Af8 69. Rxd9#
+{White mates} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "준결승전(A조)"]
+[White "귀마 김현기"]
+[Black "귀마 양승태"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "170"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ad1 Ra5 7. Kd0
+Af8 8. Afe1 Kf9 9. Ca2 Ri5 10. Rxi5 ixi5 11. Cd2 Ade8 12. ab3 Ce9 13. Ra5
+i4 14. Cf0 i3 15. Hf2 i2 16. Ch4 Ee6 17. g4 cd6 18. Ef3 d5 19. Ce4 f5 20.
+Ce2 Ri4 21. Ra4 b5 22. gh4 Ri6 23. hi4 b4 24. i5 bxa4 25. ixi6 Ch2 26. Hg0
+Hg5 27. Cxf5+ gf6 28. Cf0 Hxf3 29. Af2 Hg5 30. Hxh2 ixh2 31. Cxh2 Hxh3 32.
+Ade1 Hi5 33. Eh5 Cg9 34. Cxh9 Cd9 35. Cxf6+ Ke9 36. Ch2 Hh3 37. Cf1 Aff7
+38. Ce2 de5+ 39. Ke0 Eh4 40. Cg2 Hi1 41. Cd2 Exf1 42. Afxf1 Hh3 43. Cf0 He6
+44. Ef2 Cf9 45. Ca0 Ca9 46. Kd0 e4 47. ih6 Kd9 48. hg6 Hef4 49. gf6 Aff8
+50. Ce0 Hg5 51. c4 Cf9 52. de3 ed4 53. cxd4 Hfh3 54. Ca0 Cxf6 55. Ha1 Cf9
+56. Cxa4 Cd7+ 57. Ke0 Cf9 58. Ca0 He6 59. de4 Cc9 60. Cf0 Hi5 61. bc3 Hc5
+62. cd3 Hg6 63. Kd0 Ke9 64. ed4 Aff7 65. Ec0 Hh4 66. Ea3 Cf9 67. Ec6+ Kd9
+68. Cd2 Ad8 69. Hc2 Ke8 70. Hb4 He6 71. Hd5 Hg6 72. Ea3 Hc5 73. Ed1 Hb3 74.
+Cf0 Ha1 75. Hb4 Hh4 76. Ea3 Cf4 77. d5 Ci4 78. Cf4 Hg2 79. Ca4 Hb3 80. Aff2
+Hi3 81. dc3 Hc1 82. Cc4 Ha0 83. Ca4 Hb2 84. Ce4 Hg4 85. ed3 Kf9
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "3·4위 결정전"]
+[White "귀마 차선균"]
+[Black "귀마 양승태"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ke9 7. Ch4
+Ra8 8. Ch1 Rii8 9. Cc1 He6 10. Ef3 f5 11. Rb0 g5 12. Rb4 ih6 13. Rxi8 Rxi8
+14. Exc6+ bxc6 15. He3 Hf4 16. Cxc6 Rc8 17. Rb6 He5 18. Cxe5 fxe5 19. Kf1
+Ri8 20. Cc1 Ee6 21. d4 h5 22. Afe1 Ef6 23. Cc4 Ri1+ 24. Kf0 Ri0+ 25. Kf1
+Ri4 26. Cxf4 Rxf4 27. Rxe6 Afe8 28. Rxe5 Kf9 29. Hd5 Exh3 30. Rxg5 Ri4 31.
+Rg9+ Kf8 32. gxh3 Rxd4 33. Hxe7 Axe7 34. Rh9 Cd7 35. Rh8+ Kf7 36. Rxh5 Rf4
+37. Ec5+ Kf8 38. hg3
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "결승 2회전"]
+[White "귀마 최진호"]
+[Black "귀마 김현기"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "51"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Kd0 Kf8 9. Afe1 Afe8 10. Cg2 Ce9 11. Exg6 fxg6 12. Cxg6 Cd7 13. Cg0
+Exc3 14. Ef3 Ef6 15. ab3 Rxa0+ 16. Cxa0 Exd3 17. Cd2 Ee6 18. Hxd3 Kf9 19.
+Caf0 Cb9 20. Hf4 cd6 21. Hg6 Cxb3 22. Exd6+ Hxd6 23. Hf4+ Ke9 24. Hxe6 Cb9
+25. Cc0 Hcb5 26. Cc9+
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "귀마 장성주"]
+[Black "원앙마 김진현"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hd2 Hc7 3. Ed3 Cbe7 4. Ce2 ed6 5. ef3 Hce6 6. Ri4 Cf7 7. ab3
+d5 8. Hg2 d4 9. Ee3 Ce4 10. c4 i5 11. Rh4 ih5 12. Rxh5 Ri1+ 13. Ke0 Rg1 14.
+Ade1 Cxf0 15. Kxf0 Rg0+ 16. Kf1 Rxa0 17. cxd4 Ce7 18. Rh8+ Af8 19. Cf2 gf6
+20. Exc6 Ra7 21. Eg5+ Kd8 22. Rxf8+ Ae8 23. Rxf6 Rc7 24. Cd0 Rxd0 25. Axd0
+Rxc6 26. de4 Rc1+ 27. Ae1 Rc5 28. Exe8 Kxe8 29. b4 Ei6 30. He3 Exg3 31.
+hxg3 Rh5 32. e5 Cxe5 33. Hdc4 Ce7 34. Hd6+ Kd7 35. Cxe6 Rh1+ 36. Kf0 Hxe6
+37. Rf9+
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "귀마 김희상"]
+[Black "원앙마 최창문"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "158"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. ab3 ih6 4. Rh0 Hc7 5. ef3 ed6 6. Ee3 Ke9 7. Ra4
+Hge6 8. Rc4 Cd7 9. Ed3 Cd5 10. Exg6+ hxg6 11. Rg4 Ri6 12. Rh9 g5 13. Exg5
+Rg6 14. Ed3 Rxg4 15. gxg4 Hd4 16. Rh3 Ade8 17. Hf4 Ei6 18. Hxd5 dxd5 19. c4
+Hf5 20. Rh5 de5 21. gf4 Hg7 22. Rxe5 Hce6 23. Ri5 Exf4 24. Cb4 Ei6 25. Ci4
+Eg9 26. Ef6 ab6 27. Rg5 Af7 28. Hd2 Ra8 29. Ke0 Rh8 30. Rg2 Rh6 31. Ed3 Rh7
+32. Ade1 c5 33. cxc5 Hxc5 34. Ea1 A7e8 35. Ci1 Ea6 36. Cd1 Ee6 37. Rg4 b5
+38. Ra4 b4 39. Rxb4 Hd7 40. Rb9+ Hc9 41. Ra9 Rh6 42. Kd0 Eh4 43. Ra7 Rc6
+44. Ce0 He6 45. Ed3 Hc7 46. Ra9 Ef7 47. ih3 Aff8 48. hg3 Kf9 49. Cf1 Rd6
+50. Cd1 Rd8 51. Cc0 He6 52. Rxa6 Rc8 53. Ra0 Rc2 54. Ce0 Hc5 55. Rc0 Rxc0+
+56. Cxc0 H9d7 57. fe3 He5 58. gf3 Ei5 59. bc3 Ha4 60. cb3 Hb2 61. Ce0 Exf3
+62. exf3 Hexd3 63. Cf1 Aef7 64. Ce2 Ha0 65. fe3 Hc5 66. -- Ch7 67. -- Cd7+
+68. Ke0 Hb7 69. -- Hd6 70. bc3 Hf5 71. cd3 Hg3 72. Hb3 Cg7 73. Ca1 Cg0+ 74.
+Af1 Hi2 75. Kd0 Hh0 76. Ce0 Ci0 77. dc3 A8e8 78. ed3 Afe7 79. -- Ke9
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "이벤트 대국"]
+[White "귀마 임요섭(홍콩)"]
+[Black "원앙마 제나르도 크루즈(미국)"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "59"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Ef3 Hg7 3. Hf2 ab6 4. Hc2 Che7 5. Che2 ef6 6. ed3 Ege6 7. Ee3
+g5 8. Cd2 Cd7 9. Ri4 cd6 10. Exd6 Hf5 11. Ef3 Exg3 12. Rc4 Ca7 13. Rb0 Hd5
+14. Cxd5 fg6 15. Cd1 Ei0 16. Rc8+ Ke9 17. Rxb6 Afe8 18. Ec6+ Kf9 19. Exa9
+Exf2 20. Rxc9 Ce9 21. Cxd9 g4 22. Cd1 ih6 23. Exh6+ Kf8 24. Rxg6 Ri8 25.
+Rf6+ Af7 26. Rxf5 Ch7 27. Rxf2 Cxh3 28. Rxe9 Rg8 29. Cf1 g3 30. Ec6#
+{White mates} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "결승 1회전"]
+[White "귀마 김현기"]
+[Black "원앙마 최진호"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ef3 Hce6 6. Ri4 Ra7 7. ab3
+d5 8. Rb4 ih6 9. Ei3 d4 10. Eb0 Ke9 11. cd3 de4 12. Hd2 Cf7 13. Rb7 Rxb7
+14. Cxb7 cb6 15. Cb4 Ade8 16. Cb1 Ri5 17. Ra2 Cd9 18. Cg1 ef4 19. Rc2 fxf3
+20. gxf3 Hg5 21. Cg4 Ece6 22. de3 Ri7 23. Rc5 Aff8 24. Ke0 Eb8 25. Ade1
+H7e6 26. Rc8 Ed5 27. h4 gf6 28. Cg1 Hh3 29. Cd1 Rg7 30. Hh0 Eg3+ 31. Hf1
+E3i6 32. Ed3 f5 33. Kd0 f4 34. Rc4 Cf9 35. Ce0 Hi1 36. fxf4 Hxf4 37. ef3
+He6 38. Hg3 Hg2 39. Hf5 Cxf5 40. Rc9+ Ad9 41. Exf5 Ae8 42. Ec3 Hd4 43. Rc4
+Hc6 44. Cg1 Rf7 45. Rg4 Hi3 46. Rg3 Hh5 47. Rg5 Hd4 48. hxh5 Hxf3 49. Hxf3
+Rxf3 50. hxh6 Rxd3+ 51. Cd1 Rd6 52. hxi6 Exi6 53. Ef5 Rd3 54. Ed2 Rxb3 55.
+Ri5 Ef4 56. Ri9+ Af9 57. Cxd9 Ke8 58. Ri7 Kxd9 59. Rxe7 Af8 60. Re4 Rd3 61.
+Rxf4 Ae8 62. Rc4 Ad7 63. Ad1
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "맞상 송은미"]
+[Black "맞상 강공명"]
+[Result "1-0"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Ri4 ab6 3. Hf2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. Rd4 Hd7 7. Ef3
+Ra5 8. Hc2 g5 9. c4 Hf5 10. Rf4 i5 11. a4 Ra8 12. g4 ih5 13. gxg5 hxg5 14.
+Rh4 Ri8 15. Cbe2 Ke9 16. Ca2 Rag8 17. Che2 g4 18. Rh9 gf4 19. Ca9 Rf8 20.
+ab4 fxf3 21. exf3 Ra8 22. Rxa8 Rxa8 23. Cxd9 Ke8 24. Cd0 Ec3 25. Rh8+ Af8
+26. Ee3 Ed6 27. f4 Hd4 28. cxd4 Eb3 29. Eh5 Ce9 30. Exf8 Hxf8 31. He4+ fe6
+32. dc4 Exd0 33. Hxc3+ Kd9 34. Hxd0 cd6 35. Rg8 bc6 36. Hd1 Cb9 37. Rg7
+Cb0+ 38. Hxb0 Cxb0+ 39. Hc2 Cb8 40. Rf7+ Kd8 41. h4 Hd7 42. b5 cb6 43. bxb6
+Hxb6 44. cb4 Hd7 45. h5 Ra5 46. h6 Rc5 47. Hd4 d5 48. Hf5 ef6 49. Hh4 d4
+50. Hi6 d3 51. Kd0 Rc0+ 52. Kd1 Hc5 53. Ce0 Hb3 54. Rxf6 Rc1+ 55. Kd0 Rc7
+56. Rd6+ Rd7 57. Rxd7+ Kxd7 58. fe4 Ha1 59. bc4 Hc2+ 60. Kd1 Ha3 61. c5 Hb1
+{Black resigns} 1-0
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "귀마 강현배"]
+[Black "귀마 이한울"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Af8 7. Ra4 d5
+8. Ke0 Ed6 9. Ri1 cb6 10. Rc4 Ad8 11. Cb4 a5 12. Ra1 Ee6 13. Ed3 ab5 14.
+Rxa9 Rxa9 15. Ci4 bc5 16. Rf4 Ra1 17. Afe1 Exc3+ 18. Kf0 de5 19. bxc3 Rc1
+20. c4 cxc4 21. Exb6 Hxb6 22. Cxe5 He6 23. Rh4 Cb0+ 24. Kf1 Cb9 25. Ce2 Hg5
+26. He4 Hxi4 27. Hxd6+ Ke9 28. Rxi4 Cf9 29. Kf0 Hd5 30. Ci2 Hxe3 31. Hxe3
+c3 32. Hdf5 Afe8 33. Ke0 gf6 34. Hxh6 cd3 35. Hg8+ Af8 36. Re4 Ae8 37. Ci8
+Rc7 38. Hf1 Rc4 39. Re5 f5 40. Re6 Rc6 41. Re4 Rg6 42. Hi7 Rg7 43. Hh5 Rh7
+44. Ad1 Rxh5 45. Ci0 fe5 46. Ri4 Rh1 47. ih3 Rxf1 48. Cd0 Rg1 49. Kf0 de3
+50. Ri9 e2 51. Af1 Ad7
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 김태용"]
+[Black "귀마 김영현"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hf7 4. ed3+ Kf8 5. Ee3 ef6 6. Ch4 Ee6 7. g4
+Cc7 8. Cd4 Afe8 9. Hf2 Ri5 10. Rxi5 ixi5 11. ab3 Hbd8 12. Ef3 i4 13. Ra5
+Cc5 14. Ha3 Ri6 15. Cd1 Cc9 16. Ci1 ih4 17. gxh4 Ce9 18. h5 Ri4 19. Cd1 Kf9
+20. hg5 gh6 21. gf5 fg6 22. Cf1 Af8 23. fe5 Cxe5 24. Exh6+ gxh6 25. Hg4
+Rxg4 26. Rxe5 Ch7 27. Ra5 Ce7 28. Ra9 Ke8 29. Ra7 Ce5 30. Ke0 Rg2 31. Ade1
+Ef6 32. d4 c5 33. c4 cxc4 34. dxc4 Exh3 35. cd4 Eh4 36. Ce4 Exf0 37. Cd1
+Hg5 38. Rd7+ Ke9 39. Re7+ Ce8 40. Cc4 Ed3 41. Kf0 Af7 42. Rc7 Rf2+ 43. Cf1
+Rxe1#
+{Black mates} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 박희섭"]
+[Black "귀마 김준호"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 gf6 5. Ee3 c5 6. Hd2 Hd7 7. Ke0 Ri5
+8. Ri1 Rd5 9. Rd1 Ed6 10. Afe1 a5 11. Rda1 a4 12. b4 Rd4 13. c4 cxc4 14.
+bxc4 Rd5 15. Hb3 Rg5 16. Hc5 Rb9 17. Hxa4 Exf3 18. gxf3 Rxg2 19. Hc5 Ad8
+20. Hxd7 Axd7 21. Ra8+ Kf7 22. Rg8 Af8 23. Ra8 Ade8 24. Ed3 Rd9 25. Eb6 Rd7
+26. Rxg9 Rg0+ 27. Af0 Rd2 28. Ae1 Rxb2 29. Ee4 Cxe4 30. cd4 Ce7 31. Ce4
+Rb0+ 32. Ad0 Rxd0+ 33. Kxd0 Rxf0+ 34. Kd1 Rf1+ 35. Kd0 Rf2+ 36. Kd1 Rxf3
+37. Ra7 Rxe3 38. Rxb7 Rd3+ 39. Ke1 Hi8 40. Rh9 Re3+ 41. Kd1 Rd3+ 42. Ke1
+Rg3 43. Rh8 e5 44. Rxe7+ Axe7 45. Cc4 Rxi3 46. Cf4+ ef5 47. Cxf6 Ke8 48.
+Cf0 fe5 49. Kf2 Af7 50. Ke1 Ri4 51. Kf1 Ri1+ 52. Kf2 Ri0 53. Cf6 hg6 54.
+Cf1 Hh6 55. Ke1 Ri4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 서정만"]
+[Black "귀마 우창균"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Ef6 5. ed3 Exh3 6. gxh3 Ra5 7. Ee3
+Rg5 8. Kd1 Hf7 9. Ade1 gh6 10. ab3 Rig9 11. Ri4 Af8 12. Rc4 c5 13. Rb4 b5
+14. Rf4 Kf9 15. Ce0 Ea6 16. Cd2 Ade8 17. h4 Ce9 18. hg4 Ri5 19. Ef3 Rh5 20.
+Cg0 Rh9 21. Cg7 Hd8 22. Aff1 e5 23. Rf6 cd5 24. Rg0 e4 25. Cf0 exe3 26.
+Hxe3 Cg9 27. Kd0 de5 28. Cc0 Hce6 29. g5 Rh4 30. Ei1 Cd9 31. Cg2 Cd6+ 32.
+Cd2 Cxf6 33. gf5 exf5 34. Hxf5 Rf4 35. Hg4 Rxf5 36. Hxf6 Rxf6 37. Ccf0 Rg6
+38. Ri0 Ke9 39. Ef3 Rg5 40. Ri4 Rhg9 41. Ra4 ba5 42. Rc4 R9g7 43. Rc8 Cf7
+44. Ra8 Hc7 45. Rc8 Cd9 46. Cc0 Hce6 47. Ra8 Ed4 48. c4 Rb7 49. dc3 Exf1
+50. Axf1 Rg1 51. Ae1 Rd7 52. Cf0 Re7 53. Rxa5 Hd4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 오권탁"]
+[Black "귀마 임록수"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "222"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Che7 6. Ce2 Rb8 7. Ra4
+Ke9 8. Ef3 Rbi8 9. Hf2 ih6 10. Rxi8 Rxi8 11. ed3 Rd8 12. Ee3 Ef6 13. d4
+Ade8 14. Af1 Aff8 15. Ce0 Cd7 16. Kf0 Cd2 17. Ad1 Cg2 18. Exg6 hxg6 19. Hb0
+Exh3 20. gxh3 Hg5 21. Ch9 Hxf3 22. Cxc9 Cg9 23. Ra9 Kf9 24. Ra5 Hxd4 25.
+Ri5 Cd9 26. Ade1 gf6 27. Hbd1 Rc8 28. Cxc7 Rxc7 29. hg3 cd6 30. g4 Ra7 31.
+Ri3 Ra0 32. gf4 Hc2 33. fe4 bc6 34. c4 d5 35. Rc3 Ha1 36. b4 Rc0 37. Ra3
+Hc2 38. Rc3 f5 39. Hb2 Rc1 40. Hd3 Cxd3 41. Rxd3 Rb1 42. Ha4 Cxe4 43. Rd2
+Rc1 44. Rxd5 e5 45. Rd2 Ce7 46. Hb2 Aff7 47. Cg0 Cg7 48. Cc0 Cb7 49. Cxc2
+Cxb2 50. Cxc6 Rb1 51. ba4 Rb0+ 52. Ae0 Rb1 53. Aee1 Cb0 54. ab4 Cg0 55.
+Aff2 fg5 56. Rd6 ef5 57. Rh6 Ke9 58. Ci6 Rb3 59. Ce6+ Kf9 60. Rh9+ Kf8 61.
+Ce0 Cg7 62. Cg0 Cd7 63. Cd0 Rb0 64. Afe2 Afe7 65. Rh6 fe5 66. Rf6+ Cf7+ 67.
+Ke0 gf5 68. Ad1 Kf9 69. Rb6 ed5 70. Rh6 fe5 71. Rh9+ Kf8 72. Ke1 Rb1 73.
+Cd2 Cd9 74. Af2 Cf7 75. Cf0 Rb3 76. Ae2 Rf3 77. b5 Rc3 78. Rh8+ Kf9 79. Rh7
+Ke9 80. Rh9+ Af9 81. Rh4 Aee8 82. b6 Cd9 83. bc6 Ri3 84. Cd2 Ri1+ 85. Kd0
+Ri0+ 86. Ke1 Ri7 87. cd6 Aff8 88. Rh6 Cf9 89. Re6 Ri4 90. c5 dxc5 91. Rxe5
+c4 92. Cf0 Rf4 93. Cxf8 Rxf8 94. Ke0 cd4 95. Aee1 Rf4 96. Rb5 d3 97. de6
+Re4 98. ef6 Cd9 99. Rd5 de3 100. Add2 ef3 101. Ade2 Re7 102. Rh5 fe3 103.
+A2f2 ed3 104. Afe2 Rc7 105. Ad0 Rc2 106. Re5 d2 107. Af2 Rc0 108. Rd5 Rc6
+109. f7 Cxf7 110. Rxd2 Re6+ 111. Afe1 Cd9
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 이재헌"]
+[Black "귀마 노영주"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Hb9 9. Ch1 Ri5 10. Rxi5 ixi5 11. Cb1 Hd8 12. Ef3 ih5 13. ab3 g5 14.
+gxg5 hxg5 15. Ra4 Ke9 16. Cf1 f5 17. Cd1 Ri6 18. Ke0 Afe8 19. Ade1 Kf9 20.
+Kd0 Ce9 21. h4 Ri3 22. Ei1 Eg3 23. hg4 Cd7 24. gxg5 fxg5 25. Eg6 Ce7 26.
+Ed4 Ed5 27. He3 cd6 28. Eg6 Af8 29. Rh4 Ef6 30. Rf4 Exd3 31. cxd3 Ade8 32.
+Rh4 Cd9 33. Ed4 bc6 34. Ce0 He6 35. Hxd5 dxd5 36. Cxe6 dxd4 37. Rxd4 Ci7
+38. Eg4 cd6 39. Re4 dxe6 40. Ed2 e5 41. Rh4 Ce7 42. bc3 Ri6 43. Rb4 Ri0 44.
+Ea4 gf5 45. Rb9 Ri6 46. Ed6 Ke9 47. Hg4 Rg6 48. Hf2 Rh6 49. Ef3 Ra6 50. Rb0
+Rc6 51. Ei1 f4 52. Hh3 e4 53. Rb5 Ra6 54. Rb0 Ri6 55. Rb9 Ri3 56. Hf2 f3
+57. Hg0 Rg3 58. Hh2 Rg2 59. Hg4 ef4 60. Hf6 f2 61. Hd5 f2xe1+ 62. Axe1 Ra2
+63. Rb0 He5 64. de3 Rg2 65. Hxe7 Axe7 66. Rb4 Hg6 67. Rd4 Afe8 68. cd3 A7f7
+69. Rd5 Cf9 70. Rh5 Rg3 71. Cd4 fe4 72. exe4 Rxd3+ 73. Cd2 Re3 74. Rg5 He7
+75. e5 Hc6 76. ed5 Hd4 77. Ke0 Ri3 78. Rg1 Hb3 79. Cf0 Ri5 80. d6 Cd9 81.
+Ef3 Re5 82. Cd0 Re3 83. Ei5 Hc1+ 84. Kf0 Aff8
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(B조)"]
+[White "귀마 최영기"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "161"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Ad8 8. Ad1 Kd9 9. Ed3 Afe8 10. Kd0 Ri5 11. g4 Ce9 12. Afe1 Cc9 13. Ce0 Hhf8
+14. cd4 Cb7 15. Cf2 Cg7 16. f4 ab6 17. Rxa9 Cxa9 18. i4 Ri7 19. Eg0 Cb7 20.
+Ri3 Cc9 21. de4 d5 22. Ci0 c5 23. Cb2 Cg9 24. ih4 Rxi3 25. Exi3 Ed6 26. ba3
+Exh4 27. He3 Ce7 28. Eg0 Cxe3 29. Exe3 Exg4 30. fxg4 Cxg4 31. Hf3 Cc4 32.
+ab3 Ee6 33. Cb0 ba6 34. Add2 Cc7 35. Eg0 Cf7 36. ed4 Cf9 37. dxd5 Cxf3 38.
+d6 Cxb3 39. dxd7 Adxd7 40. Eg1 ab6 41. Ee4 Cb7 42. Ei3 Ce7 43. Eh2 gf6 44.
+Cf0 hg6 45. Ce2 cd5 46. Ce0 Eb4 47. Ee4 d4 48. Eg1 fe6 49. Ef1 d3 50. Eh4
+dc3 51. Ef1 gf6 52. Ei4 Hh7 53. Ed4 Hg5 54. Ef2 Add8 55. Ec4 Ce4 56. Ef1
+Hh7 57. Add1 Ke9 58. Cb0 bc6 59. Ef2 Hg5 60. Ec4 Hh7 61. Ef2 cd6 62. Eh5 d5
+63. Ee3 cd3 64. Eh1 Hg5 65. Eh4 Hf3 66. Ef1 Hh2 67. Eh4 Ed7 68. Cc0 Ce7 69.
+Ch0 Hf3 70. Ef1 Eb4 71. Cf0 Hg5 72. Ch4 Exd1 73. Axd1 He4 74. Ef4 Hc5 75.
+Ei3 Hb3 76. Ae1 Ha1 77. Eh7+ Kd9 78. Kd1 Hc2 79. Af2 He3+ 80. Kd0 d2 81.
+Ef4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(A조)"]
+[White "귀마 장성주"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "183"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 ef6 5. ef3 Ee6 6. cb3 Ke9 7. Ee3
+Hg7 8. Ri4 Cf7 9. Hg2 Ade8 10. Rc0 Ra8 11. Exc6+ bxc6 12. Rxc6 Aff8 13. Eb6
+Rb8 14. Hc4 Kf9 15. Rd4 Ce9 16. Cf2 Ee7 17. Rd5 Rb7 18. Ke0 Cd9 19. Rb5
+Exg3 20. He3 Ee6 21. Hf4 ih6 22. Hed5 Ri5 23. Ade1 Rg5 24. Cd0 Cf7 25. hg3
+Ch9 26. Aff1 Chd9 27. Ra5 Cxf4 28. Cxe7 Rxb6 29. Cxd7+ Axd7 30. Rxb6 Afe8
+31. Rb9 Cf7 32. Ce2 Kf8 33. Rbb5 Cf5 34. g4 Rxg4 35. Hc7 Cxa5 36. Hxd9+
+Axd9 37. Rxa5 Rc4 38. Ri5 Hi6 39. Kf0 A9e8 40. Ce0 Rg4 41. Aef2 Ade7 42.
+Rc5 A7f7 43. bc3 Hh4 44. fe3 Rg5 45. Rc4 Exc3 46. Rxc3 Rg3 47. Ke1 Ri3 48.
+Rc4 Hf5 49. Rf4 Rh3 50. ab3 Rh4 51. Rf3 Rc4 52. Ri3 fe6 53. ed3 gf6 54. bc3
+Rg4 55. Ce2 hg6 56. de3 Rg3 57. Ri8+ Kf9 58. cd3 Hxe3 59. dxe3 Rxe3 60. Kf0
+g5 61. Cg2 gf5 62. Cd2 Ra3 63. Ri9+ Kf8 64. A1e1 Ra0+ 65. Ae0 Ra2 66. Ae2
+Ra3 67. Cf2 Rh3 68. Ad0 Rh0+ 69. Ke1 Aee7 70. Ae0 Rh1+ 71. Kd0 Rh3 72. A0e1
+Rh0+ 73. Kd1 Ra0 74. A1d2 Ra1+ 75. Kd0 Rh1 76. Rd9 Rh0+ 77. Kd1 Aee8 78.
+Rg9 Rh1+ 79. Ade1 Aee7 80. Cd0 Rh3 81. Af0 Rh1+ 82. Aee1 Rh4 83. Rd9 Aee8
+84. Ri9 Ra4 85. Ae2 Ra1+ 86. Kd2 Rc1 87. Rb9 Rc0 88. Ke1 Rc3 89. Rb4 Rc1+
+90. Kf2 Ri1 91. Cg0 Ri0 92. Rg4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(B조)"]
+[White "귀마 김영헌"]
+[Black "귀마 차선균"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "224"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. Hf2 Ef6 5. Ef3 Cbe7 6. Rb0 Ra5 7. Rb4
+Exh3 8. gxh3 Rg5 9. Ke0 ef6 10. Ade1 Ee6 11. Rd4 gh6 12. ab3 Rig9 13. Aff1
+Af8 14. Kd0 Ce9 15. Ca2 Ad8 16. Cad2 Ci9 17. Rh0 Cd9 18. Ra4 Ce7 19. cd3
+Rc5 20. Ra2 Rgg5 21. Ce2 Ra5 22. Ea3 Ce9 23. Ce0 f5 24. Cc0 f4 25. Ad1 Kf9
+26. Afe1 Ade8 27. Ccf0 fxf3 28. exf3 cd6 29. f4 Eh8 30. fg4 Ri5 31. Cc0 He6
+32. Ra0 Hed8 33. Ca2 Rae5 34. Ce2 hg6 35. bc3 Rb5 36. Cf0 ih6 37. Ec0 bc6
+38. Ee3 de6 39. gf4 ef6 40. Ke0 cd6 41. Ra4 Ch9 42. Cd0 Hb7 43. Rc4 Hbd8
+44. Rc8 Ri4 45. Cf0 Rii5 46. fe4 Rbg5 47. ef4 Ra5 48. Hg4 Ri1 49. Hf2 Rii5
+50. Cd0 fe6 51. Ri0 Cg9 52. Rxi5 Rxi5 53. d4 gf6 54. c4 Cd9 55. cb4 Ra5 56.
+Eb5 Hc6 57. dc4 Ra0 58. Rc7 Rc0 59. Ch2 Ch7 60. Rc9 Hb8 61. Rc8 Ha6 62. Ra8
+Hc7 63. Ra9 Cxh3 64. Hxh3 Rxc2 65. Hf2 Rc0 66. Ra3 Hxb5 67. bxb5 Rxc4 68.
+Cf0 Rb4 69. bc5 Rc4 70. cb5 Rd4 71. Rg3 Rd5 72. Rb3 Rh5 73. Ce2 hg6 74. b6
+Rc5 75. fe4 g5 76. Hh3 gh5 77. Hf2 -- 78. Rg3 Rb5 79. ba6 dc6 80. Rc3 cd6
+81. Hg4 Rg5 82. Hf2 Rb5 83. Rh3 Ra5 84. ab6 Rb5 85. Ch2 Ch9 86. Ri3 Cd9 87.
+ba6 Ef5 88. Rg3 dc6 89. ef4 Ec7 90. Rc3 ed6 91. Hh3 fg6 92. fe4 Ef5 93. Rg3
+g5 94. ef4 Ed8 95. Re3 Exa6 96. Hf2 Ed8 97. Ce2 Ch9 98. Ri3 Cd9 99. He4 gf5
+100. fxf5 Rxf5 101. Hg3 Rg5 102. Rh3 Rg4 103. Hf1 hg5 104. Re3 gf5 105. Hh2
+Rg6 106. Hf1 d5 107. Hg3 de5 108. Hh5 Rg5 109. Hi7 Rg7 110. Hh5 Rg5 111.
+Rh3 cd6 112. Cd0 d5
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(B조)"]
+[White "귀마 임록수"]
+[Black "귀마 노영주"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "174"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Hf2 ef6 6. Ee3 Ee6 7. Ch4
+Ra5 8. g4 Ri5 9. Rxi5 ixi5 10. Cc4 Hb9 11. Ef3 ih5 12. ab3 g5 13. gxg5 hxg5
+14. Ra5 gf5 15. d4 Hd8 16. Ke0 Ri0 17. Ad1 Kf8 18. Ke1 Afe8 19. cd3 Kf9 20.
+de4 Ce9 21. d4 Af8 22. Cc0 Ri4 23. Ke0 Ade8 24. Afe1 Cc7 25. Ra2 Cg9 26. b4
+Cd9 27. bc4 Ch7 28. Cf0 Ce7 29. Ra9 Ri0 30. Rc9 Ke9 31. Rc8 Kf9 32. c5 cxc5
+33. Rxc5 bc6 34. Ra5 -- 35. Ra8 Ce9 36. Ra7 Ri6 37. Eb5 cb6 38. Ed2 Ce7 39.
+Ra9 Ri0 40. d5 Eb8 41. e5 Exd5 42. exd5 f4 43. Ec5 bc6 44. Ea2 f3 45. Hh1
+Rh0 46. Eb5 Hb7 47. Rb9 Ch7 48. hg3 Rxh1 49. gxf3 Rh3 50. fe3 Rh5 51. de5
+c5 52. Ed2 cd5 53. exd5 Rxd5 54. Ed4 Hbd8 55. Rc9 He6 56. e4 Ce7 57. Hb4
+Rd6 58. Eb5 Cxe4 59. Hc2 Hxd4 60. Cd0 Rc6 61. Rxc6 Hxc6 62. Ee3 He7 63. Hd4
+Hf5 64. Hc2 Hg3 65. Add2 f5 66. Cf0 Ce9 67. Ec6 Ce7 68. Ee3 f4 69. Hd4 fe4
+70. Cxe4 Hxe4 71. Eh5 Hf6+ 72. Ee3 Hg4 73. Hf5 Ef6 74. Ade2 Ec4 75. -- --
+76. Cd0 Hfe5 77. Cf0 Ke9 78. Eb1 Aff7 79. Ed4 Exe1 80. Eb7+ Ad8 81. Exe5
+Eh3 82. Cxf7 Cxe2 83. Eb7 Ke8 84. Hg7 Ce9+ 85. Ee5 Kxf7+ 86. Eg2 He3+ 87.
+Ee5 Ce4#
+{Black mates} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(A조)"]
+[White "귀마 박선양"]
+[Black "귀마 김현기"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ ef6 5. Ef3 Kf8 6. Ke0 Ee6 7. Ra1
+Rg5 8. Rg1 Cg7 9. Rg2 Ri5 10. Rxi5 ixi5 11. g4 ih5 12. Cf2 Afe8 13. Ee3 Ri6
+14. Hi1 g5 15. Exc6+ bxc6 16. He3 Hbd8 17. Hd5 Cxg4 18. Rg1 Eg3+ 19. Rf1
+Ei0 20. Rg1 Kf9 21. Ade1 Cg9 22. hg3 Ri3 23. Hxf6 Exf6 24. Cxf6+ Af8 25.
+Cf1 Cxg3 26. Kd0 Cg9 27. Hg2 Rxf3 28. Ri1 Ce9 29. Rxi0 Rg3 30. He3 Cd7+ 31.
+Ke0 Ae8 32. Ri8 Rf3 33. Ri2 Cd9 34. ab3 Cxe3 35. dxe3 Rxe3 36. Ad2 c5 37.
+Afe1 c4 38. cxc4 Rxb3 39. Kf0 He6 40. Ce0 Rg3 41. Rf2 Hg7 42. Re2 Hf5 43.
+c5 Cg9 44. c6 Ce9 45. Ri2 He3 46. Ri1 Ri3 47. Rg1 Cg9 48. Rh1 Hg2+ 49. Rg1
+Ri2 50. Cg0 Ri0 51. Af2 Rxg0+
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(A조)"]
+[White "귀마 서영현"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ri8 9. Cf4 Ade8 10. Cf1 gh6 11. Ca1 Ca7 12. ab3 Cad7 13. ba3 Rc9 14.
+Cg1 Ce7 15. Ef3 Aff8 16. ab3 Cf9 17. Ra5 Ra9 18. Rxa9+ Cxa9 19. c4 Cf9 20.
+Hd4 cd6 21. Cc1 Ha6 22. c5 Cd9 23. Exd6 Ci7 24. Rg0 Hxd6 25. Hxe6 fxe6 26.
+Cxe6+ Af7 27. Cxb6 Ce7+ 28. Ce6 Hxc5 29. Ec6+ Kf9 30. Ce0 Hxb3 31. Cf1 Ha5
+32. Cd1 Hdc4 33. dc3 Hxc6 34. cxc4 Ef6 35. c5 Ec4+ 36. Kf1 He5 37. cd5 Cg7
+38. Rh0 Hf3 39. Cd8 A7e8 40. hg3 Axd8 41. gxf3 Exf2 42. Kxf2 Cxd5 43. gf4
+Cd9 44. Rg0 Rg8 45. Ke1 Rg9 46. f5 Afe8 47. Rg1 Add7 48. Cg0 Ke9 49. f6 Rf9
+50. Rxg7 Rxf6 51. Rxd7 Re6+
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(B조)"]
+[White "귀마 김준호"]
+[Black "귀마 차선균"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Ri4 Ce7 4. gf3 ef6+ 5. Ee2 Ri8 6. c4 ih6 7. Rd4
+He6 8. Rd3 Ed6 9. hg3 Ra5 10. cd4 Rh5 11. Hb1 Ri1+ 12. Af1 Cb5 13. e4 Rg1
+14. Ad1 Ci5 15. Rf0 Cf5 16. Hi2 Ri1 17. Cc2 Hd7 18. Ee3 Ci5 19. Cb0 Ei6 20.
+f4 Rg5 21. fg4 Rf5 22. gf4 Hxf4 23. exf4 Rxf4 24. Cb4 Rf5 25. Hh4 Re5 26.
+Hg2 Rg1 27. Hc3 Rg5 28. d5 Cf5 29. dxd6 cxd6 30. gf3 Cf2 31. Kxf2 R1xg2+
+32. Ke1 Rxe2+ 33. Kd0 Rxc2 34. Ade1 Ra5 35. Ha4 b5 36. Cb9 b4 37. Rxd6 Ce9
+38. Cb0 bxa4 39. Ce0 Ce7 40. axa4 Rxa4 41. Eb5 Rc5 42. Ed2 Raa5 43. Ad1 Rd5
+44. Rc6 He5 45. Rc3 Rac5 46. Rb3 Rd3 47. Rb8+ Ad8 48. Afe1 Hxf3 49. Rf2 Eg3
+50. Af1 He5 51. Ade1 Ee6 52. Ra8 Rdc3 53. Ra4 Hd3
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "준결승전(B조)"]
+[White "귀마 차선균"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Hg7 8. Cb4 Cf7 9. Cb1 Ke9 10. Cg1 Raa8 11. g4 gf6 12. Rh0 h5 13. f4 ab6 14.
+Rxa8 Rxa8 15. Cg3 Ch7 16. Ri0 Hh9 17. ih3 Rh8 18. Ri6 Cxh3 19. Ed3 f5 20.
+Ef6 fxf4 21. Exh9 fxg4 22. Exe7 gxg3 23. E7xh5 Ade8 24. Hi1 Ch7 25. Exc6+
+bxc6 26. Ee3 Hf8 27. Eh5 Ch9 28. Exf8 Rh1+ 29. Ke0 Axf8 30. Ri9 Kd9 31.
+Ade1 Ee7 32. Cb2 Aff9 33. Cb4 Ke9 34. Cb0 Ch0+ 35. Af1 Ch7 36. Ri3 Cd7 37.
+Hb1 Cg7 38. cd4 Cg1 39. de4 Cxi1 40. Hd2 Cg1 41. e5 gh3 42. Ri4 hg3 43. Ri3
+gh3 44. Ri4 Eh9 45. exe6 dxe6 46. Rh4 Ef6 47. He4 Ci1 48. Aff2 cd6 49. b4
+Rg1 50. Cf0 Rg6 51. Aff1 hi3 52. bc4 Eh3 53. Cd0 Rg1 54. Hf2 Cxf1 55. Rg4
+Ri1 56. Axf1 Rxf1 57. Rf4 Ef6 58. cd4 Ei4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "결승 3회전"]
+[White "귀마 김현기"]
+[Black "원앙마 최진호"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. ef3 ed6 5. Ri4 Hce6 6. Ee3 g5 7. Rc4
+ih6 8. Hd2 ab6 9. Ed3 Ch5 10. Exb6 cxb6 11. Rc7 Cd5 12. Rc8+ Ke9 13. Ad1
+Ri8 14. Rxi8 Hxi8 15. cb3 bc6 16. Rc0 Ea6 17. Kd0 Ade8 18. Ae1 Rc9 19. Ce0
+Cd9 20. h4 Hig7 21. g4 gf5 22. a4 Aff8 23. a5 Ed8 24. ab5 d5 25. Hi3 c5 26.
+bxc5 Rxc5 27. bc3 d4 28. Hb3 Rc7 29. Aed2 Ei6 30. Ce2 Hc5 31. c4 dxc4 32.
+Rxc4 Hce6 33. Rb4 Eg9 34. Hg2 Rc3 35. Ch2 Hd4 36. Ha1 Ra3 37. Rb1 Hc2+ 38.
+Rc1 Hxa1 39. Cxh6 Hb3 40. Rc3 Ee6 41. Rc7 Hxd2 42. Axd2 Rd3 43. Ch2 Eb5 44.
+Ke1 Cxd2 45. Rc5 Ed8 46. g5 Cd6 47. Cee2 Cd9 48. g6 Rd0+ 49. Kf1 Rg0 50.
+Kf2 Hi6 51. hg4 Cf9 52. Rc6 Eb4 53. Rc4 Ed7 54. gh6 Ri0 55. hxi6 Rxi6 56.
+Rd4 Ea5 57. Hh4 Rf6 58. Rd5
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "16강전(B조)"]
+[White "맞상 송은미"]
+[Black "맞상 최진호"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Ri4 ab6 3. Hf2 Ce7 4. Ke0 Ri7 5. Ade1 Ed6 6. Cg2 ih6 7. Rd4
+Ri0 8. Ca2 Rb9 9. Ef3 Exf3 10. exf3 ed6+ 11. Ee3 Ee6 12. ab3 Ra9 13. Rg4
+Ad8 14. Kd0 Hf8 15. Hc2 Kd9 16. c4 Afe8 17. Che2 Ri5 18. Ra1 Ce9 19. Ca0
+Rxa1 20. Hxa1 Cb9 21. Ad1 Cc7 22. Afe1 c5 23. cxc5 Rxc5 24. Ra4 Cf9 25. Cf0
+gf6 26. f4 hg6 27. He4 Rd5 28. Ke0 bc6 29. gf3 Ri5 30. b4 d5 31. bc4 Ce7
+32. Ra6 Hb6 33. Eb1 Hxc4 34. Rxc6 Ha3 35. Rb6 Hc2 36. Rb2 Hb4 37. Cd0 de5
+38. Hc5 ed5 39. Rxb4 dxc5 40. Ee3 Ke9 41. Ra4 cb5 42. Hb3 b4 43. Ra3 bxb3
+44. Rxb3 Rc5 45. hg3 Cd9 46. Add2 Rc4 47. Kf0 Eb4 48. Ce4 Ed7 49. Rb5 Exf4
+50. fxf4 He6 51. gf3 Cf9 52. Ce2 Hd4 53. Ce4 He6 54. Ce2 Hc7 55. Re5 Kd9
+56. Ke0 fe6 57. Rf5 gf6 58. Ri5 Ke9 59. Ce4 Rc3 60. Add1 Add7 61. Eb5 Hxb5
+62. Rxb5 Rxf3 63. fg4 Rg3 64. Rg5 f5 65. Rg6 f4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "양귀마 고천훈"]
+[Black "귀마 김현기"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "174"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. e4 ed6+ 4. Ce2 Ee6 5. ab3 Hc7 6. Hd2 Cd7 7. Ed3
+Ke9 8. g4 Afe8 9. gf4 Cf9 10. Ad1 g5 11. Ef3 gf5 12. fxf5 Cxf5 13. Ri1 Cf9
+14. Kd0 Cxe4 15. Afe1 Ce7 16. Ce0 Add8 17. Cc0 Ra7 18. Ci0 Ri8 19. Cxi6 Ci9
+20. Ce2 Hh8 21. Ef6 Rxi6 22. Rxi6 Hxi6 23. Exh9 Cg9 24. Ra4 Hg7 25. Ch2 a5
+26. Ra0 Af8 27. Exd6 cxd6 28. Hc4 Cd9 29. Rxa5 Rxa5 30. Hxa5 Exc3 31. bxc3
+Hb5 32. cd3 de6 33. Hb3 Cxh9 34. hg3 Cd9 35. Cd2 Afe8 36. Hc5 Ha3 37. Ae2
+Cxe2 38. Ae1 Hb1+ 39. Kd1 Ce7 40. Cg2 Cd5+ 41. Cd2 Hf5 42. gf3 e5 43. f4
+Hh4 44. d4 Cd9 45. fe4 Hf3 46. Cd6 Hc3+ 47. Kd0 Cxe4 48. dxe4 exe4 49. Ke0
+e3 50. Hd1 Hd5 51. Cd2 Hxe1 52. Kxe1 Hc3 53. Hb2 e2+ 54. Ke0 exd2 55. Hbd3
+Ha2 56. Hb2 Hb4 57. Hc4 Af7 58. He3 Kf9 59. Hb3 de2 60. Hc1 Cd1 61. Kf0
+Afe8 62. Ke0 Hc6 63. Hd5 Hd4 64. Hf4 Hf3 65. Hcd3 Cd7 66. Kf0 Cd9 67. Kf1
+Cf7 68. He5 Hh2+ 69. Hg2 Cd9 70. Hf3 Hg0 71. Kf0 ef2 72. Hf4 Cf7 73. Hd3
+fe2+ 74. Ke0 Cd9 75. Hc1 ef2 76. Hb3 Cg9 77. Hbd4 Ce9+ 78. Kd0 He1 79. --
+Hg2 80. Hf5 Hf0 81. Hg7+ Kf8 82. Hi6 He2+ 83. Kd1 Hc3+ 84. Kd0 Hb1+ 85. Kd1
+Ce1 86. Hfh4 Cc1 87. Hh8 Ca1#
+{Black mates} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "원앙마 김영곤"]
+[Black "귀마 김시현"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra5 5. ed3 ef6 6. h4 Ee6 7. g4 Hd7
+8. d4 Ke9 9. c4 Afe8 10. Ri3 Ri5 11. hi4 Rb5 12. Ra1 g5 13. gf4 f5 14. Cf2
+Rh9 15. Ke0 fxf4 16. Hxf4 Rh2 17. Ade1 g4 18. Hg6 Rg2 19. Kd0 Rxg0 20. Hxe7
+Cxe7 21. Ee3 Rg3 22. cb4 Rxi3 23. bxb5 Cxe3 24. bxb6 cxb6 25. de4 Ec3 26.
+ed4 He6 27. de4 Hec5 28. ed4 He6 29. de4 Hg5 30. Hxe3 Rxe3 31. Rd1 Ee7 32.
+ed4 Ee6 33. d5 Rxa3 34. Ce0 Eg3 35. Cxe7+ Axe7 36. Ae2 He4 37. Rd4 Hxf2 38.
+Axf2 Exd5 39. Rxd5 Ri3 40. Rh5 Rxi4
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "32강전(A조)"]
+[White "원앙마 임태봉"]
+[Black "귀마 양승태"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. ef3 Af8 6. Cf2 Ef6 7. Ad1
+Kf9 8. g4 Ade8 9. f4 Ce9 10. f5 ab6 11. Ea3 cd6 12. Rb0 Cg9 13. He3 Hd5 14.
+Cd0 Hxe3 15. Hxe3 Ce7 16. fxf6 gxf6 17. cd3 Ra5 18. Ke0 Rh5 19. bc3 bc6 20.
+Rb9 Ci7 21. ih3 Rxh3 22. gf4 Rh5 23. Ri2 Rg5 24. fg4 Ra5 25. Exc6 Cxg0+ 26.
+Ae1 Cg9 27. Ea9 Hd8 28. Rb8 Rxa9 29. Cf0 Ra7 30. Rc8 Rg7 31. gf4 Hc6 32.
+Rh2 Cf7 33. f5 hg6 34. Rh8 Hd8 35. d4 fxf5 36. Hxf5 gf6 37. Hh6 Rg6 38. c4
+e5 39. Kd0 de6 40. Cd2 Ri0+ 41. Ce0 Rh0 42. Rg8 Rxg8 43. Hxg8 Rh8 44. Hxf6
+exf6 45. Cxe5 He6 46. Ce0 Hf4 47. de4 Hh3 48. cd4 Hg1 49. Cc0 Hf3 50. Cdf0
+Rh1 51. Cxf6 Hg5 52. ef4 Cd9 53. Cf1 Hf3 54. Rxc9 Hxd4 55. Ke0 He2 56. Rc4
+Hg3 57. Cf6 Rh6 58. Cff0 Cg9 59. Kd0 Ce9 60. Rc3 Rg6 61. Rc5 Ce7 62. Ce0
+Cd9+ 63. Rd5 Ke9 64. fe4 Hxe4 65. Cxe4 Re6 66. Ce0 Cxe1 67. Rxd9+ Kxd9 68.
+Axe1 Rd6+ 69. Cd2+ Ad7
+{White resigns} 0-1
+
+[Event "제2회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "이벤트 대국"]
+[White "원앙마 장현우(少)"]
+[Black "귀마 손효탁(老)"]
+[Result "0-1"]
+[TimeControl "15분, 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hd7 3. Ce2 Ce7 4. Hg2 Hg7 5. ed3 ef6 6. Hce3 Ra5 7. Cf2
+Cf7 8. Ad1 Ad8 9. Cd0 Ci7 10. Ei3 ih6 11. Rg0 Ee6 12. Ke0 Cf7 13. Afe1 Ke9
+14. c4 Afe8 15. d4 Cd9 16. g4 Rb5 17. h4 Rb1 18. Cf0 Rc1 19. Ri0 Eg3 20.
+Kd0 He6 21. ab3 Cxe3 22. Exg6+ fxg6 23. Rxi9+ Cxi9 24. Hxe3 Hdf8 25. Ra5
+Add7 26. Ri5 Cd9 27. Hf5 Ade7 28. Hxg3 Rxc4 29. Ke0 Hxd4 30. Ri7 Rc1 31.
+Hf1 Hxe2 32. Axe2 Rxd1 33. Ae1 Rc1 34. Ri5 Ed6 35. b4 Eb3 36. Ad2 Rxf1 37.
+Ri3 Cf9 38. Ri0 Rc1 39. Cd0 Rxc0 40. Ad1 Cd9 41. Ri3 Exd0 42. Axd0 cd6 43.
+Ke1 Rxd0+ 44. Kf1 Cf9+ 45. gf4 He6+ 46. fe4 gf6+ 47. ef4 Hxf4 48. Rf3 Hd3
+{White resigns} 0-1
+

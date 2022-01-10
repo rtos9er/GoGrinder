@@ -1,0 +1,1471 @@
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-28"]
+[Round "본선"]
+[White "귀마 김동학 프로"]
+[Black "귀마 김기영 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 Ri5 9. Rxi5 ixi5 10. Rb0 Kf8 11. c4 i4 12. Hd4 Cg7 13. g4 i3 14.
+hxi3 Rxi3 15. Ce0 cd6 16. Rxb6 d5 17. Hf3 Cxg4 18. Exg6 Rg3 19. Ee3 Cg2 20.
+c5 Rxf3 21. c6 Ha8 22. Rb5 Rf5 23. Ra5 Hc9 24. Ra4 Hh6 25. c7 Ade9 26. c8
+He8 27. Rc4 Hd6 28. Rc6 Hf7 29. He4 de5 30. Rc2 Hxe4 31. Rxg2 Rg5 32. Rc2
+Afe8 33. Ca2 Hh6 34. Ri2 Ch3 35. d4 Hg3 36. Ec6+ Ae7 37. Rh2 Rh5 38. Rg2
+Rg5 39. Exe9 Ae8 40. Ca8 Kf9 41. Rh2 Rh5 42. Rb2 Hf7 43. Ca2 Hxe9 44. Cf2+
+ef5 45. Cxe6 Hh1 46. Cxe9 Axe9 47. Ca2 Cxh0 48. c8d8 Rh7 49. Rg2 Re7+ 50.
+Kd0 Ae8 51. Rg9+ Kf8 52. Ca8 Hf0+ 53. Rg0 Kf7 54. Rxh0 Re0+ 55. Kxe0 Ke7
+56. Kxf0
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-28"]
+[Round "본선"]
+[White "귀마 김기영 프로"]
+[Black "귀마 김동학 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "193"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. g4 Ke9 7. Hf2 Ra8
+8. Rb0 Rii8 9. Ch4 Hf7 10. Cf4 Afe8 11. Ci4 ih6 12. Ca2 Ca7 13. Ri3 Che7
+14. Cc4 Rxi3 15. hxi3 c5 16. Cxc7 b5 17. Cc4 cxc4 18. cxc4 Rc8 19. Rxb5
+Rxc4 20. Hd4 Kf9 21. Ra5 Ch7 22. ab3 Cg7 23. bc3 Rb4 24. ih3 Ce7 25. Hc6
+Rb1+ 26. Ad1 Ce9 27. Hd4 Eb4 28. cb3 Ed7 29. Ra3 Ee7 30. gh4 Ra1 31. Kf1
+Ef4 32. Ade1 Hh8 33. Ca4 Rxa3 34. Cxf4+ Af8 35. bxa3 Cd7 36. Afe0 Cf7 37.
+Kf0 g5 38. A0d0 Ade8 39. Ke0 hg6 40. Ee2 Ch9 41. Cf0 Hi6 42. hi4 g4 43. He4
+Hh8 44. h4 gxh4 45. Exh4 Chd9 46. Hc6 Cf3 47. Hc5 f5 48. Hb8 Ci9 49. Ef1 g5
+50. ab3 g4 51. ih4 g3 52. He6 Hi6 53. hg4 fe5 54. Eg6 Hh8 55. Ed4 e4 56.
+de3 exe3 57. Exe3 Ke9 58. Ec6+ Ad8 59. Cd2 Ae8 60. g5 Cb9 61. Ha6 Hi6 62.
+bc3 Cg9 63. Cd6 Hh4 64. cd3 Ch3 65. Eg6+ Kf9 66. Hc5 Kf8 67. He4 Cxd3 68.
+Hxg3 Hf3 69. Hi4 He5 70. Cf6 Cd9 71. gf5 Hd3 72. Ece3 Hb4 73. Cf1+ Af7 74.
+Ei9 Ke8 75. Cxf7 Hd5 76. Eh5 Cd6 77. Hg7 Ke9 78. fe5 Hb6 79. Exe7 Ae8 80.
+Ci7 Ca6 81. Eh5 Cd9 82. e6 Cxi9 83. Ce7+ Kd9 84. Ce2 Ad7 85. Hg3 Cb9 86.
+H3f5 Cb0+ 87. Ad1 Cb7 88. Hh9 Kd8 89. Hd4 -- 90. Ee3 Cxe6 91. Hxe6+ Ce7 92.
+Eb5 Kd9 93. Hf8+ Ae8 94. Hc7+ Ke9 95. Hg6 Kf9 96. Exe7 Axe7 97. Hh8+
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-24"]
+[Round "본선"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김동학 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Ke9 7. g4 Hd7
+8. Ed3 Ri5 9. Hf4 Rf5 10. c4 Ade8 11. ih3 Kd9 12. cd4 Ce9 13. Af1 h5 14.
+Ce0 Eg9 15. Cf2 Ei6 16. Hd5 dxd5 17. Cxf5 dxd4 18. Kf0 cd6 19. Ea1 Ee7 20.
+Cg0 Ci9 21. Rh0 ab6 22. Ade1 gf6 23. Cf2 Hi8 24. gf4 Aff8 25. Cfd0 Ra4 26.
+Cf2 Ra5 27. Cgd0 Ra4 28. Rg0 Hh6 29. Rc0 Ke9 30. Rc7 Hc9 31. Cc2 bc6 32.
+Exc6 dxc6 33. Rxc6 Hd7 34. Rxf6 Hf7 35. Rxi6 Cd9 36. Ce2 Hfe5 37. fe3 Rxa1
+38. Cxd4 Ra0+ 39. Ce0 Hc4 40. bc3 Hcb6 41. Rc6 Rb0 42. e4 Ha4 43. Rg3 Eh9
+44. Rc7 Hac5 45. c4 He6 46. Ad0 Hxd4 47. exd4+ He5 48. Cxb0
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-12"]
+[Round "본선"]
+[White "귀마 김기영 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ri8
+8. Ch4 Ra8 9. Cf4 gh6 10. Cf1 fg6 11. c4 Ef6 12. d4 Af8 13. Ca1 Rb8 14. Cg1
+g5 15. Cxg5 Ei4 16. Rxi4 Hxg5 17. gxg5 Rg8 18. Rg4 Kf9 19. Ef3 Ade8 20. g6
+hxg6 21. Rxg6 Rxg6 22. Exg6 Ra8 23. a4 Ce9 24. Ra3 b5 25. Rb3 c5 26. cxc5
+bxc5 27. Rc3 Rxa4 28. Rxc5 Hd9 29. Ee3 Ra6 30. Rh5 Ra7 31. Cxe6 Rc7 32. Kf1
+Cb7 33. Hb4 Cf7 34. Ce0 He7 35. Afe1 Rb7 36. Hc6 Hxc6 37. Exc6 Rc7 38. Exf8
+Axf8 39. Re5 Cg9 40. Re6 Cxf2 41. Axf2 Rf7 42. Ed6+ Ae8 43. Ae1 Ce9 44.
+Rxe8+ Rxe8 45. Cxe8 Kxe8 46. Ef3 Ce7 47. d5 Kf7 48. d6 Ch7 49. de6 Ca7 50.
+hg3 -- 51. g4 -- 52. g5 ih6 53. ef6+ Ke7 54. gf5 hi6 55. fe6+ Kd7 56. f6 --
+57. Ec5 ih6 58. Ee2 Ce7 59. Eg5
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-13"]
+[Round "본선"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "55"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Hb9 9. Cd4 Hd8 10. Ef3 g5 11. h4 gxg4 12. hxg4 Rf5 13. Ri3 fg6 14.
+ab3 g5 15. Ra9 Afe9 16. Ei1 i5 17. Ra4 gxg4 18. Exg4 Ef6 19. Af1 Kf9 20.
+Cd2 Ri6 21. Cf0 i4 22. Ri1 Rg5 23. Hh3 Rg9 24. Rf4 Ke8 25. Rxf6 Rxf6 26.
+Cxf6 Rxg4 27. Hi5 Rh4 28. Rg1
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-18"]
+[Round "3위 결정전"]
+[White "귀마 김기영 프로"]
+[Black "귀마 김동학 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Ke9 8. Cb4 Ria8 9. ih3 Hf8 10. Ri9 Ae8 11. Cg4 Kd9 12. Ca4 Ca7 13. Ed3 Rc8
+14. Ri5 Raa8 15. Rb0 Cb7 16. Rc0 Ce7 17. f4 Ce9 18. gf3 Ad8 19. fe4 Cc9 20.
+Hf4 Afe8 21. e5 gf6 22. hg3 hg6 23. Rh5 ab6 24. Ra0 Caa9 25. b4 Cf9 26. Hb3
+Ra5 27. cd4 Rb8 28. bc4 Rb5 29. Hd2 Ra8 30. d5 dxd5 31. Hxd5 cd6 32. Hc3
+bc6 33. cd4 Rc5 34. Ra3 Cac9 35. Hdb1 f5 36. Kd2 Rb8 37. Ca1 g5 38. Ri5 Rb4
+39. Ri4 fxe5 40. Cc1 Rxb1 41. Cxc5 Rb4 42. Cxg5 d5 43. Cxd5 exd5 44. Hxd5
+Rb7 45. Hf4 Eh8 46. Exc6 Hh7 47. Hd5 Ee6 48. Ef4 Hhf8 49. Rc3 Ca9 50. Rc6
+Rb1 51. Ri9 Rb8 52. de4 Ke9 53. Eh7 Hxh7 54. Cxe6+ Kd9 55. Eb6+ Hxb6 56.
+Rxb6 Rc8 57. Rxb9+ Cc9 58. Ri7 Cd7+ 59. Hc7 Rxc7 60. Rxh7 Rc6 61. Ke1 Cf9
+62. Rh9 Add7 63. Ce2 Kd8 64. ed4 Cc0 65. Ad1 Cc7 66. Rh8 Rf6 67. d5 Ce7 68.
+d6
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-29"]
+[Round "본선"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김기영 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 gh6 9. Ef3 fg6 10. Exh6 gxh6 11. ab3 Rxa0 12. Rxa0 Ri8 13. Ra4
+cd6 14. Kd0 Af8 15. Afe1 Ce9 16. Ce0 Kf9 17. Rg4 Cd7 18. Cb0 Hd5 19. Cd2
+bc6 20. Ce0 i5 21. Cf0 ih5 22. d4 Hf6 23. Cxf6 Exf6 24. Exc6 Exg3 25. hxg3
+dxc6 26. He4 Ad8 27. Hxf6 Cd9 28. cd3 Ade8 29. bc3 Ri5 30. Hd5 cd6 31. Hb4
+hg5 32. Rf4 gf5 33. Rf2 hg6 34. gf3 fe5 35. fe3 d5 36. dxd5 exd5 37. Hc6
+Hd6 38. Cc0 Cf7 39. c4 Ce6 40. Rh2 Ce9 41. cd4 dxd4 42. H6xd4 Hb5 43. Hxb5
+Rxb5 44. Cf0 Rb2 45. Rf2 Ce7 46. Hd4 Rb6 47. Rc2 gf6 48. Rc6 Rxc6 49. Hxc6
+Ce9 50. Hd4 Ad7 51. Hf3 Cxf3 52. exf3
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-29"]
+[Round "본선"]
+[White "귀마 김기영 프로"]
+[Black "귀마 차선균 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "251"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Ke9 7. g4 Ra8
+8. Ch4 Rii8 9. Rb0 Hf7 10. Cf4 Afe8 11. c4 gh6 12. Cf1 Rg8 13. Ca1 Rc8 14.
+Cg1 Rf8 15. Cc1 Kf9 16. d4 Ce9 17. Cc3 Rg8 18. Exc6 bxc6 19. Cxc6 Ra8 20.
+Cc3 Hb9 21. Ri1 Hbd8 22. Rb3 Rb8 23. Cc1 Rxb3 24. axb3 Cc7 25. He3 Af8 26.
+Hd5 Ci7 27. Rh1 hg6 28. de4 Ri8 29. cd4 Ri9 30. h4 ih6 31. Ri1 Cg9 32. bc3
+Ade8 33. e5 Cd7 34. Rxi9 Cxi9 35. de4 Cd9 36. Hc7 Cd7 37. c4 Cg9 38. Ef3
+Ch7 39. Ha6 Ce9 40. Ec5 Hd6 41. ed5 H6b7 42. cd4 Aef7 43. Cf1 Hc6 44. Hb4
+Hca5 45. Hh3 Ec9 46. Hf4 Cb9 47. Hc2 Hb3 48. dc4 Cc7 49. ed4 Cd9 50. Hb4
+Cxd4 51. cxd4 Hxd4 52. Hfd3 Ch7 53. Cb1 Hd8 54. Hc2 Cd7 55. d6 Cd5 56. Hxd4
+Cxd3 57. Hb3 A7e8 58. Hc1 Cd7 59. dxd7 Axd7 60. Hb3 Ef7 61. Ef3 Afe8 62.
+Ch1 Ee7 63. Exh6+ gxh6 64. Cxh6 fg6 65. Ch1 Exh4 66. gxh4 g5 67. Hd4 gh5
+68. hi4 Ec4+ 69. Ke0 Hb7 70. Hf5 hg5 71. Hg7+ Kf8 72. He6+ Kf9 73. Hxg5 Hd6
+74. Afe1 Hf5 75. Hf3 Ef6 76. Cd1 Hg3 77. ih4 Ade7 78. hg4 Ec8 79. Kf0 A7f7
+80. Ce0 Ea5 81. Ce3 Hi4 82. Cf1 Aef8 83. gh4 Hh6 84. h5 Hg8 85. hg5 Hh6 86.
+He5 Ec8 87. Hg6 Ke8 88. gh5 Hg8 89. Ce0+ Kd9 90. Cd1 Hf6 91. Hf4 A8e8 92.
+Hd5+ Ke9 93. Hf4 Hxh5 94. Hxh5 Ea5 95. Ce2+ Ad8 96. Hg7 Ad7 97. Hf5 Ke8 98.
+Ce0+ Ade7 99. Hd6+ Ed7 100. Ce5+ Kd9 101. Ad2 Afe8 102. Ke1 Ke9 103. Hf7+
+Kd9 104. Hg5 -- 105. He4 -- 106. Hc5 A7f7 107. Cd6+ Eg9 108. Cd1+ Ad7 109.
+Ce0 Ae7 110. He4 Ei6 111. Hf6 Eg3 112. Cd4+ Ke9 113. Ce5+ Kf9 114. Hg4 Ed5
+115. Cd1 Ea3 116. Cf1 Ade8 117. Hf6+ A7f7 118. Hd5+ Ae7 119. Hb4 -- 120.
+Ca1 A7d7 121. Ca4 Af7 122. Ce0 -- 123. Cb0 Ke8 124. Kf0 Afe7 125. A0e1 Kf8
+126. Ke0
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-30"]
+[Round "본선"]
+[White "귀마 김경중 프로"]
+[Black "귀마 김현기 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9 12. ih3 Kd8 13. c4 Ri8
+14. Hd2 Ri1+ 15. Af1 Ch1+ 16. Ke0 Ch7 17. Ce4 Ca7 18. Rb0 Cf7 19. Ra0 Ri4
+20. cd4 cb6 21. Rc5 dc6 22. Rd5 c5 23. Rh5 Ra8 24. Ade1 c4 25. Cxc4 Rxd4
+26. Cg4 Rc8 27. Ce2 Rxd3 28. Cg0 Rd6 29. Hec4 Rd4 30. Ri5 Rdxc4 31. Hxc4
+Rxc4 32. Cd0+ Rd4 33. Rc0 Ade8 34. Rc4 Rd6 35. fe3 Exg3 36. hxg3 Cxe3 37.
+Rc8+ Kd9 38. Rc9+ Kd8 39. Rxb9 Ce9 40. Rc9 Cg9 41. Rc3 Kd9 42. gf3 Ce9 43.
+Ri7 Cb7 44. Ri4 Cbe7 45. fe3 Ad8 46. Rc8 b5 47. bc3 bc5 48. Ri7 Ade8 49.
+cd3 Rb6 50. Rxc5 gf6 51. Rc8 He6 52. Ri6 Hc7 53. dc3+ Hd5 54. Rc5 Ad8 55.
+Rxd5 Afe8 56. Ri9 fe6 57. Rc5 Af8 58. Rc8 ed6 59. Rc9+
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-30"]
+[Round "본선"]
+[White "귀마 김현기 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 Ri8 9. Ef3 Rg5 10. Rag0 c5 11. Kd0 Rf5 12. Afe1 b5 13. ab3 Ri5
+14. Rxi5 ixi5 15. Ri0 Exg3 16. hxg3 f5 17. g4 i4 18. Ce0 g5 19. gxg5 Hxg5
+20. Cd2 f4 21. Ei1 ih4 22. Rg0 Hce6 23. Rg1 fe4 24. Cf0 Rg8 25. Eh5 Rg7 26.
+Ce2 ef4 27. He3 fe4 28. Cxe4 Hxe4 29. Rxg7 Hxg7 30. Exe7 Hg5 31. Exh9 Hxh9
+32. Hf5 Ke9 33. He4 Hi6 34. Ef3 Hhg7 35. Hh6 Ade8 36. Hg5 Ch5 37. He4 Ch9
+38. Hg8+ Aff8 39. Eh6 Cd9 40. Exe8 Kxe8 41. Hf6+ Cf7 42. Hi7 Hg5 43. Hg6
+Kf9 44. Hd7 Ke8 45. Hde5 Cd9 46. Hc6 cd5 47. Cb0 bc5 48. Hb8 Cf7 49. Ce0+
+Kf9 50. Ha6 Ae8 51. d4 Cd9 52. dxd5 cxd5 53. Hc7 dc5+ 54. Hxd9 Axd9 55. Cc0
+H5e6 56. Hxh4 Ae8 57. Hf3 cd5 58. c4 Ke9 59. b4 Kd9 60. Cf0 dc5 61. cd4 Hi6
+62. Ke0 Hig5 63. He5 Ke9 64. Cd0 -- 65. ba4 Hf7
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-04"]
+[Round "본선"]
+[White "귀마 김동학 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "51"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Ef3 f5 9. Af1 Ce5 10. c4 g5 11. d4 Ef6 12. d5 Cee7 13. Ri1 i5 14. g4
+i4 15. gxg5 fxg5 16. Rg0 Exh3 17. Hxh3 gf5 18. Rg4 i3 19. Ch5 Ke9 20. Ch0
+Raa8 21. Hi5 Ri6 22. Rxi3 Rai8 23. Rh3 Ade8 24. Kd0 fg5 25. Rg2 Cg7 26. Eg6
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-05"]
+[Round "본선"]
+[White "귀마 김동학 프로"]
+[Black "귀마 김현기 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ra1 ef6 6. He3 Ee6 7. Hd5
+Ce5 8. c4 Kf8 9. Ef3 Ce9 10. Ke0 Afe8 11. Ri4 Hbd8 12. Hi1 i5 13. Ri2 f5
+14. g4 Ef6 15. He3 fg5 16. gxg5 gxg5 17. Exi5 Exd3 18. Rf1 Exf0 19. Kxf0
+Kf9 20. Ri3 cd6 21. Exf7 Axf7 22. Rxi9+ Cxi9 23. Ch9 Ci0 24. Cxd9 bc6 25.
+Hc2 Ra5 26. Hg2 Rf5 27. Rxf5 gxf5 28. Cd7 fg5 29. Ke0 Hb9 30. Cd1 Cg7 31.
+Hge3 Eg9 32. Hd4 Ei6 33. Hf3 gh5 34. He5 Kf8 35. Hf5 Cc7 36. Ke1 d5 37.
+Hd7+ Ce7 38. Cf1 Cxc0 39. Hc9 de5 40. Hg7+ Ef4 41. Hxh5 cd6 42. Hb7 Hc7 43.
+Ha5 Ke8 44. Hxf4 e4 45. Hg6 e3 46. Ce4 Hd5 47. cd4 Hf6 48. Hf4 Hxe4 49.
+dxe4 d5 50. Hg6 Ce9 51. ef4 e2+ 52. Kd1 d4 53. Ae0 d3 54. Hb3 Ce3 55. He5
+dc3 56. Hxf7 Cxe0 57. Hd6+ Ke7 58. Cc1 Ce3 59. Hc5 c2 60. Hb3 Cxa3 61. Hf5+
+Ke8 62. Ce1+ e2xe1+ 63. Kxe1
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-21"]
+[Round "결승전"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김기영 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1 d5
+8. Ad1 Ed6 9. Ed3 c5 10. Ra1 a5 11. c4 Ea4 12. cb4 d4 13. bc3 c4 14. bxc4
+dxd3 15. cxd3 Exd2 16. Axd2 Ri5 17. Ce4 Ke9 18. Cf2 Afe8 19. Rc0 Ch7 20.
+Ke0 Ch1 21. Ade1 Ch9 22. Cd0 Ce7 23. cd4 Eb8 24. Ce2 Add8 25. Rc6 Rc5 26.
+Rd6 Rg5 27. de4 Cd9 28. ef4 Cg9 29. ih3 Rc5 30. d4 Rac9 31. g4 Af8 32. hg3
+Ade8 33. Ra6 Ra9 34. Rc6 Rc9 35. Ra6 Ra9 36. Rc6 Rxc6 37. Exc6+ Kf9 38. d5
+Cd9 39. He3 Rc9 40. d6 Cxd6 41. Hf5 Rxc6 42. Rd1 He6 43. Hxd6 Ce9 44. fe4
+gf6 45. e5 Hd8 46. ef5 Hb7 47. fxf6 Hxd6 48. Cxd6 Hxf6 49. Cd0 Ee6 50. Rd4
+ab5 51. gf4 Eb4 52. Rd3 bc5 53. Kf0 c4 54. Ce0 Cg9 55. f5 Hh7 56. g4 hg6
+57. f4 Cd9 58. Rh3 Rc7 59. Ch0 Hg9 60. Cg0 Rc6 61. g5 gxg5 62. Cxg9 gxf5
+63. fxf5 Rc5 64. f6 Rc6 65. Rh6 Ke9 66. fe6 Ad8 67. Ce0 Afe8 68. Aef2 Ra6
+69. ef6+ Kf9 70. Rg6 cd4 71. Cg1 Ed7 72. A1e1 Ef4 73. fe6 Ke9 74. Rg4 Ec2
+75. Cd1 Ra3 76. Cf1 Ri3 77. ef6 d3 78. Rc4 Ea5 79. Rc5 Ed7 80. Rh5 de3 81.
+Re5 ef3 82. fe6
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-14"]
+[Round "본선"]
+[White "귀마 김현기 프로"]
+[Black "원앙마 이양근 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 b5 5. Ed3 Hc7 6. Ad1 c5 7. Af1 Cd7
+8. gf3 g5 9. Ei3 ih6 10. ab3 Rxa0 11. Rxa0 Ea6 12. Ci2 Ei6 13. Cbe2 Rh9 14.
+Rc0 Exc3 15. bxc3 ed6 16. c4 d5 17. cxc5 dxc5 18. Cf2 h5 19. Rg0 Hd5 20.
+Hf4 Hxf4 21. Cxf4 Rh6 22. Cf2 Ke9 23. h4 He6 24. hxh5 gxh5 25. Ef6 Hd4 26.
+Ce4 Afe8 27. Rg7 Hc6 28. Ce2 Add8 29. Ce6 Rh8 30. Rg6 Ef8 31. Ce2 cd5 32.
+Ed3 He5 33. Re6 bc5 34. Cf0 Ri8 35. e4 Rxi3 36. exe5 Cxe5 37. Ea5 Cf9 38.
+Ec8 Ci5 39. fg3 Kd9 40. He4 Ri1 41. Cf7+
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-15"]
+[Round "본선"]
+[White "귀마 차선균 프로"]
+[Black "원앙마 이양근 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hf2 h5 5. Ef3 Hg7 6. Af1 g5 7. Ad1 Cf7
+8. cd3 Rb9 9. Ea3 cd6 10. Ha1 Hd5 11. Rac0 Ke9 12. gh3 Afe8 13. Rc4 Kf9 14.
+Ric0 Ce9 15. Ce0 Hf5 16. Cb2 ab6 17. Rc8 Aed8 18. Kd0 Hdxe3 19. dxe3 Hxe3
+20. Afe1 Hf5 21. R0c3 Ri6 22. Hc2 Rb7 23. Ra8 He7 24. Cb0 Rf6 25. Cf0 Rg6
+26. b4 e5 27. b5 gf5 28. Cxb6 d5 29. Ra4 Cf4 30. Hd3 e4 31. Hxf4 exf4 32.
+Ec1 Ke8 33. Cfb0 Rg1 34. He3 Ece6 35. Rc2 de5 36. Hg2 hg5 37. Ce0 g4 38.
+He3 fe4 39. Hc4 Rg0 40. Hd2 gf4 41. Rc5 Rd7 42. Exe4 fxe4 43. Cb2 Hg6 44.
+Cf2 Ce7 45. Hf1 Rd3 46. Cf0 Hf4 47. Ec0 Hg2 48. Cf2 ef4 49. Ra3 Rd7 50. Rg3
+Cc7 51. Af0 Rg1 52. Rg8+ Kf9 53. Rxe5 Eb4 54. Rxf5+ Cf7 55. Rxg9+ Kf8 56.
+Rg8+ Kf9 57. Rxf7+
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-31"]
+[Round "본선"]
+[White "귀마 김동학 프로"]
+[Black "원앙마 이양근 프로"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ed6 4. ab3 He6 5. ef3 Hc7 6. Ri4 c5 7. Ei3 Ri7
+8. Ed3 Rg7 9. Rb4 Cd7 10. Rb8+ Ad8 11. g4 ih6 12. Rc8 d5 13. Hf4 Cd9 14.
+Cb8 Ra8 15. Rxc7+ Rxb8 16. Rxc9 Rb6 17. Ad1 Hxf4 18. gxf4 d4 19. Eb0 gf6
+20. hg3 cd5 21. Ra9 Ee6 22. R9xa6 Rxa6 23. Rxa6 de4 24. fxe4 Cxe4 25. Kd0
+Rb7 26. Hd2 Ce7 27. c4 Rd7 28. Ef1 Ke9 29. Afe1 Afe8 30. Ce0 hg6 31. g4 Cf9
+32. gf4 Rb7 33. Ei3 Rd7 34. Exg6+ fxg6 35. Rxe6 g5 36. Rg6 gh5 37. fe4 Cd9
+38. bc3 Ra7 39. Ed3 Ra3 40. cb3 Ra4 41. Eb6 Cd7 42. Rd6 Ra5 43. f4 hg5 44.
+Rg6 Rb5 45. b4 Ra5 46. Rg9+ Af9 47. Rxg5 Afe8 48. f5 dc5 49. cd4 cd5 50. f6
+Ra6 51. Rg9+ Cf9 52. b5 dxd4 53. exd4 Ra4 54. d5 Rb4 55. dc5 Add7 56. fe6
+Cb7 57. ed6 Ade7 58. Exe8 Kxe8 59. Rg8+ Kd9 60. Rf8
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-01"]
+[Round "본선"]
+[White "귀마 김기영 프로"]
+[Black "원앙마 이양근 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. Hf2 Hg7 6. Af1 Rb9 7. Ad1 Rb5
+8. Ea3 ef6 9. cd3 ab6 10. Hd4 Rd5 11. bc3 Rg5 12. ih3 Rxi0 13. Rxi0 Cf7 14.
+Exc6 Rc5 15. Rb0 Ha8 16. Rb4 Ea6 17. Rc4 Rxc4 18. cxc4 hg5 19. Ea3 Ad8 20.
+c5 Cd9 21. Hb3 He6 22. Kf0 Ei6 23. h4 Hac7 24. Ade1 Cg9 25. c6 bxc6 26.
+Exc6 Cc9 27. Ea3 Ca7 28. Ce0 Cxa3 29. Ha5 Hc5 30. Hc4 Ca7 31. e4 Hd7 32.
+Hb6 Hb5 33. Hd5 Kf8 34. Cb2 Cf7 35. Hb4 Hc7 36. d4 Exd4 37. exd4 g4 38.
+gxg4 Cxf3 39. d5 Ha8 40. d6 Hdb6 41. dc6 Hc4 42. Cb8+ Ae8 43. Cexe8 Kf9 44.
+Cc8 He3 45. Ke0 Cg9 46. Hd1 Hf5 47. Hd5 Cd9 48. He7+ Ke9 49. Hxf5 fxf5 50.
+Hc3 Cf7 51. Hb5 Ad7 52. Aff2 f4 53. Afe2 fxg4 54. hxg4 gf6 55. Cc1 Eg3+ 56.
+Cf1 Ed5 57. Cb0 Ae8 58. Hc3 Ea3 59. Hb5 Ed5 60. Kf0 Hc9 61. Cg0 Hd7 62. cd6
+Hb8 63. A2d2 Ha6 64. Ce0 Kf9 65. Hc3 Hb4 66. Hb5 Ad8 67. Ce3 -- 68. Aee2
+Hd3 69. Hc3 He5 70. gh4 Cxd6 71. Hxd5 Cd9 72. Hc3 Hf3 73. Cxf6 Hxh4 74. Ke0
+Hg2 75. Cb3
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-26"]
+[Round "본선"]
+[White "원앙마 이양근 프로"]
+[Black "귀마 김경중 프로"]
+[Result "1-0"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Hg2 ih6 4. Che2 Ef6 5. ef3+ Che7 6. Hge3 ed6 7. g4
+h5 8. f4 g5 9. Ke0 Ee6 10. Af1 Cd7 11. Cd2 Ke9 12. Ade1 Afe8 13. Cf0 Cf9
+14. c4 Add8 15. b4 ab6 16. Rxa9+ Cxa9 17. ih3 Rxi0 18. Cxi0 gxg4 19. fxg4
+hg5 20. h4 gxg4 21. hxg4 Cf9 22. Ei3 Kd9 23. cd4 Cd7 24. bc4 b5 25. Ea3 Ce9
+26. Cc0 Ha6 27. Ca2 Hc7 28. Ce2 Ha6 29. de4 Cc9 30. e5 Eg9 31. ef5 Exc4 32.
+Cxc4 c5 33. Cc0 Cd3 34. Hb0 b4 35. Ed1 b3 36. Ad2 c4 37. Eg6 Hh8 38. Cg0
+Ei6 39. f6 Hc5 40. g5 c3 41. Ha2 Cd7 42. Ade1 cd3 43. Hf5 d5 44. Eb4 de5
+45. Exd7 exf5 46. gxf5 ba3 47. Hb0 Aexd7 48. Cd0 He4 49. Hd1 Hg3 50. fe5
+Hxe2 51. Axe2 Ce9 52. Exe9 Kxe9
+{Black resigns} 1-0
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-24"]
+[Round "본선"]
+[White "귀마 김동학 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "207"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ra1 ef6 6. He3 Ee6 7. Hd5
+Ce5 8. c4 gh6 9. Ri4 f5 10. d4 Ci7 11. Rg4 fg5 12. Rf4 Hbd8 13. de4 Cei5
+14. g4 Cxd5 15. ed4+ Ce7 16. dxd5 hg6 17. gh4 ih6 18. hi4 Af8 19. h4 Kf9
+20. Hf2 Ade8 21. a4 Ce9 22. Ra3 Cg9 23. ab4 Rxa3 24. Exa3 Cd9 25. c5 cxc5
+26. dxc5 Ec3 27. He4 Ee6 28. Ce0 Cg9 29. Hf2 Ec3 30. Cg0 Ri7 31. Ce2 Ef6
+32. cd5 Ea6 33. Af1 bc6 34. Kf0 cd6 35. Ade1 Cd9 36. de5 Ec9 37. Ef3 de6
+38. exe6 Hxe6 39. Rc4 Ea6 40. Ec5 Hd6 41. Rc0 Hf4 42. Ci2 Rc7 43. Cd0 Hh3
+44. Ed1 Hxf2 45. Afxf2 He4 46. b5 Rc6 47. Ra0 Ed8 48. Ra3 Rc7 49. Re3 Hxc5
+50. bxc5 Rxc5 51. Ce2 Ea6 52. Ra3 Ec3 53. Ke0 Rc4 54. Cf0 Cf7 55. Rb3 Eh3
+56. Cd0 gf6 57. Ch0 hg6 58. Cc0 Ef5 59. Ch0 Rc3 60. Rb4 Rg3 61. Cd0 fe6 62.
+i5 Ec3 63. i6 gf5 64. hg4 gf6 65. ih6 Ae9 66. Rc4 Afe8 67. h7 Cd9 68. hg7
+Af8 69. g8 Afe8 70. Aff1 Cf7 71. Aff2 A9d9 72. -- Add8 73. Ch2 Cd9 74. Ch5
+fe5 75. gf4 Cxd1 76. Cc5 Cd9+ 77. Cxc3 Rxg8 78. Ci3 Ri8 79. Ca3 fg6 80. Rc6
+ed6 81. Rc3 Ef6 82. Rg3 Eh9 83. Ch3 gf6 84. Ce3 Ee7 85. Aee2 de6 86. Ce1
+Ri4 87. Cf0 Ke9 88. fg4 Ri0 89. g5 Ri9 90. g6 Rg9 91. g7 Rh9 92. g8 Rh6 93.
+Ri3 Af7 94. Af1 Rg6 95. Ri8 Ade8 96. Ci1 e4 97. Cd1 e5 98. Afe1 f5 99. Cf1
+ef4 100. g8h8 Eb5 101. Ri3 Ed8 102. A2f2 Ea6 103. Cxf4 fxf4 104. Cxf4
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-12"]
+[Round "본선"]
+[White "귀마 김경중 프로"]
+[Black "귀마 김기영 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "238"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ed3
+Ke9 8. Ri4 Ed6 9. Rc4 Rc8 10. Hd2 Raa8 11. Ei3 ab6 12. Rxa8 Rxa8 13. Ke0
+Ade8 14. Afe1 Cb5 15. gf3 Cb9 16. Kf0 Aff8 17. Ce0 ef6 18. Cg0 Hi8 19. Cf2
+Ei6 20. Re4 Kd9 21. Af1 Cg9 22. Hi1 Ra5 23. Ade1 Ce9 24. Ri4 fe6 25. Cfd0
+Ce7 26. Rh4 Rh5 27. Ra4 Ke9 28. Ce0 Cd9 29. Ra9 gf6 30. c4 Kf9 31. Ch0 Ri5
+32. Ce0 Ce9 33. bc3 Hg7 34. Ra3 Cf7 35. cd4 Exf3 36. exf3 Rb5 37. Ra9 h5
+38. Hg2 Cd9 39. de4 Cg9 40. Hi1 cd6 41. c4 bc6 42. Hg0 hg5 43. Hf2 g4 44.
+Cg0 Hh5 45. cd4 Cg2 46. Ea1 c5 47. Hd3 Cg9 48. Ce0 Ce9 49. Ch0 Hg7 50. Cf2
+cd5 51. dc4 Ch9 52. Cfd0 Rb8 53. Cg0 Hi8 54. Cd0 Rb7 55. Hb4 Hb6 56. Hc2
+Ce9 57. Ha3 Ri7 58. Cf2 Hd7 59. Hb5 Cf7 60. Ra3 Hg7 61. Cb2 Ri9 62. Ke0 f5
+63. Ce2 Hf6 64. cd4 dxd4 65. Hxd4 Hfh5 66. Ra9 Ch7 67. Cxh5 Hxh5 68. Ra5 e5
+69. exe5 fxe5 70. Hb5 d5 71. Ra4 gf4 72. fxf4 Hxf4 73. Ca2 Ch0 74. Cf2 Cg9
+75. h4 Ke9 76. Hd6 Ri7 77. Hc8+ Ad8 78. Ra6 Ae8 79. hg4 Hg2 80. Eg6+ Ef8
+81. Exd8 Rc7 82. Ra8 Axd8 83. Ec4 Hi1 84. Cd0 Kf9 85. Ha7 Ae8 86. Cf2+ Eh5
+87. gh4 Ee7 88. Hf3+ Ke9 89. Hc8+ Ad8 90. Hg5 Hg0+ 91. Cf0 Kd9 92. Hf7 Cc9
+93. Exe7 Ae8 94. Hg5 Rc0+ 95. Ad0 Ch8 96. Ra9 Rxc8 97. Ade1 Ch0 98. Eb5
+Rc0+ 99. Ad0 Hh2 100. Ae1 Cxh4 101. Ra4 Ch0 102. Ee3 Rc6 103. Ra9 Ch9 104.
+Ra7 Hg4 105. Eh1 Rg6 106. Hi4 Cf9 107. Rh7 Rg9 108. Ef4 e4 109. Ed1 Cd7
+110. Ea3 d4 111. Ec6 Hf6 112. Rh6 Hd5 113. Rd6 Hb4 114. Ea9 Rg7 115. Exd7
+Rxd7 116. Rh6 Cc9 117. Cd2 Hd3 118. Hg5 Re7 119. Rd6+ Ke9
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-13"]
+[Round "본선"]
+[White "귀마 김경중 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "50"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9 12. Kd1 Kd8 13. c4 Exg3
+14. fxg3 Ade8 15. gf3 Kd9 16. Hd2 de6 17. Ade1 Ed6 18. Ce0 Ad8 19. Hd5 Afe8
+20. Kd0 Rh5 21. b4 e5 22. Hc3 ed5 23. Rb7 Ce7 24. Rb5 dc5 25. cxc5 cxc5
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-18"]
+[Round "3위 결정전"]
+[White "귀마 김동학 프로"]
+[Black "귀마 김기영 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1 f5
+8. g4 Ad8 9. Af1 Af8 10. gf4 g5 11. fxf5 gxf5 12. Eh5 fg5 13. Exf8 Ef6 14.
+Rg0 ih6 15. Rxi9 Rxi9 16. Rxg5 Ei4 17. Rg4 Exf2 18. Axf2 Ri1+ 19. Kd0 Rh1
+20. Rg0 Cxh3 21. He3 Chh7 22. Hd5 cd6 23. Hf6 hg6 24. Hg4 Eh4 25. Ch5 Ri1
+26. Ef3 Ri5 27. Ch1 bc6 28. Cc1 Hd9 29. Cc4 g5 30. He3 Ri3 31. Ade1 Rxf3
+32. Ri0 Rh3 33. Ce0 Ee6 34. Ri8 Eh8 35. Cc1 Hxf8 36. Cf1 Ch9 37. Ca0 gf5
+38. Ca8+ Ad7 39. Cxf8 Rh0+ 40. Kd1 Kxf8 41. Hxf5 Ke8 42. Hxe7 Axe7 43. a4
+de6 44. a5 e5 45. a6 Hg9 46. Ad2 Cd9 47. Ri6 c5 48. Rg6 Ke9 49. Cc1 Rc0 50.
+Ce1 Rxc3 51. Cxe7 Rxd3 52. Ce0+ He8 53. Ke1 cd5 54. Afe2 Rf3 55. a7 Rf6 56.
+Rg8 Ef5 57. a8 Rf7 58. Af2 Cxd2 59. Ce2 Cd9 60. ab8 Kf9 61. bc8 d4 62. Rg6
+e4 63. Re6 Cg9 64. Rh6 d3 65. Ce5 Ce9 66. Ae2 e3 67. Af2 Hg9 68. Re6 Hh7
+69. Rh6 Hf8 70. Kf0 Ei3 71. Ke1 Re8
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-20"]
+[Round "결승전"]
+[White "귀마 차선균 프로"]
+[Black "귀마 김기영 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ke9 8. Af1 Ra8 9. c4 Rii8 10. Rb0 gh6 11. Ef3 Exg3 12. hxg3 Rig8 13. Rig0
+Afe8 14. Ce4 f5 15. g4 fe5 16. Cee2 Ef6 17. d4 Ei4 18. Hh1 Rd8 19. gf4 Rxg0
+20. Rxg0 Ef6 21. Hf2 Ch4 22. Rg4 Ch9 23. Ce0 Rb8 24. Kf0 Exc4 25. dxc4 Add8
+26. Hd3 cd6 27. Hxe5 de6 28. Hd3 Cd9 29. Hc5 He5 30. Cxe5 exe5 31. Cb2 Rc8
+32. Ce2 b5 33. Cxe5 bxc5 34. cxc5 Cf9 35. Rg9 Hd5 36. cxd5 Rxc2 37. Eb5 Rc3
+38. Ei1 Rd3 39. Exe7 Rxd5 40. f5 Rxd1 41. Ec4+ Ad7 42. Ee1 Rd3 43. Ce0+
+A8e8 44. a4 Rd4 45. Rg4 Cf3+ 46. Exf3 Rxg4 47. Exh6 Rxa4 48. Exe8 Axe8 49.
+f6 Kf9 50. Eb3
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-21"]
+[Round "결승전"]
+[White "귀마 김기영 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Ch4 Ee6 7. g4
+Ke9 8. Cf4 Hd8 9. Hf2 Ade8 10. Cf1 Ri8 11. Ca1 Rb8 12. Ef3 Cb9 13. Ch1 Ri9
+14. ab3 Aff8 15. Ra9 Rb7 16. Cb1 Rc7 17. h4 Ri7 18. Cg1 ih6 19. Rxi7 Cxi7
+20. Exh6 gxh6 21. g5 Ra7 22. Rxa7 Cxa7 23. Cg7 Aff9 24. h5 hxh5 25. Exh5
+Kd9 26. He3 Exc3 27. Hd5 Hd6 28. bxc3 fe6 29. Cg1 Ee7 30. g6 Ce9 31. Cd1
+Hc8 32. Hxe7 Axe7 33. Cxe7 ed6 34. de3 Ae8 35. Ce2 Ha9 36. Hg4 Hb7 37. Hf6
+Ce6 38. Hxe8 Kxe8 39. gf6 c5 40. e4 bc6 41. fxe6 dxe6 42. e5 Kf9 43. Cxe6
+cd5 44. Cxd8 dxe5 45. Ce2 e4 46. Ce0 ef4 47. Ef2 Cf7 48. cd3 Hxd8 49. de3
+cd6 50. Af1 de6 51. Ei0 ed6 52. Eg3 Hb7 53. Ad1 fg4 54. Ei0 Hc5 55. e4 Hd3+
+56. Ad2 Kf8 57. e5 Cf9 58. Ef2 Cf3 59. Ei4 gf4 60. e6 d5 61. e7 de5 62. Eg7
+Cc3 63. Ce3 f3 64. Ce0 Ce3 65. ed7 Hc5 66. de7 Hd3 67. ed7 Hc5 68. de7 He6
+69. Ed9 Hc7 70. Ea7 Cxe7+ 71. Cxe5 Cxa7
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-04"]
+[Round "본선"]
+[White "귀마 김경중 프로"]
+[Black "귀마 김동학 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "70"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ri4
+Ke9 8. ef3 Raa8 9. Ri7 Ce5 10. Ri4 Ed6 11. Rc4 ab6 12. Rxa8 Rxa8 13. Ed3
+Cee7 14. Ee3 Ra6 15. Hd2 Ade8 16. Ke0 c5 17. Rxc5 Exf3 18. Rc4 Exd0 19.
+Kxd0 ed6 20. Exb6 d5 21. Rc6 He6 22. Cxe6 Exe6 23. Rxe6 Ra2 24. Hc0 Cc7 25.
+Rc6 Cc5 26. Rc7 Cxc0 27. Exc0 Cb5 28. b4 Ce5 29. Rb7 Ad8 30. He3 Rxb2 31.
+c4 Rd2+ 32. Hd1 Ke8 33. Rc7 Ce9 34. b5 Rc2 35. Ea3 Ra2
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-05"]
+[Round "본선"]
+[White "귀마 김현기 프로"]
+[Black "귀마 김동학 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. Ca2 Rc8 5. ab3 cd6 6. Ce2 Ce7 7. Hf2
+Ke9 8. Ef3 Cxb3 9. cxb3 Rxc2 10. Kf1 Rc4 11. Afe1 Ea6 12. Ce0 Hc7 13. ed3
+He5 14. Ee3 gf6 15. Rc0 Rxc0 16. Exc0 Cb7 17. bc3 Ee7 18. Kf0 Hb5 19. cb3
+bc6 20. Ri4 Cf7 21. Cc2 Ed8 22. b4 Ha7 23. d4 i5 24. Ri2 Hxf3 25. gxf3
+Cxf3+ 26. Af1 Ade8 27. Ee3 Ea6 28. dc4 Aff8 29. Ca0 Ed8 30. ba4 Hb5 31. ab4
+Ha7 32. Ae1 e5 33. Ke0 f5 34. Ci0 f4 35. Ec0 Cf7 36. Cxi5 f3 37. Hd3 ef5
+38. Ri3 Cd7 39. Hb2 Rg9 40. Ci0 Rg2 41. Aef2 Rg4 42. A2e1 Cf9 43. h4 Rg2
+44. Aef2 Rg0+ 45. Cf0 f4 46. Ca2 Rh0 47. hi4 Ef5 48. Ri2 Ec3+ 49. Hd1 Exf1
+50. Axf1 Eg4 51. Re2 Cd9 52. Ea3 Hc8 53. Hb0 He7 54. Ed1 Hg6 55. Exf4 Hxf4
+56. Re4 Cf9 57. Hc2 de6 58. ih4 e5 59. Rd4 Ee7 60. Ce2 Rh1 61. Ke1 Rxh4 62.
+Cxf3 Rh3 63. Cxe7+ Axe7 64. Cxf8 Hg2+ 65. Af2 Rf3 66. Rg4 Hi1 67. Hd4 Re3+
+68. Ae2 cd6 69. Rf4 e4 70. Rf1 Hg2+ 71. Rf2 Hf4 72. Hc2 Rc3 73. Hd0 Ae8 74.
+Cf3 Hh3 75. Rf1 Hg5 76. Cf0 Rc1+ 77. Kd2 Cd9+ 78. cd4 de6+
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-20"]
+[Round "결승전"]
+[White "귀마 김기영 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Ch4 Ee6 7. g4
+Ke9 8. Cf4 Hd8 9. Hf2 Ade8 10. Cf1 Ri7 11. Ca1 Rb8 12. Ch1 ih6 13. Rxi7
+Cxi7 14. Ch4 Ee7 15. ab3 Eb9 16. Ra5 Cd7 17. Cf4 Aff8 18. g5 gxg5 19. Rxg5
+Cf9 20. Rg8 Kd9 21. Cf1 hg6 22. Hg4 Ch7 23. Ef3 Ce7 24. Exg6 fxg6 25. Rxg6
+Ra8 26. Cd1 Ce9 27. Hge3 Ed6 28. Eh6 Cd7 29. Cxe6 Exb3 30. Ce2 Exd0 31. c4
+Ra0 32. d4 Ea2 33. Ef3 Cxe3 34. Ce0 Ce9+ 35. Kf1 Rc0 36. Rg2 Exd4+ 37. cxd4
+Ra0 38. Ae1 Ra2 39. Rf2 Hg5 40. hg3 Hi4 41. gh3 Cc9 42. h4 Rxc2 43. Rxc2
+Cxc2 44. hxi4 Cf9 45. dc4+ cd6 46. Ce6 b5 47. Cb6 Cxf3
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-26"]
+[Round "본선"]
+[White "귀마 김현기 프로"]
+[Black "귀마 김기영 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{한초가 바뀌었다.}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7
+{서로 정석대로 두어가고 있다.}
+4. Hd2
+{귀마가 나왔는데 아무래도 이런수를 두는 거 보니 또 김기영프로의 힘에 처음부터 위축된듯하다. 김기영프로는 상대가 이런수를 수면 무조건 한귀상이 나와 초졸을 때려버려 모양을 흐트려놓곤 한다.}
+4... ed6
+{길게가려고 하는것 같다. 개인적으로는 김기영프로가 상대가 이렇게 둘때 그냥 고분고분 받아주는것은 처음 보았다.}
+5. ef3 Hd7 6. Ri1
+{양차합세를 준비하였는데 이미 안되는 수라고 생각한다. 양차합세를 하려고 마음먹었다면 차라리 귀마보다는 귀상이 나가있는게 낫다.}
+6... Ee6 7. Ke0 Ri5 8. Ria1 cb6
+{병을 올려서 양차합세를 막는것은 초에서 귀마를 진출시켜 병을 공격하는 강수가 있다. 실전처럼 병을 좌진으로 당겨서 지켜야 아무수도 안생긴다.}
+9. Ed3 Rc5
+{여기서 귀마에 있는 병을 당겨서 대응할수도 있고 실전처럼 차가 와서 공격적으로 지킬수도 있다. 
+이렇게 차로 공격적으로 병을 지킬때는 초졸을 치밀어 올릴때에 대한 대책이 있어야 둘수 있다. 지금과 같은 경우는 초졸을 올리면 차가 귀상을 잡으러 가겠다는 뜻으로 보인다. 귀상으로 병을 친다면 차가 귀마를 먹고들어가 초의진형이 먼저 무너지게 된다.}
+10. Rc0
+{상으로 둘잡이를 당하는것을 막으러 차가 들어섰지만 이 자체로 초에서는 굴복이며 여러수를 손해보았다.}
+10... Ra8
+{이제는 한의 양차활용을 할수 있게 되어 초에서 역습을 받게 되었다.}
+11. Ade1
+{지금 초사를 닫은것은 한차가 2칸들어서지 말라고 하는것이다. 만약 2칸 들어서게 되면 면포로 차를 씌우게 되어 차가 죽게 된다.}
+11... dc6
+{이에 한에서는 차가 들어서질 않고 튼튼히 모양을 정비하였다.}
+12. ih3 Ke9
+{보통 사를 올리고 비뚫궁하는것이 정수이지만 상대가 궁을 내리고 사를 닫자 똑같은 포진으로 맞대응하려하고 있다. 
+
+김기영프로는 상대가 이상한수를 두면 똑같이 이상한수를 두어 맞대응을 하는 경우를 많이 보아왔다. 이번에도 상대가 정수포진을 쓰지 않으니 똑같은 포진으로 두려는 것 같다. 그러면서 속으론 
+'난 이렇게 둬도 넌 이길 수 있어!' 라고 말하는 것 같다.}
+13. Kd0 Ade8 14. Ee3 Rd5 15. g4 c5
+{한의 면포가 우측으로 넘어가 둘잡이를 준비 하는 것 같다. 초에서 대응을 하지 못하도록 미리 덫을 깔고 있는수를 두고 있다.}
+16. Ce0 Ed6 17. Hf4 Rf5 18. hg3 Cc7
+{이수로 초의 응수가 곤란해졌다. 초차가 가만히 잇으면 한의 귀상으로 초의 졸이 공짜로 죽게 되고 연이어 한의면상으로 졸이 또 죽게 된다. 그렇다고 초졸을 올려서 대응할수도 없으니 초에서는 진퇴양난의 지경에 빠지고 말았다.}
+19. Rca0 Exc3 20. bxc3 Cxc3
+{전판과 마찬가지로 결국 초반에 상으로 양득을 당하고 말았는데 이렇게 되고 나면 초에서 크게 시달릴것 같다. 귀마대 귀마에서는 특히나 귀마쪽이 무너지게 되면 기물상,모양상의 손해를 더 보게 된다.}
+21. Ad1 Ce7
+{차를 잡겠다는 의도. 초의 양차가 자기 진형에 갇혀 활동성이 없어보인다.}
+22. Rb0 Cc9 23. Cf2 Aff8 24. Rb4 Rc8
+{병을 밀어올리겠다는 의도. 초에서 무슨 대책을 세울수 있을지 걱정된다.}
+25. Eg0
+{상이 후퇴하는 것보단 차라리 초차가 2칸 안으로 들어서는게 나아보였다. 전판과 마찬가지로 스스로 기물들을 후퇴시키면서 한의 기물들을 풀어주고 있다. 너무 김기영프로에게 주눅이 들어 두고있는게 아닌가 싶다.}
+25... c4 26. Rc1
+{뒤늦었지만 그래도 이수가 좋았다. 여기서 더 양보하다간 초진형이 무너지게 된다.}
+26... Rfc5 27. Rb0 cd4
+{여기서 한병을 밀지 않았는데 아무래도 초차가 나란히 서서 한병이 밀고들어오는것을 막는게 싫었던듯 싶다. 그래도 이렇게 되면 초에서도 한시름 던 모습이다.}
+28. Rxc5 Rxc5 29. Ea1 b5
+{한에서는 '세월아 네월아' 두고있다. 한병은 진격을 해오는데 초에서는 마땅히 둘것이 없다.}
+30. Cc0
+{초상을 진출해서 한차를 ?아볼려고 하지만 한포가 미리 있어 잘 안되는수로 보인다.}
+30... a5
+{저 병들이 큰 사고를 칠것 같다. 초에서는 빨리 무슨 대책을 세워야할듯 싶다.}
+31. fe3 Rc1
+{한에서는 계속 초의 아픈곳만 찔러가고 있다.}
+32. Ed3 Rc3
+{이렇게 되자 초의 마까지 부동이 되었다.}
+33. Ce0
+{결국 초포가 다시 원위치로 돌아감으로써 2수를 손해봤다.}
+33... Kd9 34. Ei3
+{상으로 둘잡이를 하겠다는 의도.}
+34... Cb7 35. Ra0 gf6
+{둘잡이를 막으면서 초마를 역으로 병으로 ?아내려고 하고 있다. 초마가 뒤로 후퇴한다면 한병으로 초상을 먹고 들어가 초의 4선이 무너지고 만다.}
+36. gh4
+{한병이 못오게 초상길을 텄다.}
+36... Cf7
+{초의 응수에 따라 공격하겠다는 뜻이다. 만약 초졸을 중앙으로 모은다면 한병이 올라와 마를 ?겠다는 뜻이고 졸을 올려 대응해도 상멱이 막히게 되어 역시 병으로 마를 ?을수 있게 된다. 초의 응수가 곤란해보인다.}
+37. g4 Eb3+
+{초궁이 올라가면 한이 후포를 놓아 초의 면졸을 잡겠다는 뜻으로 보인다. 김기영프로는 적은 이득을 얻는것보단 여기서 아예 끝장을 내버리려 하는것 같다.}
+38. Hxb3 Rxb3 39. Exa5
+{초에서 답답한 나머지 반격을 하긴 했지만 기물손해가 심하다.}
+39... Rxe3 40. Eg0 Rf3
+{보통사람들 같으면 일단 상을 잡고난 다음 생각하기 쉬운데 김기영프로는 우선 좋은 선수활용을 먼저 하고 있다.}
+41. Afe1 f5 42. Hd5 fe5
+{마가 갈곳이 없다.}
+43. Rb0 bxa5 44. Hb6 Ch7
+{마를 먹으면 한포로 마를 먹어 오히려 초의 형태를 우형으로 만들겠다는 생각.}
+45. Ha8
+{이수가 좋았다. 한포가 도망갈수 밖에 없다.}
+45... Cf9 46. Ra0
+{여기서 병을 살리려고 하면 마에 의해 병이 죽게 된다. 시종일관 당하기만 하던 김현기프로가 적은 이득이나마 얻게 되었다.}
+46... Ce7 47. Rxa5 Ke9 48. Af1
+{상이 귀상으로 나와보자는 의도. 초에서는 딱히 둘게 없다.}
+48... Cd9 49. Ra6 Hf5
+{공격적으로 병을 지켰다.}
+50. Ce6
+{이게 무슨수인가? 당장 한귀마가 나오면 차포가 동시에 걸리는데.....}
+50... Hg3
+{왜 귀마가 나가 차와 포를 동시에 걸지 않았는지 이해가 가지 않는다. 이것도 일단 절대 선수라고 생각한듯 하다.}
+51. Hc7
+{초에서 한의 귀포를 ?았다.}
+51... Hxf1+
+{그냥 한의 귀포가 도망만 가면 될텐데 기세상 초의 사를 잡은것 같다. 괜히 초에게 반격의 기회를 주는 듯한 느낌이다.}
+52. Ae1 Hc5+
+{차가 세칸들어서서 포장군을 막으면 차는 죽지 않는다.}
+53. Rd6 Hxe6
+{일단 기세상 포를 잡긴 잡았는데...}
+54. Hxd9
+{한의 면포가 걸려있어 초마를 안잡을수는 없다.}
+54... Axd9 55. Rxe6
+{한의면포가 또 걸려있다.}
+55... Ade8 56. Axf1
+{이렇게 되고 보니 결과적으로 마포가 서로 죽었고 한의마와 초의 사가 바뀐결과가 되었다. 한에서 너무 무리해서 공격하다가 실패한 모습이다. 이젠 초에서는 상이 많고 한에서는 사와병 하나가 많은 모양인데 큰 실수만 안하면 초가 충분히 비겨낼수 있을것 처럼 보인다.}
+56... Rd3+ 57. Ke0 hg6
+{사를 안닫으면 병을 당겨와 차가 죽고 만다.}
+58. Ae1 ef5 59. Cxf8
+{기세상 포로 사를 잡았는데 궁을 왼쪽으로 틀어 방어하는것이 나아보였다.}
+59... gf6 60. Re2 Rg3
+{초상이 갈때가 없고 초포의 귀환도 불투명해졌다. 더군다나 한이 계속 선수다.}
+61. Kd0 Rxg0+ 62. Kd1 Rc0
+{한궁이 왼쪽으로가면 초포는 잡을수 있다.  하지만 초포가 병을 먹고 죽은다음 초차를 한칸 이동시켜 병을 달라고 하면 병은 죽게 되고 이후 초차가 한포만 먹어버리면 한에서 이길수가 없다.}
+63. gf4
+{만약 지금 한궁이 왼쪽으로 간다면 아마도 초포로 양병을 잡을것 같다. 그렇게 되면 초차가 한포를 먹고 들어가서 한에서 이길수가 없다.}
+63... fxf4 64. Cxf4
+{이렇게 되니 초에서도 어느정도 모양이 풀린 모습이다. 이제 한병만 잡아내고 초차로 한포만 먹으면 비겨낼수 있다.}
+64... Rc6 65. hg4 fe6 66. Rf2 d3 67. Cf0 e5 68. gf4 Rc0 69. Cd2
+{초포를 병으로 먹으면 초차가 한의 포를 잡으러 가서 이길수가 없다.}
+69... de3 70. Ci2 Rc4 71. Ad2 ed5
+{한병이 진격해오고 있는데 초에서 대응을 잘 못하고 있다. 이제 그 병마져 올라오게 되면 초가 막아내기 어려워 보인다.}
+72. f5 d4 73. f6 d3 74. f7
+{이건 실수다. 한사를 먹고 비길려고 하는 것 같은데 한병이 초사를 먹게된다음 차가 한칸 왼쪽으로 가 장군을 치게되면 외통수가 나오게 되어 한사를 먹을수가 없다.}
+74... Axf7 75. Rg2
+{이제는 초에서 진것 같다.}
+75... Rc1+ 76. Kd0 Rc0+ 77. Kd1 Rf0
+{초에서는 부동이되었다.}
+78. -- Cg7 79. Ae1 Cd7+
+{초사로 장군을 막으면 한포로 사를 먹게 되어 초사만 공짜로 죽게 된다.}
+80. Cd2 Rf4
+{포를 먹은다음 차로 앞장을 치겠다는 수}
+81. Rg9+ Ke8 82. Rg8+ Af8 83. Cd6 Rf6
+{역시 들어가면 한병으로 포를 먹은다음 앞장에 끝나게 된다.}
+84. Kd0 Rxd6
+{여기서 대국을 포기하게 되었는데 전체적으로 보면 1국과 비슷하게 김기영프로의 위세에 눌려서 김현기프로가 너무 위축된 내용이었다고 생각한다. 
+ 
+ 중반전투에서 한의 잘못된 응수를 잘 응징하여 빅국으로 가는 듯 하였으나 병하나의 차이를 극복하지 못하고 실수를 하여 지게 되었다. 비록 이번에 패하긴 했지만 김현기프로도 이에 굴하지 말고 다음 대국에서는 평소처럼 자신감 넘치는 대국을 하였으면 한다.}
+
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-26"]
+[Round "본선"]
+[White "귀마 김경중 프로"]
+[Black "원앙마 이양근 프로"]
+[Result "0-1"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ed6 4. ab3 He6 5. ef3 Hc7 6. Ee3 g5 7. Ra4 Ri7
+8. Ke0 Cd7 9. Afe1 a5 10. Rh4 Rg7 11. Hd2 c5 12. Kf0 ab5 13. Ce0 Ra2 14.
+Cf2 Cxd2+ 15. Axd2 Rxd2+ 16. Ae1 Ra2 17. Cg0 Ra0 18. Hi3 Ke9 19. Rh8 Ra8
+20. Rh9 Ra0 21. h4 Hd4 22. Ri1 Hc2 23. Ad2 Hxb0 24. Ae1 Ra1 25. gh3 Hc2 26.
+Ad1 Hxe3 27. fxe3 Rf7 28. Ae1 Rxf2+ 29. Axf2 Rxi1 30. Cxg9+ Ke8 31. Rh8+
+Af8 32. Cxc9 He6 33. Ci9 Ri0+ 34. Kf1 Rh0 35. Ci4 Cxe3 36. Ci8 Rxh3 37. Rg8
+Cxi3 38. Rxg5+ Ke9 39. Rg9+ Af9 40. Rg6 Cf3+ 41. Ke1 Rxh4 42. Rxi6 Af8
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-11"]
+[Round "본선"]
+[White "귀마 김현기 프로"]
+[Black "원앙마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "179"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Rb4 ih6 9. Rb7 Kf8 10. Exg5 Afe8 11. Ed3 Ri2 12. Rxe7 Rxg2 13. Rxf7+
+Axf7 14. Hd2 Ri2 15. Ei3 Ri1+ 16. Af1 a5 17. Ce0 Ra6 18. c4 Ed7 19. Ra1 Kf9
+20. Cf2 Ae8 21. Ca0 Ke9 22. Rc1 ab5 23. Ea1 Rb6 24. Cb2 d5 25. b4 c5 26.
+cxc5 dxc5 27. Rc3 Ea6 28. Ra3 Rc6 29. bxb5 cxb5 30. Rxa6 Rc1+ 31. Ke0 Rc2
+32. Ade1 Aff8 33. Cb7 Rc7 34. Cb0 bc5 35. Cg0 Ri0 36. Cf0 h5 37. Ed3 Eg5
+38. Ef6 Ad8 39. g4 Hd4 40. gxg5 hxg5 41. fg3 gf5 42. Cg6 Rb7 43. Rd6 Rd7
+44. Rb6 Ra7 45. Rb9+ Ke8 46. Rb6 cd5 47. Hf3 Hc2 48. Rb2 Rc7 49. Cg2 Hh5
+50. Ad2 Re7+ 51. Afe1 Hd4 52. Hxd4 dxd4 53. Rb8 Hxf6 54. Rb6 Hd7 55. Rd6
+de4 56. Rf6 Re5 57. Cg8+ Ke9 58. Ri6 Ade8 59. Ri9+ Aef9 60. Ri6 e3 61. Ra6
+A9e8 62. Cg1 ed3 63. Ade2 Rc5 64. Cg9 Rc0+ 65. Ad0 Ri2 66. Ae1 fe5 67. Ra9+
+Ad9 68. Cxd9 Rc9 69. Cb9+ Ke8 70. Ra8+ Ke7 71. Ra6 Hc5 72. Rb6 Ra2 73. Cb5
+e4 74. Ce5 e3 75. Re6+ Kd7 76. Rd6+ Ke8 77. Re6+ Kd9 78. Rf6 Hd7 79. Rd6
+Ae8 80. Eg6 Rc5 81. Exe3 dxe3 82. Cd2 Rxe5 83. Rxd7+ Ke9 84. Rd4 e2 85. Cf0
+Ra0 86. Rd1 ef2 87. Rd2 f1 88. Re2 f1xf0+ 89. Kxf0 Ri5 90. Ke0
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-14"]
+[Round "본선"]
+[White "원앙마 이양근 프로"]
+[Black "귀마 김현기 프로"]
+[Result "0-1"]
+[TimeControl "25분40초3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Hf7 4. Che2 Ri5 5. Cd2 Che7 6. ef3 ed6 7. Ee3
+Ee6 8. Exg6 hxg6 9. Ra4 Cd7 10. Ke0 Ad8 11. Afe1 Ke9 12. Cf0 Afe8 13. Ee3
+gh6 14. Exc6 dxc6 15. Hge3 Cf9 16. i4 Ri7 17. Rc4 Cc9 18. Hf5 Ef6 19. Rg4
+ab6 20. Hfe3 Rxi4 21. Rixi4 Exi4 22. Rxi4 Ra5 23. Hf5 Cb7 24. Rd4 Kd9 25.
+Cd2 Cd7 26. He3 Ccf9 27. Cxe6 cd6 28. Cxd6 Hb5 29. Rb4 Hfxd6 30. Cxb6 Hd4
+31. cd3 Hc6 32. Ri4 Rh5 33. Ri0 Hc4 34. Cf6 Cc9 35. Cf0 H4e5 36. bc3 Hxd3
+37. cxd3 Cxc2 38. Ri9+ Cf9 39. Hf5 Cc9 40. Hg7 Rh0 41. de3 Ce9 42. Ri5 hg6
+43. Rc5 He7 44. g4 Cd7 45. He6 Af8 46. Hc7+ Ke8 47. Rc6 Kf9 48. Rd6 Ae8 49.
+gf4 Cf7 50. He6 gf6 51. Hd4 fg6 52. f5 Cd9 53. He6 Rh7 54. Rd2 Cg9 55. fe5
+Ke9 56. Hc7 Cf7 57. Hb5 Rh5 58. e4 Cf9 59. f4 Cxf4 60. exf4 Rxe5 61. Hc3
+Re3 62. Hb5 Cd9 63. Rd6 Cf9 64. Rd4 Re5 65. Hd6 Rd5 66. Hc8+ Rd8 67. Rxd8
+Axd8 68. Cxf8 Ke8 69. Cxd8 Hxc8 70. Cg8 Kf7 71. fg4 Hd6 72. gh4 Hf5 73. h5
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-15"]
+[Round "본선"]
+[White "원앙마 이양근 프로"]
+[Black "귀마 차선균 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 ab6 3. Hc2 Ed6 4. Cbe2 Ce7 5. ed3 g5 6. Cf2 Ad8 7. Ke0
+Kd9 8. c4 b5 9. d4 c5 10. Ade1 Afe8 11. Cd0 Ce9 12. Aff1 Hd7 13. Hge3 Hf5
+14. Hxf5 gxf5 15. Ri4 Ci7 16. Rh4 Cc7 17. He3 fe5 18. Ei3 Rh9 19. Rg4 ih6
+20. Aff2 cxc4 21. dxc4 Hf6 22. Ri4 Rh7 23. Hg4 He4 24. cd4 Hg5 25. Ri8 Ci7
+26. Rg8 h5 27. Rxg9 Cd7 28. dc4 e4 29. Rb0 Rb9 30. c5 ef4 31. Ee3 Hf7 32.
+Ri9 fxg4 33. gxg4 Rg7 34. gf4 Hg5 35. hg3 Hh7 36. Ri7 bxc5 37. Rxb9+ Cxb9
+38. Exh5 Rxg3 39. Rxh7 Rxi3 40. fe4 Rxa3 41. Cxe6 Ra4 42. Ce2 Eb3
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-01-31"]
+[Round "본선"]
+[White "원앙마 이양근 프로"]
+[Black "귀마 김동학 프로"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ef6 5. ef3 c5 6. Cd2 Af8 7. Ke0
+Kf9 8. g4 h5 9. f4 g5 10. Afe1 Hf7 11. Cf0 Ade8 12. Add1 Ce9 13. b4 Hd5 14.
+cb3 ab6 15. Rxa9 Cxa9 16. Hge3 Hxe3 17. Ecxe3 Cc7 18. Ha3 Cd9 19. Hb1 cd5
+20. Hc3 de5 21. b5 bxb5 22. Hxb5 Cg7 23. gxg5 hxg5 24. Ec6 ed5 25. Exf8
+Axf8 26. Hc3 de5 27. b4 Ri6 28. Cc0 Cc7 29. Hb5 Cg7 30. bc4 ed6 31. Cxc9
+Exc4 32. Cc0 d5 33. Ha3 Rb6 34. Hxc4 Rb0 35. Hb2 Rxb2 36. Cf0 Rb3 37. ih3
+Rf3 38. Ei3 Rxf4 39. Eg0 Ce7 40. hg3 ef5 41. Ee3 fe5 42. Eb5 dc5 43. Ed2
+ef5 44. Ri6 Re4 45. Kd0 Ke9 46. Rc6 c4 47. Rc7 Ae8 48. gf3 He5 49. Rc5 Rd4
+50. fg3 Rd3 51. Ce0 Rxg3 52. Cxe5 fxe5 53. Rxe5 c3 54. Rd5 cd3 55. -- Af7
+56. -- Ae8 57. -- Cf9 58. -- Cd7 59. -- Kd9 60. -- Ce9 61. -- dc3 62. --
+Re3 63. Cc0 c2 64. Ce0 Rb3 65. Rxg5 cxd2 66. Axd2 Rf3
+{White resigns} 0-1
+
+[Event "제2회 한게임 챔피언스리그"]
+[Site "대한장기협회"]
+[Date "2008-02-01"]
+[Round "본선"]
+[White "원앙마 이양근 프로"]
+[Black "귀마 김기영 프로"]
+[Result "0-1"]
+[TimeControl "25분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Che2 Ef6 5. ef3 Af8 6. Ke0 Kf9 7. g4
+Ca7 8. Rb0 ab6 9. f4 Cg7 10. Cd2 Ra5 11. Rb1 g5 12. He3 Hf7 13. Rf1 gxg4
+14. fxg4 Rh5 15. Afe1 cd6 16. c4 Cd7 17. Cf0 Ce7 18. gf4 hg6 19. f5 Ade8
+20. Add1 Ce9 21. b4 Ea6 22. Ea3 b5 23. Cc0 Hd8 24. Hb0 Hdb9 25. Hbc2 Ca7
+26. Ca2 bxb4 27. cxb4 Cf7 28. Rg1 Ri6 29. fxf6 exf6 30. Rg4 Rg5 31. Rxg5
+gxg5 32. Cf0 f5 33. ih3 Rxi0 34. Cxi0 de6 35. Cf0 e5 36. Hc4 Ce6 37. Cb0
+Hd8 38. Ce2 Cd9 39. Cf0 Ke9 40. Hb6 e4 41. Cc0 Hdb9 42. bc4 Cg9 43. Ei3 Hb5
+44. Hc8+ Ed8 45. c5 Hxa3 46. Hxa3 e3 47. Add2 exe2 48. Axe2 Kf9 49. c6 Cd9
+50. Hb5 Ae7 51. Cf0 Ce8 52. Hcd6 Cxd6 53. Hxd6 Ha7 54. c7 Hb5 55. Hxb5 Exb5
+{White resigns} 0-1
+

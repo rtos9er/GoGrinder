@@ -1,0 +1,743 @@
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "결승전"]
+[White "귀마 남상은 3단"]
+[Black "귀마 황문수 2단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Ri1 Ri5 7. Ke0
+Ee6 8. Hd2 Rd5 9. Afe1 Ad8 10. g4 Kd9 11. Hf4 Rf5 12. Ce4 Afe8 13. Cf2 Rc5
+14. c4 Ra5 15. Rxa5 axa5 16. Ed3 ab5 17. Ce2 Ra4 18. Exg6 Rxc4 19. g5 Rc5
+20. Rg1 Cxb3 21. Hxb3 Rc3 22. Ha1 Rc1 23. gh5 Ec3+ 24. Add1 Rxa1 25. hxh6
+Ra0+ 26. Cd0 He6 27. Hxe6 Exe6 28. Ee3 bc5 29. hg6 cd5 30. gf6 d4 31. Rg9+
+Ce9 32. fxe6 dxd3 33. Eg6 Hf8 34. e7 Hxg6 35. e7xe8+ Axe8 36. Rxg6 Ee7 37.
+Rg8 Ec4 38. Rg4 Rc0 39. Kf0 Cc9 40. Re4 Cf9+ 41. Ke0 Af8 42. fe3 dxe3 43.
+Re9+ Kd8 44. Rxe3 Af7 45. Af2 Cxf2 46. Ae1+ Rxd0+ 47. Axd0 Cf9 48. ih3 Kd9
+49. Re4 Cc9 50. hg3 Ef6 51. g4 Ce9 52. g5 Ec8 53. g6 Ea5 54. g7 Af8 55. Re3
+Ec8 56. Re7 Ce6 57. Rd7+ Ke9 58. Rd8 Ae8 59. Rxc8 Kf9 60. Rc9+ Kf8 61. Ae1
+Ce9 62. Kd0 Ce7 63. Ce0 Ci7 64. Ri9 Cd7+ 65. Ad1 Ad8 66. Ke1 Cd5 67. Ri8+
+Kf9 68. gf7 Ad7 69. Ri9#
+{White mates} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "결승전"]
+[White "귀마 황문수 2단"]
+[Black "귀마 남상은 3단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ed3 Cbe7 5. gf3 gf6 6. Hd2 Ed6 7. Ad1
+Ra8 8. Ce0 Exf3 9. Hxf3 Ca7 10. Rb0 Cae7 11. Ci2 Rh9 12. Ra0 Ca7 13. Rb0
+ab6 14. Kd0 Cae7 15. Ra0 Rxa0+ 16. Cxa0 Cf7 17. ih3 Hf5 18. Hfh4 Hd6 19.
+Hf3 c5 20. Ce2 Rh8 21. Afe1 Ke9 22. Cf0 hg6 23. h4 c4 24. cxc4 Hxc4 25. bc3
+Hxe3 26. Exe3 Cxf3 27. Ri9 Rg8 28. Hf4 Ce4 29. Cd2 Hc5 30. c4 f5 31. Hh3
+Ha4 32. cb4 bc6 33. bxa4 Cxd3 34. Hf2 Cf3 35. Ri3 f4 36. hg4 Rf8 37. gxf4
+Rxf4 38. Ce0 gf6 39. Cf0 Cd3+ 40. Hxd3 cd6 41. Eh1 Rh4 42. Hf2 Ce7 43. Ri9
+Rxa4 44. Rxg9 Ae8 45. Hg4 Rb4 46. Hh6 Kd9 47. Cxf9 Kd8 48. Cf0 Rd4 49. Cd2
+Ad7 50. Hi8 Cb7 51. Rg8+ Kd9 52. Hg9 Ce7 53. Rf8 Ce5 54. Rf9+ Kd8 55. Ee3
+Ae8 56. Eb5+ Kd7 57. Rb9 Ke7 58. Rb8 Af9 59. Rb7+ Ke8 60. Rf7+ Ke9 61. Cf0
+fg6 62. Cxf9
+{Black resigns} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 황문수 2단"]
+[Black "귀마 서정만 2단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 c5 6. Rh0 Rf5 7. Rh4 a5
+8. Hd2 Hd7 9. Rb4 Ra6 10. Ed3 e5 11. c4 cd5 12. Rb5 axb5 13. Rxa6 Rf6 14.
+Rxf6 gxf6 15. Cxb5 Ad8 16. Cb1 Ed6 17. Ea5 Hb8 18. f4 Ke9 19. gf3 Ei6 20.
+Cg1 Hh9 21. b4 Afe8 22. Cd1 fe6 23. Ec2 Hf8 24. fe4 exe4 25. Cxd5 exe3 26.
+fxe3 Cb9 27. Cd1 Eg3 28. Cg1 Ei6 29. e4 Cg9 30. cd4 Ea8 31. bc4 Cc9 32. cb4
+Hd7 33. b5 e5 34. exe5 Hxe5 35. de4 Hc6 36. b6 Hb4 37. Ee5 Hd5 38. bc6 Hc3
+39. Ce0 Hg6 40. Cxg6 hxg6 41. Hh4 gf6 42. Hxi6 f5 43. Ce3 Cxe4 44. Hxe4
+Hxe4 45. Eg8 Kd9 46. Ce0 Hf6 47. Ed6 Ce9+ 48. Kf1 Ec5 49. ih3 f4 50. Hg5
+Hd5 51. Afe1 Cc9 52. Ad2 He3+ 53. Ke1 Hg2+ 54. Kd1 Cf9 55. A0e1 Cd7 56. Af2
+Cd5+ 57. Ke1 Ca5 58. Ce5 Cd5 59. Ch5 Ea2 60. Eg8 Ed4 61. Ce5 fg4 62. He6
+Aed7 63. Ce0 Ke8 64. Ce2+ Kd9 65. Hxd4 Hi1 66. hi3 g3 67. Hf5 gf3 68. Af1
+fe3 69. Hxe3 Hg0+ 70. Ke0 Hh2 71. Hxd5
+{Black resigns} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 김응술 8단"]
+[Black "귀마 임영선 4단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ri5 4. ef3+ Ce7 5. Ee3 Rd5 6. Ke0 ef6 7. Rh0
+f5 8. g4 c5 9. Afe1 fg5 10. Hf4 Rf5 11. Hd2 Ed6 12. Rh3 He6 13. Cxe6 Exe6
+14. Ce2 Ce5 15. c4 cb5 16. cd4 bc5 17. Ed3 Hd7 18. Rc0 Exf3 19. dc4 Cee7
+20. Ec6 Rc9 21. gxg5 gxg5 22. Rxf3 Rxc6 23. cxc5 Rcxc5 24. Rxc5 Rxc5 25.
+Hxe6 Rd5 26. Exg5+ hg6 27. Hg7+ Kd8 28. Hxf9+ Ae9 29. Hxe7 Cxe7 30. Exd7
+Rxd7 31. Rc3 Ae8 32. Rc6 Kd9 33. Rxa6 g5 34. He4 g4 35. Ra9+ Kd8 36. Hf6 g3
+37. Hxd7 Axd7 38. Rc9 gf3 39. Rc3 Ke8 40. Rxf3
+{Black resigns} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 임영선 4단"]
+[Black "귀마 김응술 8단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Hg2 Ed6 7. Cf2
+gf6 8. Ri1 Cf7 9. Ke0 a5 10. Ed3 hg6 11. Rc1 cd5 12. c4 a4 13. Ade1 Ei6 14.
+ih3 Ra6 15. Ca2 Rc6 16. Ea5 Rc7 17. Exd7 Rxd7 18. c5 dxc5 19. Rxc5 Exf3 20.
+gxf3 Cxf3 21. Cd0 Cd3 22. bc3 g5 23. Ce2 Ra7 24. Rxg5 Hf5 25. cxd3 Rg9 26.
+Rxg9 Exg9 27. Rb0 Rc7 28. Hh4 Hxh4 29. hxh4 Rc4 30. Rb8+ Ke9 31. d4 Rc5 32.
+d5 Rc6 33. Eb5 Afe8 34. Exe7 Axe7 35. Rg8 Ed7 36. Cxe7 Eb4 37. Rg7 Rc3 38.
+Ce4+ ed6 39. de5+ de6 40. exe6+ Kf9 41. Rf7#
+{White mates} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "귀마 서정만 2단"]
+[Black "귀마 서진경 6단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ri1 Hd7 6. Ke0 Ri5 7. Ria1
+Ra5 8. Rxa5 axa5 9. Ee3 Ee6 10. Hd2 c5 11. Ed3 d5 12. c4 a4 13. Rc0 Ad8 14.
+Afe1 Kd9 15. Add1 Afe8 16. cxc5 Hxc5 17. Cb5 Ke9 18. Cxd5 Hxd3 19. Rc9+
+Add9 20. bc3 Cxe3 21. Rc7 Cee7 22. Rxb7 Hc5 23. Rb5 Hd7 24. Hb1 Eb4 25. c4
+Exd1 26. Axd1 gf6 27. Cd0 hg6 28. He3 fe6 29. Cg0 Ed6 30. Hf5 gf6 31. Hxd6
+Hf5 32. He4 a3 33. f4 Hd6 34. Hxd6 exd6 35. Rh5 Ra7 36. Rh9+ Af9 37. Cg9+
+Af8 38. Cxd9+ Ke8 39. Cxd6 Af9 40. Cd0 ab3 41. Hd2 bc3 42. He4 fg6 43. Hxc3
+Rc7 44. He4 Rxc4 45. Cxd7 Rc2 46. Ce5 Rc1 47. Ke1 gf6 48. Ce2 fe6 49. Cxe6
+Ce9 50. Ce2+ Ce5 51. f5
+{Black resigns} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "귀마 송종일 8단"]
+[Black "귀마 변금철 7단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. Ke0 ed6 6. Ri1 Ri5 7. Ria1
+Ee6 8. ef3 Rc5 9. Rc1 Exc3+ 10. bxc3 Ra5 11. Rca1 c5 12. He3 g5 13. Afe1 h5
+14. ih3 d5 15. cb3 Rxa1 16. Rxa1 d4 17. Eb0 Ed6 18. b4 a5 19. Rd1 ab5 20.
+bxb5 cxb5 21. Rxd4 Exf3 22. gxf3 Ra0 23. Hd5 Rxb0 24. Hf6+ Kf8 25. Rxd7
+Afe8 26. Rxb7 Rxc0 27. Rxb5 Hf5 28. Rb4 Rc6 29. Hh7+ Kf9 30. Cb9+ Ad8 31.
+Cb1 Hg7 32. Cf1+ Ke9 33. Rb9+ Add9 34. Ee3 Rh6 35. Eb5 Rd6 36. Hi9 Hh9 37.
+Add1 Ad7 38. Add2 Ke8 39. Cd1 Ri6 40. Exe7+ Kxe7 41. fe3+ Kf7 42. Rxd9+ Kf8
+43. Af1 Ri7 44. Rxh9 Rf7 45. Hh7+ Rg7 46. Cxd7 gf5 47. Rh8+ Kf9 48. Re8#
+{White mates} 1-0
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "결승전"]
+[White "귀마 남상은 3단"]
+[Black "귀마 황문수 2단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 c5 6. Rh0 Rf5 7. f4 Rf6
+8. g4 Hd7 9. Rh1 e5 10. Ke0 Ad8 11. Rha1 Kd9 12. Hd2 Afe8 13. c4 ed5 14.
+cxc5 dxc5 15. Ce4 Rd6 16. Afe1 Ce9 17. Cf2 Cbe7 18. Ca2 Ca7 19. Cee2 Rd5
+20. b4 Ee6 21. Add1 g5 22. Rb1 ab6 23. Raa1 Cae7 24. ba4 Ca7 25. ih3 Ed6
+26. ab4 Cae7 27. h4 gxg4 28. hxg4 Cb7 29. Ca0 Rxa1 30. Rxa1 Cxb4 31. Ra3
+Cb7 32. Cd0 Ri5 33. Ed3 Cbe7 34. Ea1 Cb7 35. Ed3 Eg9 36. Ea1 He6 37. fe4
+Hef8 38. ef4 Cg7 39. Eb1 hg6 40. He3 gf6 41. He4 fe6 42. f5 b5 43. f6 exf6
+44. Hxd6 fe6 45. He4 e5 46. Hg5 Cxg4 47. Hf7 Axf7 48. Hxg4 Rg5 49. Hf2 Ei6
+50. Af1 Afe8 51. Ade1 Eg3 52. Ee3 Ed5 53. Hh1 e4 54. Eb1 Hg6 55. Kf0 Rg4
+56. Hi3 Ri4 57. Hg2 Rg4 58. Hi3 Rg1 59. Hh5 Rh1 60. Ra6 Hh4 61. Hf6 Hg2+
+62. Ke0 Eb2+ 63. Ad1 Rxf1
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "4강전"]
+[White "귀마 최종윤 9단"]
+[Black "귀마 황문수 2단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 c5 6. c4 Ri5 7. cd4 Ei6
+8. gf3 Rg5 9. Cg2 Ed6 10. Ee2 gf6 11. ih3 Ci7 12. hi3 Cbe7 13. e4 Rh5 14.
+Ee3 Rg5 15. Ri2 h5 16. Hf1 Rf5 17. Eh0 h4 18. fg3 Hh9 19. Rh2 Hf8 20. Rxh4
+Cxi3 21. Add1 Ci7 22. Cf2 Ke9 23. Eh5 Rxf2 24. Cg9+ Ke8 25. Axf2 Hg6 26.
+Cg5 Ci0+ 27. Cg0 Hxh4 28. gh3 Hf5 29. Afe1 Ke9 30. Ef3 Ci9 31. b4 Ra8 32.
+Ee3 Rh8 33. Rxa6 Rxh3 34. Cb0 Afe8 35. Kd0 Add8 36. Cf0 Cd9 37. Rc6 Hg3 38.
+Rxc5 Hxf1 39. Axf1 e5 40. Rc3 exe4 41. Hxe4 Rh1 42. Afe1 Eg4 43. Ed6 Rh4
+44. Exg4 He5 45. Rc9 Rxg4 46. Eb5 Cxe4 47. dxe4 Rxe4 48. ba4 Eg3 49. Ed2
+Hc4 50. Cc0 Rf4 51. Cf0 fe6 52. ab4 He5 53. b5 Hc4 54. Cc0 e5 55. Ce0 ed5
+56. Af1+ Kf9 57. Ade1 Hxd2 58. Axd2 Rxf1 59. Ae1 Rf3 60. Ae2 d4 61. Ke1 d3
+62. bc5 Ei0 63. cd5 Rf5 64. d6 Rf6 65. Rc6 Cxd6 66. Ra6 d2+ 67. Kxd2 Cd9+
+68. Ke1 Rxa6
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "4강전"]
+[White "귀마 김응술 8단"]
+[Black "귀마 남상은 3단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 ed6 6. Ra4 g5 7. Ed3
+h5 8. g4 gf5 9. f4 hg5 10. fxf5 gxf5 11. g5 fxg5 12. Exc6 dxc6 13. Exg5+
+Cf7 14. Exd7 Kxd7 15. Hf4 Hf5 16. Rg0 Af8 17. Hd5 Ed6 18. Rg5 Cf9 19. Hf6+
+Cxf6 20. Rxf5 Ri6 21. Hd2 Ade8 22. i4 Cf9 23. Rg5 Rf6 24. Rg0 Ee6 25. He4
+Rh6 26. Ke0 Kd8 27. Ade1 Kd9 28. Aff1 ab6 29. Rxa9+ Cxa9 30. Hd2 Ri6 31.
+Kd0 Rxi4 32. Ce0 Exc3 33. bxc3 Cf9 34. Ce3 Rb4 35. Hc0 Ra4 36. Rg2 Ra0 37.
+Rc2 Cc9 38. Cd2+ Ke9 39. Ke0 Ra3 40. Cf0 Rxc3 41. Re2 Rc1 42. Aef2 Eb3 43.
+Rb2 Ee5 44. He1 Rc3 45. Ce6 Eh3 46. Ra2 Cf9 47. Ra7 Re3 48. Ce2 Aff7 49.
+Ra4 Rc3 50. Cd0 cd6 51. Ch0 bc6 52. Ra2 Re3 53. Ra5 Ef6 54. Ra4 c5 55. Rd4
+d5 56. Rb4 Re5 57. Rg4 Re3 58. Kf0 Ed3 59. Rb4 Ef6 60. Rg4 Rh3 61. Cd0 Rc3
+62. Ke0 c4 63. Re4 d4 64. Re6 d3 65. Af0 d2 66. Cg2 d1 67. Ce2 Rc0
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 송종일 8단"]
+[Black "귀마 최종윤 9단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "194"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Cc2 Ch2 4. Ri2 Ch8 5. Ri1 cb6 6. Ci2 Ci7 7. Ed3
+Ca8 8. Rb0 Ed6 9. Hd2 Hg7 10. Rf1 Ei6 11. ih3 Rh9 12. Rf4 Ce7 13. Cbe2 Cg8
+14. Ad1 h5 15. Rc4 Ke9 16. Cf2 Afe8 17. Cd0 g5 18. Ke0 gf5 19. Afe1 Rh7 20.
+Ei3 Exg3 21. hxg3 Cxg3 22. Exf5 Cg9 23. Hh0 hg5 24. Eh2 Cxe3 25. Hf1 Ce7
+26. Exg5 Cxg5 27. Ri4 Ri7 28. Rxi7 Cxi7 29. Ee4 Hf6 30. Ra0 Rc9 31. Exb6
+axb6 32. Ra5 Cg9 33. Ri5 Ce7 34. Cf0 Hh7 35. Ri8 Rc5 36. Hc4 bc6 37. Hce3
+Rg5 38. Rh8 Add8 39. Hf5 Hxf5 40. Rxh7 Hd4 41. cd3 Hxb3 42. Rh6 Hc5 43. d4
+Cd9 44. dc4 Ha4 45. cb4 Hb2 46. Rxe6 Add7 47. Add2 Hd3 48. bc4 Re5 49. Rxe5
+Hxe5 50. cb4 c5 51. Cd0 Eg4 52. Add1 Cd4 53. Hh2 Ch4 54. Kf0 Cxb4 55. Ce0
+Hc4 56. Ce4 Ei7 57. Hf3 cb5 58. Cf2 Cb8 59. Hd4 Hd6 60. Ce0 Cf8 61. Kf1 bc5
+62. Hf3 Ef5 63. Hg5 Ec3+ 64. Kf0 Hf5 65. Hi4 Hh4 66. Ce2 cd5 67. Hh6 de5
+68. Hg4 Hg2+ 69. Kf1 e4 70. Hf6 e3 71. Hd5 ef3 72. Cf6 Ea6 73. Hb6 Hi3 74.
+Kf0 Hg4 75. Cf1 fe3 76. Ce6 Ec3 77. Ce2 Hi3 78. Ce4 Exf1+ 79. Ke0 Eh4 80.
+Hd5 Hg2 81. Add2 Cd8 82. Hf6 Ee6 83. Hh5 ef3 84. Add1 Eb8 85. Hf6 Ed5 86.
+Kd0 Eb2 87. -- Kd9 88. -- Af7 89. Ae2 Ade8+ 90. Ae1 fe3 91. A2f2 ed3+ 92.
+Ad1 d2 93. Ke0 Exe4+ 94. Ade1 Eb2+ 95. Ad1 Ce9+ 96. Kd0 d2xd1+ 97. Kxd1
+Ed5+
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 전영성 3단"]
+[Black "귀마 남상은 3단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "148"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Ri1 Ed6 7. Ke0
+Ra8 8. Hd2 ab6 9. Rxa8+ Exa8 10. Ra1 Ed6 11. Ade1 gf6 12. b4 Ri5 13. c4
+Exf3 14. Ra5 -- 15. gxf3 Rg5 16. Hf4 Cf7 17. -- Ri5 18. ih3 f5 19. Hd3 cxc4
+20. bxc4 Cxf3 21. Hc5 Hxc5 22. cxc5 f4 23. cd5 Kf8 24. Hc4 bc6 25. Rb5 Afe8
+26. Cb8+ Kf9 27. Cb1 Rg5 28. Cf1 Ch7 29. Kd0 Cxh3 30. Hd2 Cf8 31. Ce0 Ch7
+32. Rb4 ef6 33. Cxf6 f3 34. Hxf3 Rxd5+ 35. Ad1 Cd7 36. Ke1 Rf5 37. Rg4 Af7
+38. Cf4 cd6 39. Hg1 Rxf4 40. Rxf4 Cxf4 41. Cg0 Hi8 42. Cd0 Cd5 43. Ci0 Ade8
+44. Hh3 Cf8 45. Ci9+ Ei6 46. Hg5 Cd9 47. Cxi6 hxi6 48. Hxi6 Cd8 49. Eg6
+Cxd1 50. Hh8+ Kf8 51. Ee3 Cd7 52. Ee2 Ch7 53. Eh1 Hh6 54. Ef4 Hf5 55. Ei6+
+Hh6 56. -- Aee7 57. Af1 Ch1+ 58. Kf0 Cxh8 59. Ae1 Kf9 60. Eg3 Hf5 61. Ei0
+Aee8 62. Ef2 Cd8 63. -- Cf8 64. Ke0 Hg3 65. Ei0 He4 66. -- Cg9 67. -- Ce9
+68. -- Ce7 69. Eb4 Hc5+ 70. Kd0 Cd8+ 71. Ed1 Hb3 72. Af2 de6+ 73. Eb4 Hd2+
+74. Ed1 Hb1#
+{Black mates} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "8강전"]
+[White "귀마 임영선 4단"]
+[Black "귀마 김응술 8단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "64"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Hd2 Ed6 7. Ad1
+ef6 8. Kd0 Ee6 9. Ed3 Cf7 10. Ci2 Rh9 11. Afe1 cd5 12. c4 Af8 13. Cbe2 Ad8
+14. Ke0 ab6 15. Rc0 Rhc9 16. Add0 Ra4 17. Exf6 gxf6 18. Cf2 Exg3 19. Cxf6
+d4 20. b4 Ra3 21. cxd4 Rxc0 22. Hxc0 Exf3 23. Cf1 Rxe3 24. Kf0 Rd3 25. bc4
+Ed6 26. Ce0 Hf5 27. de4 Rc3 28. cd4 Eb3 29. Hd2 Exd0 30. Axd0 He3 31. Ri2
+Hxf1+ 32. Kxf1 Rf3#
+{Black mates} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "귀마 김경만 7단"]
+[Black "귀마 황문수 2단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Ch7 Hd7 5. Hg2 Ce9 6. Ci2 Rh9 7. Ch1
+hi6 8. ih3 ih6 9. Ce2 Ed6 10. ef3+ Cbe7 11. Ee3 ab6 12. Rxa9 Cxa9 13. Exg6
+Ei6 14. Ee3 Ad8 15. Ri4 Cg9 16. Ed3 c5 17. Ke0 Kd9 18. c4 cd5 19. Ade1 Afe8
+20. Cd1 Ci7 21. Exb6+ Hxb6 22. Re4 e5 23. Rf4 ef5 24. Re4 h5 25. c5 dxc5
+26. Cxd6+ Hd7 27. Cd0 Ce7 28. Ra4 Rh6 29. Aff1 hg5 30. Kf0 Ke9 31. b4 fe5
+32. b5 ed5 33. Hi3 g4 34. bxc5 dxc5 35. Ch0 Rf6 36. Cd0 Hb6 37. Ra5 cd5 38.
+Ra6 Rh6 39. Hh1 gxg3 40. fxg3 Hf5 41. Ra3 Hd4 42. Rd3 Ha4 43. Ce0 Hc5 44.
+Rc3 Ra6 45. Eh5 Cc9 46. Re3 Rf6 47. Cf2 Ef8 48. Exf8 Rxf8 49. Re6 Cf9 50.
+Re3 Hd7 51. Hi3 He5 52. Rc3 Rf6 53. Hh5 Rf7 54. h4 Hg6 55. hg4 Rxf2 56. Hg7
+Rf7 57. Hxf9 Kxf9 58. Rc6 Hf8 59. g5 Rf4 60. Rd6 dc5 61. He4 Hde6 62. Hxc5
+Hxg5 63. Hd3 Rf5 64. g4 Hf7 65. gf4 Rg5 66. Rf6 Hh7 67. Ri6 Ce9 68. Ri3 Hf6
+69. Rf3 Hh5 70. Rh3 Ch9 71. Rf3 Rg4 72. Rg3 Hxg3
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "귀마 노경국 8단"]
+[Black "귀마 최종윤 9단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Hd2 Ce7 5. Ed3 ed6 6. ef3 Ee6 7. Ke0
+Ri5 8. Afe1 Hf8 9. Ee3 Ad8 10. Add1 Kd9 11. Ci2 Rd5 12. Ci9+ Ae8 13. Cbxb9
+Exc3 14. Ra3 Ca7 15. Cb0 Ra8 16. ih3 Cxa3 17. bxa3 Cc7 18. Cf0 Ce7 19. Cd0
+Rxd3 20. Ri8 Ea0 21. Rg8 Exd2 22. Axd2 Rxa3 23. Kf0 Ce9 24. hi3 ab6 25. Ci2
+Ra0 26. Ce2 Cc9 27. ih3 c5 28. Ri8 bc6 29. g4 cd5 30. gf4 Cf9 31. Ce0 R8a4
+32. hg3 gf6 33. Cf2 f5 34. Add1 fxf4 35. Cxf4 hg6 36. Cf2 de6 37. Hi3 Rh4
+38. Cd0 cd6 39. Ce2 gf6 40. Ce0 f5 41. Cf2 de5 42. Eb5 Hb6 43. Ed2 Rb0 44.
+Ri7 Hd7 45. Hg4 fg5 46. He3 ed5 47. Rg7 Rh5 48. Ri7 Rh0+ 49. Kf1 Rb1 50.
+Ci0 d4 51. Cid0 Rxd0 52. Cxd0 Hg6+ 53. Cf2 Hxi7
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "귀마 최성우 7단"]
+[Black "귀마 전영성 3단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Hd7 6. Rh0 Ee6 7. Ra4
+Kd8 8. Ed3 Ri5 9. Hd2 Ade8 10. Rg4 Rf5 11. f4 Rc5 12. Exg6 hxg6 13. Rxg6
+Ce9 14. g4 Exc3 15. bxc3 Rxc3 16. Rh3 ab6 17. Ef6 Rxh3 18. ixh3 Ra3 19. Rh6
+Ra2 20. fe4 Cxe4 21. Hxe4 Rxb2 22. Hd2 Rb4 23. He3 Ce7 24. hg3 Ce9 25. Hdc4
+Rb5 26. gf3 Hf5 27. Ri6 Hd4 28. Ce4 de6 29. Ei4 e5 30. Ce2 Hxe2 31. Kxe2 e4
+32. Kf2 exe3 33. Hxe3 Ed6 34. gf4 Exf3 35. Hc4 Rh5 36. Eg7 Rh2+ 37. Kf1
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "양귀마 문홍근 7단"]
+[Black "원앙마 임명선 4단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 Hg7 4. Hf2 ab6 5. Ed3 ef6 6. cb3 Hce6 7. Rc0 c5
+8. Ef3 b5 9. ih3 Ad8 10. Ad1 Cf7 11. Ri4 Cd9 12. Ea1 g5 13. Kd0 Ke9 14.
+Afe1 Ea6 15. Ce0 Ade8 16. Ri1 Aff8 17. Che2 Ed8 18. Rc1 Ci7 19. Rg1 ih6 20.
+g4 f5 21. gxg5 fxg5 22. Ri1 Ei6 23. Rg1 Ce7 24. Ri1 Ci7 25. Rg1 Ce7 26. Cc0
+Eg9 27. Ed3 h5 28. Ca2 Rc9 29. b4 bxb4 30. Exc5 Rc6 31. Ce2 Cf9 32. hg3 Cc9
+33. g4 gf5 34. gf4 fxf4 35. exf4 Cxc5 36. Ef6 Ri7 37. Cg0 Aff7 38. Hde4 Hd4
+39. Ce0 Ei6 40. f5 Hxf5 41. Rc3 Cc9 42. Rxc6 Hxc6 43. Rg4 Hfd4 44. Hd3 He5
+45. Ri4 Rg7 46. Ri0 Rg1 47. Hef2 Eg3 48. Rh0 Exe0 49. Rxh5 Hxd3 50. Exd3
+Cf9 51. Rh9 Rg2 52. Add2 Hf3 53. Add1 Eh2 54. Cb0 He5 55. Cf0 Rg3 56. Rxh2
+Hxd3 57. Hxd3 Rxd3 58. Rb2 bc4 59. ab3 Cd7 60. Cd2 Cd9 61. b4 Rc3 62. Rb0
+cxb4 63. Af2 Ef5 64. Ke1 Re3+ 65. Kf1 Ei3+ 66. Kf0 Cf9 67. Rd0 Cf4+ 68. Ae1
+Rf3+
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "원앙마 박선구 4단"]
+[Black "귀마 남상은 3단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Hc2 Ce7 3. Che2 Hd7 4. ab3 ih6 5. ef3 Ed6 6. Ece3 Ad8 7. Af1
+cb6 8. Ri1 Rc9 9. Exg6 hxg6 10. Hge3 Exb3 11. cxb3 Cxb3 12. Ra4 Cb9 13. Rg4
+ef6 14. Rh1 He6 15. Rh8+ Kd9 16. Cd2 Ae8 17. Ke0 Cxe3 18. Cxd8 Rxc2 19.
+Cd2+ Ke9 20. fxe3 Cb0+ 21. Ad1 Cxg0 22. ef3 He5 23. Re4 f5 24. Afe1 Ca0 25.
+Rg8 gf6 26. gh3 Ca8 27. Rg7 Ca5 28. Rb7 Rc9 29. f4 bc6 30. fxf5 fxf5 31.
+Cd0 Ca9 32. Rg4 Cd9 33. Rg8 Ri6 34. Rb8 Ae7 35. Ci0 Rf6 36. hg3 Ed7 37. ih3
+ab6 38. Cd0 Eb4 39. Cxe6+ Rxe6 40. Rbd8 Ae8 41. Ra8 Exd1 42. Ra2 Eb4 43.
+Rg4 b5 44. Rf2 Rf6 45. Cf0 cd6 46. Cxf5 Rc0+ 47. Ad0 Rxf5 48. Re1 Ee6 49.
+Rge4 d5 50. g4 Rf1 51. h4 Rxe1+ 52. Rxe1 Rxd0+ 53. Rxd0 Cxd0 54. Kxd0 Hf3
+55. gf4 d4 56. hg4 d3 57. Ke0 d2
+{White resigns} 0-1
+
+[Event "제1회 명인전"]
+[Site ""]
+[Date "1990년"]
+[Round "16강전"]
+[White "원앙마 김응술 8단"]
+[Black "귀마 차진학 6단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 ih6 3. ab3 Ed6 4. b4 Hd7 5. Ci2 Rh9 6. Hc2 Che7 7. Cbe2
+ef6 8. ih3 Ee6 9. ed3 hi6 10. Cf2 Rh5 11. He3 Rg5 12. g4 Rh5 13. h4 Ra5 14.
+Rxa5 axa5 15. Ke0 ab5 16. bxb5 Ra0 17. Ade1 Rxc0+ 18. Cd0 Exc3+ 19. dxc3
+Rxc3 20. Hd5 Rc0 21. Ri3 Rb0 22. Ra3 Rxb5 23. Ra8+ Ad8 24. Hge3 He6 25. Rc8
+Hd4 26. Ce4 fe6 27. Rxc6 ih6 28. Ad2 Rxd5 29. Rc4 e5 30. Ce2 Cxe3 31. Exe3
+Ce7 32. Rc3 Ea8 33. Afe1 Ec5 34. Cb2 e4 35. Eg0 Hb5 36. Rb3 Rxd2 37. Ce2
+Rc2 38. Cb2 Rc1 39. Ee3 exe3 40. Kf0 Rxe1#
+{Black mates} 0-1
+

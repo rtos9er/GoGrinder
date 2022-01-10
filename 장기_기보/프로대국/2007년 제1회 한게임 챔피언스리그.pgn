@@ -1,0 +1,4452 @@
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-08"]
+[Round "01"]
+[White "귀마 김기영 三단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Exc3 9. dxc3 He6 10. Ch1 g5 11. hg3 gxg4 12. gxg4 Rc5 13. Ra2
+{김기영三단은 귀마 선수시 중포
+
+공격을 자주 애용하는 편이다.}
+13... Af8
+{한차로 졸을 잡으면 중포 넘기는 
+
+수에 의해 한차가 죽게 된다.}
+14. cd3 Ra5 15. Ra1 Ri5 16. Rxi5 ixi5 17. ab3 ih5 18. Cd1 Ce5 19. Exc6 bxc6
+20. Hd4 cd6 21. Ra5
+{매우 좋은 공격수.
+
+급소 자리를 찔러 초의 우세가
+
+전개됨.}
+21... Cee7 22. Rxh5 Hxd4 23. Cxd4 Ri7 24. Ef3 fe6 25. Ei5 Ri6 26. Rxh7 Rxi5
+27. Rxh9 Ae9 28. gf4 Rb5 29. bc3 d5 30. Cd2 e5 31. Ke0 Aef9 32. Afe1 Rb4
+33. Cf0 Rb2 34. Add1 Ke9 35. Rg9 Rb6 36. fe4 Ae8 37. Rg4 Rb4 38. ef4 Ra4
+39. Rg6 d4 40. Re6 dxd3 41. cxd3 Ra7 42. Hh3 Ra3 43. Cd0 Ra7 44. Hi5 Aff8
+45. Hg6 Cg7 46. Hxe5 Hxe5 47. Rxe5 Rf7 48. Cf0 Rxf4 49. Rg5+ Re4 50. Rxg7
+{한에서 기물 부족으로 결국 포기.
+ 
+ 
+ -총평-
+ 
+ 한에서 궁수비를 소홀히하고
+ 
+ 역습을 서둘려 패배를 자초.
+ 
+ 초의 중포 공격이 주효하여
+ 
+ 중반 이후 시종일관 우세하게
+ 
+ 대국 운영.
+ 
+ 
+ 해설 : 김경중9단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-22"]
+[Round "21"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김동학 三단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "197"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rg8
+{한차가 궁옆이나 마앞 또는 지금처럼 
+
+상앞 자리로 이동하는 변화수가 있는데
+
+좀 색다르게 두려는 의지의 반영.}
+5. ih3 Ce7 6. Ce2 gf6 7. Hd2 Cxh3 8. gxh3 Rxg2 9. Kd1 Rg1+ 10. Ade1 Ei6 11.
+ef3 Ed6 12. Ed3 Rg4 13. Ce0 Hg7 14. Cf2 Kd8 15. Kd0 Ade8 16. Aff1 Ce9 17.
+Cf0 Rd4 18. Ee3 cb6 19. Rg0 Hh9 20. Rb0
+{차를 두는 대신에 우측 초포를 
+
+우차 옆으로 넘겨 병과 마를
+
+직접적으로 거는 적극적인 수도
+
+생각해 볼 수 있다.}
+20... Hhf8 21. b4 Rc9 22. bc4 Ri4 23. Hb3 hg6 24. Hc5 Rb9 25. Cd2 Kd9 26.
+Cd4 Ri5 27. Cd1 Ad8 28. Exg6 Afe8 29. Ee3 Exf3 30. Rg7 Ce7 31. Hxd7 Adxd7
+32. Ri7 Ed6 33. Ri9+ Ce9 34. Eh1 Hh7 35. Ri7 Rh5 36. Rxi6 Rxh3 37. Ef4 Hg5
+38. Ri9 Add8 39. Rb2 Rb7 40. Aef0 Hf7 41. A1e1 Rh4 42. Eh1 Rg4 43. cd4 Rg9
+44. Ri7 Rc7 45. c4 Cb9 46. Rc2 Rg3 47. Ee3 Ke9 48. d5 Ea4 49. c5 Rg4 50. d6
+exd6 51. Exf6 Cf9 52. Ri9 Rg5 53. Cc0 d5 54. Ed3 dxc5 55. Ri6 Rf5 56. Ce0
+He5 57. Ea1 Cd9 58. Eg0 Rh5 59. Re6 Hf3 60. Ee3 Rf5 61. Ce2 Kf9 62. Ke0 Hg5
+63. Rg6 Af8 64. Cf1 Hi4 65. Rg4 Hh2 66. Rg2 Hi4 67. Eh5 Af7 68. Rc3 Ae8 69.
+Rg4 Hh2 70. Rg2 Hi4 71. Ad0 Rc6 72. Afe1
+{좌측 초차가 면포 앞으로 들어서서
+
+한사를 공격해 보는 수가 좋다.}
+72... Rh6 73. Ef2 Rh0+ 74. Af0 Re5 75. Ae1 bc6 76. Eh5+ Rf5 77. Ef2 Rg5 78.
+Ri2 Hg3 79. Cf3+ Ae7 80. Rg2 Ke9 81. Re3 Rh7 82. Cf1 Hf5
+{묶인 마를 풀며 절묘하게 차대를 
+
+청한 한의 대응이 좋아 보인다.}
+83. Rxg5 Hxe3 84. Rg3 Hd5
+{마를 희생시키는 수가 적절하다.
+
+억지로 그 마를 살릴려고 
+
+왼쪽 앞 자리로 피한다면
+
+초차가 한의 궁성으로 내려가
+
+외통을 노리는 수가 숨어 있다.}
+85. Exd5 cxd5 86. Rg8 Kf9 87. Af2+ Cf7 88. Rg9+ Kf8 89. Ed3 d4 90. Eg5 Rh3
+91. Rg6 ab6 92. Rf6 Kf9 93. A2e1 Af8 94. Rf4 Rg3 95. Rxd4 Ed6 96. Rd5 Aee8
+97. Ed3 Re3 98. Exb6 cxb6 99. Rxd6
+{
+ -총평-
+ 
+ 종반부터 쌍방 마지막 초읽기에
+ 
+ 몰리는 바람에 약간의 실수들이
+ 
+ 있었는데 전형적인 창과 방패의
+ 
+ 대결 구도였다.
+ 
+ 한의 노련한 수비력이 인상적.
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-23"]
+[Round "24"]
+[White "귀마 김기영 三단"]
+[Black "귀마 이점섭 六단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Ef3 Ra5 9. Af1
+{양사를 올려 양차 합세 작전을
+
+하겠다는 의도.
+
+한에서 선보일 대응수가
+
+과연 무엇일까?}
+9... f5 10. Ri3 i5 11. g4 i4 12. Ri1 g5 13. h4 gxg4 14. hxg4 fg5 15. gf4
+Exc3 16. dxc3 cd6 17. fe4 bc6 18. Rb0 Rf5 19. Rb8+ Ad8 20. Exd6 cxd6 21.
+Ce0 Ce9 22. Kd0 Kd9 23. Cd2 Cd7 24. Afe1 Rc5 25. ab3 gf5 26. Cc0 Ra5 27.
+Ha3
+{초마가 좌변으로 나가며 포로 한마를
+
+위협하는 수가 좋아 보인다.}
+27... Cxe3 28. Cxc7 Ce9 29. Cc0 fg5 30. Ccf0 Af8 31. Hd3 g4 32. Rf1 Ke8 33.
+Ca0 Rh5 34. Ca8
+{초의 아주 공격적인 자세와
+
+좋은 자리를 차지하고 있는 점으로
+
+인하여 한에서 불리해질 것 같다.
+
+거센 전장의 폭풍이 휘몰아칠
+
+분위기가 흐르는데..}
+34... Rh0+ 35. Cf0 ih4 36. Rb6+ Kd9 37. Rxf7+
+{결정타를 날려 선수를 잡고
+
+기물의 우위를 차지.}
+37... Axf7 38. Cxi8 d5 39. Ca8 g3 40. Rd6 Ade8 41. Hb5 Cxe4 42. Hc7+ Ke9
+43. Rxd5 gf3 44. Hc5 Cf9 45. Rh5
+{포와 상이 걸리게 되어 한의 위기.
+
+양마의 긴밀한 공격력이 일품.}
+45... Ci4 46. Rxh9 f2 47. H7e6 Rg0 48. Rxh4 Cd9+ 49. Ke0 f2xe1+ 50. Axe1
+Ri0 51. Hg5
+{기물 부족으로 결국 기물을 거뒀다.
+ 
+ 
+ -총평-
+ 
+ 중반 한마와 초상의 교환과 더불어 
+ 
+ 초차로 귀마를 공으로 잡는 결정타로
+ 
+ 승부의 우위와 승패를 결정지었다.
+ 
+ 
+ 
+ 
+ 해설: 김경중 九단
+ 
+ 
+ }
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-24"]
+[Round "25"]
+[White "귀마 김동학 三단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Rb0 Ri8 6. Ef3 ef6 7. Rb4
+Ra5 8. Rbi4 i5 9. Rg4 Rg8 10. Ee3 He6 11. Exc6 bxc6 12. Rc4 Ea6 13. Rxc6
+{팽팽하고 미세한 국면에서는
+
+상 대 양병의 교환이 크다.}
+13... Ed8 14. Hf2 Kf8 15. Ke0 Afe8 16. Afe1 Ce9 17. Ca2 Rb5 18. Cad2 ih5
+19. Cf0 Kf9 20. ab3 Af8 21. Ce2 Hc7 22. Rc4 Cc9 23. Ra4 Ce9 24. Add1 g5 25.
+He3 Rb6 26. Cc0 Rb7 27. Ri9 Rh8 28. Cf0 Cg9 29. Ri6 Rg8 30. Cb0 Hb5 31. Hd5
+fg6 32. Ec5 gh6 33. Rii4 Ra7 34. Rxa7 Hxa7 35. He3 Hd6 36. Cf0 gf5 37. Rd4
+Rg6
+{초에서 거세게 몰아 공격해 보지만
+
+한의 대응이 만만치 않다.}
+38. Ri4 hg5 39. Ri7 Rg7 40. h4 Hb9 41. Ch2 Rc7 42. Cxh6
+{결국 졸을 취하여 소기의 작은 
+
+목적을 달성.}
+42... Cb7 43. Rxc7 Hxc7 44. g4 gxg4 45. Hexg4 Ce7+ 46. Kd0 Ke9 47. Ch2 Hb7
+48. c4 fg5 49. He5 He6 50. Hc6 Ade8 51. Cxh9 Hd6 52. d4 Cd9 53. bc3 Hc8 54.
+cd3 Cf9 55. Ch2 Aff7 56. Ce2 Ad7 57. Cxf7
+{사를 그냥 죽인 실수로 인해
+
+더욱더 불리해짐.}
+57... Cc9 58. Hxe7 Axe7 59. Cf0 Eg6 60. d5 Kd9 61. de5 Hc7 62. Cd2+ Ad7 63.
+Cxd7 Cf9 64. Cd2+ Ed8 65. He4 Ha7 66. Hxg5 Hc6 67. Hf7 Ha6 68. Cd7#
+{저렇게 외통당하는 수를 우려했는데 
+
+결국 묘수풀이 문제에서나
+
+나올듯한 형태로 외통을 당한 점이
+
+마음 아프다.
+
+-총평-
+
+너무 소극적인 수비 자세로 공격 한번
+
+해보지도 못했는데 연세가 많아 실수가
+
+많고 컴퓨터 대국이라 실력 발휘를
+
+제대로 못하는 것이 제3자 입장에서
+
+봤을때 너무나 아쉽다.
+
+해설 : 김경중 九단
+
+
+
+
+
+
+
+
+}
+
+{White mates} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-26"]
+[Round "27"]
+[White "귀마 김경중 九단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "181"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ri5
+8. g4 Ad8 9. i4 Ri8 10. Cb4 Kd9 11. Cb1 Afe8 12. Ci1 Rf8 13. f4 Ce9 14. Ca1
+ab6 15. ba3 ba6 16. ih4 Cc9 17. a4 Ce7 18. Ed3 d5 19. fe4 c5 20. cxc5 Hxc5
+{전투가 벌어졌다.
+
+그 다음 초의 응수는 ?}
+21. Ri5
+{졸과 상을 가볍게 보고 공격적으로
+
+맞대응.}
+21... Eb8 22. Rb0 hi6 23. Ri3 Ee6 24. ab4 ab6 25. bc4 Hd7
+{큰 접전이 붙을 분위기였으나
+
+쌍방 조심스럽고 안정적으로 대응하며
+
+상대의 동태를 살핀다.}
+26. Cf1 bc6 27. Hf4 gf6 28. Exf6
+{이 수로 인하여 초에서 다소 유리해짐.}
+28... Ci9 29. Rh3 Rh8 30. g5 ih6 31. hg4 Rh7 32. Ei4 Ri7 33. Ef2 Ri6 34.
+Cd1 cd6 35. cd4 dxd4 36. exd4 Ra3 37. Rb3 Rxb3 38. Hxb3 Cc9 39. Hc5 Cf9 40.
+Hxd7 Cxd7 41. d5 Ch7 42. Rg3 Ce7 43. dxd6 Exd6 44. Hxe6 Hxe6 45. Cxe6 h5
+46. g6 Cd3 47. Rg2 Ri3
+{한의 역습.
+
+중요한 국면인데 초에서 어떻게
+
+응수할 지 ...}
+48. Ec6 Cd7 49. Ke0 Rc3 50. gf6 Rf3 51. Ec4 Rc3 52. Ra2 Ke9 53. Ra4
+{적절한 대응으로 한의 역습을 막아냄.}
+53... Rg3 54. gf4 Rf3 55. fe4 Rf5 56. Ce2 Rc5 57. fe6 Cxe4 58. exd6 Cd9 59.
+Ea1 Re5 60. Cxd8
+{사를 잡는 수가 무척 좋다.
+
+초포를 사로 취하면 초차가 면줄에
+
+있는 포와 차를 잡는 노림수가 있기
+
+때문.
+}
+60... Ce7 61. Cd2+ Ad8 62. Ke1 Cxd6 63. Ra9+ Ke8 64. Ri9 Rc5 65. Ri8+ Kd9
+66. Ri9+ Ke8 67. Ed3 Rxc6 68. Ri6 Ad7 69. Ad1 Ce9 70. Af1 -- 71. Rh6 -- 72.
+Af2 -- 73. Kf1 -- 74. Ade1 -- 75. Ce0+ Ce7 76. Rxh5 Cd9 77. Rh8+ Ke9 78.
+Cxd7 Cf9+ 79. Rf8 Rd6 80. Eg5 Rd5 81. Kf0 Rxg5 82. Aef1 Rg7 83. Ke1 Cd9 84.
+Kd1 Cf9 85. Cd0 -- 86. Rd8 Rg0 87. A2e1 Rg7 88. Rd7 Rf7 89. Ce2 Cxf1+
+{포로 사를 때리지 말고 한차가 1선으로
+
+내려가서 차대를 청했더라면
+
+비기게 된다. 
+
+서로 마지막 초읽기에 몰리는 바람에
+
+수가 안 보인듯 하다.}
+90. Kd2 Cd1 91. Kxd1
+{
+ -총평-
+ 
+ 시종일관 격렬한 접전과 아슬아슬한
+ 
+ 행마로 흥미로웠던 대국. 
+ 
+ 한에서 마지막에 차대를 하지 않은
+ 
+ 점이 아쉬움으로 남는다.
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기초고수방"]
+[Date "2007-01-29"]
+[Round "31"]
+[White "귀마 김경중 九단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Hd7 6. Hd2 Ra8
+{송종일 프로는 지금처럼 귀마 후수때
+
+귀마 진영 차가 한칸 올라서서 대응하는
+
+수를 선호.}
+7. Cb4
+{이번 대국도 중포 공격을 시도할려고..}
+7... Ke9 8. c4 Rii8 9. Cd4
+{차대를 못하게 방해하는 수.}
+9... Afe8 10. Cd1 Ee6 11. Ci1 Rf8 12. Cc1 Rf5 13. ih3 Rd5 14. g4 gf6 15.
+Cg1 Ra5 16. Rxa5 axa5 17. Ed3 Ce5 18. gf4 Hi6 19. fe4 Ci7 20. Rh0 Ce7 21.
+Exf6
+{병이 죽게 되어 한의 우진이 매우 
+
+약해졌다. 한에서 차대를 조금 일찍
+
+하여 우진이 상대적으로 약해 진 것이
+
+원인이라면 원인.}
+21... h5 22. Hf4 Af7 23. Hxh5 Rh8 24. Hxi7 Cxi7 25. e5 Hxf6 26. exe6 dxe6
+27. Cxe6 Hg5 28. Ce2+ Kf9 29. fg3 Hi6 30. Cb1 Ed6 31. Cf1
+{중포를 활용한 계속적인 선수
+
+공격이 좋아 보임.}
+31... Ce7 32. He4 Rh6 33. Hg5 Hh8 34. Ri0 Ke8 35. Ri4 c5 36. bc3 ab5 37.
+Cd1 Hg4
+{
+매우 불리하다고 판단한 나머지
+
+한마를 희생시키며 승부수를 띄움.
+
+그 한마를 잡을 것인가? 말 것인가?
+
+그것이 문제로다.!!}
+38. Ch1
+{졸로 한마를 잡으면 한차가 졸을 취하
+
+면서 중앙상을 위협하므로 후수가
+
+된다.
+
+실전처럼 두는 것이 좋다.}
+38... Rf6 39. He4 He5 40. Cxh8 cxc4 41. cxc4 b4 42. Ri5 Cxe4 43. Rxe5+ Ce7
+44. Rc5 bxc4 45. Rxc4 Kf9 46. Ke0 Ch7 47. Rh4 Cd7 48. Afe1 Afe8 49. Ri4 Af7
+50. Ri9+ Kf8 51. Rxd9 Cd5 52. Cd8 Ae7 53. Eh5+ Rh6 54. Re8#
+{-총평-
+
+초반 한의 우진에서 양병이 죽고
+
+초마와 한포의 교환이 이루어져
+
+한에서 매우 불리해졌다.
+
+초의 중포 공격이 주효했던 한판..
+
+
+해설 : 김경중 九단}
+
+{White mates} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-30"]
+[Round "34"]
+[White "귀마 김동학 三단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Af8
+8. c4 Kf9 9. Ef3 Ade8 10. Hd4 Ce9 11. Exc6 bxc6 12. Hxc6
+{평범한 정형 포진으로 진행.
+
+좌진의 양병을 가볍게 보고
+
+양득을 허용한 후 그 틈을 이용하여
+
+궁수비를 갖춤.}
+12... f5 13. Kf1 g5 14. h4 Ef6 15. c5 i5 16. Afe1 i4 17. Ce0 ixh4 18. Rxi9+
+Cxi9 19. gxh4 f4 20. Ec1 Exd3
+{일단 선수.
+
+이후 중앙상이 공격하면 초차와 초포가
+
+동시에 걸림.
+
+그 다음 초의 응수는?}
+21. ab3
+{졸을 쓸며 대차로 대응하였는데
+
+김동학 프로다운 행마.}
+21... Rb9 22. Ra3 gf5 23. h5 Ef6 24. Cb2 Rd9 25. Cb5 Rd4 26. bc3 fg5 27.
+hxg5 Ei4 28. Hd3 fe4 29. Ra4 Rd9 30. Hde5 Hxg5 31. Exe4 Rd7 32. Kf0 Rg7 33.
+Ec1 Cf7 34. Rg4 Hi6 35. Rxg7 Hxg7 36. Cg0 Ef6+ 37. Ke0 Eh3 38. Hg4 Exc3+
+39. Add1 Exe1 40. Kxe1 Ce9+ 41. Ce5 Hh5 42. Ee4
+{상장 외통을 노리며 진출.}
+42... Hf4 43. Kd0 Ha6
+{마를 두고 싶다면  좌변보다는
+
+중앙으로 나오는 것이 더 좋다.}
+44. cb5 Hc7 45. Cc0 Cd9+ 46. Ke0 Hce6 47. Cc4
+{한마를 거는 이 수가 매우 좋았고 
+
+결정타가 되었다.
+
+한마가 피하면 상에 외통이 
+
+나온다.}
+47... Hg5 48. Cxf4+ Cf7 49. Hf2 Ad7 50. Cf0 Afe8 51. Hb4 Ee6 52. Hbd3 Eg9
+53. Eb6 Ei6 54. Kd0 Eg3 55. Ad2 Ei0 56. Hg4 Eg3 57. Hf4 Cg9 58. Hg6 Af8 59.
+Ke1 Ce9 60. bc5 Ke8 61. Kd0 Cf9 62. Hi7 Hf7 63. Ca5 Hd6 64. Hh5 Hc4 65. Cf5
+Hxd2 66. Hxg3 Hb1+ 67. Kd1 Hc3+ 68. Kd0
+{쌍방 30점 미만에서는 반복장을
+ 
+ 부를 수 있다는 규칙에 의해
+ 
+ 빅으로 처리됨.
+ 
+ 
+ -총평-
+ 
+ 종반 한마를 공으로 죽여 불리했었는데
+ 
+ 상을 희생시킨 기습 공격으로
+ 
+ 빅을 유도.
+ 
+ 
+ 
+ 해설 : 김경중 九단
+ }
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-31"]
+[Round "35"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김기영 三단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Che7 5. Hd2 Ed6 6. Ed3 Exb3 7.
+cxb3 Ri5 8. Ee3 ed6 9. g4 Ee6 10. Hf4 Rf5 11. ih3 d5 12. Ra3 c5 13. Ra4
+{초에서 상머리를 눌리면 불리해진다.
+
+당연하면서도 적절한 초의 응수.}
+13... Kd8 14. hg3 Ade8 15. Ad1 Ce9 16. Af1 Hb8 17. Ria0 Ch7 18. Cxb8
+{마를 때리는 선택이 좋았다.
+
+후퇴하지 않는 승부사의 기질이 
+
+엿보인다.}
+18... Exb8 19. Rxa6 Rxa6 20. Rxa6 Kd9 21. Rd6+ Ad8 22. b4 Ae8 23. bc4 Ch1+
+24. Af0 Ch9 25. cxc5 dxc5 26. Hb3 Ce7 27. Rb6 Ee6 28. Hd4
+{이 수가 참 좋아 보인다.
+
+기물은 비슷해 보이지만
+
+한의 좌진이 약해 약점이 계속
+
+노출되고 있다.}
+28... Ri5 29. Hdxe6 Hxe6 30. Hxe6 Ke9 31. Hc7
+{마를 두는 대신 초차로 병을 위협하는
+
+수도 괜찮다.}
+31... Aed7 32. Re6 Kf9 33. Ha6 A8e8 34. Exg6 hxg6 35. Rxg6 Cd9 36. fe3 Ce9
+37. gf3 c4 38. Rf6+ Cf7 39. Eb6 Ce7 40. Hb8 Rd5 41. Hc6 Ce9 42. gf4 cd4 43.
+f5 Af8 44. He5 Cb7 45. fg5 Cg9 46. Hg6 Cg7 47. gf5 dc4 48. fe5 Rb5 49. Ee4
+Ae8 50. Hh4 Aff7 51. Rg6 Cd9 52. Rxg7 cd4 53. Eh6+ Ke9 54. Ae0 Rb4 55. Hf5
+Rb3 56. e6 d3 57. ef6 Afe7 58. Cxe7+
+{-총평-
+ 
+ 초의 양차 합세 공격에 한의 귀마로
+ 
+ 병을 지키는 수가 결과적으로 좋지
+ 
+ 않아 시종일관 초에서 유리하게
+ 
+ 대국을 운영하여 승리함.
+ 
+ 성우제 프로의 노련미와 날카로운
+ 
+ 공격력이 멋있었다.
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-31"]
+[Round "36"]
+[White "귀마 김기영 三단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. He3 Cee9
+{묘하게도 성우제 프로는
+
+김동학 프로가 즐겨 두는 후수 포진을
+
+들고 나왔다.
+
+김기영 프로 역시 눈에 낯익은 포진이라
+
+초반 진행이 빨랐는데 어떻게
+
+진행될 지 무척 궁금해진다.}
+12. Rh4 Kf8 13. Rhi4 Rb1+ 14. Ad1 Cxe3 15. dxe3 Eb4 16. ed3 Exd1 17. ab3
+Afe8 18. Kf2
+{초차로 우변병을 잡을 수 없다.
+
+만약 잡는다면 초의 궁성에 있는
+
+한상이 뒤로 후퇴하면서 차 장군을
+
+부르는 수에 의해 한상에게
+
+초차가 죽게 된다.}
+18... Ce9 19. Rxi6 Rxi6 20. Rxi6 Ef4 21. Ri8+ Kf9 22. Cxh9 Rg1 23. Hi1 gh6
+24. Ch4 hi6 25. Hg2 He6 26. Cc4 Ra1 27. Ae1 c5 28. Cc1 f5 29. g4
+{졸을 올려 상멱을 막는 것이 좋았다.
+
+지금 초에서 천궁이 되어 있지만
+
+중포가 있고 초차가 좋은 자리를
+
+차지하고 있어 다소 유리한 형국이다.}
+29... Hh6
+{마가 떠서 초차와 졸을 양걸이로
+
+공격했는데 뒷수가 나쁘기 때문에
+
+한에서 좋은 수가 절대 아니다.}
+30. Rxi6 Hxg4+ 31. hg3
+{한마가 피할 곳이 없어
+
+매우 불리해졌다.}
+31... Hg7 32. Rg6 Ra7 33. gxg4 Cg9 34. Rf6+ Rf7 35. Rxf7+ Axf7 36. Exc5 Af8
+37. Hxf4 fxf4 38. gxf4
+{기물의 숫적 우세로 밀어 부치겠다는
+
+의도. 졸이 4개가 남고 양포가 있어
+
+이기는 것은 시간 문제일 듯.}
+38... He6 39. fg4 Ce9 40. Ef3 Af7 41. Kf1 Ade8 42. Kf0 Ce7 43. Cf1 Ke9 44.
+c4 Hg7 45. bc3 Hh5 46. Ke0 Hi3 47. Ed6 Kd9 48. Cd1 Cg7 49. de3+ Cd7 50. cd3
+Hh5 51. g5 Hg7 52. c5 Afe7 53. c6 Hi6 54. gf5 Hh4 55. fe5 A7f7 56. Eg4 Hg6
+57. c7
+{-총평-
+ 
+ 그 포진의 전개상 난타전과 속전속결이
+ 
+ 불가피한 상황에서 양차를 합세하여
+ 
+ 한의 우진을 집중 공격하는 전략이
+ 
+ 주효했다. 중반 한의 귀마가 떠서
+ 
+ 초차와 졸을 건 수가 불리해진 가장
+ 
+ 큰 원인 제공. 이 대국을 김동학 프로가
+ 
+ 관전했다면 어떤 생각을 하였을 지
+ 
+ 무척 궁금하다.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-02"]
+[Round "19"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ad8 8. Kf0 Kd9 9. Ci2 Rg9 10. ih3 Afe8 11. Cif2 Ce9 12. Cc2 cb6 13. Cc4 d5
+14. Cc0 Ed6 15. Ade1 Cf7 16. Ra1 g5 17. Cf2 Hf5 18. Cg0 d4 19. Ri4 Exb3 20.
+f4 Hg7 21. cxb3 Rc9 22. Ra4 Eb8 23. Rxd4 Cxe3 24. Ch2 Ce9 25. Cxh6 gf5 26.
+fg4 fe5+ 27. Ke0 e4 28. Rd3 Hf5 29. Ch2 e3 30. Rc3 Rxc3 31. bxc3 Rg6 32.
+gf4 Hd4 33. fe4 Hb5 34. Hxe3 Rf6 35. cd3 Ha3 36. d4 Af8 37. Hg4 Rc6 38. Ee2
+Cf9 39. Ri1 Rc3 40. Rg1 b5 41. Rg2 Rc1 42. Cf2 bc5 43. Kf0 cd5 44. Eg5 dxd4
+45. Exd7 d3 46. Hf3 Axd7 47. Hfe5 Afe8 48. gf3 Hc2 49. hg3 Aee7 50. Ri2 Ce6
+51. Ri9 Aee8 52. Hf6 Ed5 53. Cf4 Rb1 54. Ri2 Rc1 55. Ri1 Ef8 56. Hh7 Cxe4
+57. Hxf8 Axf8 58. Hxd7 Ae8 59. Hf6 Ce9 60. Ri8 Ae7 61. Cd0+ Hd4 62. Cxd4
+Ce6 63. Cd0+ dc3 64. He4 Ke9 65. Ri7 Ae8 66. Hc5 ab6 67. Hxe6 cd3 68. Cg0
+Rc6 69. Ce0 Kd9 70. Hg7 Rc7 71. Cxe8
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-02"]
+[Round "20"]
+[White "귀마 조용희 七단"]
+[Black "귀마 이점섭 六단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 Ra8 9. Afe1 cb6 10. Ed3 Rc8 11. Rc0 dc6 12. Add1 c5 13. Ci2 Rd5
+14. Ci0 Ad8 15. ih3 Ce9 16. Ce2 Kd9 17. Cd0 Rd4 18. Ra0 Ed6 19. Ri5 Ca9 20.
+Rc0 Ra4 21. Cg0 hi6 22. Ri1 ih6 23. Exg6 hxg6 24. He3 Afe8 25. Cxg6 Exf3
+26. Cg0 Exg3+ 27. hxg3 Hh5 28. gxf3 Rc6 29. Cd0 Ce9 30. Ri5 Hg7 31. Af2 Rh6
+32. Ade1 Cc9 33. Hf5 Hxf5 34. Rxf5 Re6 35. Eg5 Cb5 36. Cxd7+ Adxd7 37. Rxc5
+Cf9 38. Exe8 Axe8 39. Rd5+ Ad8 40. Rd0 Re8 41. Hc4 Cbb9 42. He5 Re4 43. Hf7
+Cd7 44. Hxd8 Rxd8 45. Rxd7 Re8 46. Rxe8+ Kxe8 47. fe3+ Kd9 48. Ra0 Rd4 49.
+cd3 Rd6 50. bc3 Rd7 51. Ra4 Cf9 52. Re4 bc6 53. Cg2 Re8 54. Rd4+ Cd7 55.
+Cd2 Kd8 56. e4 Rf7 57. e5 Ke8 58. e6 ab6 59. Cf0 Rg7 60. Rf4 Kd8 61. Rf8+
+Kd9 62. Rf9+ Kd8 63. Re9 Rg8 64. e7 Cd9 65. Rf9 cd6 66. Cf8 bc6 67. Re8#
+{White mates} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-05"]
+[Round "39"]
+[White "귀마 김경중 九단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Hd7 7. c4 Ad8
+8. Cb4 Kd9 9. Cb1 Afe8 10. Ci1 Rg9 11. Cc1 Ce9 12. ih3 Cc9 13. Exc6 dxc6
+14. Cxc6 ab6 15. Rxa9 Cxa9 16. Cc1 Ed6 17. Ri4 Ce7 18. He3 gf6 19. Cf1 hg6
+20. Rd4 bc6 21. Rd5 Cf9 22. Cc1 Hb8 23. Ke0 Cd7 24. Ra5 Ce9 25. Ade1 Ri9
+26. Ra8 Exg3+ 27. hxg3 Cxd2 28. Axd2 Hd7 29. Cxc6 Exf3 30. gxf3 Ri3 31. Hd5
+Af8 32. fe3 He6 33. Cc0 Ke8 34. Afe1 Kf9 35. Cf0 Ae8 36. Cxe6 He5 37. Ce4
+Hg4 38. Ce2 Cxe3 39. Hxe3 Rxe3 40. b4 He5 41. Kd0 Rd3 42. Exd3 Hxd3 43.
+Ra9+ Ae9 44. Ce0 He5 45. Cxe5 Ke8 46. Ce0+ fe6 47. Cxe6 gf6 48. Ce0+ Kf9
+49. Rxe9#
+{White mates} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-06"]
+[Round "준결승전 제1국"]
+[White "귀마 김동학 三단"]
+[Black "귀마 김기영 三단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Ef3 Ra5 9. Af1 Ke9 10. g4 Raa8 11. c4 Rad8 12. Hd4 cd6 13. c5 d5 14.
+cxd5 Hxd5 15. ab3 ih6 16. Rxi8 Rxi8 17. Ed6 Rd8 18. Exf9 Kxf9 19. Ri0 Ae8
+20. Ri9 Ce9 21. Ce0 Hc7 22. Cd2 Rd5 23. bc3 Ra5 24. Kd0 Che7 25. Afe1 Hb5
+26. Hxb5 Rxb5 27. c4 Ch7 28. Cf0 Cd7 29. Ce2 Af8 30. Ke0 Rb2 31. Ch2 Rb1
+32. cd4 Rb5 33. Ch4 Ch7 34. Chf4 Ec9 35. Ch4 bc6 36. Ce4 cd6 37. Ce2 Rb3
+38. Ce7 Ch5 39. Ch7 Rb5 40. Ri5 Hd8 41. gh4 Rb7 42. hxh5 Rxh7 43. hxh6 gxh6
+44. Rc5 Ef7 45. Rc8 Ae8 46. He4 de6 47. d5 hg6 48. hg3 Cg9 49. d4 f5 50.
+Eb5 Ef6 51. Exd8 e5 52. Rb8 exe4 53. dxe4 Rh4 54. Exf5 Rxe4 55. gf3 Ke9 56.
+Rb6 Cd9 57. Rb9 g5 58. Ed2 Eh3 59. Cd0 Exe1 60. Axe1 Ei5 61. fg3 Re3 62. g4
+gxg4 63. Exg4 Eg8 64. Rb2 Cg9 65. Ed6 Re6 66. Re2 Rxe2 67. Axe2 Exd6 68.
+dxd6
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-08"]
+[Round "결승전 제1국"]
+[White "귀마 김동학三단"]
+[Black "귀마 김경중九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Kf8 8. Af1 Afe8 9. Ef3 Ce9 10. Ca2 Rc9 11. Che2 Che7 12. g4 Kf9 13. Cd2 Ra9
+14. Ca2 Rb9 15. c4 Cg9 16. Hd4 Add8 17. Exc6 bxc6 18. Hxc6 Ch7 19. h4 Cd7
+20. Rab0 Rxb0 21. Rxb0 ih6 22. Ec5 Ri3 23. Rb3 Ce9 24. Ca5 Ri0 25. d4 Rc0
+26. Cd5 f5 27. Cd2 gf6 28. Af0 Cg9 29. Ae0 Rc1 30. Ad0 hg6 31. Ke0 Rc0 32.
+Ae1 Cc9 33. Ha5 fe5 34. Kf0 Rc2 35. Ch2 Ee7 36. Ke0 Rc0 37. Ce2 Cg9 38. gf4
+ed5 39. dxd5 Hxd5 40. hg4 Hc3 41. Cg2 Hh6 42. Kf0 Cf7 43. Ke0 Hi4 44. Hc6
+Ce9 45. He5 Af8 46. Hed3 Ade8 47. Cf0 Hg3 48. Cf3 Cg9 49. Kf0 Hi2 50. a4
+Hg1 51. Cxc3 Exc3 52. Exf7 Afxf7 53. cd4 Cd9 54. Cg0 Hf3 55. de4 Hh2 56.
+Hh1 Rc2 57. Hdf2 Rc0 58. Hd1 Rc2 59. He3 Rc0 60. Rb2 Hi4 61. Ri2 Hh6 62. e5
+Ea6 63. ab4 Rc3 64. Ri3 Rb3 65. Hd5 Rxi3 66. Hxi3 Ed8 67. Hc7 Cd7 68. Hd5
+Aff8 69. Add1 Cd9 70. He3 Ke9 71. Ke0 Cd3 72. Hd5 Cd7 73. Cd0 Cd9 74. Hxe7
+Axe7 75. Cxd8
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-09"]
+[Round "결승전 제3국"]
+[White "귀마 김동학 三단"]
+[Black "귀마 김경중 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. ab3 Ef6 3. Ef3 Ce7 4. Hc2 Hc7 5. Ce2 Ri8 6. Ri4 Kf8 7. ed3 g5
+8. Rc4 ed6 9. Rf4 de6 10. Ee3 cd6 11. Rc4 Ch7 12. Ch4 Afe8 13. Ch1 Kf9 14.
+Ca1 ab6 15. ba3 Rb9 16. Cf1 ih6 17. ab3 Cb5 18. g4 Rg8 19. Raa4 d5 20. gxg5
+Cxg5 21. Ei5 h5 22. Rxc7 Cxc7 23. Exg8 Cxc2 24. Exh5 de5 25. Ri4 Ae7 26.
+Hi1 bc6 27. Ri7 Ke8 28. d4 cd6 29. Ei5 Cc7 30. Ri9 Ra9 31. Ef2 Hh6 32. Ef3
+Hf7 33. Ei5 Hh6 34. h4 Cb5 35. h5 Hf5 36. Rg9 He3 37. Ad1 Ra1 38. cd3 Exd3
+39. Rg3 Cb1+ 40. Ad2 Hf5 41. Rxd3 Ci7 42. hg5 Hg7 43. Hh3 Hf9 44. Rf3 Ae9
+45. Rf8+ Kd9 46. Rc8 Ra9 47. bc3 Cd7 48. c4 A9e8 49. Cc2 Ra3 50. Rxc9+ Kd8
+51. Hf4 Rb3 52. Ce2 Cb9 53. Cd1 Ce9 54. Ra9 Rg3 55. gh5 Hg7 56. Hd3 Re3 57.
+Hb4 Rb3 58. Ha6 Rb6 59. Ra8+ Kd9 60. Hb8+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-10"]
+[Round "05"]
+[White "귀마 김동학 三단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "151"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0
+{초차가 한칸 들어서는 수도
+
+실전에서 종종 선보여진다.}
+4... Hf7 5. Rb4 Ef6 6. Ef3 Ra5 7. ed3 Rg5 8. Hf2 Exh3
+{상을 희생하여 궁극적으로
+
+우변의 묶인 병을 해소할 목적.}
+9. gxh3 gh6 10. de3 Rig9 11. Ke0 Ea6 12. ab3 Af8 13. Ade1 Kf9 14. h4 Ade8
+15. Rg4
+{졸을 올린 후 차대하는 수는
+
+수비의 대가인 김동학 프로가 
+
+즐겨 두는 상용 수법.}
+15... Rxg4 16. hxg4 Ce9 17. Rg0 Rg8 18. e4 cd6 19. cd3 Cg9 20. Ea3
+{한포가 좌측으로 넘어 초마와 상을
+
+거는 수에 대비하여 미리 진출.}
+20... Cd7 21. ef4
+{한포로 졸을 잡으면
+
+초의 면포로 한사를 같이 
+
+잡겠다는 의도.}
+21... ef6 22. Cg2 Ri8 23. Aff1 hg6 24. Ri0 Ri7 25. Cd2 ih6
+{점수상 약간 유리한 한에서
+
+차대를 청하여 차없는 낱장기로
+
+장기전으로 갈 목적.
+
+
+성우제 프로는 행마 감각이 날카롭고
+
+매서운 노련한 기풍의 속기파.
+
+일명 "시라소니"라는 닉네임으로 유명.
+
+
+
+}
+26. Rxi7 Cxi7 27. Cf0 Ce7+ 28. Ce2 Cc9 29. Ha1 Ca7 30. Ad1 b5 31. Afe1 fe6
+32. fe4 gf6 33. Ei1 hg6 34. Ca0 Ec3 35. Ca2
+{초의 함정수에 걸린 한상.
+
+팽팽한 국면에서 상이 대가없이
+
+죽는다면 큰 타격을 입는다.
+
+두 대국자는 기풍이 극단적으로
+
+대조된다.
+
+초의 김동학 프로는 먼저 공격하지
+
+않고 미끼를 던져 유도하여 역습을
+
+노리는 수비형 스타일.
+
+한의 성우제 프로는 선제 공격하는
+
+발빠른 공격형 스타일.
+
+
+
+}
+35... Ea0 36. Kd0 Hh6 37. Ce0 Cf7 38. Cexa0
+{결국 상이 희생되어
+
+점수상 역전이 되었는데
+
+아직 결과를 예측하기 어려운
+
+형국.}
+38... Ci9 39. Ci0 f5 40. Cg2 g5 41. gxg5 fxg5 42. Hc2 Hd5 43. bc3 Hf6 44.
+de3 g4 45. cd3 bc5 46. Cd2 g3 47. Cc0 Hi4 48. Cd4
+{한마와 병이 동시에 걸려
+
+약간 어려운 상황.
+
+과연 한에서 어떻게 대응할련지...}
+48... g2 49. Cxi4 gxf2 50. Axf2 Cxf2 51. Cxc5
+{결과적으로 마 대 마 교환과
+
+양병 대 초사의 교환으로 
+
+초의 기물상 이득.
+
+형태상.기물상 초의 절대 우위로
+
+큰 이변이 없는 한 초의 완승 예상.}
+51... Cf7 52. Cc0 Cid9 53. Cd4 Hh5 54. Cd2 Hi3 55. Ef3 Ad8 56. Ce0 Afe8 57.
+Ae1 Hg4 58. Ce2 Hf6 59. Cf0 Hg4 60. Ke0 ef6 61. e5 Cg9 62. Hb4 Ce9 63. ed5
+de6 64. d6 e5 65. Ei1
+{초상와 포에 의해 마와 병이 
+
+걸리게 되어 패색이 짙어짐.}
+65... Hi3 66. Cxe5 f5 67. Ce2 f4 68. Ef3 fxf3 69. exf3 Hg2 70. Hd5 Ce5 71.
+de6 Ke9 72. Hb4 Aed7 73. ed6 Ke8 74. de3 Hh4 75. Hd3 Hg6 76. Hxe5
+{결국 기물 부족으로
+ 
+ 한에서 포기.
+ 
+ 
+ -총평-
+ 
+ 중반에 좌측 한상을 죽인 것이
+ 
+ 불리해진 원인 제공.
+ 
+ 김동학 프로가 침착하고 끈기있게
+ 
+ 대응하여 기물의 우위를 차지한
+ 
+ 전술이 주효 승리 요인.
+ 
+ 
+ 해설 : 김경중九단
+ }
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-10"]
+[Round "06"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김동학 三단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8
+{이번 대국도 역시 김동학 프로가
+
+항상 애용하는 후수 포진을 
+
+선보였다.
+
+초에서는 중앙상으로 우진병을
+
+취한 후 차길을 열어 공격을 
+
+시도하는 전술을 택하였는데..}
+8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9
+{너무 정형화된 후수 포진이라
+
+관전의 재미가 떨어지지만
+
+한에서는 어쩔수 없는 최적의 선택.}
+12. Hd2 Rh1+ 13. Af1 Kd8 14. ih3
+{지금처럼 합졸하지 않으면
+
+한포로 중앙마를 때린 후
+
+중앙상이 우측 긴상으로 떠서
+
+초의 면포와 사를 노리는 수가
+
+숨어 있다.}
+14... Ri1 15. Ae0 Exc3 16. bxc3 Ade8 17. Ce4 Ri4 18. Cee2
+{이 부분에서 초에서 손해수를 두었다.
+
+거의 헛수성 행마다.}
+18... Kd9 19. Aef0 de6 20. Ce0 Ed6 21. Cf2 ab6
+{묶인 병을 가볍게 풀며 
+
+차대를 청하는데..
+
+
+지금부터가 시작이다.
+
+이후 초의 공격 행마를 주시해 보자..}
+22. Rxa9+ Cxa9 23. Ra5 Cae9 24. Ce2 gf6 25. Cd0 Ad8 26. c4 Afe8 27. Ea1 Ce7
+28. cd4 c5 29. Ke0 Ke9 30. A0e1 b5 31. Ra6 Hh7 32. de4 b4 33. f4 Eb3 34.
+Cf0 c4 35. Hexc4 bxc4 36. Hxb3
+{마 하나를 희생하여 상과 병을 잡는
+
+수가 좋은데 노련미가 돋보인 행마.
+
+초의 형태가 활발해져 공격할 자리가
+
+많이 확보될 상황.}
+36... Ri5 37. Hd2 cb4 38. Cd0 Rc5 39. ed4 Rc3 40. fe4 Cd9 41. Ra9 Kf9 42.
+Rb9 Ra3 43. Ed3 Hc5 44. Eg1 ba4 45. d5 Hd3 46. Cf0 Ke9 47. ed4 f5 48. gf3
+Hg5 49. hg3 fe5 50. dxe5 exe5 51. g4 Hf7 52. gf4 Hb4 53. dc4 Ha6 54. Rb6
+{놓쳐서는 안될 중요한 급소 자리.}
+54... ab4 55. cxb4 Hg5 56. fg4 He4 57. Hxe4 exe4 58. Ei4 ed4 59. Ef6 Cf7
+60. f4 Kf9 61. bc4 dxc4 62. Exc4 Ce9 63. f5 Cf3 64. g5 Ra4 65. fe5 Hb4 66.
+Rf6+ Cf8 67. Ef2 Cxe5 68. Eh5 Ra2 69. Ri6
+{초차가 우변으로 빠지는 수 대신에
+
+우측 사를 올려 면포를 지키는 것이
+
+더 좋아 보인다.}
+69... Ke9 70. Aff2 Hd3 71. Kd0 Kd9 72. Exf8 Axf8 73. gf5 Afe8 74. fxe5 Rxe2
+75. Rc6 Ke9 76. Afxe2 Hxe5 77. Rc9+
+{빅 기물이 되어 아쉽게
+ 
+ 초의 점수승.
+ 
+ -총평-
+ 
+ 초반 초의 적극적인 공격과 좋은 
+ 
+ 자리 선점으로 주도권을 잡으려 
+ 
+ 했으나 한의 철옹성 수비로 소강 상태
+ 
+ 유지. 중반 초마와 상병의 교환 및
+ 
+ 졸을 적절히 활용한 결과 초의 점수승
+ 
+ 으로 마감.
+ 
+ 해설 : 김경중 九단
+ 
+ }
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-12"]
+[Round "09"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 김경중 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ed6 3. Ed3 Ce7 4. Hg2 Ra8 5. Ce2 Hg7 6. Ri4 cb6
+{
+변형 포진 선택으로 후수 방어를
+
+시도. 틀에 박인 정석에서 벗어나고자
+
+하는 의도가 엿보임.}
+7. c4 Rc8 8. b4 Ke9 9. Hd2 Rii8 10. Ad1 ih6 11. Rd4 Ri5 12. Kd0 Ade8 13.
+Ei3 Cf7 14. Afe1 Cd9 15. Ce0 Aff8 16. Cc0 Ra8 17. Ci0 Ra5 18. Ri4 bc6 19.
+ba4 Rd5 20. ab4 Ei6 21. gf3 gf6 22. Cc0 cb6 23. Cg0 Hi8 24. Rg4
+{한마가 좋은 자리를 이탈하게
+
+되어 약간 불리해지자
+
+초에서 급소 자리 차지와 공격 시도.}
+24... Hg9 25. Rg8 bc6 26. h4 Ra7 27. f4 ab6 28. Rxa7 Cxa7 29. fe4 Ra5 30.
+Ce2 Ce7 31. cd4 e5 32. Rh8 Hf7 33. Ri8 exe4 34. dxe4 fe6 35. bc4 Rb5 36.
+Ke0 Kf9 37. ef4 e5 38. cd4 Rb4
+{완착수.}
+39. de4 exe4 40. exe4 Rb5 41. f5
+{졸의 진격으로 한에서 매우
+
+불리해짐. 
+
+상대를 압도하여 밀어 부치는
+
+탱크의 기백과 저력이 살아 숨쉰다.}
+41... Rd5 42. Ea1 Ce9 43. Ec4 Rd3 44. f6 Hd8 45. Rh8
+{병을 지키는 연결 고리가 풀리게
+
+되어 고전 예상.}
+45... c5 46. Rxh6 cxc4 47. fe6 Ea4 48. Rxi6 Hc5 49. Ef5 Cxe6 50. e5 Ce4 51.
+ed5 Hd7 52. hg4 Exd2 53. gf4 Rxd5 54. Ei7+ Ke9 55. fxe4
+{결국 포가 죽게되어 패국으로 치달음.}
+55... Ea4 56. Cd0 Rg5 57. ef4+ He5 58. He3 Hdc6 59. f5
+{기물 거둘 곳을 찾아 한의 포기.
+ 
+ 
+ -총평-
+ 
+ 우진의 약한 틈을 비집고 침입하여
+ 
+ 졸과 차의 합동 공격으로
+ 
+ 주도권을 잡음. 날렵한 공격 행마와
+ 
+ 무서운 파괴력을 선보인 한판.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-12"]
+[Round "10"]
+[White "귀마 김경중 九단"]
+[Black "귀마 이점섭 六단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ch4 Ee6 7. Ch1
+{김경중 프로의 주특기인 중포 공격으로
+
+심기 일전.
+}
+7... Ra5 8. Hf2 Ri8 9. a4 Rg5 10. g4 Rb5 11. d4 Rf5 12. Cd1 gh6 13. Cf1 Ri5
+14. Rxi5 ixi5
+{지금까지 서로 평범한 진행으로
+
+상대의 동태를 살핌.}
+15. ab4 Ke9 16. Ef3 h5 17. c4 Ra8
+{귀마 진영의 우측 차가 좌측으로 빠져서
+
+차대 청하는 수가 요즘 실전에서
+
+종종 선보여진다.}
+18. Rb0 Rg8 19. gf4 cd6 20. c5 Rg5 21. Cc1
+{기민한 방어수.}
+21... Afe8 22. fe4 Kf9 23. Exd6 Ce9 24. Ea4 Hb9 25. bc4 ba6 26. e5 Eg9 27.
+cd5
+{한상을 쫓아내며 철옹성 구축.
+
+한의 우진에 있는 양상의 활용력이
+
+떨어진 점이 다소 불만.
+
+
+
+}
+27... Hbd8 28. Cf1 Af8 29. Rb3 Ade8 30. Ca1 a5 31. Cxa5 Rg1+ 32. Af1 Cc7
+33. Ca0 Ci7 34. Kf0 Ei6 35. Ade1 Ef4 36. de4 Ed7 37. Ke0 fg6 38. ef4 gh6
+39. cd4 Eg5 40. fg4 Ei8 41. Cf0 Ci1 42. Eh1 Cg9 43. de4 Ci7 44. e6 Ce9 45.
+d6 hg6 46. Ed2 gf6 47. e5 hg5 48. h4 fg6 49. ef5 Hb7 50. Ef4 Hc5 51. Rc3
+Hb7 52. Ha3 gxf5 53. Exf5 g5 54. gxg5 Rxg5 55. Ec6 Cc7 56. Rf3 Cg9 57. d7
+{양상의 적극적인 활용과 
+
+졸 입궁으로 주도권 잡음.
+
+탱크 이점섭 프로에 맞서
+
+전투신 김경중 프로의 융단 폭격이
+
+시작되는데..}
+57... Cc5 58. d7xe8+ Axe8 59. Rb3 Rxf5 60. He4 Rd5 61. Rxb7 Cf5 62. e7 Axe7
+63. Rxe7 Rd9 64. Ra7 Eg5 65. Hxg5 Hxg5 66. Ra5 Rf7 67. Hc4 Rf6 68. He3 Hf7
+69. Hxf5 Cd9 70. Hd4 Rd6 71. Ra7 Ke8 72. He6+ He5 73. Ra8+ Ke7 74. Rf8
+{한궁이 피할 곳이 없어 포기.
+ 
+ 
+ -총평-
+ 
+ 중포 공격과 두터운 행마에 힘입어
+ 
+ 중앙 정면전 졸 진격과 입궁으로
+ 
+ 초에서 승기를 잡음.
+ 
+ 
+ 해설 : 김경중9단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-17"]
+[Round "16"]
+[White "귀마 김기영 三단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 g5 6. Eg6 Ri7 7. Cxh9
+ef6 8. He3 cd6 9. Ef3 de6 10. Ch1 Cd7 11. Cc1
+{상 대 상 교환후 중포로
+
+한의 약한 좌진을 공격하려는
+
+치밀하게 연구된 수.}
+11... Ra7 12. Rb0 Cxe3
+{고심끝에 면포로 마를 취하는
+
+과감성 발휘. 
+
+이해될만한 수로 평가.}
+13. dxe3 Hd5 14. ab3 Ra2 15. Ri2 Kf8 16. ed3 Hf4 17. Cxc9 fxg6 18. Ke0 ih6
+19. Rxi7 Cxi7 20. Afe1 Cc7
+{초포의 귀환을 막았는데
+
+살아 오기가 어려울 듯.}
+21. de3 gf6 22. cd3 Ra9 23. Cxf9 Kxf9 24. Rc0 Cg7 25. Rc4 Hg6 26. Ri4 Ce7
+27. Hf2 bc6 28. h4 Ra4 29. g4 h5 30. hxh5 gxh5 31. Cg2 Ke8 32. Ri8+ Ke9 33.
+Ri9+ Ke8 34. Cd2 Ae9 35. Ei1 Af9 36. Cf0 Hgh8 37. Ri2 Ae9 38. Rh2 Ra5 39.
+He4 fg6 40. Rc2 Ra6 41. Add1 Ch7 42. Kd0 Ad9 43. Cc0 Hd8 44. Cf0 Ae9
+{한에서 외사가 왔다 갔다
+
+헛수만 두는 것이 이해가
+
+안간다. 송종일 프로의
+
+기백과 대담성이 어디로 갔단 말인가?
+
+}
+45. Ri2 Hf7 46. Ef3 Cd7 47. Ri6 ef6 48. Hxf6 gxf6 49. Rxf6 Kd9 50. Rf5 Ra4
+51. Ei1 h4 52. gxh4 Hd6 53. Rh5 Hc4 54. Ke0 Hb2 55. Add2 Hc0 56. Ef3 Cxd2
+57. Cxc0 Ra0 58. Axd2 Rxc0+ 59. Ed0
+{김기영 프로가 정확한 계산과
+
+치밀함으로 승부를 유도하여
+
+이득을 취한 점이 돋보인다.}
+59... Ra0 60. e4 Ae8 61. hg4 Ra7 62. gf4 Rg7 63. Ae1 Rg0+ 64. Af0 cd6 65.
+d4 Rg3 66. b4 de6 67. bc4 ef6 68. Ra5 Ke9 69. c5 fg6 70. cd5 Rg5 71. Rc5
+Kf9 72. de5 gf6 73. Ea2 Kf8 74. Rc7 Rg3 75. Ec5 Rc3 76. d5 Ad7
+{기물을 거둘려고 포기한 수?}
+77. Rxd7
+{
+ -총평-
+ 
+ 약 40세의 나이 차이에도 불구하고
+ 
+ 투혼을 발휘하여 전력을 다해 보지만
+ 
+ 혈기 왕성한 젊은 패기와 실력앞에
+ 
+ 힘을 거의 써 보지 못한 점이
+ 
+ 무척 아쉽다.
+ 
+ 반면 김기영 프로의 치밀하고 정확한
+ 
+ 수읽기와 두터움으로 상대를 압도하는 
+ 
+ 점이  무척 인상적이다.
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-18"]
+[Round "18"]
+[White "귀마 김기영 三단"]
+[Black "귀마 김경중 九단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 ef6 6. Exc6 bxc6 7.
+Rb0
+{상으로 병을 취하여 한의 우진을
+
+약화시키고 한의 응수를 물어
+
+본다.}
+7... Kf8 8. Ef3 Ee6 9. Rb5
+{그 자체로 좋은 급소 자리.}
+9... Afe8 10. Rh5 Add8 11. Rh4 Ra5 12. Rxh9 Rxh9 13. Cxh9 gh6
+{병울 두지 말고 한차가 포를 달라고
+
+직접적으로 공격하는 수가 좋다.
+
+그 포가 68자리로 넘어오면
+
+중앙상으로 우진졸을 취하는 수가
+
+있기 때문이다.}
+14. Exh6 ixh6 15. Ch4 Cd7 16. Hf2 Cd9 17. Ke0 Kf9 18. g4 cd6 19. Afe1 Ke9
+20. ab3 Cf9 21. Ri9 hg6 22. Cf4
+{김기영 프로는 아주 두텁게 두는 기풍.
+
+}
+22... d5 23. Cf0 de5 24. gf4 Ha6 25. Add1 Hc5 26. hg3 Hd7 27. gf3 e4 28.
+fxe4 Cxe4 29. de3 Ce7 30. cd3 Kd9 31. Hd4 Ce9 32. Hh3 Hd6 33. Hf4 Rg5 34.
+Cd0 Hb5 35. bc3 Ha7 36. Hdxe6 fxe6 37. Cxe6 gf6 38. Ce2 Rc5
+{위용을 자랑하는 4졸의 위력이
+
+가히 위협적이다. 
+
+그 졸을 어떻게 막을 것인지
+
+고민된다.
+
+한의 귀마가 수비수에 치중되어
+
+전반적으로 초에서 유리한 형세.
+
+}
+39. Af2 Hb5 40. Ade1 Rc6 41. Hh5 Cf5 42. Ri6 Ra6 43. c4 Ha3 44. cd4 Hc2 45.
+Cf0 Ha1 46. f4 Cf7 47. fe4 fe6 48. d5 Hf8 49. e5 Hb3 50. exe6 Hc1+ 51. Ad1
+Cf9 52. ef6 Ra5 53. Hg7 Cd7 54. Ri9
+{초마로 사를 때리거나 졸을
+
+궁성에 입궁시켜 순식간에
+
+공격할 목적.}
+54... Hh7 55. Ri8 Cxe3
+{빅국을 유도하겠다는 승부수.}
+56. dxe3 Cxd1 57. Ri1 Rxd5 58. He6 Rd6 59. ed3 Hxd3 60. Rxd1 Hxf2+ 61. Ke1
+Rxd1+ 62. Kxd1 Add7 63. Hc7+ Kd8 64. Ke1 He4 65. fe6 Hhg5 66. Hd5 Hf3+ 67.
+Kd0 Hd4 68. Hf4 Hf2 69. Ke1 Hxe2 70. Kxe2
+{비기는 기물로 결국 빅국
+ 
+ 
+ -총평-
+ 
+ 두텁게 진영을 갖추고 양마와
+ 
+ 졸을 잘 활용하여 초에서 유리한 
+ 
+ 펼쳤으나 한의 승부수로 인해
+ 
+ 아쉽게 비기게 된 대국
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-18"]
+[Round "18"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김기영 三단"]
+[Result "1-0"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ ed6 5. Ee3+ Che7 6. Cb4 Ee6 7. Cb1
+Ri5 8. Hd2 Kd8 9. Cg1 Ade8 10. Cc1 Ra5 11. Rxa5 axa5 12. Ed3 ab5 13. Cg1 c5
+14. ih3 Hh9
+{한차가 6선 급소 자리로 먼저
+
+올라올 수도 있었으나
+
+초상으로 우진 양병 취하는 수를
+
+막기 위하여 한마가 뒤로 후퇴하여
+
+곁마로 놓을 의도.}
+15. Ri4 Cc7 16. c4
+{초에선 선택의 여지가 없다.
+
+그냥 앉아서 양득을 허용하지
+
+않겠다는 의도.}
+16... Cxc4 17. Ef6 gxf6 18. Hxc4 Ra4 19. Ri9 Rxc4 20. Rxh9 hg6 21. ba3
+{이 부분 전투는 초에서 약간 이득을 
+
+보았다.}
+21... Ce7 22. Kf1 Ce9 23. Rh5 b4 24. Cd1 cd5 25. Afe1 Kd9 26. Rh4
+{한의 좌진이 의외로 두터워
+
+오히려 차대를 먼저 청함.
+
+한차가 아주 좋은 자리를 차지하고
+
+있는 점이 초에서는 불만.}
+26... Ad8 27. Kf0 Afe8 28. Eb1 Rxh4 29. hxh4 dc6
+{0.5점을 지킬 수 있을 것인가?
+
+뺏길 것인가? 그것이 문제로다..}
+30. g4 Ed6 31. Ee3 Ec3 32. Ad2 c5 33. f4 Ca9
+{좌변졸을 잡을 목적.}
+34. Ca2 Hb6 35. fe4 Ea8 36. Ca5 Hc8 37. ed4 dxd4 38. Cxd4+ Ad7 39. Cd1 c4
+40. gf4 g5 41. Ec6 Cf9 42. Ke1 Cc9 43. Ee3 gf5 44. hg4 fxf4 45. gxf4 f5 46.
+fxf5 Exf5 47. Hh4 Ei7 48. Kf0 Eg4 49. A0e1 Hd6 50. Hg6 Hf5 51. Ec6 Hd4 52.
+Ef4 He6 53. Ec6 cd4 54. He5 Exd2 55. Axd2 bc4 56. Ca0 Ec5 57. Cg0 Ce9 58.
+Hg6 Hg5 59. Ae1 Cc9 60. Ce0 Hf3 61. Cd5
+{26자리 마으로 외통을 노려보기
+
+위한 수.}
+61... de4 62. Cxe4
+{초읽기에 몰린 나머지
+
+실전처럼 포로 병을 취한 것이
+
+무척 후회된다. 
+
+그 병을 잡지 말고 살짝
+
+면포로 놓았더라면 이겼을 것이다.
+
+그 병이 다시 옆으로 피하면
+
+35자리 마 외통수가 나오기
+
+때문이다.}
+62... Cf9+ 63. Ke0 Ke8 64. He5+ Kd9 65. Hxd7 cd4 66. Ca4
+{포가 피하지 말고 상부터 잡은 후
+
+포 부르는 수가 그나마 더 좋은 듯.}
+66... Ke8 67. Hf6+ Kf7 68. Hh5 Ke7 69. Hg7 Hxe1 70. Hxf9+ Ke8 71. Hg7+ Ke9
+72. He6 Hf3 73. Cd0 d3 74. Hxc5
+{병의 전진을 의식하여 빅장 무승부가
+ 
+ 이루어졌다.
+ 
+ 
+ -총평-
+ 
+ 0.5점의 팽팽한 국면이 진행되다
+ 
+ 종반 절호의 기회를 놓친 점이
+ 
+ 아쉬었던 대국.
+ 
+ 
+ 
+ 해설 : 김경중 九단
+ 
+ }
+
+{Black resigns} 1-0
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-08"]
+[Round "02"]
+[White "귀마 조용희 七단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+{조용희七단이 애용하는 수.
+
+양차합세전을 하기 위한 준비 수순.}
+7... Ri5 8. Ri1 Ra8 9. Ed3 Ra5 10. Rxa5 axa5 11. c4 d5
+{기민한 날카로운 수로
+
+김기영 프로가 준비해 온
+
+비장의 공격수.}
+12. Ra1 a4 13. g4 c5 14. Hf4 cxc4 15. Hxd5 cd4 16. Hxe7 Cxe7
+{결과적으로 양차합세 전술이
+
+실패로 끝났다.
+
+초의 좌진 약화로 
+
+형세 매우 불리.
+
+과연 독병의 공격을 어떻게
+
+막아낼 지 귀추가 주목.
+}
+17. bc3 Ed6 18. Exg6 hxg6 19. f4 Rc8
+{이 급소 공격으로 초의 고전이 
+
+예상된다.
+
+}
+20. Eg1 Rxc3 21. Ei4 d3
+{절대 선수.
+
+사면초가의 절대 국면.}
+22. Rd1 gh6 23. Hb1 Rc2 24. Afe1 Rxb2 25. Rxd3 Rxb1
+{병 하나의 위력이 대단함을
+
+여실히 보여주는 대목.}
+26. Rxd6 Rb3 27. Ef2 Rxi3 28. Add1 Rg3 29. Kd0 Rb3 30. Ce0 Rb6
+{기물상 절대 우위를 이용하여
+
+차대를 청했는데
+
+적절한 행마 감각.}
+31. Rd5 Hh9 32. Ec4 Ce9 33. f5 Kd8 34. gf4 hg6 35. Ra5 Rb4 36. Ef2 Eb8 37.
+fe4 Ade8 38. e5 Hb6 39. Rc5 Hd7 40. ed5
+{초에서 기물을 거둘 곳을 찾던 중
+
+포기 직전의 국면.}
+40... Hxc5 41. dxc5 Ee6 42. fe5 Eh4 43. cd5 Cg9 44. Aed2 Cd9 45. Ke1 Rg4
+46. Kd0 Rg0 47. Ke1 Cd7 48. d6 Rg1+
+{전의 상실과 외통수로 기물을 거두고
+ 
+ 말았는데 시종일관 한의
+ 
+ 우세로 전 국면을 이끔.
+ 
+ 
+ -총평-
+ 
+ 초의 양차합세 공격과
+ 
+ 좌진에서의 부분 전투 실패로
+ 
+ 패배 초래. 한의 병 활용력이
+ 
+ 매우 뛰어난 흥미로운 대국.
+ 
+ 
+ 해설 : 김경중 九단
+ 
+ 
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-19"]
+[Round "19"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "264"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ed3
+Ke9 8. Ri4 Ed6 9. Rc4 Rc8
+{김동학 프로의 그 유명한 후수
+
+애용 포진이 다소 바뀌었다.
+
+작전 노출이 많이 되고 타개법 연구가
+
+활발히 진행된 점을 의식한
+
+나머지 업그레이(?)된
+
+이 포진을 최근 들어 항상 사용하고
+
+있다.}
+10. Hd2 Raa8 11. Rca4 cb6 12. Rf4 Rf8 13. Rd4 Rac8 14. Cc2 Rb8 15. Rc4 Ei6
+16. Kd1 Cb9 17. Ade1 Afe8 18. Cb4 Ra8 19. Cb1 Rf5 20. Ce2 Ca7 21. Rc0 Ce7
+22. g4 Add8 23. Kd0 Cg9 24. Hf4 gf6 25. h4 h5 26. Hg2 hxh4 27. Hxh4 Hh5 28.
+Ei3 Cxe3
+{일단 졸을 취하는 수를 택하였는데..}
+29. Ce0
+{다음 수에서 한포가 다시 제자리 
+
+면포로 넘어가면 우측 졸을 올리는
+
+수에 의해 한차와 마가 동시에 걸리는 
+
+수가 숨어 있다.
+
+김동학 프로가 그걸 모를리가
+
+없다. 어떻게 응수할 지 다음수가
+
+기대된다.
+
+}
+29... Ra5
+{가장 안전한 자리로 피했는데..}
+30. g5
+{박력있고 힘차게 졸을 진격시켰다.
+
+차로 졸을 잡으면 초의 귀마가 곁마로
+
+놓으면서 한포를 걸겠다는 주문.
+
+그 한포가 피하면 한차가 상길에
+
+걸리기 때문이다.}
+30... Ce7
+{고심끝에 마를 포기하고 포를 귀환
+
+시켰는데  마가 죽더라고 결과적으로
+
+양졸을 취하게 되어 5점 덤을
+
+고려하면 0.5점이 앞서 나간다는
+
+생각.}
+31. gxh5 Rxh5 32. Ch1 Ri5 33. Ca1 Rb8 34. Hg2 Ef8 35. Cf1 b5 36. Cd1 bc5
+37. Rh4 Cd9 38. Exf6 Exb3+ 39. cxb3 exf6 40. Ra0 Rb6 41. Rh3 Rg5 42. He3
+fe6 43. Ra4 e5 44. Hef1 cd5 45. Rc3 Hc5 46. Rh4 a5 47. b4 Rh5 48. Rg4 Rhh6
+49. Ra3 ab5 50. bc4 Hd7 51. Eg0 bc5 52. cxc5 Hxc5 53. Ee3 Rb2 54. Ra0 Ra6
+55. Rxa6 Hxa6
+{차대가 이루어져 한마의 좋은 
+
+공격 행로가 열린 점이
+
+초의 불만.}
+56. Rc4 Hb4 57. Rc1
+{일단 수비 모드로 돌입하는데..}
+57... Hc2 58. Cc0 Hd4 59. Ce0 Rc2 60. Rb1 Add7 61. Eh1 Rc3 62. He3 Ei6 63.
+Hef1 Eg3 64. Hxg3 Rxg3 65. Rc1 Ra3 66. Ef4 ef5 67. Eh1 fe5 68. Rc4 Ra2 69.
+Cd3 Ra3 70. Cd1 Rg3 71. Ee3 Rg5 72. Eb1 Hf5 73. Hb3 Rg6 74. Ha5 Rb6 75. Hc6
+Rxb1 76. Rf4
+{초에서는 이길 수 없으므로
+
+마와 포를 교환하여 비기는 방법을
+
+강구하는 것이 적절해 보인다.}
+76... Ce4 77. Rf3 Rc1 78. Hb8 Rc8 79. Rb3 Ce7 80. Rb0 Hg3 81. Rb6 Ce4 82.
+Hc6 Hf5 83. Aff1 Cf9 84. Aff2 Ra8 85. Aee2 Hh4 86. Hb8 Add8 87. Ha6 Hf3 88.
+Rc6 Hd4 89. Ad2
+{이점섭 프로는 공격도 매섭지만
+
+수비하는 실력도 김동학 프로 못지
+
+않다.}
+89... Ra7 90. Ke1 Ce7+ 91. Afe2 e4 92. Kd0 de5 93. Cxd4 exd4 94. Cxe5
+{기회를 잘 포착하여 포로 마와 병을
+
+취하였다. 
+
+앞으로 잘 응수하면 빅국이 될 듯 한데..}
+94... Cd7 95. Ke1 Rb7 96. Re6
+{놓쳐서는 안될 선수 자리..}
+96... Cf9 97. Ad1 Add7 98. Ke0 Rb5 99. Aee1 d3 100. Add0 Ca9 101. Kf0 Cf9
+102. Add1 de3 103. Ke0 ef3 104. Add2 Rb0+ 105. Ad0 f2 106. Hc5 Rc0 107. He4
+{기풍 같아서는 마로 사를 때리며
+
+ 부르고 싶으나 포로 잡는 수가
+
+외통 선수가 되어 어쩔 수 없이
+
+뒤로 후퇴하였다.}
+107... fg2 108. Rg6 Rc4 109. Rg4 Kd9 110. A2e1 Ce9 111. Ae2
+{초차로 병을 취하고 한포만 잡으면
+
+빅국이 확실한 데  다른 수를 두고
+
+있다.}
+111... gh2 112. Ke1 Ce7 113. Ad1 Cc9 114. Add2 Cee9 115. Kd0 Cc1 116. Hf2
+Rc5 117. Ce0 Cc8 118. Aee1 Cf8 119. Ce2 Rc0+ 120. Kd1 Cd8 121. Ae0
+{초포로 병을 잡을 수가 없다.
+
+한차 에 외통수가 나오기 때문.}
+121... Rc1+ 122. Kd0 h1 123. Af0 h1g1 124. Ke0 Cxd2 125. Rd4 Rc0+ 126. Ke1
+Cxf0
+{순식간에 절묘하게 양사를
+
+취했는데 그 다음 초에서
+
+어떻게 둘 지 무척 궁금하다.}
+127. He0
+{마로 막지 말고 차가 내려와
+
+차대를 청했으면 어땠을까?
+
+마로 막은 수는 악수이다.}
+127... g1f1+
+{저 얄미우면서도 무시무시한 
+
+병 이 있기 때문이다.}
+128. Kxf1 Rxe0 129. Rd2 Cf8 130. Cb2 Cd8 131. Rf2 Cd1 132. Rd2 Re1#
+{묘수풀이 문제 풀 듯 묘수로 끝내버렸다.
+
+-총평-
+
+비길 수 있는 기회가 있었음에도
+
+불구하고 패하게 되어 이점섭 프로에게
+
+아쉬움이 남는 한판이 될 듯 하다.
+
+또한 김동학 프로의 하이애나같은
+
+끈기와 마지막 한 수까지 놓치지 않는
+
+노련미와 철옹성 수비가 상당히
+
+인상적이다.
+
+해설 : 김경중9단}
+
+{Black mates} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-19"]
+[Round "20"]
+[White "귀마 김동학 三단"]
+[Black "귀마 이점섭 六단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "284"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Rb0 Ef6 6. Ef3 Ra5 7. Hf2
+Exh3 8. gxh3 Rg5 9. de3
+{지금 수순처럼 이점섭 프로는 후수때
+
+귀윗상으로 졸을 때리는 수를
+
+자주 애용하고 김동학 프로는 선수때
+
+좌측 차가 한칸 안쪽으로 들어서는
+
+수를 자주 애용하는 편이다.}
+9... gh6 10. Rb4 Rig9 11. Ch4 e5
+{전문가의 시각에서 봤을때
+
+이점섭 프로가 상대의 두는 스타일을
+
+많이 연구한 모습이 확연히 보인다.
+
+중앙병을 올려 나중에 중앙상이
+
+나오려는 행마도 그 중의 하나..}
+12. Ch1 Ee6 13. Ra4 Af8 14. ab3 Kf9 15. Ea3 cd6 16. Cc1 Ade8 17. cd3 Hd9
+18. Rc4 Ce9 19. Cf1 R9g6 20. Afe0 Ci9 21. Rf0 Hc7 22. Ra4 h5 23. Cc1 Hd9
+24. Rf1 d5 25. Af0 Hb8 26. Ke0 Hd7 27. bc3 dc5 28. c4 cb5 29. Ra8 Ce7 30.
+Rh1 Ch7 31. Rf1 Eb8 32. cd4 Ce7 33. Ra4
+{병을 쓸어 버리면 좌측 초차가
+
+갇히므로 미리 피한 듯 보인다.}
+33... ba6 34. Ec0 Ca9 35. Rc4 bc5 36. Rb4 ab6 37. Ra4 ba6 38. Rb4 Ci9 39.
+Rb1
+{영감님 장기처럼 농포 공격와 
+
+병 활용으로 상대의 정신을 빼놓는
+
+이점섭 프로.}
+39... Cb9 40. Ra1 Ca7
+{뭔가 느낌이 이상하다.
+
+마로 막아 달라는 한의 주문인데..
+
+과연 초에서 어떻게 응수할 것인가?}
+41. Cg1
+{예상밖으로 묘하게 응수했다.
+
+수비의 대가다운 발상이다.}
+41... Rb6 42. Rab1 Rc6 43. Rbc1 Rb6 44. Cd1 Ce7 45. Ci1 Cc7
+{결국 현란한 농포전으로
+
+차와 마를 묶어 두는 소기의 목적을
+
+달성(?)하였는데..}
+46. Rh1 ih6 47. h4 hxh4 48. Rxh4 Ch9 49. Ri4 Cc9 50. Afe1 h5 51. Kf0 ef5
+52. Ce0 Rb2
+{기회를 놓치지 않고 기습 공격을 감행.}
+53. Ra1 Rg6 54. Ci6
+{병 하나라도 취하여 손해를
+
+만회하여 보겠다는 맞대응 행마.}
+54... Cxc2 55. Cxa6 Ch2 56. Ca0 Rg2 57. Add1 Cxf2
+{그 마가 공으로 희생되었다.
+
+양차포의 총 공세가 무척 매섭다.}
+58. Ca2 Cf4+ 59. Rxf4 fxf4 60. Cxg2 Rxg2
+{한에서 이득을 많이 봐 유리한
+
+결과로 부분 전투 종결.}
+61. Ra9 Ad9 62. Ea3 Afe8 63. Ra6 fxf3 64. exf3 hg5 65. Ri6 Add8 66. Rc6 Cg9
+67. d5 cxd5 68. Exd5 gf5 69. Exb8 Hxb8 70. Rc8 Ha6 71. Rc6 Hb4 72. Rc4 Hc2
+73. Add2 Ha3 74. Rc3 Hb5 75. Rc5 Hd6 76. d4 Ha7 77. Rc7 Hb9 78. Rc6 Cd9 79.
+Ce2 Rg0+ 80. Kf1 Rg4 81. d5 Hf7 82. Rb6 Ha7 83. Ra6 Hb9 84. Rb6 Cg9 85. Cb2
+Hc7 86. Rc6 Hd9 87. Cf2 Rg1+ 88. Kf0 Rg0+ 89. Kf1 fg5 90. Rg6 Ce9 91. Rg7
+Cc9 92. Rg9+ Kf8 93. Rg7 Kf9 94. Rg8 Hf8 95. Cf6 Ke9 96. Rg7 Hh9 97. Rh7
+gf5 98. fe3 Rg3 99. e4 Rg4 100. e5 fxe5 101. dxe5 Rg5 102. e6 Re5 103. Cf0
+Hg5 104. Rh5 Hg7 105. Ri5 H7xe6
+{원앙마 기물이 더 남아  한의 승리가
+
+눈앞에 보여 지는데..
+
+어떻게 마무리를 지울 것인지
+
+그 행마를 눈여겨 보도록 하자..}
+106. Cf2 Rf5 107. Kf0 Cf9 108. Ke0 Rf3 109. Af1 He4 110. Ade1 H6g5 111. Rh5
+Rg3 112. Rh4 Cd9 113. Rf4 Rg0+ 114. Cf0 Add7 115. Rf5 Cf7 116. Re5 Cc7 117.
+Kd0 Ce7 118. Rb5 Rg3 119. Ad1 Hc3 120. Rb2 Hge4 121. Afe1 Rd3 122. Rc2 Cc7
+123. Rb2 Ce7 124. Add2 Rd6 125. Cc0 Ra6 126. Cf0 Ra1
+{이기는 방법을 모르면 이기기가 쉽지
+
+않다.
+
+강의 시간은 아니지만 서비스 차원에서
+
+잠시 핵심 사항을 언급해 보면
+
+면포를 놓아야 한다.
+
+마 하나가 4선에 있고 차가 
+
+   마 바로 뒤의 2선에 배치되어
+
+   있어야 한다.}
+127. Rc2 Rb1 128. Add1 Cc7 129. Rg2 Rc1 130. Rb2 Ce7 131. Add2 Hb1
+{정확한 수순에 의해
+
+마지막 압박 수를 결행하는데..}
+132. Ke0 Hg3+ 133. Kd0 He4 134. Ade2 Hc3
+{실전처럼 마를 두지 말고
+
+먼저 차 부르고 그 다음 
+
+마 하면 쉽게 이긴다.}
+135. Rb9+ Ad9 136. Rxb1 Hxb1 137. A2f2 Rc0+ 138. Kd1 Hc3+ 139. Kd2 Rc2+
+140. Kd1 Rxf2+ 141. Kd0 Hb1+ 142. Kd1 Rc2
+{
+ -총평-
+ 
+ 무려 284수나 진행되었다.
+ 
+ 아마도 이번 대회에서 최고 기록이
+ 
+ 될 듯 한데  패하는 것이 확실한 
+ 
+ 대국이면 아쉽더라도 기물 거둘 곳을 
+ 
+ 찾아 명예롭게 깨끗히 포기할 줄 아는 
+ 
+ 자세도 필요하다고 생각되며
+ 
+ 이점섭 프로의 전반적인 공격 운영이
+ 
+ 일품인 대국으로 평가된다.
+ 
+ 해설 : 김경중 九단
+ 
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-22"]
+[Round "22"]
+[White "귀마 김동학 三단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 ef6 6. Exc6 bxc6 7.
+Rb0 Kf8 8. Ef3 Ee6 9. Rb5 Afe8 10. Rh5 gh6 11. Rb5
+{초상으로 병을 때리면 한에서 
+
+귀마 앞의 병을 쓸어 그 초상을
+
+거는 수가 있기 때문에
+
+초차가 피했다.}
+11... fg6 12. Ri4 Cd7 13. a4 Ce9 14. Exh6 ixh6
+{초상으로 병을 취하고 희생한
+
+수가 의문이다.
+
+아마도 당황하여 실수한 것 같다.}
+15. Rxi9 Cxi9 16. a5 Ce9 17. Hi1 Kf9 18. Hg2 Af8 19. Cf2 Ae8 20. Ri5 Ef6
+21. Kf1 cd6 22. Afe1 Exc3 23. dxc3 Hd5 24. g4 Hxc3 25. Ce0 Hd5 26. ab5 Rc9
+27. Ae2 Rc3 28. Ri3 Hb4 29. Cc0 Rb3 30. Aee1 Hd3 31. h4 Rxb5 32. Ci2 Rb1
+33. Cf0 Rc1 34. Hce3 He5 35. Cid2 Cd3 36. Hf5 Cd9 37. Ae0 Hc4 38. Ch2 de6
+39. Hfe3 Hxe3+ 40. Rxe3 e5 41. Ce2 e4 42. Cxe4 Hd6 43. gf4
+{
+결과적으로 봤을때 
+
+수를 낼려고 병을 희생시킨 수가
+
+별로다.  천천히 완만하게
+
+하나씩 전진하며 두는 것이
+
+더 좋아 보인다.
+}
+43... Cf7 44. Cf2 Ec4 45. hg4 Ra1 46. Kf0 Hxe4 47. fxe4 Cxe4 48. Rxe4 Exf2+
+49. Rf4 Ed5+ 50. Rd4 Ra2 51. Ad2 Eb8 52. Ke1 Ra3 53. Hf4 Rf3 54. Hd5 gf6
+55. gf4 hg6
+{전체적인 형세와 기물의 숫자를
+
+보면 마와 상의 교환이 이루어지고
+
+초차가 포만 잡는다면 이기지 못하는
+
+낱장기가 남게 된다.
+
+따라서 병을 두지 말고 상으로
+
+마를 잡고 차로 졸을 취하고 두는 
+
+편이 더 좋았다.}
+56. Hc7 Re3+ 57. Ae2 Rc3 58. Rb4 Rxc7 59. Rxb8 Cxf4 60. Rb9+ Ae9 61. Rb4
+Cf7 62. Ri4 Ke8 63. Ad0 fe6 64. Ad1 Cd9 65. Rb4 Rd7 66. Add2 Kf9 67. Rb9
+Cd6 68. Rb6 gf6 69. Rxd6 exd6
+{
+ -총평-
+ 
+ 한에서 초반부터 매우 유리하여
+ 
+ 완승까지 내다 보았으나
+ 
+ 초의 뛰어난 수비와 대응으로
+ 
+ 빅국을 유도.
+ 
+ 한에서 무척 아쉬웠던 대국으로 
+ 
+ 기억됨.
+ 
+ 
+ 해설 : 김경중9단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-23"]
+[Round "23"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "165"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Ed6 6. Ed3 Cbe7 7. Ce2
+Ra8 8. c4 Rh8 9. Hd2 Ch9 10. Cb4 Ei6 11. Ch4 Rf8 12. Ch1 Ke9 13. Af1 ab6
+14. Rxa8 Rxa8
+{초의 선수 활용 실패로
+
+한에서 편하게 중반전을 맞이하고
+
+역습을 노릴 것으로 예상.
+
+}
+15. Ke0 Ade8 16. Cd1 Aff8 17. Afe1 Cc9 18. Exb6 Hxb6 19. bc3 Ra5 20. Kf0 c5
+21. cxc5 Rxc5 22. ed3 Ci9 23. Rh0 Rg5 24. Ee3 Exg3 25. Ec6+ Kf9 26. Cf1+
+ef6 27. hxg3 Rxg3 28. Af2 Cd9 29. Rh4 Rg4 30. Rxg4 Exg4 31. Hb1 Hc8 32.
+Ade1 Cg9 33. Hf4 fe6 34. Ha3 gf6 35. Hd5 Ed6 36. Hxf6 exf6 37. Cxf6+
+{초에서 이기기가 어렵다고 
+
+판단되어 마로 양병을 취하는
+
+적극적인 대응으로 빅국으로
+
+가자는 의도.}
+37... Af7 38. Hc4 Hh5 39. Cf1 Hg3 40. Cg2 Cc9 41. Ha5 Ke8 42. d4 Hh5 43.
+Ce2 Hi3 44. Cc1 Kd9 45. cd3 Ha7 46. d5 Eg4 47. de3 Cf9 48. Cf1 Hb5 49. Cd1+
+Ke8 50. ed3 Hh5 51. dc5 Hc7 52. de3 Ke9 53. cd5 A8e8 54. Cf1 hg6
+{만약 이 부분에서 초의 중포로
+
+좌측 한마를 위협하면
+
+한에서 먼저 포장군을 불러
+
+마를 잡는 수가 나오기 때문에
+
+그 수를 두지 않고 마가 피했다.}
+55. Hb3 Cc9 56. Ha5 Cf9 57. de5 Kd9 58. Hc4 gf6 59. Ha3 Hb9 60. Cd1 Ha7 61.
+ed5+ Ad8 62. dc5+ Ke9 63. Cf1 Ae8 64. Ca1 Hc8 65. Cf1 Hd6 66. cd5 Hf5 67.
+de5 Hfg3 68. Cf3 Ei7 69. Hc2 Cd9 70. Hb4 f5
+{병과 교환할 것인가?
+
+아니면 졸을 올려 한포를 공격할 
+
+것인가? 
+
+과연 초의 선택은?}
+71. e6
+{기풍상 졸을 올리는 수를
+
+택하여 승부수를 띄우는데..}
+71... Ce5 72. e4 f4
+{병을 올리는 수가 절묘하다.
+
+아마도 이 수까지 모두 읽고
+
+정확히 둔 듯 하다.}
+73. exe5 fxf3 74. Aff1 Kf9 75. e7 Axe7 76. Cxe7 Ae8 77. Ce4 Cf7 78. Cxe8
+{초포가 마땅히 갈 곳도 없는데다가
+
+불리한 상황이라서 과감성을 
+
+발휘하였다.
+
+과연 졸이 개선 장군을 부를 수 있을지..
+
+
+
+
+
+}
+78... Kxe8 79. e6 Cxf1
+{졸을 의식해서 포를 희생시킨 듯.
+
+사를 취하고 죽기에는 좀 아쉬운 포인데
+
+그 다음 한의 대응수들이 궁금해진다. 
+
+}
+80. Axf1 Hg7 81. ef6 Eg4 82. Hd3 Hh1+
+{초마가 한번만 앞으로 뛰면 
+
+졸이 궁성에 입성하기 때문에
+
+마으로 빅장을 유도.}
+83. Ke0
+{
+ -총평-
+ 
+ 한에서 전반적으로 유리하게 국면을
+ 
+ 이끌었다. 중반 이후 초마로 양병을
+ 
+ 취한 적극적인 수가 의외로 좋아
+ 
+ 빅국을 만든 주요 원인으로 평가됨.
+ 
+ 
+ 
+ 해설 : 김경중9단
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-24"]
+[Round "26"]
+[White "귀마 송종일 九단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "179"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ke9 8. Ri1 Ria8 9. Ria1 Ade8 10. Afe1 Ca7
+{양차 합세 공격에 양차 합세 방어로
+
+맞섰는데 지금처럼 포를 넘겨 차를
+
+거는 상용 수법이 자주 선보여진다.
+
+초반부터 초에서 불리해질 듯..}
+11. Cxe6+ dxe6 12. Exc6+ Cc7 13. He3 Cxa1 14. Rxa1 Hg7 15. Ce2 ab6 16. Ea3
+Ce7 17. Ca2 Ca7 18. Ed3 Rc8 19. Rc1 Ed6 20. b4 Rac9 21. c4 Ce7 22. Exb6
+Hxb6 23. Ci2 Ci7
+{쌍방 농포전의 진수를 선보인다.
+
+농포전은 농포전으로 대응하라는
+
+격언이 생각난다.}
+24. Cc2 Cc7 25. c5
+{밀어 부치는 힘이 느껴지는데
+
+한에서는 어떻게 응수를 할까?}
+25... Ra8 26. c6 Rxa3 27. cxc7 Rxc7 28. Hec4 Rca7 29. Hxb6
+{이 부분 전투에서는 초에서 상당히
+
+이득을 보았다. 
+
+초반에 초차가 희생되었지만 
+
+여기서 일부 만회하여 패할 것 같지는
+
+않아 보인다.}
+29... Rc3 30. Hd5 Rc5 31. He3 Rc3 32. bc4 e5 33. cd4 Ra4 34. dc4 gf6 35.
+Rb1 Ra7 36. Ce2 fe6 37. cd4 Rd3 38. de4 ef5 39. Rb5 h5 40. g4 Aff8 41. ih3
+Kf9 42. hg3 Rc7 43. Ra5 Ad9 44. ef4 fe5 45. fe4 exe4 46. Cxe4 Afe8 47. Ce2
+ef6 48. Ca2 Ke9 49. Ca9+ Ad8 50. Ca1 fe6 51. Cg1 Rdc3 52. He4 Rc0 53. g5
+hxg5 54. Rxg5 Hf9 55. Hf1 Ri7 56. Hd2 Rb0 57. Rg4 Ri1 58. gh3 e5 59. Cg9+
+He7 60. Rh4 Ri9 61. Cc9 Ri0+ 62. Af0 Ri6 63. Rc4 Ra0 64. Cc2 Ea4
+{그 다음 초에서 어떻게 응수할 지
+
+궁금하다.}
+65. Rc9+ Add9 66. Ra9
+{이렇게 묶어 두는 수를 선택.}
+66... Rc6 67. Cc9+ Ad8 68. Hb3 Af8 69. hg3 Ke8 70. Cc1 Rc3 71. Hd2 Rd3 72.
+Ra5 ed5
+{
+상으로 귀마를 잡으며 차대를 할 수도
+
+있으나 병마저 다 살리고 두려는 의도.}
+73. Ra6 Exd2 74. Re6 Af7 75. Hxd2 Rxd2 76. Ae1 Ri2 77. Cf1 d4 78. Cf4 Ri4
+79. Rd6 de4 80. Cf0 Ra7 81. Add1 Rc7 82. Cd0 Rc8 83. Cf0 Rc6 84. Rd2 Ri0
+85. Re2 Re6 86. g4 Rii6 87. Cd0 Hc6 88. gf4 exf4 89. Rxe6+ Rxe6 90. fxf4
+{
+ 
+ -총평-
+ 
+ 초반 농포전의 중요성이 부각되는
+ 
+ 대국으로 여러번 큰 실수가 있었음에도
+ 
+ 불구하고 빅국을 만들었다는 점에
+ 
+ 의미를 부여하고 싶다.
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-25"]
+[Round "28"]
+[White "귀마 조용희 七단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 Ra8 9. Ed3 Ra5 10. Rxa5 axa5 11. c4 a4 12. Ra1 d5 13. g4 c5 14.
+Hf4
+{이 초반 포진 변화수는 
+
+얼마전에 있었던 조용희 프로 대
+
+김기영 프로의 실전에서 
+
+나왔던 유형인데 한수도 안 틀리고
+
+똑같이 두었다.
+
+기풍과 성격상 고집과 기세 및 
+
+각자의 형세판단이 가미한 난전의
+
+축소판이라 할 수 있다.}
+14... cxc4 15. Ea5 Rxa5 16. Hxc4 Rc5 17. Rxa4 Ed6 18. Ra8+ Ke9 19. Hd2 d4
+20. Ra6 Exf3 21. Rd6 Afe8 22. Ec6+
+{초차로 병을 잡을 수도 있는데
+
+그 수를 두지 않고 상을 살리기 위하여
+
+부터 불렀다.}
+22... Add8 23. Ea9 de4
+{서로 물러서지 않고 각자의 길을
+
+가겠다는 의도.
+
+그 다음수로 우측 초마가 한의 중앙상을
+
+잡을 수가 없다. 그 이유는 한상한테
+
+초차가 걸리기 때문.}
+24. Exd7 exf4 25. gxf4 Adxd7 26. Af1 gf6 27. ih3 Rh5 28. Ade1 Rxh3 29. Kd0
+Ei5 30. Ra6 Rd3 31. Ra9+ Ad9 32. Ce0 Rd4 33. Ra5 h5 34. Cf2 Rxf4 35. Cf0
+Rd4 36. Cxf6 Eg2 37. Aff2 Ce5 38. Ce2 Cbe7 39. Cf1 Ci5 40. Ra2 Rg4 41. Cd1
+Cd5 42. Ra5 Cd8 43. Cxd7 Rd4
+{과연 그 초포가 살아갈 수가 있을까?
+
+설사 살아간다고 하더라도 다른 
+
+손해수가 파생할 것 같은데..}
+44. Ra7 Ae8 45. Cxg2 Axd7 46. Ra9+ Ke8 47. Rg9 Hf5 48. Rg6 Rd6 49. Ad1 Hd4
+50. Af1 Ra6 51. Ade1 Hxb3 52. Rg4 Hxd2 53. Axd2 Ra0+ 54. Kd1 Ra1+ 55. Kd0
+Rxf1
+{
+ 
+ -총평-
+ 
+ 조용희 프로가 선수로 두면 무조건 
+ 
+ 양차합세 공격을 시도한다.
+ 
+ 너무 일관되고 노출된 전법도
+ 
+ 치명적인 단점이 될 수 있다.
+ 
+ 이번 제2국도 승패를 떠나 박진감 
+ 
+ 넘치는 한판이었다.
+ 
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-26"]
+[Round "29"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "236"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{이번 대국은 두 대국자 입장에서
+
+무척 중요하다. 결선에 진출할 지의
+
+여부를 가늠해 볼 수 있는 분수령이
+
+되기 때문.}
+1. ab3 ih6 2. Hg2 Hd7 3. Ed3 Ce7 4. Ce2 Ri8 5. Ke0 Ke9 6. Ri1 ed6
+{성우제 프로가 기풍과는 다르게
+
+김동학 프로가 즐겨두는 후수 변형 포진
+
+을 들고 나와 이색적이다.
+
+아마도 비장한 각오와 변칙성 행마로
+
+승부에 임한 듯 보인다.}
+7. Ria1 Ria8 8. ih3 Ee6 9. Rf1 Ade8 10. Ra4 ab6 11. Rd4 Hf8 12. Afe1 Kd9
+13. c4 Ce9 14. Hd2 Cc7 15. Ri4 Cf7 16. Rfi1 Ad8 17. gf3 Afe8 18. hg3 Cf9
+{쌍방 양차가 반대편에 배치된
+
+아주 특이한 형태가 나왔는데
+
+지금까지의 초반 진행을 봐서는
+
+한의 형태가 만족스럽고 안정된
+
+포진을 형성하게 되어
+
+초에서 선수로 둔 이점을 살리기
+
+못해 선수 활용의 실패.
+
+
+참고로 프로 장기에서는 지금부터가
+
+시작이다. 누가 중반전 운영을 더 잘
+
+하느냐가 승패의 관건이 된다.}
+19. Ri5 Cc9 20. R1i4 Ra4 21. cb4 Ra0 22. bc4 Ce9 23. g4 Cc9 24. g5 gxg5 25.
+Rxg5 hg6 26. Rh5 R9a8 27. Ei3 Rc8 28. Kf0 c5 29. Ce0 Ra6 30. cxc5 Cxc5 31.
+Rc4 dc6 32. Cf2 Ed6 33. Ri4 Rca8 34. Add1 Ra4 35. b4 Ra3 36. bc4 Ccc9 37.
+Rd5
+{상머리 누르는 것 자체가 기민한 급소성
+
+행마.}
+37... Ec3 38. Hf4 Ea0 39. Hf1 Cxc4 40. Hxg6
+{자, 본격적으로 접전이 벌어지는데..}
+40... Hxg6 41. Rxc4 He7 42. Rh5 Exf3 43. Rf4 Ei1 44. Ce2 Hg6 45. Rg5 Hgf8
+46. Rg9 Ae9
+{갑자기 한에서 사를 내려 두었다.
+
+그 다음 초에서 어떻게 둘 지
+
+개인적으로 무척 궁금하다.
+
+여러분들도 같이 다음수를 생각해 보자.}
+47. Re4
+{초차가 피하는 평범한 수를
+
+두었는데 그 수 대신에 
+
+초의 면포로 사를 잡는 수가 좋다.
+
+만약 한궁으로 그 초포를 취하면
+
+그때 아래에 있는 초차가 앞 장군을
+
+부르면 수가 난다. 
+
+더 이상 해설을 안해도 그 변화수를
+
+파악할 수가 있을 것이다.}
+47... Ade8 48. Ke0 R3a4 49. Cd0 Rxe4 50. Cxe4 Ec3 51. Ef5 Cxf5
+{상을 왜 죽였을까? 아마도 실수같아
+
+보인다.}
+52. Cd2 Ea0 53. Exb6+ Hxb6 54. Cd0+ Ad8 55. Ce2 Cf9 56. Hh0 Ra4 57. Ri9 Eg4
+58. Ce5 Hd7 59. Ce2 Ed6 60. Hf1 Ec3 61. Cf0 Aee8 62. Hg3 Rg4 63. He4 Ee6
+64. Ri3 Eb3 65. Add2 Rg0 66. ed3 Eh4 67. Cc2 Ee5 68. Hf2 Rh0 69. Rg3 Ef7
+70. Ce2 Hc4 71. dc3 Hd6 72. cd3 Hf5 73. Rg5 He7 74. Hg0 Rh3 75. d4 Eb3 76.
+de4 Re3 77. Hf2 Hc5 78. Rg4 cd6 79. Rg9 Ke9 80. ef4 de6 81. f5 Eh4 82. Rg4
+Ef7 83. Rg9 Hd3 84. Hg4 Rg3
+{초차와 마를 묶어 두는 수가 좋다.
+
+이 수로 인해 초에서 답답해지고
+
+더욱 불리해질 듯 보인다.}
+85. Af1 Hc6 86. f6 Ec5 87. f7
+{졸을 입궁시키지 않고 병을 잡는다면
+
+초사 앞의 한마가 면줄로 후퇴하여
+
+초마를 거는 수와 한상으로 면포를
+
+위협하는 수가 동시에 생긴다.
+
+결과적으로 한에서 한 박자가 빨라서
+
+유리해진다.
+
+}
+87... Hce5 88. f7xe8+ Axe8 89. Cf5 ed6 90. Rg8 Hf4 91. Cxe8 Exe8 92. Rg9
+de6 93. Rg8 Hc4 94. Ade1 Rg0+ 95. Aff0 Exe1 96. Hf6 Rxg8 97. Hxg8+ Kd9 98.
+Axe1 Hd3 99. Af1 Hd2+ 100. Ke1 Hf3+ 101. Ke0 e5 102. He7 exf5 103. Hxf5
+Hde5 104. Ae1 Cd7 105. He3 Hd3 106. Af2 Cf9 107. Af1 Ke9 108. Af0 Hc1+ 109.
+Hd1 Ca9 110. Ae1 Hd3 111. Ad0 Kd9 112. Hc3 Ce9+ 113. Kf0 Eg5 114. Hd5 Ei2+
+115. Ke0 Hfe5+ 116. Ae1 Cxe1 117. Kd0 Ke9 118. Kd1 Ce8
+{
+ -총평-
+ 
+ 증반까지는 결과를 예측하기 어려울 
+ 
+ 정도로 팽팽한 진행이 이루어졌다.
+ 
+ 그러나 종반전 들어서 초상을 공으로
+ 
+ 죽이고 차와 마가 묶이는 수들로 인하여
+ 
+ 비슷했던 힘의 균형이 무너지고 성우제 
+ 
+ 프로에게로 기울어 버렸다.
+ 
+ 
+ 해설 : 김경중 九단
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-26"]
+[Round "30"]
+[White "귀마 성우제 九단"]
+[Black "귀마 이점섭 六단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ch4 g5 7. Ch1 c5
+8. Hf2 b5 9. Ca1 Ea6 10. ab3 Rb9 11. Cf1 Rb6 12. Ra4 f5 13. g4 Ad8 14. gxg5
+fxg5 15. Rh4 Ri7 16. Rf4 Af8 17. Cb1 Ri8
+{초에서 중포를 넘겨 우측 한차를 걸면
+
+죽게 되므로 미리 피했다.}
+18. b4 Hd5 19. Rh4 Kd9 20. bxb5 Rxb5 21. Ci1 ih6 22. Ra4
+{지금 한상이 걸렸는데 그 상을 
+
+신경쓰게 되면 우측 초포가 포 
+
+부르는 수가 있어 한차가 위험해진다.
+
+그 다음 한에서 어떤 수를 둘지..}
+22... Ef6
+{적절한 방어성 행마로 보인다.}
+23. hi3 Rxi3 24. Rxa6 Ei4
+{상이 떠서 귀마를 거는 수가 있어
+
+한에서 괜찮아 보인다.
+
+저런 행마를 배워 두면 좋을 듯 하다.}
+25. d4 Rb2
+{급소를 눌러 마를 위협했는데
+
+급박하게 대국이 진행되었다.
+
+전체적으로 우측 초포와 차가 묶이고
+
+한의 양차가 양쪽에서 공격 자세를
+
+취하고 있어 한에서 다소 유리한
+
+국면이다.}
+26. Hh1 Ch2 27. dxd5 Rxc2 28. dxc5 Rxe3 29. Kd1 Rexe2
+{우측에 한포가 있기 때문에
+
+초상으로 차를 잡으면 
+
+한차가 좌귀에 붙어 외통수가 나온다.
+
+결론적으로 면포가 공으로 죽게 되어
+
+초에서 매우 불리해진 형국이 된다.
+
+이점섭 프로의 기습 공격과 초의
+
+형태가 나쁜 점으로 인하여
+
+한의 승리가 예상된다.}
+30. Ade1 Rc1+ 31. Kd0 Rc0+ 32. Kd1 Rb2 33. Ra1 Rxc3 34. Ad2 He5 35. Afe1
+Ch9 36. Hf0 Ke9 37. Ci5 h5 38. Ci2 Rb4 39. cd5 Hg4 40. Ra0 Cd9 41. Kd0
+Cxd5+ 42. Ae2 Rd3+ 43. Ke0 Hf2#
+{
+-총평-
+
+초의 중포 공격이 좀 매끄러워
+
+보이지 않는다.
+
+이점섭 프로의 날카로운 기습
+
+공격과 초의 면포를 잡는 묘수가
+
+돋보였던 단명국.
+
+
+
+해설: 김경중 九단}
+
+{Black mates} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-29"]
+[Round "32"]
+[White "귀마 송종일 九단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ra5 6. Ca2 Rb5 7. ab3
+Ee6 8. Hc2 Hf7 9. Ee2
+{송종일 프로는 귀마 선수때
+
+면상 포진도 간간히 두신다.
+
+}
+9... Kf8
+{한궁을 틀어 궁수비를 빨리하고
+
+이후에 우측 한차를 차대시킬 의도.}
+10. Aff1 Afe8 11. Cd2 Ce9 12. Cf0 ih6 13. Rxi9 Cxi9 14. Ra4 Ri5 15. Hg4 Ri0
+16. ed3 Kf9 17. Ch4 Cg9 18. Hge3 Exg3 19. hxg3 h5
+{한포를 잡는 수가 결정타.
+
+조금전 그 초포가 앞으로 넘지
+
+말고 좌귀마 자리로 옆으로 넘는 것이
+
+좋았다.}
+20. Hd5 He6 21. Hf4 Hxf4 22. Rxf4 hxh4 23. Rxh4 gh6 24. Ra4 Add8 25. Ee3
+cd6 26. g4 Cd9 27. g5 Rg0 28. gh5 hg6 29. Rc4 Ke9 30. b4 f5 31. Ha3 Ef6 32.
+Rc9 fe5 33. Exg6+ Rxg6 34. Cb0 bc6 35. Hc2 Rg3 36. de3 Eh3 37. Ra9 Ce7 38.
+cd3 Hh8 39. bc4 Hg6 40. Ra5 Rg2 41. Aff2 Cf9 42. Hd4 Hf4 43. Hf3
+{초마를 두는 대신에
+
+초차가 병을 잡는 수도 시도해
+
+볼 수 있다.}
+43... de6 44. Ra3 Hxh5 45. Hh4 Rg4 46. Aff1 Hf4 47. Hi6 Rg1 48. Aff2 Rg2
+49. d4 Cxf2 50. ef3 Ci2
+{기물이 많다고 판단되어 포를 넘겨
+
+과감하게 면상을 위협하며 공격을 시도.}
+51. fxf4 Cxe2+ 52. Af1 Ef6 53. Cf0 ed6 54. Hh4 Ce6+ 55. Ae1 Rg1 56. Hf3 Rg3
+57. Kd0 Eh3 58. Cc0 Cxe1 59. f5 exf5 60. Rb3 de6 61. Hd2 Rg2 62. Kd1 Cc1
+63. de4 Rg1+ 64. Kd0 Re1#
+{
+-총평-
+
+우진에서 한포가 죽은 것이
+
+한에서 불리해진 결정적인 원인.
+
+중반 이후 면상 장기에 대한
+
+측면 공격을 시도한 것이 주효했다.
+
+
+해설 : 김경중 九단
+
+}
+
+{Black mates} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-30"]
+[Round "33"]
+[White "귀마 조용희 七단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "188"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 Ra8 9. Afe1
+{이번 대국에서는 조용희 프로가
+
+우진 차가 좌진으로 빠지고 않고
+
+사를 넣고 궁수비를 하였다.}
+9... cb6 10. Ed3 Rc8 11. Rc0 Ke9 12. c4 Ade8 13. Add1 Kd9 14. Exb6 axb6 15.
+Ra0 Ce9 16. Cc2 dc6 17. cb4 Rb8 18. Ce2 Cbe7 19. Ci2 Rg5 20. ih3 Ri5 21.
+bc4 cd6 22. hi3 Rd5 23. Ci0 Rb7 24. ih3 Ra7 25. Rxa7 Cxa7 26. g4 Ra5 27.
+Ce2 Cc9 28. Cd0 Ad8 29. Hf4 gf6 30. Cg0 Hh9 31. Ri9
+{한을 도와 준 이적수.}
+31... Hhf8 32. Cd0 hg6 33. hg3 bc6 34. cb4 cb6 35. Hc4 Ra0 36. Hd2 f5 37.
+Hd3 gf6 38. gf4 fxf4 39. fxf4 Hh7 40. Ri3 Afe8 41. gf3 Ce7 42. Rh3 Hg5 43.
+fg4 Hf7 44. gf4 Cf9 45. Rh9 dc6 46. bc4 Ed6 47. fe4
+{졸을 취할 것인지 그 다음 한의 응수가
+
+궁금하다.}
+47... Cxe4 48. Hb2 Rb0 49. Hxe4 Rxb2 50. b4
+{쌍방 필연적인 수순이 진행되었는데
+
+결과적으로 포 대 마졸의 교환이
+
+이루어져 점수상으로는 같다.}
+50... Rb0 51. f4 Rb3 52. Eh1 Eg9 53. Rh7 Rb0 54. Rh3 Ei6 55. Hf2 fg6 56.
+fe4 Hf6 57. Ri3 gh6 58. e5 Hh5 59. Re3 Hg3 60. Cg2 Cc9 61. ed5 Eb9 62. Rf3
+cd6 63. dc5 Cf9 64. Ra3 bc6 65. b5 Ke9 66. Af1 cxc5 67. cxc5 de6 68. Ade1
+Ed6 69. Hd1 Rb4 70. Ra2 Rh4 71. Ee3 Eb3 72. Cf0 Ee5 73. Cg7 Rh0
+{면줄에 있는 한상이 우측으로 떠서 
+
+초포를 잡기 위하여 한차가 포를
+
+눌렀다.
+
+전반적으로 한에서 형태상 활발하고
+
+유리한 형국이다.}
+74. Cc7 Eh3 75. Ch7 Hg9
+{포가 걸리게 되어 포 대 상 교환이
+
+불가피해 보인다.}
+76. Eg6+ Kd9 77. Cxh3 Rxh3 78. Cd2+ ed6 79. Exd8 Rh0+ 80. Aff0 He4 81. Cd0
+Eg3+ 82. Rg2
+{초의 곁마가 있어 상에
+
+차로 막아 응수하였다.}
+82... Rg0 83. He3
+{저 초마가 없었더라면 조금전 
+
+상 부를때 사를 오른쪽으로
+
+쓸어 막아야만 했다.}
+83... Axd8 84. Af1 Rxg2 85. Hxg2 Cc9 86. A0e1 Hf7 87. Cf0 Hfg5 88. Cd0 Ce9
+89. Kf0 Hi6 90. Hi3 Hh4 91. Aff2 Ke8 92. Ch0 hg6 93. Aff1 Kd9 94. Cd0 Ce3
+{역시나 포로 마를 거는 수에
+ 
+ 포기하고 말았다. 초마가 피하면
+ 
+ 마에 외통이 나오기 때문이다.
+ 
+ 
+ -총평-
+ 
+ 상과 포의 교환을 비롯하여 기물상
+ 
+ 열세로 밀리다가 종반에 마까지 희생
+ 
+ 되어 끝내 포기.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-01"]
+[Round "37"]
+[White "귀마 김동학 三단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "198"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Rb0 Ef6 6. Ef3 Exh3 7. gxh3
+Ra5 8. Hf2 Rg5 9. Ke0 ef6 10. de3 Ee6 11. ab3 gh6 12. Af1 Rig9 13. Ade1 Af8
+14. Ra0 Ce9 15. Ce4+ Kf9 16. Cd2 R9g6
+{한차가 4선으로 올라선 것은
+
+이후에 병을 올리고 그 앞에 서서
+
+초의 귀윗상을 공격하겠다는
+
+의도가 숨어있는 기민한 행마.}
+17. cd3 Ci9 18. Rh0 h5 19. Rf0 f5 20. Ce2 f4 21. Ra4 Rf6 22. Ei1 Ade8
+{고심끝에 초상을 잡지 않았는데
+
+초에서 면포로 막아 한포의 귀환을
+
+방해하는 수가 싫어서 감행하지
+
+않은 듯 보인다.}
+23. Ci2 Ha6 24. Ca2 Cc7 25. Ha1 c5 26. Kd0 Ec9 27. e4 Cd9+ 28. Cd2 Rc6 29.
+exf4 c4
+{초차를 잡겠다는 강력한 공격수.
+
+그 다음 초의 응수가 궁금하다.}
+30. Ra3 Ca9 31. Ca4
+{수비의 대가답게 틀어 막고 지키는
+
+수가 인상적이다.}
+31... Ra5 32. Rg0 hg5 33. Cxa6 bxa6 34. Rxa5 axa5 35. Ea3 a4 36. Hc2 axa3
+37. bxa3 cb4
+{초마를 살릴 수가 없어 보인다.
+
+만약 피하면 차에 초차가
+
+희생된다.}
+38. Cf0 Rxc2 39. Rg3 Cg7 40. Rf3 Cd9+ 41. Ke0 Ce7+ 42. fe4 Rc6 43. h4 ih6
+44. hg4 h5 45. Ri3 Ke9 46. Cd0 Rc0 47. Kf0 bc4 48. gxg5 hxg5 49. Ef3 Ra0
+50. ab3 Rb0 51. bc3 cxc3 52. dxc3 Ee6 53. Ec5 Rc0 54. ed4 Cf9 55. c4 He5
+56. Ri6 Eh8 57. Ri5 gf5 58. Rh5 Ee6 59. Rh6 Eb8 60. Rb6 Hd7 61. Rb3 Cb9 62.
+Rd3
+{초에선 그 자리로 가는 것이
+
+최선의 응수이다.
+
+다른 곳으로 피하면 한포가
+
+맨 아래로 내려와서 초포를 위협하며
+
+외통을 노리는 수가 숨어 있기 때문.}
+62... He5 63. Ra3 Cf9 64. Ra6 Hxc4 65. dxc4 Rxc4 66. Ef3 f4 67. Ei1 Rc3 68.
+Rd6 Re3 69. Rd3 Re5 70. Rb3 Ee6 71. Ri3 Ad7 72. Hd3 Rh5 73. Hf2 Afe8 74. --
+Rg5 75. Ri4 Rf5 76. Eg4 fxg4 77. Rxg4 Re5 78. Rf4 Re3 79. Cg0 Cf3 80. Rxf3
+Rxf3 81. Cd0 Eg3 82. Hh3 Rf5 83. Aff2 Cc7 84. Aff1 Cf7 85. Hg1 Rf6 86. Cf2
+Ed5 87. Ke0 Eb2+ 88. Ad1 Cd9 89. Ae1 Re6 90. He2 Ee4 91. Cd2 Rg6 92. --
+Rg0+ 93. Af0 Eg7 94. Ke1 Ei4 95. Cd0 Rg7 96. Cd2 Re7 97. Af1 Af8 98. Af2
+Cf9 99. Af1 Cxf1
+{여기서 포기하였는데 초포와 외사로
+ 
+ 더 버텨볼만도 하다. 왜냐하면
+ 
+ 쉽게 이길 수 있는 기물이 아니기 때문이
+ 
+ 다. 
+ 
+ -총평-
+ 
+ 이번 대국은 "창과 방패의 대결"이었다.
+ 
+ 긴장감을 고조시키기에 충분하였다.
+ 
+ 수비형 기풍들의 공통점인 선수 활용과
+ 
+ 공격력이 취약하다는 점이 느껴졌다.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-01"]
+[Round "38"]
+[White "귀마 김기영 三단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ke9 6. Cb4 Ri8 7. c4 Ee6
+8. Hd2 Raa8 9. Rh0 Hd7 10. Cg4 Hi6 11. Ke0 Ric8 12. Afe1 ab6 13. Rxa8 Rxa8
+14. i4 Ra5 15. Kf0 Ade8 16. Ed3 Rd5 17. Exg6+ hxg6 18. He3 Rxd3
+{차가 피할 곳도 여의치 않아
+
+상을 잡았는데 좌측 한포가 있어서
+
+차가 죽지는 않는다.
+
+선택의 여지가 없었던 수.}
+19. Cg1 Cxb3 20. Hxb3 Rxb3 21. Hf5 Cc7
+{병으로 막으며 초마를 쫓아내는 수도
+
+있으나 초포 에 좌측 한상이 죽고
+
+한차가 선수로 걸리는 수가 있어
+
+실전처럼 한포로 응수하였다.}
+22. Cxg6 Kd9 23. cd4 Cf7 24. Ke0 Exg3+ 25. fxg3 Hf6 26. Hh6 Hh8 27. Cg0
+Rxg3 28. Hxf7 Hxf7 29. Ci0 Ri3 30. ih4 Rd3 31. Rf0 de6 32. Rf4 Hh8 33. Add1
+Hg6 34. Rf5 Hxh4 35. Ra5 Hi2 36. Cd0 Rb3 37. Ra9 ba6 38. Rxa6 cd6 39. d5
+Rb0 40. dxd6 exd6 41. Ra3 Hh5 42. Af1 Hig3 43. Rf3 Ee7 44. Ke1 Ec4+ 45.
+Cd2+ de6 46. Ce0 Rb6 47. Ra3 Ke9 48. Rc3 Ee7 49. Af2 Hf5 50. Kf0 Hhg3 51.
+Cg2 Aff8 52. Ke1 e5 53. Cd2 He4 54. Rc9+ Ad9 55. Cf0 Hfg3 56. Ce3 Ae8 57.
+Cd2 ef5 58. Cd0 Rb7 59. Ce6 Hd6 60. Rc6 Hde4 61. Cxd9 Kf9 62. Cd0 Eh5 63.
+Af1 Ri7
+{한차가 우변으로 빠진 수가 좋다.}
+64. Kf0 Hxf1 65. Ae1 Hfg3 66. Ke0 Hh1 67. Ce2 Heg3 68. Rh6 Re7 69. Rh9+ Kf8
+70. Cf0+ fg5 71. Af2+ Hxf0 72. Rh8+ Kf9 73. Rh9+ Kf8 74. Kxf0 Hh1+ 75. Ke1
+Hxf2 76. Rh8+ Kf9 77. Rh9+ Kf8
+{쌍방 30점 미만에서는 반복장(만년장)을
+ 
+ 부를 수 있는 규칙에 의해 무승부 처리.
+ 
+ -총평-
+ 
+ 김동학 프로의 이색적인 후수 포진과
+ 
+ 김기영 프로의  중포 공격 대응이
+ 
+ 박진감 있었던 용호상박의 대결 구도.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-09"]
+[Round "03"]
+[White "귀마 이점섭 六단"]
+[Black "귀마 송종일 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "248"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Ri9 6. Ei3 Rh9 7. Ce2
+Ri9
+{정형화된 후수 포진중의 한  유형으로
+
+초차의 진출로를 절대 허용하지
+
+않겠다는 의도.
+
+}
+8. Rg0 Ke9 9. Hd2 Afe8 10. Ad1 Cbe7 11. Ed3 gf6 12. Kd0 Cf7 13. Cc2 Ed6 14.
+c4
+{놓치기 쉬운 좋은 수로
+
+익혀 두면 유용함.}
+14... Hf5 15. Exf6 exf6 16. Cxc6 hg6
+{결과적으로 상 대 양병의 교환.
+
+초의 형태가 다소 유리.}
+17. e4 Ri5 18. Cc0 Add8 19. Afe1 Cd9 20. gf3 Ee6 21. f4
+{이점섭 프로는 졸을 잘 활용하기로
+
+유명한 저돌격 공격형 기풍.
+
+일명 "탱크"라는 별명으로 
+
+인터넷 장기의 간판 스타..}
+21... Hh6 22. He3 Rh5 23. Rh0 Ch9 24. hg3 Ri5 25. Ri0 Af8 26. Ce2 Ade8 27.
+gf3 g5 28. b4 Ra8 29. cd4 ab6 30. Rxa8 Exa8 31. bc4 b5 32. d5 Cd9 33. ed4
+Cf9 34. Ef1 Rxi0+ 35. Cxi0
+{양차의 교환으로 박빙의 팽팽한
+
+국면 예상. 
+
+장기전 돌입 모드로  마와 졸(병)의
+
+활용이 대세의 관건.
+
+사실 이런 대국이 가장 어렵고
+
+서로 피곤하다.
+
+송종일 프로의 별명인 "불도저"와
+
+이점섭 프로 "탱크"의 불꽃튀는
+
+한바탕 접전이 예상된다.}
+35... g4 36. fe4 Cf7 37. e5 Cxf3 38. Hc2 Cf7 39. Cc0 Hxe5 40. dxe5 Cxe5 41.
+Cf0 Hg8 42. d5 Ce7 43. Ha3 b4 44. c5 Cd9 45. Hb5 Ec3 46. Hc7 Exc5 47. dxc5
+Ef5 48. Hxd9
+{양마가 동시에 걸려
+
+어쩔수없이 포와 교환.
+
+}
+48... Kxd9 49. He4 bc4 50. Hd6 c3 51. cd5 cd3 52. de5 Ei7 53. Hb5 Aff7 54.
+Hc7+ Ke9 55. Ed4 Aff8 56. Hd5 Ce4 57. Hb6 Kd9 58. Ea2 f5 59. e6 fe5 60. ed6
+Ef5 61. d7 Hh6 62. d7xe8+ Axe8 63. Hc4 ed5 64. Hb6 de5 65. Ha4 Hi4 66. Hc5
+dc3 67. Ce0 ed5 68. Ha6 Hg3 69. Hb4 d4 70. Hc6 d3 71. Ec5 Hh1 72. Cf6 Ei7
+73. He5 Hi3 74. Hg6 Ef9 75. Ci6 Hg2 76. Hi5 gf4 77. Ea8 Hh4 78. Ci4 Hf5 79.
+Ci9+ Eh6 80. Hg6 fg4 81. Hh8 Ke9 82. Cc9 Ef9 83. Hg6 Hd4 84. He5 gf4 85.
+Hg6 He6 86. He5 Hc7 87. Ec5 Ed6
+{초상을 쫓아낸 후 한상이 진출하여
+
+외통을 노리는 수가 절묘함.
+
+과연 그 다음 초의 응수는?}
+88. Af1 de3
+{병을 두지 말고 상장군을
+
+부르는 수가 좋음.
+
+그 이유는 초궁이 궁성 중앙 자리로
+
+들어오면 왼쪽 병을 올려 또 다시
+
+상 부르는 수에 의해 초마가
+
+희생되기 때문.}
+89. Ade1 Eb3+ 90. Kd1 ed3 91. Exe8 Kxe8 92. Cc6 He6 93. Hc4 Hd4 94. Ha5 Hb5
+95. Cc0 Ha3 96. Aef2 de3 97. A1e1 ef3 98. Cc5 Kf8 99. Aff1 Cg4 100. Ad2 Hb1
+101. Ke1 Cd4 102. Ae2 fe3 103. Aef2 ed3 104. Kf0 fe4 105. Ce6 Cf4 106. Ke0
+Hd2+ 107. Ke1 Hf3 108. Ke0 e3 109. Hc4 Cxf2 110. Axf2 Hg5 111. Ce1 ef3 112.
+Af1 He4 113. He5 Hxc5 114. Hxf3 c2 115. Cg1 de3 116. Hh4 e2 117. Hg6+ Ke8
+118. Hf4 cd2 119. Kf0 He4 120. -- ef2 121. Axf2 Hxf2 122. Kf1 Hg4 123. Hg2
+Hh2 124. -- Ee5
+{끝내 마가 희생되어 초의 포기.
+ 
+ 
+ -총평-
+ 
+ 중반 양차대 이후 송종일 프로의
+ 
+ 노련미와 병 활용력이 돋보인 한판.
+ 
+ 
+ 해설 : 김경중 九단
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-09"]
+[Round "04"]
+[White "귀마 송종일 九단"]
+[Black "귀마 이점섭 六단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Hf2 Ef6 6. Ef3 Exh3 7. gxh3
+Ra5 8. de3 Af8 9. cd3 Kf9 10. a4 Rc5 11. Ce0 ef6+ 12. Kf1 Ce2 13. Afe1 Cg2
+14. Hd4 He6 15. Hb3 Rb5 16. Hd2 Afe8 17. e4 Rg5 18. Ch4 gh6 19. Cc4 Ea6 20.
+e5 Hed8 21. Add1 Rig9 22. a5 Ca7 23. Cc9+ Ae9 24. Ra4 Ci7 25. Rg0 Exc9
+{위험한 자리에 놓인 초포가
+
+희생되어 형세가 불리해짐.
+
+그 초포가 필요없는 수를
+
+불러 화를 자초.}
+26. h4 Cxd2 27. hg4 Rh5 28. Adxd2 Aee8 29. Rf4 fg6 30. Add1 Af8 31. ef5 He6
+32. Cxe6
+{졸을 살리고자 차가 피하지 않고
+
+포를 마와 바꿈.}
+32... Exe6 33. gh4 Exh4+
+{초의 실수.
+
+그 졸이 후수로 죽으므로 인해
+
+우진이 엷어지고 불리해짐.
+
+}
+34. Kf0 Ci4 35. fg5 gxg5 36. Rf6 hg6 37. Ed6+ cxd6 38. Rf3
+{차를 살려 보지만 다른 기물의
+
+희생이 많아 기물상 열세로
+
+매우 불리해짐. 
+
+조금전 우진에 있는 졸을 그냥
+
+죽인 것이 원인 제공.}
+38... Ci9 39. Ee3 Ri5 40. Rh3 Ri4 41. Rgh0 Rh9 42. Exg6 Cg9 43. Ed4 d5 44.
+Ea2 i5 45. d4 de5 46. Ec5 Hd8 47. de4 ef5 48. Hd3 ih5 49. ef4 bc6 50. fxf5
+gxf5 51. Ef3 fg5 52. Hf4 Ade8 53. Hd3 Cd9 54. Hf2 Ke9 55. Ec1 Rhi9 56. Ke0
+Ee6
+{다른 기물은 안 무서우나
+
+저 한상은 엄청 무서움^^
+
+코끼리의 위용이 빛을 볼 때가
+
+임박 ~}
+57. Re3 Rc4 58. Ee4 Rc5 59. a6 Ri2 60. Rf0 Rg2 61. Add0 Rc0 62. Hd1 Eg3 63.
+Rf1 Rg0+ 64. Af0 Exd1 65. Rxf8 Eg3+
+{상 K.O 펀치에 백기를 들다.
+ 
+ 
+ -총평-
+ 
+ 중반에 초포를 대가없이 죽이고
+ 
+ 초차를 살리느라 다른 기물의
+ 
+ 희생이 커 숫적 열세로 항복.
+ 
+ 결국 1 대 1 무승부로 불도저와
+ 
+ 탱크의 접전을 마감.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-06"]
+[Round "준결승전 제2국"]
+[White "귀마 김기영 三단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "68"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9 12. Rb4 Kd8 13. Rba4
+Rh1+ 14. Af1 Cxe3 15. fxe3 Eh4 16. g4 Exf1 17. i4 Ei3+ 18. Kd2 Rc1 19. Rxa6
+Rxa6 20. Rxa6 Ade8 21. Ha1 Hh7 22. gh4 Hhf6 23. Exf6 Eg0+ 24. Ae1 Ch1 25.
+Af0 Hxf6 26. Cxb9 Rf1 27. Ra2 Rxf0+ 28. Kd1 Rf1+ 29. Kd0 Cxa1 30. Cb0 Exe3
+31. Ke0 Ci1 32. Cf0 Eh1 33. Cd0+ Ad7 34. Rd2 He4
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-08"]
+[Round "결승전 제2국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "170"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9 12. Rb4 Kd8 13. ih3 Rh5
+14. Rba4 Exc3 15. bxc3 Ra5 16. Rxa5 axa5 17. c4 a4 18. Hd2 Ade8 19. Hb3 Kd9
+20. Ha5 cb6 21. Exb6+ Hxb6 22. cb4 Hd7 23. Rxa4 He6 24. b5 Ce7 25. Rh4 Che9
+26. Hc2 Ad8 27. Cd2 Ra6 28. Ke0 d5 29. Afe1 dc5 30. Rb4 Ce5 31. Ca2 cxb5
+32. Cxa6 bxb4 33. Cxg6 ba4 34. Hd4 Hec5 35. Hac6 Ed6 36. Cg1 ab4 37. Cd1
+bc4 38. Hf5 Cc9 39. Ad2 cd4 40. Cxd4 Hb3 41. Cd1 Hxd2 42. He7+ Afe8 43. Hd5
+Hc4 44. Ae1 Cee9 45. Hd4 Ce5 46. Hb4 Cf9 47. Ha6 Hdb6 48. Hb8+ Ke9 49. f4
+Ae7 50. Hbc6 Add7 51. f5 Ce8 52. f6 Eg8 53. fe6 Hc8 54. exe7 Axe7 55. Hf5
+H4d6 56. Hh6 Ee5 57. Ce6 Cc9 58. Hd4 Eh7 59. Hhf5 Hb7 60. Ae2 Hc5 61. Ce1
+Af7 62. gf3 Hd3 63. Ce3 Hb2 64. Cd7 Ee5 65. Cd2 Hc4 66. Cf2 Eb7 67. Cf4
+Exd4 68. Cxc4 Eb1 69. Ce1 Cf9 70. Hh6 Hd6 71. h4 Cxf3 72. Ci4 Cf9 73. hg4
+Af8 74. Cf4 Ed4 75. Ch4 Ea6 76. Ce5 Hf7 77. Hxf7 Axf7 78. Ke1 Ec9 79. Cf4
+Ee6 80. Af2 Kd9 81. Cf1 Cf3 82. g5 Af8 83. gf5 Ci8 84. f6 Eb4 85. Ce0 Ae8
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-11"]
+[Round "07"]
+[White "귀마 조용희 七단"]
+[Black "귀마 송종일 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7
+{송종일 프로는 귀마 후수때
+
+지금처럼 변형 포진을 자주 애용.}
+5. Ee3 c5 6. Hd2
+{중앙상으로 우진병 때리는 수와
+
+좌측 진영으로 이동하여 한차 거는 
+
+수가 많이 나옴.
+
+그러나 평범하게 귀마로 대응.}
+6... Ed6 7. Ci2 Rh9 8. Cbe2 Rh8 9. Cf2 Ch9 10. ih3 Ra8 11. Ad1 Ei6 12. Ri4
+ab6 13. Rxa8+ Exa8 14. Ed3 Ed6 15. Rf4 gf6
+{한사를 한칸 올려 방어할 수도 있음.}
+16. Exf6 hg6 17. Rf5 gxf6 18. Rxc5 Exf3 19. Rc8+ Ad8 20. Cd0 Ed6 21. Ke0
+Cd9 22. Afe1 Ke9 23. b4 Afe8 24. b5 bxb5 25. Exb5 Hf5 26. Rc9 Exg3
+{이 수로 인해 한에서 매우 유리해짐.
+
+한마가 좌측으로 공격하여 초상과
+
+면포 거는 양걸이 수보다 좋은 수.
+
+}
+27. hxg3 Hxg3 28. Cb2 Ce5+
+{포 대신 한차가 올라서서
+
+상을 직접적으로 위협하며
+
+응수 타진하는 수도 좋음.}
+29. He3 Hf5 30. Hc4 Ce7 31. Hxf5 fxf5 32. Ad2 f4 33. Ce2 Rh5 34. Ee3 f3 35.
+Cxe6
+{상이 불필요한 수라 판단되어
+
+병을 취하는 수를 택했는데..
+
+
+
+}
+35... fxe3 36. Hxd6 Rh6 37. Cc6 ed3+ 38. Kf0
+{초궁이 피하는 수 대신
+
+84자리의 초사를 85자리로 이동하여
+
+멍군하면?
+
+병을 궁성에 진입시켜 외통을 
+
+노리는 절묘한 수가 숨어 있다.
+
+즉, 초포로 한차를 잡을 수가
+
+없을뿐더러 끝내 초마가 잡히게 됨.}
+38... Rxd6 39. cxd3 Rf6+ 40. Af1 Hb8 41. d4 Hxc6 42. d5 Ha7 43. dc5 Kf9 44.
+Ae1 Ce9 45. Rc7 Hb9 46. Rc6 Rf5 47. Rc9 Cf7 48. Rxb9 Rh5+
+{매우 좋은 포 수.
+
+초의 응수가 어려움.
+
+}
+49. Af2 Re5
+{절묘하게 급소 자리를 짚어
+
+차포의 교환이 불가피.
+
+노련미가 돋보이는 한 수..}
+50. Rxe9+ Axe9 51. c6 Re2 52. cd6 Rxf2
+{숫적으로는 비기는 기물이나
+ 
+ 거의 부동의 나쁜 형태가 되어 
+ 
+ 결국 포기.
+ 
+ 
+ -총평-
+ 
+ 중반 이후 초의 면포를 이탈시키고
+ 
+ 초마를 잡는 빈틈없는 공격수가
+ 
+ 승리의 주요 요인으로 작용.
+ 
+ 
+ 해설 : 김경중 九단
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-11"]
+[Round "08"]
+[White "귀마 송종일 九단"]
+[Black "귀마 조용희 七단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Ca7 5. Ce2 Hf7 6. Ef3 Che7 7. Hc2
+Ea6 8. ab3 Rc9
+{서로 약속이나 한듯
+
+변형 포진으로 맞대응.
+
+
+정형 포진에서
+
+탈피하려는 의도가 엿보임..}
+9. ed3 Ef6 10. Ee3 g5 11. Af1 Af8 12. Ce0 Ad8 13. Cc0
+{첫판 선승의 여유로움으로
+
+안정된 수비 형태를 갖추고
+
+한의 좌진을 공격하려는 전략.
+
+}
+13... ih6 14. Rh0
+{송종일 프로는 기풍상 차대를 피하지
+
+않는 편인데 좌측 초차가 고립되어
+
+있어 작전상 차대를 피한 듯..}
+14... Ke9 15. Kf0 Afe8 16. Ade1 Cd7 17. Ce2 Cf9 18. Exc6 bxc6 19. He3 Rb9
+20. Hd5 cd6 21. Hxf6 Ca7 22. Rb0 Hd5 23. Exd6 Ad7 24. H6e4
+{한의 형태를 흩뜨려 놓기 위한
+
+현란한 행마가 인상적.
+
+송종일 프로는 "마"를 잘 활용하기로
+
+유명하며 "힘의 장기"를 대표하는
+
+정상급 기사.
+
+}
+24... e5 25. Hxg5 Hxg5 26. Eg4 Rb6
+{초상을 살리기 위하여 
+
+마를 희생하였는데 이어지는
+
+공격수가 없어 약간 불만.
+
+49수에서 마가 좌측으로 이동하여
+
+한마를 위협하는 수가 좋아 보임.}
+27. d4 He7 28. gf3 Exc3 29. Cg0 Ea6 30. f4
+{포로 한마를 잡으면 우측 한차가 두칸
+
+안으로 들어서서 역습하는 수가 있어
+
+감행하지 않음.
+
+}
+30... h5 31. b4 Rf6 32. bc4 Add8 33. Rb5 Rxf4 34. Rxe5 Ri7 35. hg3 Cf7 36.
+Cxe7+ Axe7 37. Rxe7+ Ae8 38. Re2 Cxf2+ 39. Aexf2 Ec3
+{코끼리 뛰는 소리에 
+
+마지막 대접전의 전운이 느껴지는데..}
+40. Cd0 Re7 41. Ke1 Rxe2+ 42. Axe2 Hf7 43. Aff2 hg5 44. Rg0 Rf6 45. Ed2 Rb6
+46. Cd3 Rb1+ 47. Cd1 Cd9 48. gf3 Ef5 49. f4 Ec7 50. Rd0 Rc1 51. Ke0 Cf9 52.
+fe4 Rc3 53. Ke1 g4 54. Ra0 Ef5 55. ef4 Ei7 56. fxg4 Exg4 57. Rg0 Hh6 58.
+Rg2 Rh3 59. de4 Rh0 60. Cf1 Rh1 61. cd4
+{통한의 대실착.
+
+}
+61... Rxf1+
+{형태는 나쁘지만 점수상 약간 
+
+앞서 있던 초에서 포를 죽이는
+
+대실수로 인하여 패색이 짙어짐.
+
+그래서 장기는 K.O펀치 한방이
+
+언제든지 도사리고 있기 때문에
+
+어렵고도 재미있기도 하다.}
+62. Kd0 Rf0+ 63. Kd1 Cd9 64. ef4 Hf5 65. fxf5 Cd3+ 66. Ea0 Rd2#
+{절묘한 양수겸장으로 
+
+값진 승리를 일궈냄.
+
+-총평-
+
+중반이후 발빠른 행마로 역습을
+
+감행한 조용희 프로의 노련미가
+
+돋보임. 종반 초포를 죽인 실착으로
+
+인해 송종일 프로에게 아쉬움이
+
+남았던 한판.
+
+
+해설 : 김경중 九단
+
+
+
+
+
+
+
+}
+
+{Black mates} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-15"]
+[Round "11"]
+[White "귀마 조용희 七단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3
+{성우제 프로와 조용희 프로는
+
+공통점이 많다.
+
+행마가 무척 발빠르고 날카롭다
+
+초속기파 기사다.
+
+전투에서 후퇴를 싫어하고
+
+  기세상 끝장을 본다.
+
+시원시원하게 둬서 관전자를
+
+  즐겁게 해준다.}
+1... ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+{초궁 내리는 수는 조용희 프로의
+
+단골 메뉴.
+
+아마도 10번 대국이면 9번은
+
+애용하는 것 같다.}
+7... Ra5 8. Ra1 Rf5 9. Ef3 Ri5 10. Rxi5 ixi5 11. g4 i4 12. Ri1 f5
+{김기영 프로 대 조용희 프로의 얼마전에
+
+벌어진 대국과 똑같은 형태이다.
+
+한번 더 시도해 보자는 조용희 프로의
+
+기세와 고집을 엿볼 수 있다.}
+13. c4 g5 14. Hd4 gxg4 15. Ei5 Rxi5 16. Hxg4 Rg5 17. Rxi4 f4
+{싸움을 걸어 속전속결로
+
+매듭짓겠다는 시라소니
+
+성우제 프로의 행마 감각이
+
+느껴진다.}
+18. Hf2
+{그 마가 우변으로 갈 경우
+
+한차가 3칸 아래로 내려와
+
+양포를 거는 수가 있어
+
+제자리 귀마 자리로 귀환하였다.
+
+
+과연 누가 이 부분 전투에서 
+
+승리할 것인가?}
+18... f3
+{기분이 좋은 수다.
+
+마로 병을 잡으면 한차가
+
+한칸 들어서서 양마를 
+
+걸겠다는 무서운 수.}
+19. Rf4 fxf2 20. Rxf2
+{이렇게 되서 이 전투는 성우제
+
+프로의 승리로 종결.}
+20... cd6 21. Hf5 Ce5 22. cd4 Kd8 23. de4 Ce9 24. Hxd6
+{두 대국자는 워낙 싸움(?)을
+
+좋아해서 약점만 보이면 
+
+가만 놔두지 않는다.
+
+}
+24... Hxd6 25. Rxf9 Ae8 26. Rxh9 Cb7 27. Ch6 Hc4
+{졸들이 흩어져 있고 양포의
+
+배치가 불안정하여 초에서
+
+불리한 상황이다.}
+28. ab3 b5 29. Ade1 Eg9 30. Rh8 Cxb3 31. Ch1 Cb7 32. Cd1+ Cd7 33. ed4 Cxd3
+34. dxc4 Cxe3 35. Rh4 Cd9 36. cd4+ Cd7 37. Rh6 Ce9 38. Rd6 Rc5 39. hg3 Ee6
+40. gf3
+{
+지금처럼 졸을 두는 대신에
+
+면포로 한사를 잡는 수는 나쁘다.
+
+그 이유는 한상으로 졸 때리며
+
+ 부른 후 중포마저 잡히는
+
+수가 있기 때문이다.
+
+}
+40... b4 41. Aff1 Hb5 42. Ra6 Rc0+ 43. Ad0 Eh4
+{이 수로 인해 한의 필승이
+
+예상된다. 공격 행마가
+
+상당히 좋아 보인다.}
+44. de4 Hc7 45. Rd6 Cxe4 46. Ae1 Ce9 47. Rh6 Rc4 48. Ad2 Hb5 49. Rh5 Hd4
+50. Rxh4 Cxd2
+{이 수 대신에 마로 초의 면포를
+
+잡는 수도 매우 좋다.
+
+그 마가 면포를 잡고 나서
+
+마 나오는 수가 있기 때문이다.
+
+}
+51. Rh2 Hxe2 52. Rh1 Cd9 53. Rf1 Hg3+ 54. Kf0 Hxf1
+{
+ -총평-
+ 
+ 초반 우진 전투에서 이득을 본
+ 
+ 성우제 프로가 노련한 중반 운영으로
+ 
+ 시종일관 유리한 형세를 이끌다
+ 
+ 선승을 거뒀다.
+ 
+ 
+ 해설 : 김경중9단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-15"]
+[Round "12"]
+[White "귀마 성우제 九단"]
+[Black "귀마 조용희 七단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Ee6 7. Cb1
+Exc3
+{중포 전술에 대한 맞대응으로
+
+졸을 취하여 좌진을 약화시키겠다는
+
+의도로 저런 수를 선호하는
+
+프로들도 있다. }
+8. bxc3 Ri5 9. Hd2 Ad8 10. Cg1 Kd9 11. Ed3 Afe8 12. c4 Ce9 13. i4 Rh5 14.
+i5 Rh1 15. Ri1
+{차대를 청했는데..
+
+받아줄것인지 아닌지 다음 수가
+
+궁금하도다.}
+15... Rh4
+{한에서는 차대를 해야만 했다.
+
+지금처럼 차대를 피하면
+
+우측 초마앞의 졸을 올리는 수에
+
+의해 그 한차가 죽게 된다.
+
+그 변화수는 각자 음미해 보도록...}
+16. Ra4
+{한차 잡는 수를 놓치고 
+
+졸을 지키려 초차가 힘차게 
+
+나왔는데..
+
+아쉬운 대목이 아닐 수 없다..
+
+아주 좋은 기회를 놓치면 패배를
+
+맛본다는 전설이 내려 온다.}
+16... d5 17. Exg6 hxg6 18. He3 Ed6
+{입맛에 맞게 골라 드시라는 한의 주문.
+
+만약 마로 좌측 병을 취하면
+
+좌진병을 올리는 수에 의해
+
+초차와 마가 동시에 걸리는 수가
+
+도사리고 있다.}
+19. Ea1 c5 20. Ra3 Rh2 21. Cb2 Rh0 22. Cxg6 a5 23. Ke0 cxc4 24. Exc4 Ea4
+25. Hf1 Rh6 26. Cg0 Hf5 27. Ade1 Hxe3 28. Hxe3 dc5 29. Ri2 Rh0 30. Rg2 ab5
+31. Kd0 b4 32. Ch2 Ra6 33. Ea1
+{한에서 초상을 잡지 않은 수가
+
+의문이다. 그 상을 가볍게
+
+보았던 것일까?
+
+아마도 한의 시선은 우측 초포를 
+
+향하고 있을 것이다.
+
+}
+33... Rh6 34. Ce2 Cg7 35. gh3 Ca7 36. Rd3 R0xh3 37. Hf5 Rf6 38. Rg4 Rxf5
+39. Rxb4 Rfxf3 40. Rxf3 Rxf3 41. Rxa4 Cf7 42. Ke0 Rg3 43. Cg4 He5 44. Ra5
+Rxg4
+{}
+45. Rxc5 Ra4 46. Rc1 Rb4 47. ih5 Aed7 48. Rc5 Hf3 49. Rf5
+{포와 마를 거는 양걸이 수로
+
+조심스럽게 빅국이 점처진다.}
+49... Rb0+ 50. Ad0 Hg1+
+{왼쪽 마이 더 좋아 보인다.
+
+비기더라도 왼쪽(귀마쪽)을 택하고
+
+싶다.}
+51. Af1 A8e8 52. Ed3
+{상에 의해 한차와 마가 동시에
+
+걸려 결국 빅국으로..}
+52... Rb2 53. Exg1 Rxe2+ 54. Afe1 Ri2 55. Rxf7
+{}
+55... Axf7+ 56. Kf0
+{
+ -총평-
+ 
+ 초반 한차 잡는 수를 놓친 성우제
+ 
+ 프로의 아쉬움과 종반 초상을 
+ 
+ 살려준 조용희 프로의 아쉬움이
+ 
+ 교차하는데 형태상 불리한 난관을
+ 
+ 노련하게 극복한 초의 투지가
+ 
+ 인상적이다.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-16"]
+[Round "13"]
+[White "귀마 성우제 九단"]
+[Black "귀마 송종일 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "152"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7
+{송종일 프로는 이번 대회에서 
+
+귀마 변형 포진을 자주 선보였다.
+
+이 대국도 역시 그 포진을 택하였는데..}
+5. Ee3 c5 6. Ec6 Ra7 7. Cxb9 ed6 8. Cb1 dxc6 9. Ci1 Rh9 10. He3 gf6 11. Ed3
+{실전에서 자주 볼 수 있는 
+
+부분 전투로 상 대 상 교환이 이루어 진
+
+가운데 초에서 형태상,선수 활용상
+
+약간 유리한 형국.}
+11... hg6 12. Rh0 Ee6 13. Ra4 Cf7 14. Rxh9
+{평범하게 차대를 하지 말고 좌측 초차가
+
+우측으로 빠져 양차 합세하는 편이
+
+더 좋아 보인다.}
+14... Hxh9 15. Ca1 Hf8 16. ih3 a5 17. Ri4 ab5 18. Cf1 Ce5 19. Ri5 Ke9 20.
+Cd1 Ad8 21. Ke0 Kd9 22. Afe1 Ce9 23. Hd2 Afe8 24. Cf1 cd6 25. Kf0 Cf9
+{한에서도 안정된 수비 형태를
+
+다 갖추어 호각 상태 유지.
+
+앞으로의 중반전 전투와 졸(병) 활용이
+
+승부의 관건이 될 듯..}
+26. Ce0 Ra4
+{일단 좋은 자리 차지.
+
+초차가 먼저 그 자리(6선)을 차지할 수도
+
+있었는데 일부러 그러지 않은 듯..}
+27. Ce2 Ce7 28. Cf4
+{중포를 귀포로 놓기 위하여
+
+포를 넘겨 놓았는데..}
+28... Cxe3 29. c4 Rxc4 30. Exf6 Rd4 31. Re5 Cxg3 32. hxg3 gxf6 33. Cf2
+{결과적으로 한에서 기물상 이득을
+
+보았다. 조금 전 중포를 앞으로
+
+넘겨 놓은 수가 좀 문제의 수이다.}
+33... Ri4 34. Ce0 f5 35. Re3 Hg6 36. Af1 f4 37. Ke1 fxf3 38. gxf3 cd5 39.
+Ad1 Cc9 40. Rd3 Ce9 41. Kd0 bc5 42. Ade1 Ri3 43. Cf0 Hh4 44. b4 Hg2 45. Cf2
+Ri4 46. Rb3 Hi3 47. He4 dc6 48. Hd2 Eh8 49. fg3 Ef5 50. Hf3 Hh1 51. Cxf5
+Rf4 52. Cxc5 cxc5 53. Hd2 Hxg3 54. Rxg3 Rxb4 55. Rg6 Hb6 56. Rg3 Cb9 57.
+Ra3 Cf9 58. Rb3
+{한에서 양병이 더 많은 상태라서
+
+이론상 이길 수 있는 기물이 남았다.
+
+차대를 하여 공격력을 극도로 떨어뜨려
+
+빅국으로 가고자 할 목적.}
+58... Rxb3 59. Hxb3 Cd7+ 60. Ad1 c4 61. Ke1 c3 62. Ha5 Af7 63. Hc6 Cd3 64.
+Kf0 Ade8 65. Afe1 Cb3 66. Cg0 Ke9 67. Cd0 dc5 68. He5 Cb8 69. Hg6 Ha4 70.
+Ke0 Hb6 71. Hh4 Cb3 72. Hi6 Hc4 73. Hg5 Ce3+ 74. Kf0 He5 75. He4 c4 76.
+Hxc3 cxc3
+{결국 소삼능이 되어 빅국.
+ 
+ -총평-
+ 
+ 한에서 유리하게 판세를 이끌다가
+ 
+ 아쉽게 비기게 된 대국으로
+ 
+ 한의 응수 대응과 기습 공격이
+ 
+ 주효했다.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-16"]
+[Round "14"]
+[White "귀마 송종일 九단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "228"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Hf2 Ce7 4. Che2 Ef6 5. Ef3 Hf7 6. ed3 Ra5 7. Ee3
+Rg5 8. ab3 Ea6 9. Ke0 Exh3 10. gxh3 Af8 11. Ra1 Kf9 12. Exc6 bxc6 13. Rxa6
+Hxa6 14. Cb9+ Ae8 15. Cxi9
+{날카로운 기습 공격으로 
+
+기물상 이득을 보았다.
+
+익혀 두면 좋을만한 공격수.}
+15... ih6 16. Ca9 Ce9 17. Ca1 cd6 18. Afe1 Cc7 19. c4
+{초마가 피하면 포에 초차가
+
+죽게 되므로 졸을 올려 변칙으로 대응.}
+19... Cxc2
+{일단 잡고 보는 성우제 프로의 기풍을
+
+엿볼 수 있다. }
+20. bc3
+{과연 그 포가 무사히 귀환할 수 있을지
+
+그것이 궁금하도다.}
+20... Rb5 21. Cf1 Rb2 22. Cg2
+{못 움직이게 꼼짝마를 외치는데..}
+22... Rb5 23. hg3 gf6 24. Kf0 hg6 25. Ce2 Hc7 26. g4 gh6 27. c5
+{졸을 올려 미끼를 던진다.
+
+덥썩 미끼를 물을 것인가?}
+27... Cxc5 28. Exc5 Ad8
+{차로 상을 잡으면 중포가 넘어
+
+한차와 마를 거는 무서운 수가
+
+도사리고 있었다.
+
+초에서 약간 유리해진 형국.
+}
+29. c4 d5 30. Ri5 hg6 31. Hh3 ed6 32. Ri7
+{좋은 급소 공격.}
+32... Ade8 33. Exe8 Kxe8
+{외사가 되어 약간 더 불리해졌다.
+
+}
+34. Ce0+ Ce7 35. Ri8 Rb3 36. Hf4
+{공격과 방어를 겸하는 일석이조의 수.
+
+마로 맨 우측병을 취하는 노림수가
+
+있다.}
+36... Hd9 37. Ri2 de5 38. Ri3 ef5 39. He2 de6 40. c5 Rb4 41. Hd4 Rc4 42.
+cb5 fe5 43. gh4 Hc7 44. b6 ed5 45. Hf3 Ha8 46. b7 Hc9 47. Ri5 de5 48. ba7
+Hd7 49. Ri9 Rc9 50. Ri8
+{초에서 유리한 상황이라 이겨 볼려고
+
+차대를 피했다.}
+50... Cxa7 51. Hd4 Rc5 52. Ri2 Ce7 53. Ra2 Ke9 54. Ra6 ed5 55. Hb3 Rb5 56.
+dc3 Rb9
+{한의 4병이 중앙 궁성을 두텁게
+
+지키고 있어 초에서 공격하기가 
+
+호락호락 하지가 않다.}
+57. Ra8 Ae8 58. Ra2 de5 59. Ri2 ef5 60. Ri9+ Af9 61. Add1 Rb4 62. Rh9 He5
+63. Af2 Ke8 64. Ade1 Ce9 65. Rh5 Af8 66. Ad2 Kf9 67. Rh7 Ke8 68. h5 Ce7 69.
+Rh9 Hf3
+{마를 희생시켜 승부수를 띄워 본다.}
+70. Cxf3 Rf4 71. Cf1 Rxf2 72. Ad1
+{사가 피하지 말고 졸을 오른쪽으로 쓸어
+
+그 사를 지켰더라면 어땠을까?}
+72... Re2 73. Cg0 f4
+{초의 면포를 쫓아 내고 병을 올리는
+
+기세가 무섭다.
+
+과연 누가 더 빠를지 궁금하다.}
+74. Hc5 f3 75. Ha6 Af9 76. Hc7+ Ke9 77. Hd5 Ce5 78. Hb6 Hd8 79. Cf4 fe3 80.
+Cxf9 Hxf9 81. Hd7+ Ke8 82. Hxe5 exe5 83. Ae1 Rc2 84. cb3 e2 85. Ad1 Rc1 86.
+Ad0 Rc4 87. Ae1 e2xe1+ 88. Kxe1 Rg4 89. Cxg6 Rxg6 90. Ri9 Rg3 91. b4 e4 92.
+Ri8+ Ke9 93. Rf8 Rf3 94. bc4 e3 95. hg5 fe6 96. gf5 Rg3 97. fg5 Rg1+ 98.
+Kf0 Rg0+ 99. Kf1 ef6
+{빅장을 막기 위해 일단 병으로 막았다.}
+100. Rxf6 Hg7 101. Rf4 Rg3 102. Re4+ He8 103. gf5 ed3 104. Rd4 Re3 105. Rd7
+dc3 106. Ri7 Hd6 107. Ri9+ Ke8 108. f6 c2 109. Ri2 Rc3 110. Re2+ Kd8 111.
+cd4 Hf5 112. f7 Hg3+ 113. Rg2 cd2 114. Rxg3 Rxg3
+{초에서 유리했던 장기가 
+ 
+ 종반 한의 승부수 이후 역전되어
+ 
+ 승패가 갈렸다.
+ 
+ 
+ -총평-
+ 
+ 성우제 프로의 노련미와
+ 
+ 승부수를  띄우는 행마 감각이 일품.
+ 
+ 
+ 해설 : 김경중 九단}
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-01-17"]
+[Round "15"]
+[White "귀마 송종일 九단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl "각 30분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Hf2 Hf7 4. Che2 Ef6 5. Ef3 Che7
+{프로의 대국에서는 잘 나오지 않는
+
+변형 VS 변형 포진으로 시작되었다.}
+6. ed3 g5 7. Ee3 Ri8
+{차가 한칸 올라서서 이후에
+
+차대하는 수는 김기영 프로가 즐겨 
+
+두는 상용 수법.}
+8. Cd2 ih6 9. Rg0
+{차대를 하는 것이 바람직하다.
+
+차대를 피한 나머지 후수를 자초하고 
+
+한차의 진출로를 열게 해주어
+
+초의 대불만.}
+9... Ri4 10. Ke0 Af8 11. Afe1 Cd7 12. Add1 Cf9 13. Hh1
+{둔탁한 완착수.
+
+이후에 한차를 견제하겠다는 의도성
+
+행마로 보여짐.
+
+차대를 피한 것이 후회스럽다.}
+13... Ke9 14. Cf0 Ade8 15. hi3 Ri8 16. Cc0 c5 17. Rg2 b5 18. Ci0 Rh8 19.
+ih3 h5 20. Ri2 h4 21. hxh4 Rxh4 22. Hf2 cd5 23. Cc0 e5 24. Ri9 e4 25. Ed6
+exe3 26. Hxe3 bc5 27. g4 gxg4 28. Exg4 Kd9 29. Rg9 Ce9 30. Rg6 Ee6 31. Hg2
+Rh6 32. Rg9 Hb5
+{기민한 좋은 수.}
+33. cb3 Exd3 34. Cf0 Ef6 35. Hf4 Ei4 36. He4 d4 37. Cd0 c4 38. Cxe6 Hd8
+{귀마가 곁마로 이동하면서
+
+포를 거는 수가 매우 좋다.}
+39. Cd2 Cxf4 40. Ce2 Cf9 41. Hg5 Rh0+ 42. Cf0 Ra6
+{한차가 6줄로 들어서서 양차 공격으로
+
+외통을 노릴 목적.}
+43. Af2 Exf2 44. Ke1 Ei0 45. Ei1 Rh1+ 46. Kd0 Rf6 47. Cc0 Rf2+
+{
+ 
+ -총평-
+ 
+ 초반에 우측 차대를 피한 것이
+ 
+ 불리해진 근본 원인을 제공했고
+ 
+ 초반 선수 이점을 살리지 못한 점도
+ 
+ 간과할 수 없다.
+ 
+ 
+ 해설 : 김경중 九단
+ 
+ 
+ }
+
+{White resigns} 0-1
+
+[Event "제1회 한게임 챔피언스리그"]
+[Site "한게임 장기 초고수방"]
+[Date "2007-02-05"]
+[Round "40"]
+[White "원앙마 성우제 九단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Ce2 ih6 4. Hg2 Che7 5. ef3 ed6 6. Cf2 Ri8 7. Ke0
+Ee6 8. Ade1 Cd7 9. Cd0 Ke9 10. Hge3 Afe8 11. Aff1 Cf9 12. Ca2 Rb9 13. Ea3
+Rb5 14. Ce2 Rg5 15. c4 ab6 16. b4 Exg3 17. fxg3 Rxg3 18. Ri2 He6 19. Rg2
+Rxg2 20. Hxg2 Ri5 21. Ec0 Add8 22. Hce3 Rh5 23. i4 Rh3 24. ih4 g5 25. hg4
+gxg4 26. Hxg4 Rg3 27. H4e3 Hf4 28. Ce4 Hxg2 29. Hxg2 Rxg2 30. Ege3 Rc2 31.
+Ce2 Rc1 32. Cf0 Kd9 33. Ra3 Ef6 34. Eh1 de6 35. cd4 cd6 36. bc4 bc6 37. Ef4
+h5 38. Ei2 h4 39. Rg3 Eh3 40. Rg1 He5 41. Ad2 Hf3 42. Ef2 Hxd2+ 43. Kd0 Hb1
+44. Ke0 Hc3 45. Ae1 Hxe2 46. Kd0 Hc3 47. Eh5 Cxe1 48. Ef4 He2 49. Rg2 Hxf4
+50. Rh2 Hxh5 51. Rh1 Hf4 52. Rh2 Ce7 53. Rd2 He2+ 54. Rxe2 Cxe2
+{White resigns} 0-1
+

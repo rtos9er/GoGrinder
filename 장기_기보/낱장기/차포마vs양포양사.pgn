@@ -1,0 +1,57 @@
+[Event "Edited position"]
+[Site "DEV"]
+[Date "2022.01.10"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "1-0"]
+[Variant "janggi"]
+[FEN "2R1ck3/4aa3/5c3/9/4HC3/9/9/3A5/3A5/3K5 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . R . c k . . .
+. . . . a a . . .
+. . . . . c . . .
+. . . . . . . . .
+. . . . H C . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . A . . . . .
+. . . A . . . . .
+. . . K . . . . .
+white to play
+--------------}
+1. Hxf7 Ad8 2. Rc8 Ke8 3. Rxd8+ Ke7 4. Rxf8 Ce6 5. Hh8 Kd7 6. Rf7+ Kd8 7.
+Hf9#
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[FEN "5k3/4a4/9/9/4P4/9/3E5/4E4/4A4/4K4 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . . . k . . .
+. . . . a . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . P . . . .
+. . . . . . . . .
+. . . E . . . . .
+. . . . E . . . .
+. . . . A . . . .
+. . . . K . . . .
+white to play
+--------------}
+1. Eb6 Af7 2. e6 Ke9 3. Eh4 Af8 4. e7 -- 5. Ef1 -- 6. Ei3 -- 7. Ef5 -- 8.
+Ec7 -- 9. ed7 Af7 10. d8 Ae7 11. d9#
+{White wins} 1-0
+

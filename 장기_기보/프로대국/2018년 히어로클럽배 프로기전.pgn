@@ -1,0 +1,1413 @@
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 김희상"]
+[Black "귀마 양승태"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Af1 Ad8 7. Kf0
+Ri5 8. Ci2 Ra5 9. Rxa5 axa5 10. Cf2 a4 11. Hd2 a3 12. Ade1 axb3 13. cxb3
+Ce9 14. ih3 Ra4 15. Ri5 gf6 16. Rb5 cb6 17. Rc5 dc6 18. Rc1 c5 19. Ce2+ Kd9
+20. Cd0 He6 21. Cg0 Hd4 22. Ed3 Cc9 23. Rd1 Afe8 24. Cd0 Ed6 25. Ra1 Rxa1
+26. Exa1 Hxb3 27. Cxd6 Hxa1 28. Cxh6 cd5 29. Ch0 Cg7 30. Hi1 bc6 31. Cd0 c5
+32. h4 Cf9 33. Eb1 Ee6 34. Ca2 Cb7 35. Hc0 Cb0 36. Hg2 Cc9 37. Hd2 f5 38.
+hg4 Ke9 39. He3 fe5 40. Cd3 e4 41. Hd1 Cb7 42. Hb3 Hb6 43. Hxa1 Cc1 44. Ed4
+dxd4 45. Cd0 Cc9 46. Aff2 c4 47. Cg2 Eb4 48. Hb2 c3 49. Hbc0 Hc4 50. Hd2
+cd3 51. Hf1 Add7 52. gf4 Hb6 53. fxe4 dxe4 54. Ce2 dc3 55. Ci2 Cf7 56. Cg0
+Ca7 57. Ca0 Ade7 58. Cb2 Hd5 59. Ci2 A7f7 60. -- Ed7 61. Ce2 Kf9 62. Cg2
+Hb6 63. Ca6 Ha4 64. Cg4 Hb2 65. Cg2 Hd3 66. Ca0 Hc1 67. Ca4 ef4 68. -- fxf3
+69. gxf3 Eg5 70. fe3 Cg9 71. Hh2 cd3 72. ef3 Afe7
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 정원직"]
+[Black "귀마 이점섭"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "170"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hc2 Ef6 3. Ef3 gh6 4. Exh6 Exh3 5. gxh3 Rg9 6. Ee4 Rg1+ 7.
+Ke0 e5 8. Ce2 Cg7 9. He1 Hc7 10. ed3 Rg6 11. Hf2 Ce7 12. Ec1 ab6 13. Ea4
+Ee6 14. Ri4 ef5 15. Hc2 Ra5 16. Ade1 Af8 17. Kd0 Kf9 18. Ca2 Ade8 19. ab3
+Rb5 20. Ec1 fg5 21. Cad2 Ce9 22. Ce2 Ci9 23. Rd4 gh5 24. Raa4 Ha6 25. Ra0
+Ca7 26. Rb0 Rbg5 27. Ce0 Cb9 28. Ef3 Cb5 29. Cb2 Ch7 30. Ee3 Rf6 31. Exc6
+bxc6 32. Ra0 cb6 33. Re4 Ca7 34. Rc0 Hd8 35. de3 Aff7 36. Cd2 Cb9 37. cd3
+Rc5 38. Hd4 Rxc0+ 39. Cxc0 Eb8 40. Re5 ih6 41. Aff1 Hc6 42. Hxc6 bxc6 43.
+bc3 cd6 44. Exh6+ Rxh6 45. Ch0 d5 46. Rxh5 Rxh5 47. Cxh5 Cg7 48. Chh2 Ce7
+49. Ce2 Hc7 50. hg3 Ke9 51. gf3 Cf9 52. Hh3 Cf6 53. Hf4 Kf9 54. Ad1 Cf8 55.
+Hg6 Cg7 56. Afe1 Hb5 57. Ke0 Hc7 58. Cf0 He6 59. Cf6 Ke9 60. f4 Kd9 61. e4
+Hc7 62. Cf0 Cd8 63. Cd2 Cd7 64. Hh4 Cf9 65. Hi6 Cc9 66. Hg5 Ce9 67. Cf0
+Aff8 68. Cd0 Ee6 69. Cf0 Eb4 70. Add2 Ed7 71. Hh7 Aff7 72. Hf6 Cf8 73. Hxd7
+Axd7 74. Cxf7 Hb5 75. Cf0 Ae8 76. c4 Cd8 77. d4 dxd4 78. cxd4 Hc3 79. Ce5
+Ha2 80. Cd0 Cc9 81. Add1 Hc3 82. Cd3 Ha2 83. Cd0 Cd3 84. Cf2 Hc3 85. Add2
+Ca3
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 고승원"]
+[Black "귀마 이재헌"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Hf7 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Hb9 9. Cd4 Ri8 10. a4 Ri5 11. Rxi5 ixi5 12. Ef3 i4 13. ab4 Hd8 14.
+Ra9 Afe9 15. Ra5 i3 16. Ei5 ixh3 17. Hxh3 Ri6 18. bc4 Rh6 19. Hf4 Kf8 20.
+g5 f5 21. gxg6 Rxg6 22. Rxf5 Ef6 23. Hh5 Hh6 24. Rxf6+ Rxf6 25. Hxf6 Ch0
+26. Ef3 Hf5 27. Exh0 cd6 28. Kd1 Hf7 29. Ade1 Hh4 30. Cd2 bc6 31. Kd0 Hf5
+32. cd4 Hh4 33. Ce0 Eg3 34. Aff1 de6 35. He4 Ei6 36. Eh5+ Cg7 37. Cf0 Ke8
+38. Cxf7 Kxf7 39. Hg5+
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 정국봉"]
+[Black "귀마 송은미"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. ih3 cb6 4. Hd2 Hg7 5. Ed3 Rc9 6. Cbe2 Exb3 7. cxb3
+Rc1+ 8. Ke0 Hc5 9. ba3 Cd7 10. Afe1 Ci7 11. Rh0 Ke9 12. gf3 Afe8 13. Ea1
+Ci5 14. Ec4 Ci8 15. Hf4 ih6 16. Cc2 Hd7 17. Cg2 Hf9 18. Ch4 Cd8 19. Rc0
+Rxc0 20. Hxc0 e5 21. Hd2 Ch8 22. ab3 ef5 23. Hd3 a5 24. Ei3 g5 25. fg3 Ee6
+26. Ri0 Cg7 27. ef3 Cd8 28. Hf2 b5 29. Add1 h5 30. Ch0 Cb7 31. Cd0 Cxd2 32.
+Adxd2 Cxb3 33. Ce2 Hc5 34. h4 fe5 35. hxh5 gxh5 36. Rh0 Rxi3 37. Rxh5 e4
+38. Rd5 Ri6 39. Ce5 Ad8 40. Rxd8 He7 41. Rd3 ed4 42. Rxd4 Kf9 43. Hh3 Cb9
+44. Cxe7 Exg3+ 45. fxg3 Axe7 46. Hg5 Rg6 47. g4 Ae8 48. Rd5 Hd7 49. Ade2
+Hb8 50. Rf5+ Ke9 51. Ea1 a4 52. Ed3 ab4 53. Re5 Rg7 54. Re6 bc5 55. He4 Hd7
+56. Eg5 Rf7 57. Rd6 Hb8 58. Hxc5 bc4 59. Re6 Cb4 60. He4 Hd7 61. Cf0 cd4
+62. Hf2 Re7 63. Rd6 dc4 64. Exd7 Rxd7 65. Rc6 cd4 66. Cd0 Rf7 67. g5 Cf4
+68. Rc9+ Ad9 69. gf5 Re8 70. fe5 de4 71. Hxe4 Rxe5 72. Hc5
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 김현기"]
+[Black "귀마 박인락"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "161"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ad1
+Ee6 8. Kd0 Ke9 9. Afe1 Ade8 10. Ca2 Rb5 11. Cad2 Ra5 12. Cf0 Ca7 13. Rb0
+Cad7 14. cb3 Ce7 15. Ri4 Rc5 16. Cc0 Rd5 17. d4 Ri5 18. Rxi5 ixi5 19. Exc6
+bxc6 20. Cxc6 Hb9 21. Cc0 Hd8 22. bc3 ih5 23. Rb5 hg5 24. cd3 Exg3 25. hxg3
+Cxd3+ 26. Hxd3 Ri2 27. Ca2 Rxc2 28. Hb2 Rc3 29. Rb3 Rxb3 30. axb3 He6 31.
+dc4 Aff8 32. b4 Kf9 33. Cd2 gf5 34. gf3 f4 35. fxf4 Hxf4 36. Ef3 Cg7 37.
+cd4 Hh3 38. bc4 Hg5 39. Eh0 fe6 40. Hd3 gf6 41. Ce0 Cd7 42. Hf2 Hd6 43. Cc0
+Hb5 44. Ke0 Aff7 45. Ccf0 Ke9 46. Ee2 Hi4 47. Hg4 Hg3 48. Hh6 Ee7 49. c5
+Hc3 50. Eh0 fg6 51. Hg8+ Aff8 52. Ef3 Cf9 53. Hi7 Cxf3 54. Hxg6 Cf9 55. Hh8
+Cd9 56. Hi6 Hf5 57. d5 He3 58. Hg5 ef6 59. Cd6 Eg4 60. Cd3 Exe1 61. Axe1
+Hg2 62. Cc0 Ha2 63. Cd6 Hc1+ 64. Cd1 Hd3 65. Kd0 Hb2 66. Ce0 Hxd1 67. Axd1+
+Af7 68. He4+ He3 69. Ad2 Kf9 70. Hxf6 A8e8 71. Ke1 Hg2+ 72. Ke2 Hh4 73. Ce3
+Hf3 74. d6 He5 75. cd5 Hg6 76. de5 Hf4+ 77. Ke1 Hg2+ 78. Kf2 Cxd2 79. d7
+Cd9 80. d7xe8+ Axe8 81. Cxe8
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "귀마 최진호"]
+[Black "귀마 박선양"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ad8 8. Kf0 Kd9 9. Ra1 Afe8 10. Cc2 cb6 11. Cc9 Ra7 12. Cc0 Ce9 13. Ce2 a5
+14. Ci2 Rh8 15. Ca0 Hhf8 16. Ade1 Cc9 17. ih3 Ri8 18. hi3 Rg8 19. Cf2 dc6
+20. ih3 Rg9 21. c4 Ed6 22. f4 Ri9 23. Rxi9+ Cxi9 24. fe4 Ca9 25. e5 Eh8 26.
+ed5 Eg8 27. Ed3 b5 28. Cb2 Rc7 29. Rc1 He6 30. Cg0 Hf4 31. cd4 Cf9 32. Ke0
+cd6 33. Rxc7 Cxc7 34. dxd6 Exd6 35. de4 Hxg2 36. Cxg2 Ce7 37. gf3 Ke9 38.
+Cd0 Ea8 39. hg3 Cd9 40. bc3 bc5 41. Kf0 ab5 42. ef4 Ee6 43. cb3 -- 44.
+Exg6+ hxg6 45. Cxg6 He5 46. f5 Hc4 47. Ef6 Hxd2 48. Axd2 Exg3 49. fxg3 Cxd2
+50. fe5 Kf9 51. bc3 Cd9 52. Ae1 Cf7+ 53. Cf2 Ce9 54. Ce6 b4 55. Ei4 c4 56.
+cd3 b3 57. ef5 Ce7 58. f6 Cf4 59. Ce0 Cf8 60. Ce5 bc3 61. dxc3 cxc3 62. Eg7
+Add7 63. Ee4 -- 64. Eh6+ Ke9 65. fe6 Ca7 66. Exe8 Axe8 67. e7 Kd9 68. Cxe8
+Ed6 69. Ce2 Ea4
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(B조)"]
+[White "귀마 최진호"]
+[Black "귀마 김정수"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "63"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 Ri8 10. Rg1 Afe8 11. Afe1 Ce9 12. Add1 Ee6 13. Kd0
+Hb9 14. Ce0 Hbd8 15. Cc0 Cc7 16. ab3 Exg3 17. hxg3 Ri5 18. Rxi5 ixi5 19.
+gh3 Cg7 20. Ri1 i4 21. Exg6 fxg6 22. Cxh9 Cg2 23. Rg1 Cxc2 24. Rxg6 Ch2 25.
+Cf0 Ch7 26. Eh6 Kf9 27. Rg7 Rh8 28. He4+ Af8 29. Hg5 Rxh9 30. Hxf7 Cb9 31.
+Hxd8+ Ae8 32. Hxb9
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 박선양"]
+[Black "양귀마 박종성"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hc2 Hf7 2. Ce2 gf6 3. ih3 Ed6 4. Ef3 ab6 5. Exd6 cxd6 6. ed3+ Ce7 7. He3
+Hd7 8. Ke0 Ad8 9. Ra1 fg6 10. Rai1 gh6 11. Hf5 Ef6 12. Hxh6 Hxh6 13. Cxh6
+Exh3 14. gxh3 Kd9 15. Rxi6 Rxi6 16. Rxi6 Cc7 17. cb3 Ra5 18. Ee3 Rf5 19.
+Ri2 Cf7 20. Ade1 Cb5 21. Ch1 Cb9 22. Hf2 Rf3 23. Cd1 Cxf2 24. Rxf2 Rxh3 25.
+Kd0 Rg3 26. Ce0 Afe8 27. Cd4 Cf9 28. bc3 d5 29. Cd2 e5 30. Rf4 bc6 31. ab3
+c5 32. Ra4 Rf3 33. Cc0 Rf6 34. Ad1 Ke9 35. Afe1 Hf8 36. Ce0 Hh7 37. Rg4 Rf5
+38. b4 Hf6 39. Rh4 Af8 40. bc4 cxc4 41. Rxc4 Ade8 42. d4 Rf3 43. dxd5 Hxd5
+44. cd3 Cf7 45. d4 He7 46. Ec6+ Kf9 47. Cxe5 Rf6 48. Ea3 Ra6 49. Rc3 Ra4
+50. dc4 Hd5 51. Ri3 Cd9 52. c5 He7 53. Ce0 Rc4 54. Ri5 Hg6 55. Rg5 He7 56.
+Ec6 Rc2 57. Ef4 Rc4 58. Eh1 Hc8 59. Ee3 Hd6 60. cd5 Hb5 61. Cf0+ Rf4 62.
+Cf5+ Af7 63. Exb5 Rf3 64. Cf0 Rf6 65. Ed2 Rf3 66. de5 Rxf0 67. Axf0
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 임대빈"]
+[Black "원앙마 홍봉일"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Hg7 3. Ce2 Cbe7 4. Hd2 ed6 5. ab3 Hce6 6. Ri4 d5 7. Rb4
+Ke9 8. Ra1 ih6 9. Ad1 Cf7 10. Kd0 Ade8 11. Rb8 Cd9 12. Ce4 c5 13. Ce0 Ra7
+14. Cc0 d4 15. ed3 dxd3 16. Exd3 Rd7 17. Rc8 Rc7 18. Rxc7 Hxc7 19. Cxc5
+Hce6 20. Cc0 Hf4 21. He1 Ege6 22. Ra4 Hd5 23. Rc4 Ri5 24. Ce0 Rf5 25. gf3
+Aff8 26. Ei3 Rh5 27. hg3 Exg3 28. fxg3 Ee6 29. gf3 Cf9 30. Hg2 Ce2 31. Re4
+Ce5 32. Afe1 Ce7 33. Rc4 Rh3 34. Rc5 Rh5 35. Eg0 gf6 36. He3 Hxe3 37. Rxh5
+hxh5 38. Exe3 f5 39. Ec6+ Ad8 40. Ca0 a5 41. Ea3 Exc3 42. bxc3 ab5 43. Cf0
+Afe8 44. Ed5 fe5 45. Ef2 He6 46. Ce2 ef5 47. Ce0 Hc7 48. f4 fg5 49. f5 g4
+50. fe5 Kd9 51. e6 Ce9 52. Eb6#
+{White mates} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 허금산"]
+[Black "원앙마 이래원"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. ed3 ef6 5. Ef3 Hge6 6. ih3 Cd7 7. Ra4
+Ri7 8. Rh4 Ra8 9. Rh7 Rxh7 10. Cxh7 gh6 11. Exh6+ ixh6 12. Ri9 ab6 13. Ea3
+Ke9 14. Rxg9 hg6 15. Rg7 Ade8 16. g4 Aff8 17. Rg9+ Cf9 18. Hf2 Ra5 19. Ch2
+Ri5 20. Kd1 c5 21. Ade1 b5 22. Ce0 Ea6 23. Kd0 cd5 24. c4 Cb7 25. b4 bc5
+26. cxc5 dxc5 27. Cd2 Ce7 28. Ec6 Aff7 29. Aff1 Rf5 30. -- Ri5 31. -- Ca7
+32. Ad1 Ce7 33. Afe1 Ad9 34. Rh9 Afe8 35. Rg9 Add8 36. -- Kd9 37. de3+ Ke9
+38. ed3 Ri0 39. Ha3 Ri5 40. Hc2 Ec9 41. Rg8 Cd7 42. Rg9+ Af9 43. Rg7 Ade8
+44. Rh7 Aff8 45. Rh9+ Aff9 46. Rh7 Aff8 47. Rh9+ Aff9 48. hg3 Kd9 49. Rh7
+Aff8 50. gf3 Aff7 51. Rh9+ Ce9 52. fe3 Ad8 53. e4 Ha6 54. Ea9 Ci7 55. Rh7
+Ke8 56. Rh8+ Hf8 57. Ec6 Cie7 58. Ef4 Ee6 59. Rh3 Ad7 60. d4 Kf9 61. Ra3
+Hc7 62. Eh1 Ade8 63. Cc0 Cg9 64. ef4 Cd9 65. fe4 Ke9 66. -- Ad7 67. -- Afe8
+68. ef4 -- 69. fe4 Hh7 70. Rh3 Hf8 71. Ra3
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "이벤트 대국"]
+[White "귀마 김지환"]
+[Black "원앙마 변금철"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ef3 ef6 5. ab3 Hge6 6. Ee3 c5 7. Ed3 f5
+8. Ri4 Cd7 9. Rb4 cb5 10. Rc4 Ra7 11. Hd2 Ad8 12. Ad1 ih6 13. Ce0 bc5 14.
+Rb4 Cd9 15. Kd0 a5 16. Rb8 Ri8 17. Cc0 Ke9 18. Afe1 Afe8 19. Ce2 f4 20. Rc8
+Cf9 21. Cf0 Ri4 22. Ca2 Rb7 23. Ca9+ Rb9 24. Rxa5 Cd9 25. Ca2 fxf3 26. gxf3
+cb5 27. Ra3 b4 28. Cb0 Ei6 29. h4 Ri5 30. Cxb4 Ri0+ 31. Hf0 Cf9 32. Cb0 Hb5
+33. b4 Cxf0 34. Axf0 Rb6 35. Exb6 Hbd4 36. Rxc9+ Add9 37. cd3 Hf5 38. Exe8
+Kxe8 39. Raa9 Ae9 40. Ae1 Hxh4 41. Ec6 Hg2 42. Cxg2 Hg5 43. Ce0 Ri2 44.
+Rxe9+
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 박영완"]
+[Black "원앙마 장기업"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ef6 4. Ed3 He6 5. Ri4 Hbc7 6. Hd2 f5 7. Rc0
+Af8 8. cb3 c5 9. gf3 Rh9 10. Rh4 ih6 11. Ei3 g5 12. Ad1 Ce5 13. hg3 Cf7 14.
+Af1 h5 15. Ri4 Rh7 16. Rh0 Cf9 17. Kd0 Ke9 18. Ri8 Rg7 19. e4 Ce8 20. Ri4
+Ra8 21. Afe1 Rd8 22. fe3 f4 23. exf4 Hxf4 24. gf3 Hfe6 25. Ce0 Ce5 26. Hf4
+Ce7 27. Cc0 Hxf4 28. fxf4 Ege6 29. Eg0 Ade8 30. Rh3 Rf7 31. e4 Cd9 32. Rii3
+Ha8 33. Cf0 Rh7 34. Ef6 Hb6 35. bc3 Rd6 36. ab3 a5 37. Ce2 ab5 38. Ke0 Hd7
+39. Ee3 Cf9 40. Ri9 Rg7 41. Exh5 Rh7 42. Rh9 Rxh5 43. R3xh5 gxh5 44. Rxh5
+Cxf6 45. e5 Cf9 46. He4 Ra6 47. exe6 Cxe4 48. fxe4 Ra4 49. ed6 Hf6 50. Rf5
+Hh7 51. Cxf8 Rxe4 52. Cf0
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "귀마 김동학"]
+[Black "원앙마 차선균"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. c4
+Cd7 8. Hb4 Ca7 9. Ea3 ab6 10. Exc6 b5 11. Hf2 Ra8 12. Af1 Ea6 13. Rc0 Rd8
+14. bc3 bxb4 15. cxb4 Ke9 16. Kf0 Rd5 17. Ade1 Cd7 18. Ce0 Ad8 19. c4 Ec9
+20. c5 Rf5 21. Cd2 Ha6 22. b5 Ae8 23. b6 Hb8 24. b7 Hd9 25. cd5 Cf9 26. Ea3
+Rf4 27. Rxc9 Rb4 28. bc7 Rg7 29. c8 Ra4 30. c8xd8 Axd8 31. d6 Hf4 32. Ed1
+Ae8 33. Cd0 Hd5 34. Ec5 fe6 35. dxe6 Exe6 36. Cxe6 Rf7 37. d4 Ra0 38. Ri2
+Hc7 39. Ce0 Rf5 40. Exe8 Hxe8 41. Rc6 ih6 42. de4 Hdc7 43. e5 Rf7 44. e6
+Cxe1 45. Kxe1 Cd9 46. ed6 Kf9 47. d7 Rxd0+ 48. Kxd0 Rxd7 49. Ke1 gf6 50.
+Ri8 hg6 51. Rxe8+ Rxe8+ 52. Cxe8 Kxe8
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승전(B조)"]
+[White "귀마 최진호"]
+[Black "원앙마 허금산"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ed6 4. ih3 He6 5. Ef3 d5 6. Hf2 Hhg7 7. Af1 c5
+8. Ce0 Cf7 9. Kf0 g5 10. cd3 Kf8 11. Ade1 Afe8 12. Cg0 de5 13. h4 Rb9 14.
+Rb0 a5 15. Cd0 Ea6 16. Ce2 gf5 17. g4 Ed8 18. Rg0 Rb6 19. Ra0 ab5 20. Ra4
+Kf9 21. b4 bxb4 22. Hxb4 cb5 23. Hc2 Ra6 24. Rxa6 Exa6 25. Ea3 Add8 26. Ca2
+Hc7 27. g5 Cd9 28. gxf5 Hxf5 29. hg4 Ke9 30. gf4 Hh6 31. Rg6 Hi4 32. Cxa6
+Hxa6 33. Rxa6 Rh9 34. Rg6 Rh6 35. Rxh6 ixh6 36. fe4 exe4 37. exe4 hg6 38.
+Hd4 Hh2 39. Ec1 Cxd4 40. dxd4 gf6 41. ef4 fe6 42. de4 b4 43. Ed1 b3 44. Cd2
+Hf3 45. Cg2 bc3 46. Ea4 Add7 47. Ce2 Add8 48. Ce0 Hh4 49. Hh3 Hf3 50. Hg5
+Hh4 51. Cg0 Hg2+ 52. Ke0 ef6 53. Hh7 Ee6 54. Hxf6 He3 55. Aff2 Hc4 56. Kf0
+Hb6 57. Ed6 Hd5 58. Hg8+ Af8 59. Ce0 Hb4 60. ed4 Ce3 61. Hf6 Kd9 62. Hg4
+Hc6 63. f5 Eg3 64. Hxe3 Exe0 65. Kxe0 Hxd4 66. fe5 cd3 67. Hd5 Hb5 68. Eg4
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "3·4위 결정전"]
+[White "귀마 임대빈"]
+[Black "원앙마 허금산"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ef6 4. ab3 He6 5. ef3 Hbc7 6. Kf1 f5 7. Afe1
+Cd7 8. Ra4 Ri7 9. Ee3 c5 10. Ce0 g5 11. Hd2 Ke9 12. Kf0 Afe8 13. Cf2 Cf9
+14. Rh4 Ra8 15. g4 gxg4 16. Rxg4 fg5 17. Rh4 Rg7 18. hg3 ab6 19. Cg0 Ad7
+20. Af1 Ri8 21. Ade1 A9d8 22. c4 cd5 23. b4 b5 24. bxb5 Hxb5 25. c5 dxc5
+26. Exb5 cxb5 27. Ee2 i5 28. Rc4 Ri6 29. He4 ih5 30. Rxi6 Exi6 31. Hd6 ba5
+32. Rc5 a4 33. Rc4 Exg3 34. fxg3 Ri7 35. Ce0 a3 36. Rc3 a2 37. gf3 g4 38.
+Rc5 h4 39. Rh5 Ef7 40. Eb4 Cxf3 41. Exe6 Cf9 42. Exh4 g3 43. Hh0 A8e8 44.
+Rg5 gf3 45. Cf6 Ri6 46. He4 Ei5 47. Hi2 Kd9 48. Ci0 ab2 49. Rxi5 Rg6 50.
+Rg5 Rh6 51. Rf5 fe3 52. Cf2 bc2 53. Ce0 Ri6 54. Heg3 ed3 55. Rd5 d2 56.
+Axd2 cxd2 57. Rxd2 Ce9 58. Ee2 Rf6 59. Hh1 Rf5 60. Hig3 Rf3 61. Ce4 Re3 62.
+Rd4 Rc3 63. Ke1 Ce7 64. Cf0 Ke9 65. Rb4 Cd9 66. Ke0 Rc2 67. Ae1
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 1회전"]
+[White "귀마 최진호"]
+[Black "원앙마 박영완"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hf2 Hc7 3. ih3 Che7 4. Ef3 ef6+ 5. Ce2 Hge6 6. ed3 Cd7 7. Ra4
+Ri7 8. Hc2 f5 9. g4 Ke9 10. He3 Ca7 11. Hxf5 gf6 12. Rc4 fxf5 13. Rxc6 Cd7
+14. Ed6 Ra7 15. Ee3 Afe8 16. Ke0 Cf9 17. Afe1 Add8 18. Cb4 ab6 19. Rxb6 Hd5
+20. Cb9+ Ea6 21. Rb5 Hxe3 22. hg3 Rd7 23. gf3 Rxd6 24. fxe3 Rf7 25. He4 Rd7
+26. Cb4 f4 27. gxf4 Hxf4 28. ef3 Hh3 29. Rg0 Rxf3 30. Rxg9 Ed4 31. Add1 Ef7
+32. Kd0 Ra7 33. Ce0 Ra9 34. Rh5 Kd9 35. Hd2 Hg5 36. Hxf3 Hxf3 37. Rf5 Hxe1
+38. Rxf7 Ke9 39. Rf1 Ra1 40. Rxe1
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "원앙마 허금산"]
+[Black "원앙마 유광진"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. g4 ef6 6. ed3 c5 7. h4 b5 8.
+Af1 Cd7 9. Cd2 Ad8 10. Cf0 Cd9 11. Ke0 Ke9 12. Ade1 Afe8 13. Ece3 Ege6 14.
+Exg6 fxg6 15. Hce3 Ci7 16. Ei3 ih6 17. Exg6 hxg6 18. Hf5 Hh9 19. Cd0 Ra8
+20. h5 Hf8 21. g5 gxg5 22. hxg5 Ca7 23. Rxi9+ Cxi9 24. ab3 Ea6 25. Rb0 Cb9
+26. Rc0 Cf9 27. d4 Cc9 28. Rc2 Cd7 29. Hg7 Kd9 30. Hf4 Ce9 31. c4 cxc4 32.
+Rxc4 Ra7 33. Rc6 Cc9 34. Rb6 Ce9 35. Hgxe6 Hxe6 36. Hxe6 Cxe6 37. Rxe6 Exd4
+38. Rc6 Ef7 39. bc3 Ha8 40. Rc8 Af8 41. Kf0 Ade8 42. Rb8 bc5 43. Rb9+ Hc9
+44. Ce0 Rb7 45. Ra9 cd5 46. Ra6 Rc7 47. Rd6 Rxc3 48. Rxd5 Ad8 49. g6 Rc5
+50. Rd6 Rc4 51. gf6 Ei5 52. Rd5 Ef3 53. fe6 Afe8 54. e7 Axe7 55. Cxe7 Rc5
+56. Rd3 Ei5 57. Ce0 Rc8 58. Rxd7
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "원앙마 임웅규"]
+[Black "귀마 이광선"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ab6 2. Ce2 Hc7 3. Hg2 Hf7 4. Ad1 Che7 5. Ke0 ih6 6. Cf2 Ef6 7. Ci2
+Rg9 8. Ef2 Af8 9. Af1 cd6 10. gf3 Cd7 11. Ed2 Ke9 12. Ri1 Ade8 13. Ci0 Cf9
+14. Afe1 Ea6 15. Rb0 b5 16. cd3 Cc9 17. Rb2 g5 18. Cc0 Ra7 19. Ra2 gf5 20.
+ih3 fe5 21. h4 Ri9 22. Rh1 Ch9 23. Rg1 Cc9 24. ab3 hg6 25. Rh1 Cg9 26. Ri1
+Rxi1 27. Hxi1 Cc9 28. hg4 g5 29. gf4 Kf9 30. b4 bxb4 31. Hxb4 Hb5 32. Ra5
+Ed8 33. Rxa7 Hxa7 34. Cg0 Ke9 35. Hg2 Ei8 36. Hh4 gh5 37. Hi2 Cg9 38. fg4
+hg5 39. f4 Cd9 40. gxg5 Exg5 41. fg4 Ei8 42. Hg3 Eb5 43. gf4 Hc6 44. Ha2
+Exd2 45. Adxd2 Ef6 46. f5 exf5 47. Hxf5 Cf9 48. Eh5 Hh8 49. Hg3 Aff7 50. e4
+Cd9 51. d4 Hi6 52. Hc3 Hb4 53. Hb5 Hd3 54. Cd0 Hb4 55. dc4 Hg5 56. cxb4
+Hxe4 57. Hxe4 Cxe4 58. Cxd6 e5 59. Ch6 Ce7 60. Cb6 Ed3 61. Exe7 Afxe7 62.
+Hd6 Exb6 63. Hc8+ Kf9 64. Hxb6 e4 65. Ce6 ed4 66. Hd5 A7d7 67. Hf4 d3 68.
+Add1
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "원앙마 장기업"]
+[Black "귀마 김영곤"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "171"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hc7 2. Ce2 Ce7 3. ed3 ih6 4. He3 ab6 5. Hhg2 Hf7 6. d4 ed6 7. g4 Ke9
+8. Ra2 Ade8 9. Cf2 Ri5 10. Ke0 Rb5 11. Afe1 Ee6 12. Add1 Kd9 13. Cd0 Ce9
+14. i4 Cd7 15. c4 c5 16. cxc5 Rxc5 17. dc4 Rb5 18. Hf4 g5 19. ih4 bc6 20.
+Rc2 Cc9 21. Ca2 Rab9 22. a4 Rb2 23. Rii2 Rxc2 24. Rxc2 Rb3 25. gxg5 Hxg5
+26. hg4 He4 27. Ce2 Hc3 28. Cd3 Rb1 29. Hxe6 Hxa4 30. Hg7 Ee7 31. Hgf5 Exc4
+32. Rxc4 Hb6 33. Rc3 Hca8 34. Ra3 Cxc0 35. Cd0 Cc9 36. Hxh6 Aff8 37. gf4
+Rb0 38. Hhf5 Ccf9 39. -- Ca9 40. Rc3 Ha4 41. Rc2 H8b6 42. Hxd6 Ca0 43. Rxc6
+Ha8 44. Rc2 H4b6 45. Aed2 Ca9 46. Hdc4 Hxc4 47. Rxc4 Ce9 48. Hd5 Hb6 49.
+Hxb6 Rxb6 50. Rd4 Ad8 51. A1e1 Afe8 52. fe4 Ri6 53. Ce5 Ri0 54. -- Cf9 55.
+Ade2 Ce7 56. A2f2 Ke9 57. Ce2 Cd9 58. Rc4 Ri4 59. ef4 Kf9 60. Cf0 Cf7 61.
+fg4 Ri1 62. Rf4 Rg1 63. Cc0 Add7 64. gh4 Ri1 65. Rg4 Ke9 66. Aff1 Cd9 67.
+Ee3 Ri5 68. Cf0 Cf7 69. Rg9+ Af9 70. Eh5 Cb7 71. Rg3 Ri0 72. Re3+ Kd9 73.
+Rc3 Afe8 74. Rc9+ Kd8 75. Ee3 Ce7 76. Eb5+ Cc7 77. Ra9 Rg0 78. Ra4 Kd9 79.
+Rg4 Ri0 80. Rg9+ Ae9 81. Rg4 Aee8 82. Rc4 Aed8 83. Ra4 Ke8 84. Ee3+ Ce7 85.
+Rf4 Cd9 86. Rf9#
+{White mates} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "원앙마 유광진"]
+[Black "귀마 채희종"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ri8 5. ef3 Hf7 6. c4 Af8 7. Cd2
+Kf9 8. Ke0 Ade8 9. Afe1 Ce9 10. b4 Cg9 11. Ra3 Ra8 12. f4 ab6 13. Rf3 ed6
+14. Cf0 He6 15. Add1 Hed8 16. g4 de6 17. cd4 cd6 18. Ea3 bc6 19. Hge3 Ca7
+20. d5 Ca9 21. Ec0 Ra5 22. dxd6 cxd6 23. bc4 Cad9 24. Ea3 ef6 25. cd4 Ca9
+26. d5 fe6 27. Cc0 Ea6 28. dc5 Ec9 29. Ca2 Cxa3 30. Hc4 Rxc5 31. H4xa3 Rh5
+32. Cxc9 Hc6 33. Cc3 Hd4 34. Rd3 Cd9 35. Cc0 Ef6 36. fe4 e5 37. gf4 exe4
+38. fxe4 Rh4 39. Re3 Hxc2 40. Hxc2 Rh1 41. ed4 Ri5 42. Ce2 Eh3 43. Ri2 Ra5
+44. Ra3 Rxa3 45. Hxa3 Ef6 46. Ee3 Rg1 47. Hc2 Rg5 48. i4 Ra5 49. Cf0 Rc5
+50. Ce4 Eh3 51. Rh2 Ch9 52. Cc0 Ra5 53. ih4 Ra0 54. Add0 Hg5 55. Cec4 Exe1
+56. Axe1 Hf3 57. Rf2 He5 58. Ce4 Hf7 59. hg4 de6 60. Ad0 e5 61. Ce1 Ce9 62.
+Cc3 Ra2 63. Ri2 ef5 64. Cf3 hi6 65. Ec6 Ad8 66. Exf8 Kxf8 67. Rxi6 Rxc2 68.
+Ri8+ Kf9 69. Rxd8 gf6 70. Rd7+ Kf8 71. Cxf6+ Hh6 72. Cf3+
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(B조)"]
+[White "원앙마 허금산"]
+[Black "귀마 김동학"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. g4 ef6 5. h4 Ee6 6. ed3 Hd7 7. Hc2 Ad8
+8. Cd2 Ra8 9. Af1 Kd9 10. Ri3 Ri8 11. Cf0 ih6 12. Rxi8 Hxi8 13. d4 Afe8 14.
+Hge3 Ce9 15. Ke0 Ra5 16. Ade1 Hg7 17. c4 Ri5 18. a4 Ri1 19. Cd0 Cf7 20. Ra1
+Rg1 21. a5 Hi6 22. d5 Eg3 23. c5 g5 24. ab5 cxc5 25. bxc5 hg6 26. Hb4 Cb7
+27. c6 Cxb4 28. c7 fe6 29. Cxe6 Exd5 30. Ce2 Eb2+ 31. Hc2 gxg4 32. Ra8 Ce6
+33. cxd7 Ke9 34. d7xd8 Axd8 35. Rxd8 Cxh4 36. Rb8 Ee7 37. Rxb6 Hg5 38. Ee3
+Ce4 39. Rxb2 Hi4 40. Rb6 gf6 41. Hd4 Hg5 42. Rd6 Kf9 43. Rd7+ Kf8 44. Rxe7
+Rg3 45. Hb5 Ce8 46. Hd6 fe6 47. Hxe4 Hxe4 48. Rxe6 gf4 49. Eh5+ Rg7 50.
+Rxe8#
+{White mates} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 2회전"]
+[White "원앙마 박영완"]
+[Black "귀마 최진호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3 Hd7 6. Hce3 Ad8 7. Cf2
+Ce9 8. g4 Kd9 9. d4 Afe8 10. h4 ih6 11. Ei3 gf6 12. c4 Cf7 13. Ke0 h5 14.
+Ade1 Ei6 15. Aff1 Rh9 16. Cd0 hxh4 17. gxh4 Hf9 18. Ch2 Rg9 19. Cg0 Ri9 20.
+Ca2 Ca7 21. ab3 Ef8 22. Ci2 Rh9 23. Cd0 Cc9 24. Ra5 Hh8 25. Ea3 Hf7 26. Ca2
+Cca9 27. Eg0 ed6 28. Rii5 fe6 29. b4 Hb8 30. Hc2 e5 31. Exc6 Hxc6 32. b5
+bxb5 33. Rxb5 Rb8 34. Cxd6+ Hxd6 35. Rixe5 Rh7 36. Ee3 Hf7 37. Exc6 Hxe5
+38. Rxb8 Ke9 39. Rxb9+ Cd9 40. Ce2 Kf9 41. Exf8 Axf8 42. Rb5 Hf3 43. Rb3
+He5 44. Re3 Hd7 45. Ra3 Ce7 46. Hce3 Ade8 47. Ra5 Rg7 48. hg4 Rg6 49. d5
+Rb6 50. Ra0 Rb2 51. Aff2 Rb3 52. Hf5 Cb7 53. d6 Hf6 54. de6 Hg8 55. e7 Cb0
+56. Ra8 Hf6 57. Ra6 Cb6 58. Ra0 Cg6 59. Hgh4 Cg0 60. Ra6 Rb0+ 61. Ad0 Hd5
+62. e7xe8+ Axe8 63. Rd6 Hc3
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 3회전"]
+[White "원앙마 박영완"]
+[Black "귀마 최진호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra5 5. ed3 Ri8 6. Cf2 ih6 7. Ei3
+ef6 8. g4 Ed6 9. h4 Exg4 10. hxg4 Af8 11. He3 Hd7 12. Af1 Kf9 13. d4 cd6
+14. Ke0 Ae8 15. Ade1 Ce9 16. Cd0 bc6 17. Ci2 Rh8 18. Ca2 Rb5 19. ab3 Ei6
+20. Ch2 Ri8 21. Cb2 Re5 22. c4 Re7 23. Ci2 Rg8 24. Ce2 He6 25. Ra7 Hb6 26.
+b4 Ci7 27. Ra5 Rgg7 28. Ra3 Ra7 29. Rb3 Ra1 30. Ea3 Ra7 31. Hc2 Rc1 32.
+Hge3 Ci9 33. Cf0 Cxi3 34. Cf3 Hc8 35. Cc3 Cd3 36. Cxc1 Cxa3 37. Rg0 Cxe3
+38. Ra3 Rxa3 39. Hxa3 Ce7 40. g5 Hf4 41. Aff2 Cd9 42. gxg6 hxg6 43. Cf1
+Hxe2 44. Axe2 Ke9 45. Ri0 Ef4 46. Ri5 Kf9 47. de4 Ed7 48. Ri6 de6 49. Rxg6
+Cxe4 50. Rg4 Ce7 51. Cc1 Ha7 52. b5 Ce9 53. Rg7 Cf7 54. Rg4 ed6 55. c5 fe6
+56. Ra4 Hb9 57. cxc6 dxc6 58. Ra6 Ef4 59. Hc4 Hd8 60. He3 ef6 61. Hg4 fg6
+62. Cg1 He6 63. Cxg6 Hd4 64. Ra4 Hf5 65. Cg0
+{Black resigns} 1-0
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 김영식"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ed3 Ce7 5. Ri1 ed6 6. Ke0 Ke9 7. ef3
+Ee6 8. Ra4 Ria8 9. Rf4 Ade8 10. ih3 ab6 11. c4 Hf8 12. Ri5 Kd9 13. Afe1 Ce9
+14. Hd2 Ad8 15. Ei3 Afe8 16. Ri9 Cb7 17. Rg9 Ra4 18. Cb4 d5 19. Cb1 c5 20.
+cb4 R4a6 21. Cg1 b5 22. bxb5 cxb5 23. Kf0 Ed6 24. Cd1 dc5 25. Eg1 Exb3 26.
+Hxb3 Hh7 27. Rh9 Hg9 28. Cxe8 Kxe8 29. Rxg9 Exg9 30. Hd2 Ee6 31. Ed3 Ra4
+32. Rf5 Ec3 33. Ri5 Cf7+ 34. Cf1 Kd9 35. fe3 Cb9 36. Aed1 R9a6 37. Hf3 Cc7
+38. Ke1 Ce7+ 39. Kf0 Re6 40. Eg0 Ra2 41. Ri2 cd5 42. A1e1 d4 43. Cd1 Cf9+
+44. Cf1 Ae8 45. Cf4 Hc5 46. Eb0 de4 47. exe4 Rxe4 48. Cf2 Ra0 49. Hd2 Rd4
+50. Hf3 Rd5 51. Ri9 Rxb0 52. Cf7+ Ke9 53. He3 Rdxd0+
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 임성숙"]
+[Black "귀마 김정수"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Hf7 5. Ef3 Af8 6. Rb0 Cb7 7. ed3+
+Che7 8. Ra0 Cd7 9. Ee3 ef6 10. Ri4 f5 11. Exc6 bxc6 12. Rc4 He5 13. Rb4 Kf9
+14. Rab0 Ef6 15. Ra4 Rxa4 16. axa4 f4 17. de3 fxf3 18. exf3 ih6 19. Rb4 Ri5
+20. Ke0 Afe8 21. He3 c5 22. Ade1 Add8 23. Ch4 Cd9 24. Ch1 Hf7 25. Cc1 Ee6
+26. Rb3 Hd5 27. Hxd5 Rxd5 28. f4 cb5 29. c4 Ch9 30. g4 Cb9 31. Ra3 Ch9 32.
+fe4 Eb8 33. ed4 Ri5 34. h4 g5 35. He4 gxg4 36. Hxf6 Rf5 37. Rb3 Rxf6 38.
+Rxb5 gxh4 39. Rxb8 Re6 40. Cf1+ Ke9 41. Kd0 Cd9 42. Cd1 Add7 43. Ce0 Rc6
+44. Rb5 hg4 45. ab4 gf4 46. Aff1 hg6 47. Cc0 Ra6 48. Cf0 g5 49. Rb9 g4 50.
+d5 fe4 51. c5 gf4 52. b5 Hg5 53. Rb6 Rxb6 54. bxb6 Hf3 55. Cd6 Ce3 56. bc6
+Hh4 57. Cb6 Ade7+ 58. cd6 Hf5 59. Cd2 Hd4 60. Ce6 Kf9 61. Cc6 Hb3 62. Cc3
+Ke9 63. dc6 ed4 64. Cf0 fe4 65. cd6 dc4 66. Ca3 Hxc5 67. Cd2 Cxd5 68. dc6
+c3
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 김희상"]
+[Black "귀마 임대빈"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Af1 Ad8 7. Kf0
+Ri5 8. Hd2 Kd9 9. Ade1 Afe8 10. Cc2 Rd5 11. ih3 Ce9 12. g4 He6 13. Ri8 Cg7
+14. Ra4 a5 15. Rb4 a4 16. Rb5 Rxb5 17. Cxb5 a3 18. Cxc6 dxc6 19. Exc6 Ra5
+20. b4 Hd4 21. Ef4 Hxb5 22. Exd7 Hc7 23. Exg9 Cxg4 24. Ed3 Cc9 25. Eb6+ Ke9
+26. Ee4 Cgxg9 27. Ri9 He6 28. hg3 Rh5 29. Ke0 gf6 30. Rh9 Hf8 31. Ri9 hg6
+32. He3 Hh9 33. Ri8 Cf9 34. Eb6 Add7 35. c4 fe6 36. He4 gf6 37. Hc5 Ed6 38.
+Hc2 ab3 39. Hd4 Rh0+ 40. Aef0 Cg0+ 41. Ke1 Cc0 42. Hc6 Rh5 43. Hb8 Cxc5 44.
+cxc5 Re5+ 45. Kd1 Rxc5 46. Ee4 Rc8 47. Ha6 Cd9 48. Ke1 Hg7 49. Ri5 Hf5 50.
+Ae0 bc3 51. Kf0 cd3 52. f4 Hd4 53. Rc5 Rxc5 54. Hxc5 de3 55. bc4 He2+ 56.
+Aee1 Hxg3 57. Eb2 e5 58. Hb7 ed3 59. c5 Hh5 60. c6 Eg8 61. fg4 Hi3 62. g5
+fg6 63. gxg6 Cf7+
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 고승원"]
+[Black "귀마 정원직"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri5 4. ef3+ Ce7 5. Ee3 ed6 6. Cb5 Ee6 7. Cb1
+Rc5 8. Ra3 a5 9. Exg6 hxg6 10. Rh0 Hf8 11. Cf1 Kd8 12. Ra2 Ade8 13. Hd2 Ce9
+14. c4 Ri5 15. Ca1 Ca7 16. Rb2 Exg3 17. fxg3 ab5 18. ba3 Kd9 19. Ke0 Ee7
+20. Rh1 Cb9 21. ab3 Exc4 22. Ci1 Rc5 23. He3 Ef6 24. Ra2 ba5 25. Rc2 Cxb0+
+26. Hc0 Rxc2 27. Hxc2 Cb9 28. Cd1 Ce9 29. Hd4 Ad8 30. Rh5 Cg7 31. gf3 Afe8
+32. f4 He6 33. Hxe6 dxe6 34. Hd2 e5 35. Afe1 Cc7 36. Af0 ab5 37. f5 Cc5 38.
+Rh8 Cxf5 39. Afe1 Cf9 40. Cxe8 Axe8 41. He4+ ed5 42. Hd2 Ce7+ 43. He4 Ra4
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "귀마 김현기"]
+[Black "귀마 김정수"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ad1 Kf8 7. Kd0
+Afe8 8. Ca2 Ca7 9. Rb0 Ee6 10. Cf2 g5 11. Exc6+ bxc6 12. Rb5 gf5 13. g4
+Cad7 14. g5 cd6 15. Rb4 fxg5 16. Rbi4 Exc3 17. dxc3 de6+ 18. Ke0 Ce7+ 19.
+Afe1 Ce5+ 20. Kf0 i5 21. Rc4 Ci7 22. hi3 Hb5 23. Rb4 Hc7 24. Ri1 Rb9 25.
+Rc4 Hd5 26. Ef3 Cie7 27. ih3 Ci7 28. Rg1 ih5 29. Cxh5 gxh5 30. Rg8+ Kf9 31.
+Eh6 Ke9 32. Cxf7 Ee7 33. Cf2 Rb4 34. Rc9 Hc7 35. He3 fg6 36. Rxg6 Rf4 37.
+Rg8 Rf7 38. Hc4 Ci5 39. Ee4 Hd5 40. Hb6 Hxb6 41. Exb6 Cf5 42. Rxe8+ Rxe8
+43. Exe8 Kxe8 44. Rc8+ Ad8 45. Rc6 e5 46. Re6 ed5 47. Cd0 Rg9 48. Ke0 Rg1
+49. Rd6 Ci5 50. h4 Cd7 51. hxh5 Exh5 52. Rh6 Ce5+ 53. Kf0 Ee7 54. Rd6 Cd9
+55. Ri6 Ke9 56. Ri1 Rg3 57. ab3 Cf9 58. cd3 Rf3+ 59. Hf2 Eh5 60. de3 Rxe3+
+61. Hg0 Rf3+ 62. Af1 Rxb3+ 63. Ae1 Rf3+ 64. Af1 Ae8 65. Ae1 Rg3+ 66. Af2
+Rd3 67. Ke0 Ee3+ 68. He1 Rd2 69. Ri4 Rb2 70. Re4 Eh5 71. Kf0 Exf2 72. Hf3
+Rb0 73. Ae1 Rb3
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "이벤트 대국"]
+[White "귀마 송해"]
+[Black "귀마 강승희"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Ef6 2. Hc2 Hf7 3. Ef3 gh6 4. Exh6 Exh3 5. Hf2 Rg9 6. Rxi6 Rxg3 7.
+Cbe2 Rg1+ 8. Af1 Ef6 9. ab3 Hc7 10. Ee4 cd6 11. Ra4 Cbe7 12. Ri8+ Ke9 13.
+Rc8 Afe8 14. Rb4 Hd5 15. Rbc4 e5 16. Rxc9 Ra8 17. Rd4 ab6 18. Ea3 Kf9 19.
+Rc5 Ce9 20. Ca2 Rb8 21. Che2 b5 22. Rcc4 Cd7 23. Rc7 b4 24. bxb4 Hxb4 25.
+cb3 Cxd4 26. Hxd4 exe4 27. Cxe4 Hd5 28. Ca7 de6 29. Rc5 Rd8 30. bc3 Ra8 31.
+cb3 Rxa7 32. Rxd5 e5 33. Rc5 exe4 34. exe4 Ei4 35. Ec6 Ce7+ 36. ef4 He5+
+37. He4 Ra1+ 38. Ad1 Hd7+
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(A조)"]
+[White "귀마 정원직"]
+[Black "귀마 임대빈"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. Cb4
+Ri5 8. c4 Kd9 9. Cb1 Afe8 10. Ci1 Rf5 11. f4 Rxf4 12. Ca1 ab6 13. ba3 Rxa3
+14. Ca9+ Rxa9 15. Rxa9 Cxb0 16. ih3 Ei6 17. Kd1 Ce9 18. Cb2 c5 19. gf3 Rf5
+20. Ri4 d5 21. Ra0 Cxf0 22. Hxf0 Ed6 23. cxc5 dxc5 24. Cf2 Rg5 25. Ae1 Exf3
+26. Hxf3 Rd5+ 27. Ad2 Rd3 28. Ria4 Af8 29. R0a3 Rd5 30. Hg2 He6 31. Eb1 Eg9
+32. Cc2 Hf6 33. Ce2 Ed7 34. He3 Rd6 35. Ri4 Ade8 36. Ke1 b5 37. Hc2 Rb6 38.
+Hcd4 cd5 39. Hc2 Eb4 40. Hxb4 bxb4 41. Ad1 Hc5 42. Hd2 b3 43. Ra5 b2 44.
+Rc4 bxb1 45. Ra3 Re6 46. He4 Rxe4 47. Rxe4 Hxe4 48. Kd0 d4 49. Rc3 d3 50.
+Rc4 bc1 51. Ae1 c0+ 52. Rxc0 Cc9 53. Rb0 Cf9 54. Rb4 Hc3 55. Rc4 Hd7 56.
+Ce0 g5 57. hg3 gf5 58. gf3 Hb1+ 59. Rc1 Hc3 60. Cc0 Hd5 61. Rc6 h5 62. Rd6
+Hb4 63. Ke0 Ke9 64. Rd4 Hc6 65. Rxd3 Hce5 66. Rc3 f4 67. fe3 hg5 68. Cf0 g4
+69. Rc2 g3 70. Re2 gf3 71. e4 fxe4 72. Rxe4 f2 73. Ad0 -- 74. Cf5 Hc6 75.
+Cf0 Hce5 76. Ad1 Cd9 77. Ad0 Cf9 78. Ad1 Cd9
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 우창균"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Ra7 7. Ra4
+Cf7 8. Rg4 gh6 9. Cb4 i5 10. Ch4 Af8 11. Ch1 h5 12. Ef6 Ri7 13. Rg6 Ei6 14.
+Ca1 ab6 15. Cg1 Cf9 16. He3 Af7 17. Hd2 Ke9 18. h4 Ade8 19. hxh5 ixh5 20.
+Ed3 Ra4 21. Cd1 Rh4 22. Exb6 Rh2 23. Ce5 hg5 24. Hdf1 Rh4 25. Ce2 cxb6 26.
+cd3 bc6 27. Rh0 Rxh0 28. Hxh0 Exg3 29. Hg2 Cxf3 30. bc3 Cf9 31. Rh6 Hf4 32.
+Ei3 Hxe2 33. Ci1 Hi6 34. Ci5 Rg7 35. Ce5 Hc1 36. Ad1 Ece6 37. Kd0 Ha2 38.
+Eg6 Aff8 39. c4 Rg8 40. Ce0 Hc1 41. d4 Hh8 42. Cg0 Rxg6 43. Rh1 Hf7 44. Ad2
+Hb3 45. Afe1 Rh6 46. Ri1 Rh4 47. d5 Cd9 48. Rf1 dxd5 49. Hxd5 Rxc4 50. Rf3
+Hxd2 51. Axd2 Rc2
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 배정수"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "100"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Hf2 ef6 5. ih3 Hge6 6. cd3 c5 7. b4 Cd7
+8. Ef3 Ke9 9. Ea3 ab6 10. Ca2 Ea6 11. Che2 Ad8 12. Cd2 Afe8 13. Hd4 Cd9 14.
+Hxe6 Hxe6 15. Rc0 Ec9 16. Cd6 Rxa3 17. Rxc5 Ea6 18. Rc2 Rh9 19. Ke0 Rh5 20.
+Cd2 Cf9 21. Afe1 Rb3 22. bc4 Cc9 23. cd4 Hc5 24. h4 Rg5 25. g4 Cxc2 26.
+gxg5 Cc9 27. Add1 gxg5 28. Cf0 Hxd3 29. Ed6 Ra3 30. exd3 Rxd3 31. Cd0 Re3
+32. de4 Ee6 33. ef4 ih6 34. Kf0 bc6 35. Ri7 hg6 36. Ce0 Rg3 37. Rg7 Cf9 38.
+Rg9 cxd6 39. Cxd6 Rf3 40. hg4 gxg4 41. fxg4 Eg3 42. Ch0 fe6 43. Cdd0 Re3+
+44. gf4 Exd1 45. Ad2 Rf3 46. Rxf9+ Axf9 47. Kf1 Ec3+ 48. Ae2 Cxe2 49. Ke1
+Ce7+ 50. Kxd1 Rxf2
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(A조)"]
+[White "귀마 정국봉"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. Hf2 Hge6 6. Ra4 Ri7 7. ed3
+Cd7 8. Ee3 c5 9. Rh4 Af8 10. ih3 Rg7 11. Af1 ab6 12. Kf0 f5 13. Ade1 Cf9
+14. Ce0 Ke9 15. Ed6 Ade8 16. Cg0 ih6 17. Ra4 Rxa4 18. Exa4 Rf7 19. Cb0 Ha8
+20. Ce2 Rf6 21. Ri8 Ei6 22. Ke0 b5 23. Cf0 ba5 24. Ec1 ab5 25. g4 Hec7 26.
+h4 Ra6 27. Hh3 g5 28. gxg5 fxg5 29. Rg8 He6 30. ba3 Aff7 31. Rh8 Hg7 32.
+Ca0 ba5 33. ab3 ab5 34. Ha3 ba5 35. Hb1 ab5 36. ba3 ba5 37. hi4 g4 38. i5
+Hf5 39. ixi6 hxi6 40. Ce5 Rb6 41. ab3 ab5 42. Ef3 cd5 43. Ce2 g3 44. Hg1
+Ee6 45. Rg8 gxf3 46. Hxf3 Hc7 47. Hh2 bc5 48. Hd2 Eh4 49. Rg4 Exf1 50. Hxf1
+ih6 51. Cf0 Hg7 52. Cxf7 Axf7 53. Rxg7 Ke8 54. Rg8+ Kd9 55. Rh8 hg6 56. Hg3
+He6 57. Rh9 Ae8 58. Kd0 Ra6 59. Ce0 g5 60. Rh6 Cd7 61. Hi4 gf5 62. Rf6 de5
+63. Hh6 Hc7 64. Hg8 Cxe3 65. Rxa6 Hxa6 66. Ad1 Ce6 67. Hf3 Hb8
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승전(A조)"]
+[White "귀마 임대빈"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ra4
+Ra7 8. Ed3 Af8 9. Rg4 gh6 10. Cb4 i5 11. Cb1 Cf9 12. Ee3 d5 13. Ch1 h5 14.
+Eg6 Ri6 15. Ke0 Rd7 16. c4 c5 17. bc3 ab6 18. Afe1 Ea6 19. cb3 cxc4 20.
+Exb6 cd4 21. Cd1 Ke9 22. Ee3 hg5 23. Rh4 ih5 24. Rhi4 Rh6 25. Eb1 Ei6 26.
+He3 Ade8 27. Exd4 Ca9 28. Kf0 dxd4 29. Cxe6 Rxe6 30. Rxd4 Rxd4 31. Cxd4 Ci7
+32. Rg0 Ca0+ 33. Ae0 Rd6 34. Hc2 Rxb6 35. Cd1 Cf7+ 36. Hf1 Rxb3 37. Rg2 Ca9
+38. Re2 Kf9 39. Aee1 Ci9 40. Ke0 Ce9 41. Hfe3 Ed8 42. Cf1 Hf5 43. Ri2 Hg7
+44. Ri4 Rc3 45. Kf0 Eb5 46. Rd4 Rc6 47. Cf4 Hf5 48. Rc4 Exe3
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "원앙마 고병수"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. ih3 ab6 4. Hc2 ef6 5. ed3 Ee6 6. Hge3 Rh9 7. Ei3
+Ra5 8. Cd2 Hd7 9. Ke0 Ed6 10. Ade1 Rg5 11. Rg0 i5 12. Rg2 Cxe3 13. dxe3 Ce7
+14. g4 Rc5 15. ab3 Rxh3 16. Eg0 Exb3 17. Ra9 Ad8 18. Ra8 cd6 19. ed3 bc6
+20. Cd4 d5 21. Cd1 Exc3 22. Ege3 Rh5 23. Ea3 cd6 24. Cg1 Rf5 25. Rh2 Rh5
+26. gh4 Rg5 27. Cc1 He6 28. hg4 Rh5 29. Rg2 d4 30. dxc3 d3 31. Cxe6 dxe6
+32. cxd3 Ra5 33. Rc8 Exe1 34. Kxe1 Rab5 35. Cf1 Ae9 36. Hd4 Rbc5 37. Rc2
+Rxc2 38. Rxc2 He5 39. Rc8 Hxd3+ 40. Kd1 Cxe3 41. Ae1 Ce7 42. Hc6 Hb2+ 43.
+Kd0 Rh0+
+{White resigns} 0-1
+
+[Event "히어로클럽배 프로기전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "원앙마 임웅규"]
+[Black "귀마 정국봉"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 ab6 3. Hc2 Hd7 4. Af1 Cbe7 5. Ke0 ef6 6. g4 Ed6 7. gf4
+ih6 8. cd3 Ra5 9. Cd2 Rg5 10. Ri2 Ch0+ 11. Af0 Ch8 12. Ad1 Cc8 13. Ra2 Rc5
+14. Ha1 Rc1 15. Ri1 Ci8 16. ih3 Ei6 17. Re1 Ca8 18. Rc2 Rxa1 19. Cd0 Eg9
+20. e4 Ri5 21. d4 Rc5 22. dc4 Rg5 23. Hi1 Ci8 24. Ege3 Cc8 25. Hg0 Rxg0 26.
+ed4 Rg5 27. d5 fe6 28. Rf1 gf6 29. Afe1 Ei6 30. h4 Rg2 31. Af2 Rg3 32. Afe1
+Cf8 33. Cd3 Rg0+ 34. Af0 h5 35. hg4 Eg3 36. Ke1 Exd5 37. c5 cxc5 38. Rxc5
+Eb2 39. Rc2 Rxa3 40. Cd0 Rg2 41. Rxb2 Rc3 42. Ch0 Eb3 43. Rd2 Rxe3
+{White resigns} 0-1
+

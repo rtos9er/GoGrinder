@@ -1,0 +1,1490 @@
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 1경기"]
+[White "고병수"]
+[Black "유동헌"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "51"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. Ei3 gf6 5. ed3+ Ce7 6. He3 Hg7 7. Rg0
+Cf7 8. Hc2 Hf5 9. ab3 Hxe3 10. Exe3 cb6 11. Cd2 Ed6 12. b4 Rc9 13. b5 Ad8
+14. bxb6 axb6 15. Ke0 ih6 16. Ade1 Ke9 17. Aff1 Ri5 18. g4 Afe8 19. Cf0 Cd9
+20. gh4 Rb5 21. Rg8 e5 22. Rh8 hi6 23. Eig6+ fxg6 24. Exg6+ Af8 25. Rxf8
+Ae8 26. Rf9#
+{White mates} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 2경기"]
+[White "박영완"]
+[Black "김현기"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 Kf8 9. Ef3 Afe8 10. Ri3 Ce9 11. Rai0 Exg3 12. hxg3 Ri5 13. Rxi5
+ixi5 14. gh3 i4 15. Kd0 f5 16. Afe1 g5 17. Ce0 f4 18. hg3 ih4 19. Rxi9 Cxi9
+20. Eg6 Cf9 21. Ec1 g4 22. gxg4 hxg4 23. Cd2 Ce7 24. Cf0 Hh8 25. Hh3+ Cf7
+26. Hi5 Kf9 27. He3 c5 28. Hf5 Hi6 29. Ei9 Cb7 30. Hg6 Cb5 31. Hh6 Add8 32.
+c4 cd5 33. d4 dxd4 34. cxd4 Cb7 35. He5 He6 36. d5 Hh8 37. d6 Hg5 38. Hexf7
+Axf7 39. Hxg4 Ch7 40. Hf2 f3 41. Hd3 Ae8 42. He5 b5 43. Cf5+
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 3경기"]
+[White "배성철"]
+[Black "박삼용"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "169"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hf7 2. Hd2 Hc7 3. Cc2 ed6 4. Kd1 Cbd7 5. ed3 Ef6 6. Ee3 gh6 7. hi3
+Rg9 8. Hhf1 ab6 9. Ade1 Ca7 10. Cg2 Rh9 11. Ce2+ Che7 12. Ca2 Ee6 13. Kd0
+Rc9 14. ab3 Cd7 15. Ce2 Ad8 16. Ce0 Kd9 17. Ra4 Afe8 18. Ad1 Ce9 19. Ca2
+Rg9 20. Rg0 Ci9 21. ih3 Cif9 22. g4 Ch7 23. hg3 Ce7 24. gf3 Ce9 25. f4 Cd7
+26. Afe1 Ei8 27. Cc0 -- 28. d4 -- 29. cd3 c5 30. Cg2 Rh9 31. Cc2 bc6 32. f5
+Rb9 33. Cf0 Cf9 34. g5 Ri9 35. Ci2 Ce7 36. de4 cd5 37. Cc0 dc5 38. e5 Hxe5
+39. fxe5 Cxe5 40. g6 Ce7 41. gxh6 Ra9 42. Rxa9+ Cxa9 43. hxi6 Cb7 44. Rg4
+Rg9 45. Rb4 Ce7 46. Cxi8 Cf9 47. Ci2 Rg5 48. Cb2 Eg3 49. Ce2 He6 50. Cf0
+Exi6 51. Rh4 Ef8 52. Rh6 Rg0 53. Rh0 Rg4 54. Ce0 Cb9 55. dc3 cd5 56. Ed3 d4
+57. Exc6 dxd3 58. cxd3 Hf4 59. Rh6 dxc6 60. Rxc6 Cf9 61. Rc4 Ke9 62. bc3
+Rg0 63. Cxf4 Rg4 64. Cf0 Rg0 65. Ce2 Cd9 66. Re4 Cd7 67. Re6 Eh5 68. c4 Kd9
+69. Re5 Ef8 70. Ce0 Rg8 71. d4 Rh8 72. Re6 Eh5 73. Hg3 Ce9 74. Rf6 Cf9 75.
+Hde4 Rh7 76. d5 Ef8 77. Rd6 Cd7 78. Hf6 Rh6 79. c5 Cf9 80. Hxe8 Rxd6 81.
+Hxd6 Ad7 82. Hgf5 Cf6 83. Cd2 Eh5 84. Hb5 Kd8 85. d6
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 4경기"]
+[White "김학림"]
+[Black "김해영"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ed6 3. Ce2 Hd7 4. ed3+ Ce7 5. Hg2 ef6 6. Cf2 Hg7 7. He3
+Ee6 8. d4 Cf7 9. Ke0 Ci7 10. Ei3 ih6 11. Rh0 Ra5 12. g4 Ke9 13. Ade1 Afe8
+14. Ra2 Cf7 15. c4 Kf9 16. d5 Ce9 17. Cd0 Ec9 18. Rc2 Ch7 19. c5 Ra7 20.
+cxc6 bxc6 21. Rxc6 Eg8 22. h4 Rb7 23. Aff1 Rb1 24. Rh3 Cf7 25. gf4 Hb8 26.
+Rc8 Ha6 27. f5 Rb6 28. a4 Hb8 29. h5 Rh9 30. fxf6 gxf6 31. hxh6 Hf5 32.
+Hxf5 Cxf5 33. h7 Cf8 34. Cf2 fg6 35. Cf0 Hc6 36. h8 Rg9 37. Exg6 Ee5 38.
+dxe5 Rxg6 39. Rf3 Hd8 40. Hh4 Rg4 41. Hi2 Rc6 42. Rb8 Rc1 43. Rg3 Rxg3 44.
+Hxg3 Af7 45. Rb6 Rc6 46. Rxc6 Hxc6 47. Hh5
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 8경기"]
+[White "김진수"]
+[Black "손유성"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "184"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ee3
+g5 8. Af1 d5 9. Kf0 Ke9 10. Ae1 Ade8 11. Hd2 Cd9 12. Ce0 Aff8 13. Cf2 c5
+14. Cd0 Ci7 15. Rh0 Ca7 16. Rc0 ab6 17. Ef6 ih6 18. c4 Ch7 19. cxc5 dxc5
+20. He4 hg6 21. hi3 Cc7 22. Rb0 gxf6 23. Hxg5 f5 24. Hi4 Ei6 25. Rh4 Ra6
+26. Rb2 Ci7 27. Rd2 b5 28. Exb5 cxb5 29. He3 bc5 30. Hh6 fe5 31. Hg8 Ri8
+32. Hxi7 Rxi7 33. Ce2 ed5 34. Rb2 Rb6 35. b4 Ri9 36. Ra2 Rh9 37. Rxh9+ Cxh9
+38. bc4 Cd9 39. cxc5 dxc5 40. ih3 Ea6 41. Ra4 Cf9 42. Cg0 Ec9 43. Rh4 Rb7
+44. Hc2 Rd7 45. Rh8 Kd9 46. Rg8 Ea6 47. Cd0+ Ed8 48. He3 Rd4 49. Ce0 Ad7
+50. Hd1 Ri4 51. Cxd7+ Ke8 52. Cd0 Kd9 53. He3+ Rd4 54. Hc2 Rd7 55. Rh8 Ae8
+56. Rh6 Eg9 57. Rg6 Ke9 58. Rg4 Ea6 59. He3 Rb7 60. Rg6 Ec3 61. Ce2 Hd4 62.
+Ce4+ Ege6 63. Hd1 Exf1 64. Cf2 Ei3 65. hxi3 Cd9 66. Ce0 Cg9 67. Rh6 Ra7 68.
+Cd0 Hc2 69. Cxe6+ Hxe6 70. Rxe6 Ri7 71. Ci0 Rxi3 72. Ce0 Ri8 73. Re5 c4 74.
+Rc5 Ha3 75. He3 cd4 76. Hf5 Cd9 77. Hxd4 Cf9+ 78. Hf5 Rf8 79. f4 Kd9 80. g4
+Rf6 81. Cg0 Rb6 82. Cd0 Hb1 83. Rc1 Rb3 84. Ke0 Ke9 85. Cf0 Hc3 86. Rc2 Hd5
+87. Hg7 Cd9 88. Re2 He7 89. Hf5 Hc6 90. Hd6 Rb8 91. Cd0 Hd4 92. Re4 Hb3
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 1경기"]
+[White "김상범"]
+[Black "최재용"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ ef6 5. Ee3+ Ce7 6. Hf2 Ee6 7. g4
+Ke9 8. Ch4 Rg8 9. Ch1 Hd8 10. ab3 Afe8 11. Cd1 Rii8 12. Ra5 ih6 13. Rai5
+Rxi5 14. Rxi5 Kf9 15. Ef3 Ce9 16. Cg1 Rh8 17. g5 Rh7 18. gxg6 hxg6 19. Cd1
+Ri7 20. Rh5 Cg7 21. Cf1 Af8 22. c4 Ade8 23. Hd4 Ri4 24. bc3 Cc7 25. h4 Ri6
+26. hg4 gh6 27. Exh6+ Rxh6 28. Rxh6 Hxh6 29. Ke0 cd6 30. c5 Cg9 31. gh4 Cd9
+32. Ch2 Hf7 33. h5 Ch7 34. Afe1 d5 35. cxd5 Cxd5 36. Hg4 Cd9 37. h6 Ch4 38.
+Hf3 Ce4 39. Cxh9 Ce7 40. Ch2 f5 41. Kf0 fe5 42. Hfxe5 Ke9 43. Hg6 Cg7 44.
+Hf2 Cg2 45. Hf4 Cb2 46. hg6 Hg5 47. Ce2 Cf9 48. H2h3 Hxh3 49. Hxh3 Eh4 50.
+Ce4+ Kd9 51. Ke0 He6 52. Cd1+ Ad8 53. Cd6+ Ae8 54. Cf6 Hc5 55. Ci4 Hd7 56.
+Ch6 b5 57. Cd6+ Hb6 58. Ec6 Hc8 59. Cd2+ Cd7 60. Ef4 Ee6 61. gf6 Exc3+ 62.
+dxc3 Cf9 63. cd3+ Ad8
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 2경기"]
+[White "김철"]
+[Black "임소용"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "55"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Ce7 4. ed3 ef6 5. Ece3 Ee6 6. Exg6 fxg6 7. Ee3
+Hf8 8. Eh5 g5 9. Exf8 Axf8 10. He3 cd6 11. Hc2 bc6 12. Cd2 Ra8 13. Ke0 Ke9
+14. Ra1 Ade8 15. Rai1 Kd9 16. Rxi6 Rxi6 17. Rxi6 Ce9 18. Cd4 Ad8 19. Ri7
+Ch0+ 20. Ae1 Afe8 21. Ri9 Ch7 22. Ri5 Ra5 23. Ri9 Cc7 24. Ca2 Rxa3 25. Hxa3
+Af7 26. Ca9+ Ke8 27. Rxe9+ Kf8 28. Rf9#
+{White mates} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 4경기"]
+[White "김건우"]
+[Black "강종석"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ih6 5. Ra4 ef6 6. Ri1 h5 7. g4
+Hge6 8. cd3 c5 9. Hf2 a5 10. Ra1 Cd7 11. Ke0 Ei6 12. ih3 hg5 13. gxg5 gxg5
+14. Ri5 f5 15. Rai1 Hg7 16. Ch7 Ra6 17. Ch0 Ke9 18. R5i4 Afe8 19. Rh4 gh5
+20. Rg4 fg5 21. Rgg1 Ri7 22. Af1 Cf9 23. Ade1 ab5 24. Ea3 Add8 25. h4 Cd9
+26. hxh5 gxh5 27. Ca0 Rb6 28. Cg0 Hce6 29. Rg6 hg5 30. Rh6 Ri8 31. Cxg7 gf5
+32. Rixi6 Rg8 33. Rg6 Hxg7 34. Rxb6 Hxi6 35. Rxi6 f4 36. Hd4 fxf3 37. exf3
+Kf9 38. Rf6+ Af8 39. Hc6 Ae8 40. Hxe7 Axe7 41. fe3 Ae8 42. Rc6 Cg9 43. b4
+Rg7 44. bxb5 cxb5 45. Ed5 Rd7 46. Exf8 Axf8 47. Kf0 Rg7 48. Ce0 Ef7 49. Rf6
+bc5 50. He4 cd5 51. Hd6 Cd9 52. Hxf7 Rxf7 53. Rd6 dc5 54. Cg0 Ae8 55. Cd0
+Ke9 56. Re6 Cf9 57. Ke0 c4 58. Re4 Rc7 59. Cf0 c3 60. dxc3 Rxc3 61. ef3 Rc7
+62. f4 Re7 63. Rxe7 Axe7 64. f5 Ae8 65. f6 Cd9 66. fe6 -- 67. Aff2 -- 68.
+Cd2
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 8경기"]
+[White "성보경"]
+[Black "김동학"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ed3
+Ke9 8. Ri4 Ed6 9. Rc4 Rc8 10. Hd2 Raa8 11. Rf4 Ade8 12. Rfa4 cb6 13. R4a1
+Cb5 14. Rc0 Cb9 15. Ke0 Exb3 16. Exb6 axb6 17. Rxa8 Rxa8 18. cxb3 Aff8 19.
+Afe1 ed6 20. ed3 Ra4 21. He3 gf6 22. Rc5 hg6 23. Rh5 Ee6 24. Cb4 bc6 25. d4
+Hi6 26. Ri5 Hh8 27. dc4 Hf7 28. Kf0 Cf9 29. gf3 Hh6 30. Cf4 Ra6 31. h4 f5
+32. Hxf5 Ra5 33. Ei3 Exh4 34. Ri7 gf6 35. Hxh6 de6 36. Ce0 Rh5 37. Hg8 Rh8
+38. Rg7 Ef7 39. Rg5 He5 40. Cxe5 exe5 41. Hxf6 Rh3 42. Rg3 Rh0+ 43. Rg0 Rh3
+44. Rg3 Rh0+ 45. Rg0 Rh6 46. Rg6 Rh3 47. Rg3 Rh0+ 48. Rg0 Rh6 49. Rg6 Rh1
+50. Cf2 cd6 51. Rg0 de6 52. Hg4 Rh4 53. Add1 e4 54. Ef1 Ri4 55. Cd0 Ei9 56.
+Hh6 Ri6 57. Hg4 ef4 58. fxf4 Cxf4+ 59. Hf2 Eg6 60. Hf3 ef6 61. Rg4 Cf7 62.
+He5 Cf9 63. Hc6 Ri2 64. Hxe7 Axe7 65. Ke0 Aee8 66. He4 Ri6 67. Ed4 f5 68.
+Hd6 Ed8 69. Hb7 Rb6 70. Re4 f4 71. Re3 Ef5 72. b4 fe4 73. Ra3 exd4 74. Ra7
+Eh2+ 75. Af1 Re6+ 76. Ae1 dxc4 77. Hc5 Re3
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 16강 2경기"]
+[White "배성철"]
+[Black "김학림"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. Ke0 ih6 3. Ri1 Ce7 4. Ade1 ab6 5. Cg2 Ra5 6. Hc2 ed6 7. cd3
+Hc7 8. gh3 Rg5 9. Cd2 Rc5 10. Hd4 Rc1 11. Hb3 Rb1 12. Cg2 Hge6 13. Hd2 Rc1
+14. Ce2 Ri5 15. ab3 ba6 16. Rg1 Ra5 17. ba3 Rb5 18. Rg4 Cd7 19. Hb3 Rb1 20.
+Ra2 Rb0 21. Rc2 Rf5 22. Ef3 ab6 23. Aff1 d5 24. Exh6 gxh6 25. Rxg9 Hf4 26.
+Cb2 Hxd3 27. Hxd3 Rxf1 28. Ce2 Rf7 29. Cxh6 Af8 30. Ch0 Rb1 31. Cd0 Cf9 32.
+Rg1 He6 33. Cxd5 Hf4 34. Ce4 Ee6 35. Cd0 Cc9 36. Rf2 Ec3+ 37. Ad1 Ke9 38.
+Cf0 Hxh3 39. ixh3 Rxf2 40. Exf2 Ade8 41. Eh5 Aff7 42. Exe7 Axe7 43. hg3 Cg9
+44. gf3 Cd9 45. He5 Cf9 46. Hg6 Kd9 47. Cd0+ Cd7 48. He5 Rb0 49. Hxd7 A7xd7
+50. Rg2 Rc0 51. Rd2 Ea0 52. Rd4 b5 53. Ae1
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 16강 4경기"]
+[White "정원직"]
+[Black "김진수"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ch4
+Ee6 8. g4 g5 9. gxg5 Rxg5 10. Ch1 Rg1+ 11. Cf1 fg6 12. ab3 Ef6 13. h4 Exd3
+14. hg4 g5 15. gxg5 Rxg5 16. Ra4 Ef6 17. Rf4 Af8 18. Rxf6 cd6 19. cd3 i5
+20. Hd4 Hd5 21. Rf5 Rig9 22. Ef3 Eg3 23. Rxi5 Rxi5 24. Rxi5 bc6 25. Exd6
+cxd6 26. Hf5 de6 27. Cxe6 Ce9 28. Ce2+ Kf9 29. d4 Hf6 30. Ec6 Ad8 31. He4
+Hd7 32. Ri9 Ei6 33. Hg7#
+{White mates} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 16강 1경기"]
+[White "김철"]
+[Black "김상범"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Hd7 4. Cbe2 Ri8 5. ed3 ab6 6. Ege3 Ra5 7. Exg6
+Rg5 8. Ed4 ef6 9. Hce3 Ed6 10. Cf2 Ee6 11. g4 Rb5 12. Ke0 Rh8 13. h4 f5 14.
+Ade1 Ke9 15. Aff1 Ade8 16. Cf0 fg5 17. a4 Kd9 18. a5 Rc5 19. gf4 Ce9 20.
+Ra4 Cc9 21. Ea3 g4 22. fxg4 Ce7 23. Ed5 Ce4 24. Exg7 Cxa4 25. Rxi6 Ca7 26.
+Ee4 Eg9 27. Ri9 Ce9 28. Ch2 Rg8 29. Eh6 Aff8 30. Ri3 Rxa5 31. Exe8 Axe8 32.
+Ce2 Cc9 33. Hf4 Rg7 34. Aff2 Ce7 35. Hg6 Cc7 36. He5 Ce9 37. Hxd7 Rxd7 38.
+gf4 Rg5 39. hg4 Rh5 40. Cd0 Rh6 41. g5 Ri6 42. Rh3 Ad8 43. Eg6 Cc9 44. Exd8
+Ce7 45. Eg6 Ke8 46. Rh7 Ri8 47. f5 Rf8 48. Cf0 Kd9 49. Rxe7 Rxe7 50. Cxe7
+Cxc3 51. dxc3 Re8 52. Cd2+ Eb9 53. Hd5+ cd6 54. Hf6+ dc6 55. cd3+ cd6 56.
+de3+ de6 57. Hxe8 Kxe8 58. Ce4+ Ee7 59. f6 e5 60. Ce2 Eb5 61. Cf0 Exe3 62.
+gf5
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 16강 2경기"]
+[White "김건우"]
+[Black "조병운"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. g4 Hg7 6. Af1 Ra8 7. cd3 ab6
+8. Ea3 ef6 9. Ad1 c5 10. b4 Ke9 11. Hf2 Rai8 12. Rac0 Hce6 13. Hd4 Rxi3 14.
+Rxi3 Rxi3 15. Ed6 Hxd4 16. dxd4 Rxe3 17. Rxc5 Rxa3 18. Rxc9 Ae8 19. Rc5 Cf7
+20. Rxh5 bc6 21. Eb9 Add8 22. Rh8 Cd9 23. Rg8 He6 24. bc4 Rb3 25. gh4 Rxb9
+26. Ch9+ Cf9 27. Rxg9 Rb3 28. de4 c5 29. cd4 Rg3 30. Ke0 Re3 31. Ch2 Hc7
+32. Ade1 Hb5 33. Kf0 Rg3 34. Ce0 Rg2 35. Ch5 Ha3 36. e5 Kd9 37. Cxc5 Ce9
+38. de4 Hb1 39. Ch5 g5 40. Ch3 Cf3 41. Ch6 Hd2 42. Cd6+ Ad7 43. Rg8 Cxe4
+44. Rxd8+ Ke9 45. Rd9#
+{White mates} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 16강 3경기"]
+[White "하성호"]
+[Black "박준석"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. ab3 Ce7 3. Ra4 c5 4. Kf1 Hf7 5. Ef3 Ef6 6. Afe1 Exh3 7. gxh3
+ef6 8. Hf2 a5 9. Rai4 ab5 10. Hc2 Ke9 11. Cbe2 Ade8 12. Ce0 He6 13. cd3 Ce5
+14. e4 Cee7 15. d4 Ra7 16. Rxi6 Rxi6 17. Rxi6 Rc7 18. Ri5 Cb7 19. b4 bxb4
+20. Hxb4 c4 21. Hc2 c3 22. He3 Hed8 23. Ra5 Cbd7 24. e5 Cd9 25. Hd5 Rc6 26.
+Kf0 Aff8 27. Ee3 Kf9 28. h4 Ra6 29. Rc5 Rc6 30. Rb5 Ea6 31. Hb4 Rc7 32. de4
+Rc4 33. Eg0 Ce7 34. hg4 Ke9 35. gf4 Hh6 36. Rb6 Ec9 37. Add1 Hi4 38. Cd2
+Hg5 39. Ei1 Cf9 40. Cd0 Hi4 41. ed4 Rc5 42. Hd5 Rc6 43. Rxc6 Hxc6 44. Hxe7
+Hxe7 45. de4 Ad9 46. Ei3 Afe8 47. Ce3 Hg5 48. Ke0 Hi4 49. Eg4 g5 50. Ei1
+Cd7 51. Ef1 Kf9 52. Hh3 gf5 53. fxf5 fxf5 54. Cf0 Cf7 55. exf5 Hg3 56. f6
+Cc7 57. fe6+ Cf7 58. exe7 Axe7 59. Hg5 Ade8 60. e5 cd3 61. Ch3 Hh1 62. Cf6
+Ke9 63. Hi4 Cd9 64. Hh2 Cxd1 65. Cxh1 Cd9 66. Cf0 Ea6 67. Eh4 de3 68. Cd1
+Ec3 69. Hg4 ed3 70. Hf2 de3 71. He4 ed3 72. Hc5 A7d7 73. Kd0 Add8 74. Cc0
+d2 75. Axd2 Cxd2 76. Ce0 Cd9 77. Ef3 Kf9 78. Eh6+ Kf8 79. He4 Ea6 80. Hg5
+Ed4 81. He6+ Ae7 82. Cxd8 Eg2+ 83. Ke1 -- 84. Hc7
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 16강 4경기"]
+[White "임대빈"]
+[Black "성보경"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ ed6 5. Hd2 Ce7 6. Ee3 Ee6 7. Ra4
+Kd8 8. Af1 Ade8 9. Kf0 Ce9 10. Ci2 Rg8 11. Cif2 ab6 12. Rxa9 Cxa9 13. ih3
+Ce9 14. Ade1 Kd9 15. Cd0 Ad8 16. c4 Hhf8 17. Ed3 Rg9 18. Ri5 Ri9 19. Ra5
+Afe8 20. Ke0 Ri4 21. Cb4 Ri2 22. Cb2 Cb7 23. g4 Ri6 24. h4 Cg7 25. Hf4 Cb7
+26. cd4 Ch7 27. d5 dxd5 28. Hxd5 c5 29. Rxc5 Ed6 30. Rc4 Af7 31. Cxb6 Exh4
+32. gxh4 Ri5 33. Hc0 Ri3 34. Hd2 Ri5 35. Hc0 Ke8 36. Cb2 Kf9 37. Kf0 Afe8
+38. hg4 Exg4 39. Cb5 Ri3 40. Rxg4 Rxf3 41. Hd2 Rf7 42. Cf2 Cg9 43. Ri4 Cd9
+44. Hf6 gxf6 45. Cxf7+ Axf7 46. Cb2 hg6 47. Eb6 Ch9 48. Ri9 Ce7 49. Exg6
+fxg6 50. Cf2 gf6 51. Cxf7+ Ke9 52. Cf2 Cb7 53. Ee4 Cf7 54. Ke0 Ae8 55. bc3
+Cd9 56. Cd0 Hc5 57. c4 Hd7 58. Cf0 Hh7 59. Ri7 Hg5 60. Rg7 He6 61. Eh6 Hef8
+62. Rg8 fg6 63. Ef3 Cxd2 64. Axd2 He5 65. cd4 Cd9 66. de4 Hd7 67. Afe1 Cf9
+68. Cxf8 Hxf8 69. Ei5 gf6 70. e5
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 8강 2경기"]
+[White "정국봉"]
+[Black "정원직"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Hd2 Ed6 7. Ci2
+Rh9 8. Cbe2 Rh8 9. Ri1 Ra8 10. Ke0 cd5 11. c4 Ke9 12. Ci0 Ch9 13. ih3 Ei6
+14. Ed3 gf6 15. Exf6 exf6 16. Ade1 ab6 17. Rxa8 Exa8 18. Aff1 Afe8 19. Ri4
+f5 20. Cd0 de5 21. Rg4 Rh7 22. Ch2 Add8 23. Ch4 Hh5 24. Hi3 Rf7 25. Hxh5
+hxh5 26. Ch2 fg5 27. Ri4 Rf6 28. Ci0 Exg3 29. hxg3 Cd9 30. Cd0 gf5 31. Cb2
+hg5 32. Ce2 Af7 33. cd4 Ade8 34. b4 bc6 35. bc4 Rh6 36. Hb3 Kf9 37. Ri8 cd6
+38. c5 Hc9 39. Eb5 Ce9 40. Cf2 Aef8 41. fe3 Ke8 42. e4 Ce6 43. Cd0 exe4 44.
+dxe4 Hb7 45. Ri9 Af9 46. Ri8+ A9f8 47. c6 Kf9 48. c7 Hc5 49. Hd2 A8e8 50.
+Cxd6 Hd3 51. ed4 Hf4 52. gf3 Ce9 53. Hc4 Ec5 54. Cd0 Hh5 55. d5 Ea8 56. Ee3
+Cd3 57. d6 Ec5 58. d7 Aef8 59. d8 Rd6 60. c8 Cxf3 61. d9 Rxd9 62. Ec6 Rd4
+63. Hd2 Ra4 64. Exe9 Exe2 65. Ec6 Ke8 66. c8d8+ Ke9 67. Ri6 Ra7 68. Axe2
+Ae7 69. Ri9+ Af9 70. Ri4 Cf7 71. Aee1 Afe8 72. d8xe8+ Kxe8 73. Ri8+ Kf9 74.
+Ri9+ Kf8 75. Ri8+ Kf9 76. Ee3 Hg7 77. Ri9+ Kf8
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 준결승 2회전"]
+[White "정국봉"]
+[Black "박영완"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Hf2 Hc7 4. Che2 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+Ri7 8. Ee3 c5 9. Cd2 Ke9 10. Ke0 Ade8 11. Afe1 f5 12. Cf0 g5 13. Rh4 Aff8
+14. Cxe6 Exe6 15. Rhi4 ab6 16. Ee2 Cf9 17. Rxi6 Rg7 18. R0i4 Cd9 19. g4 Hd5
+20. gxg5 Rxg5 21. R6i5 Rg1 22. Rxf5 Ra2 23. Eh5 Hf6 24. Rg4 Rxg4 25. Hxg4
+Hxh5 26. Hce3 Hg7 27. Rxc5 Ea6 28. Hi5 b5 29. Rc7 Cxe3 30. dxe3 Hf5 31. cd3
+Rb2 32. Rc6 Eac9 33. bc3 He7 34. Rxc9
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 준결승 1회전"]
+[White "김철"]
+[Black "임대빈"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hc7 3. Ce2 Ri8 4. Hc2 Ce7 5. ef3 Hf7 6. Cd2 ed6 7. Ke0
+Ee6 8. Afe1 Ad8 9. Cf0 gf6 10. Hge3 Kd9 11. ih3 Rxi0 12. Cxi0 Afe8 13. Ra4
+Ce9 14. Cf0 ab6 15. Rg4 Cd7 16. Ea3 c5 17. c4 cxc4 18. Rxc4 Ra7 19. Add1
+Cc9 20. Ri4 Ce9 21. b4 Cf9 22. Ri5 Ca9 23. Hc4 bc6 24. b5 Ra8 25. Ee3 Ee7
+26. f4 Ec3 27. Ca2 Rc8 28. Ha5 fg6 29. Cc0 Ee6 30. fe4 g5 31. Ce2 Ra8 32.
+e5 Cxa5 33. bxa5 Rxa5 34. exe6 Hxe6 35. Ca2 Rf5 36. Ri4 c5 37. Ra4 d5 38.
+Cf0 Rf4 39. Ra6 Hd4 40. Hb4 Re4 41. gf3 Eb5 42. Ca4 Re7 43. hg3 Rc7 44. Cc0
+Rd7 45. Cf0 Rc7 46. Exd5 cxd5 47. Hxd5 Rc5 48. Hf4 gf5 49. Hh3 fe5 50. Cg4
+e4 51. Exb5 Rxb5 52. Cxf7+ Axf7 53. Rxh6 Rb0+ 54. Add0 Rb2 55. Hg5 Afe8 56.
+Hxe4
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 3회전"]
+[White "김철"]
+[Black "정국봉"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hd7 3. Hc2 Cbe7 4. Cbe2 Ra7 5. ab3 ef6 6. ed3 Ee6 7. Ra4
+c5 8. Ece3 g5 9. Rh4 ab6 10. Ke0 Af8 11. Afe1 Cf7 12. Rh8 Rg9 13. Ch7 ih6
+14. Rii8 Ce5 15. Rg8 Rxg8 16. Rxg8 Hf5 17. gf3 Ra0 18. f4 Rc0 19. Ha3 Rb0
+20. d4 Ca5 21. fxf5 gxf5 22. Hb1 Ra0 23. Ch4 Ce5 24. Ch8 fg6 25. Rxg6+ Exh8
+26. Rxh6 Kd8 27. de4 Cg5 28. Ei3 Ade8 29. Rxh8 Cg1 30. Hh4 Cf9 31. Rh5 f4
+32. exf4 Cxf4 33. Hd2 Cf9 34. Rg5 Cc1 35. Hg6 Ra4 36. He5 Hxe5 37. Cxe5 Kd9
+38. Ce2 Ee7 39. Rg6 b5 40. Cc2 Ci1 41. Eig0 Ca1 42. Cf2 Caa9 43. Add1 Ce9
+44. Cd0 Cd7 45. Cf0 Ra1 46. cd3 cd5 47. bc3 bc5 48. Kd0 de5 49. Eh5 c4 50.
+Exe7 cxc3 51. dxc3 Axe7 52. Rd6 e4 53. hg3 Ra3 54. cd3 Ke8 55. gf3 Cxd3 56.
+Re6 ed4 57. Ee3 Cd8 58. Ec6 Rc3 59. Hf1 d3 60. Rd6 Ad7 61. Rf6 Ce7 62. fe3
+dxe3 63. Exe3 Rc5 64. Re6 Kd9 65. Ke0 Afe8 66. Add2 Rc3 67. Ade2 Ce9 68.
+Rc6 Rb3 69. Eg6 Cf8 70. Cd0+ Ad8 71. Re6 Rd3 72. He3 A8e8 73. Rc6 Aed8 74.
+Re6 A8e8 75. Rf6 Cc9 76. Rc6 Cf9 77. Rc3 Rd6 78. Hf5 Rd5 79. Hg7 Ke9 80.
+Hxf9 Rxd0+ 81. Kxd0 Kxf9 82. Ke0
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 4회전"]
+[White "정국봉"]
+[Black "김철"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Hf2 Hc7 4. Che2 ef6 5. ih3 Hge6 6. ed3 c5 7. Ee3
+f5 8. Cd2 Ce5 9. Ri2 Ci7 10. Rh2 Ca7 11. Rb0 ih6 12. Ke0 ab6 13. Rb1 Ei6
+14. Rg1 Ke9 15. Afe1 Afe8 16. Cf0 g5 17. g4 h5 18. h4 hxh4 19. gxg5 fxg5
+20. Rxh4 Ef8 21. Cf6 gf5 22. Cxb6 Cf7 23. Cb1 Cf9 24. Cf1 Ri5 25. Rg9 Ce7
+26. Rh7 Ra4 27. Hh3 Ri0 28. Hg1 Ri8 29. Ec6 Ce5 30. Ef3 f4 31. Exc5 Ra6 32.
+Cf6 Ra7 33. He3 Ri6 34. Cf1 Add8 35. Exf8 Axf8 36. Hd5 Ef7 37. Rh5 Ri5 38.
+Rxi5 Exi5 39. Hxc7 Rxc7 40. Rg6 Rc6 41. Hh3 Eg8 42. Hg5
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 5회전"]
+[White "김철"]
+[Black "정국봉"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hg7 3. Ce2 Ra8 4. Hg2 Ce7 5. ed3 ef6 6. Cf2 Ee6 7. He3
+Hd7 8. Ke0 Af8 9. Ade1 cd6 10. Cd0 Ad8 11. Ri4 Rc9 12. ab3 Rxa0 13. Cxa0
+Cxb3 14. cxb3 Rxc0+ 15. Cd0 Kf9 16. Aff1 Ade8 17. Ra4 Ce9 18. g4 ih6 19. h4
+dc6 20. b4 Hc5 21. Ra3 Hxd3 22. Rxd3 Exb4 23. Kf0 He6 24. Ce0 Hc5 25. Ra3
+Ee6 26. Hd1 Ed6 27. Hge3 Eb3 28. Cf2 Eg3 29. Hb2 Rb0 30. Hed1 Exd1 31. Hxd1
+Rc0 32. Ra8 He6 33. Rxe8+ Kxe8 34. Ad0+ Hc5 35. Cxc0 Exd0 36. gf4 Hd3 37.
+hg4 cd6 38. Ei3 fe6 39. fe4 bc6 40. gf4 g5 41. Ce0 h5 42. Ae1 Ea2 43. Ce3
+h4 44. Hc3 Ec5 45. Cd0 Ce7 46. Ad2 h3 47. Eg0 hg3 48. Cxd3 gf3 49. Ci3 g4
+50. fxg4 Cxe4 51. Cd0 Ce7 52. Ae1 e5 53. gf4 d5 54. Cd3 d4 55. Ca3 dc4 56.
+Hd1 Ef7 57. Hb2 cd4 58. Hd1 dc4 59. Hb2 cd4 60. Ad1 e4 61. fxe4 dxe4 62.
+Ae1 c5 63. Hd3 ed4 64. Cxd4 Exd4 65. Cxf3 Ef7 66. Hf4 cd5 67. Cf6 de5 68.
+Hg6 Ei9 69. Hi5 Af7 70. Kf1 e4 71. Cf0 Kd9 72. Ci0 Ci7 73. Hh7
+{Black resigns} 1-0
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 5경기"]
+[White "김무동"]
+[Black "정국봉"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Hd2 Ce7 4. Cbe2 ef6 5. Ed3 Hd7 6. Ad1 Ee6 7. c4
+Ed6 8. Cf2 Ci7 9. Ei3 Cbe7 10. Cd0 ih6 11. Eg0 hi6 12. Ei3 Ri8 13. Ke0 ih6
+14. Eg0 Ad8 15. Afe1 Ci9 16. Ei3 Ri5 17. Rf0 Ke9 18. Rf4 Afe8 19. Rh4 Cd9
+20. Exf6 Rf5 21. He4 h5 22. Ri4 gxf6 23. h4 Re5 24. hg4 fg6 25. Eg0 Rea5
+26. gf4 Rxa3 27. Rxa3 Rxa3 28. gf3 g5 29. fg4 gf5 30. Hf6 Ra4 31. cd4 Eb3
+32. Cf0 Rxd4 33. gf4 hg5 34. Ei3 Af8 35. fe4 Ra4 36. Rh4 Ade8 37. Rh6 Exe1
+38. Kxe1 Ra1 39. Cd2 Eb4 40. Hf0 Exe2 41. Hxe2 Hc5 42. Hd5 Hb3 43. Hxe7
+Hxd2 44. Kxd2 Axe7 45. Ke1 Aee8 46. Rg6 Hf9 47. Hc3 Hh8 48. Rg8 Hi6 49. ed3
+Hh4 50. Exf5 Hxf3+ 51. Ke2 Ra0 52. Ae1 Hg1+ 53. Af1 Re0+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 6경기"]
+[White "이동준"]
+[Black "박선양"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 ab6 3. Hc2 Ra8 4. Cbe2 Hd7 5. ed3+ Cbe7 6. Cf2 ef6 7. He3
+Ee6 8. Ke0 Cf7 9. Ade1 Ke9 10. Cd0 Ade8 11. Aff1 Cd9 12. g4 Aff8 13. h4 ih6
+14. Rxi9+ Cxi9 15. d4 Cd9 16. c4 c5 17. Ra2 cxc4 18. dxc4 Rc8 19. ab3 Ed6
+20. Ra5 Ea8 21. h5 hxh5 22. Rxh5 bc6 23. b4 c5 24. Ea3 cxc4 25. bxc4 Kf9
+26. Cf0 Hb6 27. Rb5 Hd7 28. g5 Ke9 29. gxg6 fxg6 30. Ei3 gf6 31. Rg5 Hi6
+32. Rh5 Hg7 33. Rg5 Hi6 34. Ri5 Hg7 35. Rg5 Hi6 36. Rb5 Hh4 37. Hxh4 Cxe3
+38. Cxf6 Rxc4 39. Hg2 Ce7 40. Cf0 Rc3 41. Ed5 Ec5 42. Ef5 Rc2 43. Rb2 Rxb2
+44. Exb2 Exe2 45. Cf2 Eg5 46. Kf0 Hc5 47. Ed2 Hd3 48. Ed5 Cf9 49. Eg4 Cd9
+50. Ea7 Cg9 51. Ec4 Cxg4 52. Exe7 Axe7 53. Cd0 Cg9 54. He3 Aee8 55. Ad2 Cd9
+56. Cxd3 Exd3 57. Ke1 Eh4 58. Af2 Ef7 59. Hd5
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 32강 7경기"]
+[White "양승태"]
+[Black "정원직"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+ed6 8. Cb1 dxc6 9. Ci1 Rh9 10. ih3 Ri9 11. hi3 Rh9 12. Ed3 Ee6 13. He3 Ce5
+14. Hd2 Cf7 15. Rh0 gf6 16. Ra4 ab6 17. Rg4 hg6 18. Rxh9 Hxh9 19. c4 cxc4
+20. Exb6 c5 21. Rh4 Hf8 22. Ci8+ Ke9 23. Exd9 Kxd9 24. Ci1 Ae8 25. Cd1 Ke9
+26. Ke0 Cd9 27. Afe1 Ce7 28. ih3 c3 29. bxc3 Exc3 30. Kf0 He6 31. Hb1 Cf9
+32. Hc2 Ef5 33. Cf1 Ra6 34. Ce0 Rb6 35. Hb4 Cd9 36. Ce2 Hd4 37. Hd3 c4 38.
+Ce0 Cf9 39. f4 Ec7 40. Hf2 Hc5 41. Hd2 c3 42. fe4 Exe4 43. Hdxe4 Hxe4 44.
+Hxe4 Hb5 45. Hd2 Hd6 46. Ra4 Rc6 47. He4 Hxe4 48. Rxe4 Cf5 49. Re5 Cf7 50.
+g4 Kf9 51. h4 Rc4 52. Ri5 Ce9 53. Ri8 Af8 54. Ri5 Rd4 55. Re5 Cg9 56. Ri5
+Ce9 57. g5 gxg5 58. Rxg5 cd3 59. h5 d2 60. Re5 d2xe1+ 61. Axe1 Rd9 62. h6
+Ae8 63. Ri5 Rd7 64. Ri7 Cf5 65. Ri5 Cf8 66. Rh5 Rg7 67. h7 Rg1 68. Ri5 --
+69. Ri7 Cf5 70. hg7 Rg6 71. Ri5 Cf8
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 3경기"]
+[White "최진호"]
+[Black "조병운"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. Ra4 Hg7 6. Rc4 ab6 7. Ea3 ef6
+8. Exc6 bxc6 9. Rxc6 Ra7 10. Ri1 Ece6 11. ih3 Rxi1+ 12. Hxi1 hg5 13. Hg2
+Ce9 14. Rc4 Cf7 15. Rh4 Af8 16. Ke0 Ei6 17. Afe1 Kf9 18. Cf2 Ade8 19. Add1
+Ra5 20. Cd0 gh5 21. Rc4 Ch7 22. Cg0 Cg9 23. Ri4 Ce7 24. cd3 f5 25. Rc4 Ci7
+26. Ha3 Cc9 27. Rd4 f4 28. Eh0 Ra6 29. dc3 Ci4 30. Rd3 Exc3 31. gf3 fxf3
+32. exf3 Ci7 33. h4 hg5 34. f4 Ce7 35. hg4 Hge6 36. gxg5 gxg5 37. Hb1 Rb6
+38. Hd2 Ea6 39. Ri3 Hd4 40. Rd3 Rh6 41. fe4 Hde6 42. Rf3 Cg9 43. Rf2 Cxg2
+44. Rxg2 Rxh0 45. Kd0 Ke9 46. Ce0 Rh5 47. Ce2 Rh0 48. Ce0 Rh5 49. Cb0 Kd9
+50. Cc0 Rh3 51. Rf2 Rd3 52. Ri2 Eg3 53. Ri4 Exd1 54. Axd1 Hd5 55. Ce0 Hdc7
+56. Cb6 Hc5 57. b4 H7e6 58. Ae1 Cxe4 59. b5 Ec3 60. Ce2 Ea0 61. Cb0 Ce7 62.
+bxc5 Hxc5 63. Rc4 Hd7 64. Ra4 Ec3 65. Ra9+ Kd8 66. Ra3 Hc5 67. Cf0 He4 68.
+Ce0 Cxe1 69. Kxe1 Hg3 70. Hb1 Rf3 71. Hxc3 Rf1+ 72. Kd0
+{빅장}
+72... Ad7 73. Cxf8 Rf0 74. Ra1 Rd2+ 75. Rd1 Hf1#
+{Black mates} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 5경기"]
+[White "김정남"]
+[Black "박준석"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Ca7 5. Ea3 Che7 6. Ri4 c5 7. Ef3
+ef6 8. ed3 Hge6 9. Rc0 Rb9 10. Hf2 g5 11. Rh4 Ri8 12. Rb4 ab6 13. Rh4 f5
+14. Exc5+ Hxc5 15. c4 H5e6 16. Hd4 Cd7 17. Hxe6 Exe6 18. c5 Rb7 19. Rh7
+Exg3 20. He4 fe5 21. Hxg5 ef5 22. Rf7+ Kd8 23. Rxf5 Rf8 24. Rxf8+ Axf8 25.
+hxg3 Ade8 26. Hxi6 Cf9 27. Hg5 Kd9 28. d4 Ee6 29. gh3 Cc9 30. d5 Ra7 31.
+Rc4 Ke9 32. Ch6 ba6 33. Af1 a5 34. Ch0 Rb7 35. b4 ab5 36. Hxe6 bxb4 37. Ri4
+Hxe6 38. d6 Hg5 39. Rg4 Hf7 40. de6 Ca7 41. ef6+ Kd9 42. Rd4+ Hd8 43. c6 b3
+44. Ec0 Cd7 45. Ee3 Ce9 46. Eh5 bc3 47. Rc4 Rb2 48. Af2 cd3 49. Rd4 d2+ 50.
+Rxd2 Rxd2+ 51. Kxd2 Cxd0 52. Ke1 Cxf2 53. Kxf2 Hxc6 54. Ch2 He5 55. hg3
+Hd3+ 56. Kf1 Cc9 57. Kf0 Cf9 58. Cd0+ Hf4 59. g4 Cxf6+ 60. Ke1 He6 61. Ef2
+Cf9 62. Ce2 Cd7 63. Ed5 Hc5 64. g5 Hd3+ 65. Ke0 Kd8 66. Ea3 Aff7 67. gf5
+Kd9 68. f6 Aff8 69. Ec6 He5 70. Ee3 Hg4 71. Ec6 Hxf6 72. Ea9 Cf9 73. Ke1
+Cxa9 74. Kd1+
+{빅장}
+74... Ad8 75. Ke1+ Hd7
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 6경기"]
+[White "김준호"]
+[Black "하성호"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Hf2 Cc7 3. Ch7 Ee7 4. ab3 Cc5 5. Cg2 ef6 6. ed3 Ee6 7. Ca2
+ab6 8. Ea3 Rc9 9. Ci2 ih6 10. Cxd7 Ke9 11. Ef3 Cc7 12. Hbd1 Hf8 13. Cdd2
+Afe8 14. Ch2 Add8 15. Exh6 gxh6 16. Cxh6 Exg3 17. hxg3 fg6 18. Cxc6 bxc6
+19. Exc6 Cc5 20. Ra9 Rxa9 21. Exa9 Cc1+ 22. Ke0 Cc9 23. He3 Ri5 24. d4 Cf9
+25. Ke1 Cxa9 26. Hd5 Kf9 27. g4 Cg9 28. gf4 Ce9 29. Kd1 Cf7 30. Ade1 Cd9
+31. cd3 Ri7 32. bc3 Eb9 33. fe4 He6 34. Kd0 Hg5 35. Hf4 gf6 36. H4h3 Hxh3
+37. Hxh3 Rh7 38. Hf2 Ri7 39. de3 Af8 40. cd3 f5 41. Hh3 Cd6 42. Ad1 Rh7 43.
+Hg1 Ra7 44. He2 Cxd3+ 45. exd3 Cxe2 46. de3 Ra3 47. Ade1 Rxe3 48. Axe2 Rxe2
+49. Ae1 Ra2 50. Ri1 Ra0+ 51. Kd1 Ed6 52. Rf1 Eb3 53. Rf2 Ra1+ 54. Kd2 fg5
+55. Ce2 g4 56. Ad1 g3 57. -- Rc1 58. Ri2 Afe8 59. Ce5 Rc2#
+{Black mates} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 32강 7경기"]
+[White "신한은"]
+[Black "임대빈"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 ef6 5. Rb4 Ra5 6. ed3 Hf7 7. Ee3
+Ee6 8. Rbi4 i5 9. Rg4 g5 10. Rh4 Kf8 11. Hf2 Afe8 12. Rc4 Ce9 13. Rh4 Cee7
+14. Ef3 f5 15. g4 Ef6 16. gxg5 fxg5 17. Rf4 Ei4 18. h4 gf5 19. Rg4 Exh4 20.
+Rxh4 Ri6 21. Rg0 fg5 22. Af1 ih5 23. Rc4 Exf2 24. Rg2 Kf9 25. Rxf2 Ce9 26.
+Ca2 Rb5 27. Che2 He6 28. Cd2 Hed8 29. Cf0 Af8 30. Ke0 Ade8 31. Afe1 Rf5 32.
+Ra4 Cg9 33. c4 cd6 34. Hd4 Rf4 35. c5 bc6 36. cxc6 d5 37. Hb3 Rxa4 38. axa4
+Hxc6 39. Cd2 Hce5 40. d4 Hg4 41. Rf1 Hxe3 42. dxd5 Hxd5 43. Ec5 Cd7 44. Cf0
+Ce9 45. Rf3 Ri4 46. a5 Rb4 47. Add1 Ae7 48. Add2 h4 49. Cd0 Hf4 50. Cf0 hg4
+51. Cb0 Rc4 52. Cf0 Rb4 53. Hc1 Rc4 54. Hb3 Hd5 55. Cd0 Rc3 56. Rxc3 Hxc3
+57. Exf7 Cxf7 58. Cf0 gf4 59. Hc5 f3 60. Cd0 Aee8 61. a6 gf5 62. ab6 He4
+63. Hxe4 Cxe4 64. Cf0 fe3 65. Cb2 f4 66. bc6 f3 67. cd6 ed3+ 68. Ae2 Cf2
+69. de6 Ke9 70. -- Cc2 71. Kd0 fe3 72. A2f2 Aff9
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 16강 1경기"]
+[White "고병수"]
+[Black "박영완"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. ed3 ef6 5. He3 c5 6. Hc2 Hc7 7. Cd2 Rh9
+8. Ri4 Ece6 9. Rf4 Cd7 10. c4 Rh5 11. d4 Ad8 12. Rb0 b5 13. cxc5 Rxc5 14.
+dc4 Rh5 15. Hd4 Ra6 16. Ke0 Ke9 17. Ade1 Afe8 18. Hdc2 Cf9 19. Rd4 Exg3+
+20. hxg3 Hge6 21. Rd3 Hf4 22. Ce4 Re5 23. cd4 Cd9 24. gf3 Hh3 25. Ce2 Rg5
+26. Rc3 bc5 27. Ei3 Hg1+ 28. Aff1 Hxf3 29. Rb8 Ee6 30. Rc8 Add7 31. Cf0 Hh4
+32. Rb3 ih6 33. Cd0 Ri5 34. Eg0 Hi2 35. Rb9 Ra8 36. Rxa8 Hxb9 37. Rc8 Hg3
+38. Ca2 Hc7 39. Aff2 cd5 40. dc4 f5 41. ab3 f4 42. Ea3 f3 43. Afe2 Hi2 44.
+Cf0 Hg1+ 45. Kd0 fxe3 46. A2d2 dc5 47. cd4 cd5 48. dc4 ed3 49. Add1 Eg3 50.
+Ce2 Ri2 51. Add2 dxd2 52. Cxd2 Ri0 53. Rxc7 Rxg0+ 54. Kd1 Hxe2 55. Rc9 Hd4+
+56. Ae2 Rg1+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 16강 3경기"]
+[White "박선양"]
+[Black "정국봉"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ed3 Ri5 6. Ke0 Ee6 7. Ri1
+Hd7 8. He3 Ke9 9. Hd2 Afe8 10. Ria1 a5 11. c4 Kf9 12. ih3 Ri0 13. Rxa5 Rxa5
+14. Rxa5 Rxg0 15. Ri5 Cxe3 16. Ri9+ Kf8 17. Ae1 Exg3+ 18. Kd0 Ei6 19. fxe3
+Rg4 20. b4 Ee7 21. Ce0 Exc4 22. bxc4 Cf7 23. Cf2 Rxc4 24. Eb6 Rb4 25. Exd9
+Rb9 26. Hf3 Rxd9 27. Ri7 Rg9 28. Rh7 de6 29. Rh8+ Kf9 30. Ad1 cd6 31. ed3
+ef6 32. He5 Cf5 33. Cxe8 de6 34. Hc6 Hxe8 35. Ke1 Ke9 36. Ha7 Hb6 37. Cd0
+Rg7 38. Hc6 ed6 39. Hd4 Re7+ 40. Kd2 Cf9 41. Ade1 Cd9 42. Hb5 d5 43. Hc3 d4
+44. Kd1 dc4+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 8강 1경기"]
+[White "배성철"]
+[Black "박영완"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "185"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. Ke0 Ce7 3. Ade1 Hc7 4. cd3 ef6 5. Cg2 Hge6 6. Hc2 c5 7. Ri1
+ab6 8. Cd2 Cd7 9. Hd4 cd5 10. Hb3 Ea6 11. Ra2 b5 12. Rc2 bc5 13. Ca2 Ke9
+14. ih3 Afe8 15. Chd2 Cf9 16. Kd0 Add8 17. gf3 Cc9 18. Rb2 Cb7 19. Ca4 Rb9
+20. Ra2 c4 21. Ch4 cb4 22. Ha1 Ce7 23. Rb2 Cb7 24. Ra2 bc4 25. Ee2 Ci7 26.
+Rg1 Rb1 27. Ch1 Cb7 28. Ad1 ih6 29. Cf1 Rb5 30. Ke0 Cg7 31. Rh1 Ca7 32. Cd0
+Ri5 33. f4 d4 34. fe4 dxd3 35. exd3 Ce7 36. Afe1 cd4 37. de3 Cf9 38. hg3
+Ei6 39. Hg4 Ri2 40. e5 Exg3 41. exe6 Hxe6 42. Rg1 g5 43. Rxg3 gxg4 44. Rxg4
+f5 45. Rg9 Hf4 46. ef3 Hd3 47. Ee3 Rb0 48. Exb0 Rxa2 49. Exd3 dxd3 50. Hc0
+dxe3 51. fxe3 Rxa3 52. Rg3 Cd9 53. Hd2 Ra0 54. Rf3 Ec3 55. Cxf5 Cxd2 56.
+Cf2 Cd9 57. Kf0 Ra6 58. Ch0 Rg6 59. Ce0 Ee6 60. Rf4 Cf9 61. e4 h5 62. Af1
+Ec3 63. Afe1 Ee6 64. Rf5 Rg5 65. Rf6 Cxe4 66. Rxe6 Ce7 67. Af1 Add7 68. Rf6
+h4 69. Ke1 Cd9 70. Cd0 Rb5 71. Rf4 h3 72. Rf3 Rh5 73. Ce2 Rh7 74. Re3 Kf9
+75. Cd2 -- 76. Cf0+ Ke9 77. Kd0 Cd6+ 78. Ke0 Cd9 79. Afe1 -- 80. Cd0 Kf9
+81. Cd3 h2 82. Cd0 -- 83. Cf0 Ke9 84. Cd0 Kf9 85. Af2 -- 86. Cf0+ Ke9 87.
+Rg3 -- 88. Cd0 -- 89. Cd2 h1 90. Cd0 -- 91. Re3 Kf9 92. Rg3 Ke9 93. Ad2
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 8강 1경기"]
+[White "김건우"]
+[Black "김철"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 f5 7. He3
+Ce4 8. Ra4 f4 9. Ri1 c5 10. Eh0 a5 11. Ra2 g5 12. Hf2 Cee7 13. b4 Cd7 14.
+bc4 Rb9 15. Ke0 ab5 16. cxc5 bxc5 17. Afe1 Ea6 18. Rc2 Ad8 19. Kf0 Rb1 20.
+Add1 Ke9 21. Ce0 Afe8 22. Af1 Cf9 23. Ade1 i5 24. Hed1 Ri6 25. Ee3 fe4 26.
+Eh1 ef4 27. Cg0 g4 28. de3 Exc3 29. Rxc3 Hd5 30. Ra3 Rc1 31. Ce2 i4 32.
+gxg4 fxg4 33. Cxg9 Rg6 34. Cxe6 Rc0+ 35. Ae0 gh4 36. Ke1 Rxe6 37. Kf0 Rg6
+38. Cg3 Rxe0#
+{Black mates} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 8강 2경기"]
+[White "하성호"]
+[Black "임대빈"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Kd1 ef6 5. Ca2 Ea6 6. Hc2 Hf7 7. a4 Ra8
+8. cd3 Rc8 9. a5 Ec9 10. Ea3 cd6 11. Rb0 Rb8 12. Ef3 fe6 13. Ri4 Ce9 14.
+Rib4 Ha8 15. Rc4 ih6 16. Che2 Kf8 17. Ade1 Afe8 18. Cb2 Rd8 19. Cd2 Rb8 20.
+Aff1 Kf9 21. Ca4 Ef6 22. Cb2 Rd8 23. Cd4 Cd7 24. Rc5 e5 25. Cdd2 g5 26. Rb1
+hg6 27. Cb0 Ri4 28. Cxb6 Hxb6 29. Rxb6 Rf4 30. Kd0 ed5 31. Exd5 Cxd5 32. d4
+Ch5 33. Rc7 Ri4 34. e4 Ri0+ 35. Kd1 d5 36. Cxd5 Ra8 37. Rb5 Rc0 38. Rc3 Ee6
+39. h4 Ch2 40. Cd2 Exg3 41. h5 Ec8 42. hxg5 gxg5
+{楚의 다음 수는 76楚象44
+自將}
+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "A조 준결승 1회전"]
+[White "박영완"]
+[Black "정국봉"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hd7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3+ Cbe7 6. Cf2 ef6 7. He3
+Ee6 8. g4 Cf7 9. Ke0 Ke9 10. d4 Ade8 11. c4 Cd9 12. Afe1 c5 13. Add1 cxc4
+14. dxc4 Cxe3 15. Exe3 Rc8 16. Rc0 Aff8 17. Cd0 Ee7 18. ab3 ih6 19. Ei3 Ri5
+20. h4 Rb5 21. bc3 Exc3 22. Rxc3 Rb0 23. Eixg6 Kf9 24. Ri7 Hh9 25. Ri9 Rxc4
+26. Rxc4 Exc4 27. Ch2 fxg6 28. Exg6 He5 29. Ee3 Ee7 30. Ce2 Hc4 31. Kf0 Ke9
+32. Ri3 Hg7 33. Hf4 Hf5 34. Ce0 Cf9 35. Cf2 Rb5 36. Ri9 h5 37. Rg9 hxh4 38.
+gxh4 Hxh4 39. He6 Ri5 40. Rg4 Ri4 41. Eb1 Hb2 42. Ee3 Hxd1 43. Hg5 Exg4 44.
+Hxi4 Hc3 45. Ec0 Ee7
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "B조 준결승 2회전"]
+[White "임대빈"]
+[Black "김철"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ra4
+Ra7 8. Ee3 gh6 9. Af1 Ke9 10. Kf0 Ade8 11. Ae1 Cd9 12. Ce0 c5 13. g4 a5 14.
+Ra1 d5 15. Hf4 Aff8 16. h4 Hf5 17. Rg0 hg6 18. h5 ih6 19. hg5 gxg5 20. gxg5
+Hfg7 21. g6 hxg6 22. Hxg6 Ch7 23. Cf2 ab5 24. Rxa7 Cxa7 25. Hf4 Ri7 26.
+Exb5 Hxf4 27. fxf4 cxb5 28. Cxf8 Cxd2+ 29. Axd2+ Axf8 30. Rg5 bc5 31. c4
+Ed7 32. Rg6 Ri6 33. Re6+ Kf9 34. Re4 Ae8 35. Ee2 Rf6 36. cxc5 Rxf4 37.
+Rxf4+ Exf4 38. cxd5 Ci7 39. Ke1 Ce7+ 40. Kd0 Ei6 41. bc3 Eg3 42. d6 Ea6 43.
+cd3 Ce9 44. Ade1 Cg9 45. Ec5 Cd9 46. Cxe8 Hxe8
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "3·4위 순위 결정전"]
+[White "박영완"]
+[Black "임대빈"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Ce7 3. Ri4 ab6 4. Ce2 Hc7 5. Ed3 b5 6. Rg4 ih6 7. Ef3 Ri7
+8. Hd2 Ke9 9. e4 Cd7 10. cb3 cd6 11. Rc0 Ra7 12. Ce0 Cd4 13. e5 d5 14. Kd1
+exe5 15. Exh6 gxh6 16. Rc6 Hce6 17. Ade1 Rc7 18. Rxc7 Hxc7 19. Kd0 Ea6 20.
+Cg0 Hce6 21. gf3 Ed8 22. Ce2 hg6 23. Ad1 bc5 24. Ea1 e4 25. Rg1 Cd6 26. bc3
+d4 27. Ce0 Ri5 28. Afe1 Af8 29. hg3 Ade8 30. Rh1 Cd9 31. Cc0 Ei6 32. Rh8
+gf6 33. Rg8 Hf5 34. Hh3 Ri3 35. Rg5 Exg3 36. fxg3 Hxg3 37. Rxg3 Hf4 38.
+Cxc5 Hxe2 39. Axe2 Ri0+ 40. Ke1 Cf7 41. Ad0 Ef5 42. Cc0 Ri3 43. Hb3 Ce3+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 1회전"]
+[White "김철"]
+[Black "정국봉"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hg7 3. Ce2 Ra8 4. Hg2 Ce7 5. ed3 ef6 6. Cf2 Hd7 7. Ke0
+Ee6 8. He3 Af8 9. Ade1 Ad8 10. Cd0 cd6 11. Ri4 Rc9 12. ab3 Rxa0 13. Cxa0
+Cxb3 14. cxb3 Rxc0+ 15. Cd0 Kf9 16. d4 Cb7 17. ba3 Ade8 18. g4 Rc3 19. Rh4
+gh6 20. g5 Rxa3 21. Rg4 Ra5 22. Aff1 h5 23. gxh5 Rxh5 24. h4 Rh7 25. Ei3
+ih6 26. Ch2 Ke9 27. Rg5 dc6 28. Ra5 Cf7 29. Hg4 Hf5 30. Hxh6 Hxh6 31. Rg5
+Cd9 32. h5 Cxd4 33. Cxh6 Cd9 34. Ch2 Ri7 35. hi5 Ee7 36. Ce2 Eb4 37. Ci2
+Rh7 38. Cd2 Ee6 39. Ad1 Rh3 40. Cf0 Hc5 41. Cxf6 He4 42. Re5 Hxd2 43. Axd2
+Rg3 44. He3 Rxi3 45. Ade1 Ri0+ 46. Cf0 cd6 47. Hc2 bc6 48. ih5 Ri3 49. hg5
+Rc3 50. Re2 Cf9 51. g6 Rg3 52. gh6 Eh4 53. Re3 Rg2 54. Hd0 Rh2 55. Aff2
+Cxf2 56. Axf2 Rxf2 57. hg6 Ec4 58. Re4 Ee6 59. Re3 Eg3+
+{White resigns} 0-1
+
+[Event "지싸인배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 2회전"]
+[White "정국봉"]
+[Black "김철"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. Hf2 Hge6 6. Ra4 Cd7 7. ed3
+c5 8. ih3 f5 9. Exc5 Hxc5 10. Rc4 He6 11. He3 g5 12. Ch6 ab6 13. Cd6 Ra7
+14. Ke0 Ke9 15. Afe1 Afe8 16. g4 Cf9 17. gxg5 fxg5 18. Cf6 b5 19. Rg0 bc5
+20. Rb4 i5 21. Cf0 ih5 22. h4 hxh4 23. Rxh4 Add8 24. Rh7 Ra4 25. Hg2 Hd5
+26. Ee3 Hxe3 27. dxe3 Cxe3 28. Hh4 Ra2 29. Add1 Rxe2 30. Ad2 Ri1 31. Kd0
+Rexe1+ 32. Axe1 Ce7 33. Rxe7 Axe7 34. Hf3 Cd9+ 35. Ke0 gf5 36. Rg8 Ea6 37.
+cd3 f4 38. Hh4 Aee8 39. Hf5 Ri3 40. Hh6 f3 41. Hd1 f2 42. Axf2 Rxd3 43. Ae1
+Rxb3 44. Rg6 Ec9 45. Hi8 Hf4 46. Rg4 Ei6 47. Hh6 Eg3+ 48. Af1 Exd1 49. Hg8+
+Af8
+{빅장}
+50. Ae1 He6 51. Axd1 Cxd1
+{White resigns} 0-1
+

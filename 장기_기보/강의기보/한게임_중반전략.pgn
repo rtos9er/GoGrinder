@@ -1,0 +1,2915 @@
+[Event "[강의 한게임 중반전략] 3강 귀마 대 귀마(3) 우진병 공격과 대응 전술"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 Hg7 5. Ee3 c5 6. Ra4 Ed6 7. Rf4 ab6
+8. Hg2 Ke9 9. Cf2 Ade8
+*
+
+[Event "[강의 한게임 중반전략] 3강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 Hg7 5. Ee3 c5 6. Ed3 Ed6 7. Hg2 gf6
+8. Cf2 Ce5
+*
+
+[Event "[강의 한게임 중반전략] 3강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 Hg7 5. Ee3 c5 6. Ed3 Ed6 7. Hg2 gf6
+8. Exf6 exf6 9. He4 Exb3 10. Hxf6+ Cf7 11. Hxd7 Kxd7 12. cxb3
+*
+
+[Event "[강의 한게임 중반전략] 3강 변화수1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 Hg7 5. Ee3 c5 6. Ed3 Ed6 7. Hg2 gf6
+8. Exf6 exf6 9. He4 fe6 10. Hxc5 Exb3 11. Hxd7 Kxd7 12. cxb3 Ke8 13. Ra4
+Cf7 14. Cf2
+*
+
+[Event "[강의 한게임 중반전략] 3강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 Hg7 5. Ee3 c5 6. Ed3 Ed6 7. Hg2 Ad8
+8. Cf2 Cf7 9. Ke0 Cd9 10. Rh0 Rh9
+*
+
+[Event "[강의 한게임 중반전략] 4강 귀마 대 귀마(4) 우진병 양득과 공방"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Ra4 a5
+8. Rf4 Ce5 9. Hg2 Hg7 10. Cf2 Cf7
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Cxe3 11. Hxe3 Hxf6 12. Hd5+ Ce7 13. Hxf6+
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Cxe3 11. Hxe3 Hxf6 12. Hd5+ Exg3 13. Hxf6+
+Cf7 14. fxg3
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Ca7 11. Rxa6 Hxf6 12. Ec6+ Exc3 13. bxc3
+Ra8 14. He4+ Ce7 15. Hxf6+ Kf8 16. He4
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Exg3 11. fxg3 Hf5 12. Cf4 Hd4 13. Ce4
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수2-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Exg3 11. fxg3 Hf5 12. Cf4 Rg9 13. ih3 Cxh3
+14. gxh3 Rxg2
+*
+
+[Event "[강의 한게임 중반전략] 4강 변화수2-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "39"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. ef3 ef6 5. Ee3 c5 6. Ed3 Ee6 7. Hg2 Ed6
+8. Cf2 Hg7 9. Exf6 gxf6 10. Cxf6 Exg3 11. fxg3 Hf5 12. Cf4 Rg9 13. ih3 Cxh3
+14. Ri8+ Ke9 15. Ec6+ Cc7 16. He4+ Ade8 17. Hxd6+ Kd9 18. Hxf5 Rxg3 19.
+Cf7+ Axf7 20. Hxg3
+*
+
+[Event "[강의 한게임 중반전략] 5강 귀마 대 귀마(5) 양차합세 공격"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Hd2 Hg7 7. Ri4
+Ke9 8. Rc4 cb6 9. Exb6 Hxb6 10. Cxb6
+*
+
+[Event "[강의 한게임 중반전략] 5강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Hd2 Hg7 7. Ri4
+Ke9 8. Rc4 c5 9. Rd4 Ade8 10. Rxd6
+*
+
+[Event "[강의 한게임 중반전략] 5강 변화도2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Hd2 Hg7 7. Ri4
+c5 8. Rd4 Exb3 9. cxb3 ih6 10. Rda4 Exg3 11. hxg3 Ri2 12. Ce4 cd5 13. Ke0
+de5 14. Ce1 Ca7
+*
+
+[Event "[강의 한게임 중반전략] 5강 변화도2-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Hd2 Hg7 7. Ri4
+c5 8. Rd4 Exb3 9. cxb3 ih6 10. Rda4 Exg3 11. hxg3 Ri2 12. Ce4 cd5 13. Kd1
+Rc9 14. Ade1 Rc2 15. Ce2 Rc1+ 16. Kd0 Rxg2
+*
+
+[Event "[강의 한게임 중반전략] 5강 변화도3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Hd2 Hg7 7. Ri4
+c5 8. Rd4 Exb3 9. cxb3 ih6 10. Ei3 Cf7 11. Rd6 a5 12. Rxa5 Rxa5 13. Exa5
+Ad8 14. Exd7 Axd7
+*
+
+[Event "[강의 한게임 중반전략] 6강 귀마 대 귀마(6) 한차와 면포 공격"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Hg7 4. Ce2 Ed6 5. Ed3 Cf7 6. Hd2 Ci7 7. Ei3
+ih6 8. Rg0 gf6 9. gf3 Cf7 10. Hf4 Ri7 11. Exf6 exf6
+*
+
+[Event "[강의 한게임 중반전략] 6강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Hg7 4. Ce2 Ed6 5. Ed3 Cf7 6. Ri4 Ke9 7. Rc4
+cb6 8. Exb6 Ade8 9. Cxe6 ih6 10. Ei3
+*
+
+[Event "[강의 한게임 중반전략] 6강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Hg7 4. Ce2 Ed6 5. Ed3 Cf7 6. Ri4 c5 7. Hd2 gf6
+8. Rg4 Ri7 9. Exf6 exf6 10. Re4 Ch7 11. Ci2 Ee6 12. Cxi7 Cxe4+ 13. exe4 Ce7
+14. Ce2 Exg3
+{먹으면 37마가 58로 뜬다.}
+15. Ci1
+*
+
+[Event "[강의 한게임 중반전략] 11강 면상 선수 대 귀마 후수(1)"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 c5 6. Ci2 Ei6 7. ih3
+Exg3+ 8. hxg3
+*
+
+[Event "[강의 한게임 중반전략] 11강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 c5 6. Ci2 Ei6 7. gf3
+Ed6 8. ih3 Rg9 9. Cg2
+*
+
+[Event "[강의 한게임 중반전략] 11강 변화도2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 c5 6. Ci2 Ei6 7. gf3
+Ed6 8. ih3 Rh9 9. Ei3 Ce9 10. Hhf1 gf6 11. Ch2 ab6 12. Rxa9 Cxa9 13. Ee2
+Ad8 14. Ri1 Ke9 15. Ci0 Afe8 16. Add1
+*
+
+[Event "[강의 한게임 중반전략] 11강 변화도3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Ri5 5. Afe1 Ci7 6. Cxc6 Rc5 7. ih3
+Rxc6
+*
+
+[Event "[강의 한게임 중반전략] 11강 변화도3-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Ri5 5. Afe1 Ci7 6. Ci2 Rh5 7. ih3
+Ei6 8. Ei3 Hd7 9. Hhf1 Ed6 10. Ch2 Ra5 11. Rxa5 Cxb0+ 12. Hc0 axa5
+*
+
+[Event "[강의 한게임 중반전략] 11강 변화도3-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Ri5 5. Afe1 Ci7 6. Ci2 Rh5 7. ih3
+Ei6 8. Ei3 Hd7 9. Hhf1 Ed6 10. Ee2 Cbe7
+*
+
+[Event "[강의 한게임 중반전략] 12강 귀마 대 면상 중앙전 전투와 고등마 공격"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 He5 6. Hg2 Ke9 7. Cxe5
+exe5 8. Exc6
+*
+
+[Event "[강의 한게임 중반전략] 12강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 He5 6. Hg2 c5 7. Cf2
+Ke9 8. Ci2 Ei6 9. Ci5 Ci7 10. Cxe5 exe5 11. Ec6+ Cc7 12. Cxi9
+*
+
+[Event "[강의 한게임 중반전략] 12강 변화도2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 He5 6. Hg2 cd6 7. Hc4
+Hxc4 8. cxc4 Ke9 9. Exg6+ hxg6 10. Cxe7
+*
+
+[Event "[강의 한게임 중반전략] 12강 변화도3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 He5 6. Hg2 cd6 7. f4 g5
+8. fe4 Hg6 9. Cf2 h5 10. Hc4 Ke9 11. ef4 Hf8 12. Hxd6 exd6 13. Eg6+ Afe8
+14. Exi9
+*
+
+[Event "[강의 한게임 중반전략] 14강 귀마 대 양귀마 양상 견제와 선제 공격"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ee3 g5 5. Exc6 Ra8 6. ab3 Ed6 7. ih3
+*
+
+[Event "[강의 한게임 중반전략] 14강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ee3 gh6 5. Exc6 Ra8 6. ab3 Ed6 7. Ed3
+Ef6 8. Eg5+ Hf7 9. Exd7
+*
+
+[Event "[강의 한게임 중반전략] 14강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ee3 gh6 5. Exc6 Ra8 6. ab3 Ed6 7. Hd2
+Hf7 8. Ra4 Ef6 9. Rf4 hg6 10. ih3 ab6 11. Ee3 Exh3 12. gxh3 gh6 13. hg3 Rg9
+*
+
+[Event "[강의 한게임 중반전략] 14강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "10"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ ed5 4. Ee3+ He5 5. Exg6+ Hxg6
+*
+
+[Event "[강의 한게임 중반전략] 14강 변화수3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. e4 Ce7 4. exe5 Hxe5 5. Ee3 Hgf7 6. ab3 gh6 7. Hd2
+c5 8. ih3 Ri8 9. Ra4 Rg8 10. Ri2 a5 11. Rb4 ab5 12. Exb5 Ef6
+*
+
+[Event "[강의 한게임 중반전략] 18강 면상 대 원앙마 우진 공격과 우원앙마 수비"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ed6+ 5. Ee2 Ei6 6. gf3
+*
+
+[Event "[강의 한게임 중반전략] 18강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 ed6+ 5. Afe1 Ece6 6. gf3 Hc7 7. He4
+Ci7 8. Hi2
+*
+
+[Event "[강의 한게임 중반전략] 18강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 ed6+ 5. Afe1 Ece6 6. gf3 Hc7 7. Ci2
+Ei6 8. c4 Cd7 9. Ra1 Cxd2 10. Axd2 Eeg3+ 11. Kf0 Exi0
+*
+
+[Event "[강의 한게임 중반전략] 18강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 ed6+ 5. Afe1 Ece6 6. gf3 Hc7 7. Ci2
+Ei6 8. c4 Cd7 9. Ee2 Ke9 10. He4 Afe8 11. ih3 Rh9 12. Ei3 Cf9 13. Hf1 Add8
+14. Rg0 ab6 15. Rxa9+ Cxa9 16. Exg6 Cg9
+*
+
+[Event "[강의 한게임 중반전략] 18강 변화수2-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 ed6+ 5. Afe1 Ece6 6. gf3 Hc7 7. Ci2
+Ei6 8. c4 Cd7 9. Ee2 Ke9 10. He4 Afe8 11. ih3 Rh9 12. Ei3 Cf9 13. Hf1 Add8
+14. Rg0 ab6 15. Rxa9+ Cxa9 16. Ch2
+*
+
+[Event "[강의 한게임 중반전략] 18강 변화수3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 ed6+ 5. Afe1 Hc7 6. Ci2 Ei6 7. gf3
+Cd7 8. Ee2 Af8 9. He4 Cf9 10. Cg2 Hce6
+*
+
+[Event "[강의 한게임 중반전략] 19강 귀마 대 원앙마(1) 중앙상의 희생과 양차합세 전법"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "8"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 ih6 3. Ce2 Ce7 4. ef3 ed6
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 Hc7 5. Ed3 Ra5 6. c4 Rb5 7. ab3 Rf5
+8. Ra9 Ce9 9. Ra8+ Ad8 10. Rc8
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 Hc7 5. Ed3 Ra5 6. c4 Rd5 7. ab3 Cd7
+8. Ad1 Ea6 9. Exb6 cxb6 10. Cxb6 ef6
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "10"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. ab3 Ce5+ 4. Ce2 Ci7 5. Ei3 Ca7
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 Hc7 5. Hd2 ef6 6. cb3 Cd7 7. Rc0
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수3-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 Hc7 5. Hd2 c5 6. c4 cxc4 7. Exb6+
+Cd7 8. Hxc4
+*
+
+[Event "[강의 한게임 중반전략] 19강 변화수3-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 Hc7 5. Hd2 c5 6. c4 b5 7. cxc5 bxc5
+8. Rc0 Rxa3 9. Rxc5 Ci7 10. Ei3 Ra7 11. gf3 Cbe7 12. Rg0 ih6 13. Exg6 hxg6
+14. Hf4 ef6 15. Exf6
+*
+
+[Event "[강의 한게임 중반전략] 20강 귀마 대 원앙마(2) 우진 급소 공격과 초차의 침입 전투"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. Ed3 ed6 5. ab3 Hge6 6. ef3 Cd7 7. Ra4
+g5 8. Exg5+ Hxg5 9. Rg4 He6 10. Rg8+
+*
+
+[Event "[강의 한게임 중반전략] 20강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. Ed3 ed6 5. ab3 Hge6 6. ef3 Cd7 7. Ra4
+g5 8. Rh4 Ke9 9. Rh7 Ade8 10. Exg5 Hxg5 11. Rxe7
+*
+
+[Event "[강의 한게임 중반전략] 20강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. Ed3 ed6 5. ab3 Hge6 6. ef3 Cd7 7. Ra4
+g5 8. Rh4 Ke9 9. Rh7 Ca7 10. Cb7 Ade8 11. Exg5 Hxg5
+*
+
+[Event "[강의 한게임 중반전략] 20강 변화수1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. Ed3 ed6 5. ab3 Hge6 6. ef3 Cd7 7. Ra4
+g5 8. Rh4 Ke9 9. Rh7 Cb7 10. Rh8 Ade8 11. Rg8 gf5 12. Ei3 Kd9 13. Eg6 Ri7
+14. Rxg9
+*
+
+[Event "[강의 한게임 중반전략] 20강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3
+*
+
+[Event "[강의 한게임 중반전략] 1강"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "10"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{한게임 회원 여러분 안녕하세요. 김경중입니다. 이번 시간부터 총 20시강에 걸처서 초,중급자 분들이 실전에서 많이 나오는 중반전 부분 전투 유형에 대해서 공부해볼까 합니다. 특히 초의 입장에서는 어느 부분을 공격해야할지 공격 방향과 효과적인 공격 방법을 살펴보겠고 한의 입장에서는 초의 공격에 대응하여 적절한 수비 감각과 전체적인 수비 전략에 대해서 주안점을 두고 강의를 드려볼까 합니다.
+
+(한게임 김경중 9단의 프로의 기술 강좌 '중반전략' 편을 장도 기보로 옮겼습니다. 더 자세한 해설은 싣지 않겠습니다. 한게임 동영상을 참고 하세요. -)
+
+
+http://janggi.hangame.com/lecture.nhn?m=list&mode=LECTURE0102}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6
+{(강좌는 이 모양에서 부터 시작)}
+
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Hg2
+Hc7 8. Cf2 Exd3 9. cxd3
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Exf6
+gxf6 8. Hg2 Hc7 9. Cf2 fg6
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Exf6
+gxf6 8. Hg2 Hc7 9. Cf2 hg6 10. Ra4 Ke9 11. Exg6+ fxg6 12. Cxf7
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1-3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Exf6
+gxf6 8. Hg2 Hc7 9. Cf2 hg6 10. Ra4 Cd7 11. Rg4 Rg9 12. ih3 ab6 13. Ri8+ Ke9
+14. Exg6+ Rxg6 15. Rxg6 fxg6 16. Cxf7
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1-4"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Exf6
+gxf6 8. Hg2 Hc7 9. Cf2 hg6 10. Ra4 Cd7 11. Rg4 Rg9 12. ih3 ab6 13. Ri8+ Af8
+14. Cxf6 Hh6 15. Cxh6
+*
+
+[Event "[강의 한게임 중반전략] 1강 변화도1-5"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "39"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ed3 Ef6 7. Exf6
+gxf6 8. Hg2 Hc7 9. Cf2 hg6 10. Ra4 Cd7 11. Rg4 Rg9 12. ih3 ab6 13. Exg6
+fxg6 14. Ri6 g5 15. Rf4 Af8 16. Ri8 Cf9 17. Rfi4 Ra8 18. Rxf8+ Ke9 19. Rxf7
+Ae8 20. Rh7
+*
+
+[Event "[강의 한게임 중반전략] 2강 귀마 대 귀마(2) 농포전과 차포의 연합 공격"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Ef6 7. Ri4
+Cee7 8. ef3 Kf8
+*
+
+[Event "[강의 한게임 중반전략] 2강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Ef6 7. Ri4
+Cee7 8. ef3 ed6 9. Ee3 Ee6 10. Exg6 Rg9 11. Rxi7 Exg3 12. Ri8+ Af8 13. fxg3
+*
+
+[Event "[강의 한게임 중반전략] 2강 변화도2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Ef6 7. ef3
+Rg9 8. Ee3 cd6 9. Rc4 Hc7 10. Hg2 Ra7 11. ih3 Cd7 12. Cf2
+*
+
+[Event "[강의 한게임 중반전략] 13강 양귀마 대 귀마 우진병 공격과 초상의 활용"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Ed6 5. Hf2 Hg7 6. Ef3 Cf7 7. gh3 Ke9
+8. Rg0 Ri7 9. Exh6 gxh6 10. Cxh6 Ade8 11. Ch1
+*
+
+[Event "[강의 한게임 중반전략] 13강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Ed6 5. Hf2 Hg7 6. Ef3 g5 7. g4 gxg4
+8. Exh6+ Cf7 9. Hxg4
+*
+
+[Event "[강의 한게임 중반전략] 13강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Ed6 5. Hf2 Hg7 6. Ef3 g5 7. g4 h5 8.
+gxg5 hxg5 9. Rg0 Rxi3 10. Rxg5 Cb7
+*
+
+[Event "[강의 한게임 중반전략] 13강 변화수1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Ed6 5. Hf2 Hg7 6. Ef3 Ri5 7. gh3 Rg5
+8. Ed3 Rg1+ 9. Af1 Cf7 10. He0 Rg4 11. Exh6 ef6 12. Hxg4 Exg4+ 13. Af2 gxh6
+14. Cxh6
+*
+
+[Event "[강의 한게임 중반전략] 15강 양귀마 대 원앙마 초상의 병양득 공격과 전투"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hg7 5. Ef3 h5 6. gh3 hg5
+*
+
+[Event "[강의 한게임 중반전략] 15강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hg7 5. Ef3 Cf7 6. gh3 ed6 7. Rg0 He6
+8. Exh6 gxh6 9. Cxh6
+*
+
+[Event "[강의 한게임 중반전략] 15강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hg7 5. Ef3 Ri5 6. gh3 Rg5 7. Ed3
+Rg1+ 8. Af1 Cf7 9. He0 Rg4 10. Exh6
+*
+
+[Event "[강의 한게임 중반전략] 15강 변화수1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hg7 5. Ef3 Ri5 6. gh3 Rg5 7. Ed3
+Rg1+ 8. Af1 Cf7 9. He0 Ci7 10. Rh0 Ri1 11. Cxh6 Ri0
+*
+
+[Event "[강의 한게임 중반전략] 15강 변화수1-3"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hg7 5. Ef3 Ri5 6. gh3 Rg5 7. Ed3
+Rg1+ 8. Af1 Cf7 9. He0 Ci7 10. Hxg1 Cxi0 11. Hxi0 ed6 12. Exh6 gxh6 13.
+Cxh6 Hce6
+*
+
+[Event "[강의 한게임 중반전략] 15강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "양귀마"]
+[Black "원앙마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 ed6 5. gh3 Ege6 6. cb3 Hg7 7. Ef3
+Cf7 8. Rg0
+*
+
+[Event "[강의 한게임 중반전략] 16강 원앙마 대 양귀마 졸의 전진과 중앙의 방어 형태"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ege3 gh6 5. Exc6 Ra8 6. ab3 Ed6 7. c4
+Ef6 8. b4 Hf7 9. f4 Rg9 10. Hf1
+*
+
+[Event "[강의 한게임 중반전략] 16강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ege3 gh6 5. Exc6 Ra8 6. ab3 Ed6 7. Hg2
+Hf7 8. Cf2 Exb3 9. cxb3 Hc5 10. bc3 Rc8 11. Ea9 He4
+*
+
+[Event "[강의 한게임 중반전략] 16강 변화수1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "양귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ege3 gh6 5. Exc6 Ra8 6. ab3 Ed6 7. Hg2
+Hf7 8. Cf2 Exb3 9. cxb3 Hc5 10. bc3 Rc8 11. c4 He4 12. He3 Rxc6
+*
+
+[Event "[강의 한게임 중반전략] 7강 원앙마 대 귀마(1) 차상의 공격과 궁수비 전략"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Ece3 ef6 6. Hc2 Ee6 7. Cd2
+Ed6 8. Exc6 bxc6 9. Ee3 Rc9 10. Ri4 Cf7 11. Ke0 Rh9 12. Ade1 Ci7 13. Rc4
+Ci0+ 14. Hh0 Cg0+ 15. Af1 Cxa0
+*
+
+[Event "[강의 한게임 중반전략] 7강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "34"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Ece3 ef6 6. Hc2 Ee6 7. Cd2
+Ed6 8. Exc6 bxc6 9. Ee3 Rc9 10. Ri4 Cf7 11. Rc4 Rh9 12. Ke0 Exg3 13. hxg3
+Rh2 14. Re4 Rxg2 15. Rxe7+ Kf8 16. Afe1 Afe8 17. Re4 Rxg3
+*
+
+[Event "[강의 한게임 중반전략] 7강 변화수2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "35"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Ece3 ef6 6. Hc2 Ee6 7. Cd2
+Ed6 8. Exc6 bxc6 9. Ee3 Rc9 10. Ri4 Cf7 11. Rc4 Rh9 12. Exc6 Exg3 13. Cxd6
+Rxh3 14. ab3 Rh1+ 15. Ke0 Rg1 16. Ra8+ Ad8 17. Rxd8+ Ke9 18. Rd9#
+{White mates} 1-0
+
+[Event "[강의 한게임 중반전략] 7강 변화수2-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "35"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Ece3 ef6 6. Hc2 Ee6 7. Cd2
+Ed6 8. Exc6 bxc6 9. Ee3 Rc9 10. Ri4 Cf7 11. Rc4 Rh9 12. Exc6 Exg3 13. Cxd6
+Rxh3 14. ab3 Rh1+ 15. Ke0 Kf8 16. He3 Rg1 17. Rg4 Rxc6 18. Cxd9
+*
+
+[Event "[강의 한게임 중반전략] 8강 원앙마 대 귀마(2) 한차의 기습과 우진의 방어 행마"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Ce7 4. ed3 Hg7 5. Hc2 ef6 6. Cd2 Ra5 7. He3
+Ee6 8. Ke0 Cf7 9. Afe1 Ed6 10. Cf0 Exg3+ 11. hxg3 Rg5 12. Ri3 Rh9 13. Add1
+Rh1 14. Cd0 Rg1 15. ab3 R5xg3 16. Rxg3 Rxg3
+*
+
+[Event "[강의 한게임 중반전략] 8강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Ce7 4. ed3 Hg7 5. Hc2 ef6 6. Cd2 Ra5 7. Af1
+Ee6 8. g4 Cf7 9. Cf0 Ed6 10. h4 Rc5 11. Ri3
+*
+
+[Event "[강의 한게임 중반전략] 8강 변화도1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Ce7 4. ed3 Hg7 5. Hc2 ef6 6. Cd2 Ra5 7. Af1
+Ee6 8. g4 Cf7 9. Cf0 Ed6 10. h4 Rb5 11. Ra1 Rb2 12. Rc1 Rb5 13. d4
+*
+
+[Event "[강의 한게임 중반전략] 9강 원앙마 대 귀마(3) 정형 우원앙마 대응 전략"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Cbe7 5. Hc2 Cf7 6. Ece3 gf6 7. Ri4
+c5 8. Cd2 Ed6 9. Rg4 Ri7
+*
+
+[Event "[강의 한게임 중반전략] 9강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "36"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Cbe7 5. Hc2 Cf7 6. Cd2 Ed6 7. He3
+Ci7 8. Ei3 gf6 9. Ke0 i5 10. Rg0 Ei6 11. gf3 Rg9 12. hg3 i4 13. Ef1 Cf7 14.
+Afe1 Hh5 15. Cf0 Exg3 16. fxg3 Rxg3 17. Rxg3 Hxg3 18. Ca2 Rc9
+*
+
+[Event "[강의 한게임 중반전략] 9강 변화도1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Cbe7 5. Hc2 Cf7 6. Cd2 Ed6 7. Af1
+Ci7 8. Ei3 i5 9. Rh0 i4 10. Eg0
+*
+
+[Event "[강의 한게임 중반전략] 9강 변화도1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Cbe7 5. Hc2 Cf7 6. Cd2 Ed6 7. Af1
+Ci7 8. Ei3 ih6 9. Rh0 Ei6 10. g4 gf6 11. Cf0 Cf7 12. h4
+*
+
+[Event "[강의 한게임 중반전략] 10강 원앙마 대 귀마(4) 초의 우진 수비 형태와 방어 전략"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 ef6 5. ed3 Ee6 6. Cd2 Ra5 7. He3
+Ed6 8. Ke0 Exg3+ 9. hxg3 Rg5 10. gh3 Rh9 11. Rh0 Rgh5
+*
+
+[Event "[강의 한게임 중반전략] 10강 변화도1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 ef6 5. ed3 Ee6 6. Cd2 Ra5 7. He3
+Ed6 8. Ke0 Exg3+ 9. hxg3 Rg5 10. Ri3 Rh9 11. Ade1 Rh0 12. d4 Rxg0 13. d5
+R5xg3 14. Rxg3 Rxg3 15. cd3 Eg4
+*
+
+[Event "[강의 한게임 중반전략] 10강 변화도1-1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 ef6 5. ed3 Ee6 6. g4 Ed6 7. h4 Ra5
+8. d4 Rf5 9. c4 Rf3 10. Ri3 Rf5 11. ab3
+*
+
+[Event "[강의 한게임 중반전략] 10강 변화도1-2"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 ef6 5. ed3 Ee6 6. g4 Ed6 7. h4 Ra5
+8. d4 g5 9. a4 Rb5 10. Ece3 Rf5 11. gf4 Rc5 12. c4 Rb5 13. ab4
+*
+
+[Event "[강의 한게임 중반전략] 17강 원앙마 대 면상 꼼수 공격과 농포전의 운영"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Ee7 5. Ece3 gf6 6. Ri4 c5 7. Hc2
+He5 8. Cd2 Ke9 9. Ke0 Afe8 10. Ade1 Hf5 11. Aff1 Cg7 12. Rg4 Ca7 13. ab3
+Hxe3 14. Rg8 Hxg2
+*
+
+[Event "[강의 한게임 중반전략] 17강 변화수1"]
+[Site ""]
+[Date "2011-08-28"]
+[Round ""]
+[White "원앙마"]
+[Black "귀마"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "36"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. ed3+ Ee7 5. Hc2 He5 6. Cd2 Ke9 7. d4 c5
+8. de4 Hc6 9. Ke0 Afe8 10. Afe1 cd5 11. Add1 d4 12. exd4 Hxd4 13. cd3 Hb3
+14. Ca2 Rc9 15. axb3 Rxc2 16. Ci2 ih6 17. Ei3 Rxg2 18. Cxi9+ Af9
+*
+

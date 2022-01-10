@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[FEN "9/4ka3/9/9/4P4/9/9/9/3EA1E2/4K4 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . . . . . . .
+. . . . k a . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . P . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . E A . E . .
+. . . . K . . . .
+white to play
+--------------}
+1. Ed3 Af7 2. Eb6+ Kd8 3. e6 Kd7 4. Eb4+ Kd8 5. Ee2 Kd7 6. ed6+ Kd8 7. Eg5
+Ae7 8. Ebd3 Kd9 9. Ef6+ Ke9 10. Eh9 Af7 11. d7 -- 12. Ef6 -- 13. Efd3 --
+14. Eb6 -- 15. Ei2 -- 16. Ef4 -- 17. Ed1 -- 18. Ea3 -- 19. Ee4 Ae8 20. Ec6+
+Ad8 21. d7xd8 -- 22. Eh6 -- 23. d8e8#
+{Xboard adjudication: Checkmate} 1-0
+

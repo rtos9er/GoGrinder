@@ -1,0 +1,674 @@
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 2경기"]
+[White "김영윤"]
+[Black "권오영"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ri5
+8. Ed3 d5 9. g4 He5 10. Cxe5 Rxe5 11. Ce2 Rf5 12. Hf4 cd6 13. ih3 Ad8 14.
+hg3 Ad7 15. Ad1 Ce5 16. Kd0 Cf7 17. Cb2 Ce7 18. Cf2 dc5 19. b4 Cd9 20. Af1
+ab6 21. Rxa9 Cxa9 22. Ea1 Cd9 23. Hd3 Rh5 24. Hxc5 dc6 25. Ha4 Ke9 26. gf4
+Ade8 27. Cf0 gf6 28. Ae1 hg6 29. Ed3 Ed6 30. Exb6 cxb6 31. Hxb6 Ra5 32. Ri4
+Ra6 33. b5 Ra4 34. bc5 Ra3 35. cd5 Ea4 36. d6 Ad8 37. dxe6 Hxe6 38. cb4 Hd4
+39. bxa4 Hc2+ 40. Ke0 Rb3 41. Hbc4 Rc3 42. ab4 Cd4 43. f5 Cxd1 44. fxf6
+gxf6 45. He4 Rb3 46. Hd2 Cd7 47. Hc5 Rb1 48. Re4 Afe8 49. Hxd7 Adxd7 50.
+bc4 Rc1 51. Ae2 fg6 52. Re5 gh6 53. Re6 Ha3 54. Rxh6 Kd9 55. Re6 Hxc4 56.
+Hxc4 Rxc4 57. Cd0+ Ke9 58. Kf0 Ce4 59. Ra6 Add8 60. Ae1 Rc1 61. Eg0 Rc4 62.
+Ei3 Ca4 63. Rd6 Ri4 64. gh3 Add9 65. Rh6 Re4 66. Cg0 Kf9 67. Rh9+ Kf8 68.
+Cd0 Aee9 69. Rh8+ Kf7 70. Cf2+ Ke7 71. Rh7+ Ke8 72. Rf7+
+{Black resigns} 1-0
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 3경기"]
+[White "한대용"]
+[Black "허성근"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. Rh0 ih6 5. Rh4 Cg7 6. Hd2 a5 7. Ed3 Ee7
+8. ih3 Ad8 9. Ei3 Cg5 10. Hh0 cd6 11. Exg6 hxg6 12. Rg4 Kd9 13. ef3 ef6 14.
+Re4 de6 15. Exg5 gxg5 16. Rc4 Ade8 17. Ce0 He5 18. Rc5 gf5 19. Raxa5 Rxa5
+20. Rxa5 Cd7 21. Ra9+ Kd8 22. Hhf1 Ri4 23. fe3 f4 24. Cg2 Ei6 25. Cg8+ Hf8
+26. Ad1 Ri2 27. e4 fxe4 28. Cxe4 Cf7 29. Kd0 Ri0 30. Ae1 Cd7+ 31. Ke0 Ri4
+32. He3 Ri5 33. Cg1 ed6 34. Cd1 fe6 35. Ce2 Rg5 36. Hec4 Hxc4 37. Hxc4 Rc5
+38. Ha5 Ef4 39. Ra8+ Kd9 40. Cg1 Rb5 41. Cg9+ Ae9 42. Cxe7 Hh7 43. Cg0 Aee8
+44. Ce2 Ec6 45. Aff1 Aff8 46. Cb0 Ri5 47. Hb7 Cf9 48. Cf0 Rb5 49. Cd0+ Ke9
+50. Hxd6 Cd7 51. Rc8 Kd9 52. Rc9+ Kd8 53. Rxc6 exd6 54. Rxd6 Hg9 55. gf3
+Hf7 56. Rd4 Hg5 57. hg3 He6 58. Rxd7+ Kxd7 59. cd3+
+{Black resigns} 1-0
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 6경기"]
+[White "곽태곤"]
+[Black "고천훈"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ee2 Ee6 5. He4 Hf7 6. cd3 Hbd8 7. gf3
+Ri5 8. Rg0 Ri1+ 9. Ke0 Rc1 10. Cc2 Cc7 11. Ha2 Ri1 12. Ade1 ih6 13. Cd2 Ri0
+14. Rxi0 Rxi0 15. Cd4 f5 16. Cd0 Ef6 17. hg3 fe5 18. Hec3 Cg7 19. d4 ef5
+20. gh3 f4 21. hg3 fxf3 22. gxf3 cd6 23. He4 dc6 24. Ccf2 Af8 25. a4 Eh3
+26. ab4 Exf0 27. Cxf0 Ce7 28. bc4 Ce9 29. Hc3 Ch7 30. Hd1 cd6 31. Cd2 bc6
+32. Ra6 Cd7 33. Ea3 Cf9 34. c5 cxc5 35. Hxd6+ Hxd6 36. Rxd6 gf6 37. Cf2 hg6
+38. Cc2 Cf7 39. Hc3 Ri5 40. Cd0 Kf9 41. Rd7+ Ade8 42. Rc7 cb5 43. Ed5 b4
+44. Exf8 Kxf8 45. Rc8 b3 46. He4 bc3 47. Cxd8+ Kf9 48. Cf2 Axd8 49. Rxd8
+Cxe4 50. dxe4 Ri0+ 51. Af0 Eb4 52. ed3 Cxf3 53. Ec5 Ed7 54. Rxd7+
+{Black resigns} 1-0
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 7경기"]
+[White "신한은"]
+[Black "김진규"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Kf8 4. Ca2 Ha7 5. Hf2 Afe8 6. Che2 ef6 7. ed3
+Ee6 8. Ee3 Cc7 9. Ri4 Cc5 10. cb3 Cc9 11. Hd4 Cg7 12. Exc6+ bxc6 13. Hxc6
+Ce9 14. Hxa7 Rc9 15. Hb5 Rc5 16. b4 i5 17. Rc4 Rd5 18. d4 Rd8 19. g4 ih5
+20. Ad1 Ri0 21. Af1 g5 22. Ca5 f5 23. Cd5 gxg4 24. Hxg4 f4 25. Hh6 Hg5 26.
+Cd2 Hf3+ 27. Exf3 Rxa0 28. Cxd8+ Adxd8 29. d5 Kf9 30. Rxf4+ Af8 31. Hi8 Ce3
+32. Hxg7+ Ke9 33. Hxe6 Afe8 34. bc4 Ee7 35. Hec7 hg5 36. Re4 Exb5 37. Hxb5
+Cxh3 38. Re5 Cd3 39. Rxg5+
+{Black resigns} 1-0
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 2회전"]
+[White "조용희"]
+[Black "김청호"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Hd7 7. Ke0
+Ra8 8. Ed3 Ri5 9. Ri1 Rc5 10. Rc1 cb6 11. Afe1 Rd8 12. g4 Ke9 13. c4 Rf5
+14. f4 Rd5 15. Exb6 axb6 16. Ra9 Rb8 17. Cb4 Afe8 18. Cd4 Rc8 19. Cd1 Rh5
+20. Cc2 Rb8 21. b4 dc6 22. Ce2 Rc8 23. Rxb9 Ra8 24. Cxd7 Axd7 25. Kf0 Ra7
+26. Rc9 Rd5 27. Rc8 A7e8 28. Add1 gf6 29. Ce0 Kf9 30. Cg0 Ce9 31. Rc7 Rd7
+32. Rxd7 Axd7 33. gh4 Hh9 34. He4 f5 35. hg4 fxf4 36. gxf4 Cf7+ 37. Ke0 Ra3
+38. c5 Cc9 39. Rb1 Cb7 40. cxc6 bxc6 41. bc4 Cf7 42. f5 hg6 43. fe5 Ce9 44.
+exe6 Cxe4 45. cd4 Ce9 46. Exc6 Ra2 47. Hf4 A9d8 48. Cb0 gf6 49. Cf0 fxe6
+50. Hxe6 Rf2 51. d5 Rf6 52. d6 A7e8 53. Rb9 Hg7 54. Kd0 Hh9 55. Rb7 Hf8 56.
+Ee3 Ce7 57. Eh5 Hh7 58. Af2 Cf3 59. Hd4 Hg5 60. Hxf3 Hxf3 61. Afe1 Add7 62.
+Rb9+
+{Black resigns} 1-0
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 1경기"]
+[White "고병수"]
+[Black "강창호"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 Hf7 5. Che2 Che7 6. ih3 ab6 7. ef3
+Ef6 8. Hge3 ed6 9. Cd2 Cd7 10. Ea3 Ad8 11. Ke0 Cd9 12. Afe1 ih6 13. Ei3 Ri7
+14. Cf0 Ch9 15. Ca2 Ea6 16. Ci2 Rg7 17. Rh0 c5 18. Cb2 Exc3 19. Ce2 Ea6 20.
+f4 Hd5 21. Hxd5 cxd5 22. f5 Rc9 23. He3 d4 24. Add1 d3 25. fxf6 gxf6 26.
+Hg2 Rc2 27. Kd0 fe6 28. Rg0 Cb9 29. Ch2 Rc1 30. Cxh6 dc3 31. b4 Rg5 32. Ch1
+Ra5 33. Add2 Rc2 34. gf3 Rg5 35. hg3 Rh5 36. Cd1 Cg9 37. bc4 b5 38. Ef5 Ra2
+39. Exc3 Rxa3 40. Ef5 Rh2 41. Rxb5 Cxg2 42. Ri0 Ci2 43. Ei7 Af8 44. Eg4 Ce9
+45. Cf1 Ec3 46. Cf4 Cxd2 47. cd4 dc6 48. Cxf8 Cd7+ 49. Ed2 Cxd2 50. Cxd8
+Cd7+ 51. Rd5 Kxd8 52. Ri8+ Rh8 53. Ri7 cd6 54. Rb5 Cxi7 55. Rb8+ Kd9 56.
+Rb7 Cxb7 57. f4 Rh0
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 4경기"]
+[White "김태조"]
+[Black "조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ra4 Hd7 5. ef3 Ed6 6. Ee3 cb6 7. Rc4
+Ke9 8. Ed3 Afe8 9. Hd2 Add8 10. Af1 Ch7 11. Kf0 Cbe7 12. Rf4 Cf7 13. Ade1
+Cd9 14. Ce0 Exb3 15. Exb6 axb6 16. cxb3 gf6 17. Cf2 Hf5 18. Rg4 Ei6 19. ih3
+Ra0 20. bc3 He5 21. Rb4 Hxe3 22. fxe3 Rg9 23. ef3 Cxd2+ 24. Axd2 Hc6 25.
+Afe1 Hxb4 26. Ri4 Ha2 27. cd3 Hc1 28. Add1 Hxd3 29. Cd0 He5 30. He3 bc6 31.
+Cg0 Rh9 32. Ce0 cd6 33. Ch0 Exg3 34. fxg3 Hd3 35. Rd4 Hxe1 36. Axe1 Cxe3
+37. Ce0 Ce7 38. gf3 hg6 39. hg3 g5 40. Rc4 gf5 41. Rc8 Add9 42. Rc2 Ra1 43.
+Rd2 Rxe1+ 44. Rxe1 Cxe1 45. Kxe1 Rh1+ 46. Kf0 Rd1 47. Cg0 Rd2+ 48. Ke0 Re2+
+49. Kf0 d5
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 5경기"]
+[White "임록수"]
+[Black "김청호"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "180"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Hd7 7. c4 Ri5
+8. Rh0 Ad8 9. g4 Kd9 10. Cb4 Ra5 11. Rxa5 axa5 12. Ed3 a4 13. Cf4 a3 14. b4
+ab3 15. Cf1 bc3 16. Cd1 Ra3 17. Hf4 Afe8 18. Rh3 Ch7 19. Rg3 cxd3 20. Cxd3
+Rxd3 21. Hxd3 Exg3 22. fxg3 Che7 23. gf3 gf6 24. ih3 Ce9 25. hg3 Cc9 26.
+Ke0 f5 27. Afe1 h5 28. Add1 d5 29. Cc2 c5 30. Eg0 Ce7+ 31. Kd0 Cf9 32. Ei3
+Ke9 33. gf4 fe5 34. Cg2 He6 35. Cb2 cxc4 36. bxc4 Ed6 37. Ce2 Hg7 38. Hb4
+hg5 39. Hc6 Hh9 40. fe4 gf5 41. exe5 fxe5 42. f4 Hf8 43. g4 Cf6 44. Hb4 Kf9
+45. g5 Ke9 46. f5 Cf9 47. Ce0 exf5 48. gxf5 Kd9 49. He4 Eg8 50. Hc6 Cc7 51.
+cd4 dc5 52. Hd2 Ei5 53. fe5 Hf6 54. Ef5 Hd7 55. Exd8 Kxd8 56. e6 Ef3 57.
+He4 Kd9 58. ed6 Exd6 59. Hxd6 Ce7 60. He4 He6 61. Hxe7 Hxd4 62. Aed2 Axe7
+63. Cxe7 He5 64. Hg5 Hg6 65. Hi6 Hxe7 66. Hg7 Cc9 67. A1e1 Hdf5 68. He6 Hd6
+69. Hd4 c4 70. Hf3 Hef5 71. Ade2 Cf9 72. He5 Ke8 73. Ke0 cd4 74. A2f2 de4
+75. Hc6 e3 76. Hb4 ef3 77. Afe2 Cd7 78. Ha6 fe3 79. A2f2 ef3 80. Afe2 Kf7
+81. Hc5 Cg7 82. He6 Ce7 83. Hg5+ Ke8 84. Hxf3 He4 85. He5 Hc3 86. Kf0 Cxe2
+87. Axe2 Hxe2+ 88. Ke1 Hd4 89. Kd0 He3 90. Hd3 Hef5
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 8경기"]
+[White "이순우"]
+[Black "이철운"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Hd2 ed6 5. c4 ab6 6. Ed3 b5 7. Ad1
+Hce6 8. g4 Cf7 9. Hf4 Hxf4 10. gxf4 Ee6 11. hg3 Rh9 12. ef3 Ke9 13. Ee3
+Rh1+ 14. Kd0 gh6 15. Afe1 Ade8 16. Ce0 Cd9 17. ab3 Rxa0+ 18. Cxa0 Cxd3 19.
+Rf0 bc5 20. cd4 c4 21. dxc4 d5 22. Cg2 Hi8 23. Cc2 cb6 24. Ci2 Hg7 25. Cb2
+bc6 26. Rh0 Ri1 27. Cg2 Ec3 28. Rf0 Exa0 29. bc3 Exc3 30. Cxg7 Ea0 31. Cg2
+Ee6 32. Cg9+ Af8 33. cd4 Exd2 34. Cg2 Ea4+ 35. Ke0 c5 36. fe4 dxd4 37. exd4
+Cd9 38. Cg4 Ec7 39. Cg0 Cf9 40. Kd0 Exg3 41. Ec6 Ri4 42. f4 cd5 43. de4 Cd9
+44. Rf3 Ee6 45. Cc0 dc5+ 46. ed4 Ri5 47. Rc3 Ad8 48. fe4 cd5 49. Ef4 Ea4
+50. Rc6 dxd4 51. Rxe6 Ade8 52. exd4 Rf5 53. Ec6+ Kf9 54. Cf0 Cf7 55. de4
+Rd5 56. e5 Rd6 57. Rxd6 Exd6 58. e6 Eb3+ 59. Ke0 Ce9 60. Exe9 Kxe9 61. Cd2
+hg6 62. Af2 gf6 63. exf6 Cf9 64. Ci2 Cxf6 65. Ce2+ Kd9 66. Ade1 Cf9 67. Ci2
+ih6 68. Cd2 hg6 69. Afe2 g5 70. Cf0 g4 71. A2f2 g3 72. -- Cd7 73. -- Aff7
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 1경기"]
+[White "강창호"]
+[Black "김영윤"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Ed6 5. Ece3 gf6 6. Exc6 bxc6 7. Ri4
+cb6 8. Hc2 Ri8 9. Rg4 Ri7 10. Cd2 ih6 11. Ad1 Ei6 12. Cd0 Ke9 13. Rc4 Hd7
+14. g4 h5 15. Hce3 Afe8 16. d4 Ef3 17. d5 Rc9 18. Rxc9 Hxc9 19. Cd3 Ei5 20.
+ab3 Hd7 21. Cd0 Cb5 22. Ra5 Cb8 23. dc5 Cf8 24. Hd5 Ce5 25. c4 Kf9 26. Ra9
+ed6 27. Hde3 Ce9 28. Ra5 de6 29. cd5 Hf5 30. gf4 Exf4 31. Hxf4 h4 32. Hxf5
+hg4 33. d6 exd6 34. Hxd6 gxf4 35. cd4 bc6 36. Hc4 c5 37. Hb2 Rh7 38. hi3
+Rg7 39. d5 Rg1+ 40. Ke0 cxd5 41. Rxd5 Ef7 42. Ade1 fg6 43. ih3 Rxg0 44.
+Cxd7+ Axd7 45. Rxd7+ Ae8 46. Rd3 f3 47. Hd1 g5 48. bc3 g4 49. Kd0 Rh0 50.
+hi3 Cd8 51. Ke0 gf4 52. Rd5 Cxd1 53. Rxd1 fe3 54. Cxe8 Kxe8 55. Rd6 Rh2 56.
+Ra6 Rc2 57. Ra8+ Kf9
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 2경기"]
+[White "한대용"]
+[Black "조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ad8 8. Ed3 Ri5 9. Ad1 Ra5 10. Rxa5 axa5 11. ih3 c5 12. Ra0 a4 13. g4 Kd9
+14. Hf4 Afe8 15. Exg6 hxg6 16. Hxg6 Ce9 17. f4 d5 18. h4 d4 19. Eg1 Ed6 20.
+fe4 Exh4 21. gxh4 c4 22. exd4 cxd4 23. Kd0 Ra5 24. Hi5 Rxi5 25. Ei4 Hf5 26.
+Afe1 Hxh4 27. Eg1 Hf3 28. Ce0 Hxg1 29. Hf1 Ri3 30. Add2 Cf7 31. Cf2 Ca7 32.
+Rb0 a3 33. bxa3 Rxc3 34. a4 Eb3+ 35. Cb2 Cf7 36. ab4 d3 37. Ra0 dxd2 38.
+Axd2 Hf3 39. Ae1 Cxf1 40. Ce2 Cf9 41. Ke0 Hxe1 42. Rd0 Re3 43. Rd2 Hc0 44.
+Rc2 Hxb2 45. Rxb2 Rxe2+ 46. Rxe2 Cxe2
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 3경기"]
+[White "곽태곤"]
+[Black "김청호"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ee2 Ee6 5. He4 Hd7 6. cd3 Cc7 7. Cc2
+Hg7 8. gf3 Cf7 9. Ke0 Ce7 10. hg3 f5 11. Cg2 g5 12. Ade1 Rh9 13. Ca2 Rb5
+14. Ra1 Exg3+ 15. fxg3 f4 16. Hc3 Cxe2+ 17. Axe2 Rxb0 18. Rc1 Cc7 19. Cc2
+Rb2 20. Ad2 Kd8 21. Ri2 Cxc3 22. dxc3 Rxa2 23. ab3 Ed6 24. Ri0 Ade8 25.
+Afe1 Ra5 26. Rb1 Kd9 27. Ea3 g4 28. gxg4 Exg4 29. Exc6 bxc6 30. Cxc6 Ra0+
+31. Ad0 Rh2 32. Rf0 f3 33. Cc2 Rh3 34. Rg1 fxe3 35. Rxg4 He6 36. Ae1 Rf3
+37. Rxf3 exf3 38. Rg6 Hd4 39. Cc4 i5 40. Rg5 fe3 41. Rd5 Hf3 42. Rxi5 Hg1+
+43. Kf0 e2 44. Ad1 ed2 45. Rd5 He2+ 46. Ke0 d2xd1 47. Rxd1 Ke9 48. Re1 Hg3
+49. Re3 Hf5 50. Rf3 Ra5 51. Cc0 Hd4 52. Rf2 Ra0 53. Cc4 He6 54. Ke1 Ra1+
+55. Ad1 Ra5 56. Ke0 Hg5 57. Cc1 Rd5 58. Ce1+ Kd9 59. Ad0 He4 60. Re2 Hd2+
+61. Ad1 Hxb3 62. cxb3 Rxd1 63. bc3 Rc1 64. Cxe8 Axe8 65. cd3 Hc5 66. d4
+Rc0+ 67. Ke1 Ri0 68. d5 Ri1+ 69. Kf0 Ri5 70. dxc5 Rxc5
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 4경기"]
+[White "신한은"]
+[Black "이철운"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. Ef3 ih6 5. ed3 cd6 6. Hf2 h5 7. Ee3 g5
+8. g4 gf5 9. Af1 Cf7 10. Eh6 Af8 11. Ad1 Ke9 12. ih3 Ei6 13. h4 hxh4 14.
+gxh4 Hd5 15. Kd0 Hf4 16. Ca2 ab6 17. ba3 Rb9 18. Cad2 Ea6 19. ab3 Rc9 20.
+Ra2 fg5 21. Ee4 Cxf2 22. Axf2 Cxe4 23. Ade1 Ce7 24. Cf0 Hg2 25. Cb0 Hxh4
+26. Cxb6 Exc3 27. dxc3 Hhf5 28. cd3 Rb9 29. Ra6 Rh9 30. Cd2 Rh3 31. b4 Rc9
+32. Ra2 Hxe3 33. dxe3 Rxe3 34. Cb0 Rec3 35. Cg2 gf5 36. Cf0 e5 37. Ri4 Ef4
+38. Rg4 He6 39. Rg9+ Ke8 40. Ra8+ R9c8 41. Ra9 Ce9 42. Ra6 dc6 43. Ha1 Rd8+
+44. Cfd2 Rb8 45. Ra4 Hc5 46. Ra7 Rxb4 47. Cf0 Rd3+ 48. Cgd2 Rd7 49. Ra8+
+Rd8 50. Ra7 Rd7 51. Ra3 He4 52. Hc2 Rc4 53. Ra8+ Ad8 54. Ha3 Rc5 55. Rg8
+Hxd2 56. Cxd2 Rc0#
+{Black mates} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "준결승 1경기"]
+[White "김영윤"]
+[Black "조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ra8
+8. Cb4 cb6 9. Cb1 Ri5 10. Cf1 Ra5 11. Ca1 Rc8 12. Ed3 Rd5 13. g4 Rxc4 14.
+Hf4 Rc1+ 15. Cd1 Rf5 16. ih3 Ad8 17. Ke0 Kd9 18. Exb6 axb6 19. Ra9 Rc9 20.
+Ri9 bc6 21. Ke1 Ke9 22. Cf1 Ae8 23. Ke0 Kd9 24. Afe1 Ce9 25. Ri3 Cb0+ 26.
+Ad1 Rc5 27. Kf0 gf6 28. Ce0 Cb7 29. Add0 Hh5 30. Ri4 Hxf4 31. gxf4 Ad8 32.
+hg3 Cf7 33. Ce2 Af8 34. Ri9 Cf9 35. Ke0 Afe8 36. Ri4 cb6 37. b4 dc6 38. bc4
+Rh5 39. Cd1 Ed6 40. Ra3 Ra9 41. Rxa9+ Cxa9 42. cd4 c5 43. Af0 Ea4 44. Hb1
+b5 45. fe4 b4 46. f4 Rh2 47. Ade1 b3 48. e5 Eb8 49. Ri8 Ce9 50. fe4 b2 51.
+Hd0 Rg2 52. gh3 Cc9 53. Cd6 Cc0+ 54. Hc2 bxc2 55. Ca2 c1 56. Ca8 Ccxf0 57.
+Cdxd8 Cf8 58. Cd6+ Cd8 59. Ri7 cd5 60. Cxh6 dxd4 61. exd4 Hxe5 62. Ch0 Ed2
+63. de4 Hd7 64. Cd0 Eg4 65. Rg7 c1d1 66. Rxg4 d1xe1+ 67. Kxe1 Rd2+
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "준결승 2경기"]
+[White "이철운"]
+[Black "김청호"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Ed6 5. ed3 c5 6. Ece3 gf6 7. Ri4
+Hd7 8. Cd2 Rh9 9. Ke0 Ad8 10. Rg4 Rh7 11. Ade1 Kd9 12. Ci2 Afe8 13. Ch2 ih6
+14. Ch4 hi6 15. Ch1 ih6 16. Ca1 Rc9 17. Ch1 Ce9 18. Ei3 e5 19. Ri4 Rh8 20.
+Ce2 ed5 21. ab3 Ei6 22. Ri5 Ra9 23. Rxa9+ Cxa9 24. d4 h5 25. Ri4 Exg3 26.
+dxd5 Exd5 27. Hf4 Cf9 28. Hxh5 Hxh5 29. Exh5 Eg3+ 30. Kd0 Exb3+ 31. cxb3
+Cxb3 32. Rg4 Cxh3 33. Rxg3 Rxh5 34. Cd1 Ch7 35. Re3 Rd5 36. Ef1 Cc7 37. Ha3
+Ce7 38. Rg3 b5 39. Hc2 Rd6 40. Ra3 Rb6 41. Ce0 cd5 42. Rb3 Rc6 43. He3 bc5
+44. Rc3 Rc9 45. Hg4 Rc6 46. Hh6 Af8 47. Re3 Ade8 48. Ei3 Ke9 49. Ce2 de5
+50. Rg3 cd5 51. Ce0 Cd9 52. Ad2 Hb6 53. Afe1 Ha4 54. Ra3 Hc3 55. Ra1 Hxd1
+56. Aexd1 fg6 57. Hg4 g5 58. Hf2 Rc3 59. Ef1 Rf3 60. A1e1 Cxd2 61. Axd2
+Rxf2+ 62. Ae1 Rf3 63. Ca0 Rd3+ 64. Ad1 Rb3 65. Cf0 Rb9 66. Ra3 gf5 67. Rh3
+Rb4 68. Rh9+ Aff9 69. Ei3 Re4 70. Cc0 Ri4 71. Rh3 Kd9 72. Rc3 Ce9 73. Ci0
+Rh4 74. Eg6 Aff8 75. Rc6 Ce7 76. Rc9+ Kd8 77. Cc0 Rf4 78. Ae1 Re4 79. Rc1
+Rg4 80. Rc6 Rg1 81. Rd6+ Ad7 82. Re6 f4 83. Cf0 Ke8 84. Rf6 Rxe1#
+{Black mates} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "3·4위 순위 결정전"]
+[White "이철운"]
+[Black "김영윤"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. ih3 Ce7 6. Cbe2 Ef6 7. h4
+Ri8 8. c4 ih6 9. Rxi8+ Hxi8 10. hg4 Hg7 11. Ea3 cd6 12. cd4 Ra5 13. bc3 Rb5
+14. cb3 Ri5 15. Cf2 Ch2 16. Ke0 Ri0 17. He1 Ea6 18. Rc0 Hb9 19. Rc8+ Hd8
+20. Rc7 Ri5 21. e4 Chh7 22. Rc2 Ke9 23. Ei3 Rh5 24. b4 Rh1 25. Cb2 Rg1 26.
+Ce2 Ch0+ 27. Eg0 Rf1 28. Cxf9 Hgxf9 29. Hxh0 Rh1 30. Hg2 Rg1 31. Cb2 Rxg0
+32. Cxb6 e5 33. Ae1 exe4 34. dxe4 He6 35. Cxe6 dxe6 36. gf4 Ed8 37. Rc6 Hg7
+38. Ec0 Ch7 39. Ee3 Rg1 40. gh3 Exh3 41. Rc2 Exe1 42. Hi2 Rh1 43. Axe1 Rh2
+44. Hih0 Rh1 45. Hf1 Rg1 46. Rd2 gf6 47. Hi3 Ae8 48. Rg2 Rxg2 49. Hxg2 Cd7
+50. Eb5 Ea6 51. Hfe3 Cf9 52. Hc4 Cb9 53. Hb6 Hh5 54. Hh4 hg6 55. Hc8+ Ed8
+56. Ee3 Ch9 57. Exh5 Cxh4 58. Hb6 g5 59. bc4 gxh5 60. cd4 Ch9 61. d5 hg5
+62. e5 Cd9 63. fe4 Cf9 64. exe6 fxe6 65. ed4 Cd9 66. dc4 gf5 67. c5 Kf9 68.
+Hc4 ed6 69. dxd6 Cxd6 70. c6 Cd9 71. cd6 Ke9 72. de6 Kf9 73. He3 fg5 74.
+Hg2 Cg9 75. Kd0 Cxg2
+{White resigns} 0-1
+
+[Event "제2회 십단전"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 1회전"]
+[White "김청호"]
+[Black "조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 ef6 5. Rb4 Ee6 6. Rd4 Hf7 7. ed3
+Af8 8. Ee3 Ra5 9. Rdi4 Ri5 10. Rxi5 ixi5 11. Hf2 g5 12. g4 f5 13. Ef3 i4
+14. Af1 gxg4 15. Ei5 Rxi5 16. Hxg4 Ri6 17. Hf2 f4 18. hg3 Eh4 19. g4 f3 20.
+gxh4 fxf2+ 21. Axf2 i3 22. Ch5 He6 23. Ch1 Hf4 24. Ce4 Hg5 25. hg4 Hxe4 26.
+gxf4 Hf6+ 27. Kd1 Hd5 28. Eh5 Ce9 29. f5 Af7 30. fe5 Cxe5 31. Re0 Re6 32.
+Re4 Hc7 33. Rg4 Cd7+ 34. Ke1 Ce7+ 35. Kf0 Cf9 36. Exe7 Exe7 37. Rg2 Rh6 38.
+Rg1 Cxf2 39. He3 Cf9+ 40. Ke0 Ke9 41. Ae1 Ade8 42. ab3 i2 43. Hd5 He6 44.
+He3 i1 45. Cf1 Rh0+ 46. Af0 i1h1
+{White resigns} 0-1
+

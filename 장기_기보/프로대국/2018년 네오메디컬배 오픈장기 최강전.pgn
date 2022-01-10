@@ -1,0 +1,1563 @@
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 우창균"]
+[Black "귀마 맹룡호"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Kd0 Ra5 9. Afe1 Af8 10. a4 Ri5 11. Rxi5 ixi5 12. ab4 Kf9 13. c4 Exg3
+14. hxg3 He6 15. Ce0 Ade8 16. Exg6 Hf4 17. Ci0 ih5 18. Ci9+ Rxi9 19. Exi9
+Ce9 20. Ra5 hg5 21. gf3 He6 22. Rxg5 Cd7 23. Rh5 Hed8 24. Cxh9 Cd9 25. Ch2
+Hd6 26. fe3 Hf5 27. Ef3 Cxi9 28. Ch9 He6 29. Ri5 Ke9 30. Rxi9 fg6 31. Ei5
+Hfg7 32. Eg8 g5 33. Hd4 cd6 34. Hxe6 Hxe6 35. Ri4 bc6 36. Hh3
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 최진호"]
+[Black "귀마 김영식"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ke9 8. Kd0 Rai8 9. Cxe6 fxe6 10. Exg6+ Cg7 11. Ce2+ He5 12. Ci2 ih6 13. Ei3
+Rf8 14. Cxi9 Rxf2+ 15. Afe1 Rxc2 16. Ee2 Hc7 17. Ke0 Ce7 18. Eg0 Cg1 19.
+Cg9+ Ke8 20. Cg2 Rc1 21. Ri1 Cxd1 22. Axd1 ed6 23. Kd0 Ef6 24. ab3 d5 25.
+de3 ba6 26. Cd2 Ke9 27. Ae1 Hf7 28. Ri5 c5 29. Rf5 Ca7 30. Rb0 Ec8 31. gf3
+Ade8 32. Ei3 Ce7 33. hg3 He6 34. cd3 Hfg5 35. bc3 Ad9 36. g4 de5 37. Rf6
+Hc7 38. Rd6 ed5 39. gxg5 Hb5 40. Rxh6 Ha3 41. cb3 Hb1 42. Ke0 Ea5 43. Re6
+Ke8 44. Cf0 Ade9 45. g6 c4 46. g7 Af8 47. Rf6 Ed7 48. gf7+
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 이근"]
+[Black "귀마 임대빈"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. ef3 ed6 6. Hd2 Ad8 7. Ee3
+Kd9 8. Ad1 Afe8 9. Ra1 Ri5 10. Af1 Rd5 11. Ria0 a5 12. g4 He6 13. c4 Rxd3
+14. Rxa5 Rxa5 15. Rxa5 Rd5 16. Ra9 Ce9 17. ih3 c5 18. b4 cxc4 19. bxc4 dc6
+20. Kd0 cb6 21. gf4 gf6 22. fe4 hg6 23. hg3 g5 24. Ra7 Cg7 25. Ra9 f5 26.
+Ra3 g4 27. Hi3 gxg3 28. fxg3 Cb7 29. ed4 Rd6 30. Ra5 Hg7 31. Afe1 Cxe3 32.
+He4 Ri6 33. Ra9 Hb8 34. Ra7 Ci7 35. Rxg7 Ee6 36. Hg2 Ce5 37. Rc7 Add7 38.
+Rc8 f4 39. Hd2 Ci4 40. d5 Ci8 41. Rc7 Ce7 42. Rc9+ Kd8 43. d6 Eh4 44. dxd7+
+Hxd7 45. gh3 Exe2 46. Rxb9 Ri0+ 47. Hf0 Eh0 48. hg3 Ri5 49. Hb3 Ci0 50. Cb4
+Rb5 51. Add2 He5 52. Hd4 Ad7 53. Hf5 Hc6 54. Hg7 Hxb4 55. cxb4 Rxb4 56. Rf9
+Rd4 57. Rf8+ Kd9 58. Rf7+
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 김희상"]
+[Black "귀마 김준호"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 gf6 5. Rh0 h5 6. Ke0 Ed6 7. Rh1 Ei6
+8. He3 Hd7 9. Ed3 Rg9 10. ih3 c5 11. Rha1 f5 12. Rxa6 Rxa6 13. Rxa6 f4 14.
+fxf4 Exf4 15. Ra5 Eh1 16. Hg2 Hi6 17. Ra1 Ce5 18. Rxh1 Cg7 19. Ri1 Hh8 20.
+Ri8 Rg8 21. Hi1 Ke9 22. Ei3 Ade8 23. Hg0 Ci5 24. Ri7 Ci2 25. Rh7 Cxg0+ 26.
+Ae1 Cg7 27. Rxh5 Exb3 28. Rh6 Hf8 29. Rh5 Cg9 30. Rxc5 Kd9 31. Rc9+ Kd8 32.
+Rc8+ Kd7 33. cxb3
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "이벤트 대국"]
+[White "귀마 노신예(MC)"]
+[Black "귀마 이다혜(MC)"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+He5 8. Cb1 Hxc6 9. Ci1 Rh9 10. Ed3 a5 11. Ca1 Rd7 12. Hb2 Cf7 13. Ca6 ed6
+14. c4 cxc4 15. Exa5 Ra7 16. Ca3 Rxa5 17. He3 cd4 18. ih3 Ad8 19. Cc3 Rxa0
+20. Hxa0 d3 21. Ca3 dxe3 22. Cxe3 Hd4 23. bc3 Hc2+ 24. Ke0 Hxe3 25. fxe3
+Cd9 26. Hc1 Ee6 27. cd3 h5 28. Ri4 g5 29. Afe1 h4 30. hxh4 Exg3+ 31. Af1
+gh5 32. hg4 de6 33. Ke1 Ed5 34. Ce0 Hf5 35. gf4 h4 36. Ri5 Hg7 37. Rg5 h3
+38. d4 Cxe3 39. dxd5 Hi6 40. Rg6 Hh8 41. Rxe6+ Kf8 42. Rxe3 Cxd5 43. Rd3
+Hg6 44. Rxd5 Hxf4 45. Rxd8+ Kf7 46. Rd9+
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 송은미"]
+[Black "귀마 김현기"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ca2 Rb5 5. Ce2+ Ee6 6. ab3 Kf8 7. Hc2
+Hf7 8. ed3 Afe8 9. Ee3 Ce7 10. Cd2 Ce9 11. Ra8 Hbd8 12. Ad1 ih6 13. Rxi9
+Cxi9 14. Kd0 Ch7 15. g4 Ri5 16. Ade1 Ce9 17. Ef3 Ri0 18. Ra5 Kf9 19. Ci2
+Cg9 20. Ri5 Rh0 21. gh4 Ce7 22. Ce2 Cg2 23. Ri2 Rxh3 24. Exh6+ gxh6 25. hi4
+Rg3 26. Rxg2 Rxg2 27. Cxg2 f5 28. Afe0 Af8 29. Ce2 Ch7 30. Cf0 Ef6 31. i5
+Ei4 32. Hg4 f4 33. Hi3 Cd7+ 34. Cd2 Eh4 35. Ce7 Hg5 36. Ad1 He4 37. d4 Ade8
+38. Hg2 Axe7 39. dxe4 fxe4 40. Hxh4 exe3 41. Ke1 Aef7 42. Cd0 Ch7 43. Hxe3
+Cxh4 44. Cxd8 A8e8 45. Ci8 Eg1 46. Hf5 Ch7 47. Hxh6 cd6 48. Hf5 bc6 49.
+Hg7+ Ke9 50. Ci0 Ee4 51. Hf5 de6 52. cd3 cd6 53. d4 Eh2 54. Hg7 ef6 55. Hh5
+de6 56. Af0 f5 57. Hg3 fe5 58. ih5 Ce7 59. Kf1 Cg7 60. bc3 Ef5 61. Ce0 Ei3+
+62. Kf2 ed6 63. Ke1 Ce7+ 64. Kd0 Ch7 65. Afe1 de6 66. Ce3 ef6 67. Cxi3 Ch3
+68. He2 ef5 69. hi5
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 우창균"]
+[Black "귀마 전호진"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Kd0 gh6 9. Afe1 Ke9 10. Ca2 Rc9 11. Cad2 Ra9 12. Cf0 Rg8 13. g4 Ade8
+14. Ri1 Aff8 15. Ce2 Kf9 16. Ef3 Ri8 17. Ci2 Cxh3 18. Cxi8 Chh7 19. ab3 Rc9
+20. Ci2 Ce9 21. Ci9+ Cg9 22. Exh6 ixh6 23. Ri8 Ke9 24. Rg8 Aff9 25. Rg7 Ch2
+26. Hg0 Ch8 27. Hf2 fg6 28. Exg6 hxg6 29. Rxg6 Cd8 30. gf4 Kd9 31. He3 cd6
+32. f5 Ce9 33. Heg4 Hh8 34. Rg7 Eg3 35. Ri7 Exd1 36. Kxd1 Hd5 37. Cd2 bc6
+38. Kd0 Ee7 39. Ci0 Hf7 40. Cc0 Rb9 41. Ce0 Aff8 42. d4 Hb6 43. cd3 c5 44.
+Rg7 Hd7 45. bc3 Aff9 46. Ra6 Rb1 47. Hd1 Rc1 48. Hh6 Aff8 49. Hxf7 Afxf7
+50. Rg9 Cf8 51. Ra9+ Kd8 52. de4 cd5 53. de3 dc6 54. Rg6 c5 55. Rc6 Af9 56.
+Rc7
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 최진호"]
+[Black "귀마 최서호 "]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Hg7 5. Ri4 Ee6 6. Ed3 Cf7 7. Hd2
+Rh9 8. Kd1 Rh5 9. Ade1 Ke9 10. Ria4 a5 11. R4a1 Rc5 12. c4 Rxc4 13. Exf6
+Rc5 14. Ed3 Ch7 15. Rxa5 Raxa5 16. Cxb9+ Ae8 17. Rxa5 Rxa5 18. Exa5 Cb7 19.
+ef3 Hc5 20. Kd0 gf6 21. b4 Ha6 22. bc4 Hc7 23. Cxf9 Kxf9 24. Cc2 Cbf7 25.
+Cxc6 Cd9+ 26. Ad1 Ch2 27. He3 f5 28. Cc2 Hb5 29. Ae1 Ke9 30. Ke0 fe5 31.
+Ce2 ef5 32. Hd5 Ch7 33. c5 Ha3 34. c6 Kf9 35. Ee3 ih6 36. Hb6 Eb4 37. Hdc4
+Ch5 38. Ce4 Exd1 39. Axd1 Hb5 40. Ce2 Hd4 41. Ae1 Ce5 42. Ec8 Ce9 43. cd6
+Ce4 44. Hd2 Hxe2 45. Hxe4 Hc1+ 46. Kf0 fe5 47. Hg5 h5 48. He6 Cf7+ 49. Af1
+Hf5 50. Ec0 e4 51. d7 Hd6 52. d7xe8+ Kxe8 53. Ef2 Hd3 54. Ke0 Hc5 55. Hg7
+hg5 56. Ef6 gf5 57. Hi8 Ke7 58. Hc4 Kd7 59. Hd2 ed4 60. fe3 f4 61. Ei4 fe4
+62. exe4 d3 63. Hf3 Hdxe4 64. He5+ He6 65. Ae1 Cc7 66. Hh6 Ce7 67. Hhg4 d2
+68. Ec4
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "귀마 이한울"]
+[Black "귀마 정원직"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ch4
+Ra5 8. g4 g5 9. gxg5 Rxg5 10. Ch1 Exc3 11. dxc3 He6 12. Cc1 Hf4 13. Ef3
+Hxh3 14. Hxh3 Rg3 15. Hg1 f5 16. ab3 f4 17. Ra8+ Ke9 18. Ri3 Rg2 19. Ei1
+Afe8 20. cd3 Ef6 21. Hd4 Kf9 22. bc3 i5 23. Kd1 i4 24. Ri2 Rg5 25. Rf2 Exd3
+26. Rxf4 Exf0 27. Cf1 Ke9 28. Hh3 ih4 29. Rxh4 Cxh3 30. Rxh3 Rig9 31. Ae1
+Rd5 32. Ra4 Ei2 33. Rf3 Hh6 34. Rf2 Eg5 35. Ce0 Ed7 36. Kd0 Rg3 37. Cd1 Ri5
+38. Exc6+ Add8 39. Cxd7 bxc6 40. Ra9+ Add9 41. Cd1 Rxc3 42. Rc2 Rxc2 43.
+Hxc2 Hf5 44. Eg4 Rg5 45. Ra4 c5 46. He3
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "이벤트 대국"]
+[White "귀마 김형섭(노인위원장)"]
+[Black "귀마 조한억(동작지부장)"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Cbe7 6. Ce2 Rh8 7. Ri9
+Ch9 8. Ri4 Ed6 9. Ed3 Ra8 10. ef3 c5 11. Ri7 Ch7 12. Ee3 gf6 13. Hd2 cd5
+14. c4 Rg8 15. Ri5 h5 16. Ri2 Cf7 17. Cb4 Ke9 18. Cg4 Hi8 19. Hi3 Rh8 20.
+Cg1 Rh7 21. Exf6 exf6 22. Cd1 ab6 23. Rxa8 Exa8 24. Cxd5 Ade8 25. Cd1 Cd9
+26. Ch1 Hg7 27. Hxh5 Hxh5 28. Ri5 f5 29. Cxh5 Rh6 30. Ch0 Rd6 31. Ad1 fe5
+32. Cxe5 Ri6 33. Rxi6 Exi6 34. Ce2 Ed6 35. f4 Exf4 36. Eh5 Ea4 37. b4 He5
+38. Exe7 Axe7 39. He4 Hg6 40. Hf6+ Ae8 41. Hxe8 Cf7 42. Hg7+ Kd9 43. Cd0+
+Cd7 44. bxa4 Af7 45. ab4 Ke8 46. Hi8 Af8 47. g4 Ec6 48. cd4 Hh8 49. de4+
+Kd8 50. h4 Ae8 51. Hh6 Hg6 52. g5 Hf8 53. hg4 Kd9 54. Hf5 Hh7 55. g6 Hi5
+56. g5 Hh3 57. gh5 Hg1 58. Af1 Hf3+ 59. Af2 Ef8 60. Ke0 Ke9 61. Hg7 Kd9 62.
+Hxe8 Hh4 63. Hf6
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 2경기"]
+[White "귀마 차선균"]
+[Black "귀마 최진호"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Af1 Ee6 7. Kf0
+Ke9 8. Hd2 Rc8 9. ih3 Hf8 10. Cc2 Ade8 11. Ri4 d5 12. c4 Raa8 13. Ri5 ab6
+14. Rxa8 Rxa8 15. Rxd5 Ra0 16. Afe1 Rxb0 17. Ra5 Rxb2 18. Ce2 Rb0 19. Eb1
+Cb7 20. Cb2 Rxb1 21. Hxb1 Cxb3 22. Ra9 Ad9 23. Hd2 Cbb7 24. Rxb9 Ae8 25.
+Ra9 Cf7+ 26. Cf2 Cf9 27. Ra5 Add8 28. Add1 Cc7 29. g4 Ce7 30. f4 He5 31.
+cd4 Hd3 32. Cf5 h5 33. Cf1 gh6 34. Ra3 Hb4 35. dc4 Ha6 36. He3 Add7 37. Hd5
+Ca7 38. Re3 Cd9 39. Hc7 cd6 40. Hxa6 bxa6 41. Cf6 Ec9 42. Rb3 hg6 43. Cf2
+Caf7 44. Rb5 gh6 45. Rb8 Ch9 46. Rc8 ab6 47. c5 hg6 48. hg3 Hh7 49. Ke0 Ci7
+50. Kd0 gf6 51. Cb2 Aed8 52. Hb3 Cg7 53. gf3 ba6 54. Ra8 fe6 55. Cb9+ Ef7
+56. Rxa6 Cd9 57. f5 A7e8 58. Cb2 Ce7 59. Hd2 Ed4 60. Ra4 Cd7 61. f4 ef6 62.
+fe5 Ef7 63. Cf2 fe6 64. exe6 dxe6 65. Ra6 ef6 66. cd5 Cf9 67. de5 hg5 68.
+gxg5 Hxg5 69. Cxf6 Kd9 70. f5 Hh3 71. Ra3 Hi5 72. e6 Ce9 73. Cd6+ Cd7 74.
+f6 Ei9 75. Ri3 Hh7 76. Ri7 Hg9 77. Rg7 Hi8 78. Ri7 Hg9 79. e7 Axe7 80. Rxe7
+He8 81. Rxd7 Hxd6 82. Rxd6
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 박영완"]
+[Black "원앙마 김봉철"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 g5 7. g4
+gxg4 8. Ra4 Cf7 9. Rxg4 Ra8 10. Hh4 Ci7 11. Rh0 ih6 12. Ef6 Kf7 13. hg3 Rh8
+14. Cb9 Ade9 15. Cb1 h5 16. Hg2 Ei6 17. Cf1 Rg9 18. Ed3+ Ke8 19. Rb4 Af8
+20. He3 Ad9 21. Rg4 Rh6 22. Hf5 Rhh9 23. Hxe7 Cxe7 24. Rb4 Ad8 25. Rb7 Ad7
+26. Rb8+ Ad8 27. Cxf8 Kxf8 28. Rxd8+ Kf7 29. Rh1 Rd9 30. Rb8 Re8 31. Rb7
+Rhd9 32. Rf1 Red7 33. Rb4 d5 34. Ef6 d4 35. fe3 Hf4 36. Ed3 Ke8 37. gf3
+Hfe6 38. Hd2 ab6 39. Ra4 Ea6 40. Ra1 Rd5 41. Rg1 Rg5 42. Ke0 Rdd5 43. Rxg5
+Rxg5 44. Ei3 Rg2 45. Ade1 Ci7 46. e4 dxd3 47. cxd3 Ce7 48. de3 h4 49. Ra5
+Rg5 50. e5 Hc7 51. Hc4 h3 52. f4 Ca7 53. ef5+ Kf8 54. fxg5 Cxa5 55. Hxa5 b5
+56. Eg6 bxa5 57. bc3 Hce6 58. fg4 Eg3+ 59. Aff1 Ec9 60. cd3 Hi8 61. ef3 Ei0
+62. Kf0
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승 1경기(A조)"]
+[White "귀마 최진호"]
+[Black "원앙마 허금산"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ra4
+Rg7 8. Rc4 ab6 9. Ea3 Ra6 10. b4 f5 11. Kf1 Ra5 12. Exc6 bxc6 13. Rxc6 f4
+14. de3 Ci7 15. Rh0 ih6 16. cd3 Cbe7 17. Hd4 Hxd4 18. Rxc7 fxf3 19. exf3
+Hxf3 20. Rc8+ Ad8 21. gxf3 Rg5 22. hg3 Ee6 23. Hf2 Exg3 24. Afe1 Ei6 25.
+Ce0 Rg2 26. Ch8 Ke9 27. Ch1 Afe8 28. Kf0 Cf7 29. Rxc9+ Add9 30. Rc2 Rg4 31.
+bc4 gf6 32. de3 fe6 33. Cd1 R7g6 34. Cf1 Kf9 35. Hd3 Ce9 36. e4 h5 37. cd4
+ef6 38. ef4 Exf4 39. fxf4 Rg3 40. Rd2 h4 41. de4 fe6 42. Hf2 Rg2 43. Rd3
+Ch9 44. Ri0 Add8 45. Rdi3 Chd9 46. Ri6 Rg9 47. Hd1 h3 48. Rxe6 h2 49. Cf5
+h1 50. He3 R2g5 51. Rf6 Rg3 52. Af2 Rxe3 53. Ri7 Ke9 54. Rii6 Reg3 55. Afe1
+h1g1 56. Ri2 Rh9 57. Ad2 Re3 58. A0e1 Rh1 59. Rg6 Reh3 60. Af2 Cxd2 61.
+Rg9#
+{White mates} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승 1경기(B조)"]
+[White "귀마 차선균"]
+[Black "원앙마 김희상"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Ra7 2. ih3 Ri7 3. Ef3 ab6 4. Rxa7 Hxa7 5. Ri4 Cb5 6. Rh4 ih6 7. Ra4
+Hg7 8. Exh6 gxh6 9. Cxh6 Ea6 10. Hc2 Ce7 11. Ce2 Hb9 12. Hf2 Hd8 13. Ad1
+Cb9 14. Kd0 Af8 15. Ade1 Cf9 16. Ch1 Ri0 17. gf3 Cf6 18. Rg4 Af7 19. Ke0
+Ke9 20. Cd1 Ade8 21. Cg1 Ri7 22. Cg2 ed6 23. Ce2 Cf9 24. Ea3 He6 25. cd3
+Cd9 26. b4 Ec9 27. bc4 Ri8 28. Cd1 Ri5 29. Cg1 Ri8 30. Cg6 Ei6 31. c5 cxc5
+32. Cxd6 Rh8 33. Ch2 Ri8 34. Ce2 Rh8 35. Rg6 Cg9 36. Rf6 Aff8 37. Hd4 Hxd4
+38. dxd4 Ri8 39. Cd0 b5 40. d5 Rh8 41. dxc5 bxc5 42. Ch2 Ri8 43. Af1 Kf9
+44. Ce2 Ad8 45. Rc6 cb5 46. Ed5 Hf5 47. Cxd8 Af7 48. Cd0 Ef8 49. Rg6 Ce9
+50. Rg5 Hd4 51. Ce4 Hc2 52. Cf0 Ea6 53. Hd1 Ri6 54. Eg3 Rb6 55. ed3 b4 56.
+fe3 Ae8 57. Ad2 Ha1 58. Afe1+ Rf6 59. Rg6
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 1경기"]
+[White "귀마 최진호"]
+[Black "원앙마 차선균"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Af1 Ri7 7. Kf0
+f5 8. Ade1 Ad8 9. Ce0 Cd7 10. cd3 Cd9 11. Ca2 ab6 12. Ea3 Rb9 13. b4 c5 14.
+Cg2 g5 15. Cb2 b5 16. Rb0 Ra9 17. Ca0 Ea6 18. Ri4 i5 19. Ri1 Ri6 20. h4 f4
+21. Hf2 ih5 22. Rxi6 Exi6 23. hxh5 gxh5 24. g4 Ke9 25. gxf4 Exf4 26. Ce2
+Rc9 27. bxb5 cxb5 28. Cc0 Rb9 29. Rb2 hg5 30. Hh3 gf5 31. Hi5 Afe8 32. Hg6
+Cb7 33. Cxe6+ Kf9 34. Ed5 Cxd5 35. Ra2 Cg7 36. Cxc7 Rb6 37. Cxa6 Rxg6 38.
+Cc0 Ca5 39. Hd4 Rxa6 40. Hxf5
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "원앙마 장기업"]
+[Black "귀마 박선양"]
+[Result "1-0"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ra8 5. He3 ef6 6. Hbc2 Ee6 7. c4
+Ke9 8. Ke0 Hd7 9. Ade1 Ade8 10. Cd2 Ci7 11. Ei3 Cbe7 12. f4 Cf7 13. g4 ih6
+14. Aff1 Aff8 15. Cf0 Cf9 16. a4 c5 17. Ca2 Rc8 18. ab4 b5 19. Ce2 bxb4 20.
+cxb4 Cd9 21. Rg0 cd5 22. bc4 Hb6 23. Ea3 Hxc4 24. Cc0 Hxe3 25. Cxc8 Hxc2
+26. Ec6+ Kf9 27. Cxc2 Eb4 28. Rb0 Exe2 29. Rxb9 Ec5+ 30. Kf0 Ri5 31. Rg2
+Re5 32. Eg0 Ad8 33. Rb8 Afe8 34. Ci2 He6 35. Cf2 Ri5 36. Ei3 Cf7 37. Rb9+
+Ce9 38. Cd0 d4 39. Rb3 Re5 40. Rd2 de4 41. fxe4 Rxe4 42. h4 h5 43. gf4 Re5
+44. hg4 g5 45. Cf2 gxg4 46. fxg4 hg5 47. Rg3 gxg4 48. Rxg4 Rh5 49. Rd3 Ef3
+50. Cxf6 Ei1 51. Rg2 Rh6 52. Rf3 Rh0+ 53. Eg0 Rxg0+ 54. Rxg0 Exf3 55. Rg7
+Ce7 56. Rxf7+ Ke9 57. Rh7 Ei5 58. Rh4 Eg2 59. Aff2 Ee5 60. Ee3 Hc5 61. Eg6+
+Kd9 62. Rh9+ Ce9 63. Exe9 Axe9 64. Cf1 Hd3 65. Rh8 Ade8 66. Cd1+ Ad7 67.
+Rh5 Ke8 68. Rh8+ Kd9 69. Rh4 Ae8 70. Re4 Eh3+ 71. Ke0
+{Black resigns} 1-0
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 채희종"]
+[Black "귀마 배정수"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Rh4 a5
+8. Hd2 Kd9 9. Ci2 Ei6 10. Cbe2 Ed6 11. c4 cb5 12. Ed3 Afe8 13. b4 Rc9 14.
+bxb5 axb5 15. Ra6 Rg9 16. Cf2 Exf3 17. gxf3 Ch7 18. Rg4 Cbe7 19. Eb6+ Ke9
+20. Ee4 He5 21. Ri4 Cf7 22. Rxe6 Ci7 23. Rxe5 Cxi4 24. ixi4 gf6 25. Exh6
+He6 26. Rxb5 Rxg2 27. Exe8 Axe8 28. Cxf6 Hd4 29. Ce4 Hc2 30. Rb7 Kd9 31.
+Cf2 Rxc4 32. Ce2 Rb4 33. Eb5 Ce9 34. Ad1 Hd4 35. He4 Rxf2+ 36. Kxf2 Hxe2
+37. Hd6 Hc3 38. Afe1 He4+ 39. Hxe4 Rxe4 40. Rb6 Eg9 41. Rd6+ Ad7 42. i5 Re5
+43. Ee3 Rf5 44. Ec6 Rxf3+ 45. Ke2 Ad8 46. Kd2 Rc3 47. Add0 Ee6 48. Kd1 Rc1+
+49. Kd2 Eg3 50. Af2 Rc5 51. i6 Ke8 52. ih6 Rc0
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 이병현"]
+[Black "귀마 김현기"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 gh6 10. Afe1 fg6 11. Cxh6 gxh6 12. Ci2 Ri5 13. g4 Ri4
+14. gh4 Ri5 15. h5 Rxi2 16. Rxi2 hxh5 17. ab3 Ef6 18. hg3 Ee6 19. g4 i5 20.
+Ra5 Eg3+ 21. Kf0 Rg9 22. Rf5 Ec8 23. Eh6 Ke8 24. Rf6 Ce2 25. Rxf7+ Kxf7 26.
+Axe2 cd6 27. Ee4 Ce7 28. Rg2 bc6 29. Rxg3 Ke8 30. Rf3 Ke9 31. Rf5 He6 32.
+Eh6 Afe8 33. Exe8 Axe8 34. Aee1 hg5 35. gxg5 Rxg5 36. Rxg5 Hxg5 37. Hg4 i4
+38. He5 Kf9 39. Af2 Ce9 40. Hg6 Cg9 41. Ade1 Ef6 42. d4 Ke9 43. cd3 Cc9 44.
+Hb4 Cf9 45. Ke0 cb6 46. dc3 Cd7 47. Hi7 Hh7 48. Eg6+ Af8 49. d5 Cxd5 50.
+Hxd5 dxd5 51. c4 bc6 52. Hh5 ih4 53. Ee3 hg4 54. b4 Hg5 55. Hg7 Af7 56. b5
+gf4 57. cd4 cd6 58. dxd5 dxd5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 고승원"]
+[Black "귀마 전호진"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Ce7 4. Ef3 Hf7 5. Ri4 Ef6 6. Che2 g5 7. Rd4
+ih6 8. Cb7 Ad8 9. Cb1 Ra8 10. g4 Ri4 11. gh4 Ri6 12. Cf1 b5 13. c4 e5 14.
+Rb0 Ea6 15. Rf4 ef5 16. Re4 Rb8 17. a4 Rb9 18. Ca1 Ec9 19. Rd4 He6 20. Rd5
+cb6 21. Cf1 Hc7 22. Rd4 fe5 23. Cb1 ed5 24. Rf4 hg6 25. Ei1 Exh3 26. Afe0
+Af8 27. a5 Ra9 28. axb5 bxb5 29. Ea3 Kf9 30. e4 He6 31. Rf3 Cxe4 32. Hxh3
+Rh6 33. Ch1 Rb9 34. Hf2 Rxh4 35. Rd3 Ce9 36. Cb1 Ra9 37. Cf1 Rxc4 38. He3
+d4 39. Rdb3 Rc5 40. Ca1 Rb9 41. Rc0 Rxc0 42. Exc0 b4 43. Ra3 Hf4 44. Ef3 b3
+45. Ra5 Cd7 46. Cf1 d3 47. Hf5 gxf5 48. Rxf5 Rb4 49. Hh1 d2+ 50. Kxd2 Hd3+
+51. Rd5 Cd4+
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 양승태"]
+[Black "귀마 최서호"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Hg7 4. Ce2 ef6 5. Ed3 Ee6 6. Ri4 Cf7 7. Rc4
+Hc5 8. ef3 ih6 9. Ee3 Ri5 10. Exc6 Ra7 11. Hd2 Ed6 12. fe3 Rc7 13. b4 Rxc6
+14. b5 Exc3 15. Rxc3 Ri2 16. Rxc5 Rxc5 17. bxc5 Rxg2 18. cd5 Eb9 19. ef3
+Cf5 20. Ce0 He6+ 21. Kd1 Cf2 22. Ade1 Hc7 23. Axf2 Ri2 24. A2e1 Ri4 25. Rc0
+Hxd5 26. Rc5 Ri5 27. Kd0 Ed6 28. Hb3 ab6 29. Ae2 Ke9 30. Ha5 Afe8 31. Ca0
+fe6 32. Afe1 Ad7 33. Cf2 e5 34. Cd2 Ea4 35. Cf2 Ri4 36. Rc4 e4 37. Rxa4 b5
+38. Cd2 Hb4 39. Eb6 A9d8 40. Hb7 Cxb7 41. Ra9+ Ke8 42. Cf2 Cf7 43. Rc9 ed4
+44. fe3 d3 45. gf3 dxe3 46. fxe3 Hd5 47. Rc6 Kf8 48. ed3 Ra4 49. Cf0 Ra6
+50. Cb2 Hf4 51. h4 Hxd3 52. Rc3 Hc5 53. Rc4 He6 54. Ee4 bc5 55. Rc3 Rd6+
+56. A2d2 Rd4 57. Re3 Hg5 58. Ce2 Rd6 59. hg4 Hi6 60. Rf3 h5 61. Rh3 g5 62.
+Ke0 Rd4 63. Rf3 gxg4 64. Eh2 Hh4 65. Rf5 Rd5 66. Rf6 Hg2 67. Cd0 Re5 68.
+Rg6 h4 69. Rg8+ Kf9 70. Rg7 Kf8 71. Cc2 He3 72. Cc8+ Ad9 73. Ade2 Ae9 74.
+Cf0 cd5 75. A2f2 Hf5 76. Rg5 Hg3 77. Rg7 Re7 78. Kd0 d4 79. Ca0 Re3 80. Ad1
+de4
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 장성주"]
+[Black "귀마 정국봉"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "186"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Ri4 Ce7 4. Ce2 Hd7 5. Ed3 Ed6 6. ef3 Ri8 7. Hg2
+ih6 8. Rxi8+ Hxi8 9. Ee3 Ad8 10. Af1 Kd9 11. Cf2 Afe8 12. Cf0 Ce9 13. ab3
+Rxa0 14. Cxa0 Cg7 15. Hi3 Cb7 16. Cg0 ef6 17. Ke0 Ee6 18. Exb6 cxb6 19. Hc4
+Exf3 20. gxf3 Cf7 21. Ade1 Cxf3 22. Cd0 ba6 23. He5 Cf9 24. cd3 Hxe5 25.
+Cxe5 Ce7 26. Ce2 Ke9 27. h4 ab6 28. Cg0 Cf3 29. bc3 Add7 30. h5 hxh5 31.
+Hxh5 Cf8 32. Exg6 fxg6 33. Kd0 Cd8 34. Ke0 Eh4 35. Aff2 g5 36. Hi7 Exe2 37.
+Axe2 gf5 38. de3 Hg7 39. Hg6 He6 40. cd3 bc6 41. Cd0 f4 42. Cf0 f3 43. exf3
+Cxd3 44. Cf6 c5 45. Cd6 c4 46. f4 c3 47. f5 Hd4 48. fe5 Hb5 49. Ci6 Cd8 50.
+e6 Ce4 51. Hi5 Hd4 52. ef6 Hxe2 53. Ce6+ Kd9 54. Hh7 Hg3+ 55. Af2 cd3 56.
+Hg5 Hf5 57. Kf0 Cf8 58. Ke1 de3+ 59. Kf0 Ce2 60. Axe2 exe2 61. Ke0 Hd4 62.
+He4 Hxe6 63. fxe6 Cd8 64. ed6 Ade7 65. Hc5 Ke9 66. de6 A7f7 67. Hd3 Cf8 68.
+Hc1 ef2 69. Hb3 Kf9 70. Hd4 Ke9 71. Hb5 Kf9 72. Hd6 fe2 73. He4 Ke9 74. ef6
+Afe7 75. Hc3 ef2 76. Hd5 A7d7 77. fe6 Cd8 78. Hf4 Kd9 79. Hg6 Ke9 80. He5
+Kd9 81. Hc6 Ke9 82. ef6 Af8 83. He5 Afe8 84. Hg4 fe2 85. fe6 Kf9 86. He3
+Cd2 87. ed6 Ade7 88. de6 A7d7 89. Hd5 Add8 90. Hf4 ef2 91. Hd3 fe2 92. Hf4
+ef2 93. ed6 Cd7
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 김동학"]
+[Black "귀마 이한울"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. ed3+ Che7 5. Ee3 ef6 6. Exc6 bxc6 7.
+Rb0 f5 8. Rb4 Ef6 9. Rii4 g5 10. Ra4 Rb9 11. Rib4 Ce9 12. He3+ Kf8 13. Ra7
+Hd8 14. Rh4 Rh9 15. Rxh9 Cxh9 16. Hd5 He8 17. Ra4 cd6 18. He3 Ce9 19. Rh4
+Ee6 20. Ef3 Exc3 21. Hi1 Rc9 22. Hg2 He6 23. ab3 Ea6 24. Exd6 Hf4 25. Ef3
+Hxd3+ 26. Kf1 Cb1 27. Afe0 Rc1+ 28. Kf0 Rg1 29. Ed6 He1 30. Cxe8 Hxg2 31.
+Hxg2 Rxg2 32. Kf1 Rg1+ 33. Kf0 Afxe8 34. Ra4 Cb6 35. Aee1 Rg0+ 36. Kf1 Cb1+
+37. Ad1 Cbxe1 38. Rxa6 Cb1+ 39. Ad2 Rd0 40. Ae2 Cxe2 41. Ef3 Rd1+ 42. Kf0
+Ec4 43. bc3 Ce9 44. cxc4 Re1#
+{Black mates} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "귀마 정국봉"]
+[Black "귀마 이근"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "173"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Cg2 Cb2 4. Ri4 Ca7 5. ab3 Ea6 6. Rb0 Cb5 7. Cb2
+Hbd8 8. Hf2 Ke9 9. Che2 Ade8 10. ed3 gh6 11. Ef3 Ci7 12. Rg4 Ce7 13. Ee3
+Ec9 14. Exc6 bxc6 15. Rb4 cb6 16. Cd2 e5 17. Ha3 Ee6 18. Ec5 Cb9 19. Rxb6
+Aff8 20. Rb2 Cf9 21. Cxd8 Axd8 22. Rxe6 Afe8 23. Exe8 Axe8 24. Af1 i5 25.
+Ke0 ih5 26. Ade1 hg5 27. de3 gf5 28. cd3 Ri0+ 29. Aff0 Ri6 30. Rb0 hg6 31.
+Hb5 gf6 32. Rc6 Ch7 33. gf3 Ch0+ 34. Hg0 Ri1 35. Rc1 Rg1 36. Kd0 Cd9+ 37.
+Hd4 Rxg0 38. Ce0 Rg2 39. Ad1 Ee7 40. Hc6 Rc9 41. hg3 fe6 42. Rbc0 Rb2 43.
+Ha5 Rxc1 44. Rxc1 Rb0+ 45. Ke1 Hh6 46. d4 ed6 47. ed3 Ch7 48. fe3 Ra0 49.
+Rc5 ed5 50. dxd5 Cxd5 51. Hc4 Cd9 52. Hd2 Ra1 53. bc3 Cf9 54. ef3 Ch5 55.
+Rc8 Ra9 56. Kd0 Ce5 57. Afe1 Kd9 58. fe3 Eb5 59. e4 Ce9 60. ed4 Ed8 61. gf3
+Hf7 62. fe3 Ra5 63. c4 fe5 64. c5 Ra9 65. dc4 Ce7 66. c6 dxc6 67. Rxc6 Rc9
+68. c5 Ke9 69. Hb3 Rxc6 70. cxc6 Cd9 71. Aed2 Kf9 72. Ha5 ed5 73. Cc0 He5
+74. Cc8 Ef5 75. Hc4 d4 76. dxd4 Hxc6 77. Cc5 Hd8 78. e4 Ce9 79. Cc2 Eh8 80.
+Hb6 Ce7 81. d5 Ke9 82. e5 Kf9 83. Hc8 Ce9 84. Cf2 Cf7 85. Hd6 Af8 86. ef5
+Exf5 87. Hxf5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(A조)"]
+[White "귀마 우창균"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Cb4 Ce7 5. Cb1 Ke9 6. Ci1 Ria8 7. Ed3
+ab6 8. Rxa8 Rxa8 9. Cd1 Hc9 10. ih3 ed6 11. Ri9 Rh8 12. ef3 Ee6 13. He3
+Ade8 14. Hf5 Ce5 15. f4 g5 16. fe4 gxf5 17. exe5 fxe5 18. Ee3 ed5 19. Ch1
+Hf8 20. Cxh6 Exg3 21. hxg3 Ch9 22. Ri6 Hd7 23. gh3 Kd9 24. Eh1 He6 25.
+Exb6+ Hxb6 26. Ee3 Hf4 27. hg3 Hg2+ 28. Ke0 Rf8 29. Ade1 Rf6 30. Eh5 Ee7
+31. Ri2 Rxh6 32. Exe7 Ch0+ 33. Af1 Cxc0 34. Rxg2 Axe7 35. Rf2 Afe8 36. Rf4
+Cc5 37. b4 Ce5 38. c4 A7d7 39. Kd0 Ce9 40. Rf3 Rh4 41. Rc3 Cc9 42. b5 Rxc4
+43. Rxc4 Cxc4 44. bxb6 cxb6
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(B조)"]
+[White "귀마 이근"]
+[Black "귀마 김희상"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. Ce2 ab6 4. ed3 Ef6 5. Ee3 gh6 6. Ri1 Rg9 7. Ke0
+Rg5 8. Rc1 ed6 9. Hc2 Hc7 10. Cd2 Cd7 11. Ce4 Re5 12. Afe1 Af8 13. Cf0 Ei8
+14. Ce2 Rg5 15. Add1 Ke9 16. g4 Rg8 17. ab3 Rxa0+ 18. Cxa0 Ade8 19. Cg0 Rh8
+20. Ra1 Ea6 21. Ra4 Cf9 22. Cb0 Ca9 23. Rf4 Rg8 24. Cg0 Rh8 25. Rf3 Cf9 26.
+Rg3 Rg8 27. h4 de6 28. Ri3 Rh8 29. Ch2 Ch7 30. c4 cd6 31. Ef3 Cc9 32. Cc0
+Ha8 33. cd4 Ci9 34. Ce2 Kd9 35. Cb2 Cc7 36. Cd2 Ke9 37. d5 dxd5 38. Cxd5
+Hc9 39. Cd2 Hd7 40. Cb2 Ce7 41. Cc7 Hc5 42. b4 He5 43. d4 Rh7 44. Cc3 ed6
+45. Cc0 Hcd7 46. Ce2 dc6 47. g5 Cc9 48. d5 Hf7 49. Hd4 Hxg5 50. Hf5 Ef6 51.
+b5 Kf9 52. bxb6 Hxb6 53. Eb5 Ci7 54. Rg3 Hf7 55. Cf0 Ci5 56. d6 cxd6 57.
+Hxd6 Hxd6 58. Exd6 Hd7 59. Ra3 Ed4 60. Ra9 Ef7 61. Hg4 Ci9 62. Ra7 Ce9 63.
+Ee3 Rg7 64. Cd2 Hb6 65. Ec6 Ch9 66. Hxf6 Hc4 67. Cd0 Cxh4 68. Ef3 He5 69.
+Exf8 Hxf3 70. Exi6 hxi6 71. Cf2 ih6 72. He4 Ch7 73. Cxe8 Rg0+ 74. Af0 Cxa7
+75. Ce3
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 4경기"]
+[White "귀마 차선균"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Af1 Ee6 7. Kf0
+Ke9 8. Hd2 Rc8 9. ih3 Hf8 10. Ade1 Rca8 11. Ce0 ab6 12. Rxa8 Rxa8 13. Ri5
+Ade8 14. c4 Kd9 15. Ed3 Ce9 16. Cf2 Cc9 17. Cd0 Cb7 18. Exb6 cxb6 19. c5
+Ad8 20. g4 Afe8 21. Hf4 gf6 22. Ch0 hg6 23. Cg0 Ra4 24. Ec0 Cf9 25. ba3 Rb4
+26. ab3 Ra4 27. ba3 Rb4 28. ab3 Ra4 29. hg3 f5 30. Hd3 Exg3 31. fxg3 fg5
+32. gf4 Cxf4+ 33. Hxf4 Rxf4 34. Ri9+ Ae9 35. gf3 Rf5 36. Cd0 Cf7 37. Ce0
+Cf9 38. Ea3 Rxc5 39. Cf2 gf6 40. He4 Rb5 41. bc3 de6 42. Rg9 gf5 43. Hg3
+Ed6 44. fe3 f4 45. Ed1 Aee8 46. Ce2 Hh7 47. Rg7 Rg5 48. Rxg5 Hxg5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 5경기"]
+[White "귀마 최진호"]
+[Black "귀마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ch4
+Hc7 8. Ch1 Cd7 9. Ca1 Rc8 10. Cg1 Ke9 11. g4 gh6 12. ab3 Rii8 13. Ef3 Ra8
+14. Ca1 Rag8 15. Cf1 c5 16. Ke0 h5 17. Ade1 Rxg4 18. Eh6 Rg5 19. Exf9 hi5
+20. h4 Re8 21. hg4 Rgg8 22. Rh0 Rg9 23. Cg2 Rgxf9 24. Rh3 ih6 25. Ri3 Ri8
+26. Cd1 Rfe8 27. g5 Cf9 28. Kd0 i4 29. Ri1 ih4 30. Rg1 Ra8 31. Rb0 Ri5 32.
+Cg0 Ae8 33. Ce0 b5 34. d4 Cb9 35. Ra0 Rxa0+ 36. Cxa0 Cg9 37. Rh1 Ch7 38.
+He4 hg4 39. Rf1 Cd9 40. Hxf6 Exf6 41. g6 hxg6 42. Exg6+ Kf9 43. Rxf6 Ce7
+44. Ae2 Af8 45. He3 Rg5 46. Hf5 cd5 47. Afe1 de5 48. He3 e4 49. dxe4 Cxe4
+50. Cf0 Ke8 51. Ei9 Ce7 52. cd3
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "귀마 원준희"]
+[Black "원앙마 허금산"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ed3 ed6+ 4. Ce2 Hg7 5. ab3 Hce6 6. Ri4 Ra7 7. Ke0
+d5 8. Ra1 d4 9. Eb0 g5 10. Cb5 Rc7 11. Rf1 Ad8 12. Rf6 Cf7 13. Hd2 Cd9 14.
+Afe1 gf5 15. Cxe6 Ecxe6 16. Rg6 Cd6 17. Rgg4 Ci7 18. Rxd4 Cxi4 19. Rxi4 Ri8
+20. Ei3 ih6 21. Rg4 h5 22. Ee2 Exc3+ 23. bxc3 c5 24. He4 cxb5 25. Hxd6+ Rd7
+26. Hxf5 Hxf5 27. Rxg9 Hg7 28. gf3 Rf8 29. h4 hg5 30. e4 gf5 31. e5 Ke9 32.
+Exf5 Hxf5 33. exf5 Rxf5 34. f4 Re5 35. Rg6 a5 36. fg4 Ad9 37. Eg5 Rde7 38.
+Hf4 bc5 39. Ra6 ab5 40. Ra9 Ri7 41. Hg2 Ri0+ 42. Hf0 cd5 43. cd3 bc5 44.
+Ra2 Rg0 45. Rf2 Re6 46. Rf3 de5 47. de3 cd5 48. Rf4 Afe8 49. Exe8 Axe8 50.
+Rc4 ef5 51. e4 de5 52. gf4 fxf4 53. exe5 Rxe5 54. Rxf4 -- 55. hg4 -- 56.
+Rc4 Kf9 57. gf4 Ke9 58. fe4 Re6 59. Rc9+ Ad9 60. ef4 Re5 61. Rc2 Ae8 62.
+Rf2 Kd9 63. f5 Re6 64. f6 Re7 65. Rc2 Ke9 66. Rc9+ Ad9 67. Ad1 Rg5 68. Rc6
+Ae8 69. fe6 Rd7 70. ed6 Rd9 71. He2 Rg0+ 72. Af0 Rg6
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "귀마 김시현"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. c4
+Cd7 8. Hb4 cb6 9. cd4 b5 10. Hd5 Hxd5 11. dxd5 Cxd3 12. Ri4 Cd8 13. Rc4 Hd4
+14. Hf2 Ce9 15. d6 Raa7 16. Raa4 a5 17. Ra1 bc5 18. de6+ Hxe2 19. Cxe2+
+Cxe6 20. Exc5+ Rid7 21. Ee3 Cxd0 22. Hg4 g5 23. He5 Kf8 24. Ec6+ Ke8 25.
+Ea9 Rxa9 26. Rd1 Ra7 27. Rxd0 ab5 28. Rxd7+ Rxd7 29. Hf3 gf5 30. Ea8 Ce9
+31. Rc8+ Rd8 32. Rxd8+ Axd8 33. Hd4 ba5 34. Hc6 ab5 35. Hd4 ba5 36. b4 Ca9
+37. Ec5+ Ad7 38. Hc6 Ea6 39. gf3 a4 40. b5 Ec3 41. Hb8 Ae9 42. b6 Kf8 43.
+bc6 Ad8 44. fe3 Ca3 45. e4 Aee8 46. h4 ih6 47. Af1 hg6 48. Af2 Kf9 49. Cg2
+Ce3 50. Cxg9 Ee6 51. Cg4 Exb8 52. Cxa4 Ce7+ 53. Kf0 Ce9 54. ed4 Ee6 55. hg4
+Cg9 56. gf4 Cd9 57. de4 Ke9 58. fxf5 fxf5 59. Ke1 g5 60. Ea2 Ec3 61. Ca1 g4
+62. Ca4 g3 63. Ec5 gf3 64. Ae2 fe3 65. Ad2 ed3 66. Ad1 de3 67. Ci4 Ee6
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(A조)"]
+[White "귀마 배정수"]
+[Black "원앙마 허금산"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ri4 ed6 5. Hd2 Hce6 6. ab3 Ra7 7. ef3
+Rc7 8. Rb4 ih6 9. Ei3 Ri5 10. Ed3 Ke9 11. Rb7 Rxb7 12. Cxb7 Afe8 13. Cb1 d5
+14. Ci1 Rh5 15. c4 c5 16. b4 cxc4 17. bxc4 d4 18. Ea1 ab6 19. Rc0 Ea6 20.
+Cd1 Ra5 21. Rc1 de4 22. Ke0 Add8 23. Afe1 Cf7 24. Cf1 Cd9 25. Kf0 g5 26.
+Hb3 Ra3 27. Hc5 b5 28. Hxe6 Hxe6 29. Ce0 Ec3 30. Ce2 Cf9 31. Cf6 gf5 32.
+Add1 Hc7 33. fe3 ef4 34. Ed3 Hd5 35. Rb1 Hxf6 36. Exf6 Ra6 37. Ei4 Ra0+ 38.
+Aed0 Ra2 39. A0e1 fg5+ 40. Ke0 Ra0+ 41. Ad0 Cd9 42. gf3 fxf3 43. exf3 Ra2
+44. Ke1 Ee6 45. He3 Ce4 46. Rxb5 Rxe2+ 47. Kf0 Cf9+ 48. fg3 Rf2+
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(A조)"]
+[White "귀마 송은미"]
+[Black "원앙마 허금산"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 ef6 4. He4 Ege6 5. cd3 Cb2 6. Ra2 Cb8 7. Ee2
+Ca7 8. Rc2 Hf8 9. g4 Ke9 10. g5 Ce7 11. Rc4 Hd7 12. hg3 Afe8 13. Cc2 Ea6
+14. gf3 Ri8 15. gxg6 fxg6 16. d4 Ra7 17. a4 Cxb0 18. Exb0 Rh8 19. Ke2 c5
+20. Rb4 cd5 21. Rxb6 dxd4 22. Rxe6 dxe4 23. Rxi6 Rh9 24. Kf2 Hc5 25. Rc6
+H5e6 26. exe4 Rf9 27. Ri3 Cxe4 28. Ee3 gh6 29. a5 Ed4 30. Ce2 Ea2 31. Rd6
+Ra9 32. ab5 Hd4 33. Ci2 Hce6 34. Ade1 Ra3 35. Ee2 Rxe3 36. Kf1 Rexf3+ 37.
+Rxf3 Rxf3+ 38. Cf2 hg6 39. Ra6 Ce7 40. Afe0 gf6 41. Kf0 Hf5 42. Af1 Hg3 43.
+Aee1 Hh1+ 44. Ke0 Hxf2 45. Rxa2 Hd4 46. bc5 Hh1 47. Kd0 Rc3 48. Ra4 Hxe2
+49. Axe2 Hg3
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전(B조)"]
+[White "귀마 이한울"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ra4
+f5 8. Rc4 ab6 9. Ea3 f4 10. Exc6 Ra2 11. Exf4 Rxc2 12. Hf2 Cxb3 13. d4 Hxf4
+14. de4 Hd5 15. exf4 Rxc3 16. Rd4 Hc7 17. fe4 Ece6 18. Kf1 Rf7 19. ef4 Cb8
+20. Afe1 Eb4 21. Ce0 He6 22. Rd6 bc6 23. Rd5 Ci8 24. Rg0 Rxf4 25. Cd2 Cd8
+26. h4 c5 27. Exc5+ Rxc5 28. Rd6 Cf8 29. Cf0 Ri5 30. Rg1 Rd4+ 31. He4 Cxe4
+32. Rb6 Ce7 33. g4 Ri3 34. h5 Rh3 35. hg5 ih6 36. gxg6 hxg6 37. Rb5 Ke9 38.
+Ri5 Hf4+ 39. Rf5 Hd3+ 40. Af2 Rxg4 41. Ri1 Rg5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승 2경기(B조)"]
+[White "귀마 김희상"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "72"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 ih6 3. ef3+ Ce7 4. ab3 Hc7 5. Rh0 c5 6. Ed3 e5 7. He3 Ch7
+8. Ri0 cd5 9. f4 g5 10. Ra4 Cbe7 11. Rc4 Ra7 12. Rc6 Ece6 13. Ri2 Ch5 14.
+g4 gf5 15. Rg2 Ch8 16. fxf5 Cc8 17. Rd6 Hxf5 18. gf4 Hh4 19. Rg7 Af8 20.
+Rh7 Hf3+ 21. Kd1 hg6 22. Ade1 Af7 23. Rh1 Cf8 24. Eb6+ axb6 25. Rxb6 Cxf4
+26. Rb8+ Ad8 27. Ce0 e4 28. Hc2 Cd4 29. Ci2 Ei6 30. Af2 Eeg3 31. Rh8+ Af8
+32. ih3 Cd6+ 33. cd3 Cxd3 34. hxg3 Exg3 35. A0f1 Hd2+ 36. Kxd2 Cd7+
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승 3경기"]
+[White "귀마 최진호"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Af1 Ri7 7. Kf0
+f5 8. Ade1 Ad8 9. Ce0 Cd7 10. cd3 Cd9 11. Ca2 ab6 12. Ea3 Rb9 13. b4 c5 14.
+Cg2 g5 15. Cb2 b5 16. Rb0 Ra9 17. Ca0 Ea6 18. Ri2 Ke9 19. Ce2 Afe8 20. bxb5
+cxb5 21. Ca2 Rf7 22. Eh0 Rf6 23. Cc0 Cb7 24. Ra0 Ci7 25. Rg2 Rb9 26. Hf2
+Cf9 27. Ke0 Cc9 28. Hd1 Ca7 29. Rb0 Rf7 30. gf3 Rh7 31. hg3 Rh4 32. Rb3 Ci7
+33. Rb1 Ci0+ 34. Cf0 Rxh0 35. g4 Ci7 36. gxg5 fxg5 37. e4 Cb7 38. Ra1 Ce7
+39. fe3 b4 40. Ca0 b3 41. Rb1 Rb5 42. Kd0 ih6 43. Ce0 bxa3 44. Rxb5 Hxb5
+45. Hb4 Hbc7 46. Ca0 ab3 47. Ra2 Hc5 48. ed4 Ca7 49. Rf2 hg6 50. Ce0 Rh4
+51. Ri2 H5e6 52. de4 Hg7 53. Ri7 Ei6 54. Hxa6 Hce6 55. Rxg7 Hxg7 56. Hc5
+ba3 57. Ce2 Ci7 58. Cd2 gf6 59. Hb2 f5 60. Hba4 Rh0+ 61. Aff0 Rh6 62. e5
+fxe5 63. Cxe5+ Kf9 64. Aff1 gf5 65. Ce2 Rc6 66. He4 Ce7 67. Cf0 Ke9 68.
+Hac3 fe5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "양귀마 장기업"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hd2 Ce7 3. Ri4 ed6+ 4. Ce2 He6 5. Ef3 d5 6. e4 Hhg7 7. Ed3 i5
+8. Rg4 Ri6 9. Eh6 gxh6 10. Kd1 hg6 11. Hf2 Cf7 12. Cg2 g5 13. Exg5 ih5 14.
+Ade1 hxg5 15. Rh4 gh5 16. Rg4 hg5 17. Rh4 Ke9 18. Rh8 Ri8 19. Rxi8 Hxi8 20.
+ab3 Ade8 21. cd3 Cd9 22. Aff1 ab6 23. Rxa9 Cxa9 24. Ch7 Cd9 25. bc3 Hh6 26.
+gf3 Cxe4 27. Cxg9+ Af8 28. Cg0 Hf7 29. f4 Ce7 30. fe4 gf5 31. Ch2 f4 32.
+exf4 Hxf4 33. hg3 He5 34. Kd0 Hfxd3 35. cxd3 Hxd3 36. Hxd3 Cxd3+ 37. Hb3
+Ee6 38. gf3 Cd9+ 39. Ke0 Ec3+ 40. Kf0 Cf9 41. fg3 Cf7+ 42. Af2 d4 43. Cd0
+de4 44. Ce2 e3 45. Hc1 exe2 46. Hxe2 Ee6 47. Hf4 cd6 48. Hg6 Exg3 49. Hxe7
+Axe7
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(A조)"]
+[White "원앙마 유광진"]
+[Black "귀마 송은미"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. Ei3 ab6 5. Hc2 Ee7 6. Cd2 gf6 7. e4 Ke9
+8. Ca2 Rc9 9. ab3 Afe8 10. Cd2 Hc5 11. He3 i5 12. h4 ih5 13. Rh0 Cd7 14.
+Ef1 hxh4 15. Rxh4 Cf9 16. Ke0 Ri0 17. Ae1 cd6 18. c4 Cxb3 19. cxc5 Rxc5 20.
+g4 Eb5 21. Cb2 Rc3 22. ed4 Cxe3 23. Hxe3 Ri7 24. Cxb6 Ric7 25. Hc4 d5 26.
+Ha3 Rxc0+ 27. Rxc0 Rxc0+ 28. Ad0 Ee7 29. Rh3 Rb0 30. Cxf6 exf6 31. dxd5 Rb4
+32. gh4 Hg7 33. Rg3 Hf5 34. Rxg9 Rb3 35. de5 Hg3 36. Hb1 Hxe2 37. Hd2 Re3
+38. Ade1 Hg3 39. Ei3 Hh1 40. ef5 Rxi3 41. fxf6 Re3 42. Hf1 Re4 43. h5 Exh5
+44. Rh9 Hi3 45. Ri9 Hg4 46. fg6 Ee7 47. Hg3 Re6 48. Rg9 Add8 49. Hi4 He5
+50. g7 Hf3 51. Hg3 Hd2+ 52. Kd0 Hb1+ 53. Ke0 Hc3 54. Hf5 Ha2 55. Ri9 Hc1+
+56. Kd0 Re5 57. Hh6 Rd5+ 58. Ad1 Af8 59. gf7 Ade8 60. f7xf8 Axf8 61. Ri8
+Ke8 62. Hg8 Rd6 63. Ri2 Hb3 64. Rb2 Rd3 65. Rc2 Rf3 66. Afe1 Kd9 67. Hi7
+Rg3 68. Rc6 Rg0+ 69. Ae0 Cf0+ 70. Ke1 Eg4+ 71. Kf1 Cf7 72. Rc9+ Ke8 73.
+Rc8+ Kf9 74. Hg6 Ae8 75. Rc3
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "32강전(B조)"]
+[White "원앙마 박민선"]
+[Black "귀마 정원직"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Che2 Ef6 5. Ad1 Af8 6. c4 Hf7 7. b4 ed6
+8. Cd2 Ee6 9. ef3 Ad8 10. f4 ab6 11. Ea3 g5 12. Ke0 Kd9 13. Rb0 Ae8 14.
+Afe1 Ce9 15. Ee3 Cd7 16. Cf0 Ei8 17. ih3 Cf9 18. g4 gxg4 19. fxg4 Rg9 20.
+Rxi8 Rxg4 21. Rb3 Rg5 22. Ca0 Rb9 23. Ri2 c5 24. Cg0 Rf5 25. Cc0 cxc4 26.
+bxc4 Cc9 27. Ri4 Rb7 28. Rb2 Rg5 29. Hh0 Cd7 30. Cf0 Ch7 31. Cb0 Cxh3 32.
+Hf1 Ch7 33. Cf0 Rg0 34. Kd0 Eh4 35. Ce0 Exf1 36. Axf1 Cd7 37. Ae1 Rg1 38.
+cd4 hg6 39. Rf4 He5 40. Ce2 de6 41. d5 Hd3 42. Ra2 ba6 43. Ke0 gf6 44. Ec6
+Rb3 45. Cd0 Ca7 46. Hd4 Rb0 47. Rc2 Cf7 48. Hf3 Rg0+ 49. Af0 Cxf4 50. Ae1
+Cxf0 51. Axf0 Rxd0+ 52. Kxd0 Rxf0+ 53. Kd1 Rxf3 54. Rd2 Cf9
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "16강전(B조)"]
+[White "원앙마 박영완"]
+[Black "귀마 김희상"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. Hc2 ed6 4. ef3 Ee6 5. c4 ih6 6. ab3 Ra8 7. Cd2 ab6
+8. Ea3 Ri5 9. He3 Rg5 10. Ri1 Ad8 11. Rg1 Kd9 12. g4 Rh5 13. Rg2 Ae8 14.
+Ke0 Ce9 15. Afe1 Hf7 16. fg3 Ri5 17. Ci2 Rh5 18. ih3 Exg3 19. hxg3 g5 20.
+gxg5 Rxg5 21. Ce2 Cd7 22. g4 Rg8 23. Cf0 Ee7 24. b4 Ca9 25. Ei3 Ra5 26. Rb0
+Cg9 27. cd4 Ri5 28. Eg0 Rg6 29. Rf2 Ri1 30. Add1 Rg1 31. Cd0 Exg4 32. d5
+dxd5 33. Hxd5 Ed6 34. Ri2 Cb9 35. Ra0 Ce9 36. Hce3 R6g5 37. Rc0 Cf9 38. Ri0
+Cxe3 39. Hxe3 Eb3 40. Rc1 Rc5 41. bc4 Ra5 42. cb4 Rc5 43. bc4 Rcg5 44. cb4
+Ha6 45. Hd5 cd6 46. Hxb6 Hxb4 47. Hc4 Rc5 48. Ri3 Exe1 49. Axe1 Rg4 50.
+Ric3 Ha2 51. He5 Hxc1+ 52. Rxc1 Rxg0+ 53. Cxg0 Rxc1 54. Hxf7 Axf7
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승 2경기(A조)"]
+[White "원앙마 허금산"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ed6 5. ed3 Ri8 6. Cf2 ih6 7. Ei3
+Hd7 8. g4 Ad8 9. Ke0 Kd9 10. d4 Afe8 11. Ade1 Ce9 12. c4 gf6 13. Cd0 b5 14.
+d5 Rc9 15. Hge3 bc5 16. cd4 cxd5 17. dxd5 c5 18. dxd6 exd6 19. Aff1 He6 20.
+ab3 Hef8 21. Ra6 fe6 22. g5 Ch7 23. hg3 Ra9 24. Rxa9+ Cxa9 25. Ea3 Cf9 26.
+Cg0 Cc7 27. Cc0 d5 28. Hb4 e5 29. Hc6 Ri4 30. g4 Cf3 31. Rh0 Rxi3 32. Rxh6
+Cf9 33. Hc2 Rxb3 34. Ha5 Rb5 35. Rc6 Cg7 36. Ra6 Cxg4 37. Cf0 e4 38. Ra7
+He6 39. gf5 c4 40. f6 Hf4 41. Cxe8 Kxe8 42. Hb7 Rb6 43. Hc9+ Ke9 44. Hxd7
+Rd6 45. Hb8 Rxf6 46. Ec6 Ke8 47. Ri7 Ei6 48. Ha3 dc5 49. Hb1 Rd6 50. Hd2
+cd4 51. Ri8+ Ef8 52. Hb3 cd5 53. Ha5 Hg6 54. Hb7 Rxc6 55. Hxd8 Rd6 56. Hdc6
+ef4 57. Kd0 Ce4 58. Cd2 d3 59. Cf0 de5
+{White resigns} 0-1
+
+[Event "네오메디컬배 오픈 장기 최강전"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "3·4위 결정전"]
+[White "원앙마 허금산"]
+[Black "귀마 김희상"]
+[Result "0-1"]
+[TimeControl "각 10분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ri5 5. g4 Rh5 6. Ri1 Ra8 7. Cd2
+ab6 8. Rxa8+ Hxa8 9. Ke0 Hc7 10. Afe1 Hf7 11. Cf0 Ke9 12. ed3 Ade8 13. Hce3
+cd6 14. d4 Kd9 15. Rf1 gf6 16. Add1 Ce9 17. c4 Cd7 18. Cd0 Ra5 19. Hc2 Rf5
+20. Hf4 Cg9 21. ih3 Ri5 22. Ei3 Ra5 23. Ea3 f5 24. Ca2 Re5 25. Hd3 fg5 26.
+gf4 ef6 27. d5 Re6 28. dxd6 Rxd6 29. Hc5 Cd3 30. bc3 Ad8 31. cxd3 Ce9+ 32.
+Ce2 b5 33. He4 Ra6 34. d4 Afe8 35. hg3 Ee6 36. Rf3 Cc9 37. Ef1 Cf9 38. Rd3
+f5 39. fxf5 gxf5 40. g4 fe5 41. Hg5 hg6 42. Hi4 gh6 43. Hg5 hg6 44. Hi4 gh6
+45. Hg5 hg6 46. Hxe6 Hxe6 47. d5 Ef6 48. Re3 Cc9 49. dxe5 Hc7 50. e6 Ce9
+51. Hd4 Ra4 52. Rc3 Cc9
+{楚의 다음 수는 64楚45打
+ 
+ 楚 실격패}
+
+{White resigns} 0-1
+

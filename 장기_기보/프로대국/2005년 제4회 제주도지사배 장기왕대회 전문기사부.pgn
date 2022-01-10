@@ -1,0 +1,205 @@
+[Event "제4회 제주도지사배 전국 장기왕 대회"]
+[Site ""]
+[Date "2005년"]
+[Round "전문기사부 준결승전"]
+[White "귀마 김기영 초단"]
+[Black "귀마 김응술 9단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ra9 6. Ea3 Rb9 7. Hf2
+Cbe7 8. Cae2 Ra9 9. cd3 Ef6 10. Rc0 cd6 11. Ri4 g5 12. Rc4 Ra7 13. Ef3 e5
+14. Rc3 Ee6 15. Rc4 ih6 16. Hb0 Ce9 17. Cxe5+ Kf8 18. Ce7 Afe8 19. Cxa7
+Exg3 20. hxg3 Exc4+ 21. Rxc4 Ri3 22. gh3 Ri1+ 23. Af1 Cc9 24. Rf4 Cc1 25.
+Ce2 Rg1 26. Ke0 Rxf1 27. Ae1 Rg1 28. Rc4 Cf1 29. Ca1 Hd5 30. b4 Hf6 31.
+Axf1 Rxf1 32. Hd1 Rxf2 33. Hxf2 Ch5 34. Ke1 Cf5 35. Cf1 hg6 36. Ri4 Hh6 37.
+Ri7 d5 38. Rg7 d4 39. Rxg6 Cxf2 40. Kxf2 Hhg4+ 41. Ke1
+{Black resigns} 1-0
+
+[Event "제4회 제주도지사배 전국 장기왕 대회"]
+[Site ""]
+[Date "2005년"]
+[Round ""]
+[White "귀마 성우제"]
+[Black "귀마 김경중"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ef3 Ee6 7. Ri4
+Ra5 8. Exc6 bxc6 9. Rc4 Kf8 10. Rxc6 Cg7 11. Hf2 Exg3 12. hxg3 Cxg3 13. Ca2
+Re5+ 14. Che2 Afe8 15. Rb0 Cg9 16. Rb8 Kf9 17. de3 Rg5 18. Ca7 He6 19. cd3
+Rc5 20. Hb4 Rxc6 21. Hxc6 ih6 22. Ca1 Ri4 23. Hb4 Ce9 24. Cf1 Af8 25. ab3
+Hc5 26. Hc6 Ade8 27. bc3 Ra4 28. Rb5 He6 29. Ke0 Hed8 30. Hb4 Cd7 31. Afe1
+Ch7 32. Rb6 fe6 33. Ei1 Ra5 34. Cf4 Ri5 35. Eg4 g5 36. Cf0 gxg4 37. Hxg4
+Rg5 38. Hf2 hg6 39. ef3 Cg9 40. f4 gf6 41. de3 Ce7 42. cd3 Cd9 43. Add1 Rc5
+44. Hg4 Ke9 45. Cd2 Rc4 46. fe4 Kf9 47. Add0 Ce9 48. ed4 Rc5 49. d5 Rc4 50.
+Hf2 Hh6 51. Cf0 Hf5 52. He4 Ce7 53. Af2 Cxe4 54. dc3 Rd4 55. ed3 Rxb4 56.
+Rxb4 Ce7 57. dc5 Hg3 58. Cf3 Hf5 59. Rf4 Ke9 60. Ade1 Hb7 61. c6 Hd8 62. c7
+e5 63. Cf1 He6 64. c8 e4 65. Rg4 e3 66. Cxe6 exd3 67. Cxf5 fxe6 68. Kf0
+dxc3 69. Rg3 c2 70. Rc3 cb2 71. Rc6 e5 72. Cf1 e4 73. Rh6 e3 74. c9
+{Black resigns} 1-0
+
+[Event "제4회 제주도지사배 전국 장기왕 대회"]
+[Site ""]
+[Date "2005년"]
+[Round "전문기사부 결승전"]
+[White "귀마 성우제 9단"]
+[Black "귀마 김기영 초단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "62"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7
+{면포를 놓지 않고 귀마를 먼저 얹혔다.}
+4. Ca2 Rb9 5. ab3 Ef6
+{귀윗상이 나왔다.}
+6. Ce2 Che7 7. Ef3 Ri8
+{묶인병을 해소하려는 의도}
+8. Ra4 gh6 9. Exh6 ixh6 10. Rxi8+ Exi8
+{차대가 이루어 지고}
+11. Rg4
+{부르려 한다.}
+11... Ke9
+{미리 궁을 내린다.}
+12. Rg8
+{상을 살려야 한다. 마와 상 사이를 끼워야 별수 없다.}
+12... Ef6
+{차가 마와 상사이를 끼우면?
+마가 궁중마로 간다.}
+13. Hf2
+{귀마를 얹고, 장차 68로 가서 독졸을 취하려는 의도}
+13... Ade8 14. Hg4 cd6 15. Hxh6 Hxh6 16. Cxh6
+{줄 것은 깨끗이 주는 한의 태도}
+16... Cd7 17. h4
+{이수가 문제인것 같다.
+진마위의 졸을 올리는 것이 좋을 듯한데?}
+17... Ea6
+{진마위의 졸을 때리고 마가 나오려는 것이다.}
+18. Ch1
+{장군을 하면 차가 떠러진다. 선수이다.}
+18... Kd9
+{하면 면포를 막으면 된다. 
+초는 다음으로 졸을 올려야 하는 것이 아닌가요?}
+19. gf3
+{중앙으로 모으고, 가능하지만 변으로 나온 상의 의도를 막는 것이 좋지 않았나?}
+19... Exc3
+{우선 졸을 상으로 때린다. 좋은 수라 생각된다. 프로만의 감각인가?}
+20. bxc3 Hb5
+{마땅히 졸이 피할 곳이 없다.}
+21. cd3 Rc9
+{마를 변으로 쫓고}
+22. Ha1 Exd3
+{상으로 때리니 안먹을 수가 없다. 마가 상길에 놓여 있으니}
+23. exd3 Cxd3 24. Ee3
+{상이 중앙으로 진출, 장차 47로 가서, 한의 면포를 뒤로 넘기면 타겟이 된다.}
+24... Hd4
+{포를 넘겨 먹지 않고 마가 이자리로 오는 것이 좋은수}
+25. Ch9+ Ce9 26. Eg6
+{속수이다. 사를 올려 막을 것은 뻔한수}
+26... Hxf3+
+{먼저 이 기민한 수이다.}
+27. Kf2
+{천궁! 차라리 아래로 내려 안궁하는 것이 낫지 않을까?}
+27... Aff8 28. Rg9
+{포를 때리려는 의도 한의 차가 피하여야 한다. 하수한테나 통하는 수이다.}
+28... Rc5
+{상이 가로 막아 차가 후퇴할 수 도 없다. 상이 뜬 것이 속수?}
+29. hg4
+{마길을 피하지만}
+29... Rf5
+{이수로 모든 것이 끝이다.}
+30. Kf1 Hh4+
+{이것이 묘수이다.}
+31. Ke1 Hg2+
+{궁이 아래, 옆으로 피하여도 외통이다.}
+
+{White resigns} 0-1
+
+[Event "제4회 제주도지사배 전국 장기왕 대회"]
+[Site ""]
+[Date "2005년"]
+[Round ""]
+[White "귀마 김동학"]
+[Black "귀마 김기영"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "64"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 g5 6. Ke0 Ef6 7. Ra1
+Cb5 8. Hf2 Ri8 9. Rg1 c5 10. g4 gf5 11. d4 Cbe5 12. de4 Cxe3 13. Hxe3 Rxa3
+14. Rc1 Hb5 15. c4 Hc3 16. Hc2 Hxe2 17. Cxe2 Rc3 18. cxc5 Rxc5 19. Rii1 ed6
+20. Ef3 Rc6 21. Hb4 Rc4 22. Rxc4 Exc4 23. ed4 He5 24. Eh6+ Ke9 25. dxc4
+Hxc4 26. Rc1 Rc8 27. Exf9 Kxf9 28. Rc3 Rc5 29. Afe1 Ee6 30. Rd3 Rd5 31. Rf3
+Ke8 32. h4 ih6
+{White resigns} 0-1
+

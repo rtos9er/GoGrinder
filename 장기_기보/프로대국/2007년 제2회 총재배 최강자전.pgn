@@ -1,0 +1,2150 @@
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 김희상 二단"]
+[Black "귀마 남상은 五단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 ed6 5. Rh4 Ri5 6. ef3 Hd7 7. He3
+Ad8 8. Rha4 cb6 9. Ed3 dc6 10. Rf4 He6 11. Rh4 Ed6 12. Hd2 Kd9 13. Exb6
+cxb6 14. Rc4 Ade8 15. f4 gf6 16. He4 Hxf4 17. gf3 Eg4+ 18. Ke0 He6 19. Hxf6
+Ed6 20. He4 Cxe4 21. Rxe4 Ce7 22. Rg4 Hg5 23. Hf5 Exf3 24. Hxe7 Axe7 25.
+Ade1 Ec5 26. c4 Hf7 27. Re4 Aee8 28. Rc0 Rg5 29. Ee3 Hd6 30. Rd4 Hf5 31.
+Rf4 Ef7 32. Rc2 Ad8 33. Cd2 Ae8 34. Rc3 Rc9 35. b4 He7 36. Rd3 Ke9 37. Rf6
+hi6 38. Eg6+ Kf9 39. Cxd7+ Kf8 40. Cd1 Rc6 41. Cxd8+ Kf9 42. Rxf7+ Axf7 43.
+Rd7+ Kf8 44. Re8#
+{White mates} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 남상은 五단"]
+[Black "귀마 김희상 二단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ ef6 5. Ee3+ Kf8 6. a4 Rd5 7. Hf2
+Ee6 8. Ra3 Cc7 9. Ch4 gh6 10. Ef3 f5 11. Ch1 Ci7 12. Rh0 Exc3 13. dxc3 f4
+14. Cd1 Afe8 15. h4 Kf9 16. hg4 fxf3 17. gxf3 Ce7 18. ab4 Ce9 19. c4 Hbd8
+20. Hd4 Rh5 21. Rg0 Ri8 22. f4 Rg8 23. f5 Ri5 24. Rg3 hg6 25. Cf1 Af8 26.
+Ra5 Ade8 27. g5 ih6 28. gxg6 Rxg6 29. fg5 Rg8 30. Rf5 Cg9 31. He6 Hxe6 32.
+Cxe6 Ch7 33. Ce2 Ce7 34. b5 Ri4 35. c5 cxc5 36. bxb6 Rc4 37. Ec6 Rc2 38.
+Ad1 Cd9 39. Ad2 Rc0 40. Ae0 Ri8 41. Rd3 Ri0 42. Hh1 Ri7 43. Hg3 Rc4 44. Ef4
+Cg9 45. bc6 Ri3 46. Ei6 Re4 47. Exg9 Rxe2+ 48. Kxe2 He5+ 49. Re3 Ke9 50.
+Rxe5 Rxg3 51. Rxe7 Rg2+ 52. Ke1 Axe7 53. Rxe7+ Ae8 54. Rg7 Af7 55. Kd1 Ke8
+56. cd6 Ae7 57. Aee1 Rg4 58. de6 Af7 59. Af2 Af8 60. e7+ Kd9 61. Cxf8 Rf4
+62. ef7 Rd4 63. Ae2 Re4 64. Cf0 Rxe2 65. Ed7 Re9 66. Ae1 Kd8 67. f8 Re6 68.
+Cd2+ cd5 69. Ea9+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 한재우 五단"]
+[Black "귀마 김기홍 아마 1단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ed3 ed6 6. Ee3 Ee6 7. Hd2
+Ad8 8. Ad1 Ri5 9. c4 c5 10. cxc5 Rxc5 11. ih3 Kd9 12. Af1 Ade8 13. Ri4 Rd5
+14. Ria4 Rxd3 15. Rxa6 Rxa6 16. Rxa6 Ce9 17. Ce0 Rd5 18. Kd0 Rc5 19. Ce2 d5
+20. b4 d4 21. Ra3 Rc7 22. ba4 Hf8 23. Eb1 dc4 24. Cc0 cb4 25. Cf0 Cd7 26.
+Ae1 Rc1 27. Ed4 Ed6 28. axb4 Cxd4 29. Rd3 Cd8 30. Rxd6 Ad7 31. Rb6 Ade8 32.
+He3 Exb4 33. Rxb4 Hfe6 34. Ke0 Hc7 35. Hb3 Rc3 36. Cd2 Hge6 37. Cd0 Hc5 38.
+Rc4 Rxc4 39. Hxc4 Ha4 40. fe3 Hc3 41. ed3 Hxd1 42. Axd1 Cxd1 43. Hd4 Hd5
+44. Ke1 Hf4 45. gf3 Cxd4 46. fxf4 Ce7 47. dxd4+ Ke9 48. f5 Aff8 49. d5 h5
+50. hg3 hg5 51. fxg5 gxg5 52. de5 Aff7 53. gf3 g4 54. e6 Ch7 55. He5 gh4
+56. fg3 hi4 57. gh3 Kd9 58. Hf3 Cd7 59. Hg5 Cf9 60. ed6+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 황문수 九단"]
+[Black "귀마 김영숙 二단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ri5
+8. Rh0 Kd8 9. Cb4 Ade8 10. Cg4 Rg5 11. Exc6 dxc6 12. Ca4 Ra5 13. Ed3 Rxa4
+14. Rxa4 Ed6 15. cd4 c5 16. Ra1 Ce9 17. ih3 gf6 18. Ri0 Cf7 19. de4 cd5 20.
+f4 f5 21. g4 Eg9 22. fxf5 Hxf5 23. gf4 d4 24. bc3 dxe4 25. fxf5 e3 26. Hxe3
+Cxe3 27. Ri4 Ce9 28. Rd4 Ef3 29. f6 Cf5 30. hg3 Cf8 31. gxf3 Cxf3 32. Eg5
+Ee6 33. fxe6 Cxe6 34. Rd6 Ce9 35. Hc4 h5 36. Exd7 Axd7 37. He5 Ae8 38. Cxe8
+Kxe8 39. Rxd7+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 조용희 七단"]
+[Black "귀마 김경만 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "185"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Hf2 Hf7 4. Cbe2 Ce7 5. ed3 ef6 6. Ee3 Ee6 7. Ke0
+Rg5 8. g4 Rf5 9. Ade1 Kf8 10. ab3 Hd8 11. Ra4 Afe8 12. Ch4 Ce9 13. Cf4 ih6
+14. Rxi9 Cxi9 15. Ad1 Ri5 16. Cf1 Kf9 17. Ef3 Ri6 18. Kd0 Cg9 19. Afe1 Af8
+20. Ra9 Ch7 21. Exh6 Rxh6 22. h4 Ri6 23. Cf4 Ri0+ 24. Cf0 Cd7 25. gf4 Ce9
+26. Ra5 Ade8 27. hg4 Cd9 28. Ce0 Ri3 29. c4 cd6 30. Rh5 gh6 31. Ra5 hg6 32.
+cd4 bc6 33. g5 Rg3 34. gxg6 fxg6 35. f5 gh6 36. bc3 Ce7 37. Ce2 Eh4 38. Ce0
+de6 39. Ra4 cd6 40. de4 hg6 41. ef4 ef6 42. fxf6 gxf6 43. fg4 fe6 44. gxh4
+Ef6 45. Eh5 Ke9 46. He3 Hh6 47. Heg4 Hf7 48. Hxf6 exf6 49. Cxf6 Rf3 50.
+Cxf8 Axf8 51. Exe7 He6 52. Eb9 Hd8 53. Exd6 Cxd6 54. Ra6 Cd9 55. Cxe6 Hxe6
+56. Rxe6+ Ae8 57. Ke0 Cf9 58. Re3 Rf4 59. Hg4 Kd9 60. Re6 Cc9 61. Hf6 Ad8
+62. hg4 Rf5 63. de3 Ce9 64. cd3 Ri5 65. gf4 Ri0+ 66. Af0 Ri4 67. fe4 Ri6
+68. Ade1 Rg6 69. ef4 Rg7 70. f5 Rf7 71. e4 Cc9 72. e5 Cf9 73. d4 Cxf6 74.
+fxf6 Rc7 75. Rb6 Ae8 76. Rb9+ Kd8 77. d5 Rc0+ 78. Ad0 Rc7 79. e6 -- 80. d6
+-- 81. Rb6 Kd9 82. Rc6 Rg7 83. Rc9+ Kd8 84. dc6 Ad7 85. ed6 Ke8 86. Ade1
+Ad8 87. Rh9 Ad9 88. Rh2 Ad8 89. de6 Ke9 90. Rh9+ Ke8 91. Rc9 Ra7 92. Rc7
+Ra0+ 93. Ad0
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 김경만 九단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Rh0 Ee6 7. Exg6
+hxg6 8. Rh5 Ke9 9. Hd2 Rh9 10. Ri5 Ra8 11. ih3 Rhh8 12. Ra4 ab6 13. Rg4 Rh6
+14. He3 Ade8 15. Hf5 g5 16. Rgxg5 Hxf5 17. Rxf5 Cb5 18. Ri9 Ra2 19. Kf1 d5
+20. Rf4 Ed6 21. Afe1 de5 22. Cc2 Cf5 23. Ch2 Rf6 24. Cf2 Ra5 25. Hc4 Rd5
+26. Ed3 Kd9 27. He3 Ra5 28. Hxf5 Rxf5 29. Rg4 Ce9 30. Cxf5 exf5 31. Ri6
+Exc3 32. bxc3 Ra3 33. Rc4 Exf3 34. Exb6+ cxb6 35. gxf3 Cc9 36. Rd6 Ke9 37.
+Af2 Aff8 38. Ce2+ Kf9 39. Rh4 Rxc3 40. hg3 bc6 41. Re6 Aff7 42. Ade1 Rc0
+43. Ce0 Rc5 44. Rhh6 Ke9 45. Rxc6 Rxc6 46. Rxc6 Cf9 47. Ce6+ Kd9 48. Rd6
+Ad8 49. Kf0 f4 50. fe3 Afe8 51. Ke0 Hf6 52. Cg6 Af8 53. Re6 Ade8 54. Cg0
+Hh5 55. gh3 f3 56. h4 Hg7 57. Rg6 Hi8 58. e4 fxf2 59. Axf2 Cxf2 60. Cd0 Cf9
+61. Ci0 Cc9 62. Rd6+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제3국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 이남춘 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Ri5 7. Cb1
+Kd8 8. Hd2 Ade8 9. Cg1 Ce9 10. i4 Ri7 11. Exc6 dxc6 12. Cd1 Kd9 13. Hc4+
+Ed6 14. Ed3 He6 15. He5 ab6 16. Rxa9+ Cxa9 17. Exb6 cxb6 18. Hc4 bc6 19.
+Ha5 Ce7 20. Hxc6 Ke9 21. He3 Aff8 22. Hd5 Rf7 23. Cxd6 Rf5 24. Hcb4 Kf9 25.
+ih4 Ei6 26. Cd1 Ci9 27. Rg0 Hd4 28. Hxe7 Hc2+ 29. Ke0 Axe7 30. Afe1 Ri5 31.
+Cf1 Aef7 32. Ad2 Ha1 33. fe3 Hc0 34. A2e1 Cd9 35. Hc6 gf6 36. gh3 hg6 37.
+ed3 Hb2 38. Rxg6 Rc5 39. He7+ Axe7 40. Rxf6 Aef7 41. Rxf7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 김동학 三단"]
+[Black "귀마 고승원 初단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Kf8 8. Af1 Afe8 9. Ef3 Ce9 10. Ca2 Rc9 11. Che2 cd6 12. ab3 Ra9 13. g4 ih6
+14. Rxi9 Cxi9 15. Exd6 Cg9 16. Ri0 Ce7 17. Cd2 Ra5 18. Ef3 Kf9 19. c4 Add8
+20. Hd4 Cd9 21. Ri9 Cb7 22. bc3 Ra1 23. Ce0 b5 24. Kf0 Ce7 25. Ade1 Ra0 26.
+Ri5 Rb0 27. Hd1 Rb1 28. Cd0 Hd5 29. Cf2 Ke9 30. Ch0 Ch7 31. h4 Eb8 32. Ei1
+fe6 33. Hf5 Ef6 34. d4 Rc1 35. dxd5 Exd5 36. cd4 e5 37. Hg3 bc5 38. Ce0 Ef8
+39. Exg6 hxg6 40. Cxe5+ Ce7 41. Ce0 Rb1 42. Rxc5 Cxd4 43. He3 Kf9 44. Hd5
+Ce9 45. Hf4 Rb6 46. Hxg6
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 양승태 初단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "57"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Ri9 6. Ei3 Rh9 7. Ed3
+Cbe7 8. Ce2 ef6 9. Eg0 Cf7 10. Ri4 Ed6 11. Rc4 Rc9 12. Rxa6 c5 13. Re4 Ch7
+14. Hd2 fe6 15. Ri4 Ch5 16. Ke0 Ch8 17. Afe1 Cd8 18. Ch2 Ei6 19. Ch4 Rg9
+20. Ch0 ef6 21. Ad1 Exb3 22. Exf6 gxf6 23. Ce2 He6 24. Cxe6 fxe6 25. Rxe6
+Rg7 26. Cf0 cd5 27. cxb3 Exg3 28. hxg3 Rxg3 29. Ri7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 김민수 九단"]
+[Black "귀마 김승래 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 ed6 6. Rh4 Ri5 7. Ed3
+Ee6 8. Rg4 Rc5 9. c4 Rd5 10. cd4 Rc5 11. Hd2 Kd8 12. ih3 Ade8 13. Ei3 Ce9
+14. Exg6+ hxg6 15. Rxg6 Cg9 16. Rh6 Hf5 17. Rg6 Hxd4 18. Cb4 Hxb3 19. Ad1
+Hxd2 20. Axd2 Rc1+ 21. Ad1 Rc3 22. fe3 Ce9 23. Rg4 ab6 24. Rxa9 Cxa9 25.
+Ci4 Cb1+ 26. Ad2 Rc1+ 27. Kd0 Ec3 28. Cc4 Rg1 29. gf3 Ce9 30. Ade1 Rh1 31.
+fg3 Cg1 32. ef3 Cc1 33. Ch4 Hf6 34. Rg6
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 임대빈 아마 5단"]
+[Black "귀마 류병렬 初단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 ed6 6. Ed3 Ee6 7. Hd2
+Cf7 8. Af1 Ke9 9. Ra4 Ri5 10. Ad1 Ade8 11. Ria0 a5 12. Rb4 Cd9 13. Rxb9
+Exc3 14. Rxa9 Exa0 15. Hb1 Rd5 16. Rxa5 Rxd3 17. Cb0 Hb6 18. Ad2 Hc4 19.
+Ra2 Rd5 20. b4 He5 21. Rxa0 Rc5 22. Ra3 Rc1+ 23. Kf0 Hd3 24. Rb3 d5 25.
+Afe1 c5 26. Cg0 g5 27. Cd0 Rc0 28. Ce0 Rb0 29. Cf2 Ra0 30. Rc3 Ra6 31. bc4
+cb5 32. Cd0 He5 33. Cxd5 g4 34. Ce2 Rf6 35. Ke0 gxg3 36. fxg3 Hd7 37. Cd0
+Aff8 38. Ha3 ba5 39. c5 Kf9 40. Rc4 He6 41. Cf0 Hexc5 42. Ec6 Cc7 43. He3
+Ccf7 44. Ea9 Cc7 45. Rh4 Ccf7 46. Exd7 Hxd7 47. Hg4 Rf4 48. Rxh6 a4 49. Hb1
+ab4 50. Hi5 He5 51. Re6 Rf5 52. Hg6 Hc4 53. Rf6 Rg5 54. ih3 He5 55. Hh8+
+Rg8 56. Rf5 Hc6 57. Rh5 Ch9 58. Rg5
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 성우제 九단"]
+[Black "귀마 강갑진 初단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. He3 Ra5 6. Ra1 Hf7 7. Ke0
+Ee6 8. Hf2 gh6 9. a4 Rc5 10. Ef3 fg6 11. Ea3 Ef6 12. Hd5 Rb5 13. Hxc7+ Ke9
+14. Hxe6 Re5 15. Hc7 Exh3 16. gxh3 Cxh3 17. Ri4 Ch8 18. ab4 Afe8 19. Exc6
+bxc6 20. Ra9 Rd5 21. Ade1 Rd7 22. Hxd9 Rxd9 23. Rxd9+ Kxd9 24. de3 Ce9 25.
+Rc4 Hd8 26. cd3 gf6 27. Ce4 Cc9 28. Rd4 Rg9 29. Cd2 Ch0+ 30. Af1 Rg0+ 31.
+Cf0 Ch8 32. Rd5 hg6 33. Ra5 Cf9 34. Hd1 g5 35. Hc3 fe6 36. Ce2 ed6 37. Hb5
+Hb9 38. Exd6 ih6 39. Exb9 cb6 40. Hd6 Ch0 41. Hf7 Cd7 42. Hxg5 Cf9 43. Rd5+
+Ad8 44. Hf7 Rg8 45. Ed6 Ad7 46. Hxh6 Rg0 47. Rf5 Ae8 48. Hg4 bc6 49. Ef3
+Cxf3 50. exf3 Rxg4 51. Cd0+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 김동일 아마 4단"]
+[Black "귀마 허석조 二단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hd7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf1 Hg7 7. Kd1 c5
+8. Ade1 Cf7 9. Ce0 Ri8 10. Cg0 ih6 11. Rxi8+ Hxi8 12. Cc0 Ra6 13. ab3 Rxa0
+14. Cxa0 Cxf1+ 15. Afxf1 Ke9 16. Cb2 Afe8 17. Cf0 Ed6 18. Hb1 Cb7 19. Cd2
+Exb3 20. Cxd7 Axd7 21. Hd2 cd5 22. cxb3 bc6 23. Kd0 A9e8 24. Ke0 Cf7 25.
+Cf2 Kf9 26. d4 c5 27. dxd5 cxd5 28. Hc4 g5 29. Hb6 de5 30. Ee2 hg6 31. Eb1
+gf5 32. bc3 Ke9 33. c4 Cb7 34. Ha4 Cf7 35. c5 Kf9 36. Hb6 Hh6 37. Cd0 Add8
+38. Cg0 Cd9 39. Eb4 ed5 40. cxd5 Exb4 41. Ee3 Hg8 42. Eb5 Ke9 43. gf3 Hi7
+44. hg3 Hh5 45. g4 Hg7 46. gf4 He6 47. fe4 Hc7 48. ed4 Ee2 49. Ed2 Eh4 50.
+Ea4 fe6 51. Cc0 gf6 52. dc5 Ha6 53. dc4 Ef7 54. c6 fe5 55. c7 Cf9 56. c8
+Add7 57. Cc6
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 박유정 六단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. Ca2 Rb9 5. ab3 Che7 6. Ce2 Rb8 7. Ef3
+Ef6 8. Ra4 Ri8 9. Rg4 gh6 10. Exh6 Hxh6 11. Rg6 Ke9 12. ef3 Rbg8 13. Ee3
+Ke8 14. Cxh6 ixh6 15. Rxi8 Rxi8 16. Rxh6 cd6 17. Rh4 Ke9 18. Eg6+ Rf8 19.
+Rc4 bc6 20. Hf2 Afe8 21. Ee3 Exh3 22. Hxh3 Rf5 23. Exc6 Cd7 24. Ke0 Ea6 25.
+He3 Rh5 26. Hi1 Add8 27. Hg2 Cf9 28. Ea3 Hb5 29. b4 Ha7 30. Ri4 Ra5 31. Ed1
+Hc6 32. c4 Ra2 33. Afe1 Kd9 34. Ri9 Hb8 35. Hi3 Ce9 36. Hh5 Cc9 37. Af2 Ra5
+38. Hg7 Ce9 39. Ri2 Cd7 40. Hef5 Af7 41. Ri9 ef6 42. Hxd6 Ade8 43. Hxf7
+Axf7 44. Rf9 Cxg7 45. Rxf7+ Kd8 46. Rxg7 Re5 47. Ade1 Hd7 48. Kf0 Re8 49.
+Ce0 Ri8 50. Ef4 f5 51. Ec6 He5 52. Ra7 Re8 53. Rxa6 Ce6 54. Ra8+ Kd9 55.
+Ra9+ Kd8 56. c5 Hd3 57. bc4 Hc1 58. Cg0 Cb6 59. cd5 Re7 60. Ra8+ Kd9 61.
+Cd0+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제2국"]
+[White "귀마 남상은 五단"]
+[Black "귀마 한재우 五단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "215"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hf7 4. ed3+ Kf8 5. Hf2 ef6 6. a4 Ri5 7. Rxi5
+ixi5 8. ab4 Ee6 9. c4 i4 10. Ra3 i3 11. d4 ixh3 12. gxh3 Ri1+ 13. Af1 Afe8
+14. Ef3 f5 15. de4 Hbd8 16. Hd4 Exb4 17. cxb4 Cxb4 18. He6+ Hxe6 19. Cxe6
+Cb9 20. Cee2 Cb1 21. Ch4 Rg1 22. Ke0 Rxf1 23. Ae1 Rg1 24. Ch0 Ef6 25. ed4
+f4 26. Cd0 Cc7 27. Cf0 fxf3 28. Rxf3 Cxc0 29. Rg3 Cc9 30. Rxg1 Cxg1 31. hg3
+Cg5 32. g4 Cg7 33. gf4 Kf9 34. f5 Ec8 35. Hh3 Af8 36. Cxf7+ Axf7 37. Hi5
+gh6 38. f6 Exf6 39. de4 cd6 40. Hg4 Ec8 41. Hxh6 Ade8 42. Hf5 Cd7 43. Hxd6
+bc6 44. Hf5 Cg9 45. Hd4 cd6 46. Hb5 d5 47. Hc7 dc5 48. ed4 Ad8 49. Ha6 Cc9
+50. Hb4 Cd9 51. de4 c4 52. Hc2 Afe8 53. He3 c3 54. Hg4 Add7 55. Ce6 Cf7 56.
+Hi5 Ca7 57. Hg6 Cg7 58. Hh4 cd3 59. Kf0 Af8 60. Hi6 Ca7 61. Hh8+ Ke8 62.
+Hg6 Af7 63. Ce2+ Kd9 64. Ce6 Cf9+ 65. Ke0 Ea5 66. He5 Ca0 67. Hc4 Ec2 68.
+Ha3 Ea5 69. Hc4 Ec2 70. Ha3 dc3 71. Hb5 cb3 72. Hd4 b2 73. Ce2 Ea5 74. Ad2
+b1 75. Hc6 Ec8 76. Cc2 Ef6 77. Ce2 Afe7 78. Ce6 Af7 79. Ce3 Ade8 80. Ce6
+Afe7 81. Ke1 Eh3+ 82. Ke2 ba1 83. Hb8+ Ke9 84. Hc6 Cd7 85. Hxe7 Kd9 86. Hg6
+Ca9 87. Hf4 Ef0 88. Ke1 Ec2 89. He2 Ea5 90. Hd4 Ed3 91. Hc6 Af7 92. Ce3 Cg7
+93. He5 Ae8 94. ed4 Ea5 95. Hc6 Ec8 96. Ce0 Af7 97. d5 Ef6 98. Hb8+ Kd8 99.
+Hc6+ Cc7 100. Ce6 Kd9 101. d6 Ae8 102. Ce0 Eh3+ 103. Ke2 Ad8 104. Hd4 Ce9
+105. Hb5 Ae8+ 106. Ce6 Ce7 107. Hxc7+ Ke9 108. Hd5
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "귀마 황문수 九단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Af8
+8. Ch4 Kf9 9. Ca4 Ade8 10. Ca1 Rd9 11. ab3 Rd5 12. Ef3 Ce9 13. Ci1 ih6 14.
+hi3 hi6 15. Rh0 Che7 16. Rh3 Ri8 17. Ra9 Ad9 18. Ra4 Rh8 19. Cxi6 Rxh3 20.
+Hxh3 Rh5 21. Ci1 Ch7 22. g5 gxg5 23. Ed6+ cxd6 24. Exh5 gxh5 25. Ci9+ Cg9
+26. Rg4 Afe8 27. Rg7 Cxh3 28. ixh3 f5 29. Rh7 Eh8 30. Rxh5 He6 31. Cb2 Hf4
+32. Rh7 Af8 33. de3 Ke8 34. hi3 Cc9 35. Rh2 fg5 36. Kd1 Ef5 37. ef3 Hd5 38.
+Re2+ Kd8 39. cd3 bc6 40. d4 Hb6 41. f4 Afe8 42. Ci0 Ha4 43. Cd2 Cxc2 44.
+dc4+ Ad7 45. Cf2 Cc5 46. b4 Hb6 47. b5 Cc9 48. bxb6 Ce9 49. fxf5 gxf5 50.
+Cxf7 A9e8 51. Rh2 Axf7 52. Rxh9 Ade8 53. bxc6 dxc6 54. cd4 c5 55. Rh6 fe5
+56. Ade1 Ad7 57. Ce0 cd5 58. dxd5 exd5 59. Rh5 Afe8 60. Rxd5 Kd9
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "귀마 임대빈 아마 5단"]
+[Black "귀마 김민수 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Cb4 Ee6 6. Cb1 Ri5 7. Hd2
+Hd7 8. Cf1 Rc5 9. c4 Ra5 10. Rxa5 axa5 11. Ed3 ab5 12. ih3 Hh9 13. Ri5 cb6
+14. Exb6 Hxb6 15. Ri9 Hf8 16. He3 g5 17. g4 hg6 18. gxg5 gxg5 19. Rg9 d5
+20. Rxg5 Cxe3 21. Exe3 Ee7 22. Rg8 Cf7 23. Cxe6+ Kd8 24. Ce2 Ade8 25. Rg6
+Ra6 26. Rc6 Cd7 27. hg3 bc5 28. cxc5 Cxd2 29. Eb5 Cd7 30. cxd5 Cd9 31. d6
+Cxd6 32. Rxd6+ Ad7 33. bc3 Eg4 34. gxg4 Ke8 35. Ee3+ Ae7 36. Ec6+ Ad7 37.
+fe3+ Ae7 38. ed3+ Ad7 39. Cd1 Kd8 40. de3 Ra1 41. Ea9 Hc8 42. Ra6+ Rxd1+
+43. Axd1
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제3국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 남상은 五단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Hd2 Hd7 7. c4 Ad8
+8. Cb4 Ri5 9. Cb1 Kd9 10. Ci1 Ra5 11. Rxa5 axa5 12. Ed3 ab5 13. Cd1 c5 14.
+cxc5 bxc5 15. ih3 Afe8 16. Ri4 Ce9 17. Rg4 Ra6 18. Exg6 hxg6 19. Rxg6 d5
+20. Rg4 Ed6 21. Rf4 de5 22. He3 Exf3 23. gxf3 Eg9 24. hg3 Ei6 25. Rh4 e4
+26. Cxe4 Ra4 27. Ea1 Rxa1 28. Ce2 Eg9 29. Rh6 Ee6 30. Rg6 Cc9 31. Rg4 Cg9
+32. Rb4 Ce7 33. Ri4 Cc9 34. Rg4 Cc7 35. Ke0 Cg9 36. Ri4 Cc9 37. Rd4 Ce7 38.
+Rg4 Cc7 39. He4 Ra2 40. Ade1 cd5 41. Hg5 Ce7 42. Aff1 Eb8 43. Hi4 Hf5 44.
+Hxf5 Rxe2 45. Hxe7 Rxe7 46. Rb4 Ce9 47. Kd0 Re6 48. Cxd7+ Aexd7 49. Rxb8
+Rc6 50. Rb4 Rd6 51. Ad1 d4 52. bc3 A8e8 53. Afe1 de4 54. Hg5 ed4 55. Add2
+d3 56. cxd3 Rxd3
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 황문수 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Af8
+8. Cb4 Kf9 9. Cd4 Afe8 10. Ca2 Ci7 11. Rg0 Cbe7 12. Cxa9 cb6 13. Cxd7+ Axd7
+14. Cc9+ Ke8 15. Cxi9 Ca7 16. Ra3 Ke9 17. g4 A7e8 18. Hf4 gf6 19. g5 Cb7
+20. gf5 fg6 21. f6 Ee7 22. fxg6 hxg6 23. Exg6 Cxa3 24. bxa3 Af8 25. Ed3 bc6
+26. Rh0 Ke8 27. cd4 ab6 28. Hh5 Hi6 29. Hf6+ Cf7 30. Rh6 Ke9 31. Rxi6 Eg3
+32. fxg3 Eg4 33. Ee3 de6 34. Hxg4
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제3국"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김동일 아마 4단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Ri5 3. Ce2 Hd7 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Cb7 8. Ra4 Kd8 9. Ed3 Ee6 10. Hd2 Hhf8 11. Ci2 Rc5 12. c4 Re5+ 13. Cbe2
+Ade8 14. g4 Rf5 15. f4 Rf7 16. Ad1 Cbe7 17. Af1 Ce9 18. Rha0 Hb8 19. Rb4
+Hd7 20. Kf0 Che7 21. Cf2 Rg7 22. Rb5 ab6 23. Rxa9 Cxa9 24. Ra5 Cae9 25.
+Ade1 Rh7 26. Cd0 Kd9 27. Ra9 Rh1 28. b4 Ad8 29. Cb2 Cb7 30. Exb6 cxb6 31.
+Cxd6 Cg7 32. Cd0 gh6 33. Hh0 Cg0 34. Aff2 Rxh0 35. Hf1 Rh5 36. Cxb6 Cg7 37.
+Cb2 Cb7 38. Afe2 Re5 39. ih3 Ae8 40. hg3 h5 41. A2d2 h4 42. gf3 Cf7 43. fg3
+hxg4 44. gxg4 Cb7 45. Hg3 Cf7+ 46. Ke0 Re3 47. He4 Ec3+ 48. Ad1 Cf9 49.
+Cxb9 Af7 50. Cb3+ Cxa9 51. Cxe3 Ea0 52. Cf0 Afe8 53. Cxa0 Ce9 54. Cf0 Hg6
+55. Hd6 Hb8 56. Cd2 Cd7 57. fe4 Hi5 58. gf4 Hh3 59. Kd0 Hc6 60. b5 Hi1 61.
+b6 Hb8 62. b7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "준결승전 제2국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김기영 四단"]
+[Result "1-0"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ke9 8. Afe1 Ri8 9. Kf0 Raa8 10. Ce0 ab6 11. Rxa8 Rxa8 12. ih3 Ade8 13. Ri5
+Kd9 14. c4 gf6 15. Ed3 f5 16. Cf2 Ce9 17. Cg0 h5 18. Ri4 hg5 19. g4 gxg4
+20. Cxg4 fe5 21. Eg6 Hf8 22. Cxg7 Hxg6 23. Cg4 He7 24. Cg0 Cf7 25. Ce0 Cd7
+26. Eg5 d5 27. Ri6 cd6 28. Hh4 bc6 29. hg3 Ra5 30. g4 c5 31. b4 cxc4 32.
+bxc4 Ra3 33. gf4 Aff8 34. Add1 Cf9 35. Cg0 Hc8 36. Cgd0 Ee7 37. Ri8 Aff7
+38. fe4 Hb6 39. exe5 dxe5 40. Ri7 Cd7 41. Ri6 Rc3 42. Hg6 ed5 43. Ri4 Cc9
+44. Cf6 Hc8 45. Af1 Ke9 46. Ade1 dc5 47. cd4 d5 48. dxd5 Cxd2+ 49. Axd2
+Rxf3 50. Cf2 cxd5 51. Ed3 dc5 52. Re4 Ec3 53. He5 Rf5 54. Re3 cd5 55. Hf3
+Rh5 56. Re4 dc5 57. Ra4 Cf9 58. Hg5 Ec4 59. Ra5 Exf2 60. Rxc5 Ea0 61. Axf2
+He7 62. Hxf7+
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "3·4위전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Ee6 7. c4 Ri5
+8. Hd2 c5 9. cxc5 Rxc5 10. Cb1 Ke9 11. ih3 Hh9 12. Cf1 Hf8 13. Ed3 d5 14.
+Ri4 Ed6 15. b4 Rc3 16. bc4 Rxd3 17. Cd1 Rc3 18. Cxd5 Ad8 19. Cd1 Exf3 20.
+gxf3 Ra8 21. Hf4 Hb6 22. Ri7 Afe8 23. Hxe6 Hxe6 24. Cxe6 Hd7 25. Cf1 Kd9
+26. Ce2 Ce9 27. Ri9 Cf7 28. hg3 Ra7 29. cd4 Hf8 30. d5 Cf9 31. d6 Cxe3 32.
+fxe3 Rxe3 33. Hc4 Re4 34. Rb0 Ra9 35. Hd2 Re3 36. Rb3 Rxb3 37. Hxb3 Rc9 38.
+Cd1 Rc3 39. dc6+ Rd3 40. Hc5 Rd5 41. Hxa6 He6 42. Rxf9+ Axf9 43. Hb8#
+{White mates} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "결승전 제2국"]
+[White "귀마 김동학 三단"]
+[Black "귀마 김경중 九단"]
+[Result "1-0"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "59"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ra5 8. Af1 Ri8 9. Ef3 Rg5 10. Rag0 Exg3 11. Rxg3 Rxg3 12. hxg3 g5 13. c4
+Hb9 14. Exc6 bxc6 15. c5 Hd8 16. cxc6 Hxc6 17. Ec5 Kf8 18. Hb4 He5 19. Exf7
+Hxf7 20. Hd5 Afe8 21. Hxe7 Cxe7 22. Ce0 f5 23. Kd0 Ce9 24. Cd2 Kf9 25. Afe1
+Add8 26. Cf0 Cg9 27. g4 Cxg4 28. Hxg4 gxg4 29. Rh0 Ri9 30. Rh7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "원앙마 차선균 初단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "173"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Hd2 Ke9 9. Rc4 Ri8 10. Exg5 Hxg5 11. Ee3 He6 12. Exc6+ dxc6 13. Rxc6
+Rd8 14. c4 Ade8 15. Ad1 Cd9 16. He3 Aff8 17. b4 Cf9 18. Rb6 ih6 19. Rb5 Ei6
+20. Ra3 Hc7 21. Rg5 Hge6 22. Rg4 a5 23. Cb6 Rd6 24. Cb0 Rda6 25. Ca2 Ca7
+26. Kd0 Rd6 27. Rb3 Ea6 28. Afe1 Cb9 29. Rc3 ab5 30. Ce2 h5 31. Cf0 Cf9 32.
+Rg6 Exg3 33. hxg3 Ce7 34. Rc0 bxb4 35. cxb4 Ra7 36. Hdc4 Rd8 37. Cxe6 Ed4
+38. Rh6 Ra6 39. Hb6 Hxe6 40. Rxe6 Cd9 41. Ke0 Cxe3+ 42. fxe3 Rb8 43. b5 Rd8
+44. Cd0 Ra3 45. Rc8 Kf9 46. Cf0+ Cf7 47. Rh6 Ke9 48. Rxd8 Axd8 49. gf3 Cf9
+50. Rxh5 Cxf3 51. exf3 Rxf3 52. Rd5 Eg6 53. Rd6 Rg3 54. Hd5 Afe8 55. Cd0
+Ei9 56. Ra6 Rb3 57. Hc7 Rb0 58. bc5 Ef7 59. cd5 Rc0 60. He6 Add9 61. Ra4
+Rb0 62. Rg4 Af9 63. d6 Ade8 64. Ra4 Rc0 65. Ra7 -- 66. Hg5 Ec9 67. Ra9 Aff8
+68. Hf3 Ad9 69. He5 Afe8 70. Ra7 Add8 71. Rg7 Ea6 72. Rg9+ Af9 73. Hf7+ Ke8
+74. Hh8 Af8 75. Rg4 Ra0 76. de6 Ad7 77. Rg7 Ed4 78. Rg4 Ea6 79. Rb4 Af7 80.
+Rb7 Afe7 81. Hg6 Rxd0+ 82. Kxd0 Af7 83. ed6 Ad8 84. Rb6 Ec3 85. Hh4 Ae7 86.
+Rc6 Ea0 87. Rc0
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제3국"]
+[White "귀마 성우제 九단"]
+[Black "원앙마 이양근 九단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 b5 5. Ri4 c5 6. Rg4 ih6 7. Ei3 Hc7
+8. Exg6 hxg6 9. Rxg6 Ri7 10. Ra1 Hd5 11. gf3 Hxc3 12. Hf4 Hi8 13. Rg8+ Kd7
+14. ab3 Rxa1+ 15. Hxa1 Hb1 16. Hxe6 Ri1+ 17. Af1 Hxd0 18. Kxd0 Rxf1 19. Hc2
+Ce5 20. Hc7 Ade8 21. Rxi8 Kd8 22. Hb9 Kd9 23. Ri5 Rc1 24. Cd2+ Ke9 25. Rxe5
+Rxc2 26. Kd1 Ege6 27. Ce4 Cxb3 28. Hc7 Aff8 29. Hxe6 Exe6 30. Rxe6 Kf9 31.
+Ke1 Rc1+ 32. Ke2 Cb9 33. Cf2 Cg9 34. Cxe8
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "준결승전 제2국"]
+[White "귀마 김동학 三단"]
+[Black "원앙마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 c5 7. c4 cd5
+8. Hb4 Hb5 9. Ch5 Hbc7 10. Rxa6 Rb9 11. bc3 Ce5 12. Rb6 Hd8 13. Ee3 Ege6
+14. Hc2 Ra9 15. Ch1 Ri7 16. Rb1 Hb5 17. Ra1 Rxa1+ 18. Hxa1 Ce7 19. cb3 Ce5
+20. Cc1 Hc7 21. Hf2 Hdb9 22. Cg1 Cd7 23. Exg6 fxg6 24. Cxg6 Cxd3 25. Ci2
+Ce7+ 26. Kf1 Rg7 27. Hxd3 Rxg6 28. Rg0 Ea6 29. Hc2 ih6 30. Afe1 h5 31. Hf2
+h4 32. Kf0 Ri6 33. Ce2 hxh3 34. gxh3 Ke9 35. Ce0 Ade8 36. Rg5 Hd8 37. Af1
+Rf6 38. Ei1 Ca7 39. Ci0 Cf7 40. Ade1 Aff8 41. Cc0 Cf9 42. He3 Rf7 43. Hxd5
+Hxd5 44. Rxd5 Ri7 45. Ra5 Cf6 46. Ef3 Ri4 47. b4 Rf4 48. Ec5 Hb7 49. Ra3
+Ed8 50. Re3 Eb8 51. Ke0 Hd6 52. Cf0 Hf5 53. He4 Rxf1 54. Re2 Rf3 55. Hxf6
+Rxh3 56. Hxe8 Re3 57. Cxf8 Rxe2 58. Axe2 He7 59. Cxd8 Hc6 60. Ca8
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "양귀마 김경중 九단"]
+[Black "귀마 김진현 三단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Ce7 3. e4 Hf7 4. Ce2 Ke9 5. Hd2 Ra8 6. Ed3 Rii8 7. cb3
+ed6 8. Ef3 ih6 9. Rxi8 Rxi8 10. Rc0 Rd8 11. Cb4 Ee6 12. Cg4 Cxe4 13. Exd6
+Ce8 14. Cg7 Rxd6 15. Ea1 Hb9 16. Hde4 Rd4 17. Cxe6 He5 18. Cg4 Rd6 19. Cg2
+Rxe6 20. Ce2 Hc7 21. Hg4 g5 22. Hxg5 Hf3+ 23. gxf3 Rg6 24. He5 Rg7 25. Rxc6
+Ee7 26. Hd7+ Ad8 27. Rxc7 Eg4+ 28. hg3 Cxd7 29. He6 Re7 30. Cxe7 Exe7 31.
+Rc6 hg6 32. fe3 gf6 33. Hf4 Cf7 34. Hd5 Ce6+ 35. Kd1 Cd7+ 36. Hxe7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "원앙마 이래원 六단"]
+[Black "원앙마 지차룡 六단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "211"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. Cd2 Cd7 6. Af1 Ke9 7. Cf0
+Ade8 8. Ke0 Aff8 9. Ade1 ef6 10. ed3 c5 11. g4 Ee6 12. Hge3 Ra8 13. Ra1 Ca7
+14. Rd1 Ca9 15. Ri2 Rh9 16. h4 Cd9 17. Ra1 Ci7 18. Rg2 ih6 19. gf4 Cf9 20.
+hg4 Ce7 21. d4 Ri9 22. c4 b5 23. cxc5 bxc5 24. Rb1 Ri5 25. Ca2 Rc8 26. Rb6
+cd5 27. fe4 dxd4 28. exd4 Ha8 29. Rb3 Ric5 30. dc4 R5c6 31. Ce2 Rb8 32.
+Rxb8 Exb8 33. ab3 Ebe6 34. Ea3 Rd6 35. b4 Hc7 36. c5 Rd8 37. c6 Ha6 38. Hd5
+Ce5 39. cb6 Exb4 40. Hdxb4 Hxb4 41. Hxb4 fe6 42. Hc6 Rd3 43. Hxe5 Rxa3 44.
+Hc4 Rc3 45. Hd6 e5 46. Cxf8 Rc0+ 47. Ad0 gf6 48. Cf2 Ee6 49. Rg1 Cd9 50.
+Cf0 Ad7 51. Hb5 Ae8 52. Rg2 Eb4 53. Ch2 f5 54. Rb2 Rc4 55. Ee3 ed5 56. Hd6
+Ed7 57. Hxf5 Hxf5 58. Cxf5 Rxg4 59. Cf0 Re4 60. Rb3 d4 61. Ade1 d3 62. Ec0
+Rh4 63. Rb2 Ch9 64. Ca2 Eg5 65. Cd0 Rc4 66. Cg0 Rc1 67. Rg2 Ed7 68. Ch2 Cb9
+69. Cb2 dc3 70. Cb7 h5 71. bc6 cd3 72. Rg6 Ef4 73. cd6 Cf9 74. Aff2 Rb1 75.
+Rg7 Rb6 76. Cd0 dc3 77. Ad2 c2 78. Ea3 cxd2 79. Ci7 Rb5 80. Ce7+ Af8 81.
+de6 Cd9 82. Cf0 Ei2 83. Rg1 Cf9 84. Ae1 Rf5 85. Cd0 d2xe1+ 86. Cxe1+ Re5
+87. Ec6+ Ke8 88. Rg2 Cf5 89. Rxi2 Af7 90. Ri8+ Kd9 91. Ri9+ Kd8 92. ed6+
+Cd5 93. Ea9 Ae8 94. Rb9 Re2 95. dc6 Ae7 96. Rb5 Ci5 97. cd6+ Ke8 98. Rxh5
+Ce5 99. Rh7 Rd2 100. de6 Af7 101. Rh8+ Kf9 102. Ec6 Re2 103. ef6 Ae7 104.
+Rh9+ Ke8 105. Re9+ Kd8 106. Rxe7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "원앙마 지차룡 六단"]
+[Black "원앙마 이래원 六단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Hc7 5. Cd2 Cd7 6. ef3 ef6 7. c4 Ad8
+8. Ee3 He6 9. Rb0 Rb9 10. ab3 Cd9 11. Ea3 c5 12. bc3 cxc4 13. cxc4 Ke9 14.
+Ke0 Afe8 15. Afe1 Ea6 16. Add1 Ri7 17. g4 Rg7 18. Cd0 Cf9 19. f4 Cc9 20.
+Hd4 Cxc4 21. Hxe6 fxe6 22. Exg6 Cc9 23. Ei3 ih6 24. Eg0 Ei6 25. He3 Ci9 26.
+Rh0 hg6 27. h4 Cd9 28. Ri0 Eg9 29. Ri8 Rb8 30. Rc0 Ch7 31. h5 Cf9 32. Hd5
+Cc9 33. Rb0 Hb5 34. Ec0 Cf9 35. Ege3 Hc3 36. Hxc3 Exc3 37. Rb3 Ea6 38. Exg6
+Ce7 39. Rg8 Af7 40. Rxg7
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "원앙마 이양근 九단"]
+[Black "귀마 김형섭 六단"]
+[Result "1-0"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. Hg2 Ef6 5. ef3 ih6 6. Ke0 Af8 7. Afe1
+g5 8. Add1 Kf9 9. Cf2 Ade8 10. Cd0 Ce9 11. Hge3 ab6 12. Ea3 cd6 13. c4 b5
+14. Cf0 Ra8 15. Cc0 Ea6 16. b4 bxb4 17. cxb4 Hb9 18. Ca2 e5 19. f4 e4 20.
+fxe4 Cxe4 21. Rb0 Ce9 22. b5 Cg9 23. gf3 Cd7 24. b6 Ed3 25. Rb4 Exb6 26.
+Rxb6 Cg7 27. Ed5 Ca7 28. Ea3 Cg7 29. Cxa6 Rd8 30. Ca2 h5 31. Ci2 Rh9 32.
+Cb2 Rd9 33. ih3 Hbd8 34. Cf0 Rc9 35. f4 Rc5 36. Ce2 He6 37. fe4 Ke9 38. e5
+Hed8 39. ed5 dxd5 40. Cc0 Rxc2 41. Hxc2+ de5 42. Ee3 Cd9 43. Eb5 Hb7 44.
+Ri8 Kf9 45. Cf0 gf5 46. Rg8 Rg9 47. Rxg9+ Cxg9 48. Rg6 Cd9 49. Rxg7 hg5 50.
+Ee3 Hbd6 51. Eec6 e4 52. Cf6 ef4 53. Rg8 fg4 54. Hd4 gf4 55. He6 He4 56.
+Cxf8 He5 57. Cxf4+ fxf4 58. Cxe5 Af7 59. Rg7 Ae8 60. Rxg5
+{Black resigns} 1-0
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 김진현 三단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ef6 6. Ef3 Che7 7. Ce2
+Ri8 8. Ra8+ Ad8 9. Rc8 Cg7 10. Ch9 e5 11. Rxc9 Rxc9 12. Cxc9 Cge7 13. Ea3
+Cd7 14. Ch9 gh6 15. Ch4 Rg8 16. Hf2 Exh3 17. gxh3 Rg1+ 18. Af1 Cd9 19. Exh6
+ixh6 20. Ri8+ Af8 21. Ch0 Kf9 22. Cc0 cd6 23. cd3 He6 24. Cf0 Ade8 25. Ri4
+Heg5 26. Rb4 bc6 27. Cc0 Ch7 28. h4 Cc7 29. Hd4 c5 30. bc3 cd5 31. Rc4 Ch7
+32. Hf3 He6 33. Cf0 Ce7 34. hg4 h5 35. Rb4 Ce9 36. e4 exe4 37. Rxe4 d4 38.
+Re3 dxd3 39. cxd3 Ce7 40. Ce4 Rxg4 41. He5 Rg1 42. Hc4 d5 43. Hb6 d4 44.
+Hd5 dxe4 45. Hxe4 Ce5 46. Ke0 Hc5 47. Afe1 Cxe3+ 48. dxe3 Hd7 49. Hf4 Rg4
+50. Ec6 Hde5 51. He6 Hxc6 52. Hc7 Ch9 53. Hf6 Rg6 54. Hd5 Ce9 55. Add1 Rg0
+56. Kd0 Rg5 57. Hf4 Cxe3 58. Hce6 Hb4 59. Af1 Hc2+ 60. Ke0 Re5 61. Hg7+ Ke9
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 백갑종 九단"]
+[Black "귀마 박유정 六단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Che7 6. Ce2 Rb8 7. Ef3
+Ef6 8. Ke0 Ri8 9. Ra4 gh6 10. Rg4 Ke9 11. Hf2 Rig8 12. Ea3 Rxg4 13. gxg4
+Ade8 14. gf4 Exh3 15. Hxh3 cd6 16. fg4 Kd9 17. g5 Ce9 18. g6 hxg6 19. Rxi6
+gf6 20. Hg5 Hh8 21. Rh6 Hf7 22. Hxf7 Cxf7 23. Exd6 Hd5 24. cd3 exd6 25. d4
+Hf4 26. ef3 Hg6 27. Rh3 Rc8 28. He3 Rc7 29. Ade1 Ea6 30. Ch6 de6 31. Hd5
+Rc5 32. Hxf6 exf6 33. Cxf6 Rf5 34. Ch6 Cxf3 35. Cxb6 Cf8 36. dc4 Ra5 37.
+Rd3+ Cd8 38. Ec6 Ra0+ 39. Ad0 He5 40. Rd5 Hd7 41. Cd6 Ra2 42. Afe1 Ce7 43.
+Kf0 Ce9 44. Add1 Rc2 45. b4 Rc3 46. Ra5 Rf3+ 47. Ke0 Hb8 48. Cxa6 Hxc6 49.
+Ra2 Rc3 50. Cd6 Ri3 51. Cd0 He5 52. Ra5 Hf3 53. Rf5 Rg3 54. Af2 He5 55.
+Afe1 Rc3 56. cd4 Hf3 57. bc4 Hg1+ 58. Rf1 Rg3 59. d5 Aff8 60. Cf0 Ce7 61.
+c5 Aff7 62. Kd0 Cd4+ 63. Ad2 Rg2 64. Ke1 Rg3 65. Cxf7+ Kd8 66. Cf0 Ce9 67.
+d6 Kd9 68. c6 Hi2 69. Ke0 Re3 70. A1e1 Hg3 71. Cf3 Hxf1 72. Axf1 Rxf3 73.
+Ade1 Rc3 74. Ad0 Rc2 75. Afe1 Ce5 76. Kf0 Cd8 77. c7 Rxc7 78. de6 Rc2 79.
+Af2 Rc6 80. Ade1 Rxe6
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제3국"]
+[White "귀마 김희상 二단"]
+[Black "귀마 남상은 五단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. ih3 Ad8 12. He3 cb6 13. Exb6 dc6
+14. Ed9 cb6 15. Ri5 Kxd9 16. Hd5 Ed6 17. Hxb6 Hxb6 18. Cxb6 Exf3 19. Cb1
+Exg3 20. hxg3 Eh0 21. Cf1 Afe8 22. Re5 Rh7 23. Ke0 ab6 24. Rb0 Cb9 25. Hd2
+Cg9 26. Re3 bc6 27. Ade1 gf6 28. Kd0 fe6 29. Rd3 Ke9 30. Rd4 Ra5 31. Ce0
+Cd9 32. Rg4 Ra2 33. Cd1 Rh2 34. Hf1 Rhc2 35. Hxh0 Rc1 36. Ce3 e5 37. Hf1
+ef5 38. Re4 Kf9 39. Ke0 cd6 40. gf3 de6 41. Ri4 e5 42. Hg3 Rcc2 43. Cf1 Ke9
+44. Hxf5 exf5 45. Re4 Add7 46. Cxf5 Cf9 47. Cf2 Rxf2 48. Axf2 Rxf2 49. Rd0
+Rxf3 50. Re1 Kd9 51. cd3 Hh7 52. bc3 Hf6 53. Ra4 Hd5 54. Rd4 Hf4 55. Re4
+Hh3 56. Kd0 Cxf0 57. Rh4 Ce9 58. Cxh3 Cxe1 59. Kxe1 Cf9 60. Ch8 Af7 61. Re4
+Rf0+ 62. Kd1 Ra0 63. Rd4
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 김기홍 아마 1단"]
+[Black "귀마 한재우 五단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. He3 c5 6. Ke0 Hf7 7. Ra1 gh6
+8. Ef3 fg6 9. Hf5 bc6 10. Ri4 Ef6 11. Exc5 g5 12. Hd6+ Kf8 13. Rf4 He6 14.
+Rxf6 cxd6 15. Raf1 Afe8 16. Exe8 Axe8 17. Hi1 Kf9 18. Hg2 Ch5 19. Cf2 Cf5
+20. g4 Rg9 21. gxg5 Rxg5 22. Hh4 Hf4 23. Hf3 de6 24. Rxf7+ Axf7 25. Cxf4
+Cf8 26. de3 Rc5 27. ed3 Rf5 28. Cxf7 Rxf7 29. de3 Ea6 30. ab3 Exc3+ 31.
+bxc3 Ra0 32. cd3 Rxc0 33. Cxe6 Cxf3 34. Ce1 Ke8 35. exf3 hg6 36. de3 Rc4
+37. Ce5 ih6 38. Ra1 Rd4 39. Ce2 gf6 40. Ra8+ Rd8 41. Ra4 hg6 42. e4 fe6 43.
+hg3 gf6 44. f4 Kf9 45. g4 Rfd9 46. Afe1 Ri8 47. ed4 Rde8 48. Ra9+ Kf8 49.
+fe4 Rc8 50. Ra3 Ri0+ 51. Af0 Rc2 52. Ae1 Rc0+ 53. Ad0 Rxf0+ 54. Kxf0 Rxd0+
+55. Kf1 Rd1+ 56. Kf0 Rd2+ 57. Kf1 Rxe2
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 김영숙 二단"]
+[Black "귀마 황문수 九단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ch4 Ef6 5. Ef3 Ra5 6. Ch1 Ri8 7. Hf2
+ih6 8. Rg0 Hf7 9. Ca1 Rb5 10. ab3 Ea6 11. Cf1 cd6 12. Ra4 Exc3 13. bxc3 Ke9
+14. Ke0 Afe8 15. Afe1 Ch5 16. ed3 Ch9 17. Ee3 Add8 18. d4 Rc5 19. Cc1 Rci5
+20. cb3 Ha6 21. Ra0 Ca9 22. Rb0 Cg9 23. ba3 bc6 24. Exc6 dxc6 25. Cxc6 Ri0
+26. Rxi0 Rxi0+ 27. Af0 Ed3 28. Ae1 Exb0 29. Cc0 Cd9 30. ab3 Ri5 31. Aff1
+Rb5 32. Hxb0 Rxb3 33. Hc2 e5 34. Kf0 Cf9 35. Cg0 Rc3 36. Ch2 Hg5 37. Cc0
+Rb3 38. Ce2 Hxf3 39. gxf3 Rxf3 40. Ke0 Cxf2 41. Afxf2 Rxh3 42. Cf0 Rc3 43.
+Hb0 Hb4 44. Hd1 Rc1 45. Aff1 Hd3 46. Kd0 Hb2 47. Ce0 Hxd1 48. Axd1 g5 49.
+Afe1 gf5 50. Ce2 hg6 51. Ke0 g5 52. Add2 g4 53. Af2 g3 54. -- Rc3 55. Cd0
+gf3 56. Ade1 fe3 57. Cg2 f4 58. Kf0 f3 59. -- fxf2 60. Axf2 ef3 61. Ae1 Re3
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제3국"]
+[White "귀마 김경만 九단"]
+[Black "귀마 조용희 七단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 ed6 6. Rh4 Ee6 7. Rf4
+Ri5 8. Hd2 Ad8 9. Ee3 Ke9 10. Ed3 Afe8 11. Rc4 Rc5 12. g4 Rxc4 13. cxc4 Ce5
+14. Ce4 Cf7 15. Cf2 Cd9 16. Ce2 gf6 17. ih3 d5 18. f4 hg6 19. Ad1 c5 20. b4
+Ce7 21. Cd0 cxc4 22. bxc4 dc5 23. Exf6 gxf6 24. He4 Cxe4 25. fxe4 cxc4 26.
+e5 Eb4 27. Ec6 Hb8 28. ed5+ fe6 29. dc5 cd4 30. Ch2 ab6 31. Rxa9 Cxa9 32.
+Cb2 bxc6 33. Cxb8 cxc5 34. Cb3 Ed6 35. Ci3 c4 36. Cg3 Hh9 37. Ad2 Hf8 38.
+gf4 Cf9 39. Cgg0 Ed7 40. h4 Ea4 41. hg4 Exd2 42. Kxd2 Kd9 43. Ce0 Cc9 44.
+He3 Ce9 45. Hd5 ed6 46. Hb6 dc6 47. Ha8 Ce7 48. f5 He6 49. f6 Hc5 50. Ke1
+Ha6 51. Ce2 Hb8 52. fe6 Ca7 53. ed6 cxd6 54. Cxd6 d3 55. Ce0 c3 56. gf4 c2
+57. fe4 cd2+ 58. Kf2 de3 59. Ae1 d2xe1 60. Kxe1 ef3 61. ed4 fg3 62. d5 gf3
+63. dc5 Ke9 64. Cxd8 f2+
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 고승원 初단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Hd2 Ce7 4. Ed3 ed6+ 5. Cbe2 Ee6 6. g4 Hf8 7. Ra4
+Kd8 8. Cf2 Ade8 9. Ci2 Rg9 10. ef3 Ce9 11. Ee3 ab6 12. Rf4 g5 13. gxg5 Rxg5
+14. Rg0 Rg7 15. Hi1 Rxg0 16. Hxg0 Ra1+ 17. Ad1 Ch1 18. c4 Rc1 19. Kf2 Rxd1
+20. Ae1 Rc1 21. Ch2 Cd1 22. Axd1 Rxd1 23. He1 Rd0 24. Hf1 Ce7 25. Ef6 hg6
+26. Eh3 g5 27. Ce2 Cb7 28. b4 Cf7 29. Ci8 Kd9 30. Cg2 Hh7 31. Ke2 Hhf6 32.
+Ri4 Cxf3 33. Rf4 Cf5 34. Cd2 Ke9 35. Cxd7 Axd7 36. Exc6+ bxc6 37. He3 Ec3
+38. Re4+ Afe8 39. Rf4 Hd5 40. Hxd5 Rxd5 41. Rf3 Ea0 42. Ci2 Af8 43. Re3+
+Ade8 44. Ra3 Rd0 45. Hc2 Re0+ 46. Ee1 Cf9 47. Rb3 Rf0
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 송종일 九단"]
+[Black "귀마 양승태 初단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "192"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ke9 8. Ra1 Rai8 9. Ch4 Hd8 10. ab3 f5 11. Chh2 ih6 12. Rxi8 Rxi8 13. g4
+Afe8 14. Rg1 Kf9 15. Ade1 Ce9 16. Ef3 Cg9 17. Rh1 Cxg4 18. Exh6+ Cg8 19.
+Ef3 Ch7 20. c4 Ri6 21. Hd4 g5 22. Hxe6 Hxe6 23. Cxe6 Rxe6 24. Ri1 Ce7 25.
+Ri9 Ce9 26. Ce2 Rf6 27. Ei5 Cd8 28. Exf7 Axf7 29. bc3 Ade8 30. cd4 Cg8 31.
+de4 c5 32. Eh1 cd5 33. de3 b5 34. cd3 bc5 35. Ri5 Ee7 36. h4 Rh6 37. Ri4
+Cd8 38. hg4 gh5 39. gf4 fxf4 40. Exf4 h4 41. Ri6 Rh5 42. Rg6 Ri5 43. --
+Aef8 44. Ei6 Ke8 45. ef4 Kf9 46. Exf8 Kxf8 47. Rh6 c4 48. Rxh4 Ke8 49. Rh6
+Kd9 50. Hh3 Ri8 51. Hg5 Ae8 52. He6 Cc9 53. Hc7+ Ke9 54. Hxd5 Ri7 55. Rc6
+Ci9 56. Rc7 Kf9 57. Hxe7 Ci0+ 58. Af1 Rg7 59. Ad1 Cxd1 60. Rc9+ Kf8 61. Hf5
+Rg0+ 62. Ke1 Cd7 63. Hd6 Cd5 64. Kf2 Cf0+ 65. Ae1 Cxf4 66. Rc8 Cf9+ 67. Hf5
+Cf7+ 68. Hh4 Cf9+ 69. ef3 Cd0+ 70. Af1 Cd8 71. Rxc4 Cf7+ 72. Hf5 Rd0+ 73.
+Ae1 Rxd3 74. Rf4 Cxf4+ 75. fe3 Rxe3 76. Cxe8 Rf3+ 77. Ke2 Cf7 78. Hd6 Cf9
+79. Hb7 Re3+ 80. Kd2 Rd3+ 81. Ke2 Cd0 82. Hc5 Re3+ 83. Kd2 Cd9 84. Ch8 Re5
+85. Hb3 Rb5 86. Cd8 Rxb3 87. Cd0 Cf6 88. Ae2 Rb1 89. Ae1 Kf9 90. -- Cg9 91.
+Ad1 Ce9 92. Ke1 Rb7 93. Cf2 Re7+ 94. Kf1 Ke8 95. Ad2 Re0 96. Ad1 Rg0
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제1국"]
+[White "귀마 류병렬 初단"]
+[Black "귀마 임대빈 아마 5단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. ed3+ Cbe7 5. Ee3 ef6 6. Hf2 Af8 7. Ch4
+Kf9 8. Ch1 Ra5 9. Cc1 Ade8 10. Ef3 Ce9 11. Ci1 ih6 12. hi3 hi6 13. g4 Rf5
+14. Rh0 Che7 15. Rh3 Ri8 16. i4 Rh8 17. ih4 g5 18. Ri3 ih6 19. ab3 gxg4 20.
+hxg4 Rg8 21. Ra4 fg6 22. Cc1 Ea6 23. Exc6 bxc6 24. He3 Rb5 25. Cxc6 Exc3
+26. dxc3 He5 27. Cc1 Cxe3 28. Ei5 Cxb3 29. cxb3 Ri8 30. Cf1 Ef6 31. Hh1
+Rxi5 32. Rc3 Hd5 33. Rg3 Ri2 34. Re4 Hf7 35. Hf2 Rxf2+ 36. Kxf2 Cxe4 37.
+Ke1 Ce9 38. Ke0 He3 39. bc3 Rc5 40. cb3 Rc4 41. g5 gxg5 42. Rxg5 Eh3 43.
+Rg3 Exf0 44. Cxf8 Axf8 45. Rxe3 Ei2 46. Ri3 Rc2 47. Ke1 Ef4 48. Ad1 Ed7 49.
+Ad2 Rc1+ 50. Kf0 Eg5 51. Rf3 Ke8 52. Ae1 h5 53. bc3 h4 54. cd3 hg4 55. de3+
+Kd9 56. Rf2 gf4 57. Ce0 Ae8 58. Rd2+ Hd8 59. Cg0 Rc3 60. Cd0 Rxe3 61. Cxd8
+Axd8
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 강갑진 初단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 Ri5 6. Ee3 cb6 7. Ed3
+Rc5 8. Hd2 Ei6 9. Ra4 Ed6 10. Rf4 Kd8 11. c4 Rd5 12. Exb6 axb6 13. Cxb6
+Hxb6 14. Rf7 Ade8 15. Rxg7 Ra1+ 16. Ad1 Hxc4 17. bc3 Ea4 18. Ci2 Hb6 19.
+Af1 Rc1 20. Rd0 Rxc3 21. Kf0 Kd9 22. ih3 Rc7 23. Hb1 Rc1 24. Afe1 Rd3 25.
+Ci9+ Af8 26. Rg9+ Ce9 27. Rh9 Cxb1 28. Add2 Cxe1 29. Axe1 Rxd0+ 30. Axd0
+Rg1 31. He1 Ed6 32. Ec6 Ad8 33. Ci0 Eb3 34. Ad1 Exe1 35. Cd0 Ec4 36. Cd2+
+ed6 37. Cxd8 dxc6 38. Cd0+ Ke8 39. Ad2 Rg2 40. Ae1 Exe1
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제2국"]
+[White "귀마 박유정 六단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Cf2 Ce9 7. gf3
+Cbe7 8. Ci2 Ei6 9. ih3 Rh9 10. Cf2 Cg9 11. Ri2 Ke9 12. Ei3 Afe8 13. Ad1 Ca7
+14. Rc0 ab6 15. Ra0 ba6 16. Rc0 ab6 17. Cd0 gf6 18. Cg0 Rh7 19. h4 Ce7 20.
+Ke0 Add8 21. Af1 Cc9 22. Ra0 Rxa0+ 23. Cxa0 Cf9 24. f4 h5 25. Ch0 Exf4 26.
+hg4 hg5 27. gxf4 Cxf4 28. Exf6 exf6 29. Hxf4 Rxh0+ 30. Af0 Kd9 31. Ae1 Ce9
+32. Hg2 Rh3 33. cd3 g4 34. Hi1 Hh5 35. Kd0 Cb9 36. bc3 Ci9 37. Rf2 Cxi1 38.
+Eg0 Cc1 39. c4 Cg1 40. d4 Cg9 41. e4 Cxg0+ 42. Ce0 Cg9 43. d5 Cc9 44. cd4
+Eg8 45. Aff1 Cf9 46. Ri2 Rd3 47. Ad1 Hg3 48. Rg2 Ei5 49. Rg1 He2+ 50. Afe1
+Hxg1 51. Cc0 g3 52. Cf0 gf3 53. Hf1 fe3 54. Hg3 Ef3 55. Hf1 e2 56. Cxf3
+e2xe1+
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "귀마 한재우 五단"]
+[Black "귀마 남상은 五단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 ed6 5. Rh4 Ri5 6. Hd2 Ee6 7. Rf4
+Rc5 8. c4 Rd5 9. ef3 Rh5 10. ih3 Hd7 11. Cb4 Ad8 12. Cb1 Ke9 13. Ee3 Afe8
+14. Ch1 Ri5 15. Cc1 Rd5 16. Ri4 Kd9 17. g4 Ce9 18. Hf4 Rf5 19. Exc6 dxc6
+20. Cxc6 He5 21. Ca2 ab6 22. ba3 Rxa3 23. Ca9+ Rxa9 24. Rxa9 bxc6 25. Hd5
+Hxf3+ 26. Hxf3 Rxd5 27. Ee2 hi6 28. g5 gxg5 29. Hxg5 Ci7 30. Rg4 Cd7 31.
+cd4 Rf5 32. de4 ih6 33. h4 h5 34. hxh5 Hxh5 35. ef4 Rb5 36. Ra6 cb6 37. Ra9
+Eb4 38. He4 Exe2 39. Kxe2 bc6 40. Ke1 Ce7+ 41. Hc3 Re5+ 42. fe4 Rc5+ 43.
+He2 Ce9 44. Ke0 Hf6 45. Rg9 Rb5 46. e5 cd6 47. Afe1 Cf9 48. Rg5 He4 49. Rf5
+Cxe5 50. Rf4 Hd2+ 51. Ad1 Rb0#
+{Black mates} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제3국"]
+[White "귀마 양승태 初단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Ke9 7. Ch4
+Ra8 8. g4 Rii8 9. Cc4 c5 10. Ch4 ih6 11. Rxi8 Rxi8 12. ab3 Ra8 13. Rb0 Hf7
+14. Cf4 Ade8 15. Cf1 Aff8 16. Ef3 b5 17. Ke0 Ra4 18. Ei1 Kf9 19. ba3 Ra6
+20. Afe1 Ce9 21. ab3 Cg9 22. Kf0 h5 23. Ce0 g5 24. gf4 Cg2 25. He4 Hd5 26.
+Exh5 Hxf4 27. He3 Cg9 28. Rb2 gxh5 29. hg3 Ra4 30. gf3 Hg6 31. Aed1 Ce7 32.
+Rh2 Cxe4 33. Rxh5 Cd9 34. Ci0 Ke9 35. Ci9+ Cf9 36. Rxh9 Ce7 37. Cxf6 Ri4
+38. A0e1 Rxi1 39. Ke0 Hh4 40. f4 Exc3 41. bxc3 Ri0+ 42. Cf0 Hg2 43. fe4
+Hxf0 44. Axf0 Hg5 45. Ae1 Hxe4 46. Kd0 Cxe3
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제1국"]
+[White "귀마 김동학 三단"]
+[Black "귀마 임대빈 아마 5단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "204"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. c4 Kd9
+8. Cb4 Afe8 9. Cb1 Ce9 10. Ci1 Ei6 11. Cc1 Rf9 12. Cf1 Rh9 13. Ca1 ab6 14.
+ba3 ba6 15. ih3 Ci9 16. Rg0 Ce7 17. Ed3 Rf9 18. Cf1 Rh9 19. ab3 Rh8 20. g4
+Hh9 21. Hf4 Hf8 22. g5 gxg5 23. Rxg5 Cc9 24. Ca1 ab6 25. Ea5 Ca7 26. Kd1
+Rh9 27. Ade1 Rg9 28. Rxg9+ Exg9 29. cb4 He6 30. hg3 Ce9 31. Hxe6 dxe6 32.
+Aff1 Ed6 33. Rh0 Exb3 34. Hxb3 Ca3 35. ba4 Cb9 36. Hd4 Hc5 37. Hc2 Cb2 38.
+Exc6 Ra7 39. Ad2 Rd7 40. Ae1 bxc6 41. Rb0 Rb7 42. Hd4 Hxa4 43. Rxb2 Rxb2
+44. Cxb2 ed6 45. Cg2 Ee6 46. Hb3 cb6 47. Ec8 Cd3+ 48. Ae2 Hc3+ 49. Kd0 Cxb3
+50. Cf1 Aed7 51. Cd1 Cb8 52. A2d2 dc6 53. Cc2 Hb5 54. Ee5 Ce8 55. Eh3 Ha3
+56. Ce2 Eb4 57. Ke0 Exe2 58. Axe2 cd6 59. Kf0 de6 60. g4 Hb5 61. A2d2 bc6
+62. f4 h5 63. Ch1 hi5 64. gh4 Hd4 65. Cd1 Hf3 66. fg4 Ce3 67. -- Cxh3 68.
+-- e5 69. -- c5 70. -- e4 71. -- Cd3 72. Ch1 cd5 73. Ade2 e3 74. A2f2 d4
+75. Ch6 He5 76. Ch0 Hf7 77. Ce0 Cf3+ 78. Ae2 Cf9+ 79. A2f2 Hh6+ 80. gf4 de4
+81. Cxe3 exf4 82. Ke0 Cxf2 83. Axf2 f3 84. Ch3 Hf5 85. Ae1 Hxh4 86. Cd3 fe3
+87. Ci3 ih5 88. Kd0 hg5 89. Ca3 gf5 90. -- ed3 91. -- dc3 92. Ce3 Hg2 93.
+Ce0 f4 94. Ce2 f3 95. Kd1 Hf4 96. Ce0 c2 97. -- Hd3 98. Ce2 f2 99. Ad2
+cxd2+ 100. Kxd2 Hc5 101. Cb2 He4+ 102. Kd1 fe2
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제2국"]
+[White "귀마 임대빈 아마 5단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ch4 Ke9 6. g4 Ee6 7. Hf2 Ri8
+8. Ef3 b5 9. Ch1 Raa8 10. Ee3 c5 11. Ed6 ih6 12. Rg0 Rae8 13. ab3 Hf7 14.
+Ra9 Ce5 15. Cd1 cd5 16. g5 Rig8 17. gxg6 fxg6 18. Hg4 gf6 19. hg3 Cee7 20.
+Ade0 Rg5 21. gf3 f5 22. Hf2 Rxg0 23. Hxg0 Ce5 24. Cf1 fg5 25. Eb9 Af8 26.
+Ha3 bc5 27. Cb1 Ha8 28. Ee7 Chxe7 29. Cb9+ Hc9 30. Ra6 Cg7 31. Hh2 Cb7 32.
+Rc6 Rb8 33. Rxe6+ Ae8 34. Cxd9 Kxd9 35. Hi4 h5 36. f4 Hd7 37. Hh6 Hxh6 38.
+Rxh6 Ef6 39. Kd0 Cf7 40. fg4 Ce9 41. gxg5 hxg5 42. Rh8 Cf3 43. Eg6 Cf8 44.
+Aee1 Exd3 45. Hb1 Ef6 46. Hd2 Rb6 47. Ce0 He5 48. Rg8 Eh3 49. Ei9 Exf0 50.
+Rxg5 Eh3 51. Rg3 Rh6 52. Cxe5 dxe5 53. Eg6 cd5 54. Hc4 Ce7 55. Hxe5 Cd8+
+56. Hd3 Ef6 57. Ad2 de5 58. Ee3 Rh2 59. Ad1 e4 60. Rf3 exe3 61. Rxe3 Ce9
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "8강전 제3국"]
+[White "귀마 임대빈 아마 5단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7
+{제3국은 점수제 대국.
+
+김동학 三단의 수비장기 시작.}
+3. Ce2 Ra8 4. Ch4 Ce7 5. Ch1 Ke9 6. Hf2 ef6 7. Ca1 Rai8 8. Ca9 Ee6 9. Ri4
+Ra8 10. Cc9+ Ae8 11. ed3 Hc7 12. Ee3 Ra9 13. Cxc6 bxc6 14. Exc6 Ra6 15. Rc4
+ih6 16. Rb0 Ri1+ 17. Ke0 Cd7 18. Ade1 Ra9 19. g4 Aff8 20. Ef3 Ri4 21. He3
+Cxe3 22. Exe3 Ch7 23. Ec6 Kf9 24. Rb5 Rxa3 25. Rb8 Ra0+ 26. Ad0 Ra8 27.
+Rxa8 Hxa8 28. Exf8 Hc7 29. Ec5 Cd7 30. Rb4 Hd9 31. c4 Ri5 32. He4 Kxf8 33.
+d4 Kf9 34. Rb6 Rf5 35. Ade1 Rf3 36. h4 Ra3 37. Ad0 Eg3+ 38. Hxg3 Rxg3 39.
+Exf7 Axf7 40. gf4 Ae8 41. de4 Ee7 42. cd4 Ch7 43. Rd6 Cxh4 44. e5 Re3
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "준결승전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "127"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ad8
+8. Ch4 Ke9 9. Ch1 Ade8 10. Ca1 Ca7 11. Rc0 Che7 12. Cg1 Cd7 13. Exg6+ fxg6
+14. Cxg6 Ra5 15. ab3 Aff8 16. Ke0 Cf9 17. Cg0 Ef6 18. de3 Cc9 19. Af1 cd6
+20. He4 Hd5 21. Hxd6 Hxe3 22. Hc8+ Ad8 23. Hxe3 Cxe3 24. Ade1 Ce8 25. Rd0
+Exc3+ 26. bxc3 Exc8 27. cd3 Re5 28. Aff2 bc6 29. Rb0 Cf9 30. Rb3 Ea5 31.
+de3 Rc5 32. e4 cd6 33. Cd0 Cd9 34. Ef3 Rd5 35. hg3 ih6 36. Rxi9+ Cxi9 37.
+Exh6 Hxh6 38. Cf0 Hf7 39. gf4 Rd3 40. Rb5 Ec2 41. gf3 Exf4 42. fxf4 Re3 43.
+Rh5 Cd9 44. Ri5 d5 45. Ri6 Hg5 46. Rg6 Hh3 47. Rf6 Af9 48. Cd0 d4 49. Kf0
+d3 50. Cxd8 Hxf2 51. Cd1 d2 52. Axd2 Hh1+ 53. Ke1 Hg3 54. Rd6 Cxd2 55. Rxd2
+Hxe2 56. Cd4 Hg1+ 57. Kd1 Hf3 58. Rf2 Af8 59. Cd0 Ra3 60. Cd2 Rd3 61. e5
+Cg8 62. ef5 Ae8 63. Ke1 Rxd2+ 64. Kf1
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "준결승전 제1국"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Ed3 Ee6 9. Rh5 Hf8 10. Rb5 Ch9 11. He3 Cee9 12. ih3 Kd8 13. Rb4 Cxh3
+14. gxh3 Rxh3 15. Rf4 g5 16. Ef6 g4 17. Rf5 Ade8 18. Hd2 g3 19. fxg3 Rxg3
+20. cd3 Rg6 21. Rb5 cb6 22. Rc5 dc6 23. Rf5 Rxf6 24. Rxf6 Hxf6 25. Ra4 Ed6
+26. Ke0 a5 27. Ra1 Hh5 28. Ad1 Hg3 29. Ce5 Hg6 30. Ce1 Hf4 31. d4 Eh8 32.
+Hec4 a4 33. Hxd6 cxd6 34. Cxb6 Hfe2 35. dc4 Ef5 36. Ce3 Hg1+ 37. Kd0 Ei7
+38. Ade1 Hf5 39. Cb1 Hxe3 40. Cxg1 Kd9 41. Cd1 Hxd1 42. Kxd1 Eg4 43. cb4
+Rc9 44. bxa4 Cg9 45. Kd0 Ke9 46. ab4 Rc2 47. Ke0 Aff8 48. Rd1 Cd9 49. Rd0
+Ra2 50. bc4 Kf9 51. cd4 de6 52. bc3 ef6 53. Aff1 f5 54. Aff2 Cg9 55. de4
+Ra6 56. Hc4 Ri6 57. Rd3 Ri0+ 58. Af0 Ce9 59. Hd6 Ce6+ 60. Ae2 Ri2 61. Aee1
+Exe1 62. Kd0 Rf2 63. Kd1 Rxf0 64. Ri3 Ad7 65. Ri9+ Ke8 66. Ri6 Ce9 67. Hxf5
+Eh3 68. Hg3 Kf9 69. cd3 Re1#
+{Black mates} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "3·4위전 제2국"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김기영 四단"]
+[Result "0-1"]
+[TimeControl "각 20분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "78"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ ef6 5. Ee3+ Ce7 6. Exc6 bxc6 7.
+Rb0 Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. Hf2 Ce9 12. ab3 Kf8 13. Ke0
+Afe8 14. Rxh9 Exg3+ 15. hxg3 Rxh9 16. Rxi6 Kf9 17. Ri4 Ra8 18. ba3 Rh5 19.
+Ca2 Rxh2 20. Ke1 Rb8 21. ab3 Cg7+ 22. Kf1 Rg2 23. Afe1 Rxg3 24. de3 Cc7 25.
+Ce2 f5 26. Ce0 Hg5 27. Rd4 He6 28. Rd5 gf6 29. Kf0 f4 30. Hh1 Rg1 31. Ei5
+Cc5 32. Rd2 Cxi5 33. Af1 Cf5 34. Cxe6 fxe6 35. Rd4 Rxh1 36. Ke1 Rxf1+ 37.
+Kd2 Rf2+ 38. Kd1 Rd8 39. Rxd8 Aexd8
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "브레인TV"]
+[Date "2007년"]
+[Round "결승전 제1국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김동학 三단"]
+[Result "0-1"]
+[TimeControl "각 25분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Rb8 8. Ef3 Ee6 9. Rb5 Hd8 10. Rh5 Cb9 11. He3 Cee9 12. Kf1 Kf8 13. Afe1
+Exg3 14. hxg3 Afe8 15. Hf2 Kf9 16. Rh4 Rb5 17. Ce0 Ri5 18. Rxi5 ixi5 19. g4
+Ee7 20. gf4 g5 21. Hd5 ih5 22. Cxh5 gxh5 23. Rxh5 fg6 24. f5 Hb7 25. Rh3
+cd6 26. Hf4 Cb5 27. Hh5 gh6 28. f6 hxh5 29. fxf7 Rh9 30. fxe7 Cxe7 31. Rg3
+d5 32. Rg6 Cf5 33. Kf0 Ke9 34. Af1 Rf9 35. Eh6 Rf7 36. Ae1 Add8 37. Ce2 Kd9
+38. Ke0 Ce9 39. Hg4 Cf8 40. Aff0 Rf4 41. Hf6 Rf5 42. ab3 Af7 43. Hxd5 Rxd5
+44. de3 Hd6 45. cd3 Hf5 46. bc3 Rb5 47. Ad0 Rb0 48. Ae1 Rb4 49. Ce4 Rb7 50.
+c4 Afe8 51. cd4 Rh7 52. Rf6 Hxh6 53. Rg6 hi5 54. Rg5 Hf7 55. Rg0 ih5 56.
+Ce2 hg5 57. Af0 Rh2 58. Ade1 Rh6 59. Ad0 Add7 60. Rg3 Rh0 61. Ae1 Cc9 62.
+Ri3 Cf9 63. Kd0 Cxf0 64. ef3 C0f6+
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제2국"]
+[White "귀마 김형섭 六단"]
+[Black "원앙마 이양근 九단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ef3 ef6 5. Hd2 b5 6. Ee3 c5 7. c4 He6
+8. cxc5 bxc5 9. Ri4 Hbc7 10. Rb4 Cd7 11. Ra1 Ra8 12. Ke0 ih6 13. Ade1 Ke9
+14. f4 Ca7 15. Rc1 Ca0+ 16. Ed3 Rxa3 17. Exf6 Afe8 18. Cb6 Ri5 19. Eh9 Hg7
+20. He4 Hce6 21. g4 Ca8 22. Hd6 Rd5 23. Hb7 Ra0+ 24. Cb0 Ch8 25. h4 Hd4 26.
+Ce4 cb5 27. Rb2 Ece6 28. Ec0 Ra7 29. Cd0 He2 30. Rxe2 Rxb7 31. Ra2 Hxh9 32.
+He3 Cd8 33. Rcc2 Rc5 34. Ce2 Rbc7 35. Ad1 Rxc2 36. Hxc2 Eb4 37. Cd3 Rc3 38.
+He3 Rxd3 39. Afe1 Ege6 40. Hf5 gf6 41. Hxh6 Rc3 42. Ra0 Exe2 43. Axe2 Cxe2
+44. Ef2 Ce7+ 45. Kf0 fg6 46. Hi4 Cf8 47. Ae1 Rh3 48. Rd0 Cxf2
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제3국"]
+[White "원앙마 이래원 六단"]
+[Black "원앙마 지차룡 六단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 Cd7 6. Cd2 Af8 7. Ke0
+Ke9 8. Ade1 Ade8 9. Aff1 Cf9 10. g4 c5 11. Cf0 Ra8 12. h4 ef6 13. Hce3 Hge6
+14. Ra2 Ri7 15. Rc2 b5 16. Cd0 Ea6 17. Ad1 f5 18. Afe1 g5 19. ab3 Rg7 20.
+Ei3 ih6 21. Cg0 Ri7 22. Ri1 cd5 23. Cd0 d4 24. c4 dxc4 25. gxg5 fxg5 26.
+Ch0 Rd8 27. Cd0 Rb8 28. Rxc4 Cc9 29. Ra4 bc5 30. bc3 Rb1 31. Ra2 Rc1 32.
+Ci2 Rg7 33. Rc2 Rxc2 34. Cxc2 Hd5 35. d4 Hdf4 36. Hxf4 Hxf4 37. cd3 Hg2 38.
+Ri2 Hxh4 39. Rh2 h5 40. Ea3 Ed8 41. d5 cxd5 42. Exd5 Ri7 43. Eg0 Hf3 44.
+Rf2 Cf9 45. Ad2 Eb5 46. Ce2 Exe3 47. dxe3 Hh4 48. Rh2 Ri6 49. Rh3 Rb6 50.
+Ea3 Ee6 51. ed3 Hf3 52. Rh1 Cd9 53. Ee3 Eg3+ 54. Kf0 Cf7+ 55. Af1 Rb0 56.
+Ke0 Cd9 57. Ae1 Hxe1 58. Eac6+ Kf9
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "32강전 제3국"]
+[White "원앙마 이상화 아마 5단"]
+[Black "귀마 차선균 初단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3 Hd7 6. Hce3 Ad8 7. Ke0
+Ce9 8. g4 Kd9 9. c4 Afe8 10. Cf2 ih6 11. Ei3 Ri5 12. Ri1 Rb5 13. Rd1 c5 14.
+d4 cxc4 15. dxc4 gf6 16. Ade1 ed6 17. Cd0 Ee6 18. cd4 Rc8 19. Aff1 Cc9 20.
+Cf0 Rb0 21. Raa1 Cf7 22. gf4 Rb5 23. fe4 Cxc0 24. Ch2 Cc9 25. Cxh6 Rh5 26.
+Ch4 f5 27. Ch2 Rxh3 28. Ce2 Eh4 29. Hxh4 Rxe3 30. Eg6 Rg3 31. Exd8 Rg4 32.
+Hi2 Ca7 33. ab3 Ce7 34. Rd3 Cf9 35. bc3 de6 36. Cc0 Rxd8 37. c4 Ed6 38.
+Rda3 Ke9 39. c5 f4 40. exf4 Rxf4 41. d5 Rg4 42. Cf0 Rc8 43. dxd6 exd6 44.
+Rd1 de6 45. cd5 Cd9 46. Rdd3 Rcc4 47. Cd0 Hh5 48. Rf3 Cxd5 49. Rh3 Hg7 50.
+Ra9+ Cd9 51. Rh8 Rc9 52. Ra8 Rc0 53. Rg8 Rd4
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제2국"]
+[White "원앙마 차선균 初단"]
+[Black "귀마 김기영 四단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. ih3 ab6 3. Hc2 Hd7 4. Cbe2 Ed6 5. ed3+ Cbe7 6. Ke0 Cf7 7.
+Ade1 Ci7 8. Rh0 ih6 9. Hce3 Ri8 10. d4 Ci9 11. Cf2 Ad8 12. c4 Kd9 13. d5
+Afe8 14. g4 ef6 15. gf4 Cf9 16. Cd0 Ce9 17. h4 Eg8 18. Ei3 cd6 19. c5 bc6
+20. cxc6 dxc6 21. f5 cd6 22. fe5 dxd5 23. exd5 Ri5 24. Rh3 Ce4 25. Ad1 He6
+26. Afe1 Hc7 27. Rb0 Rb9 28. Rxb9+ Cxb9 29. Hg4 Hxd5 30. h5 Rxh5 31. Rxh5
+hxh5 32. Cxd5 g5 33. H4e3 Ei5 34. Hh0 Ee6 35. Hc4 Ci9 36. Ef1 Ci0+ 37. Hi2
+Cxc0 38. Hd6 Ce7 39. Cd0 Hb6 40. Hg1 Aed7 41. Hf3 Hc8 42. Hc4 Cc5 43. ab3
+Cc9 44. Ha5 gf5 45. Hd4 hg5 46. Hdc6 Ce4 47. Cf2 Ef3 48. Hd4 Eg9 49. Hb7
+Cf9 50. Hc5 fe5 51. Hc6 Exc5 52. Hxe5 Exe2 53. Ad2 f5 54. Hf7 Ec5+ 55. Kd0
+Exf7 56. Cxf7 Hd6 57. Cf2 A8e8 58. bc3 Ee6 59. cd3 Hb5 60. Cf0 Ce7 61. d4
+Ke9 62. d5 Cd9 63. dc5 Hc3 64. c6 Eg3 65. Aed1 fe5 66. A1e1 Hb1+ 67. Ke0
+Cxd2
+{White resigns} 0-1
+
+[Event "제2회 총재배 최강자전"]
+[Site "한게임"]
+[Date "2007년"]
+[Round "16강전 제1국"]
+[White "원앙마 지차룡 六단"]
+[Black "귀마 김동일 아마 4단"]
+[Result "0-1"]
+[TimeControl "각 30분, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "172"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Hd7 5. Cd2 Ed6 6. Af1 Ad8 7. ed3
+gf6 8. Ke0 Kd9 9. Ade1 Afe8 10. g4 Ce9 11. He3 ih6 12. Ei3 Cc9 13. Ra1 fg6
+14. Rg0 ef6 15. gf4 Ee6 16. Cd4 Ri5 17. Rg2 Ch9 18. Ci2 Rb5 19. hg3 Cc9 20.
+g4 Rh5 21. Rg0 Rh3 22. Hg2 c5 23. Cd0 Exc3 24. dxc3 Rxc3 25. Rd1 fe6 26.
+Hge3 gf6 27. Rh0 hg6 28. Ca2 Rb9 29. Cg2 Ce7 30. Aff2 cb5 31. Kf0 Cxc2 32.
+Hxc2 Rxi3 33. Ee3 Rc9 34. Rb1 Rg3 35. Rh2 bc5 36. Rd1 Ri3 37. Exg6 fxg6 38.
+Cxg6 Cc7 39. Aff1 Rc3 40. Rdd2 cb5 41. Hb0 Rxa3 42. Cgg0 Rg3 43. Ce0 Ce7
+44. Hc2 Eb3 45. Cf2 Rcc3 46. Ha1 Rh3 47. Rc2 Rxc2 48. Rxh3 Ra2 49. Rc3 Ce9
+50. Hc2 Ra4 51. Rxb3 Rc4 52. He3 Rc5 53. Ra3 bc6 54. Cd0 cd6 55. Hd1 Rh5
+56. Hc3 bc5 57. Ra8 Rh3 58. He4 cd5 59. Hf2 Rb3 60. Rc8 Hh5 61. Ce2 Hg3 62.
+Cg2 Hf6 63. g5 Hh7 64. f5 d4 65. fe5 Aed7 66. exe6 dxe6 67. g6 Hi5 68. g7
+Rf3 69. Ce2 Rf4 70. Rc7 Hxe2 71. Axe2 Cxe2 72. Rc6 Rf6 73. Rc9+ Ke8 74. Ri9
+Rf5 75. Ri6 e5 76. Cd6 d3 77. Ri8+ Ke9 78. Ri9+ Ke8 79. Ri8+ Ke7 80. Ri9 d2
+81. Re9+ A8e8 82. Rh9 Ce6 83. Rh6 Ce3 84. Rh0 de2 85. Hh3 Hxh3 86. Rxh3 Ce6
+{White resigns} 0-1
+

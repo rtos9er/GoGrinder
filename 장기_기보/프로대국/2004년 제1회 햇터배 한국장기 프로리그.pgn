@@ -1,0 +1,1191 @@
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제1국"]
+[White "귀마 김경만 九단(서울지회C)"]
+[Black "귀마 주경덕 六단(전북지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. g4 Hf7 7. Hf2 Ra5
+8. Ra1 Rf5 9. ab3 Hb9 10. Ch4 Hd8 11. Cf4 Af8 12. Ke0 g5 13. Rg1 fg6 14.
+Afe1 gxg4 15. Cf0 Rg5 16. Rxg4 Rxg4 17. Hxg4 gh6 18. Ef3 Cxh3 19. Ri3 Chh7
+20. Hxh6 Kf9 21. Hf5 Ade8 22. Add1 Ef6 23. Hd4 Exd3 24. cxd3 Ce9 25. Eg6
+Rg9 26. Exd8 Rg6 27. Hxe6 Cxe6 28. Hd4 Ce9 29. Hf5 Axd8 30. Hh4 Re6 31.
+Hxi6 Ce7 32. Add2 Rg6 33. Hh4 Rg4 34. Hi6 Rg6 35. bc3 Ade8 36. Hh8+ Rg8 37.
+Rh3 Cg9 38. Ei5
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제3국"]
+[White "귀마 송종일 九단(서울지회B)"]
+[Black "귀마 성우제 九단(서울지회A)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. cd3 Hf7 7. Ca2
+Rb9 8. Cc2 Rb7 9. Ee2 Ce9 10. Aff1 f5 11. g4 Ef6 12. ab3 ih6 13. Rxi9 Cxi9
+14. Ea3 Af8 15. Hd1 Hb9 16. Ra1 Hbd8 17. Ca0 Kf9 18. Ec0 Ade8 19. Ra4 Cd9
+20. Cd0 Ce7 21. bc3 cd6 22. Cf0 bc6 23. Ra5 fe5 24. hg3 Rb1 25. Hh3 Ke9 26.
+gf3 Rb4 27. f4 Ch9 28. Hg1 g5 29. gh4 Cd9 30. Cg2 Cg9 31. ef3 Ei8 32. de3
+Rb1 33. Ea3 Cd9 34. cd3 Ef6 35. Ra8 Rb3 36. dc3 Rb5 37. Cgd2 ed5 38. cd3
+Cg7 39. Hi2 Rb3 40. fe4 Ce7 41. Exc6 Hxc6 42. dc3 Exc3 43. Cxd6 d4 44. e5
+Eh3 45. Cd0 Exe5 46. C6d2 de4 47. exe4 Cxe4 48. Ra4 Ce7 49. Rc4 Hd8 50.
+C2f2 Ef5 51. f4 Ri3 52. Hh0 Eh8 53. fe4
+{다음 수에 漢이 실격}
+
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제3국"]
+[White "귀마 송종일 九단(서울지회B)"]
+[Black "귀마 김경만 九단(서울지회C)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Hf2 Hf7 6. Ke0 Ra5 7. Ra1
+Ee6 8. Ef3 Rg5 9. Rg1 gh6 10. Ade1 fg6 11. g4 Rf5 12. Exh6 gxh6 13. Cxh6
+Hxh6 14. g5 Rf4 15. g6 Hi4 16. g7 Ch2 17. Rg4 Rxg4 18. Hxg4 Eg3+ 19. hxg3
+Hxg3 20. Hf6+ Kd8 21. He3 Hxe2 22. Axe2 Cb2 23. Hg8 Ri8 24. Hxe7 Exe7 25.
+gf7 Ade8 26. fxe7 Axe7 27. Hd5 Hb9 28. Hxe7 Re8 29. Hxc6+ bxc6 30. Aee1 Kd9
+31. Rxi6 Rc8 32. Ee3 Ha7 33. Ri9 Ke9 34. Ri7 Hb5 35. a4 Cb6 36. a5 Hxc3 37.
+dxc3 cd6 38. Rd7 de6 39. Re7+ Re8 40. Ec6+ Kd9 41. Rb7 Cd6 42. Rb9+ Kd8 43.
+Ee3 Rd7 44. Rb8+ Kd9 45. ab5 Ke9 46. bc5 Ae8 47. Rb6 Re7 48. cd5 Cf6 49.
+Rb9+ Ad9 50. c4 Rf7 51. c5 Cf9 52. Rb6 Rf6 53. de5 ed6 54. cd5 dc6 55. Ra6
+Ae8 56. Ra4 cd6 57. dxd6 Rxd6 58. Re4 Rd7 59. e6 Kd9 60. Re5 Cc9 61. Eg6
+Rg7 62. Rd5+ Rd7 63. Rc5 Cf9 64. Ad0 Rxd0+ 65. Kxd0
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제3국"]
+[White "귀마 하성호 五단(서울지회A)"]
+[Black "귀마 공현선 初단(광주지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Exc3 9. dxc3 He6 10. c4 g5 11. a4 Rf5 12. hg3 gxg4 13. gxg4 Af8 14.
+Af1 Kf9 15. Ad1 Afe8 16. ab4 Ce9 17. Ri3 Che7 18. Ef3 Cg9 19. Rh0 Ci7 20.
+Rih3 Ce9 21. Che4 Hf8 22. Ra0 fg6 23. Ce0 ih6 24. C4e2 Cd7 25. Kf0 Ef6 26.
+Exc6 bxc6 27. Ra6 cd6 28. Ade1 d5 29. He3 Cxe3 30. Exh6+ gxh6 31. Rxe3 Rfi5
+32. Ad1 Cxd1 33. Cxe8 Cd7 34. Rxf6 Axe8 35. Ae1 de5 36. Hh3 Hh7 37. Rf2
+R5i8 38. Rxe5 Hg9 39. Ra5 Ad8 40. Hg5 hg6 41. He6 gf6 42. Rxf6 Cd9 43. Hc7
+Ri6 44. Rf4 R9i8 45. Hxd9 Axd9 46. Rg5 Ri9 47. Rg8 R6i7 48. g5 Ri0+ 49.
+Cxi0 Rxi0+ 50. Kf1 Ke9 51. Rxf7
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제2국"]
+[White "귀마 하성호 五단(서울지회A)"]
+[Black "귀마 박계도 八단(서울지회B)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 cd6 5. Ke0 Hd5 6. Rb0 Ea6 7. ab3
+Ef6 8. Ri4 g5 9. Rc4 bc6 10. He3 Hxe3 11. Exe3 Rc9 12. Ra4 Ed8 13. Rb1 Ri8
+14. Rh4 i5 15. Rh6 Hf7 16. Rg6 Af8 17. Ri1 Ra9 18. Hf2 Ra5 19. Afe1 Rd5 20.
+Cg2 Rb5 21. Cb2 Ra5 22. Kf0 Ce9 23. Cb8+ Ea6 24. Cb1 Cc9 25. Cf1 Cf9 26.
+Ce2 Ke9 27. Ce0 Ade8 28. Exc6+ dxc6 29. Cxe6+ Ce7 30. Ef3 Exd3 31. cxd3 Ed8
+32. Ce0 Ra6 33. bc3 gf5 34. g4 i4 35. h4 i3 36. h5 He5 37. Rg9 Hf7 38. Rh1
+cd6 39. Eh6 Hxh6 40. hxh6 d5 41. g5 fxg5 42. Rxg5 Cd9 43. de3 Rd6 44. e4
+Rc6 45. cd3 Ri9 46. Rg7 Rh9 47. Hg4 i2 48. Rh5 Aff7 49. Rg8 dc5 50. e5 Rg9
+51. Rxg9+ Cxg9 52. e6 Cd9 53. exe7 Afxe7 54. He5 cd5 55. Hg6 Rf6
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제1국"]
+[White "귀마 윤효일 四단(광주지회)"]
+[Black "귀마 이현식 六단(인천지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 ed6 6. Hd2 Ee6 7. g4
+Ri5 8. Exg6 hxg6 9. Rh0 Kd8 10. Ed3 Ade8 11. c4 Cf7 12. Ad1 Aff8 13. Rh8
+Cf9 14. Kd0 Rd5 15. Hf4 Cxf4 16. fxf4 Rxd3 17. i4 Ri3 18. ih4 Kd9 19. Afe1
+Hi6 20. Rh9+ Ce9 21. Ri9 gh6 22. Ce0 Ee7 23. Cf2 Rd3 24. Cc0 Exh4 25. Cf0
+Ef7 26. Rh9 hg6 27. Rg9 Exc4 28. Cb2 gf6 29. b4 Rc3 30. Ce2 c5 31. He4 Rd3
+32. Hxc5 Rc9 33. bxc4 dc6 34. Hxa6 cb6 35. Ke0 bxa6 36. Rxa6 Rxc4 37. Ra9+
+Ec9 38. Cd0 Rc0 39. Kf0 Rf3+ 40. Af1 Ad8 41. Ae1 Hh8 42. Rg8 Hg6 43. Ce0
+Hxf4 44. gxf4 Rxf4 45. Ra8 Rxd0 46. Axd0 He5 47. Rxd8+ Kxd8 48. Rxf8+ Kd9
+49. Re8#
+{White mates} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제1국"]
+[White "귀마 성우제 九단(서울지회A)"]
+[Black "귀마 전영성 六단(경남지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ce7 3. ih3 Ed6 4. Ed3 Exb3 5. cxb3 cb6 6. Hd2 Rc9 7. Cbe2
+ef6 8. Cf2 Ri8 9. gf3 Rc7 10. Ra4 Rc5 11. Exf6 gxf6 12. Rg4 Ee6 13. Cxf6
+Hf8 14. Cf2 Ke9 15. Hf4 Eb8 16. Ke0 Ade8 17. Ade1 i5 18. Cd0 Rf5 19. bc3
+Ri6 20. cd3 Rg6 21. hg3 Rh6 22. Ei3 Ra5 23. Hg6 Hxg6 24. Exg6+ Aff8 25.
+Aff1 He5 26. Rg5 Hxg6 27. Rixi5 Ra0 28. Ri9+ Aff9 29. Rc5 Hf8 30. Rc8 Ed5
+31. d4 Eg7 32. Rg9 Rg6 33. Rc9+ Ad9 34. Cb2 Cf7 35. Cb9 Ke8 36. Cxd9 Rh6
+37. Hc0 Rh1 38. Cd1 Ce9 39. Rxg7 Ra5 40. Rd9+ Cxd9 41. Rd7#
+{White mates} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제1국"]
+[White "귀마 김경만 九단(서울지회C)"]
+[Black "귀마 하재균 六단(경기지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "78"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Hd7 5. Rh4 Ri5 6. ef3 Rd5 7. Ee3
+Ed6 8. Hd2 cb6 9. Ed3 Rc9 10. Ad1 Rf5 11. Cc2 Rb9 12. Cf2 Rg5 13. ih3 Exf3
+14. Hxf3 Ri5 15. Kd0 Rc9 16. Af1 e5 17. Exg6 hxg6 18. Rh8+ Ke9 19. Rg8 Ade8
+20. Rxg9 e4 21. Exb6 e3 22. Ee4 exf3 23. gxf3 gf6 24. Eh6 Hi8 25. Ri9 Ri0+
+26. Cf0 Rc6 27. Exf9 Axf9 28. Afe1 Hc5 29. fe3 fg6 30. ef3 Rf6 31. Hh4 g5
+32. c4 He4 33. Cb4 Hf2 34. Cb0 Hxd1 35. Axd1 g4 36. Rxa6 Rxf3 37. Ra9+ Ke8
+38. Ra8+ Kd7 39. Ae1 gxh4
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제2국"]
+[White "귀마 김경중 九단(대전지회)"]
+[Black "귀마 조용희 六단(서울지회B)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Che7 6. Ce2 Ed6 7. Ed3
+Ad8 8. Ri4 c5 9. ef3 Ei6 10. Rb4 Kd9 11. Ee3 a5 12. Hd2 Afe8 13. c4 cd5 14.
+Rb5 a4 15. Rxd5 Ce9 16. c5 Ra6 17. Rc0 a3 18. bxa3 Rxa3 19. c6 Cbe7 20.
+cxd6 exd6 21. Rxd6 Rf9 22. Eb6+ Hxb6 23. Rxb6 Aed7 24. Eb5 Ra1+ 25. Ad1 Eg9
+26. Exe7 He6 27. Ce0 Axe7 28. Kd0 Rf5 29. He3 Rc5 30. Rxc5 Hxc5 31. Hd5
+Aed7 32. He4 Ra8 33. Cb8 Ee6 34. Hc7#
+{White mates} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제2국"]
+[White "귀마 이종석 初단(서울지회C)"]
+[Black "원앙마 이양근 八단(전북지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ed6 4. ab3 He6 5. ef3 Ri7 6. Ra4 Hc7 7. Ee3
+Rg7 8. Rc4 Cd7 9. Ed3 Cd5 10. Exg6 Rxg6 11. He3 Cd8 12. Hf5 Ce5 13. Rii4
+Ke9 14. Rig4 ih6 15. Rxg6 hxg6 16. Rg4 g5 17. Exg5 ab6 18. Hd2 Cxd2 19.
+Kxd2 Ra2 20. He3 c5 21. c4 b5 22. b4 bxb4 23. cxb4 Hd5 24. Hxd5 dxd5 25.
+Ei8 Ei6 26. Ri4 Ef8 27. Ri1 Ce7 28. Rb1 d4 29. Kd1 Ra3 30. Cb0 Rd3+ 31. Ke1
+Rc3 32. Kf1 d3 33. Afe1 de3 34. fxe3 Rxe3 35. Cf0 Ei6 36. gf3 Re5 37. Rb3
+Rh5 38. Ef6 Afe8 39. Cf2 Rh6 40. Ce0 Rh5 41. Ra3 Hc7 42. Cc0 Hd5 43. Cxc9+
+Ad8 44. Ra9 Hxf6 45. Cc0+ Add9 46. Cxf6 Rxh3 47. Cc9+ Ad8 48. Cc3+
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제1국"]
+[White "귀마 이종석 初단(서울지회C)"]
+[Black "원앙마 이시형 三단(서울지회A)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ed6 4. ab3 He6 5. Ra4 Hc7 6. ef3 c5 7. Rh4 Kd8
+8. Rh8+ Ade8 9. Rg8 g5 10. Ee3 gf5 11. Ke0 a5 12. Afe1 ab5 13. Ci2 Rh9 14.
+Ch2 ih6 15. Ch4 hi6 16. Ch0 ih6 17. Hd2 Cd7 18. Kf0 Kd9 19. Cf2 f4 20. Ri4
+Cd4 21. Ch4 hi6 22. Rg6 Ri9 23. cd3 Cd8 24. Ch0 i5 25. Ri2 d5 26. fxf4 Hxf4
+27. Rf6 Hxg2+ 28. Rxg2 Ege6 29. Ri2 Ra4 30. Rf5 i4 31. Ce0 Rg9 32. gf3 Ci8
+33. Ri5 Cd8 34. R5xi4 Ra7 35. Ri6 Rh9 36. hg3 Exg3 37. fxg3 He6 38. Rf6 Ra6
+39. Ri7 Cf8 40. gf3 Ke9 41. Rii6 Kd9 42. Rih6 Rxh6 43. Rxh6 Hg5 44. Rh5 He6
+45. Rh4 Ke9 46. fg3 Hg7 47. Eh5 Ee6 48. Rh3 Hxh5 49. Rxh5 Exg3 50. Ce2 Rf6
+51. Cb2 Ri6 52. Rh0 Af7 53. Hf1 Ri0
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제1국"]
+[White "귀마 송종일 九단(서울지회B)"]
+[Black "원앙마 장배형 五단(대전지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. Ri4 Cf7 7. ef3
+g5 8. Ee3 Ra7 9. Hd2 Ke9 10. Rb4 Rc7 11. Exc6 dxc6 12. Rb7 Ade8 13. Rxc7
+Hxc7 14. Exg5 ih6 15. Ke0 h5 16. Ed3 Cd9 17. Ade1 Hge6 18. He3 c5 19. Hf5
+Ce5 20. Ra4 Aff8 21. Rg4 Cf9 22. Hg7 Hxg7 23. Rxg7 He6 24. Rg8 Ce7 25. g4
+Cxf3 26. Cb9+ Ad9 27. Rxf8 Ri7 28. Rxf3 Hc7 29. Cb0 Ae8 30. Rf5 cd5 31.
+Rxh5 Rg7 32. h4 Ece6 33. Aff1 Eg3 34. Eg5 Rg6 35. He4 He6 36. Hxg3 Hd4 37.
+Ed3 Ee6 38. Rh9+ Af9 39. Cf0 Hf5 40. g5 Hg7 41. Rg9 Exc3+ 42. bxc3 Re6 43.
+Rxg7 Ce3 44. Rg9 Re8 45. Hf5 Kd9 46. Hxe3 Rxe3 47. Rxf9+ Kd8
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제2국"]
+[White "원앙마 이성준 五단(서울지회C)"]
+[Black "귀마 하성호 五단(서울지회A)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ab3 Ed6 5. b4 ef6 6. Hc2 Ee6 7. ed3 Cf7
+8. Cd2 Rh9 9. Ee3 Hb8 10. Ke0 Rc9 11. Ade1 g5 12. bc4 Ad8 13. Ea3 ab6 14.
+Eaxc6 bxc6 15. Ra8 Hd7 16. c5 Hb6 17. Ra6 Exc3 18. dxc3 Ha4 19. Rxa4 cxc5
+20. Re4 Rc7 21. Rxe7+ Rxe7 22. Cxe7 Kxe7 23. Ch2 Ci7 24. Rxi6 Hxi6 25. Cxh9
+Cc7 26. Ch2 Cxc3 27. Ce2+ Kf7 28. Aff1 f5 29. Hb0 f4 30. Hd1 Cc9 31. Eg6
+Ad7 32. Hge3 Kf8 33. Hb2 Hh8 34. Hd3 Ea8 35. Ed4 Cc3 36. Hc1 Afe8 37. Ea2
+f3 38. gxf3 Cxf3 39. hg3 Cc3 40. g4 gxg4 41. Hxg4 Cc8 42. Hd3 cb5 43. Hde5
+b4 44. Hd3 b3 45. Aff2 bc3 46. Hf4 Kf9 47. Hh6 cb3 48. Ch2 Hi6 49. Ed4 Ec5
+50. He6 Ef3 51. Hg7+ Ke9 52. Eb7+ Aed8 53. Hf7+
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제2국"]
+[White "원앙마 박병규 六단(인천지회)"]
+[Black "귀마 임선웅 三단(광주지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hg2 Ce7 3. Hc2 ih6 4. Cbe2 ed6 5. ef3 Hf7 6. Ege3 Ee6 7. c4
+g5 8. Cf2 Ri8 9. Ke0 Ca7 10. Ea3 Che7 11. Eexc6 ab6 12. Rc0 bxc6 13. Ade1
+Cd7 14. Cd0 Ra8 15. Aff1 Ke9 16. Hge3 Af8 17. Hd4 Ra6 18. Ca0 Rb6 19. b4
+Ade8 20. Cd0 Ra6 21. Ed1 Hb9 22. b5 Hd8 23. Hdc2 Cf9 24. c5 cxc5 25. bxc5
+Ra8 26. cd5 dc6 27. Rb0 Ci9 28. Ea3 Kf9 29. Exc6 Exg3 30. fxg3 Hxc6 31.
+Rb9+ Ce9 32. Cd7+ Ae7 33. d6 Hb8 34. Cxe7 Ef6 35. Rc9 Ra6 36. Ce2 Rxd6 37.
+Cd0 Ae8 38. g4 Hd7 39. Rb9 h5 40. gxg5 hxg5 41. Cf0 Rc6 42. Rg0 Rxi3 43.
+Rxg5 Ri0 44. Hd4 Rc0+ 45. Ad0 Eh3 46. Rg9+ Kf8 47. Rg8+ Kf9 48. Rxe8#
+{White mates} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제2국"]
+[White "원앙마 이래원 五단(전북지회)"]
+[Black "귀마 이경화 三단(제주지회)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 ab6 3. Ce2 Ce7 4. Hc2 Hd7 5. ed3 Ed6 6. Af1 c5 7. Cd2 gf6
+8. Cf0 Ad8 9. Ke0 Kd9 10. Hce3 Afe8 11. Ade1 Ce9 12. g4 Cc9 13. h4 Ce7 14.
+Ra2 Ci7 15. Ei3 ih6 16. Rh0 Ei6 17. g5 Ch9 18. Ra1 Ri8 19. Ch2 Rc9 20. Cxh6
+c4 21. ab3 cxc3 22. bxc3 Rc5 23. h5 Ke9 24. gf5 fxf5 25. Exf5 Ce7 26. hg5
+e5 27. g6 Ef3 28. Cxf3 e4 29. Cf0 exe3 30. Hxe3 Hf9 31. Ra4 Eg3 32. Ce6 Ri9
+33. Ce2 bc6 34. Ei7 Rxi7 35. Rxh9 Ri2 36. Rf4 Kd9 37. Rfxf9+ Ce9 38. Rxe9+
+{Black resigns} 1-0
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제1국"]
+[White "귀마 김청호 三단(부산지회)"]
+[Black "귀마 송종일 九단(서울지회B)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Hd7 5. ef3 ed6 6. Rh4 Ri5 7. Ee3
+Ee6 8. Rha4 a5 9. Rg4 Rf5 10. Hd2 cb6 11. f4 Rg5 12. Rxg5 gxg5 13. c4 Ra8
+14. Ed3 ba6 15. ih3 Ke9 16. g4 gxg4 17. fxg4 Ad8 18. gf4 Kd9 19. cd4 Ade8
+20. Ad1 Ch7 21. hg3 Ee7 22. g4 Eh9 23. Exa5 ab6 24. Ra3 dc6 25. d5 Che7 26.
+g5 Cxb3 27. Rxb3 Rxa5 28. Rd3 Ce9 29. f5 Ra4 30. Ce0 Eg3 31. Cbe2 Exd5 32.
+Rxd5 Rg4 33. Cb2 Rb4 34. Cee2 Ad8 35. Kd0 Rg4 36. Ce4 Afe8 37. Ce0 Hc5 38.
+Cg0 Rb4 39. Ce2 Ri4 40. f6 Hf9 41. g6 He7 42. Rg5 hxg6 43. Exg6 Cc9 44. He3
+Rf4 45. Ade1 Rxf6 46. Aff1 Cf9 47. Ke0 cd6 48. Rxc5 Rxg6 49. Cd0 bc6 50.
+Re5 Ef6 51. Re4 Rg3 52. Hg4 Eh9 53. He5 Hd5 54. Rd4 Ee7 55. Rd3 Rg5 56. Hf3
+Rg3 57. Hb3 Hf4 58. Re3 Rxf3 59. Rxf3 Cxf3 60. Hd4 Cf6 61. Aff2 Hxe2 62.
+Afxe2 Ke9 63. Hf3 de6 64. Hg5 cd6 65. Hh7 Eb9 66. Hxf6 exf6
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제2국"]
+[White "귀마 이점섭 五단(부산지회)"]
+[Black "귀마 박계도 八단(서울지회B)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "159"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 cd6 5. Rb0 b5 6. Hf2 Ef6 7. Ee3 g5
+8. Ef3 d5 9. Af1 Hf7 10. Kf0 e5 11. Ade1 ef5 12. d4 dc5 13. Exb5 f4 14. Ec1
+Rb9 15. Cb2 Ra9 16. Cbd2 cxb5 17. c4 Af8 18. Rb3 Kf9 19. Cd7 Ad8 20. Cd0
+Ade8 21. He3 Ce9 22. Hd5 Hxd5 23. dxd5 Rb9 24. Cb2 Ea6 25. a4 Ed8 26. Cg0
+Rc9 27. Cc0 ih6 28. Rxi9+ Cxi9 29. c5 bxc5 30. dxc5 Ra9 31. Rb4 gf5 32. cd5
+Cd9 33. de5 fxe5 34. Rxf4 Ra6 35. Ch2 Rd6 36. ab4 Ce7 37. Cg0 Ke9 38. Ef3
+Rc6 39. Rg4 Cf9 40. b5 Ec8 41. bc5 Ra6 42. Cc2 Ea5 43. Ch2 Ed7 44. Rc4 ef5
+45. c6 f4 46. Ec1 He5 47. Rc5 Hxc6 48. Cxh6 Ha5 49. Ch2 Rc6 50. Re5 Rxc1
+51. Ce2 Aff7 52. Cd0 Rc3 53. Cxd8 Eb4 54. Ce0 Hc6 55. Rb5 Hxd8 56. Rxb4 f3
+57. Hd1 Rd3 58. g4 fg3 59. hxg3 Rxg3 60. gf4 He6 61. fe4 Hg5 62. e5 Rd3 63.
+Ce2 Kd9 64. Rg4 Hi6 65. Hb2 Rb3 66. Rd4+ Cd7 67. Hd3 Ce9 68. Rd5 Rb6 69.
+Hc5 Rc6 70. Ce0 Afe7 71. Cg0 Hh4 72. Cd0 Ad8 73. Hb3 Hf3 74. ef5 Ke8 75.
+Ha5 Ra6 76. Hc4 Rc6 77. Ha5 Ra6 78. Hb3 Rb6 79. Hc5 Rc6 80. f6
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제3국"]
+[White "귀마 조용희 六단(서울지회B)"]
+[Black "귀마 설조길 五단(부산지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Ke0
+Ra5 8. Ra1 Ri5 9. Rxi5 ixi5 10. Ri1 Af8 11. Ade1 Kf9 12. g4 Ade8 13. Ef3 i4
+14. Ch4 f5 15. Cc4 cd6 16. Rxi4 Rxi4 17. Cxi4 d5 18. Ei5 Ef6 19. Ca4 Ch0+
+20. Af1 Ch9 21. Ca0 Cc9 22. ab3 fe5 23. Ha1 ef5 24. Cg0 Ce5 25. Cxg6 Cxi5
+26. Cgxe6 Ei8 27. hg3 Ce5 28. gf3 Hxe6 29. f4 fxf4 30. gxf4 Hfd8 31. c4 Ce7
+32. Cxe6 Hxe6 33. fe4 Ke9 34. cd4 dxd4 35. exd4 Cf9 36. bc3 Cxf2 37. Afxf2
+Eg5 38. Kd0 Kf9 39. Hc0 Ce9 40. Hd2 Cg9 41. Hf3 Ei8 42. He5 Cd9 43. Ke0 b5
+44. Hg6 Ef6 45. d5 Hd8 46. de5 Exd3 47. cxd3 Cxd3 48. Hf4 Cd9 49. Exb5 Hc6
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제1국"]
+[White "귀마 조용희 六단(서울지회B)"]
+[Black "귀마 이종석 初단(서울지회C)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 gh6 10. Ade1 fg6 11. ab3 Ef6 12. Aff1 Kf8 13. Ra4
+Afe8 14. Exh6 gxh6 15. Rg4 Ra5 16. Kf0 Kf9 17. Ce0 Ce9 18. He4 Rf5 19. Cb2
+Rg9 20. Rxg9+ Cxg9 21. Cf2 Ce7 22. d4 Ke9 23. Cxf6 Cxe4 24. Cxc6 Ce7 25.
+Cc9+ Ad8 26. Cc4 Cc9 27. Ri2 He5 28. Ce4 Cf9 29. C0e2 Hc6 30. c4 Rb5+ 31.
+gf3 Rxb3 32. c5 He5 33. cd5 Hg4 34. Ce0 Hi5 35. Ri4 Rc3 36. Hd0 Hg6 37. d6
+Hf8 38. hg3 Exg3 39. fxg3 Hfe6+ 40. gf3 Hxd4 41. Rg4 Hb3 42. Hb1 Rd3 43.
+Rg7 Kd9 44. Rg2 Rxd6 45. Cg0 Hc5 46. Ce2 Rf6 47. Cd0+ Ke9 48. Ke0 Rxf3 49.
+Eg6+ hxg6 50. Rxg6 H5e6 51. Hd2 Re3 52. Rf6 i5 53. Aff2 ih5 54. Hc4 Rb3 55.
+Hd2 Rb4 56. Rh6 Hf4 57. Rh9 Hxe2 58. Axe2 Rh4 59. Cf0 He6 60. Kd0 Hd4 61.
+Hb1 Hc2+ 62. Kd1 Rb4 63. Hd0 Rd4+ 64. A2d2 Ra4 65. Ade2 Ra1+ 66. Kd2 Hd4
+67. A2f2 Hb3+ 68. Ke2 Ra5 69. Aff1 Re5+ 70. Kf2
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제3국"]
+[White "귀마 최연식 四단(인천지회)"]
+[Black "귀마 김기영 初단(광주지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Ce2 Hf7 4. ed3+ ef6 5. Ee3+ Ce7 6. Ri4 Ee6 7. Rc4
+Hd8 8. Ri4 Kf8 9. a4 Ra8 10. Hc2 Afe8 11. Cd2 Ce9 12. Cd4 ih6 13. Rf4 Cc9
+14. c4 Ri1+ 15. Hh1 Cxc4 16. Cd1 Cc9 17. Hd4 Ri5 18. Cf1 cd6 19. Hi3 Rc5
+20. Ri4 Rc2 21. Ad1 Kf9 22. Ad2 Rc4 23. Ri9 Ce9 24. Ce4 Rc5 25. Ce2 d5 26.
+Hf3 Rc4 27. ab4 Rc1+ 28. Cxc1 Rxa0 29. Cf1 Ra3 30. bc4 Rxd3 31. Exg6 hxg6
+32. Hh5 Rc3 33. Hxf6 gxf6 34. Cxf6+ Af8 35. Hg5 Rxc4 36. Ef3 Rf4 37. He4
+Cxe4 38. Rxh9+ Ke8 39. Cxf8 Kxf8 40. Rxd9 d4 41. Ri9 d3 42. Cb2 de3+ 43.
+Kd0 exf3 44. Afe1 fxg3 45. hxg3 Ch7 46. Cf2 Cd7+ 47. Ae2 Ke8 48. Ri8+ Hh8
+49. Ri5 Cd9+ 50. Cd2 Ce7 51. Rg5 Rc4 52. Rg8+ Ke9 53. A1f2 Eb4
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제3국"]
+[White "귀마 임종태 三단(경남지회)"]
+[Black "귀마 하성호 五단(서울지회A)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 ih6 2. Ce2 Hc7 3. ed3+ Ce7 4. Ee3 ab6 5. Hd1 Hf7 6. Ke0 Ra5 7. Ade1
+Ef6 8. Kd0 ed6 9. Ce0 Ee6 10. gf3 Rai5 11. Ee2 Rxi3 12. Rxi3 Rxi3 13. f4 g5
+14. ab3 Rf3 15. Ra4 Af8 16. Aff1 Ei4 17. Cc0 Exf2 18. Cxf2 Ri3 19. Ce0 Ri4
+20. Cf0 Ke9 21. Ra5 Afe8 22. f5 gxf5 23. Rxf5 Add8 24. Cf2 Cb7 25. Cc0 Chd7
+26. Ra5 Cb5 27. Cc4 Ha6 28. Ra0 Cb9 29. Cf0 Cxd3+ 30. cxd3 Rxc4 31. bc3 Rg4
+32. Exc6 dxc6 33. Ra5 Cf9 34. Ke0 Rg0 35. Ra4 Hb8 36. Re4 cd6 37. d4 bc6
+38. d5 Hd7 39. c4 Eh8 40. dxd6 cxd6 41. c5 Ef5 42. Re3 Eh2 43. Rh3 Ee4 44.
+Hc3 Rg4 45. Re3 Hg5 46. Rd3 Hf7 47. Rd4 de6 48. cd5 e5 49. dxe5 Hfxe5 50.
+Cd0 Eh2 51. Rd6 Hf7 52. Re6 Rc4 53. Hd1 Re4 54. Ra6 Rc4 55. He3 Re4 56. Ra3
+Hb6 57. Cf2 Hd5 58. Hc2 Rc4 59. Rd3 Cd9
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제3국"]
+[White "귀마 강철원 六단(대전지회)"]
+[Black "귀마 박계도 八단(서울지회B)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "92"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Ke9 5. ef3 Ri8 6. Ee3 Rc8 7. Ed3
+Ed6 8. Hd2 c5 9. Ad1 Raa8 10. Kd0 ab6 11. Rxa8 Hxa8 12. Rh4 Ade8 13. Ade1
+Rc7 14. Ce0 Cd7 15. Cc0 Exb3 16. Rb4 Ra7 17. Ce0 b5 18. Rxb3 Hc7 19. c4
+cxc4 20. Ad1 cd4 21. Ec6 Ra6 22. Eg1 Rxc6 23. Cxb5 Rb6 24. Ceb0 Hxb5 25.
+Cxb5 Rc6 26. Rb0 ed6 27. Afe1 He6 28. fe3 Rb6 29. Ke0 dc6 30. Rb3 Cxd2 31.
+Adxd2 c5 32. Kf0 Rxb5 33. Rxb5 cxb5 34. gf3 bc5 35. ed3 c4 36. dxd4 cxd4
+37. ih3 Aff8 38. Hf4 Hxf4 39. fxf4 g5 40. Add1 Ee6 41. hg3 hg6 42. g4 gxg4
+43. fxg4 Kf9 44. gf4 Ce9 45. fe4 Cg9 46. exd4 Cxg1
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제2국"]
+[White "귀마 윤효일 四단(광주지회)"]
+[Black "원앙마 성우제 九단(서울지회A)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Hf2 ef6 5. Ef3 Hge6 6. ih3 Cd7 7. Ra4
+f5 8. Rh4 Ke9 9. Af1 Afe8 10. Rh8 Cf9 11. Rg8 g5 12. cd3 c5 13. Kf0 ab6 14.
+Ea3 b5 15. Ade1 c4 16. Ce0 bc5 17. Cg0 Ea6 18. Ed6 Add8 19. Ce2 cb5 20. Cc0
+Cd9 21. Ef3 bc5 22. b4 cxb4 23. Hxb4 cb5 24. Hc2 Rb9 25. Cg0 b4 26. Cd0 Rb8
+27. Ec6 b3 28. Ri4 Rb5 29. Rc4 ih6 30. Ce0 Cf9 31. Cxd8 Rd5 32. Cf8 Cc9 33.
+Hb4 Kf9 34. Ci8 Rd8 35. Ri4 Rd7 36. Cei0 Rd8 37. Cd0 Rb8 38. Hd5 Ca7 39.
+Hxc7 Hxc7 40. hi3 Cxc6 41. Cd7+ Af8 42. Rc4 Cc8 43. Ci0 Rh9 44. Rg7 Cxc4
+45. Ed6 Ke9 46. Ce0 Exd7 47. e4 Ae8 48. ed4 Cf4 49. Ea4 Cfxa4 50. d5 Kd9
+51. d6 Hb5 52. dxd7 Cxg7 53. d7xe8+ Rxe8 54. Cxe8 Kxe8 55. ih3 Ri9 56. Ke0
+Kf7 57. He4 Ce7 58. Kd0 Rd9 59. Hf2 bc3
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제2국"]
+[White "귀마 최완규 五단(경기지회)"]
+[Black "원앙마 이성준 五단(서울지회C)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. Ra4 Hge6 6. ed3 c5 7. ih3
+Ke9 8. Exc5 Hxc5 9. Rc4 H5e6 10. Rc6 Cb2 11. ba3 Rb9 12. Ee3 ab6 13. Rc4 f5
+14. Rh4 Rb8 15. Rh7 Cbb7 16. Rh4 Cb9 17. Hf2 Ea6 18. Af1 Rbi8 19. Ke0 ih6
+20. Rxi8 Rxi8 21. Ade1 Afe8 22. Cg2 Hf4 23. Cd2 Ee6 24. Rg4 g5 25. Rxf4
+fxf4 26. Cxh6 fe4 27. Cf0 exe3 28. Kd0 e2 29. Axe2 Cxe2 30. ab3 Ce7 31.
+Cxb6 Eaxc3 32. dxc3 Exc3 33. Ae1 Ee6 34. Cb2 Ri4 35. Ce2 Rc4 36. Cg2 Rc5
+37. Cc0 Rd5+ 38. Ad1 Hb5 39. b4 Exb4 40. Hxb4 Cxb4 41. Cf0 Hd4 42. h4 Cxh4
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제3국"]
+[White "양귀마 허경필 六단(제주지회)"]
+[Black "귀마 주경덕 六단(전북지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hd2 Ce7 3. gf3 Hf7 4. Ce2 ab6 5. Ed3 Ef6 6. Hf2 Exd3 7. cxd3
+Af8 8. f4 Kf9 9. e4 Ade8 10. d4 ef6 11. Ef3 Ce9 12. Ce0 He6 13. Che2 Ra5
+14. ab3 Rg5 15. Ad1 Ea6 16. Kd0 ih6 17. Rxi9+ Cxi9 18. Afe1 Ca9 19. Rb0 Ch9
+20. e5 Rxe5 21. Cxe6 Rg5 22. fg4 Rxg4 23. Exh6 Rxd4 24. Cxb6 cxb6 25. Ef3
+Cd9 26. Rc0 Ce7 27. Rc5 Rf4 28. Ei1 Ra4 29. Rd5 bc6 30. hg3 Ed8 31. Ri5 Ef5
+32. Eg4 Exd2 33. Exd2 cd6 34. g4 fe6 35. Ri4 Rc4 36. gf4 Ke9 37. Rg4 g5 38.
+Rh4 He5 39. fe4 Hc6 40. Rh3 Rc1 41. Rg3 gf5 42. bc3 fe5 43. exe5 Cxe5 44.
+Hg4 Ce7 45. Hh6 Hd4 46. cd3 Hb3 47. Hf5 Ce5 48. dc3 Ha1 49. Af0 ef6 50. He3
+Rxc3 51. Hf1 Rc5 52. Ke1 de6 53. Ce2 Rc1 54. Rd3 Hb3 55. Rxb3 Rxd1+ 56. Ke0
+Rc1 57. Eb5 Rc0+ 58. Hd0 ed6 59. Ae1 fe6 60. Ee3 Rc4 61. Eh5 Rh4 62. Exf8
+Rh0+ 63. Af0 Cxd0 64. Rb9+ Cd9 65. Ei6 Rh2 66. Ke1 Ce7 67. Rb2 ef6 68. Rb6
+de6 69. Rb2 Cf9
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제2국"]
+[White "원앙마 이성준 五단(서울지회C)"]
+[Black "귀마 박계도 八단(서울지회B)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 ed6 5. ef3 Ee6 6. Ece3 Hf7 7. Exg6
+hxg6 8. Cf2 Ri8 9. Ke0 Af8 10. Afe1 Rb9 11. Ra4 Rb5 12. He3 Rh5 13. Add1
+Kf9 14. Cd0 Ade8 15. Rg4 g5 16. Rf4 Ce9 17. Ci2 Rg8 18. Ce2 Rh1 19. Ri1
+Rxi1 20. Hxi1 Cd7 21. ih3 c5 22. Hg2 ab6 23. c4 Hd5 24. Hxd5 cxd5 25. cd4
+dxd4 26. Cxd4 bc6 27. Cd0 Cd5 28. Ee3 c5 29. Hh0 Cd9 30. Hf1 cd5 31. b4 Ri8
+32. h4 Ri7 33. hg4 gxg4 34. Rxg4 Ef6 35. b5 Ei8 36. Hh2 Ri1 37. Cf0 Rg1 38.
+Hi4 Exg3+ 39. Rxg3 Rxg3 40. Hxg3 Eg5 41. Hi4 Ed7 42. b6 Ce7 43. f4 de6 44.
+Eh5 Ce9 45. Exf8 Axf8 46. f5 Eb4 47. Ce7 Ke8 48. Ce3+ Ce7 49. Add2 d4 50.
+Cxf7 Axf7 51. Kf0 d3 52. Ce0 Cxd2+ 53. Axd2 dxd2 54. Kf1 Ed1 55. Hg5 Ea3
+56. Hf3 dc2 57. Hd4 cd2 58. Hxe6 d2e1+ 59. Kf2 e1xe0 60. Hc7+
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제3국"]
+[White "원앙마 성우제 九단(서울지회C)"]
+[Black "귀마 김경만 九단(서울지회A)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "164"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hg2 Ce7 3. Hc2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Hf7 7. ef3
+g5 8. He3 ih6 9. Ea3 Af8 10. Ke0 Kf9 11. Afe1 Ade8 12. Add1 Ef6 13. c4 Ce9
+14. b4 h5 15. Cd0 ed6 16. Ca2 Rb9 17. Ci2 Rg9 18. Cb2 Ee6 19. b5 Rc9 20.
+bxb6 cxb6 21. Cbf2 bc6 22. Rb5 Rg6 23. f4 Rb9 24. Ra5 Rb3 25. gf3 Ed3 26.
+cb4 Rc3 27. Add2 Hb9 28. Kf0 Hbd8 29. Ra9 Ri6 30. f5 gxf5 31. Cxf5 Rxc2 32.
+Cff2 Rc3 33. i4 Ef6 34. Ri2 Cd7 35. Rh2 Rh6 36. Rg2 hg5 37. Ri2 Cd9 38. i5
+Rh3 39. Cxf6 Rxf3+ 40. Cf1 Rb3 41. bc4 Ec3 42. Ade2 Rb0 43. Hc2 Rb2 44. ih5
+Hb7 45. Rb9 gf5 46. Ri7 Hfd8 47. Cd7+ Axd7 48. Rxd9 Afe8 49. A1f2 Rf4 50.
+Ri9+ Kf8 51. Rdxe9 Axe9 52. Cxf4+ fxf4 53. Hd0 Ke8 54. Ei3 Kd9 55. hg5 Rb0
+56. Aee1 Ra0 57. Ed1 f3 58. Afe2 Ra5 59. Eg6 Hf7 60. Exe9 Hxe9 61. g6 fe3
+62. A2f2 Rg5 63. Ke0 Rxg6 64. Ri3 Re6 65. cd4 Ea6 66. dc4 Re4 67. Kf0 Hd8
+68. Ea3 Rxc4 69. Rxe3 Hdf7 70. He2 Ra4 71. Ed1 Hg5 72. Rb3 He6 73. Rb9+ Ke8
+74. Eb4 Ra0+ 75. Kf1 Hd4 76. Hf4 Hf3 77. Rb8+ Ad8 78. Af0 Ra1+ 79. A2e1 Ra5
+80. Af2 Rf5 81. Hh3 He5 82. Ee2 Hd3
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "3강 풀리그전 제1국"]
+[White "원앙마 이시형 三단(서울지회A)"]
+[Black "귀마 조용희 六단(서울지회B)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 ab6 3. Hc2 Hd7 4. Cbe2 Ed6 5. ed3+ Cbe7 6. Cf2 Cf7 7. Ke0
+gf6 8. Ade1 c5 9. Cd0 Ad8 10. Aff1 Cd9 11. Hce3 Ke9 12. g4 Afe8 13. h4 Cf9
+14. gf4 ih6 15. Ei3 h5 16. Cg0 Ri7 17. hg4 Ei6 18. Cd0 Ef3 19. Ci2 Ei5 20.
+Hf0 Exf4 21. gxf4 Cxf4 22. Hh1 Cf9 23. Hf2 He5 24. Rg0 Cd9 25. Cf0 c4 26.
+Ra2 cxc3 27. dxc3 Cg9 28. Rh0 bc6 29. Cd0 Hf3 30. Hed1 Rh7 31. Ee3 cd6 32.
+ab3 Rxa2 33. Cxa2 h4 34. cd3 Cd9 35. Hb2 Eg2 36. Ce2 Ee5 37. bc3 h3 38. Eg0
+Hh5 39. Ad1 Hg3 40. Ade1 Ri7 41. Cxe5 Hxe5 42. Rxh3 Hf5 43. Hg4 Rg7 44.
+Hxe5 Cxe5 45. Ei3 Rg1 46. Hc4 Ce7 47. Rf3 Hg3 48. Eeg6+ Kf9 49. Rf2 Hh5 50.
+Ee3 Hxi3 51. Cxd6 Hg4 52. Ri2 exd6 53. Af0 d5 54. Ha5 Ce9 55. Hc6 Hxe3 56.
+dxe3 Cxe3+ 57. Re2 Ce9 58. Rf2 Rg6 59. Hb8 Cf7 60. Rd2 Rg3 61. Rd3 Rg5 62.
+c4 Cxf0 63. Rf3 Cf5 64. Hc6 Cf8 65. Rxf6 Af7+ 66. Kd0 Cxf6 67. Hxd8+ Ke8
+68. Hb9 Cf9
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제1국"]
+[White "원앙마 이양근 八단(전북지회)"]
+[Black "귀마 박창기 四단(제주지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hd7 4. ed3 ab6 5. Hc2 Ed6 6. Ke0 Ad8 7. Ade1
+Kd9 8. Aff1 Afe8 9. Cd2 c5 10. Cf0 Ce9 11. Hce3 gf6 12. g4 ih6 13. Ei3 h5
+14. Cd0 Ei6 15. h4 hxh4 16. gxh4 Cc9 17. Cg0 Ri7 18. Ci2 Ef3 19. Ef5 Rh7
+20. Ca2 Rb9 21. Ch2 Eh6 22. Rxi6 Hxf5 23. Hxf5 fxf5 24. Cxh6 Ce7 25. Ch2
+Rf7 26. Ce2 e5 27. ab3 e4 28. de3 ed4 29. Ra8 Cf9 30. Cd0 Rg7 31. Aff2 fe5
+32. Ri9 cd5 33. hg4 Ke9 34. gf4 Rc9 35. Ra4 b5 36. Ra6 b4 37. Ra3 bxb3 38.
+Rxb3 dc4 39. cd3 d4 40. dxd4 cxd4 41. Ea3 Rg3 42. Ri3 Rg6 43. Hh4 Rh6 44.
+Hg2 Ra6 45. ed3 Hc5 46. Rb5 dxd3 47. Ed1 Ra0 48. Hh4 Rc6 49. Rg3 de3 50.
+Cxe5 Hd3 51. Rxe3 Hxe5 52. Rexe5 Rh6 53. fg4 Rf6 54. Afe2 Rf3 55. Hg6 Ce3
+56. Rb3 Rg3 57. Rf5 Cd7 58. Ea3 Cd9 59. Kf0 Cf9+ 60. Ke0 Cd9 61. Kf0 Rg0+
+62. Kf1 Cxa3 63. Hi5 Ra2 64. gf4 Ca1+ 65. Rb1 Rxe2 66. Rxa1 Rh2
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "12강 리그전 제2국"]
+[White "원앙마 이시형 三단(서울지회A)"]
+[Black "귀마 배성철 三단(경남지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "155"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hc2 Ce7 3. Ce2 ef6 4. ed3 Ee6 5. ab3 Ra8 6. Hg2 Hf8 7. Cf2
+Ke9 8. Ke0 Afe8 9. Ade1 cb6 10. c4 Rc8 11. d4 Ca7 12. Ea3 Cc7 13. He3 Cf7
+14. Cd0 Ce7 15. Rc0 Kf9 16. b4 Ce9 17. Aff1 Hh7 18. g4 Hdf8 19. Ed1 Ci7 20.
+Ei3 i5 21. h4 Ee7 22. Cf0 Cf7 23. Exg6 Ri6 24. h5 Exb4 25. Exb4 Rxg6 26. g5
+Ri6 27. Rc3 b5 28. Ed1 Rc6 29. Hd5 fg6 30. gf5 Ri9 31. hxi5 Rxi5 32. Rxi5
+Hxi5 33. Hh4 Add8 34. Hi6 Hh7 35. Hh8+ Kf8 36. Hxf7 Axf7 37. Ef4 Re6 38.
+Eh1 Hg4 39. Rg3 Hhi5 40. Aff2 Ade8 41. Cf4 Rd6 42. f6 gxf6 43. Cf0 Kf9 44.
+Aff1 Cg9 45. Rb3 Cd9 46. Rf3 Cxd5 47. Cd0 Rc6 48. dxd5 Rxc4 49. Cf0 Rd4 50.
+de5 Ec4 51. Ef4 Re4 52. ed5 f5 53. Ra3 a5 54. Eh1 Hh6 55. dc5 Hig4 56. cxb5
+axb5 57. Ra6 b4 58. Rg6 Re5 59. Kd0 b3 60. Ce0 Rd5+ 61. Ad1 bc3 62. Ae1 cd3
+63. Rg9+ Kf8 64. Rh9 Rd7 65. Rh8+ Kf9 66. Rh9+ Kf8 67. Rg9 Ea7 68. Rg6 Ec4
+69. Rc6 Exe1 70. Kxe1 Rd9 71. Rg6 Rd5 72. Rg9 Rd7 73. Rh9 Hi4 74. Rh4 Hih2
+75. Rh3 Ae7 76. Rh8+ Kf9 77. Rh3 Rd4 78. Rg3
+{White resigns} 0-1
+
+[Event "햇터배 한국장기 프로리그"]
+[Site "브레인TV"]
+[Date "2004년"]
+[Round "6강 리그전 제1국"]
+[White "원앙마 이시형 三단(서울지회A)"]
+[Black "귀마 김기영 初단(광주지회)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. ef3 Hf7 5. Hg2 Af8 6. Cf2 Ef6 7. Ad1
+Kf9 8. Cd0 Ade8 9. Hge3 Ce9 10. g4 h5 11. Ke0 ab6 12. Ea3 g5 13. f4 cd6 14.
+Afe1 Cg9 15. c4 Ea6 16. b4 Ce7 17. Rh0 Cc9 18. Rh3 gxg4 19. fxg4 hg5 20.
+Rh4 gxg4 21. Rxg4 Rg9 22. ih3 Rxg4 23. Hxg4 b5 24. bxb5 Hxb5 25. cb4 Hc7
+26. Hce3 Rb9 27. Rb0 Ke9 28. Ei3 Cxe3 29. Hxe3 Exh3 30. Rb3 Ee5 31. Rb2 Hg5
+32. Ef1 Hh3 33. Cf0 Ca9 34. Ec0 Aff7 35. Rb1 Afe7 36. Rb0 Rb6 37. Add2 d5
+38. b5 Rxb5 39. Rxb5 Hxb5 40. Hxd5 Ca0+ 41. Ea3 Hxa3 42. Cxe6 Eh7 43. Kd0
+Hb1+ 44. Kd1 Ca7
+{White resigns} 0-1
+

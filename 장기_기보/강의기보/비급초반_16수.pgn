@@ -1,0 +1,7056 @@
+[Event "[강의 비급초반 16수] 5회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hg7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. cb3 Exb3 7. Hxb3
+Cxb3 8. Exc6 bxc6 9. Rc0 Rxa3 10. Rxc6 Hd7
+*
+
+[Event "[강의 비급초반 16수] 5회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hg7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. cb3 Exb3 7. Exc6
+bxc6 8. Hxb3
+*
+
+[Event "[강의 비급초반 16수] 5회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hg7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. Hg2 Ri5
+*
+
+[Event "[강의 비급초반 16수] 6회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hg7 3. Ed3 Ed6 4. Hg2 Ce7 5. cb3 Exb3 6. Exb6 Exd0 7.
+Kxd0 cxb6 8. Rc0 Hd7
+*
+
+[Event "[강의 비급초반 16수] 6회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hg7 3. Ed3 Ed6 4. ef3+ Ce7 5. Ee3 ih6 6. Hg2 Ri5 7. Cf2
+Hd7 8. Rh0 Kd8 9. Exg6 hxg6 10. Rh8+ Ade8 11. Rg8 ef6 12. Rxg7 Ce9 13.
+Rxd7+ Axd7
+*
+
+[Event "[강의 비급초반 16수] 6회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hd7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. Hg2 Hg7 7. Cf2
+Ri5 8. Exg6 hxg6 9. Rh0 Re5 10. Ci2 Kd8
+*
+
+[Event "[강의 비급초반 16수] 6회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hd7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. Hg2 Hg7 7. Cf2
+Ke9 8. Exg6 hxg6 9. Rh0 Ade8
+*
+
+[Event "[강의 비급초반 16수] 6회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hd7 3. ef3+ Ce7 4. Ee3 ih6 5. Ed3 Ed6 6. Hg2 Hg7 7. Cf2
+Cf7 8. Rh0
+*
+
+[Event "[강의 비급초반 16수] 7회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hd2 Ed6 4. Ra4 cb6 5. Rai4 Ce5+ 6. Ce2 Cb7 7. Rc4
+Ci7 8. Hi2
+*
+
+[Event "[강의 비급초반 16수] 7회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hd2 Hg7 4. Ce2 Ed6 5. Ra4 cb6 6. Rc4 Rc9 7. Rxc9
+Hxc9 8. Ri4
+*
+
+[Event "[강의 비급초반 16수] 7회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hd2 Hg7 4. Ce2 Ed6 5. Ra4 cb6 6. Rf4 Rc9 7. c4 Cf7
+8. Hg2 gf6 9. Rg4 Ri7
+*
+
+[Event "[강의 비급초반 16수] 7회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hd2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Ri4 Hg7 7. Rc4
+ih6
+*
+
+[Event "[강의 비급초반 16수] 7회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hd2 ef6+ 4. Ce2 Ee6 5. Ed3 Ed6 6. Ri4 Hg7 7. Hg2
+Cf7 8. Rc4 ih6 9. Cf2 cb6 10. Exb6 Hxb6 11. Rc6 Exb3 12. cxb3
+*
+
+[Event "[강의 비급초반 16수] 8회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Ed6 4. Ed3 Hg7 5. Ce2 Cf7 6. Ri4 gf6 7. Rc4 c5
+8. Rxc5 Exb3 9. Rc8+ Ad8 10. cxb3
+*
+
+[Event "[강의 비급초반 16수] 8회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Ed6 4. Ed3 Hg7 5. Ce2 Cf7 6. Ri4 c5 7. Hd2 gf6
+8. Exf6 exf6 9. He4 Exb3 10. Hxf6
+*
+
+[Event "[강의 비급초반 16수] 8회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Ed6 4. Ed3 Hg7 5. Ce2 Cf7 6. Ri4 c5 7. Hd2 gf6
+8. Exf6 exf6 9. He4 fe6 10. Hxc5 ef6 11. Hxd7 Kxd7 12. Re4
+*
+
+[Event "[강의 비급초반 16수] 8회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Hg7 6. Ri4 Ed6 7. Rc4
+ih6 8. Ei3 cb6 9. Exb6 Ad8 10. Hd2
+*
+
+[Event "[강의 비급초반 16수] 8회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Hg7 6. Ri4 Ed6 7. Rc4
+ih6 8. Ei3 c5 9. Rxc5 Exb3 10. Rc8+ Ad8 11. cxb3 Cf7 12. Rc6 a5 13. Rxa5
+Rxa5 14. Exa5
+*
+
+[Event "[강의 비급초반 16수] 8회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ed3 Hg7 6. Ri4 Ed6 7. Rc4
+ih6 8. Ei3 c5 9. Rxc5 Exb3 10. Rc8+ Ad8 11. cxb3 Cf7 12. Rc6 ab6 13. Rxa9
+bxc6 14. Ra6 c5 15. Ea5 Hb8
+*
+
+[Event "[강의 비급초반 16수] 9회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Ed6 4. Ed3 Hg7 5. Ce2 Ra8 6. Ri4 cb6 7. Rc4
+ih6 8. Exb6 axb6 9. Rxa8+ Exa8 10. Rc8+ Ad8 11. Rxa8
+*
+
+[Event "[강의 비급초반 16수] 9회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 Ed6 4. Ed3 Hg7 5. Ce2 Ra8 6. Ri4 cb6 7. Rc4
+Rd8
+*
+
+[Event "[강의 비급초반 16수] 9회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ri4 Ed6 6. Ed3 c5 7. Rd4
+ih6 8. Rxd6 Exc3 9. bxc3 Ri2
+*
+
+[Event "[강의 비급초반 16수] 9회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 ef6+ 4. Ce2 Ee6 5. Ri4 Ed6 6. Ed3 c5 7. Rd4
+ih6 8. Ei3 Exb3 9. cxb3 Hg7 10. Rd6
+*
+
+[Event "[강의 비급초반 16수] 9회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 농포"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Cc7 3. Ri4 Ci7 4. Rc4 Ce7 5. Hg2 c5 6. Rca4 a5 7. Rxa5
+Rxa5 8. Rxa5 Ce5+ 9. Ce2 Cxa5
+*
+
+[Event "[강의 비급초반 16수] 9회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 농포"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Cc7 3. Ri4 Ci7 4. Ria4 cb6 5. Ed3 Ed6 6. Rh4
+*
+
+[Event "[강의 비급초반 16수] 10회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. Ra4 c5 6. Rf4 ab6
+*
+
+[Event "[강의 비급초반 16수] 10회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. ef3 cb6 6. Exb6 Hxb6 7. Ee3
+Hd7
+*
+
+[Event "[강의 비급초반 16수] 10회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. ef3 cb6 6. Ee3 Hg7 7. Hg2
+Ke9 8. Exb6 Hxb6 9. Ec6+
+*
+
+[Event "[강의 비급초반 16수] 10회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. ef3 cb6 6. Ee3 Hg7 7. Hg2
+Rc9 8. Cf2 Exb3 9. cxb3 Rc1+ 10. Ad1 Hc5 11. Ea1
+*
+
+[Event "[강의 비급초반 16수] 10회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. ef3 Hg7 6. Ee3 c5 7. Hg2 Ad8
+8. Cf2 Ke9 9. Exg6 hxg6 10. Rh0 Afe8
+*
+
+[Event "[강의 비급초반 16수] 10회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. Ed3 Ed6 5. ef3 Hg7 6. Ee3 c5 7. Hg2 Ad8
+8. Cf2 Ke9 9. Ke0 Afe8
+*
+
+[Event "[강의 비급초반 16수] 17회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ee2 Ce7 4. Ke0 Ed6 5. Ade1 ef6 6. Hg2 Ee6 7. ef3
+Hg7 8. Ee3 c5 9. Cf2 Cf7 10. Cd0 Exf3 11. gxf3 Cxf3
+*
+
+[Event "[강의 비급초반 16수] 17회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ri5 4. Cxc6 Ed6 5. c4 Ce7 6. Ee2
+*
+
+[Event "[강의 비급초반 16수] 17회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ch2 4. Ri2 Ch8 5. ih3 Rxi2 6. Hxi2 Ce7
+*
+
+[Event "[강의 비급초반 16수] 17회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ch2 4. Hf1 Ci7 5. ih3 Ei6 6. Hi2 Ch5
+*
+
+[Event "[강의 비급초반 16수] 17회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ch2 4. Hf1 Ci7 5. Hxh2 Cxi0 6. Hxi0 cd6 7. Ee2
+Ri5 8. Ke0 Ra5 9. Rc0 ab6 10. Afe1 Ee7
+*
+
+[Event "[강의 비급초반 16수] 18회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ef6+ 5. Ee2 Ei6 6. gf3 Ed6 7. He4
+*
+
+[Event "[강의 비급초반 16수] 18회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 Ei6 5. ih3 Exg3 6. hxg3 Ri5
+*
+
+[Event "[강의 비급초반 16수] 18회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 Ei6 5. gf3 Ed6 6. Ee2 gf6 7. ih3
+Rg9 8. Ei3 Hf5 9. Hf1 Hd4 10. hg3
+*
+
+[Event "[강의 비급초반 16수] 18회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 Ei6 5. gf3 Ed6 6. Ee2 gf6 7. ih3
+Rh9 8. Ei3 hg6 9. h4 Exf3 10. exf3 Rxh4
+*
+
+[Event "[강의 비급초반 16수] 18회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 Ei6 5. gf3 Ed6 6. Ee2 gf6 7. ih3
+Rh9 8. Ei3 hg6 9. hg3 Exg3 10. fxg3 Cxe3+ 11. Kd1
+*
+
+[Event "[강의 비급초반 16수] 18회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Ri5 5. Afe1 Ci7 6. Cxc6 Rc5 7. ih3
+Ei6 8. Ci2 Rxc6
+*
+
+[Event "[강의 비급초반 16수] 18회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 cb6 6. Ci2 Ei6 7. gf3
+Ed6 8. ih3 Rg9 9. Cg2
+*
+
+[Event "[강의 비급초반 16수] 18회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 cb6 6. Ci2 Ei6 7. gf3
+Ed6 8. ih3 Rh9 9. Cg2 gf6 10. Ei3 Rc9 11. Ee2 Ad8 12. Hf1 Ce9 13. Add1 Kd9
+14. Ri1 Afe8 15. Ci0
+*
+
+[Event "[강의 비급초반 16수] 19회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 He5 6. Cxe5 exe5 7.
+Exc6
+*
+
+[Event "[강의 비급초반 16수] 19회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Hg2 He5 7. Cf2
+gf6 8. f4 Ri7 9. fe4 Hg6 10. e5 Hf8 11. exe6 fxe6
+*
+
+[Event "[강의 비급초반 16수] 19회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Hg2 He5 7. Cf2
+gf6 8. f4 Ri7 9. fe4 Hg6 10. g4 Hf8 11. Ed3 hg6 12. ef4 Ke9
+*
+
+[Event "[강의 비급초반 16수] 19회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Rh0 He5 7. Exg6
+hxg6 8. Rh8+ Ke9 9. Rc8 Cg7 10. Rxc5
+*
+
+[Event "[강의 비급초반 16수] 19회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Rh0 He5 7. Exg6
+hxg6 8. Rh8+ Af8 9. Rg8 Hg7
+*
+
+[Event "[강의 비급초반 16수] 19회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Rh0 He5 7. Rh4 a5
+8. Hd2 Ra6 9. Cxe5 exe5 10. Ce2 cd5 11. Hc4 a4 12. Hxe5 dxe5 13. Cxe5+ Ee6
+14. Rhxa4
+*
+
+[Event "[강의 비급초반 16수] 19회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Cc7 4. ef3+ Ee7 5. Ee3 c5 6. Rh0 He5 7. Rh4 a5
+8. Hd2 Ra6 9. Cxe5 exe5 10. Ce2 Ee6 11. Cxe5 Ri5 12. Re4
+*
+
+[Event "[강의 비급초반 16수] 21회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 농포"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ce7 4. Ci2 ef6+ 5. Ce2 Hi7 6. Ra4 Ee6 7. ef3
+Ch5 8. Ri4 Kf7
+*
+
+[Event "[강의 비급초반 16수] 21회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 농포"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ce7 4. Ci2 Hi7 5. Ra4 Ch5 6. Ce2 Ei6 7. ef3
+Ed6 8. Ee3 c5 9. Rf4 gf6 10. Ed3 Ce5 11. i4 Ch8 12. i5
+*
+
+[Event "[강의 비급초반 16수] 21회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 농포"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ce7 4. Ci2 ef6+ 5. Kd1 Hi7 6. Cxi7 Rxi7 7. Ci2
+hi6 8. ih3 ih6 9. Ei3 hi6 10. Exg6 ih6 11. Hi3 hi6 12. Hh5 ih6 13. Ei3 Ri6
+14. Hxf6+ Kd8 15. Cxi6
+*
+
+[Event "[강의 비급초반 16수] 21회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 농포"]
+[Black "귀마 농포맞대응"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ce7 4. Ci2 Hi7 5. Cxi7 Rxi7 6. Ci2 hi6 7. ih3
+ih6 8. Ei3 hi6 9. Exg6 ih6 10. Hi3 hi6 11. Hh5 ih6 12. Ei3 Ce5+ 13. ef3 Ci5
+14. Hf4 Ca7 15. Rxa6 Ce7+ 16. Kf1 Rxa6
+*
+
+[Event "[강의 비급초반 16수] 22회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Hg2 Ed6 7. Ed3 Ad8
+8. Cf2 Kd9 9. Rh0 Ch7 10. Ri0 Cbe7
+*
+
+[Event "[강의 비급초반 16수] 22회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Hg2 Ed6 7. Ed3 Ad8
+8. Cf2 Kd9 9. Ke0 Afe8 10. Ade1 Ce9 11. Cd0 ab6 12. Rc0 Cc9
+*
+
+[Event "[강의 비급초반 16수] 22회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Hg2 Ed6 7. Ed3 Ad8
+8. Cf2 Kd9 9. Ke0 Afe8 10. Ade1 Ce9 11. Cd0 ab6 12. Rxa9+ Cxa9 13. Aff1 Cf9
+*
+
+[Event "[강의 비급초반 16수] 22회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Ra4 c5 7. Rf4 ab6
+8. Ch7 Af8
+*
+
+[Event "[강의 비급초반 16수] 22회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Ra4 c5 7. Rf4 ab6
+8. ef3 Ad8 9. Ee3 Ke9 10. Rf7 Cxe3
+*
+
+[Event "[강의 비급초반 16수] 22회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Ra4 c5 7. Rf4 ab6
+8. ef3 Ad8 9. Ee3 Kd9 10. Rf7+ Afe8 11. Rxg7 Ci7 12. Rxd7 Adxd7 13. ih3
+*
+
+[Event "[강의 비급초반 16수] 22회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Ra4 c5 7. Rf4 ab6
+8. ef3 Ad8 9. Ee3 Kd9 10. Cf2 Afe8 11. Ke0 Ce9 12. Ade1 Ra0+ 13. Cd0 Cc9
+14. Rg4 e5 15. Rd4 ed5 16. Rf4 Ee6
+*
+
+[Event "[강의 비급초반 16수] 22회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. Ed3 Ed6 6. Ra4 c5 7. Rf4 ab6
+8. ef3 Ad8 9. Ee3 Kd9 10. Cf2 Afe8 11. Ke0 Ce9 12. Afe1 Cc9
+*
+
+[Event "[강의 비급초반 16수] 23회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+cb5 8. Ee3 Rb7 9. Cxb5
+*
+
+[Event "[강의 비급초반 16수] 23회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Ec6 Ra7 7. Cxb9
+ed6 8. Cb1 dxc6 9. Ci1 Rh9 10. Cd1 Ee6 11. ih3 Cf7 12. Hd2
+*
+
+[Event "[강의 비급초반 16수] 23회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Exg6 hxg6 7. Rh0
+Rh9 8. Ra4 Ed6 9. Ri4 ef6 10. Ed3 ab6 11. Exf6 gxf6 12. Ri6 fe6 13. Rg6 Cf7
+14. Rxg7
+*
+
+[Event "[강의 비급초반 16수] 23회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 c5 6. Exg6 hxg6 7. Rh0
+Rh9 8. Ra4 Ed6 9. Ri4 ef6 10. Ed3 ab6 11. Exf6 gxf6 12. Ri6 Ce9 13. Ri7
+Cee7 14. Rh6 fe6 15. Rg6
+*
+
+[Event "[강의 비급초반 16수] 23회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ci2 Rh9 5. ih3 Ri9 6. Ei3 Rh9 7. Ce2
+Ri9
+*
+
+[Event "[강의 비급초반 16수] 23회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ci2 Rh9 5. ih3 Ed6 6. Ed3 Cbe7 7. Ce2
+Cf7 8. Cxe6
+*
+
+[Event "[강의 비급초반 16수] 23회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 변형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ci2 Rh9 5. ih3 Ed6 6. Ed3 Cbe7 7. Ce2
+Rh8 8. Ri4 c5 9. Hd2 Ch9 10. ef3 Ei6 11. Ee3
+*
+
+[Event "[강의 비급초반 16수] 24회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Hd2 Ri5
+8. Exg6 hxg6 9. Rh8+ Kd9 10. Rg8 He8 11. Rxg6
+*
+
+[Event "[강의 비급초반 16수] 24회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Hd2 Ri5
+8. Exg6 hxg6 9. Rh8+ Kd9 10. Rg8 Ce5 11. Rxg9 Ri8 12. Ci2 Ce9+ 13. Cbe2 Rh8
+14. Rxg7 Cxg7
+*
+
+[Event "[강의 비급초반 16수] 24회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Rh4 a5
+8. Hd2 Kd9 9. c4 cxc4 10. Rxc4
+*
+
+[Event "[강의 비급초반 16수] 24회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Rh4 a5
+8. Hd2 Kd9 9. c4 Ri5 10. Ed3 cb5 11. Cxb5 Rxb5 12. Ca2 Ed6 13. Cxa9
+*
+
+[Event "[강의 비급초반 16수] 24회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ad8 7. Rh4 a5
+8. Hd2 Kd9 9. c4 Ri5 10. Ed3 cxc4 11. Rxc4 Ed6
+*
+
+[Event "[강의 비급초반 16수] 24회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. ef3 Ad8 7. Ee3 c5
+8. Rh0 Ei6 9. Rh4 Af8 10. Ec6 Ra8 11. Rb4 Kd9 12. Rba4
+*
+
+[Event "[강의 비급초반 16수] 24회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. ef3 Ad8 7. Ee3 c5
+8. Rh0 Ei6 9. Rh4 Af8 10. Ec6 Ra8 11. Rb4 Kd9 12. Rba4 Exf3 13. gxf3 He5
+14. fe3 Hxc6 15. Rxa6 Rxa6 16. Rxa6 Ke8 17. Rxc6
+*
+
+[Event "[강의 비급초반 16수] 25회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Ec6 Ra8 9. Rha4 Exf3 10. gxf3 He5 11. fg3 Hxc6 12. Rxa6 Rxa6 13. Rxa6
+Hb8 14. Ra7 Kd7
+*
+
+[Event "[강의 비급초반 16수] 25회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Rb4 Ri5 9. Rxb7 Cxb7 10. Ec6+ Ce7 11. Exa9
+*
+
+[Event "[강의 비급초반 16수] 25회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Rb4 Kd9
+*
+
+[Event "[강의 비급초반 16수] 25회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Hd2 a5 9. c4 Ri5 10. Exg6 hxg6 11. Rh7 Ce5 12. cxc5 Kd9 13. c6
+*
+
+[Event "[강의 비급초반 16수] 25회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Hd2 a5 9. c4 cxc4 10. Rxc4 Ri5 11. Ed3 Rd5
+*
+
+[Event "[강의 비급초반 16수] 25회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 c5 6. Rh0 Ed6 7. Rh4 Ad8
+8. Hd2 a5 9. c4 cxc4 10. Rxc4 Ri5 11. Rc8 Kd9 12. Eb5 Ade8
+*
+
+[Event "[강의 비급초반 16수] 25회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 Rd5 6. Rh0 ef6 7. Ed3 f5
+*
+
+[Event "[강의 비급초반 16수] 25회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 Rd5 6. Rh0 ef6 7. Rh4
+Hd7 8. Rc4 Rc5 9. Exc6 Rxc4 10. cxc4 Ra8 11. Hd2
+*
+
+[Event "[강의 비급초반 16수] 25회-(9)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 Rd5 6. Rh0 ef6 7. Rh4
+Hd7 8. Rc4 c5 9. Rca4 Rd6
+*
+
+[Event "[강의 비급초반 16수] 25회-(10)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ri5 5. Ee3 Rd5 6. Rh0 ef6 7. Rh4
+Hd7 8. Rc4 cb6 9. Ed3 Rc5 10. Rxc5 Hxc5 11. Cxb6 Ed6 12. Hd2
+*
+
+[Event "[강의 비급초반 16수] 26회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Hxb6 8. Cxb6 Rc9 9. Cb1 Exb3 10. cxb3 Rc1+ 11. Cd1 Ri5 12. Ke0 Ric5 13. Ha1
+*
+
+[Event "[강의 비급초반 16수] 26회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. cxb3 Rc9 9. Hd2 axb6
+*
+
+[Event "[강의 비급초반 16수] 26회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. cxb3 Rc9 9. Ed3 Rc1+ 10. Ad1 Hc5
+*
+
+[Event "[강의 비급초반 16수] 26회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. Ee4 Cxe4 9. Hd2 Cee7 10. cxb3
+*
+
+[Event "[강의 비급초반 16수] 26회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. Hd2 Rc9 9. cxb3 axb6
+*
+
+[Event "[강의 비급초반 16수] 26회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. Hd2 Rc9 9. Rxa6 Rxc3
+*
+
+[Event "[강의 비급초반 16수] 26회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. Hd2 Rc9 9. Rxa6 Rxc3 10. Ee4 Cxe4 11. Ra8+ Ke9 12. Hxe4 Rc8+ 13.
+Hc3 Rxa8 14. Ec6#
+{White mates} 1-0
+
+[Event "[강의 비급초반 16수] 26회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Exb3 8. Hd2 Rc9 9. Rxa6 Rxc3 10. Ee4 Cxe4 11. Ra8+ Ke9 12. Hxe4 Rxe3+ 13.
+Hc3 Re5
+*
+
+[Event "[강의 비급초반 16수] 27회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ra4
+Ad8 8. Rg4 Kd9 9. Exg6 hxg6 10. Rxg6 Ce5 11. Rg4 Ce9
+*
+
+[Event "[강의 비급초반 16수] 27회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ad8
+8. Cb4 Kd9 9. Cb1 Afe8 10. Ci1 Rf9 11. ih3 Ri9 12. Ca1 Rxi0 13. Cxa9#
+{White mates} 1-0
+
+[Event "[강의 비급초반 16수] 27회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ad8
+8. Cb4 Kd9 9. Cb1 Afe8 10. Ci1 Rf9 11. ih3 Ce9 12. Cc1 Rf5 13. Exc6 dxc6
+14. Cxc6 Ra5 15. Rxa5 axa5 16. Ed3 He5
+*
+
+[Event "[강의 비급초반 16수] 27회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 Ad8
+8. Cb4 Kd9 9. Cb1 Afe8 10. Ci1 Rf9 11. ih3 Ce9 12. Cc1 Rf5 13. Ed3 Rd5 14.
+Cf1 Rxd3 15. Cd1
+*
+
+[Event "[강의 비급초반 16수] 28회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Ke0 Ee6 7. Ri1
+Ri5 8. Ria1 Ra5 9. Rxa5 axa5 10. Hd2 c5 11. c4 d5 12. cxc5 dxc5 13. Ed3 a4
+*
+
+[Event "[강의 비급초반 16수] 28회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Ke0 Ee6 7. Ri1
+Ri5 8. Ria1 a5 9. Hd2 cb6 10. Ed3 Rc5 11. c4 Rd5 12. Afe1 Rxd3 13. Rxa5
+Rxa5 14. Rxa5 dc6
+*
+
+[Event "[강의 비급초반 16수] 28회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 Ed6 6. Ed3 Ad8 7. Ee3 c5
+8. Rh4 cd5
+*
+
+[Event "[강의 비급초반 16수] 28회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 Ed6 6. Ed3 Ad8 7. Ee3 c5
+8. Rh4 Kd9 9. Hd2 Afe8 10. Ec6 Ra8 11. Rha4 Exf3 12. Rxa6 Rxa6 13. Rxa6 Ce9
+14. gxf3
+*
+
+[Event "[강의 비급초반 16수] 28회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 ed6 6. Rh4 Ri5 7. Rha4
+a5 8. R4a3
+*
+
+[Event "[강의 비급초반 16수] 28회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 ed6 6. Rh4 Ri5 7. Ee3
+Ee6 8. Rc4 Rc5
+*
+
+[Event "[강의 비급초반 16수] 28회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 정형포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 ed6 6. Rh4 Ri5 7. Ee3
+Ee6 8. Rb4 Ad8 9. Exc6 dxc6 10. Rxb7 Exc3
+*
+
+[Event "[강의 비급초반 16수] 29회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 구포진"]
+[Black "귀마 구포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. c4 Ad8 7. Ad1 Ce9
+8. Ce0 Kd9 9. Kd0 ab6 10. Rxa9+ Cxa9 11. Afe1 Afe8 12. Cc0 Cf9 13. Exb6
+cxb6 14. Cc7
+*
+
+[Event "[강의 비급초반 16수] 29회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 구포진"]
+[Black "귀마 구포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. c4 Ad8 7. Ad1 Ce9
+8. Ce0 Kd9 9. Kd0 ab6 10. Rxa9+ Cxa9 11. Afe1 Afe8 12. Cc0 Ce7
+*
+
+[Event "[강의 비급초반 16수] 29회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 구포진"]
+[Black "귀마 구포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "34"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. c4 Ad8 7. Ad1 Ce9
+8. Ce0 Kd9 9. Kd0 ab6 10. Rxa9+ Cxa9 11. Afe1 Afe8 12. ih3 Ei6 13. Ei3 gf6
+14. gf3 Cg9 15. Ri2 Ce7 16. Cc0 h5 17. Cg0 Ri7
+*
+
+[Event "[강의 비급초반 16수] 29회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 신포진"]
+[Black "귀마 신포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ra4
+*
+
+[Event "[강의 비급초반 16수] 30회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변칙포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. ef3 Ed6 6. Ed3 gf6 7. Ee3 c5
+8. Exf6 exf6 9. He4
+*
+
+[Event "[강의 비급초반 16수] 30회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변칙포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. ef3 Ed6 6. Ed3 gf6 7. Ee3
+Ad8 8. Ri4 Kd9 9. Rc4 Rc9 10. Exb6 c5 11. Rg4 Ri7 12. Ee4
+*
+
+[Event "[강의 비급초반 16수] 30회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변칙포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Ce2 Ce7 4. Hg2 Hd7 5. ef3 Ed6 6. Ed3 ef6 7. Ee3
+Ee6 8. Ri4 Exc3 9. Rc0 Rxa3 10. Exb6 cxb6 11. Hc4 Ra1+ 12. Ad1 Ea4 13. Rxc3
+*
+
+[Event "[강의 비급초반 16수] 30회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 변칙포진"]
+[Black "귀마 정형포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 Ed6 6. ef3 gf6 7. Ee3 i5
+8. Ad1 Ke9 9. Af1 Afe8 10. ab3 Rxa0 11. Rxa0 ih5
+*
+
+[Event "[강의 비급초반 16수] 40회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "양귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. Ce2 e5 4. ef3 g5 5. Ee3 c5 6. ih3
+*
+
+[Event "[강의 비급초반 16수] 40회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "양귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. Ce2 e5 4. ef3 gh6 5. Ee3 c5 6. Hg2 Hf7 7. Cf2 Ed6
+8. Ke0 Ri8 9. Ade1 Rg8 10. Ri2
+*
+
+[Event "[강의 비급초반 16수] 40회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "양귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ee3 g5 5. Exc6 Ra8 6. ab3 Ed6
+*
+
+[Event "[강의 비급초반 16수] 40회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "양귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 e5 3. ef3+ Ce7 4. Ee3 ab6 5. Exg6 Ri8 6. ih3
+*
+
+[Event "[강의 비급초반 16수] 40회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "양귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 gf6 3. ih3 Ri8 4. Ed3 Ce7 5. ab3 Ed6 6. Ra4 i5 7. Rg4 Hf7
+8. Rg5 i4 9. h4
+*
+
+[Event "[강의 비급초반 16수] 20회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ee2 ed6 5. He4 Ece6 6. gf3
+*
+
+[Event "[강의 비급초반 16수] 20회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ed6+ 5. Ee2 Ei6 6. gf3 Hc7 7. He4
+Cd7 8. ih3 Rg9 9. Cg2
+*
+
+[Event "[강의 비급초반 16수] 20회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ed6+ 5. Ee2 Ei6 6. gf3 Hc7 7. He4
+Cd7 8. ih3 Rh9 9. Ei3 He6 10. Hf1 d5 11. c4 de5 12. Hc3
+*
+
+[Event "[강의 비급초반 16수] 20회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ed6+ 5. Ee2 Ei6 6. gf3 Hc7 7. He4
+Cd7 8. ih3 Rh9 9. Ei3 He6 10. Hf1 d5 11. cd3 de5 12. Hc3 c5
+*
+
+[Event "[강의 비급초반 16수] 20회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hd2 Ce7 3. Ee2 ih6 4. Ke0 Hg7 5. Afe1 Cf7 6. Hg2 ed6 7. He4
+He6 8. gf3 d5 9. c4 Ke9 10. Chf2 Ade8 11. Add1 Cd9 12. Cd0 de5 13. Hc3 Aff8
+14. Cbf2 g5 15. Ci2 Ei6 16. Ci5 Rh9 17. Cxe5
+*
+
+[Event "[강의 비급초반 16수] 20회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 면상포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hd2 Ce7 3. Ee2 ih6 4. Ke0 Hg7 5. Afe1 Cf7 6. Hg2 ed6 7. He4
+He6 8. gf3 d5 9. c4 Ke9 10. Chf2 Ade8 11. Add1 Cd9 12. Cd0 de5 13. Hc3 Aff8
+14. Cbf2 g5 15. Ci2 Rh9
+*
+
+[Event "[강의 비급초반 16수] 31회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "3"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2
+*
+
+[Event "[강의 비급초반 16수] 31회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hg7 2. Ce2 ih6 3. ab3 Ce7 4. Hg2 Hc7 5. ef3 ed6 6. Ee3 g5 7. Ed3 Cd7
+8. Exc6 dxc6 9. Exg5+ Kd8 10. Exd7
+*
+
+[Event "[강의 비급초반 16수] 31회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hg7 2. Ce2 ih6 3. ab3 Ce7 4. Hg2 Hc7 5. ef3 ed6 6. Ee3 g5 7. Ed3 h5
+8. Ra4 d5 9. Cf2 Ke9 10. Rf4 gf5 11. Rg4 hg5 12. Rh4
+*
+
+[Event "[강의 비급초반 16수] 31회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hg7 2. Ce2 ih6 3. ab3 Ce7 4. Hg2 Hc7 5. ef3 ed6 6. Ee3 g5 7. Ed3 h5
+8. Ra4 d5 9. Cf2 Ke9 10. Rf4 Ade8 11. Rf6 c5 12. Rc6 Hge6 13. Eg6+ Hg7 14.
+Rxc7 Cd7
+*
+
+[Event "[강의 비급초반 16수] 31회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hg7 2. Ce2 ih6 3. ab3 Ce7 4. Hg2 Hc7 5. ef3 ed6 6. Ee3 g5 7. Ed3 h5
+8. Ra4 d5 9. Cf2 Ke9 10. Rf4 Ade8 11. Rf6 Ri6 12. Rxi6 Exi6
+*
+
+[Event "[강의 비급초반 16수] 31회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 c5 6. c4 cxc4 7. Exb6+
+Cd7 8. Hxc4
+*
+
+[Event "[강의 비급초반 16수] 31회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 c5 6. c4 b5 7. cxc5 bxc5
+8. Rc0 Rxa3 9. Rxc5 Ci7 10. Ei3
+*
+
+[Event "[강의 비급초반 16수] 31회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 b5 6. cb3 bc5
+*
+
+[Event "[강의 비급초반 16수] 31회-(9)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 Ra5 6. cb3 Rc5
+*
+
+[Event "[강의 비급초반 16수] 31회-(10)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 Ra5 6. c4 Rb5 7. ab3 Rf5
+8. Ra9 Ce9 9. Ra7 Cee7 10. Ra8+ Ad8 11. Rc8
+*
+
+[Event "[강의 비급초반 16수] 31회-(11)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hc7 5. Ed3 Ra5 6. c4 Rd5 7. ab3 Cd7
+8. Ad1
+*
+
+[Event "[강의 비급초반 16수] 32회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. ab3 Ce7 3. Hg2 Ce5+ 4. Ce2 Ci7 5. Ei3 Ca7 6. ba3 ab6 7. ab3
+Ea6 8. ba3 Exc3
+*
+
+[Event "[강의 비급초반 16수] 32회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 Ke9 6. Ed3 Afe8 7. Rg4
+Ci7 8. Ei3 ih6 9. Exg6 hxg6 10. Rxg6
+*
+
+[Event "[강의 비급초반 16수] 32회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 Ke9 6. Ed3 Afe8 7. Rg4
+Ci7 8. Ei3 Cb7 9. Rxg6 ih6
+*
+
+[Event "[강의 비급초반 16수] 32회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 Ke9 6. Ed3 Afe8 7. Rg4
+Ci7 8. Ei3 Cb7 9. Rg0
+*
+
+[Event "[강의 비급초반 16수] 32회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 ed6 6. Rg4 He6 7. Rxg6
+Hf4 8. Rg8+ Af8 9. ef3 He6
+*
+
+[Event "[강의 비급초반 16수] 32회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 g5 6. Ed3 ed6 7. ef3 He6
+8. Exg5+ Hxg5 9. He3 He6 10. Hf5 Ce5 11. Re4 d5 12. Hg7+ Ke9 13. Hxe6 Exe6
+14. Rei4
+*
+
+[Event "[강의 비급초반 16수] 32회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Cd7 5. Ra4 g5 6. Ed3 ed6 7. ef3 He6
+8. Exg5+ Hxg5 9. He3 He6 10. Hf5 Ca7 11. Rc4 Ce5 12. fe3 Ke9 13. e4 Cee7
+14. Hxd6 cxd6 15. Rxc7 Ade8 16. Rc5
+*
+
+[Event "[강의 비급초반 16수] 33회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 ed6 5. Ed3 Hge6 6. Ra4 Cd7 7. ef3
+g5 8. Rh4 Ke9 9. Ee3 Ri7 10. Rc4 Cd5
+*
+
+[Event "[강의 비급초반 16수] 33회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 ed6 5. Ed3 Hge6 6. Ra4 Cd7 7. ef3
+g5 8. Rh4 Ke9 9. Rh7 Afe8 10. Exg5 Hxg5 11. Rxe7
+*
+
+[Event "[강의 비급초반 16수] 33회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 ed6 5. Ed3 Hge6 6. Ra4 Cd7 7. ef3
+g5 8. Rh4 Ke9 9. Rh7 Cb7 10. Ei3 Af8 11. Eg6 Ri8 12. Rh9 Rg8 13. Rxi6 Ae8
+14. Rii9 Rxg6 15. Rxg9+ Rxg9 16. Rxg9+ Aff9 17. Exg5
+*
+
+[Event "[강의 비급초반 16수] 33회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 Hc7 5. Ed3 c5 6. c4 cxc4 7. Exb6+
+*
+
+[Event "[강의 비급초반 16수] 33회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 Hc7 5. Ed3 b5 6. cb3 bc5 7. Rc0 ed6
+8. gf3 g5
+*
+
+[Event "[강의 비급초반 16수] 34회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. Ra4 Cf7 7. ef3
+g5 8. Exg5 Hxg5 9. Rg4 He6 10. Rg6 ab6 11. He3 Ra5
+*
+
+[Event "[강의 비급초반 16수] 34회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ke9 8. Ee3 g5 9. Rc4 Ade8 10. Exc6+ dxc6 11. Rxc6 Cd9
+*
+
+[Event "[강의 비급초반 16수] 34회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ke9 8. Ee3 g5 9. Rc4 ih6 10. Exc6+ dxc6 11. Rxc6 Ri2 12. He3 Rf2+ 13. Kd1
+Rxe2 14. Hd2 Cxf0 15. Ae1 Rxd2+ 16. Axd2 Cf7 17. Hd5
+*
+
+[Event "[강의 비급초반 16수] 34회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ke9 8. Ee3 g5 9. Rc4 ih6 10. Exc6+ dxc6 11. Rxc6 Ri2 12. He3 Cxf0 13. Kxf0
+Rf2+ 14. Ke0 Rxe2+ 15. Ae1 Ri2
+*
+
+[Event "[강의 비급초반 16수] 1회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. Ed3 Ef6 5. ef3 Exd3 6. cxd3 ed6 7. Ee3
+Ee6 8. Hg2 Hc7 9. Cf2 Cd7 10. dc3
+*
+
+[Event "[강의 비급초반 16수] 1회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. Ed3 ed6 5. ef3 Ee6 6. Ee3 Hc7 7. Hg2
+Cd7 8. Cf2 Ri8 9. Rh0 g5 10. Cxf7 Kxf7 11. Rxh6
+*
+
+[Event "[강의 비급초반 16수] 1회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. Ed3 ed6 5. ef3 Ee6 6. Ee3 Hc7 7. Hg2
+Cd7 8. Cf2 Ri8 9. Rh0 Rg8
+*
+
+[Event "[강의 비급초반 16수] 1회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. Ed3 ed6 5. ef3 Ee6 6. Ee3 Hc7 7. Hg2
+Cd7 8. Cf2 Ri5 9. Rh0 Rg5 10. Exc6 Rc5
+*
+
+[Event "[강의 비급초반 16수] 1회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Ce2 Ce7 4. Ed3 ed6 5. ef3 Ee6 6. Ee3 Hc7 7. Hg2
+Cd7 8. Cf2 Ri5 9. Rh0 Rg5 10. ih3
+*
+
+[Event "[강의 비급초반 16수] 2회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. ih3 Ef6 3. Ed3 Exh3 4. gxh3 Cg7 5. Hd2 Cxg0 6. Hg2 Cg4 7.
+Cbe2 Ce7 8. Hf4 g5
+*
+
+[Event "[강의 비급초반 16수] 2회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. ih3 Ef6 3. Hd2 Cg7 4. Ed3 Exh3 5. gxh3 Cxg0 6. Hg2
+*
+
+[Event "[강의 비급초반 16수] 2회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. Hd2 Ef6 3. Ce2 Ce7 4. ih3 gh6 5. ef3 Rg9 6. Ee3 ed6 7. Hf1
+Ee6 8. h4 Hc7 9. Ed3 Exd3 10. cxd3 Exh4 11. gh3 Ee6
+*
+
+[Event "[강의 비급초반 16수] 2회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. Hd2 Ef6 3. Ce2 Ce7 4. ih3 gh6 5. ef3 Rg9 6. Ee3 ed6 7. Hf1
+Ee6 8. h4 Hc7 9. hg4 Cd7 10. Ra1 Rb9 11. Rc1
+*
+
+[Event "[강의 비급초반 16수] 3회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. ih3 Ef6 3. Hd2 Exh3 4. gxh3 Cg7 5. Cg2 Ca7 6. Ca2
+*
+
+[Event "[강의 비급초반 16수] 3회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. ih3 Ef6 3. Hd2 Cg7 4. Ce2 Exh3 5. ef3+ Kf8 6. Ee3
+*
+
+[Event "[강의 비급초반 16수] 3회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. ih3 Ef6 3. Hd2 Cg7 4. Ce2 Ca7 5. Ce4+ Ce7 6. Ca2 Exh3 7. gxh3
+Hg5 8. hg3 Hxe4 9. exe4 e5
+*
+
+[Event "[강의 비급초반 16수] 3회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 ab6 3. Ci2 hi6 4. ih3 ih6 5. Ei3 hi6 6. Exg6
+*
+
+[Event "[강의 비급초반 16수] 3회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "11"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 Ef6 3. Cxc6 Hf7 4. Cc1 Ce7 5. Cxc9 Hc7 6. Cc5
+*
+
+[Event "[강의 비급초반 16수] 3회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "9"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 Ri5 3. Cxc6 Rc5 4. Cc4 Hf7 5. ab3
+*
+
+[Event "[강의 비급초반 16수] 3회-(7)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "9"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 Ri5 3. Cxc6 Hf7 4. Cc1 Cc7 5. ab3
+*
+
+[Event "[강의 비급초반 16수] 3회-(8)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 Ch2 3. Cxc6 Cc2 4. c4 ed6 5. Cc3 Ee6 6. cd4 d5
+*
+
+[Event "[강의 비급초반 16수] 3회-(9)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "9"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 ih6 2. Cc2 Ch2 3. Hf1 Ch8 4. Cxc6 ed6 5. Cc2
+*
+
+[Event "[강의 비급초반 16수] 4회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ee2 ed6 5. He4 Ee6 6. Ci2 Ci7
+*
+
+[Event "[강의 비급초반 16수] 4회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Ef6 7. ef3
+Hc7 8. Ri4 Cee7 9. Rxi7 Rxi7 10. Cxi7
+*
+
+[Event "[강의 비급초반 16수] 4회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Ef6 7. ef3
+g5 8. Ee3 cd6 9. Rc4 Hc7 10. Rxc7 Cxc7 11. Cxi9
+*
+
+[Event "[강의 비급초반 16수] 4회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "맞상"]
+[Black "맞상"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "22"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hf7 3. Cc2 Ce7 4. Ci2 Ce5+ 5. Ce2 Ci7 6. Ra4 Hc7 7. ef3
+Kf8 8. Ee3 cd6 9. Rg4 g5 10. Ri4 Cee7 11. Rc4 Ra7
+*
+
+[Event "[강의 비급초반 16수] 37회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hd7 3. Hf2 Ce7 4. e4 ef6 5. g4 Ee6 6. cb3 ih6
+*
+
+[Event "[강의 비급초반 16수] 37회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 ab6 2. Ce2 Hd7 3. Hf2 Ce7 4. e4 ef6 5. c4 Ee6 6. gh3 Hg7 7. Ri1 Cf7
+8. Rg1 Ke9 9. Ed3 Ri7
+*
+
+[Event "[강의 비급초반 16수] 37회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 Hg7 4. Ce2 Ed6 5. Hf2 ef6 6. gh3 Ee6 7. Ri1 Cf7
+8. Rg1 Ke9 9. Ed3 Ri7 10. Af1 Ade8 11. Kf0 Cd9 12. Ade1 Aff8 13. Ce0
+*
+
+[Event "[강의 비급초반 16수] 38회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Hg7 5. Hf2 Ed6 6. Ef3 Ri5 7. gh3 Rf5
+8. Exh6 gxh6 9. Rg0
+*
+
+[Event "[강의 비급초반 16수] 38회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Ce2 Ce7 4. e4 Hg7 5. Hf2 Ed6 6. Ef3 Ri5 7. gh3 Rg5
+8. Ed3 Rg1+ 9. Af1 Cf7 10. He0 Rg4 11. Exh6 Rxe4 12. Hxe4 Cxe4 13. Rg0
+*
+
+[Event "[강의 비급초반 16수] 38회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마 "]
+[Black "귀마 "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 ih6 4. Ce2 Hg7 5. Hf2 Ed6 6. Ef3 Cf7 7. gh3 hi6
+8. Rg0 ef6 9. Exd6 cxd6 10. Ed3 Ri7
+*
+
+[Event "[강의 비급초반 16수] 38회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 ih6 4. Ce2 Hg7 5. Hf2 Ed6 6. Ef3 h5 7. gh3 hg5
+8. Rg0 ef6 9. Ed3 f5
+*
+
+[Event "[강의 비급초반 16수] 38회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 ef6+ 4. Ce2 Ee6 5. gh3 Hg7 6. Hf2 Cf7 7. Ri1
+Ke9 8. Rg1 Ade8 9. Ed3 Ri7
+*
+
+[Event "[강의 비급초반 16수] 39회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 e5 4. Ce2 exe4 5. Hxe4 Hg7 6. Hgf2 Ee6 7. gh3
+Cf7 8. Ri1 ih6 9. Rg1
+*
+
+[Event "[강의 비급초반 16수] 39회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 Ce7 3. e4 Hd7 4. Ce2 Ed6 5. Hf2 Ad8 6. Ef3 Ce9 7. ed4+
+Kd9 8. d5
+*
+
+[Event "[강의 비급초반 16수] 39회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 Ce7 3. e4 Hd7 4. Ce2 Ed6 5. Hf2 Ad8 6. Ef3 Kd9 7. gh3
+Afe8 8. Rg0 ef6 9. Ed3 Ce9
+*
+
+[Event "[강의 비급초반 16수] 39회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 Ce7 3. e4 Hd7 4. Ce2 Ed6 5. Hf2 Ad8 6. Ef3 Kd9 7. gh3 gf6
+8. Rg0 Ri7 9. Ed3 Afe8 10. Af1 Ce9 11. Kf0 ab6 12. Rc0 Cc9
+*
+
+[Event "[강의 비급초반 16수] 39회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "양귀마포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hd2 Ce7 3. e4 Hd7 4. Ce2 Ed6 5. Hf2 Ad8 6. Ef3 Kd9 7. gh3 gf6
+8. Rg0 Ri7 9. Ed3 Afe8 10. Af1 Ce9 11. Kf0 ab6 12. Rxa9+ Cxa9 13. Ade1 Cf9
+14. Ce0
+*
+
+[Event "[강의 비급초반 16수] 35회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 ef6 6. Ece3 Ege6 7. Ri4
+c5 8. Exg6 fxg6 9. Ee3 g5 10. Cd2 Cd7 11. Rd4 Hd5 12. Rh4
+*
+
+[Event "[강의 비급초반 16수] 35회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 ef6 6. Ece3 c5 7. Cd2
+Hge6 8. g4 b5 9. h4 Cd7 10. Exg6 fxg6 11. Af1 Ke9 12. Cf0 Ade8 13. Hce3 Kd9
+*
+
+[Event "[강의 비급초반 16수] 35회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 ef6 6. Hge3 Ra5 7. a4
+Rb5 8. ab4 Rxb4 9. Hd5 Rb5 10. Hxc7+ Cd7 11. Ra8+ Ad8 12. Rc8
+*
+
+[Event "[강의 비급초반 16수] 35회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 ef6 6. Hge3 c5 7. Cd2
+Hge6 8. Ri4 b5 9. Ke0 Ke9 10. Ade1 i5 11. Rh4 ih5 12. Rxh5 Hf4 13. Rh8 Hxe2
+14. Ca2 Hc1+ 15. Kd0
+*
+
+[Event "[강의 비급초반 16수] 35회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "원앙마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hc2 Hc7 5. ed3 ef6 6. Hge3 c5 7. Cd2
+Hge6 8. Ri4 b5 9. Ke0 Ke9 10. Ade1 i5 11. Rh4 ih5 12. Ca2 Rb9 13. Rxh5 Hf4
+14. Rh8 Hxe2 15. Cxe2
+*
+
+[Event "[강의 비급초반 16수] 11회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ce7 3. ih3 Hg7 4. ab3 Ed6 5. c4 c5 6. cxc5 Exb3+ 7. Ke0
+Hxc5
+*
+
+[Event "[강의 비급초반 16수] 11회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ce7 3. ih3 Hg7 4. ab3 Ed6 5. c4 c5 6. b4 cxc4 7. bxc4 Rc9
+8. Ri4 Hb6
+*
+
+[Event "[강의 비급초반 16수] 11회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ce7 3. ih3 Hg7 4. ed3 ab6 5. Ege3 ef6 6. Exc6 bxc6 7. Ee3
+c5 8. Exg6 fxg6 9. He3
+*
+
+[Event "[강의 비급초반 16수] 11회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ce7 3. ih3 Hg7 4. ed3 ab6 5. Ege3 gf6 6. Exc6 bxc6 7. Ee3
+c5 8. Ri4 Ed6 9. Rg4 Hf5
+*
+
+[Event "[강의 비급초반 16수] 11회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "18"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ce7 3. ih3 Hg7 4. ed3 ab6 5. Ege3 gf6 6. Exc6 bxc6 7. Ee3
+c5 8. Ri4 Cf7 9. Rg4 Ri7
+*
+
+[Event "[강의 비급초반 16수] 12회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Ed6 4. Ci2 ef6+ 5. Kd1 Hi7 6. Cxi7 Rxi7 7. Ci2
+ih6 8. Ei3 hi6 9. Exg6 ih6 10. Hi3 hi6 11. Hh5 ih6 12. Ei3 Ri6 13. Hxf6+
+Kd8 14. Cxi6
+*
+
+[Event "[강의 비급초반 16수] 12회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Hc2 Ed6 6. Cd2 Cf7 7. Af1
+gf6 8. Cf0 Ke9 9. Hce3
+*
+
+[Event "[강의 비급초반 16수] 12회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Hc2 Ed6 6. Cd2 Cf7 7. d4 c5
+8. c4
+{한차가 두칸들어서는 수
+병을 마저 올리는 수
+병으로 졸을 취하는 수 (별로 좋지 않음)}
+
+*
+
+[Event "[강의 비급초반 16수] 12회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ed3 ab6 5. Hc2 Ed6 6. Cd2 Cf7 7. d4 c5
+8. c4
+{한차가 두칸들어서는 수
+병을 마저 올리는 수
+병으로 졸을 취하는 수 (별로 좋지 않음)}
+8... b5 9. Af1 cxc4 10. dxc4
+*
+
+[Event "[강의 비급초반 16수] 13회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Cbe7 5. Ci2 ih6 6. Ei3 Rh9 7. Ca2
+ba6 8. ab3 ab6 9. Ea3 ba6 10. Exc6 ab6 11. Exa9
+*
+
+[Event "[강의 비급초반 16수] 13회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Cbe7 5. Ci2 ih6 6. Ei3 Rh9 7. Ca2
+ba6 8. ab3 ab6 9. Ea3 e5 10. Ce2 Ca7
+*
+
+[Event "[강의 비급초반 16수] 13회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Ee7 5. Ci2 Rh9 6. Ca2 Rc9 7. Rxi6
+*
+
+[Event "[강의 비급초반 16수] 13회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "21"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Ee7 5. Ci2 ih6 6. Ei3 Rh9 7. Ca2
+Rb9 8. Exg6 hxg6 9. Ri8+ Af8 10. Rg8 Hc5 11. Ce2
+*
+
+[Event "[강의 비급초반 16수] 13회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "24"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Ee7 5. Ci2 ih6 6. Ei3 Rh9 7. Ca2
+Rb9 8. Exg6 hxg6 9. Ri8+ Af8 10. Rg8 He5 11. Ce2 gf6 12. e4 Hg6
+*
+
+[Event "[강의 비급초반 16수] 13회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Hg7 4. Ce4+ Ee7 5. Ci2 ih6 6. Ei3 Rh9 7. Ca2
+Rb9 8. Exg6 hxg6 9. Ri8+ Af8 10. Rg8 He5 11. Ce2 gf6 12. e4 Hg6 13. Hc2 Ch2
+*
+
+[Event "[강의 비급초반 16수] 14회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hc2 ab6 5. ed3 ef6 6. Ece3 Ee6 7. Ri4
+Ed6 8. Rc4 ih6 9. Exc6 bxc6 10. Rxc6 Ri2 11. Hge3 Ri1+ 12. Ke0 Rg1 13. He1
+*
+
+[Event "[강의 비급초반 16수] 14회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hc2 ab6 5. ed3 ef6 6. Ece3 Ee6 7. Ri4
+Ed6 8. Rc4 ih6 9. Exc6 bxc6 10. Rxc6 Ri2 11. Hce3 Exc3 12. dxc3 Ef3 13.
+gxf3 Rxg2
+*
+
+[Event "[강의 비급초반 16수] 14회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hc2 ab6 5. ed3 ef6 6. Ece3 Ee6 7. Ri4
+Ed6 8. Rc4 ih6 9. Exc6 bxc6 10. Rxc6 Ri2 11. Hce3 Exc3 12. dxc3 Ef3 13. Kf2
+Cf7
+*
+
+[Event "[강의 비급초반 16수] 14회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hc2 ab6 5. ed3 ef6 6. Ece3 Ee6 7. Ri4
+Ed6 8. Rc4 ih6 9. Exc6 bxc6 10. Rxc6 Ri2 11. Hce3 Exc3 12. dxc3 Ef3 13. Hd5
+Rxg2 14. Hxe7+ Cxe7
+*
+
+[Event "[강의 비급초반 16수] 14회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hc2 ab6 5. ed3 ef6 6. Ece3 Ee6 7. Cd2
+Ed6 8. Ri4 Cf7 9. Rc4 Rc9 10. Exc6 bxc6 11. Ee3 c5 12. Rd4 ih6 13. Rxd6 Ad8
+14. Kd1 Ri0 15. Ade1 Rg0 16. Hi3 Exg3 17. hxg3 Rxg3 18. Hh1 Rg1 19. ab3
+*
+
+[Event "[강의 비급초반 16수] 15회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "15"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ih6 2. Ce2 Hd7 3. ab3 Ed6 4. Ce4+ Ce7 5. Ca2 ab6 6. Ea3 Rc9 7. Ci2
+Hi7 8. Ce2
+*
+
+[Event "[강의 비급초반 16수] 15회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ih6 2. Ce2 Hd7 3. ab3 Ed6 4. Ce4+ Ce7 5. Ca2 ab6 6. Ea3 Rc9 7. Ci2
+Hi7 8. Ec0 Exb3 9. cxb3 Hc5 10. Ce2 Hxb3
+*
+
+[Event "[강의 비급초반 16수] 15회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 농포전"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ih6 2. Ce2 Hg7 3. ab3 Ed6 4. Ce4+ Ce7 5. Ca2 ab6 6. Ea3 Rb9 7. Ci2
+Ei6
+*
+
+[Event "[강의 비급초반 16수] 15회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "20"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ih6 2. Ce2 Hg7 3. ab3 Ed6 4. Ra4 Hd7 5. Rc4 ab6 6. Ea3 Rc9 7. ef3+
+Che7 8. Hg2 c5 9. Rd4 Exb3 10. cxb3 Cxb3
+*
+
+[Event "[강의 비급초반 16수] 15회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "12"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hg7 3. Ce2 Ed6 4. Ra4 Hd7 5. Hg2 Che7 6. ef3 c5
+{차가 오른쪽으로 한칸 피하는 수- 한에서  병을 열어서 매우 않좋다.
+차가 오른쪽으로 세칸 피하는 수-한에서 병을 열어서 좋지 않다.
+차가 중으로 피하는 수- 정수
+
+그러므로 초차의 진출은 좋지 않다.}
+
+*
+
+[Event "[강의 비급초반 16수] 16회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Hd7 5. Ece3 gf6 6. Exc6 bxc6 7. Ri4
+Ed6 8. Rb4 Kd8
+*
+
+[Event "[강의 비급초반 16수] 16회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Hd7 5. Ece3 gf6 6. Exc6 bxc6 7. Ri4
+cb6
+*
+
+[Event "[강의 비급초반 16수] 16회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 gf6 5. Hc2 Hd7 6. Cd2 Ed6 7. Af1
+Ad8 8. Cf0 Kd9 9. Hce3 Ci7 10. Ei3 ih6 11. Rh0 Ei6 12. g4
+*
+
+[Event "[강의 비급초반 16수] 16회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "14"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ci7 4. Rh0 ih6 5. Cbe2 Ce7 6. Cf2 Ed6 7. ab3
+cb6
+*
+
+[Event "[강의 비급초반 16수] 16회-(5)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "19"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ci7 4. Rh0 ih6 5. Cbe2 Ce7 6. Cf2 Ed6 7. ed3
+ab6 8. He3 gf6 9. g4 Hf5 10. gf4
+*
+
+[Event "[강의 비급초반 16수] 16회-(6)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ci7 4. Rh0 ih6 5. Cbe2 Ce7 6. Cf2 Ed6 7. ed3
+ab6 8. He3 gf6 9. g4 Hd7 10. Ke0 Ad8 11. Ade1 Kd9 12. Cd0
+*
+
+[Event "[강의 비급초반 16수] 36회-(1)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "13"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Cc7 4. ed3+ Ee7 5. Ci2 Hi7 6. Hc2 He5 7. Hce3
+*
+
+[Event "[강의 비급초반 16수] 36회-(2)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "25"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Cc7 4. Hc2 Ci7 5. Ei3 gf6 6. Cd2 Ee7 7. Af1
+Ke9 8. Cf0 Afe8 9. ed3 ih6 10. Rh0 Ei6 11. g4 He5 12. h4 Cg7 13. Hce3
+*
+
+[Event "[강의 비급초반 16수] 36회-(3)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "17"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hd7 3. Ce2 Ee7 4. Hg2 Ke9 5. Cf2 Hg7 6. ed3 Afe8 7. He3
+gf6 8. g4 Hf5 9. gf4
+*
+
+[Event "[강의 비급초반 16수] 36회-(4)"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "원앙마 포진"]
+[Black "귀마 면상포진"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hd7 3. Ce2 Ee7 4. Hg2 Ke9 5. Cf2 Hg7 6. ed3 Afe8 7. He3
+gf6 8. g4 He5 9. Ke0 Chf7 10. Ade1 Add8 11. Cd0 Cd9 12. Aff1
+*
+

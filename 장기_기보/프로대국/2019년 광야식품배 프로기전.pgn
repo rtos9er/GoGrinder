@@ -1,0 +1,586 @@
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 1회전"]
+[White "귀마 송은미"]
+[Black "귀마 최진호"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "147"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ri1 Ce7 5. Ke0 Ke9 6. Hd2 ed6 7. ef3
+Ee6 8. He3 Ria8 9. Hf5 Ce5 10. ih3 g5 11. Ri9 Hhf8 12. Hg7 Ae8 13. Ra4 ab6
+14. Rai4 Cf7 15. Ed3 h5 16. Cb4 b5 17. Cb1 c5 18. Afe1 Ra4 19. Cg1 Kd9 20.
+R9i6 Cb7 21. Hi8 gf5 22. Hh6 hg5 23. Kf0 Cee7 24. Exg5 fxg5 25. Cxg5 Ce9
+26. Ee3 Rxi4 27. Rxi4 Ra6 28. Rf4 d5 29. Hi4 Cf7 30. Ke0 Hh7 31. Cg0 Hdf6
+32. Rh4 Ch9 33. Hh6 Exg3+ 34. hxg3 Hd7 35. Eg6 He5 36. Ei9 Ee7 37. He4 Cd7
+38. Hg5 Rxh6 39. Rxh6 Cxh6 40. f4 Ch9 41. f5 Hxg5 42. Cxg5 Hf7 43. f6 Hh8
+44. Cg1 Ce9 45. Eg6 Aff8 46. fe6 Eh9 47. ed6 Cf9 48. Ei3 d4 49. Cd1 Ce5 50.
+Ef1 cd5 51. Cxd5+ Ke9 52. Exd4 Cf5 53. g4 Aff7 54. Eg2 bc5 55. Ca5 cd5 56.
+d7 Cf8 57. d7xe8+ Axe8 58. Exe5 dxe5 59. b4 Kf9 60. g5 Hf7 61. g6 e4 62.
+ba4 e3 63. Ce6 Hg5 64. Ch6 Hf3 65. Cc6 Af7 66. Cc1 Ke8 67. Ca3 He5 68. g7
+ef3 69. gxf7+ Kxf7 70. Cf1+ Cf5 71. ab4 Ef6 72. Ae2 Ke8 73. Ad1 Ec8 74. bc4
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 2회전"]
+[White "귀마 최진호"]
+[Black "귀마 임대빈"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ke0
+Kf8 8. Ra1 Rf5 9. Ef3 Afe8 10. Rai1 i5 11. Afe1 Ce9 12. g4 Rxf3 13. Rxi5
+Rxi5 14. Rxi5 Kf9 15. Ch4 Rf5 16. Ri9 He6 17. Add1 cd6 18. ab3 Hf8 19. Cf4
+Add8 20. Ri8 Rh5 21. h4 Ra5 22. Cf0 Cd7 23. Rg8 gh6 24. g5 Cd9 25. h5 Ce7
+26. hxh6 Hxh6 27. Rh8 Hf7 28. Rh5 de6 29. Hh3 Ra4 30. gf5 Rg4 31. Hf2 Rg1
+32. fxf6 Exf6 33. Rc5 Ch9 34. Cb2 Ei4 35. Hh3 Rg3 36. Hg5 Eg1 37. Hxf7 Axf7
+38. Cxb6 Rg2 39. Add2 ed6 40. Rc8 Ae8 41. Cb2 Rg5 42. Cb9+ Che9 43. Rxc9
+Ra5 44. Cb1 Ee4 45. Kd0 Cg7 46. Cf1 Eb6 47. Rc4 Rf5 48. b4 Cd7 49. Ha3 d5
+50. b5 Ed9 51. Eh1 Ce6 52. Ef4 Re5 53. Cd1 Ke9 54. Ca0 Cf9 55. Ce0 Rh5 56.
+Cf1 Ea7 57. Rc6 de5 58. Rxe6 Kd9 59. Cxe5 Ca9 60. Ec6 Afe7 61. Rd6+ A7d7
+62. Ce0 Cxa3 63. Exa3 Rxb5 64. Ra6 Ed5 65. Ra9+ Kd8 66. Exd5 Rxd5 67. d4
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 3회전"]
+[White "귀마 송은미"]
+[Black "귀마 임대빈"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 Ef6 6. Exg6 Rg9 7.
+Rxi6 Exd3 8. Ri8+ Af8 9. Ee3 Ef6 10. Ri3 Ke9 11. Hf2 Ad8 12. Rc0 cd6 13.
+ab3 Cd7 14. Eh5 Afe8 15. Ke0 Cd9 16. Ade1 Hd5 17. Aff1 Ea6 18. c4 Rc9 19.
+cd4 Hf4 20. Ef3 b5 21. Cg2 Rf9 22. g4 Hd3 23. Hxd3 Exd3 24. Exe7 Exd4 25.
+Cb2 Eg6 26. h4 He5 27. Eh6 Rf7 28. Exb5 Hxg4 29. Rxd3 Hxh2 30. Cxh2 Rc5 31.
+Exd8 Rf4 32. Rh3 Axd8 33. Aff2 Ri5 34. Ce2+ Ae8 35. Rh0 Ri3 36. Rb0 Ch9 37.
+ba3 Rc3 38. Rb8 Rf7 39. Cg2 Kd9 40. ab3 Rc4 41. b4 Rc3 42. Rg0 Ed4 43. Ef3
+Rfxf3 44. Ce2 Rf7 45. Rg8 ef6 46. Hd0 f5 47. Kf0 Rf3 48. bc4 Eb7 49. Rh8
+Ch7 50. Rb9+ Kd8 51. Rhh9 Rc7 52. Rb8+ Kd7 53. Rxh7+
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 1회전"]
+[White "귀마 김동학"]
+[Black "귀마 김희상"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "59"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Ri8 2. ab3 Ef6 3. Hc2 Hc7 4. Ef3 Hf7 5. Ce2 Che7 6. Ri4 gh6 7. Rc4
+ed6 8. Rg4 Cd7 9. Hf2 Ke9 10. Ch4 Afe8 11. Ch1 Cf9 12. Ea3 Add8 13. Ca1 Rb9
+14. Cf1 Ec8 15. Rc4 Rb5 16. Exd6 He5 17. Rb4 Rd5 18. Eg4 Ca7 19. Rc0 Cad7
+20. e4 Hg6 21. ed4+ Re5 22. d5 Rxe2+ 23. Kxe2 Af7 24. Re4+ Re8 25. Rxe8+
+Kxe8 26. He3 Cb9 27. Ke1 Ce9 28. cd3 Kd9+ 29. Kd1 ab6 30. Exc6
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 2회전"]
+[White "귀마 차선균"]
+[Black "원앙마 송은미"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hd2 Ce7 3. Ce2 ab6 4. Ed3 ed6 5. ef3 He6 6. Ri4 b5 7. Ee3
+Hhg7 8. Exg6 d5 9. Hg2 Cf7 10. He3 c5 11. Hf5 Ce5 12. Rg4 Ri7 13. fe3 Kf8
+14. gf3 Ce9 15. Af1 Afe8 16. Ad1 Ra6 17. Rag0 i5 18. Ei3 Ei6 19. Hxg7 Hxg7
+20. Rxg7 Rxg7 21. Rxg7 i4 22. ab3 ixi3 23. hxi3 d4 24. Rg2 Kf9 25. Cf2 cd5
+26. i4 Ef8 27. Ce0 Rc6 28. Rg5 bc5 29. Kf0 Ri6 30. i5 Ri9 31. b4 Rh9 32. b5
+dxd3 33. cxd3 cxb5 34. Rxd5 b4 35. Rd4 Ri9 36. ih5 Ri6 37. Rxb4 Add8 38.
+Rg4 Cd9 39. hg5 Ce7 40. g6 Ke9 41. f4 Ri5 42. Ade1 Cf9 43. e4 Ee6 44. d4
+Add7 45. Hc4 Add8 46. Hb6 Eb8 47. Cf5 Ri3 48. e5 Rd3 49. de4 Rb3 50. Hc4
+Rc3 51. He3 Rc6 52. Hg2 Cd9 53. Hh4 Rd6 54. Cf2 Ra6 55. gf6 Cf9 56. Rg9 Rb6
+57. Rh9 Efd5 58. ed4 Ea3 59. Hg6 Kd9 60. f7 Ce9 61. f7xe8+ Axe8 62. Cd0+
+Cd7 63. e6 Kd8 64. e7 Cxe7 65. Hxe7
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 2회전"]
+[White "귀마 김동학"]
+[Black "원앙마 차선균"]
+[Result "1-0"]
+[TimeControl "각 20분, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. c4
+Cd7 8. Hb4 cb6 9. c5 Hxc5 10. Exc5 b5 11. d4 bxb4 12. bxb4 Rb9 13. Rb0 Ad8
+14. Hf2 Ke9 15. Af1 Cd9 16. dc4 Ece6 17. Ea3 f5 18. Kf0 Rf7 19. Ade1 Rf6
+20. Ed1 ab6 21. Ce0 bc6 22. Ef3 Exg3 23. hxg3 cd6 24. Cd2 f4 25. Ec5 dc6
+26. Cd0 Afe8 27. Ri4 cxc5 28. cxc5 f3 29. gxf3 Rxf3 30. Rc0 gf6 31. cb5 He6
+32. Rg4 ih6 33. Rg8 Add7 34. Rc6 hg6 35. Cxe6 fxe6 36. Rxe6 gf6 37. Re4 Rc9
+38. Rc4 Rxc4 39. bxc4 fe6 40. Cg0 Rf8 41. Rxf8 Axf8 42. Hh3 ef6 43. Cd0
+Afe8 44. Cf2 fe6 45. Hf4 Ce4 46. bc5 Ce7 47. Ea3 ed6 48. Hg6 Ei6 49. Hxe7
+Aexe7 50. Cd0 Ef4 51. Ke0 Aee8 52. cd5
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "이벤트 대국"]
+[White "맞상 황갑식(영주지부장)"]
+[Black "맞상 정종섭(봉화지부장)"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hg7 3. Cg2 Ed6 4. Cxg6 Cf7 5. Ri4 Hd7 6. Ce2 Ce7 7. ed3
+ef6 8. Cg1 Ri7 9. Ee3 Ke9 10. Ef3 Ade8 11. Exd6 cxd6 12. Rg4 Hi8 13. Rxg9
+Cd9 14. Rg4 de6 15. Hc2 Aff8 16. Rb4 ih6 17. Cd1 Ra7 18. Ke0 Hg7 19. Ade1
+Ri5 20. Rg4 Aff7 21. Rc4 b5 22. Rc8 bc5 23. Rb0 Rc7 24. Rxc7 Cxc7 25. Cxd7
+cd5 26. Cxg7 Cxc2 27. Rb7 Kf9 28. Cc7 Cc5 29. Ca7 Aff8 30. Hg4 Rg5 31. Ca1
+hg6 32. Cf1 Ch9 33. Kd0 Cd9 34. Cd1 Cf5 35. Cxd5 Cff7 36. Cd2 Ra5 37. cb3
+Rc5 38. Ce0 Rc2 39. Rb6 Cxf0 40. Exg6 Cff7 41. Ee3 Cf2+ 42. Ad1 Cff7 43.
+Hh6 Rc5 44. Rc6 Rg5 45. Ae1 Ri5 46. Rc7 Ri6 47. Hxf7 Afxf7 48. Cd7+ Axd7
+49. Rxd7+ Ae8 50. Rd4 Ri4 51. Ad1 Ri8 52. bc3 e5 53. Cxe5 f5 54. Ce0 Rf8
+55. Ri4 f4 56. Eh5 Rf5 57. Ke1 f3 58. gxf3 Rxf3 59. hi3 Rf5 60. Ri8 Rf7 61.
+Ce2 Rf6 62. Ee3 Rf7 63. ih3 Cxd1 64. Kxd1 Rf1+ 65. Kd0 Rf2+ 66. Kd1 Rxe2
+67. Ri9+ Kf8 68. Eh5+ Kf7 69. Ri7#
+{White mates} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 1회전"]
+[White "양귀마 박영완"]
+[Black "원앙마 허금산"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Ce7 3. Ri4 ef6+ 4. Ce2 He6 5. Ed3 Hbc7 6. Hd2 f5 7. cb3
+Cxe3 8. Rc0 f4 9. gf3 fxf3 10. Exf3 Cee7 11. Rxc6 Ce5 12. Re4 Cbe7 13. Ec5
+Ke9 14. Hg4 Cb5 15. Rb4 a5 16. Ef3 Ra6 17. Rbc4 Rh9 18. Rxc7 Afe8 19. Rxc9
+Rxh3 20. Ec5 Hxc5 21. R4xc5 Rxd3 22. R5c7 Ee6 23. Rc6 Rd6 24. Rc5 Cg5 25.
+Cb9 Cg9 26. Rh5 gh6 27. Rg5 Cxg4 28. Rxg4 Eh4 29. Rc7+ Ad8 30. Rg9+ Af9 31.
+Rxe7+ Ae8 32. Cxe8 Kd9 33. Rxf9+ Kd8 34. Ad1 Rf6 35. Rc9 Rad6 36. Rc8+ Kd9
+37. Rc9+ Kd8 38. Ce2 Rf7 39. Rc8+ Kd9 40. Rxf7+ Exf7 41. Ce0 Rd7 42. Cb2
+Ed4 43. Cf2 Eg2 44. Cd0 ab5 45. Hc4 Ed4
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 3회전"]
+[White "원앙마 허금산"]
+[Black "귀마 김희상"]
+[Result "1-0"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. c4
+ih6 8. ef3 Ra5 9. b4 Af8 10. Ke0 Kf9 11. Afe1 Ade8 12. f4 Ce9 13. Cf0 Cb7
+14. Rb3 ed6 15. Rc3 Ee6 16. Ra3 Rxa3 17. Exa3 Cf7 18. g4 Ec9 19. Add1 Ea6
+20. Cc0 Hb9 21. Ee3 Ri7 22. Cg0 Hd8 23. Exg6 Ce6 24. g5 Cxg6 25. gxg6 hxg6
+26. Hce3 Ri6 27. Hh4 Rh6 28. Heg2 Rh5 29. f5 Cd9 30. i4 Rh7 31. Hxg6 Exc4
+32. bxc4 de6 33. ih4 Hf7 34. Ch2 Rg7 35. H6f4 Hg5 36. fxg5 cd6 37. Ce2 Rc7
+38. He3 Ec3 39. Hh5 Ke9 40. Ri3 b5 41. g6 bc5 42. cxc5 Rxc5 43. gf6 Rg5 44.
+Hg4 Rc5 45. Cd0 Hb7 46. Hg7 Ef5 47. Hxe8 Axe8 48. f7
+{Black resigns} 1-0
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "결승 1회전"]
+[White "귀마 차선균"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl "각 20분, 총 대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Kd8 8. Ra4 Ade8 9. Ad1 Ce9 10. Ed3 Ri5 11. Rc0 Ca7 12. Rf4 Ra5 13. c4 Rh5
+14. Cb7 Hhf8 15. ih3 Ri5 16. hi3 Kd9 17. Cb0 Ci7 18. i4 Rh5 19. ih4 Rxh4
+20. Rxh4 Exh4 21. g4 Cg9 22. f4 Cc7 23. Hxh4 Ee7 24. b4 Exg4+ 25. fxg4 Cxg4
+26. Cd0 Cxb4 27. Hf5 Cg4 28. Exc6 dxc6 29. Eg1 g5 30. He3 Cg9 31. Ee4 Ce7
+32. Hc2 hg6 33. Hb4 cd6 34. c5 ab6 35. cd5 bc6 36. Hxc6 dxc6 37. Rxc6 Rc9
+38. Ra6 Ke9 39. d6 Hb8 40. Rb6 Hd9 41. de6 Ce5 42. ed6 Rc3 43. Kf0 gf5 44.
+Rb9 Rc5 45. Hb3 Rc3 46. Ha5 Re3 47. Ade1 Rxe4 48. Hc6 Rc4 49. Rc9 Cg5 50.
+d7 He6 51. Cxd9 Axd9 52. d8 Ae8 53. d8xd9+ Axd9
+{White resigns} 0-1
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 1회전"]
+[White "귀마 임대빈"]
+[Black "원앙마 차선균"]
+[Result "0-1"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Hc7 3. Ce2 Che7 4. Hf2 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ee3
+c5 8. Ad1 Cd7 9. Kd0 Ad8 10. Ae1 Cd9 11. Ce0 Ke9 12. Cd2 Afe8 13. Ri4 f5
+14. Cf0 gf6 15. g4 Rg7 16. Rh4 cd5 17. c4 Ca7 18. Rb0 Hf8 19. cd4 de5 20.
+b4 Ece6 21. Ri4 ab6 22. bc4 Rb9 23. c5 Ce7 24. Ri1 Cf9 25. Cc0 Cc9 26. Ha3
+Cxc5 27. Hc4 b5 28. Rg1 b4 29. Hd2 Cc9 30. Ce0 ih6 31. Ce2 hg6 32. gf4 fxf4
+33. Cxe5 f5 34. Ce2 g5 35. Cg2 Ri7 36. Ra0 Ri9 37. Ce2 Cf9 38. Rc0 Rb7 39.
+Ec6 Cc9 40. d5 Ri6 41. d4 Rb6 42. dc5 Ha6 43. d5 Rxc6 44. cxc6 Cxc0 45. Rg3
+Cc9 46. Ra3 Ec3 47. cd6 Hc7 48. Ra9 Ea6 49. Ca2 Add9 50. Hd3 Hxd5 51. Rxa6
+Kf9 52. Rc6 Cce9 53. Ce2 Rh6 54. Hf2 Ei6 55. Ce0 Eg9 56. Ee2 Add8 57. Ec5
+Ei6 58. de6 Ch9 59. Ea2 Cd9 60. Ed4 Eg9 61. hg3 Hxe6 62. Cxe6 Exe6 63. g4
+fxg4 64. Hxg4+ Ke9 65. Hf2 f4 66. Ea6 Add7 67. Ec9 g4 68. Ea6 g3 69. Cc0 f3
+70. Hd3 fe3 71. Hb2 Hf4 72. Ce0 Rh0 73. Hf1 Rg0 74. Rc2 e2 75. Axe2 Hxe2+
+76. Rxe2 Cxe2 77. Ke1 gf3 78. Ad0 Ce7+
+{White resigns} 0-1
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "A조 3회전"]
+[White "귀마 차선균"]
+[Black "원앙마 최진호"]
+[Result "0-1"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Hd2 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ee3
+g5 8. Ra4 d5 9. Af1 Ke9 10. Kf0 Ade8 11. Ae1 Aff8 12. Ce0 Cd9 13. Cf2 Ci7
+14. Rg0 ih6 15. Cd0 c5 16. Rb4 a5 17. Rb6 Ra8 18. Ee2 Cf9 19. c4 ab5 20.
+cxc5 bxc5 21. b4 Ea6 22. Eb1 gf5 23. Exc5 dxc5 24. Cd6 Ec9 25. Cxh6 Ce7 26.
+Ch2 Ra0 27. bc4 cxc4 28. Hxc4 Ri4 29. Hce3 f4 30. Cf2 fe4 31. Hd1 Ri5 32.
+Cd0 ef4 33. fe3 Rc5 34. Rb3 Ea6 35. gf3 fxf3 36. exf3 Rc1 37. Hh4 Rb0 38.
+Rb6 Rbxb1 39. Rxb1 Rxb1 40. Rg2 Rb4 41. Ce2 Ei6 42. Rg6 Ed4 43. Rh6 Ea2 44.
+Ch0 Rg4 45. Cb0 Cxf3+ 46. Ke0 Ec5 47. Hg6 Exe2 48. Hxe7 Exb0 49. Hg6 Rg5
+50. Hxb0 Cf9 51. Hd1 Hf4 52. Aff0 Cf6 53. Rh4 Rxg6 54. hi3 Rg0 55. ih3 Cf9
+56. He3 Rh0 57. Hf1 Ri0 58. Rg4 Hge6 59. h4 Hd4 60. Rg3 Hc2 61. Rf3 Hxe1
+62. Kxe1 Cf7 63. Rxf4 Exf4
+{White resigns} 0-1
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 2회전"]
+[White "귀마 김희상"]
+[Black "원앙마 박영완"]
+[Result "0-1"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. ab3 ih6 4. Rh0 Hc7 5. ef3 c5 6. Ed3 e5 7. He3 Ri5
+8. Rh4 ed5 9. i4 Rh5 10. Rxh5 hxh5 11. Hf5 gf6 12. Hd6+ Cd7 13. Exf6 He6
+14. Hd2 d4 15. Ee3 hg5 16. Cb6 a5 17. Cbxe6 Exe6 18. Cxe6 Ra6 19. Ec6 gf5
+20. Ad1 Ad8 21. Af1 fe5 22. Kf0 Ke9 23. Ci6 Af8 24. Eh3 Ra8 25. g4 Cd9 26.
+Exe5 Cxd6 27. Ci0 Cd9 28. Cc0 He6 29. Eh7 Cf9 30. Ade1 Ef7 31. Ehf4 de4 32.
+Cg0 Ra6 33. Ce0 Rxc6 34. Cxe4 Ra6 35. Ce0 Afe8 36. cd3 Hg7 37. de3 Ri6 38.
+gh4 Ra6 39. hg4 cb5 40. Rc0 Ri6 41. ih4 Ri5 42. e4 bc5 43. e5 Exh4 44. gxh4
+ab5 45. b4 cd5 46. bxb5 dxe5 47. Rc5 ef5 48. b6 He6 49. Ra5 Hd4 50. hg4 Ri3
+51. fe3 fxf4 52. gxf4 He6 53. e4 Rh3 54. bc6 Hg7 55. cd6 Hh5 56. de6 Cxe4
+57. Hxe4 Hxf4 58. Aef2 Re3 59. Rg5 Rxe4 60. ef6 Kd9 61. Cg0 Rd4 62. Rg9 Rd6
+63. f7 Rd7 64. f7xe8+ Axe8 65. Ke0 -- 66. A1e1
+{White resigns} 0-1
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 2회전"]
+[White "원앙마 허금산"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 g5 5. Cd2 Ed6 6. Af1 Hd7 7. Cf0 Ad8
+8. ed3 Kd9 9. Hce3 Afe8 10. Ke0 Ce9 11. Ade1 ih6 12. Ei3 Cc9 13. h4 ef6 14.
+g4 gxg4 15. hxg4 Ee6 16. Rh0 hg6 17. Exg6 fxg6 18. Hf4 gf6 19. g5 Ri6 20.
+d4 Cxc3 21. g6 fxg6 22. Hxe6 gf6 23. Hxd8 Axd8 24. d5 Cc9 25. Rh4 Ce7 26.
+Cd0 Cf9 27. a4 Ke9 28. Ra3 Ae8 29. Rd3 Cd9 30. Ea3 Eg8 31. Rc3 Ri3 32. Ec0
+Rg3 33. Cf0 fe6 34. Rcc4 Cc7 35. Rcg4 Rxg4 36. Rxg4 cd6 37. Cd0 bc6 38.
+dxd6 cxd6 39. Hc4 dc6 40. Hd2 Ed6 41. Ea3 Cg9 42. Ri4 Cd9 43. Rg4 Cg9 44.
+Ri4 Cd9 45. Rg4 Cg9 46. Ri4 Cd9 47. Rg4 Kf9 48. Cf0+ ef6 49. Re4 Ra8 50.
+Cf2+ Hf5 51. Rf4 Ccf7 52. Ec0 c5 53. ab4 cd5 54. bc4 Ea4 55. cb4 Ec7 56.
+Rg4 Hd4 57. Cb2 Hf5 58. Cf0 Ra6 59. bc4 d4 60. cxd4 Hxd4 61. Cbf2 Ea4 62.
+He4 Ke9 63. Rg3 Ca7 64. C0d0 Ce7 65. Kf0 He5 66. Rg5 Hdc6 67. Hc3 Ra5 68.
+Rg3 Ec1 69. Hd1 f5 70. Rc3 Ee4 71. Ea3 Rb5 72. Rf3 fg5 73. Hc3 Ec1 74. Rf6
+Rc5 75. Hd5 Ea4
+{White resigns} 0-1
+
+[Event "광야식품배 프로기전"]
+[Site "브레인TV"]
+[Date "2019년"]
+[Round "B조 3회전"]
+[White "원앙마 박영완"]
+[Black "귀마 김동학"]
+[Result "0-1"]
+[TimeControl "각 15분, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ed6 4. Cbe2 g5 5. ed3 ab6 6. Cf2 Hd7 7. Af1
+Ad8 8. Cf0 Kd9 9. d4 c5 10. Hce3 Afe8 11. Ke0 Ce9 12. Ade1 ih6 13. Ei3 h5
+14. Rh0 Ri6 15. c4 b5 16. gf3 ef6 17. f4 cxc4 18. dxc4 Ee6 19. Ra2 f5 20.
+fe4 Ec3+ 21. Rc2 Cxe4 22. cd4 Ce9 23. Rxc3 Rc9 24. Rxc9+ Cxc9 25. Hc4 Ef3
+26. Rg0 He6 27. Ci2 Rh6 28. de4 Ec5 29. Hd2 Cg9 30. ab3 Cg7 31. hg3 Cxg3
+32. Rh0 Cg7 33. He3 fe5 34. exe5 Hxe5 35. Cb2 Hc7 36. Cd0 Ke9 37. bc3 Hf7
+38. c4 Ea8 39. Ce2 Ce7 40. Cf0 Cd9 41. Ef5 He6 42. Hb3 bc5 43. cb4 Ed6 44.
+bc4 cxc4 45. Hxc4 gxf5 46. Cxf5 Hf4 47. Ee3 Hxe2 48. Axe2 Ef3 49. Rh3 He5
+50. Hxe5 Cxe3+ 51. Ae1 Cxh3 52. Hxf3 Cxb3 53. Hd2 Rb6 54. Hxb3 Rxb3
+{White resigns} 0-1
+

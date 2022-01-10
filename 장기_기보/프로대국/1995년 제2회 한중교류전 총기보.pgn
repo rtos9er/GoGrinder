@@ -1,0 +1,840 @@
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제3국"]
+[White "귀마 김동학 八단(중국)"]
+[Black "귀마 권용필 九단(한국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "179"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Hd7 6. Rh0 Ee6 7. Ed3 c5
+8. Ra4 d5 9. Exg6 hxg6 10. Rg4 Ri6 11. Rh8+ Ke9 12. Rg8 Ce5 13. Ci2 Rh6 14.
+gh3 Rh9 15. Rxg6 Rg9 16. Rxg9 Exg9 17. Hd2 Ade8 18. Ci9 Kd9 19. Ce2 ab6 20.
+Eg5 Ce9 21. Exd7 Axd7 22. Rxb6 Ce7 23. Ci1 He6 24. Hh4 Afe8 25. Hf5 Cc7 26.
+Cd1 Hd8 27. Hh6 -- 28. Hg8 Af8 29. Cg1 Cf7 30. Cxg9 Ra1+ 31. Ke0 Cf9 32.
+hg3 Ri1 33. ih3 Ri2 34. Ke1 Ade8 35. He4 Cxe4 36. Ad1 Ce9 37. Ad2 Cf7 38.
+Ke0 Ri0 39. Ae1 He6 40. Hh6 Cf9 41. Cg1 Cf6 42. Cd1+ Cd6 43. Hf5 Cd4 44.
+Hxd4 Hxd4 45. cd3 Hf5 46. f4 Hg7 47. d4 Ad8 48. dxd5 Ke8 49. dxc5 Ad9 50.
+Rb8+ Kf9 51. Cf1 Ri8 52. fe4+ Ae8 53. gf3+ Af8 54. e5 Hh9 55. cd5 Ri7 56.
+e6 Rc7 57. d6 -- 58. f4 Rc0+ 59. Ad0 Rc2 60. Afe1 Rc4 61. f5 Rc7 62. f6 Ri7
+63. h4 Ri0+ 64. Af0 Ri2 65. Ade1 Ri7 66. h5 -- 67. h6 -- 68. hg6 -- 69. f7
+Rxf7 70. g7 Rxf1 71. Afxf1 Hxg7 72. ef6 He8 73. fe6 Hc7 74. Kd0 Hd5 75. d7
+Hf4 76. Ce0 Afe8 77. d7xe8+ Axe8 78. Rxb9 Kf8 79. ef6 Hd5 80. fg6 Hc7 81.
+Rb4 Ce7 82. g7 Kf9 83. Rh4 Af8 84. Re4 Ae8 85. Rf4+ Ke9 86. gf7 Ad7 87. Rh4
+Kd9 88. Rh9+ Kd8 89. Rh8+ Ae8 90. Ad1
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제5국"]
+[White "귀마 이성준 初단(한국)"]
+[Black "귀마 박경철 三단(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hc2 Ce7 3. ab3 Hc7 4. Ce2 Ef6 5. Ef3 g5 6. Hf2 i5 7. Ra4 Cd7
+8. g4 gxg4 9. Rxg4 i4 10. Ea3 cd6 11. Exd6 exd6 12. Rf4 Ri6 13. Hg4 Hd5 14.
+Re4 de6 15. Rxe6 Cxd0 16. Rxe7+ Hxe7 17. Kxd0 ab6 18. Ae1 Ra4 19. hg3 Rd4+
+20. Ke0 Rd7 21. Ce6+ Kd8 22. Cxi6 Hd5 23. Ci1 Ke8 24. Rf0 Rd6 25. Ca2 Af8
+26. Cd1 Hxc3 27. bxc3 b5 28. Hxf6 Ee6 29. He4 Rc6 30. Rf4 Exc3 31. Hxc3 Kf9
+32. Cf1 Ke8 33. Ce2+
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제19국"]
+[White "귀마 최종윤 九단(한국)"]
+[Black "귀마 윤명준 六단(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hd7 3. Cc2 Ch2 4. Ri2 Ch8 5. Hf1 Ci7 6. Rg2 Ca7 7. Rxa6
+Ri5 8. Ke0 ed6 9. Afe1 Ee6 10. Ci2 Rc5 11. Ra3 Ra8 12. ih3 Ce7 13. Rxa8+
+Cxa8 14. Rc2 Cg8 15. Ei3 Cc8 16. Ee2 Exc3 17. ed3 Ea6 18. Rxc5 cxc5 19.
+Cxb9 Hg7 20. Cbb2 He6 21. gf3 d5 22. hg3 d4 23. de3 g5 24. Add1 h5 25. Cd2
+h4 26. Cd0 c4 27. Eg6 Cc2 28. ed3 dxd3 29. Cxd3 He5 30. Cd0 Hxg6 31. He3
+Cxe3 32. fxe3 g4 33. gf3 h3 34. Hf1 Cc8 35. e4 cd4 36. Cg2 Hi5 37. e5 Hc7
+38. Eb4 de4 39. Af2 Ke9 40. Ce2 Afe8 41. Afe1 Cf8 42. fe3 ef4 43. ef5 Kf9
+44. Ed7 hg3 45. Eg5 f3 46. exf3 gxf3 47. b4 Hh3 48. Hh2 g3 49. Ch0 Hi5 50.
+Hi4 He6 51. Cd0 g2 52. Add2 Hf4 53. Cb2 fe3 54. Cb7 Hh3 55. Cd5 Hh7 56. Cb2
+Ed8 57. Hh6 Hf4 58. Cb9+ Ae9 59. Cxd9+ Ae8 60. fe5 Hh3 61. Exe8 Kxe8 62.
+Cd5 gf2 63. Cd1 f2xe1+ 64. Axe1 Hf6 65. e6 He4 66. Hf5 Hhg5 67. e7+ Ke9 68.
+Hg7 Cb8 69. ed7 Hf7 70. Ci9 Hc5 71. Hh9+ Hg9 72. d7xd8 He6 73. dc8 Hf8 74.
+Hg7+ Hh7 75. c8d8
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제2국"]
+[White "귀마 송종일 八단(한국)"]
+[Black "원앙마 최창학 八단(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. gf3 g5 6. ab3 Hce6 7. c4 Cf7
+8. Hd2 Rh9 9. h4 Ke9 10. Ch2 Ri9 11. Cbe2 Ade8 12. Cf2 Aff8 13. Ke0 Cd9 14.
+Ade1 Rh9 15. Aff1 ih6 16. Ch2 Ei6 17. Ef6 Aff7 18. He4 gf5 19. Hg3 Cf9 20.
+Hi4 Rg9 21. Hxh6 Cxf6 22. Cf2 Cf9 23. Ei3 fg5 24. Cd0 Aff8 25. Cg0 Rh9 26.
+Ch2 Ri9 27. Kf0 d5 28. hg4 gxg4 29. Hxg4 Rh9 30. Rh0 Cd9 31. Ce2 Rxh0 32.
+Hxh0 Cg9 33. Hf6 Hh9 34. Hg2 Aff7 35. Hh4 Ef8 36. Hg6 Hi7 37. Hxi7 Cxi7 38.
+Rd0 c5 39. cxc5 dxc5 40. Rd6 Ce7 41. Cxe6 Exe6 42. Rxe6 a5 43. He4 ab5 44.
+Hd6 Ra2 45. Aff2 Cd9 46. Re5 Ra6 47. Hf5 Rf6 48. Cd0 Ad7 49. bc3 Afe8 50.
+cd3 cd5 51. Re4 bc5 52. Afe2 Cc7 53. Ke0 Cf9 54. Hh4 Rh6 55. Ch0 Rb6 56.
+Hg6 Kd9 57. d4 Cb9 58. dxd5 Exd5 59. Cd0 Ke9 60. Rd4 Cf9 61. Hf4 Cd9 62.
+Eg6+ Af8 63. Re4+ Ce7 64. Re5 Ae8 65. Ei3 Ri6 66. Ef1 Aff7 67. Hd3 Rc6 68.
+Rg5 Cf9 69. Ei3 Re6 70. Rg6 Cf6 71. Cf2 Eg3+ 72. Rxg3 cd5 73. Rg6 Cxe3 74.
+fxe3 Rxe3 75. Rg9+ Cf9 76. Eg6+ Aff8 77. Exe3
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제15국"]
+[White "귀마 이성준 初단(한국)"]
+[Black "원앙마 석호범 七단(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. ih3 ef6 5. Ef3 c5 6. Ri4 Hge6 7. ed3
+Cd7 8. Hf2 Ri7 9. Exc5 Hxc5 10. Rc4 He6 11. He3 Rb9 12. Cxe6 Exe6 13. Ce2
+Ca7 14. Rb0 Rb7 15. He4 Cxe4 16. Rxe4 Ke9 17. Ke0 Afe8 18. Ade1 ih6 19. Rc4
+Ri5 20. Ea3 Kf9 21. Rb2 Hd5 22. Hxd5 Rxd5 23. Ri4 Ci7 24. Rd2 Eg9 25. Cb2
+Re7 26. Cf2+ Ke9 27. Cc2 Cc7 28. Rc4 Rdd7 29. de3 Rxd2 30. Axd2 Cf7 31.
+Rxc9 Rxe3+ 32. Afe1 Re6 33. cd3 ab6 34. bc3 Ei6 35. Rc4 Add8 36. Cf2 Cd9
+37. gf3 Re5 38. Cd0 Ra5 39. Ed1 Eg9 40. de3 b5 41. cd3 bc5 42. Ri4 Ee6 43.
+Cf0 cd5 44. Rc4 h5 45. h4 hg5 46. hg4 gxg4 47. Rxg4 de5 48. Ade2 ef5 49.
+Ri4 fg5 50. Ri3 g4 51. Ri4 g3 52. Ri3 gxf3 53. Rxf3 Cf9 54. Ri3 Rg5 55. ef3
+Rg0 56. de3 Rg5 57. Cd0 Ra5 58. Ri4 Ra0 59. Rc4 Cd9 60. f4 Ra5 61. Cf0 Cf9
+62. e4 Ri5 63. A2f2 Eg9 64. Rc3 Cd9 65. Re3 fe6 66. Rg3 ef6 67. f5 Ei6 68.
+fxf6 gxf6 69. Re3 fe6 70. Aff1 Rg5 71. Cd0 Ef8 72. Eb4 Rg6 73. e5 exe5 74.
+Rxe5 Ei6 75. Ed1 Eg3 76. Cxd8 Ee6 77. Cd0 Ec9 78. Eb4 Ea6 79. Ee2 Rd6 80.
+Eg5 Rg6
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제8국"]
+[White "양귀마 유창식 五단(한국)"]
+[Black "귀마 김동학 八단(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hd2 ed6 5. g4 Ee6 6. cb3 Eg3 7. Ri1 Cxh0
+8. Hh1 Ch2 9. Ri2 Ch7 10. Hxg3 Hf7 11. Ra1 Af8 12. Ke0 Kf9 13. i4 Ade8 14.
+Rai1 Ce9 15. ih4 Rxi2 16. Rxi2 de6 17. Cb4 Rd9 18. Afe1 Rd5 19. Cf4 cd6 20.
+Hf1 Che7 21. Cf0 e5 22. gf4 exe4 23. fxe4 Rg5 24. bc3 Ch7 25. Ri4 Rg0 26.
+hg4 He6 27. e5 Hed8 28. ef5 gf6 29. gf4 fxf5 30. fxf5 Cd7 31. Ri3 Cd9 32.
+Rg3 Rxg3 33. Hxg3 He6 34. fe5 Hg5 35. ef5 Hf3 36. Hc4 d5 37. Hf1 Hh4 38.
+cd3 Hg2 39. Cf3 hg6 40. Hce3 Hf4 41. ab3 Ce4 42. bc3 g5 43. fxg5 Hxg5 44.
+Cf5+ Cf7 45. Hg3 de5 46. Cc5 Hxe2 47. Exe2 Hf3 48. Cc1 Ce7 49. Eh0 Hg5 50.
+Ee2 e4 51. Hg2 ef4 52. Hf5 Ef6 53. Hd6 He6 54. Cc6 Exd3 55. Cxe6 Eb6 56.
+Hxf4 Cd9 57. Hg6 Ad7 58. Hc4 Ee4 59. Hce5 Eh2+ 60. Af1 Ef5 61. cb3 a5 62.
+Hc6 Afe8 63. Hxa5 Ke9 64. Hc6 Cd6 65. Hd4 Ei3 66. Hxe7 Cd8 67. Hc6 Axe7 68.
+Hxd8 Exf1 69. Hc6 Kf9 70. Ae1 Ei3 71. Hd4 Eg6 72. Hf5 Ei9 73. Ec5 Ef7 74.
+Hg7+ Kf8 75. b4 A7d7 76. Ef3 Eh4 77. Hf5 Ef7 78. Eh6 Aed8 79. Ae2 Ke8 80.
+Ce1+ Kd9 81. Hd6 A8e8 82. Ee4
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제7국"]
+[White "원앙마 최창학 八단(중국)"]
+[Black "양귀마 문홍근 七단(한국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 gh6 3. Hg2 Ce7 4. ih3 e5 5. Cf2 Ri8 6. ed3 cb6 7. ab3 Ed6
+8. b4 Rc9 9. c4 hg6 10. He3 Hf7 11. d4 gh6 12. Ke0 Rg8 13. Ade1 Ef6 14. Cd0
+Ea8 15. Ri3 Ad8 16. g4 Kd9 17. h4 Afe8 18. d5 Ce9 19. Aff1 Rc8 20. Ea3 exd5
+21. Hxd5 Ed6 22. Hge3 Ca9 23. Cf0 Ci9 24. Rf3 hg6 25. Ed1 ih6 26. Ri3 Ca9
+27. Hxb6 Hxb6 28. Rxa6 Ha8 29. Ra3 Cxa3 30. Exa3 Cd7 31. gf4 g5 32. fe4
+Exc4 33. bxc4 gf5 34. hg4 fg5 35. ed4 Exg4 36. Cxf7+ Ae7 37. Ri9+ Ke8 38.
+Cf0 Ad9 39. Hxg4+ Kd8 40. He5 gf5 41. Hxd7 Rxg0 42. Hc5 Rb8 43. Ed1 Hb6 44.
+Eb4 hg6 45. Ri5 fg5 46. Ri3 Ade8 47. Re3 A7f7 48. Re6 Hc8 49. Rxg6 Rb6 50.
+Rg9 Rc6 51. Kd0 Hd6 52. Ed1 Hf5 53. Ce0 Hxd4 54. cxd4 Rxc5 55. Cd2+ Ad7 56.
+Rg8+ Kd9 57. dc4+ Rd5 58. Rg9+ Kd8 59. c5 Rd3 60. c6 Rd5 61. c7 Ae7 62. c8+
+Ke8 63. Aef0+ Re5 64. Cxg0 gf5 65. Ce0 f4 66. A0e1 Rd5 67. Cf0 Rd4 68. Ce2+
+Af7 69. Ke0 fg4 70. Ea3 Ra4 71. Cd0
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제11국"]
+[White "원앙마 윤명준 六단(중국)"]
+[Black "양귀마 문홍근 七단(한국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hf7 2. Ce2 cd6 3. ih3 Ce7 4. ab3 e5 5. Hc2 dc6 6. ed3 gh6 7. Ri4 Hd7
+8. Cd2 Ra8 9. Ee3 cb6 10. Rg4 Ef6 11. Rg8+ Af8 12. Ke0 Exd3 13. cxd3 Cxb3
+14. Afe1 Rc8 15. Hd4 Cb8 16. Ea3 Kf9 17. Cf0 Ca7 18. He6 Ce7 19. Rc0 Rxc0
+20. Rxf8+ Ke9 21. Rxf7 Rc8 22. Add1 Ae8 23. Rf4 Cd8 24. d4 Rc3 25. d5 exd5
+26. Exd5 Cxd5 27. Hg5 Rd3 28. Hh7 Rh9 29. Hf6 Cd8 30. Hxe8 Kxe8 31. gf3 Cd5
+32. Hh4 Ke9 33. Hf5 Cxd1 34. Hxe7 Exe7 35. Rf7 Rxe3 36. Rxe7+ Kd9 37. Rxd7+
+Cd8 38. fxe3
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제6국"]
+[White "원앙마 석호범 七단(중국)"]
+[Black "귀마 임춘택 二단(한국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hc7 2. Ce2 ab6 3. ih3 Ce7 4. Hg2 Ef6 5. h4 cd6 6. hg4 Hf7 7. Cf2 Ce9
+8. ef3+ Che7 9. Ke0 ih6 10. Ei3 Ri5 11. cb3 Ea6 12. Afe1 Rc9 13. Ee3 Af8
+14. Add1 Hb9 15. Add2 Rc7 16. Cd0 Rh5 17. Ri1 Cc9 18. Ra2 Cf9 19. Cf0 Hd8
+20. gf4 Ri5 21. f5 Ri7 22. f4 Ke9 23. g4 Afe8 24. a4 Rb7 25. Cc0 bc6 26.
+ab4 Ec9 27. Add1 Af8 28. Ra8 Ade8 29. Rc8 Kd9 30. b5 Ra7 31. Cf0 Ke9 32.
+ba3 Ri8 33. Ca0 Rb7 34. a4 Cg7 35. Cf0 Rc7 36. Ra8 cb6 37. Add2 Ce7 38. Cc0
+bc6 39. b6 d5 40. a5 ed6 41. Rb8 Rc8 42. Rxc8 Exc8 43. bxc6 Hxc6 44. ab5
+Hd4 45. Hxd4 dxd4 46. Cxc9 d3 47. Cc0 Cd9 48. Add1 d5 49. bc5 dxe3 50. Hxe3
+dxc5 51. Cxc8 Ci9 52. Cc0 Kf9 53. Hg2 cd5 54. Cf0 Ke9 55. Rh1 de5 56. Rh3
+exf5 57. fxf5 Cd9 58. He3 Ad8 59. gf4 Afe8 60. fe5 Ri5 61. f5 Cd3 62. Hg4
+Ri4 63. Hxh6 Hxh6 64. Rxd3 Hg4 65. Ef1 Ri0 66. Rg3 Hi5 67. e6 Ce4 68. Ei3
+gh6 69. Rg9+
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제18국"]
+[White "원앙마 석호범 七단(중국)"]
+[Black "귀마 유창식 五단(한국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "127"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Ed6 4. Hc2 ab6 5. Cd2 ef6 6. ed3 Ra5 7. He3
+Rc5 8. Ei3 Ee6 9. Hd5 ih6 10. Rg0 Ri5 11. Ad1 Re5 12. Rg2 Rf5 13. Ke0 Cb5
+14. He3 Rh5 15. ab3 Hd7 16. b4 Cg5 17. Rf2 Exc3 18. Ra8+ Ad8 19. d4 Ea6 20.
+dc4 Ra5 21. Ea3 Ci5 22. Ca2 Ci0+ 23. Ae1 Rag5 24. Cd2 c5 25. Rc8 cxc4 26.
+bxc4 Rb5 27. Cd0 fe6 28. Ri2 Ci7 29. Rh2 Ce7 30. h4 Rhg5 31. Ri2 Rxg3 32.
+Rxi0 Ri5 33. Hf5 Rgxi3 34. Rxi3 Rxf5 35. Hd4 Rg5 36. c5 Ea4 37. c6 bxc6 38.
+Hxc6 ed6 39. Hb4 Hb6 40. Rb8 Rb5 41. Hc2 -- 42. hg4 gf6 43. Hd4 Rb2 44. Kf0
+hi6 45. Rh3 Af8 46. Rh8 Hc4 47. Rxb2 Hxb2 48. Hb3 dc6 49. Add2 Ed6 50. Cxb2
+Exb3 51. Cdf2 fe6 52. Cb8+ Ke9 53. Rxf8 cd6 54. Rg8 He8 55. gf4 ef6 56.
+Cxf6 Ee5 57. Rg4 Ec3 58. Cf2 Ad7 59. Rh4 Hg7 60. fe4 Eh7 61. Cd0 Ee6 62.
+Rg4 Hf5 63. ef4 Exf4 64. Rxf4
+{Black resigns} 1-0
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제1국"]
+[White "귀마 이근 八단(중국)"]
+[Black "귀마 최종윤 九단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Ra4
+Ke9 8. Ad1 Ria8 9. ih3 ab6 10. Rxa8 Rxa8 11. Ri4 Hf8 12. Ce4 Ade8 13. Cf2
+Kd9 14. Cd0 Ce9 15. Ke0 Ad8 16. Ce2 Afe8 17. Afe1 Cb7 18. c4 Cc9 19. Ed3
+Ra0 20. f4 Rb0 21. cb4 c5 22. f5 d5 23. gf3 Cg7 24. Hi1 Cf9 25. fe5 dxe5
+26. bc4 ed5 27. cxc5 dxc5 28. Af1 Ed6 29. Ade1 Ra0 30. hg3 Cb7 31. b4 Cg7
+32. Rd4 Ea8 33. ba4 Exg3 34. fxg3 Cxg3 35. Ea5 cb5 36. Ec8 Cg7 37. Rd5 bc5
+38. Rd4 Cc7 39. Hb3 Ce7 40. a5 Ke9 41. Re4 gf6 42. Hg2 He6 43. Rh4 hg6 44.
+Cxe6 fxe6 45. Exg6+ Af8 46. Ee3 Ade8 47. Hd4 cd5 48. He2 Rxa5 49. Eh5 Cxe2+
+50. Axe2 Cxf1 51. He3 Cf9 52. Rb4 Rc5 53. Ae1 Ed6 54. Ef2 de5 55. Rc4 Rb5
+56. Hc2 Rb3 57. Hd4 Re3 58. Hxe6 Cxf2 59. Ri4 Eb3 60. Ri1 Exd0 61. Ri9+ Cf9
+62. Hg7 Eb3 63. Ri1 Rc3 64. Ad0 Rc0 65. Rd1 Cd9
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제4국"]
+[White "귀마 정연기 三단(한국)"]
+[Black "귀마 이근 八단(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 ef6 5. Hf2 Ee6 6. cd3 Hf7 7. Af1
+Af8 8. Kf0 Ce9 9. Ade1 Kf9 10. Ch4 Cg9 11. Ch0 Ra5 12. g4 Ade8 13. gf4 Hb9
+14. a4 Ra8 15. Cd0 Hbd8 16. fe4 f5 17. Ke0 ih6 18. Rxi9 Cxi9 19. Hd4 Ef6
+20. Hb3 Ca7 21. Ea3 g5 22. Hd2 Cd9 23. h4 Ch9 24. hg4 gxg4 25. Ei5 hg6 26.
+Hxg4 Cg7 27. Hxf6 Rxa4 28. Cf0 gxf6 29. Exf7 Aexf7 30. e5 fxe5 31. Cxf6 ef5
+32. Cf2 Eh4 33. Cc2 Ce7 34. Kd0 Cd9 35. Cf0 f4 36. Cg2 fe4 37. Ed1 Rc4 38.
+Ra9 Ke9 39. Ra3 exe3 40. dxe3 Rg4 41. Cc2 Exf1 42. Hxf1 He6+ 43. ed3 Re4
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제12국"]
+[White "귀마 임춘택 二단(한국)"]
+[Black "귀마 김동학 八단(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Af8 5. Rb1 Kf9 6. Rd1 Ade8 7. Rd4
+Ra5 8. Af1 i5 9. Ef3 Ef6 10. Hf2 Hf7 11. Kf0 g5 12. Ade1 i4 13. Ce0 Rg9 14.
+Cg0 Ri9 15. Cd0 Ce9 16. ab3 Che7 17. Ea3 Ci7 18. Rh0 Cd7 19. Rf4 i3 20. Rh4
+ixh3 21. gxh3 Cg9 22. Ce2 cd6 23. Ke0 Cd9 24. Rc4 Cg7 25. Rh4 Ce7 26. Rc4
+Ra7 27. Cg0 Ea6 28. Ca0 e5 29. Rf4 ef5 30. Rb4 Hd5 31. Rh4 f4 32. hg3 Rc7
+33. Cf0 Exc3 34. Cc0 Hxe3 35. bxc3 Hxc2 36. Rxf4 de6 37. Ra4 Rd7 38. Ra9
+Ke9 39. Kf0 Rd4 40. Cg0 Rdi4 41. Ec0 Ri1 42. g4 Rg1 43. gxg5 Rxg5 44. Ra2
+Hxe1 45. Axe1 Rg3 46. Ec5 Rxc3 47. Exe8 Axe8 48. Ra9 Ei4 49. Hg4 Rg3 50.
+Ra4 Rg9 51. Ke0 R3xg4 52. Rxg4 Rxg4 53. Cd0 Re4 54. Rh2 ed6 55. Ea3 Hg5 56.
+Kf0 Hf3 57. Rh7 Cf9+ 58. Cf2 Exf2 59. Rxe7 Rxe7 60. Ed1 Hd4+ 61. Ef4 Hxe2
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제20국"]
+[White "귀마 이근 八단(중국)"]
+[Black "귀마 송종일 八단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "176"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ri8 7. Af1
+gh6 8. Ri4 Rg8 9. Rc4 Ee6 10. Exc6 bxc6 11. Rxc6 Rc9 12. g4 Kf8 13. ab3
+Afe8 14. He3 Ce9 15. Ra4 Rb9 16. Hd5 Rb7 17. Hxc7 Rxc7 18. Rxc7 Cxc7 19.
+Ef3 Ch7 20. Ke0 Kf9 21. Ade1 hg6 22. Ra5 Ri8 23. Ch4 ih6 24. Cd4 Ri0+ 25.
+Aff0 Af8 26. Cd0 Ade8 27. d4 Ri4 28. Ec1 Cg9 29. Aff1 Ce7 30. cd3 Cxg4 31.
+Hxg4 Rxg4 32. Ri5 Rg5 33. Ri9 Ce9 34. bc3 Rh5 35. hi3 Ra5 36. Kf0 Ra1 37.
+Ce0 Rxc1 38. Ch0 Ec9 39. Cxh9 Ea6 40. Ri5 Rc0 41. Ch0 Exd4 42. dxd4 Rxc3
+43. Ce0 Rd3 44. de4 Hh8 45. Ri8 Hi6 46. Ce2 Rxi3 47. Ke0 Re3 48. ef4 Aef7
+49. Aff2 Hh4 50. fg4 Hg2 51. Ri2 Hi3 52. gf4 Hh5 53. Cf0 Hg3 54. Rg2 Rc3
+55. Kd0 g5 56. Rh2 hg6 57. Ce0 Rd3+ 58. Ad1 gh5 59. fg4 Rd5 60. Ae1 Ch9 61.
+Rg2 Rd3 62. Ce2 Cd9 63. Ke0 Cg9 64. Cd0 Re3 65. Cg0 Hxe2 66. Axe2 g5 67.
+Rf2 Cxg4 68. Ade1 f5 69. Cd0 Cg9 70. Cf0 Re5 71. Ri2 Ce9 72. Kd0 h4 73.
+A2d2 hg4 74. Ri3 gf4 75. Ra3 Rd5 76. Cxf5 gxf5 77. Ra9 A7e8 78. Rxe9+ Kxe9
+79. Kd1 fe4 80. Kd0 e3 81. -- ed3 82. Kd1 f4 83. Aee2 f3 84. Ke1 Ri5 85.
+Ad1 Ri1+ 86. Kd0 fe3 87. Af2 Ri0+ 88. Ke1 Ra0
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제21국"]
+[White "귀마 이근 八단(중국)"]
+[Black "귀마 권용필 九단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Hd7 6. Ed3 d5 7. Ra4 Ed6
+8. Rf4 Ad8 9. Hd2 ab6 10. Ad1 He6 11. Cxe6 Exe6 12. Ce2 Ce5 13. Rg4 gf6 14.
+Rh0 Rh9 15. f4 d4 16. f5 fxf5 17. Rxd4 Hf8 18. Rd5 Rg9 19. ih3 Ce7 20. Rxf5
+Exg3 21. hxg3 Rxg3 22. Rh2 Ad7 23. Exb6 cxb6 24. He4 Rg6 25. Hf6+ Kd8 26.
+Hd5 Ra5 27. Hgf4 Afe8 28. Af1 He6 29. Ri5 Hxf4 30. Exg6 Eg4+ 31. Af2 hxg6
+32. Ce0 Hxd5 33. Rhh5 Ce9+ 34. Cxe8 Axe8+ 35. Kf1 He3+ 36. Ae2 Ra1 37. Rd5+
+Hxd5 38. Rxd5+ Ad7 39. Af2 Cf7+ 40. Ke1 gf6
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제9국"]
+[White "귀마 송종일 八단(한국)"]
+[Black "원앙마 석호범 七단(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Hf2 ef6 5. cd3 Cd7 6. Ef3 He6 7. ih3
+Ke9 8. g4 Afe8 9. Ke0 Add8 10. Ade1 Cd9 11. Aff1 c5 12. Kf0 Ra8 13. Ce0 Ca7
+14. Ea3 ab6 15. Rc0 Ce7 16. Cd2 Ea6 17. Ca0 Cf9 18. gf4 Cxf4 19. Ec6 Rb8
+20. Exf4 Hxf4 21. hg3 Hfe6 22. g4 Rh9 23. Ce0 b5 24. Rh0 Rxh0+ 25. Cxh0 Ra8
+26. Cg2 c4 27. Cd0 bc5 28. e4 Rb8 29. Rb0 cd5 30. b4 d4 31. dxd4 cxd4 32.
+exd4 Hxd4 33. Hxd4 Exd4 34. Ce2 Ee6 35. Rc0 Exb4 36. Rc4 He6 37. Ec1 ih6
+38. Ee4 Eb1 39. Ch2 Ed4 40. Rc9+ Add9 41. Ch9 Ed7 42. Rc3 Rb0 43. Ch2 h5
+44. Rd3 hg5 45. gxg5 gxg5 46. Rg3 f5 47. Ra3 Hf4 48. Cd2 fe5 49. Rg3 exe4
+50. Hd1 Rb5 51. Aff2 Hh5 52. Ra3 g4 53. Cg2 gf4 54. Ce2 Rg5 55. Rh3 Eb4 56.
+Ch2 Hg3 57. Cc2 f3 58. Hc3 fxf2 59. Axf2 Rf5 60. Cc9+ Ad8 61. Rh9+ Af9 62.
+Cxf9 Rxf2+ 63. Cf1+ Rf9 64. Rxf9+ Kxf9 65. He2 Cxe2 66. Ke1 Ce7+ 67. Kd2
+Hxf1#
+{Black mates} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제10국"]
+[White "귀마 최종윤 九단(한국)"]
+[Black "원앙마 최창학 八단(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 g5 7. Ra4
+Cf7 8. Rc4 Ra7 9. Ee3 Rc7 10. Rb4 Ke9 11. Hd2 Ade8 12. g4 gf5 13. gf4 fg5
+14. Hh4 Ci7 15. Rg0 ih6 16. Cxe6 Hxe6 17. Ce2 h5 18. Hf5 gxf5 19. fxf5 Kd9
+20. f6 Ce9 21. Rg8 Hf8 22. Eg6 Rh9 23. Kd1 -- 24. Ade1 de6 25. Rd4+ ed6 26.
+Ee3 Ad8 27. Cc2 Afe8 28. Rxd6 cxd6 29. Cxc7 d5 30. Rg4 Rh7 31. Cc2 Ece6 32.
+Rxg9 Exc3 33. bxc3 d4 34. Ec6 Rc7 35. Rg4 dxd3 36. cxd3 Rxc6 37. Cf2 Rc7
+38. Aff1 Cb7 39. Rd4 Hh7 40. hg3 hg5 41. Rd6 a5 42. -- Cd7 43. Cf0 ab5 44.
+Kd0 b4 45. Ad1 bc4 46. fe3 c3 47. dxc3 Rxc3 48. gf3 g4 49. Afe1 gf4 50.
+fxf4 Rxe3 51. fe4 Hg5 52. Rd4 Cd3 53. Cc0 Aed7 54. ef4 A7e8 55. fe4 Cxe4
+56. Ce0 Ri3 57. Rxe4 Hxe4 58. Cxe4
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제16국"]
+[White "귀마 이성준 初단(한국)"]
+[Black "원앙마 최창학 八단(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Hf2 ef6 5. ih3 c5 6. Ke0 Hge6 7. Ri1
+Cd7 8. cd3 Ke9 9. Ade1 Afe8 10. Ca2 Rb9 11. b4 ab6 12. Ee2 Ea6 13. Aff1
+Add8 14. Cd2 Cf9 15. Cf0 b5 16. g4 Cc9 17. Ra2 bxb4 18. Hxb4 cb5 19. Hc2
+Ca9 20. Ea3 Ca5 21. Rb2 Cb7 22. Hb4 bxb4 23. Rxb4 Ce7 24. Rxb9+ Hxb9 25.
+Eb4 Hc5 26. Ead1 Ca9 27. Ce2 Cd9 28. gf4 Hc7 29. hg3 Hxd3 30. exd3 Cxd3 31.
+g4 Cd9 32. fe4 Rh9 33. Cd0 Rh5 34. Ri3 Rc5 35. gf4 ih6 36. Ri7 Rc0 37. Ea3
+Ra0 38. Ri3 Ee6 39. Exe6 fxe6 40. Kf0 gf6 41. Ce0 Hb5 42. Ed1 Hc3 43. Ri5
+hg6 44. Rc5 Ra4 45. Rc6 Hb1 46. Rc1 Hc3 47. Rc2 Cf9 48. Hd3 Rc4 49. Cf2 Cd9
+50. Hc1 Ra4 51. Ha2 Hxa2 52. Cxa2 g5 53. Cf2 Ra0 54. Cd0 g4 55. fxg4 Cxe4
+56. gf4 Ce7 57. Ce2 Cf9 58. Ke0 Ra5 59. Cf0 Add7 60. Rc3 Ra2 61. Ri3 Cd9
+62. Eb4 Rb2 63. Ra3 Ed4 64. Exe6 fxe6 65. Aff2 Rb6 66. Ri3 Rc6 67. Ad1 Ea6
+68. Afe1 Rc1 69. Add2 Af9 70. Ri1 Ec3+ 71. Add1 Rc2 72. Ri2 ed6 73. Rf2
+Ade8 74. Cd2 Ee6 75. Rf3 Rb2 76. Ra3 d5 77. Ra7 Aff8 78. Ra6 Eb4 79. Rb6 d4
+80. Rb7 Aff7 81. f5 d3 82. f6 dxd2 83. Rxe7 Rb0+ 84. Add0 Axe7
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제13국"]
+[White "맞상 이영파 初단(중국)"]
+[Black "맞상 송종일 八단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "72"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. Ce2 Ce7 3. ed3 ab6 4. ih3 Hd7 5. Ef3 Ke9 6. Hc2 Afe8 7. Ee3
+gf6 8. Eh6 Ci7 9. Rg0 ixh6 10. Cd2 Ed6 11. gf3 Add8 12. Exc6 bxc6 13. Rb0
+cb6 14. Cxd6 Cxb0 15. Rxg7 Cb7 16. Rg8 Ra8 17. Cd1 Cc7 18. He3 Cf7 19. Hd5
+Kf9 20. hg3 Rxa3 21. Hxb6 Hxb6 22. Cxd8 Af8 23. Cd1 hg6 24. Cd9 Hd7 25.
+Cxg9 Ce7 26. Cd9 Ke8 27. Cd4 He5 28. Cd1 Ra2 29. fe3 Rc2 30. e4 Hc6 31. g4
+Cxf2 32. Kxf2 Ri2+ 33. Kf1 Rcxe2 34. Afe1 Rxe4 35. Rh8 Rxg4 36. Rh1 Rf4+
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제14국"]
+[White "원앙마 오국안 六단(중국)"]
+[Black "귀마 최종윤 九단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Hc2 Ce7 3. Che2 ab6 4. ih3 Ef6 5. g4 Hf7 6. h4 Af8 7. Ke0 cd6
+8. Ade1 Ad8 9. Cd2 Ea6 10. ab3 Rac9 11. Ra4 ih6 12. Rxi9 Rxi9 13. Rc4 Ce9
+14. ef3+ Kf9 15. f4 e5 16. Ra4 Cg9 17. Ra1 Ade8 18. Kd0 d5 19. Ei3 g5 20.
+Ci2 Rh9 21. He3 gxg4 22. hxg4 Ce7 23. Cb2 b5 24. Cf2 Ei4 25. Cxi4 Ri9 26.
+Ci1 Rxi3 27. Cd1 Ri0 28. Ea3 hg6 29. Cg1 Cd9+ 30. Ke0 gh6 31. Cb2 Ch7 32.
+Cf2 Ri3 33. Cg7 He6 34. Cg2 Ce7 35. Ec0 Ed8 36. Cd0 d4 37. Cb2 de4 38. Hf1
+exf4 39. gxf4 e4 40. fxe4 Cxe4+ 41. Ee3 Ce7 42. c4 Hf4 43. Ra4 Hd3 44. Cd2
+Hde5 45. cd4 Hg4 46. Cb2 Cg9 47. Cg2 Ri2 48. Hh0 Rh2 49. Af1 Rh3 50. d5
+Hxe3 51. Hxe3 Rxe3 52. Kf0 Rxb3 53. d6 Cd9 54. Ra9 Rd3 55. de6 Ce9 56. ef6
+Hd6 57. Aff2 He4 58. Hf1 Hxf6 59. Ce2 Hh5 60. Ad2 Rf3 61. Afe1 Cf7 62. Cf2
+Ri3 63. Ke0 Hg3 64. Cf0 Hxe2 65. Rxe9+ Kxe9 66. Adxe2 Cf9 67. Kd0 Cxf1 68.
+Axf1 Ea6 69. Afe1 Re3 70. A2d2 hg6 71. Add1 g5 72. Add2 g4 73. Ke0 g3
+{White resigns} 0-1
+
+[Event "제2회 한중교류전"]
+[Site "중국"]
+[Date "1995년"]
+[Round "제17국"]
+[White "원앙마 김동학 八단(중국)"]
+[Black "귀마 송종일 八단(한국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Ci7 4. Rh0 ih6 5. Cbe2 Ce7 6. Cf2 Ed6 7. ed3
+Ri5 8. He3 Rb5 9. Ke0 gf6 10. g4 Rb1 11. Ade1 Ei6 12. h4 ab6 13. g5 Ra5 14.
+hg4 h5 15. gxh5 Hxh5 16. gh4 Hg7 17. Ei3 Hd7 18. Aff1 Ad8 19. Cd0 Rc1 20.
+Cg0 Hh9 21. hg4 Hf8 22. Rh6 Eg3 23. Cxg3 Ef3 24. Rh8 Rxa3 25. Cg0 Rxa0 26.
+Kf0 Cb0+ 27. Cge0 Rxc0 28. gf4 Kd9 29. Rh3 Ei5 30. Ci2 ed6 31. fe4 He6 32.
+Hd1 Cb9 33. Cxi5 Cxe4 34. Ci2 Ce7 35. Ce2 Afe8 36. Rh6 Rc2 37. Hde3 Cxe3
+38. Hxe3 Cf9 39. Rh9 Hdf8 40. Ri9 Hh7 41. Rh9 Hef8 42. Rxf9+ Axf9 43. Aff2
+Rb2 44. Ci2 Rb5 45. Cd2 Ri5 46. Hg2 Hg5 47. de3 Hh3 48. cd3 Hxf2 49. Axf2
+Rg5 50. Ke1 Rg3 51. Kf0 He6 52. Ke1 Hf4 53. Hh0 Rxi3 54. Cf0 Hxd3+ 55. exd3
+Rxd3 56. Ce2 Rdd0+
+{White resigns} 0-1
+

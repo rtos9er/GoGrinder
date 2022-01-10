@@ -1,0 +1,1416 @@
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 1경기 [천안지부 對 중구지부] - 2회전"]
+[White "조귀철 [중구지부]"]
+[Black "김정건 [천안지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "193"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hc7 3. Ce2 Ri8 4. Hc2 Ce7 5. c4 ed6 6. ef3 Hf7 7. b4 Ee6
+8. Cd2 Ra8 9. Ke0 ab6 10. Rb0 Ke9 11. Afe1 Rag8 12. Cf0 Afe8 13. Hge3 gf6
+14. ih3 Exg3+ 15. fxg3 Rxi0 16. Cxi0 fe6 17. Rb3 Ef6 18. Hg4 Cxh3 19. gxh3
+Rxg4 20. hg3 Rg5 21. Cf0 Add8 22. Ei3 c5 23. Ef1 Af8 24. Add1 Ade8 25. Cd0
+Kf9 26. gf3 Ce9 27. f4 cxc4 28. bxc4 b5 29. Rf3 Ri5 30. f5 Ei8 31. Cf0 Ch9
+32. Rg3 Cd9 33. He3 h5 34. Rg7 Ri0 35. cd4 bc5 36. Rh7 hg5 37. Rh3 ef6 38.
+fxf6 Exf6 39. Rf3 Ei8 40. Rh3 He6 41. de4 cd5 42. Eh4 Ef6 43. Rg3 gh5 44.
+Exe6 dxe6 45. ef4 de5 46. Hc4 Rh0 47. fg4 e4 48. Cxe6 ed4 49. Ha5 Hd8 50.
+Ch6 hi5 51. Cd6 Ke9 52. Cd2 d3 53. Cxd8 Axd8 54. Hc6 Afe8 55. Rf3 Eh9 56.
+Rf5 ih5 57. Re5 Ad7 58. Hb8 Ad8 59. Ea3 Ee7 60. gf4 Rh2 61. Hc6 Add7 62.
+Ec0 Rc2 63. Hxe7 Adxe7 64. Rxh5 Rc1 65. f5 Af9 66. Rh3 dc3 67. f6 Aee8 68.
+Re3 -- 69. Aed2 c2 70. Ef2 cxd2 71. Axd2 Rf1 72. Ae1 Rh1 73. fe6 Rh7 74.
+Ec0 Rc7 75. Ea3 Aff8 76. ed6 Af7 77. Ec6 Afe7 78. Cc0 Rxc6 79. dxc6 A7d7
+80. Ra3 Cf9 81. cd6 Ade7 82. de6 A7d7 83. Cf0 Add8 84. Ra7 -- 85. e7 Axe7
+86. Rxe7+ Ae8 87. Re4 Kd9 88. Cd2 Cc9 89. Kd0 -- 90. Af2 -- 91. Rd4+ Ke9
+92. Cg2 Kf9 93. Ce2 Cg9 94. Re4 Af8 95. Re7 Ce9 96. Ae1 Ch9 97. Ce0
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 2경기 [인천지회 對 전북지회] - 1회전"]
+[White "김동학 [인천지회]"]
+[Black "김준호 [전북지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "69"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hg7 3. Ce2 Hc7 4. Hf2 Che7 5. Ef3 Cd7 6. gh3 ef6 7. Exh6
+gxh6 8. Cxh6 He6 9. Rg0 Ke9 10. Ra4 Ade8 11. Rg8 Aff8 12. Rag4 Cf9 13. Rxg9
+Rxg9 14. Rxg9 fg6 15. Ch0 ab6 16. Ea3 gf6 17. Ad1 Ra5 18. Kd0 Hd4 19. ed3
+Hde6 20. Afe1 Ea6 21. Ca0 Rc5 22. Cf0 f5 23. Ce0 f4 24. hg3 Rg5 25. Rxg5
+Hxg5 26. Cxf4 Cd9 27. Cf0 Hge6 28. Ce2 Hc5 29. He3 H5e6 30. Hf5 Ce5 31. Hg4
+Cf9 32. Hxe5 Cxf5 33. Exc6 Cd5 34. Cxe6+ Kd9 35. Cxb6
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 2경기 [인천지회 對 전북지회] - 3회전"]
+[White "최성욱 [인천지회]"]
+[Black "이래원 [전북지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Hg7 3. Hd2 Cbe7 4. Cbe2 ed6 5. ab3 Hce6 6. ef3 Ra7 7. Ee3
+g5 8. Cf2 Cf7 9. Ri4 Rc7 10. Ra2 Af8 11. Ke0 Ke9 12. Ade1 Ade8 13. Cd0 Cd9
+14. Aff1 i5 15. Rb4 ih5 16. Kf0 Ri6 17. hi3 Ca7 18. Rb2 Ce7 19. Cc2 Cd5 20.
+c4 Ra7 21. Rb9 ab6 22. Rxc9+ Cd9 23. Ccf2 gf5 24. Ed3 Ra0 25. Rb1 Ra6 26.
+Ec0 Kf9 27. Ea3 Ra7 28. Exb6 cxb6 29. Cxd6 Ri8 30. Cf6+ Ke9 31. Cxb6 Kf9
+32. Cf6+ Ke9 33. Cd6 Kf9 34. Ec6 Ad8 35. Cdd0 Afe8 36. Ci2 Rh8 37. Ce2 hg5
+38. ih3 Ri8 39. Ke0 Ce9 40. Rb9 Rc7 41. Rb6 Cd6 42. Ee3 Cd9 43. Rc6 Ra7 44.
+bc3 Ce7 45. Rc9 Ke9 46. cd4 f4 47. Eb5
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 3경기 [화성지부 對 경북지회] - 1회전"]
+[White "이동준 [경북지회]"]
+[Black "독고훈 [화성지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Hg2 ih6 4. Che2 Ri8 5. ef3+ Che7 6. Ke0 ed6 7.
+Hge3 Ee6 8. Cd2 Cd7 9. Afe1 Ke9 10. Cf0 Afe8 11. f4 Cf9 12. g4 Add8 13. Af1
+ab6 14. Rxa9+ Cxa9 15. c4 Cf9 16. Ade1 g5 17. gxg5 Hxg5 18. Rh0 Hf7 19. Hf5
+Ch7 20. Hxh6 Cxh0 21. Hxi8 Cxf4 22. Hg7 Kd9 23. ih3 Ch7 24. Ege3 Cf8 25.
+Hxh9 Cf3 26. Hg7 Cxb3 27. Eg6 He5 28. Exd8 Axd8 29. cd4 Cd7 30. Ee3 Hg4 31.
+Eg6 Ca7 32. Hi6 Ae8 33. Cc0 Cb9 34. Cc4 Hi5 35. Cxc7 Hxg6 36. Hg7 Ad8 37.
+Cc4 Ad7 38. Hi6 Cf9 39. Hg5 Cg7 40. Hi6 Cc7 41. He3 c5 42. Cg4 Hi5 43. hi3
+bc6 44. i4 Hg6 45. Hg5 Hf8 46. Ca4 Ce7 47. Hc2 cd5 48. Cf4 dxd4 49. Cf0 Hg6
+50. Hxd4 d5 51. Hxe6 dxd4 52. Hxd4 He5 53. Cd0 c5 54. Hc6+ Hd3 55. Hxe7+
+Kd8 56. Hxf9+ Ke8 57. Hg7+ Kd8 58. He6+
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 3경기 [화성지부 對 경북지회] - 4회전"]
+[White "김성훈 [경북지회]"]
+[Black "김유 [화성지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ri4 ab6 4. Hc2 Ed6 5. Cbe2 Ad8 6. ed3 Hd7 7. Ece3
+gf6 8. Cf2 Kd9 9. Rc4 Rc9 10. a4 c5 11. Rg4 Ri7 12. ab4 Afe8 13. c4 Ce9 14.
+d4 e5 15. Ri4 i5 16. Ri1 f5 17. Ke0 cxc4 18. dxc4 Ri6 19. Rd1 ih5 20. Ade1
+Cbe7 21. Cd0 Eg8 22. Ra8 Rc7 23. Rda1 ed5 24. Ei3 hg5 25. Aff1 He6 26. Ci0
+Ei5 27. h4 Hf4 28. gf3 Hh3 29. fg3 Hg1 30. Exf5 gxf5 31. Cxi6 Exg2 32. R1a5
+fe5 33. Eg6 Af8 34. Cxb6 Rc6 35. Cb0 Rxg6 36. Cf0 Afe8 37. Ra9+
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 4경기 [송파지부 對 울산지회] - 1회전"]
+[White "정원직 [송파지부]"]
+[Black "박인락 [울산지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "49"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Ef3 Ra5 9. Af1 Exg3 10. hxg3 Rg5 11. Rag0 gh6 12. g4 Rgg8 13. Kd0
+Ke9 14. Afe1 Ade8 15. Ce0 hg6 16. Ri4 ih6 17. Rgi0 Rxi4 18. Rxi4 g5 19.
+gxg5 Rxg5 20. Cd2 c5 21. Ra4 Aff8 22. Ra9+ Ad9 23. Rc9 Cb7 24. Ec6+ Kf9 25.
+Cxd9
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 4경기 [송파지부 對 울산지회] - 2회전"]
+[White "이광훈 [울산지회]"]
+[Black "이성현 [송파지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "207"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ri5 8. Kf0 Kd8 9. Ci2 Exc3 10. bxc3 Rc5 11. c4 Rb5 12. Cif2 Ce2 13. Exe2
+Rxb2 14. Ade1 Cb0 15. Ri2 Cb7 16. Exc6 dxc6 17. Eg5 Rb5 18. Exd7 Kxd7 19.
+Cd0+ Ke8 20. ih3 Ee7 21. Ri4 Ke9 22. He3 Ade8 23. Ke0 Cf7 24. Cf2 g5 25.
+Rf4 Hf5 26. Re4 Hxe3 27. fxe3 gf5 28. Re6 cb6 29. Rxh6 Rd9 30. e4 Rd3 31.
+Re6 Cd9 32. Hf3 Re3 33. Rc0 Cf7 34. c5 Rb4 35. Cxf5 Rexe4 36. Rxe4 Rxe4 37.
+Hd2 Rd4 38. Cf0 Cd9 39. Hf3 Rc4 40. Rxc4 Exc4 41. He5 Exe1 42. Axe1 a5 43.
+g4 ab5 44. cxb5 bxb5 45. h4 bc5 46. g5 cd5 47. Hf3 Aff8 48. h5 Cf9 49. Hh4
+de5 50. h6 -- 51. Hg6 Aff7 52. Hxe5 Aff8 53. g6 -- 54. Hg4 -- 55. Af2 Kd9
+56. Ke1 -- 57. gf6 Ke9 58. hg6 Kd9 59. fe6 Cc9 60. gf6 -- 61. He5 -- 62.
+Hc6 -- 63. Ae2 Cf9 64. Cd2 Ke9 65. Hb8 -- 66. Af2 Cb9 67. Cg2 Kf9 68. Ce2
+Cg9 69. Hc6 Ce9 70. He5 Cg9 71. Hg6 Cc9 72. e7 -- 73. e7xe8+ Axe8 74. Hh8+
+Kf8 75. Cg2 Ae7 76. Hg6+ Ke8 77. fe6 Ad7 78. Ce2+ Kf7 79. Ce0 Ke8 80. Kd0+
+Kd9 81. ed6 Ae8 82. Ke1 Ce9+ 83. Cxe8 Kxe8+ 84. Kf1 -- 85. Hf4 -- 86. Hh5
+Ce7 87. Hf6+ Kf7 88. de6 Ci7 89. Hh7 Ke8 90. Hg9+ Kd7 91. Hf7 Ce7 92. He9+
+Ke8 93. Hg8 Ce9 94. Hf6+ Kf7 95. Hh7 Ke8 96. ef6 Ce7 97. Hg5 Kd7 98. fe6
+Ca7 99. He4 Ci7 100. Hf6 Cb7 101. ed6+ Ke7 102. d7+ Kf7 103. Hh7 -- 104.
+Hg9+
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 1경기 [천안지부 對 인천지회] - 1회전"]
+[White "양승태 [천안지부]"]
+[Black "최성욱 [인천지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. g4
+Ke9 8. Ch4 Hd8 9. Ch1 Afe8 10. Ca1 Rb8 11. ab3 Ri7 12. Ci1 Rh7 13. Ci9+ Af9
+14. Rxi6 gh6 15. Ri8 Hb9 16. Ri3 Rd8 17. Ci1 Cxb3 18. cxb3 Rxd3 19. Cxe6
+Rxb3 20. Ce2 Hd8 21. h4 Ke8 22. Ra7 He6 23. Kf1 Rc3 24. Ch2 f5 25. Cc1 Rb3
+26. Ra4 fg5 27. Cg1 gxg4 28. Rxg4 Ri7 29. Rxi7 Cxi7 30. Ce1 Cc7 31. Exc6+
+Ee7 32. He3 Ke9 33. Cxe6+ Afe8 34. Hd5 bxc6 35. Hxe7 cd6 36. Cxe8 Axe8 37.
+Hf5 Ri3 38. Ke1 Ri5 39. Hxh6 Ri1+ 40. Ke0 Hxh6 41. Cxh6 Ri6 42. h5 Ri7 43.
+Ch2 Ad7 44. Ce2 Kd9 45. He4 dc6 46. Rg6 Ri0 47. Rxc6 Cf7 48. Rd6 Ad8 49.
+Re6 Ad7 50. Re9+ Kd8 51. Hc5 Ri6 52. Ef3 Ae8 53. Hb7+
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 1경기 [천안지부 對 인천지회] - 2회전"]
+[White "이철산 [인천지회]"]
+[Black "김정건 [천안지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ke9 8. Kd0 Rg8 9. ab3 Hd8 10. Afe1 Rgi8 11. Ce0 ih6 12. Rxi8 Rxi8 13. Cd2
+Afe8 14. Ra5 Kf9 15. g4 Ce9 16. Ef3 Ch7 17. g5 Ri6 18. gxg6 hxg6 19. c4 Af8
+20. Cd7 Ke8 21. Cg7 Kf9 22. Rh5 gh6 23. Rxh6 Rxh6 24. Exh6 f5 25. Hg4 Hg5
+26. Hi5 Eb8 27. Hd4 f4 28. Eg6 Hde6 29. Hxe6 Hxe6 30. Cxe6 Exe6 31. Hxh7
+Ke8 32. Cg0 Ce7 33. Ed4+ Kd8 34. Hxf8 Ef6 35. Hxe6 Ae8 36. Hxf4 cd6 37. bc3
+bc6 38. Cc0 Kd9 39. Cf0 Eh9 40. Exe8 Kxe8 41. Hh5 de6 42. Hg7+ Kd8 43. Hxh9
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 2경기 [화성지부 對 송파지부] - 2회전"]
+[White "김유 [화성지부]"]
+[Black "이성현 [송파지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ri5 8. Kf0 Exc3 9. bxc3 Rc5 10. Ra3 a5 11. c4 Rb5 12. Rc3 Ra6 13. Ed3 a4
+14. Hc0 a3 15. Rc2 Rd5 16. Ade1 Rxd3 17. Ce0 ab3 18. Cf2 Rc3 19. Rxc3 bxc3
+20. ih3 c2 21. Ri9 Ade9 22. Rg9 He6 23. Rg8+ Kd9 24. Cd0 Aee8 25. Exc6 c1
+26. Ee3 cxc0 27. Exc0 Ce5 28. Ee3 Hf8 29. c5 Ce9 30. c6 Cf7 31. Rg7 Ra7 32.
+Ri7 Hh9 33. Ri4 Ce7 34. Rd4 Ke9 35. cxd6 Exd6 36. Rxd6 Ad8 37. Eb5 Afe8 38.
+Rd4 Cc7 39. Ce2+ Kf9 40. Ri4 Cd9 41. Cf2+ Ccf7 42. Re4 Rc7 43. Ce0 Hi7 44.
+Cd0 Hf6 45. Re6 Cg9 46. He3 Ce9 47. Rd6 Add7 48. Cf2 Hg8 49. Rd4 Rc5 50.
+Ed2 Ri5 51. Hc4 He4 52. fe3 Cd9 53. gf3+ Hgf6 54. Cf4+ Rf5 55. Hd6 Rxf4 56.
+fxf4 Hxd6 57. Ra4 Cxe3 58. f5 Hg8 59. fe5 gf6 60. Rg4 hg6 61. e6 Hh6 62.
+Rg3 Hc4 63. exf6 gxf6 64. Ce2 Ce9 65. Rf3 Hg8 66. Cc2 Cf7 67. Rg3 He7 68.
+Cf2 Af8 69. Rd3 He5 70. Rd4 Ade8 71. Eg4 Hxg4 72. Rxg4 f5 73. h4 Hc6 74. h5
+He5 75. h6 Hd3 76. Cf6 f4 77. Rg5 fe4 78. hg6 He5 79. g7 Hd7 80. gxf7 Axf7
+81. Rf5 Hxf6 82. Rxf6
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 2경기 [화성지부 對 송파지부] - 4회전"]
+[White "김예혁 [송파지부]"]
+[Black "호재원 [화성지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Hg7 8. Af1 Ke9 9. Kf0 Cf7 10. Ci2 Rc8 11. Cif2 c5 12. cd4 Ade8 13. ih3 Cd9
+14. Ra1 cd5 15. dc4 ab6 16. Rxa9 Cxa9 17. Ade1 Cc9 18. Ri4 Hh9 19. Cd0 Hf8
+20. Ci0 Kd9 21. Cc0 Ra8 22. Cf2 Cb7 23. Ed3 bc6 24. Cg0 Ra4 25. cb4 Ra6 26.
+bc4 Ad8 27. Cf7 Ke8 28. Cf2 Ke9 29. Ce0 Afe8 30. Ce2 Kd9 31. Cd0 Cf7 32.
+cb4 Ca7 33. b5 Ce7 34. ba5 Ra8 35. Cg0 dc5 36. Ca2 Rc8 37. Rb4 cb6 38. Cc0
+Rb8 39. g4 d5 40. Hf4 de5 41. Ea1 Rb7 42. Cg0 cb5 43. Ra4 Ed6 44. axb5 Cf9
+45. hg3 bxb5 46. Ra6 ef5 47. Hd3 Exf3 48. gxf3 fe5 49. gf4 ed5 50. Hb2 b4
+51. bxb4 Rxb4 52. Hbc0 Ec3 53. Rd6 Ea0 54. Cxa0 de5 55. Ec4 Ke9 56. Cad0
+Cd9 57. Rc6 Cb7 58. Rc9 He6 59. Ce0 Cf7 60. Exg6+ hxg6 61. Cxd7 Adxd7 62.
+Cxe5 Kf9 63. Rc6 Hg5 64. fg4 Hi4 65. Rxg6 Hh2 66. Ce0 Hxf3 67. Hxf3 Rxc4
+68. Hd2 Rc1 69. Rf6 Af8 70. He4 Rc4 71. Hfg5 Afe8 72. Hxf7 Cxf7 73. gf4
+Ade7 74. Aef2 Rc1 75. Hd6 Rc6 76. f5 -- 77. Rg6 Cd9 78. Rf6+ Af8
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3·4위 순위 결정전 [천안지부 對 화성지부] - 1회전"]
+[White "양승태 [천안지부]"]
+[Black "김상범 [화성지부]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Cbe7 6. Ce2 Ed6 7. Ed3
+Ra8 8. Hd2 Rh8 9. Ri7 cb6 10. Ei3 g5 11. Ri5 gf5 12. Ri4 Cf7 13. Rg4 Rh7
+14. Ad1 Af8 15. Cb4 h5 16. Cb0 Ca7 17. ba3 Rc8 18. Exb6 axb6 19. ab3 Ce7
+20. Ch0 Cf9 21. Ke0 Ke9 22. Afe1 Ade8 23. gf3 Ri7 24. Cc0 Ra8 25. Rxa8 Exa8
+26. h4 hg5 27. Rc4 e5 28. Ci0 Hi6 29. Cd0 Rh7 30. hg4 Ci9 31. gxg5 Hxg5 32.
+Hh4 Cf9 33. Hg6 Cf6 34. Hxf8 Rh3 35. Ra4 Ca6 36. Hg6 Rxi3 37. Hxe7 Axe7 38.
+cd3 Ae8 39. f4 Ri4 40. fg4 Hf7 41. bc3 Ei6 42. Af1 Eg3 43. Ae1 Ri6 44. ef3
+Ed6 45. Rd4 Ei0 46. f4 fxf4 47. Rxf4 Rf6 48. Rc4 Ri6 49. Rc7 Hf6 50. Rc9#
+{White mates} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [인천지회 對 송파지부] - 1회전"]
+[White "정원직 [송파지부]"]
+[Black "최성욱 [인천지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ad1
+Kf8 8. Kd0 Afe8 9. Afe1 Ce9 10. Ca2 Rf5 11. Cad2 Ra5 12. a4 Ra8 13. Cf0 ih6
+14. Rxi9 Cxi9 15. Ef3 hi6 16. a5 Kf9 17. Ra4 Af8 18. Rh4 gh6 19. Rg4 Ce7
+20. ab5 bxb5 21. Exc6 Ke9 22. Ch4 hg6 23. Ee3 Cg9 24. Rc4 Ch7 25. Ch2 Ade8
+26. Ri4 ih6 27. Exh6 gxh6 28. Hg4 Ce7 29. Hxh6 Hxh6 30. Cxh6 Cd9 31. Rc4
+Hd5 32. Rxc9 Ra2 33. cb3 Ra7 34. Ch0 fe6 35. Cd2 e5 36. Eh5 Ef6 37. Rc6 Rc7
+38. Rxf6 Rxc2 39. Rd6 Rb2 40. d4 Rxb3 41. dxd5 Cxe1 42. Axe1 Aff7 43. dxe5
+bc5 44. Ke0 c4 45. Cf0 -- 46. Rf6 Afe7 47. Rf4 c3 48. Exe7 Axe7 49. e6 Ae8
+50. Re4 Rb7 51. Re3 c2 52. Ch4 Rg7 53. Ch2 Rd7 54. Re2 c1 55. gf3 -- 56. f4
+Cf7 57. Rg2 Kd9 58. Cd0+ Rc7 59. ed6+ Ke9 60. Ce2+ Kf9 61. Rg9+ Kf8 62. fe4
+Ae7 63. Re9 c0 64. Cf0 Ad7 65. e5 Cf9 66. e6 Ad8 67. Cd2 Rg7 68. Re7 c0d0+
+69. Kxd0 Rxe7 70. exe7 Ae8 71. Cxe8 -- 72. d7 Cf7 73. d8
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [인천지회 對 송파지부] - 2회전"]
+[White "김예혁 [송파지부]"]
+[Black "이철산 [인천지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri5 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. c4
+Hf8 8. Af1 Kd8 9. Ra1 Ade8 10. Kf0 Ce9 11. Ade1 Ca7 12. Rc1 ab6 13. Ce0 Ci9
+14. Cf2 Cg7 15. Cg0 Exg3 16. Cxg3 g5 17. Ri2 h5 18. Cd0 Ri6 19. Ed3 Kd9 20.
+Exb6+ cxb6 21. cd4 Ad8 22. b4 Afe8 23. b5 bc6 24. de4 Cc9 25. Rb1 Cf9 26.
+ef4 h4 27. Ke0 Cb7 28. Rc1 Ce7 29. Kf0 Ra4 30. Cgg0 gh5 31. Cf2 Ce9 32. Rc0
+hi5 33. Hxh4 Rh6 34. Hg2 Rh1 35. Ri1 Rh6 36. Ra0 Rxa0+ 37. Cxa0 d5 38. i4
+ixi4 39. Rxi4 c5 40. bxc5 dxc5 41. Cg0 Ed6 42. He4 Eb3 43. Ce0 Rh3 44. Ri3
+Rxi3 45. Hxi3 Cxe4 46. fxe4 Cxf3 47. Hg4 Cf9 48. Eh1 Hg6 49. Ch0 cd5 50.
+He3 de5 51. ed4 Hf6 52. Ch3 Exe1 53. Axe1 e4 54. dxe4 Hxe4 55. Cd3+ Ke9 56.
+Ke0 Af7 57. Cd0 Ade8 58. Ad2 Hh4 59. Cd1 Hf5 60. Ae1 Hfg3 61. Hg2 Hc3 62.
+Cg1 Hi2 63. Ca1 Cc9 64. Cf1 Hg3 65. Ee3 Cg9 66. Eg6+ Aff8 67. Ca1 Hd5 68.
+He3 He4 69. Ed4 Hb4 70. Eb7+ Ad8 71. Ci1 Hc6 72. Hg4 Cd9 73. Ee5 Cd4 74.
+Hf6 Hg5 75. Eg2 Cd9
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [인천지회 對 송파지부] - 5회전"]
+[White "윤기현 [송파지부]"]
+[Black "김영식 [인천지회]"]
+[Result "1-0"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "165"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ri8 8. Ef3 Ra5 9. Kd0 Rg5 10. Rg0 ih6 11. Afe1 Ri4 12. ab3 Hb9 13. Ce0 Hd8
+14. Cd2 Kf8 15. g4 Rixg4 16. Rxg4 Rxg4 17. Exh6 Rg5 18. Ef3 Afe8 19. Ra4
+Ce9 20. Cf0 Kf9 21. Ri4 Af8 22. Ri9 Ade8 23. Exg6 Rxg6 24. Ei5 -- 25. He3
+Cd7 26. Heg4 Exc3 27. bxc3 fe6 28. Ce2 Hg5 29. h4 Ri6 30. Rxi6 Hxi6 31. Cg2
+Ce7 32. h5 Aff7 33. h6 Hh8 34. Cc0 Ke9 35. Eg8 Cd9 36. Ch0 Cd6 37. Cxh8 Cg7
+38. Ch4 Ee7 39. h7 Cg3 40. Ei5 Cxc3 41. He4 Cc9 42. Exf7 Cd9 43. Ed4 Cd7
+44. Ea2 ed6 45. Hgf2 Cxh7 46. Ce2 Cd7 47. Ke0 Kd9 48. Cd4 Ce9 49. Hf6 de6
+50. Hg8 Ca9 51. Cxe7 Axe7 52. Hxe7+ Ke8 53. Hg6 ba6 54. Hf4 ed6 55. He4 Ke7
+56. Hf6 de6 57. Hg8+ Ke8 58. Hxe6 Cxa2 59. Cd2 Hb7 60. Hf6+ Ke7 61. Hf4 Cf7
+62. H6d5+ cd6 63. Hb4 Ca7 64. Hxa6 Ke8 65. Hg6 de6 66. Hb4 ef6 67. Hh8 Ce7+
+68. Kd0 Cd9 69. Hc6 Ce9 70. d4 Hc5 71. Hb8 Cd3 72. d5 Hb7 73. Hi6 Ce6 74.
+Hg7+ Kf7 75. Hh5 f5 76. Hg7 fg5 77. de5 Ce4 78. e6 Hc5 79. ef6+ Ke7 80.
+Hd9+ Kd7 81. Hf8+ Kd8 82. Hfe6+ Hxe6 83. Hxe6+
+{Black resigns} 1-0
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 1경기 [천안지부 對 중구지부] - 1회전"]
+[White "이현기 [중구지부]"]
+[Black "김철 [천안지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ed3 Hg7 4. Ce2 ed6 5. ab3 Hce6 6. gf3 g5 7. Hd2
+Cf7 8. Ad1 Ke9 9. Kd0 Rh9 10. h4 Rxh4 11. Afe1 Rh9 12. Rh0 ih6 13. Ce0 Ade8
+14. Ri0 Ei6 15. Cc0 Cd9 16. Ce2 h5 17. Cf0 Aff8 18. Ke0 Cg9 19. Ei3 g4 20.
+Kd0 h4 21. Ca2 ab6 22. Ce2 Rxa0+ 23. Cxa0 h3 24. Ef6 Rh5 25. Ed3 g3 26.
+fxg3 hxg3 27. Hf0 Cxe3 28. Cb2 b5 29. He2 Ea6 30. c4 bc5 31. b4 cxc4 32.
+bxc4 Rb5 33. Cf0 Rxb2 34. Ef1 Cd9 35. Ef6 Ce7 36. Ri4 gf3 37. Rg4 Aff7 38.
+Rg6 f2 39. Axf2 Cxd2+ 40. Ae1 Cxf2+ 41. Ke0 Cxe2+ 42. Axf2 Ce7+ 43. Ae1 Rb1
+44. Ae2 Hf4+ 45. Ad2 He2+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 1경기 [천안지부 對 중구지부] - 3회전"]
+[White "이동철 [중구지부]"]
+[Black "양승태 [천안지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "52"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ef6+ 4. Cbe2 ab6 5. ed3 Ed6 6. Hce3 Ra5 7. g4
+Hd7 8. d4 Exg4+ 9. Hxg4 He6 10. c4 Rg5 11. H4e3 Cxe3 12. Hxe3 Ce7 13. Ra2
+Hf4 14. Ce4 Rg1+ 15. Af1 Hxh3 16. Rg2 Rxg2 17. Hxg2 f5 18. Ce0 Hf4 19. Hxf4
+fxf4 20. Af2 f3 21. Cd2 fxf2+ 22. Kxf2 He5 23. Ri3 Ri7 24. de4 Rf7+ 25. Ke1
+Hg4+ 26. Re3 Rf2+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 1경기 [천안지부 對 중구지부] - 4회전"]
+[White "박우영 [중구지부]"]
+[Black "김현수 [천안지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Hd2 Hg7 4. Che2 ed6 5. ab3 Hce6 6. Ri4 Ra7 7. Rb4
+ih6 8. Ei3 Rc7 9. Ra1 Cf7 10. Ke0 Ke9 11. Ade1 Ade8 12. Ci2 Rh9 13. Cbe2
+Cd9 14. ef3 g5 15. Cf2 Ei6 16. Cd0 Aff8 17. Aff1 h5 18. Eg0 gf5 19. Ee3 Cg9
+20. Ch0 d5 21. Hi3 fg5 22. Cc0 Ri9 23. cd3 cd6 24. bc3 dc6 25. Cc2 c5 26.
+Rb8 Exg3 27. fxg3 Ri4 28. Ci2 Rf4 29. Cf0 Re4 30. gf3 Rg4 31. fg3 Re4 32.
+Cc0 Cd9 33. Cc2 Rf4 34. Cf0 Re4 35. Ra3 Ri4 36. Ci2 Re4 37. Ee2 d4 38. Eh0
+dxd3 39. cxd3 Rc4 40. Cd0 Rc1 41. Kf0 cd5 42. gf3 g4 43. hg3 gxg3 44. fxg3
+hg5 45. g4 Cf9 46. gxg5 Hxg5 47. Ra4 R7c4 48. Rxc4 Rxe1#
+{Black mates} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 2경기 [인천지회 對 전북지회] - 2회전"]
+[White "손일주 [전북지회]"]
+[Black "이철산 [인천지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Ed6 4. ed3 ab6 5. Hc2 Hd7 6. Ri4 gf6 7. Ece3
+c5 8. Ke0 Ad8 9. Ade1 Kd9 10. Cd2 Ce5 11. Ci2 Ce9 12. Kd0 Ri8 13. c4 Rc9
+14. dc3 cxc4 15. Rxc4 Rxc4 16. cxc4 Rg8 17. cd4 Hf5 18. d5 Hxg3 19. hxg3
+Rxg3 20. Cb2 Cg7 21. Hi3 ih6 22. dxd6 exd6 23. Ci9 Ee6 24. ab3 Afe8 25. Ra4
+fg6 26. Ci1 Rg5 27. Rc4 Ra5 28. Hd4 gf6 29. Hg2 d5 30. Hc2 Ra0+ 31. Kd1
+Cg1+ 32. Ae0 dc5 33. Rh4 Ra2 34. Cd2 Rxc2 35. Hf4 f5 36. Rg4 fxf4 37. Rxf4
+Ra2 38. -- Ra1+ 39. Kd0 Ra0+ 40. Ke1 Ra1+ 41. Kd0 cd5 42. Cd6 de5 43. Rf3
+e4 44. Cxh6 exe3 45. Rxe3 Eh8 46. Rh3 Ra5 47. bc3 Ef5 48. cd3 Ra2
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 3경기 [화성지부 對 경북지회] - 2회전"]
+[White "손유성 [경북지회]"]
+[Black "호재원 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ed6 5. ed3 Ad8 6. Ke0 Hd7 7. g4
+Kd9 8. h4 Afe8 9. Ade1 Ce9 10. Cf2 ih6 11. Ei3 Cc9 12. Cd0 ef6 13. Hce3 Ee6
+14. Cd4 Ri5 15. Ci2 Rb5 16. Hd1 g5 17. Ca2 Rb9 18. gf4 Ce7 19. Ee3 f5 20.
+Aff1 fxf4 21. Hxf4 gf5 22. Hg2 Eg3 23. Hb0 Cb7 24. Cxd7+ Adxd7 25. cb3 f4
+26. dc3 Rc5 27. Hc2 f3 28. Rd0 Ce7 29. Ri2 Cf9 30. Ce2 Ra9 31. Rd4 Exb3 32.
+axb3 Ra0+ 33. Hd0 Ke9 34. Rg4 Hf5 35. cd3 fxe3 36. dxe3 Cd9 37. e4 Rb0 38.
+Rf4 Hd6 39. ba3 Rcc0 40. ed4 Hc4 41. He3 Hd2+ 42. Kf0 Rxd0+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 3경기 [화성지부 對 경북지회] - 3회전"]
+[White "강창호 [경북지회]"]
+[Black "김명필 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ee3
+gh6 8. c4 Ra7 9. Ra1 Ke9 10. Af1 Ade8 11. Kf0 Hf5 12. Ci2 Rh9 13. Cif2 Hxe3
+14. fxe3 Cxe3 15. Ade1 Ce7 16. gf3 Aff8 17. Hf4 Hxf4 18. Cxf4 Cf9 19. Cff2
+Ege6 20. Rg0 Cd9 21. Ce2 Rh7 22. Ce0 h5 23. Rg6 Rh6 24. Rg8 Aff7 25. Ch0 i5
+26. f4 Cf9 27. Rg9 Cxe1 28. Rxf9+ Kxf9 29. Axe1 Rg6 30. Ce0 Ke9 31. Ed3 hg5
+32. hg3 ih5 33. cd4 Afe7 34. de4 d5 35. e5 dxe5 36. Cxe5 Ri6 37. Ce0 Rd7
+38. Rc1 Rxd3 39. Rxc6 Rxg3 40. Cxe6 Ri0+ 41. Kf1 Rg1#
+{Black mates} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 3경기 [화성지부 對 경북지회] - 5회전"]
+[White "김용태 [경북지회]"]
+[Black "박영완 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. Ra1 Hce6 6. ab3 Cf7 7. ef3
+Ra7 8. Ri4 Ke9 9. Ee3 g5 10. Rb4 Rc7 11. g4 Rh9 12. h4 gf5 13. Kd1 Ade8 14.
+Ade1 Cd9 15. Kd0 d5 16. Ke0 Aff8 17. Aff1 Cf9 18. Ch2 Ri9 19. Chf2 ab6 20.
+Cd0 Ea6 21. Cxd5 Cb9 22. Cd0 Cxb4 23. bxb4 ih6 24. Kf0 h5 25. Cbf2 hxh4 26.
+Hxh4 Hi6 27. Hg6 Ca7 28. Rc1 Rg7 29. Cxf5 Hh8 30. He5 Rxg4 31. Ke0 Rg5 32.
+f4 Hg7 33. Exc6+ bxc6 34. Hxc6 Hxf5 35. fxf5 Rg7 36. Hxa7 Rxa7 37. cb3 Ra9
+38. Ee2 Ed8 39. fg5 Hf7 40. Rc5 Ri6 41. Eh4 Hd6 42. Rd5 Hb7 43. Ee2 Ra5 44.
+Rd3 Re6 45. Rf3 Hd6 46. Rc3 Ad9 47. Ri3 Ei6 48. Rf3 Ade8 49. Rh3 He4 50.
+Hxe4 Rxe4 51. Ri3 Re6 52. bc4 Rae5 53. Kf0 Re3 54. Ri4 Rxb3 55. c5 Rg3 56.
+Rb4 Ad9 57. cd5 Ree3 58. gh5 Rg6 59. Rd4 Ea6 60. Rd2 Ec3 61. d6 Ef4 62. Ad1
+Afe8 63. Ke0 Rg2 64. Ae1 Rh2 65. hg5 Ei6 66. Cf0 Rg2 67. gf5 Exf5 68. d7
+Eg3 69. d7xe8+ Axe8 70. Kd0 Rc3 71. Ra2 Rg0 72. Ra9+ Ad9 73. Ra0 Rf3 74.
+Add2 Rgxf0+ 75. Axf0 Rxf0+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 4경기 [송파지부 對 울산지회] - 3회전"]
+[White "윤기현 [송파지부]"]
+[Black "최진호 [울산지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. Ei3 ab6 5. Hc2 Ce7 6. ed3 gf6 7. Rg0
+ih6 8. gf3 Ei6 9. Ke0 Hf8 10. Cd2 Ed6 11. f4 Rg9 12. Ca2 Rc9 13. Ad1 Ad8
+14. Afe1 Kd9 15. ab3 Cb7 16. ba3 c5 17. Cd2 Afe8 18. Cf0 Ch7 19. Hce3 Cxh3
+20. Rh0 Rg3 21. Cd0 Cxe3 22. Rxh6 Rxg2 23. Rxi6 Ce7 24. Rxi7 Ra9 25. Cf0
+Ri2 26. f5 Ce9 27. fxf6 Hxf6 28. Ri4 b5 29. Ee3 Ra7 30. ab3 Rxa0+ 31. Cxa0
+cd5 32. Cf0 Ri0 33. Kd0 bc5 34. b4 e5 35. Ce0 Hg4 36. Eeg0 Ri2 37. Cd2 Hh6
+38. Rh4 Hf7 39. Ef1 Rg2 40. Ee3 Rg4 41. d4 Rxd4 42. Rxd4 dxd4 43. Eh4 cd5
+44. Exf7 Axf7 45. Eh5 Hd7 46. Ef2 Ce4 47. b5 Eg4 48. Cf0 Afe8 49. Ce2 Ce6
+50. Ke0 e4 51. Kd0 Ce9 52. Ce0 Ce5 53. c4 Cxb5 54. cxd4 dxd4 55. Ei4 Hc5
+56. Eg1 ef4 57. Af2 Cg5 58. Cxf4 Cxg1 59. Cf1 Hd3 60. Ade1 Cg9 61. Cd1 Hb4
+62. Ce2 Aed7 63. Ke0 d3 64. Kf0 de3 65. Cg2 Cb9 66. -- Cf9+ 67. Cf1 Ed6 68.
+-- Eb3 69. Cd2 Cc9 70. Cd1 ed3 71. Afe2 Ce9 72. Kf1 Ee5 73. Cf2 Eh3 74.
+A1d2 de3 75. Aee1 Hc6 76. Cc2 He5 77. Af2 Hg4 78. Ade1 Cc9 79. Aee2 ef3 80.
+Ke1 Cf9 81. Kd2 Hxf2 82. Axf2 Cxf2 83. -- Cf9 84. Ce2 Ef6
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 4경기 [송파지부 對 울산지회] - 4회전"]
+[White "오규민 [울산지회]"]
+[Black "김예혁 [송파지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ri4
+Ke9 8. Exc6+ bxc6 9. Rb0 Hd8 10. Ef3 Ade8 11. Ad1 Aff8 12. Kd0 Ci7 13. Rh4
+Ci0+ 14. Hg0 Cxf0 15. Ke1 Ci0 16. Rb5 ih6 17. Hf2 Ri1+ 18. Kf0 Ci9 19. Rbb4
+Ch7 20. Ri4 Rxi4 21. Rxi4 Cf9 22. Ae1 Ra5 23. Ke0 Ce7 24. c4 Rg5 25. g4 Rd5
+26. cd4 Rc5 27. He3 Rc0+ 28. Ad0 Cd9 29. Ce4 f5 30. Cd2 g5 31. Ei1 Ef6 32.
+Ri2 fe5 33. Ce2 Exd3 34. gxg5 Hxg5 35. Cxe5 Hf7 36. Ce2 Cxe3 37. de4 Cxa3
+38. Ri5 Eg5 39. Hg4 Rc4 40. Ri2 Rxe4 41. Ae1 Rxg4 42. Rf2 Rg0+ 43. Cf0 Exe2
+44. Axe2 Ec3+ 45. Ke1 Hg5 46. h4 Cf9 47. Cxf8 Rg1+ 48. Cf1 Rxi1 49. hg4
+Ce3+ 50. Ad2 Exf1 51. gxg5 Ei3+ 52. Ke0 Kd9 53. Rh2 Ce9+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "8강 4경기 [송파지부 對 울산지회] - 5회전"]
+[White "김창환 [울산지회]"]
+[Black "하여명 [송파지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ef6 3. Ce2 cd6 4. Hd2 Ce7 5. Ed3 ih6 6. Exf6 gxf6 7. Ad1
+Hf7 8. Ce0 Ca7 9. Rb0 ab6 10. Ra0 ba6 11. Rc0 Cae7 12. Ra0 Af8 13. Kd0 Kf9
+14. Afe1 Ade8 15. Cb0 Cb7 16. Cf0 dc6 17. Ra4 Ed6 18. Ri4 Rxi4 19. ixi4
+Che7 20. ih4 Ke9 21. ed3 ab6 22. Ee3 Ra4 23. gh3 Kd9 24. Ce2 Ce9 25. Ri5 e5
+26. Ke0 e4 27. ba3 Rb4 28. cb3 Exb3 29. axb3 Ra4 30. bc3 exe3 31. Hxe3 c5
+32. Cd0 Cb5 33. Ri8 Ad8 34. Hb3 Rb4 35. Ri4 Afe8 36. Hg4 f5 37. Hf2 cd5 38.
+Ri9 de5 39. d4 Cxb3 40. cxb3 Rxb3 41. d5 exd5 42. Cxd5 f4 43. Cd0 f3 44.
+Hh1 fe3 45. Cxe8 Axe8 46. Kf0 e2 47. Axe2 Rxh3 48. Hf2 Rxh4 49. Ade1+ Hd8
+50. Rg9 Rf4 51. Ke0 Rf7 52. Hg4 Re7 53. Hxh6 Rxe2 54. Rxe9+ Kxe9 55. Axe2
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 1경기 [천안지부 對 인천지회] - 3회전"]
+[White "김정룡 [천안지부]"]
+[Black "김동학 [인천지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Hd2 Ce7 5. Ed3 ed6 6. ef3 Ee6 7. Ee3
+Ke9 8. Ad1 Ria8 9. ih3 Hf8 10. Ri4 Ade8 11. Rc4 ab6 12. Rxa8 Rxa8 13. Ke0
+Kd9 14. Afe1 Ce9 15. Kf0 Cc9 16. Exb6+ cxb6 17. Ce0 dc6 18. Rd4 Ad8 19. Cf2
+Afe8 20. cd3 Ra5 21. bc3 Cf9 22. Hh0 Ri5 23. Hhf1 Cb7 24. Ra4 Ce7 25. Rd4
+Ce9 26. Rc4 c5 27. Ra4 Cc9 28. Ra3 Ri4 29. Hb1 Ce9 30. Hd2 Ed6 31. cb3 Ea4
+32. Ra1 Ca9 33. Rb1 Exd2 34. Adxd2 Ra4 35. Add1 Ce9 36. Add0 Ce7 37. Rb0
+Cb7 38. Ra0 Rxa0 39. Cxa0 Cxb3 40. Ce0 Cb7 41. Aed1 cd5 42. Hd2 gf6 43.
+A0e1 hg6 44. Ce2 g5 45. Ke0 gf5 46. Cd0 Cb9 47. Af1 Ce7 48. Ade1 Ke9 49. h4
+Hc5 50. hg4 Ha4 51. Kf0 Cf9 52. d4 dxd4 53. Cxd4 Hc3 54. Ce0 Cd9 55. Hc4 b5
+56. Ci4 bc5 57. Ha5 Cd3 58. Hb7 cd5 59. Cc4 Ha4 60. Ci4 Hb6 61. Ec0 Eb8 62.
+Ea3 fe5 63. Hxd8 Axd8 64. Cf4 Hh7 65. Cf2 Hc4 66. Ed1 f5 67. gf4 fxf4 68.
+fxf4 Hg5 69. g4 Hi4 70. Ce2 Hg3
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 1경기 [천안지부 對 인천지회] - 4회전"]
+[White "김현수 [천안지부]"]
+[Black "최종인 [인천지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hc7 3. Ce2 Cbe7 4. Ed3 ed6 5. ab3 Ra7 6. gf3 g5 7. h4
+Hce6 8. Hd2 Cf7 9. c4 Ke9 10. Ad1 Ade8 11. Kd0 Cd9 12. Afe1 Rh9 13. Ce0 d5
+14. Ch0 Ri9 15. Cf0 c5 16. cxc5 dxc5 17. Ei3 ih6 18. Rh0 Ei6 19. Rc0 Aff8
+20. Cf2 Rd7 21. Ci2 Rh9 22. Ef6 Rg9 23. Rg0 h5 24. Ce2 Cf9 25. Hf4 Hxf4 26.
+Cxf4 Rd5 27. hxh5 gxh5 28. Cf0 Cxf6 29. He4 Cf9 30. Hxc5 Cd9 31. Ke0 He6
+32. Hb7 Rxg0 33. Exg0 Rg5 34. Rxc9 Rxg0 35. Cxe6 Rg5 36. Rc7 Rg7 37. Cxf8
+Eg9 38. Ce2 Cf7 39. Kd0 Rg0+ 40. Ae0 Cd9+ 41. ed3 Ad7 42. fe3 Cxd3+ 43. Ae1
+Cd9+ 44. Ad1 Rg2 45. Rc2 Rxe2 46. Rxe2 Cxe2 47. ef3 Ae8+ 48. Ke1 Axf8 49.
+Aed0 Ed7 50. Hc5 Ke8 51. Ke0 Ce9+ 52. A1e1 ab6 53. bc3 b5 54. Hb3 hg5 55.
+c4 gf5 56. Ha1 fe5 57. f4 Ce7 58. Hc2 ed5+ 59. fe4 bc5 60. cxc5 dxc5 61.
+Kf0 Ke9 62. e5 Cf9+ 63. Ke0 cd5 64. e6 Ce5+ 65. Ad2 Ae8 66. A0d1 Cd9 67.
+Kd0 Eg9 68. ef6 Cf9 69. Hb4 Af8 70. fg6 dc5 71. Ha6 cd5 72. Hc7 dc5 73. g7
+Ei6 74. He6 Ce7 75. Hxc5 Cd9 76. Ke1 Eg3 77. Ha6 Ee6+ 78. Kd0 Eg3 79. Ke1
+Ae8 80. Hb8 Ed5 81. Hc6 Exg7 82. Hxe7 Axe7 83. Ae2 Ae8 84. Add2
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 2경기 [화성지부 對 송파지부] - 1회전"]
+[White "독고훈 [화성지부]"]
+[Black "정원직 [송파지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 ef6 6. Ch4 Ee6 7. Hf2
+Ke9 8. Ch1 Afe8 9. Ca1 Rc9 10. Cg1 Cd7 11. ab3 Cf9 12. Ra4 Add8 13. Exg6+
+fxg6 14. Cxg6 Ef6 15. Cg1 c5 16. g4 c4 17. Cc1 cxc3 18. bxc3 Hb5 19. He3
+Hxc3 20. Cxc9 Hxa4 21. Hd5 Hc5 22. de3 Add7 23. Cc0 Ce5 24. Ke0 Cd9 25. e4
+Ce7 26. Hxe7 Hd3 27. Ri2 Hb2 28. Cxe6 Hxc0 29. Afe1 Axe7 30. h4 Hb2 31. gf4
+ih6 32. Rxi9+ Cxi9 33. f5 Ei8 34. e5 bc6 35. Ce2 cd6 36. He4 Hd3 37. hg4
+hg6 38. Ef3 Kf9 39. Ec5 Hh6 40. g5 gxg5 41. fxg5 Hg4 42. gf5 dc6 43. Ea2
+Hc1+ 44. Add1 Hxa2 45. e6 A7d7 46. -- Ce9 47. f6 Af8 48. Hf2 Hxf2+ 49. Axf2
+Hc3 50. Ade1 Ce4 51. Kf0 Eg5 52. Ch2 c5 53. fg6 cd5 54. ef6 de5 55. -- Ei2
+56. Kf1 Hd5 57. Cd2 He3+ 58. Afe2 Eg5 59. Cf2 Exe2 60. Axe2 Cxe2 61. f7
+Ce4+ 62. Kf0 Ke9 63. f7xf8 ed5 64. gf6 d4 65. f7 d3 66. f8e8+ Axe8 67.
+f7xe8+ Kxe8
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 2경기 [화성지부 對 송파지부] - 3회전"]
+[White "하여명 [송파지부]"]
+[Black "박영완 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Hd2
+c5 8. g4 Rh9 9. h4 Af8 10. Ad1 Cf9 11. Kd0 Ke9 12. Afe1 d5 13. Ce0 Ra7 14.
+Ei3 ih6 15. Exg6 hxg6 16. Hf4 Hxf4 17. fxf4 Ei6 18. Cg2 Exf4 19. gxf4 He6
+20. hg4 g5 21. Cxg5 Hxg5 22. gxg5 d4 23. f5 Rh6 24. fe5 Rh3 25. Ri6 Rc7 26.
+Cc0 Ade8 27. gf5 c4 28. Ri0 Rd7 29. cxc4 dxd3 30. Ra2 dxd2 31. Rxd2 Rxb3
+32. Cf0 Rxd2 33. Adxd2 Cd9+ 34. Ae2 Rc3 35. Ri4 Rc2 36. A2f2 ab6 37. f6 bc6
+38. e6
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "준결승 2경기 [화성지부 對 송파지부] - 5회전"]
+[White "김명필 [화성지부]"]
+[Black "윤기현 [송파지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "210"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Hg7 3. Hc2 ab6 4. Cbe2 Ra8 5. ed3+ Cbe7 6. Ke0 Ke9 7.
+Ade1 Ade8 8. Cf2 Cf7 9. Aff1 Cd9 10. Cf0 ef6 11. Hce3 Ee6 12. Ra2 Aff8 13.
+g4 ih6 14. Rxi9+ Cxi9 15. d4 Cd9 16. c4 c5 17. cxc5 Hxc5 18. Hd5 Hd7 19.
+Hxe7 Exe7 20. dc4 b5 21. Rc2 Rc8 22. He3 Kf9 23. ab3 Ch9 24. h4 Cb9 25. bc3
+Exc3 26. Rxc3 b4 27. Ra3 bxc4 28. Ra4 Rc9 29. g5 Cd9 30. Ra6 cd4 31. gxg6
+hxg6 32. Ei3 de4 33. Hg4 Exg4 34. hxg4 He6 35. Ra8 Hb6 36. Rb8 Hd7 37. Ra8
+ef4 38. Exg6 fxg6 39. gxf4 Hd4 40. fe4 Hxe2 41. Axe2 gf6 42. Afe1 Ke9 43.
+A2f2 Rc4 44. ef4 Rc1 45. Afe2 fe6 46. A1d2 e5 47. Ef2 Cf9 48. Ra4 Rc6 49.
+Aee1 Rh6 50. Cd0 Rf6 51. Cf0 Re6 52. Ade2 -- 53. Cd0 Hf6 54. A2d2 e4 55. f5
+Hg8 56. Ra5 Hh6 57. fe5 Rg6 58. ef5 Rg2 59. fg5 Hg4 60. Ec0 e3 61. Ea3 Ad8
+62. Ec6 Ae8 63. Ef4 Rh2 64. Re5 ed3 65. Ade2 dc3 66. g6 Rh7 67. gf6 Cxf4
+68. Rg5 Hh2 69. Rf5 Rh4 70. Cf0 Ci4 71. Rg5 Cf4 72. Rf5 cd3 73. A2f2 Ci4
+74. f7 Cd4 75. f7xe8+ Axe8 76. Rg5 Kd9 77. Rg3 Hg4 78. Rxd3 He5 79. Rd2 Hd7
+80. Cd0 Ke9 81. Afe2 Re4 82. Kf0 Cd9 83. Rc2 Cf9 84. Ke0 -- 85. Rd2 Re7 86.
+Rd6 -- 87. A2d2 -- 88. Cf2 Cd9 89. Ri6 Rg7 90. Ri0 Rg2 91. Ade2 -- 92. Cd0
+Rg7 93. Ri2 Re7 94. Rg2 Re3 95. A2d2 -- 96. Kf0 Rf3+ 97. Ke0 Re3 98. Ade2
+Hc5 99. Rg5 Hd7 100. Ra5 He5 101. Rd5 Hf7 102. Kf0 Cf9+ 103. A2f2 Re5 104.
+Rd3 Rg5 105. Ke0 Re5
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3·4위 순위 결정전 [천안지부 對 화성지부] - 2회전"]
+[White "김정건 [천안지부]"]
+[Black "호재원 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "162"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Cb4 Ee6 7. Cb1
+Ke9 8. Hd2 Ria8 9. ih3 Hf8 10. Ri5 ab6 11. Rxa8 Rxa8 12. Ci1 Exc3 13. bxc3
+Ad8 14. Ci9+ Ae8 15. Ri8 Kd9 16. Rg8 Ce9 17. Rg9 Cb7 18. Exg6 Ce7 19. Ei3
+Hh7 20. Rh9 Hxi9 21. Rxi9 Ra5 22. He3 Rg5 23. Rh9 h5 24. f4 Rb5 25. cb3 de6
+26. gf3 Ed6 27. Ed3 Exf3 28. Exb6+ cxb6 29. Hf5 ef6 30. Hd4 Re5 31. hg3 Eh0
+32. Ef1 Cb7 33. fe4 Rg5 34. Ke0 Rxg3 35. Rxh5 Ef3 36. Ade1 Ed6 37. Rd5 Ea4
+38. Hc0 Cg7 39. Kd0 Rd3+ 40. Ke0 Cxe4 41. Ra5 Ce9 42. Rxa4 fg6 43. Eh4 Cg0+
+44. Af1 Cxc0 45. He6 Rd6 46. Hf4 bc6 47. bc3 Cc5 48. cd3 Cc7 49. d4 c5 50.
+Kd0 Rf6 51. Hd3 Rf3 52. Hf2 gf6 53. Ce0 Rf4 54. Ee2 Cf7 55. Cc0 Hb6 56. Rb4
+Hd7 57. Cf0 Rf3 58. Cd2 f5 59. Ra4 Cf4 60. Ra6 Rd3 61. de4 Cxf1 62. Exc5
+Rd5 63. Ea2 Cf3 64. Ed4 Rc5 65. Rd6 Rc0+ 66. Kd1 f4 67. Ea6 Rc1+ 68. Kd0
+Rc0+ 69. Kd1 Cxe4 70. Hd3 Ce9 71. Cf0 Cf9 72. Exd8 Cxe1 73. Kxe1 Rxf0+ 74.
+Kd1 Kxd8 75. Hb4 Kd9 76. Hc6 Ke9 77. Ha7 Cd9 78. Hc8+ Kf9 79. -- Cxd6 80.
+Hxd6 Hb6 81. Hb5 Hd5
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3·4위 순위 결정전 [천안지부 對 화성지부] - 3회전"]
+[White "독고훈 [화성지부]"]
+[Black "김철 [천안지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ed3 Hg7 4. Ce2 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+c5 8. Hd2 d5 9. Rb4 ih6 10. hi3 Kf8 11. Ke0 Afe8 12. Ade1 d4 13. Ee3 Ri5
+14. Rb8 Rd5 15. Rc8 Rd8 16. Rxd8 Adxd8 17. Ra4 a5 18. Ra1 Cd9 19. Ce5 Kf9
+20. Cf2+ Ke9 21. Cd0 ab5 22. Rc1 g5 23. Ce2 gf5 24. g4 h5 25. ih3 Ei6 26.
+h4 hg5 27. gxg5 fxg5 28. Ec6 Ra6 29. Exg5 Rxc6 30. Exe8 Axe8 31. hg4 Cg9
+32. f4 Hh5 33. Hh4 Exf4 34. gxf4 Hexf4 35. Hf3 Re6 36. Hxd4 cd5 37. Hxb5
+Rxe2 38. Cf2 Re6 39. Kd0 Rb6 40. Cb2 dc5 41. Ha3 Cd9+ 42. Ad1 Rd6 43. Afe1
+Ri6 44. Ae0 Hg3 45. Ke1 Ri1+
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3·4위 순위 결정전 [천안지부 對 화성지부] - 4회전"]
+[White "조상제 [천안지부]"]
+[Black "김유 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ad1
+Kf8 8. Kd0 Afe8 9. Afe1 Ee6 10. Ce0 Ca7 11. Ri4 Hb9 12. Rd4 Hbd8 13. Ef3
+ih6 14. Cd2 Ce7 15. g4 Ce9 16. Cf0 Kf9 17. Cc0 Af8 18. c4 Ade8 19. Rb0 Cg9
+20. ab3 Ch7 21. b4 Cd9 22. Rf4 f5 23. Re4 Ce7 24. Rd4 Cxd4 25. Hxd4 fe5 26.
+Exc6 e4 27. Hxe6 Hxe6 28. gf4 exf4 29. Exf4 Hxf4 30. cd4 Ef6 31. de3 Exh3
+32. Cd2 Ra3 33. de4 Rxe3 34. exf4 Rxf3 35. fe4 Ri5 36. bc4 Rb5 37. Ra0 Ce9
+38. cd4 gf6 39. Ce0 Ch9 40. Rc0 hg6 41. Rc4 Hh6 42. Rc7 Cd9 43. Hxh3 Rxh3
+44. Cf0 Rf3 45. Rc9 Hg4 46. Cd2 Rd3 47. Rc7 Hh2 48. Rh7 Hf3 49. Cf0 Rb1 50.
+Rh1 Rc3 51. Rf1 b5 52. -- bc5 53. Rf2 c4 54. Re2 Hg1 55. Rf2 Hxe0 56. Kxe0
+Re3 57. Ad0 c3 58. ef4 Cg9 59. de4 Ce9 60. Cd2 Aef7 61. -- f5 62. fxf5 Rxe4
+63. Kf0 Rg4 64. Add1 Rg0+ 65. Kf1 Rb4 66. Rf3 c2 67. Cd0 Rh4 68. Rg3 Rh1+
+69. Kf2 Rxg3
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "3·4위 순위 결정전 [천안지부 對 화성지부] - 5회전"]
+[White "김정룡 [천안지부]"]
+[Black "김명필 [화성지부]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Ed3 Ce7 3. Hg2 Hg7 4. Ce2 ed6 5. ef3 Hce6 6. Hd2 Cf7 7. Rh0
+ih6 8. Rh4 Ra7 9. Rb4 Rc7 10. Rb7 Rxb7 11. Cxb7 cb6 12. Cb4 bc6 13. Cb1 Ri5
+14. Cf1 Ke9 15. Ee3 Ade8 16. Ke0 Cd9 17. Afe1 d5 18. Cc1 c5 19. Ci1 Rf5 20.
+ih3 d4 21. Cc1 Ei6 22. f4 Rd5 23. g4 ab6 24. Cg1 Ea6 25. Cd1 Aff8 26. h4
+Ri5 27. Af0 Cg9 28. Ade1 gf6 29. Kd0 Hc7 30. Ce0 Hge6 31. Hh0 Cxe3 32. fe4
+dxe4 33. Exf6 ed4 34. Hhf1 Ce7 35. Rc0 hg6 36. Ed3 dxd3 37. cxd3 b5 38. bc3
+Cd9 39. Ra0 gf6 40. Cc0 Ri3 41. Hb1 Cg9 42. Ce0 Ca9 43. Rc0 f5 44. He3 Ri5
+45. Hd2 Cf9 46. Rc2 f4 47. gxf4 Exf4 48. hg4 Exd1 49. Axd1 Cxf0 50. gf4
+Hxf4 51. Hdf1 Hfe6 52. Rg2 Cf7 53. Rg9+ Aff9 54. Rg2 Cd9 55. Rc2 Aff8 56.
+Hd2 Ri0
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [인천지회 對 송파지부] - 3회전"]
+[White "하여명 [송파지부]"]
+[Black "김동학 [인천지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Cc2 Ri5 4. Hd2 Ce7 5. Cc4 ed6+ 6. Ce2 Ee6 7. ef3
+Hf8 8. Ee3 Ra5 9. Rxa5 axa5 10. Cc1 ab5 11. Cf1 bc5 12. ih3 Kd8 13. Ri4 cd5
+14. Cd1 Ade8 15. Eb5+ Kd9 16. Cxd5 dxd5 17. Exe7 Exe7 18. He3 dc5 19. Ke0
+Ch5 20. Afe1 Ch9 21. Kf0 Ce9 22. Ce0 Ad8 23. Af1 Afe8 24. Ade1 Cb9 25. Hd1
+Ra1 26. c4 Rc1 27. cxc5 Hxc5 28. Rc4 Rxc4 29. Hxc4 Exg3 30. Cxe7 Axe7 31.
+hxg3 Hfe6 32. bc3 Hd4 33. cd3 Hf5 34. de3 Ha4 35. Ed3 c5 36. Hcb2 Hb6 37.
+g4 Hd4 38. gf4 Hb3 39. fe4 Ha4 40. Hc0 Hc1 41. Ha1 c4 42. Ea5 Hb2 43. Hc2
+Ce9 44. ed4 Cc9 45. dxc4 Hxc4 46. Hb4 gf6 47. Ec2 Cf9 48. Hc6 Aee8 49. He5
+Ha3 50. Hd3 Ha0 51. Ee5 Hc4 52. Eh3 fe6 53. Ke0 ed6 54. Ef6 d5 55. Hb4 Hc1
+56. Hc6 hg6 57. Eh3 Hb2 58. Ef0 Hxd1 59. Axd1 Cxf1 60. Hb4 dc5 61. Hd3 Hb3
+62. He5 g5 63. Ei2 gf5 64. Hd3 Cb1 65. f4 fxf4 66. Hxc5 Hxc5 67. Exf4
+{White resigns} 0-1
+
+[Event "제2회 오픈 장기 대항전"]
+[Site "브레인TV"]
+[Date "2021년"]
+[Round "결승전 [인천지회 對 송파지부] - 4회전"]
+[White "이성현 [송파지부]"]
+[Black "유동헌 [인천지회]"]
+[Result "0-1"]
+[TimeControl "각 10분, 30초 초읽기 3회, 총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 cb6 6. Ed3 Ed6 7. Exb6
+Rc9 8. Hd2 axb6 9. c4 Exf3 10. gxf3 He5 11. Cxe5 exe5 12. Ce2 ef5 13. Ra5
+g5 14. f4 Ee6 15. Rh0 Rh9 16. fxf5 gxf5 17. Ra7 Rc7 18. c5 Rd7 19. cb5 Cxb5
+20. Rxd7+ Kxd7 21. Exb5 bxb5 22. Rh3 Ke8 23. He3 bc5 24. b4 Af8 25. bc4
+cxc4 26. Hdxc4 Kf9 27. Hd5 Ci7 28. i4 Ade8 29. Hce3 h5 30. Ad1 hg5 31.
+Rxh9+ Hxh9 32. Cxe6 fe5 33. Hb6 Hg7 34. Ca6 Ce7 35. Hc4 e4 36. Kf1 Cxe3 37.
+Hxe3 exe3 38. i5 Hf5 39. Afe1 Hg3+ 40. Kf0 gf5 41. i6 f4
+{White resigns} 0-1
+

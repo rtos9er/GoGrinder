@@ -1,0 +1,842 @@
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 16강전"]
+[White "귀마 류병렬 初단"]
+[Black "귀마 배성철 四단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. ih3 Ce7 3. Hg2 cb6 4. Ed3 Ce5+ 5. Ce2 Ca7 6. Rb0 Hg7 7. Hd2
+Ed6 8. b4 Ra8 9. c4 Rc8 10. Rb1 Af8 11. Cb0 Cf7 12. Ri4 gf6 13. cd4 Ea8 14.
+d5 Ce7 15. Af1 Ke9 16. Cf0 Cf9 17. Ke0 Ade8 18. bc4 bc6 19. Ade1 ih6 20.
+Rg4 Ri7 21. Cc0 Rb8 22. Cxc6 Rxb1 23. Hxb1 Cd9 24. c5 Exc5 25. dxc5 He5 26.
+Cxe5 exe5 27. Ei3 h5 28. Rb4 f5 29. Cc0 Ri6 30. Hc3 Ee6 31. gf3 Cg9 32. Rb2
+h4 33. hxh4 Exh4 34. Cg0 Cxg2 35. Rxg2 He6 36. Exf5 exf5 37. Cc0 f4 38. Hd5
+fxf3 39. Hxe7 Axe7 40. exf3 Hxc5 41. Rg4 Exf1 42. Rc4 Hd7 43. Axf1 Ri3 44.
+Cf0 Aee8 45. Eg5 He5 46. Re4 Hf7 47. Ed7 Ri6 48. Eb4 ab6 49. Ae1 bc6 50.
+Ee2 Ri3 51. f4 Hg5 52. Rc4 Hh3 53. Rxc6 Hxf4 54. Rc9+ Ad9 55. Rc4 Hg2 56.
+Cd0
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 16강전"]
+[White "귀마 김기영 四단"]
+[Black "귀마 조용희 七단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Cb4 Ee6 7. c4
+Ke9 8. Cd4 Afe8 9. Hd2 Hf8 10. Cd1 Ra7 11. f4 Add8 12. Ci1 Rh8 13. Ca1 ab6
+14. ih3 d5 15. Ri9+ Ch9 16. ba3 Rb7 17. Ch1 Kd9 18. hi3 hi6 19. Cb1 Ra7 20.
+Rxi6 Cc9 21. ih3 gh6 22. Ri5 dc5 23. cxc5 Hxc5 24. Ch1 Ed6 25. Cd1 Cf9 26.
+fe4 Ec3 27. Ra2 Rh7 28. e5 Rf7 29. Af1 Ha6 30. a4 Ra8 31. Ra3 Rf4 32. Rxc3
+Rxa4 33. Exc6 Rc8 34. Cxd6+ Cd7 35. Cxb6 Rd4 36. Ad1 Hb8 37. Ri9+ Cf9 38.
+Ra3 Rc9 39. e6 Ce9 40. Hb3 Rd5 41. He3 Rb5 42. Cd6+ Hd7 43. Hd4 Rxb0 44.
+Ra8 Hxe6 45. Hxe6 Cxe6 46. Rxd8+ Ke9 47. Rd9#
+{White mates} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 16강전"]
+[White "귀마 성우제 九단"]
+[Black "귀마 양승태 二단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. Cb4
+Ad8 8. Cb1 Kd9 9. Ci1 Rd5 10. ih3 Ee6 11. Cd1 Exc3 12. bxc3 Rc5 13. c4 Rb5
+14. Ed3 Afe8 15. g4 Ce9 16. Hf4 Cc9 17. Exg6 hxg6 18. Hxg6 Hf8 19. Hf4 Add7
+20. cd4 Re5 21. hg3 Ce9 22. Ri2 Cbe7 23. de4 Cxe4 24. fe3 Hh5 25. gf3 Rc5
+26. exe4 Cxe4 27. Af1 Ce9 28. Kf0 Ee7 29. gh4 Hxf4 30. fxf4 Hg6 31. hg4 Rh5
+32. Ef6 Ra7 33. Ra3 Hi5 34. Ke1 Hh7 35. Ri6 Rh2 36. Af2 Rh0 37. f5 Ad8 38.
+Rii3 Hxf6 39. fxf6 Exg4 40. Hc4 Rah7 41. He3 Rg0 42. Ri8 Cxe3 43. Rxe3 Rd7
+44. Ri9+ Af9 45. Cxd7+ Axd7 46. Rxf9+ Kd8 47. Ree9
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 16강전"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김현기 初단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ri4
+Ke9 8. ef3 Ed6 9. Ee3 cb6 10. Cxb6 Rc9 11. Rxa6 Exb3 12. Cb2 Rxc3 13. Hd2
+Ed6 14. Rb4 Afe8 15. f4 Rc1+ 16. Ke0 Rg1 17. Cc2 Ri8 18. Ade1 Ri5 19. Cb5
+Ci7 20. Kd0 Cbe7 21. Cb1 Ci0+ 22. Kd1 Rc5 23. Rc6 Ra5 24. Cb9+ Hc9 25.
+Cxc9+ Ad8 26. Cb2 Cxe3 27. Hxe3 Ra1+ 28. Cc1 Ei6 29. Hef1 Ci7 30. Ce2 Cd7
+31. Kd0 Rg0 32. Ke0 Cd9 33. Rc9 gf6 34. Ad0 Ra3 35. Ch1 Exg3 36. Hxg3 Rh0
+37. Ae1 h5 38. Rb7 Ra0 39. Rxg7 Rxb0+ 40. Hc0 Kf9 41. Rg9+ Kf8 42. Cd1 Eb3
+43. Rc8 Ee5 44. fe4 Exh3 45. ed4 ed6 46. Cf1+ Cf7 47. He4 de6 48. Hg5 Rxc0+
+49. Rxc0 hxg5 50. Rg8+ Kf9 51. Rc9+
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 4강전 제2국"]
+[White "귀마 류병렬 初단"]
+[Black "귀마 김기영 四단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. c4 Hb9 9. a4 Ra8 10. Ch4 Ke9 11. Cf4 Hd8 12. Ra1 Ri8 13. Ke0 Ade8 14.
+Afe1 gh6 15. Ri1 Ce5 16. Add1 Aff8 17. Ci4 Rg8 18. Ci0 Cd7 19. Cg0 Rh8 20.
+gf4 Cf9 21. Rg1 Cc9 22. d4 Ce7 23. Ra2 Rh7 24. Rg5 hg6 25. Ra5 Rxa5 26.
+axa5 Cf9 27. a6 ih6 28. axb6 cxb6 29. c5 Ri7 30. Rb2 Ri5 31. Cc0 ba6 32.
+cd5 a5 33. fe4 f5 34. d6 gf6 35. Ra2 Hb7 36. dc6 Ca9 37. Rb2 Hd8 38. Rb6
+Cg9 39. Ra6 Rg5 40. Rxa5 Ch7 41. Ef3 Kf9 42. cd6 Hb7 43. Ra3 Ec9 44. Rb3
+fe6 45. d7 Hc5 46. d7xe8+ Axe8 47. Cxc5 f4 48. e5 Rg1 49. Ei5 Hxe5 50. d5
+Hg4 51. Hxg4 Rg0+ 52. Af0 Rxg4 53. Eh1 fe4 54. Rf3+ ef6 55. Cc0 Rg5 56. d6
+Rxi5 57. Afe1 hg6 58. Cf0 Af8 59. d7 Ef7 60. Rd3 Rc5 61. Hb4 Rc4 62. Ha6
+Rc6 63. Hc7 Cxh1 64. d7e8+ Axe8 65. Hxe8 Kf8 66. Rd9 Ci9 67. Rd8 Ch8 68.
+Rd7 ef4 69. Hd6 Cf9 70. h4 Rc5 71. hg4 f3 72. Cf4 Rd5 73. Cxf7 fe6 74. Cf0+
+gf6 75. Rh7 Cb8 76. Hb7 Cf7 77. Rxh9 fe3 78. Rh7 Cf3 79. Ce4 Rd4 80. Hc5
+ed6 81. Hd7+ Ke8 82. Hxf6+
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 4강전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 류병렬 初단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Che7 5. Ee3 ed6 6. Hd2 Ri5 7. Cb4
+Ra8 8. c4 Ee6 9. Rh0 Ke9 10. Cg4 Ri7 11. Kd1 Hi6 12. Ci2 Rii8 13. i4 Cb2
+14. Hi1 cb6 15. Ed3 Rac8 16. Exb6 axb6 17. i5 d5 18. Ade1 Cb5 19. ixi6 Rxi6
+20. Cc2 Rd8 21. Rh1 Cg5 22. Ce2 He5 23. Cg1 Cg9 24. Ce0 Rii8 25. Kd0 d4 26.
+cxd4 Rxd4 27. Exg6+ Hxg6 28. Rxh6 Hf8 29. Cd1 Rdi4 30. Hh3 Cg0 31. Cg1 Ed6
+32. Ra3 Ri2 33. Hg5 Rg2 34. Cd1 Rii2 35. Hge4 bc6 36. Rh0 Cxe4 37. Rxg0
+Rxd2 38. Axd2 Rxd2 39. Ae1 Rb2 40. bc3 Ce7 41. Rf0 Exc3 42. Rxc3 Eb3 43.
+Rc1 He6 44. Rf2 Rxf2 45. Axf2 Hc5 46. Ae1 Hd3 47. Ad2 He5 48. Cb1 c5 49.
+Cb9+ Ad8 50. Cb2 c4 51. Cc0 cd4 52. Ce2 d3 53. Ae1 Afe8 54. Ke0 Ed6 55. Rc5
+Hxf3 56. gxf3 Exf3 57. Re5 Kd9 58. Cg0 Add7 59. Cd0 Ke9 60. Cf2 Eh6 61. Kf0
+Kd9 62. Re6 Ef3 63. Rf6
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 8강전"]
+[White "귀마 김기영 四단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "72"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ch4 Ee6 6. Ch1 Ke9 7. Ca1
+Rc9 8. Ee3 Rc8 9. Hf2 Rii8 10. Ef3 Hf7 11. Ri4 f5 12. Cf1 g5 13. ab3 ih6
+14. Rxi8 Rxi8 15. Ra4 Afe8 16. g4 h5 17. h4 Ri6 18. hxh5 gxh5 19. Exc6 bxc6
+20. He3 hg5 21. gxg5 fxg5 22. Rc4 Exc3 23. bxc3 Hb9 24. Hd5 cd6 25. He3 Hd8
+26. Exd6 Rxd6 27. Ri4 Hb7 28. Ri9 Hh8 29. Ri7 Rh6 30. Hd5 Hd6 31. Hf6 Af7
+32. Hxh7 Cxh7 33. Ri9 Ad8 34. He4+ Kd9 35. Hxd6 Rxd6 36. Ri8 Ee7
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 4강전 제1국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 박영완 二단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Che7 5. Ee3 ed6 6. Cb4 Ri5 7. Hd2
+Ee6 8. c4 c5 9. cxc5 Rxc5 10. Cb1 dc6 11. ih3 Ed6 12. b4 Rc1+ 13. Cd1 Eb3
+14. Ri4 cb6 15. bc4 Rc0 16. Ade0 Rc9 17. Kf1 Ce5 18. Rf4 Cf7 19. Cxd7 Rc1+
+20. Afe1 gf6 21. Rxf6 Cf5+ 22. Rxf5 Hxf5 23. Cd1 Rc7 24. Kf0 Ri7 25. Hi3
+Rc3 26. Ed3 Ed6 27. Exb6+ axb6 28. Ra5 Ce7 29. Rxf5 Exg3 30. He4 Rd3 31.
+Cxd6 Exe0 32. Cd0 Ke9 33. Kxe0 hg6 34. Re5 Afe8 35. Re6 Rh7 36. hg3 Rb3 37.
+Hd6 Rb0 38. Hg2 Rh1 39. Hc8+ Add8 40. Rxb6 Rxb6 41. Hxb6 gh6 42. Hd5 Rg1
+43. Hi3 Add7 44. Hg4 Rh1 45. Hxe7 Adxe7 46. Ec6+
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 8강전"]
+[White "귀마 김경중 九단"]
+[Black "귀마 이남춘 九단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "99"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Ke0
+Ri5 8. Ri1 Rd5 9. Ed3 Ade8 10. ih3 Ce9 11. Ri4 ab6 12. Rxa9 Cxa9 13. Ra4
+Ce9 14. Ade1 He6 15. Ch2 Kd9 16. Chf2 Hef8 17. Cd0 Ri5 18. Ra9 b5 19. c4
+Ad8 20. Af1 Afe8 21. Ce2 Cg7 22. Ra6 c5 23. cxc5 Rxc5 24. Ea1 gf6 25. Hi3
+Cc9 26. Cb2 Ce9 27. Kf0 de6 28. Exb5 Cc7 29. b4 Cc9 30. Ra8 Ke9 31. Ce2 Kf9
+32. Rc8 Add9 33. Cxd7+ Axd7 34. Rxc9 Ae8 35. Ec4 e5 36. Cc2 Ee6 37. Rxb9
+Rd5 38. Ea7 Rd7 39. Exd9 Axd9 40. bc4 hg6 41. Cf2 Cf7 42. Cd0 Rc7 43. Cxd9
+Hxd9 44. Rxd9+ Kf8 45. Rd8+ Kf9 46. Hh5 Cf5 47. Rd9+ Kf8 48. Ee3 g5 49.
+Ec6+ Rxc6 50. Hg7
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 4강전 제3국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 류병렬 初단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{제 1회 이체배왕위전 준결승 3국}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Che7 5. Ee3 ed6 6. Hd2 Ke9 7. Cb4
+Ee6 8. c4 Ri8 9. Cd4 Afe8 10. Cd1 Ra8 11. g4 cb6 12. Ed3 Rc8
+{이 부분이 아마추어들이나 프로들의 실전에서 최근 많이 나오는 유형이다.
+
+초의 대응은 크게 3가지로 나뉜다.
+
+ 졸을 오른쪽 귀윗상 위로 쓴다.
+ 차로 졸을 지킨다.
+ 실전처럼 상으로 좌진병을 때린다.}
+13. Exb6 axb6 14. Ra9
+{이 부분에서 아마추어들이 초차를 죽이는 실수가 자주 나온다.
+
+그 부분에 대해서는 변화수1에서 간략히 다루었다.}
+14... Kf9 15. Ci1 Rh8 16. Cc1 Rb8 17. Cf1+ Ke9 18. ih3 Ri8 19. Rxi8 Hxi8
+20. Hf4 gf6 21. Hd3 hg6 22. Hc5
+{한의 대응은 여기서 크게 3가지가 있다.
+
+기보에 변화수2에서 다루었다.
+
+ 44의 병을 변쪽으로 당겨 합병하는 수
+   (가장 좋음)
+ 42의 병을 중앙으로 당겨 합병하는 수
+
+ 포를 앞으로 넘기는 수(가장 나쁨)
+
+실전에서는 류병렬초단이 3번을 선택했다.
+따라서 이후 형태도 안좋아지고 기물상 손해도 보았다.
+
+바로 이 부분이 이 대국의 가장 중요한 포인트.}
+22... Cb5 23. Hxd7+ Axd7 24. Cd1 Hh6 25. gf4 bc6 26. cb4 Cxb3 27. Hxb3 Rxb4
+28. Hd2 c5 29. Ke0 g5 30. Afe1 gf5 31. fe4 c4 32. Ra3 c3 33. ed4 d5 34. Ce4
+Rb8 35. dxd5 Rb4 36. Ce2 Hg4 37. Kf0 Hh2 38. de5 fxe5 39. Ec6+ Kf9 40. Rxc3
+Ri4 41. Ce0 Cc7 42. Rd3 Cf7 43. Rxd7+ Ae8 44. Rd3 Eb4 45. Cf1 f5 46. Af2 e4
+47. Ade1 ed4 48. Rb3 dc4 49. Ra3 Ee7 50. Ra9+ Kf8 51. Rg9 Hxf1 52. Aexf1
+fe5 53. Ke1 ed5 54. He4 Ri7 55. Hd6 Cd7 56. Ea9 Ri6 57. Kf0 de5 58. Hxc4 e4
+59. He5 Rf6 60. Hg6+ Kf7 61. Rg7+ Kf8 62. Rxe7+
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 16강전"]
+[White "귀마 허석조 二단"]
+[Black "원앙마 차진학 九단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. ab3 ih6 4. Rh0 Ce5 5. Ra4 Ch7 6. Ri0 Hc7 7. ef3 c5
+8. Ee3 Cee7 9. Exg6 hxg6 10. Rh0 ef6 11. Ed3 a5 12. Re4 Ege6 13. Rg4 Exc3
+14. Exf6 gxf6 15. Rxg7 Cf7 16. bxc3 Af8 17. Hd2 Ee6 18. cb3 ab5 19. Ad1 Ra2
+20. Kd0 Ke9 21. Rg4 Ade8 22. Rhh4 Ra0+ 23. Ke1 Rc0 24. Ae0 Rc2 25. He3 Rc1
+26. i4 Cd9 27. Ad0 Hd5 28. Hxd5 cxd5 29. Cxb5 Ri6 30. Ci5 f5 31. Rh7 de5
+32. Ci0 Rf6 33. Ke0 Aef7 34. Rh1 Rc0 35. Rc4 Ra0 36. Ae1 ed5 37. Rh2 Rb0
+38. Rc0 Rxc0 39. Hxc0 f4 40. Rf2 fe4 41. g4 e3 42. fxe3 Rxf2 43. Axf2 Eg3+
+44. Ke1 Exi0 45. Af1 A8e8 46. Ha1 Cf9 47. Hc2 Kd9 48. Hb4 Eg3 49. ef3 Cxf3
+50. Hxd5 Ce9 51. Hf6 Ci3 52. Hh5 Cxb3 53. Hxg3
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 8강전"]
+[White "양귀마 박영완 二단"]
+[Black "원앙마 이양근 九단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. ih3 Ce7 3. Ri4 ed6+ 4. Ce2 He6 5. Hd2 d5 6. e4 Hbc7 7. Ed3
+Ke9 8. Rg4 ih6 9. Ef3 Ri6 10. Ad1 h5 11. Kd0 Afe8 12. Afe1 Add8 13. Ce0 Cd7
+14. Cbe2 Cxd3 15. e5 Cxd1 16. exe6 Hxe6 17. Axd1 d4 18. Ca2 g5 19. Ca4 Rb9
+20. Ri4 Rxi4 21. Cxi4 de4 22. Hxe4 Cxe4 23. Ed6 Rb4 24. ab3 Rd4 25. Hxe4
+Rxe4 26. Cc4 cxd6 27. Cc2 dc6 28. Cxc6 Hd4 29. Cc1 Ece6 30. Ae1 Ri4 31. Ra4
+hi5 32. Rxa6 Ri2 33. Cc4 Rb2 34. Ra5 ih5 35. Ra1 Hf5 36. gf3 Rh2 37. f4 Hd6
+38. hg3 Hxc4 39. cxc4 Kf9 40. Ra9+ Add9 41. cd4 Ri2 42. gh3 Ri4 43. de4 g4
+44. f5 Eh8 45. Ra6 Exf5 46. Rf6+ Af8 47. Rxf5 h4 48. hxh4 Rxh4 49. Rg5 Ei6
+50. Ri5 Rh6 51. Rg5 g3 52. Rd5 Ade8 53. bc3 gf3 54. Rd3 Rf6 55. Rd2 Ra6 56.
+cd3 Eg3 57. Rg2 Ke9 58. Ad1 Ra3 59. Ce5+ Kf9 60. de3 Ei6 61. exf3 Rxf3 62.
+Rg6 Ri3 63. Ce0 Ri0 64. Ra6 Aff7 65. Ra9+ Kf8 66. Ri9
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 16강전"]
+[White "원앙마 이양근 九단"]
+[Black "귀마 안동건 五단"]
+[Result "1-0"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. ef3
+ih6 8. c4 Hf7 9. b4 Af8 10. Ke0 Kf9 11. Afe1 Ade8 12. Rb3 Ce9 13. f4 Cg9
+14. g4 ed6 15. He3 Exc4 16. bxc4 He6 17. Cf0 Ra0 18. Ea3 Ea6 19. Cd2 Cc7
+20. Kf0 Cb9 21. Rd3 Cxc4 22. Ce0 Cc0 23. Exc0 Ra5 24. Ce2 Rb5 25. Ke0 Rb1
+26. Ea3 Cg9 27. Exc6 Cd9 28. Ra3 Hed8 29. Cf0 dxc6 30. f5 Rc1 31. i4 cd6
+32. Ri3 Ri7 33. ih4 Rxi3 34. Exi3 He6 35. fe5 Hd8 36. Add1 gf6 37. Ra1 Rxa1
+38. Hxa1 bc6 39. Hac2 de6 40. exe6 fxe6 41. g5 cd6 42. h5 hxh5 43. gxh5 ef6
+44. hg5 de6 45. gf5 Hh6 46. fxf6 exf6 47. Ef1 Hg8 48. Hg4 Cf7 49. Hxf6 Hxf6
+50. Cxf6 Ec3 51. Eh4 Hc6 52. Exf7 Axf7 53. He3 Hd4 54. Af2 Hxe2 55. Axe2
+{Black resigns} 1-0
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 16강전"]
+[White "귀마 하성호 六단"]
+[Black "귀마 이남춘 九단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 d5 7. Cb1 g5
+8. Ci1 Rh9 9. Hd2 h5 10. Cd1 c5 11. ih3 Ei6 12. Ri4 Rh6 13. Ria4 Ke9 14. c4
+Afe8 15. cxc5 dxc5 16. Ed3 Eg9 17. Ade0 Ri6 18. hi3 Ra8 19. f4 Rb6 20. bc3
+Add8 21. c4 He6 22. gf3 Ed6 23. R4a3 Exf3 24. Ea1 Eh0 25. Af1 Kf9 26. fe4
+g4 27. Hxh0 Ce9 28. e5 Hef8 29. cxc5 Hxc5 30. ed5 Hb3 31. Hxb3 Cxb3 32. Eb1
+Rc8 33. Af2 Rc3 34. Ra4 hg5 35. i4 Ce7 36. Cf1 Ke9 37. ih4 g3 38. Rf4 He6
+39. Ra4 gf3 40. Rd0 a5 41. Rxa5 Hf4 42. Kf0 fxf2 43. Rxf2 Hxe2+ 44. Rxe2
+Cb0+ 45. Ae1 Rc0+
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 16강전"]
+[White "귀마 황문수 九단"]
+[Black "귀마 박영완 二단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 ef6 6. Ef3 Af8 7. Ke0
+Ra5 8. Ra1 Ee6 9. Ri4 Ri5 10. Rxi5 ixi5 11. g4 f5 12. ab3 Cd7 13. Cxe6 g5
+14. Ra4 Cxd0 15. Kxd0 Hxe6 16. Cb2 ih5 17. Ei1 Kf9 18. Ae1 Ade8 19. gxg5
+hxg5 20. hg3 Ce9 21. Cd2 Hf4 22. gf3 Hh3 23. Rh4 Ri3 24. Hh2 g4 25. Rxg4
+Hhg5 26. Rg1 Rh3 27. Hf1 Cg9 28. fg3 Rh0+ 29. Cf0 Rh2 30. Hb0 Hi4 31. Rh1
+Rxh1 32. Exh1 fg5 33. g4 Ci9 34. gh4 Hih6 35. Ee3 Ke9 36. Ke0 Hi8 37. Ef3
+Hg7 38. Eh0 Cf9 39. Hd1 He5 40. d4 Hi6 41. de4 Hd7 42. h5 g4 43. Cd0 Hh4
+44. hg5 Hi6 45. g6 Hh4 46. Cd4 Hc5 47. e5 He4 48. Cxg4 Hxg6 49. ed5 Hf6 50.
+Exg6 Hxg4 51. Hg3 Ef6 52. Ee2 Ec8 53. He3 Hf6 54. Hh5 He4 55. cd3 Cd9 56.
+bc3 Hf6 57. Hxf6 Exf6 58. Hf5 Cf7 59. Hg3 Ec8 60. He4 Cd9 61. d4 Ad7 62. c4
+Kf9 63. Ei3 Afe8 64. Ef5 -- 65. Ei7+ Ke9 66. Eh4
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "롯데호텔"]
+[Date "2008년"]
+[Round "예선 32강전"]
+[White "귀마 김동학 四단"]
+[Black "귀마 허석조 二단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. ed3+ Che7 5. Ee3 ef6 6. Exc6 bxc6 7.
+Rb0 Kf8 8. Ef3 Ee6 9. Rb5 Afe8 10. Ri4 Ra6 11. Rh5 gh6 12. Exh6 fg6 13. Rf5
+Exg3 14. Ef3 g5 15. Rff4 Ee6 16. Hi1 Kf9 17. Hg2 Ke9 18. Cf2 Cd7 19. Ec1
+Cf9 20. Ra4 Rxa4 21. axa4 c5 22. He3 Ef6 23. Ri3 i5 24. h4 i4 25. Ri1 Ri8
+26. Cxf7 Axf7 27. Hf4 Exc3 28. dxc3 ixh4 29. Rxi8 Exi8 30. He6 Hxe6 31.
+Cxe6 Ade8 32. Ee4 Ef6 33. Ke0 Eh3 34. Ade1 hg4 35. cd3 Cf3 36. Hd1 gf4 37.
+Ec1 cd5 38. He3 Ci3 39. Hxd5 g4 40. d4 Kf9 41. de4 f3 42. ed4 g3 43. Hf4
+Exf0 44. Axf0 fe3 45. Ee4 ed3 46. Hh5 gh3 47. Eh6+ Ke9 48. Hf4 hg3 49. d5
+Kd9 50. Ee4 Ke9 51. Eb6 dc3 52. Hg6 Kf9 53. de5 Ad7 54. Ce4 Cb7 55. Hh8+
+Kf8 56. e6 Afe8 57. Hg6+ Cg7 58. ed6 Add8 59. Hf4 Cg0+ 60. Ae1 Cg9 61. Hg6+
+Kf9 62. Hh8+ Kf8 63. ab4 Cg0 64. de6 Cg8 65. Hg6+ Kf9 66. e7 Af8 67. Hi7
+Cg0 68. Hh5 gh3 69. Hg7+ Cg8 70. Hf5
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "B조 4강전 제2국"]
+[White "귀마 박영완 二단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Ke9 8. Ef3 Ra8 9. Rb0 Rii8 10. c4 ih6 11. Rxi8 Rxi8 12. Hd4 Afe8 13. Exc6
+bxc6 14. Hxc6 Cg7 15. d4 Kf9 16. Rb3 Cg5 17. de4 f5 18. g4 Cg8 19. Exh6
+gxh6 20. Hd4 Eh8 21. c5 Cd8 22. Ke0 Cf8 23. c6 Ha8 24. He6 Ce7 25. Cxh6 Cf6
+26. Cxh9 Ce9 27. Hc5 Cxf2 28. Rf3 Ri6 29. Hd3 Cxe4 30. Hxf2 Ce9 31. Ch4
+Rxc6 32. Afe1 Rc0+ 33. Add0 Hc7 34. Ch1 He6 35. Kf0 Hd4 36. Rd3 Hc6 37. Cd1
+Hce5 38. Rd5 Add8 39. Cf1 Af8 40. Ce0 Rc3 41. g5 Ade8 42. gxf5 Exf5 43. a4
+Ed8 44. Rd4 Cg9 45. ab4 Cd9 46. Re4 Ke9 47. h4 Rg3 48. Aed1 Cf9 49. Hg4 Hg6
+50. Hf6 Kd9 51. A1e1 Hd6 52. Hd5 Rd3 53. Rg4 Hxh4 54. He3 Hi2 55. Add1 Hf5
+56. Hg2 Rg3 57. Rxg3 Hfxg3 58. Ce3 Cf3 59. Add0 Hh4 60. Cd1+ Ad7 61. Hh0
+Cf9+ 62. Cf1 Hxf1
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "결승전 제1국"]
+[White "귀마 김기영 四단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Hf7 6. Hf2 Ee6 7. g4 Ri8
+8. Ch4 Ra8 9. Rb0 gh6 10. Cc4 Ha6 11. Ci4 Rg8 12. Ca4 Rc8 13. Ca1 Ke9 14.
+a4 Rc9 15. Cg1 Ra8 16. Ef3 Hb8 17. ab4 Hd7 18. bc4 Ra5 19. cd4 Ade8 20.
+Exh6 ixh6 21. Ri9 Kd9 22. Rxh9 Ri5 23. Cg7 Ri7 24. Rh8 Cxh3 25. Hxh3 Rxg7
+26. Rxh6 Rxg4 27. Rh5 Ce9 28. Ad1 Ra9 29. Hf2 Rg3 30. Kd0 Ad8 31. Afe1 Cb9
+32. Rc0 Afe8 33. Cb2 Cf9 34. Cd2 Ke9 35. Cf0 cd6 36. c4 Cc9 37. Rh2 Ra2 38.
+Hh1 Rg1 39. Rf2 Hh6 40. Hi3 Hg4 41. Hxg4 Rxg4 42. Ri2 f5 43. Rf2 fe5 44.
+Eh1 Rg3 45. Rd2 Eg9 46. de3 Ei6 47. ed3 Rg1 48. Ri2 Rxh1 49. Rxi6 Rxc2 50.
+Rxc2 Cxc2 51. Rxd6 Rh3 52. c5 Cc9
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "결승전 제2국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김기영 四단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "150"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Cb4 Ee6 7. Cb1
+Ke9 8. Hd2 Ria8 9. Cf1 ab6 10. Rxa8 Rxa8 11. ih3 Ade8 12. Ri5 Hf8 13. c4
+Kd9 14. f4 Ce9 15. Ke0 Cc9 16. cd4 gf6 17. de4 Ra4 18. Afe1 Ad8 19. Ed3 hg6
+20. gf3 Afe8 21. Kf0 Cb7 22. e5 Hh7 23. Ri8 c5 24. fe4 bc6 25. Cf4 Ra6 26.
+Cf2 cd5 27. Hf4 Hhf8 28. hg3 Ce7 29. Ri5 c5 30. Af1 Cf9 31. Ade1 Hb6 32. b4
+Ra0+ 33. Ae0 Ra3 34. Cb2 Hd7 35. Aee1 Rxd3 36. exe6 fxe6 37. e5 Cxf4 38.
+exe6 dxe6 39. fxf4 Rxe3 40. gf3 Ra3 41. Cxb9 Hb6 42. b5 Ra9 43. Ci9 Ra0+
+44. Cd0 cxb5 45. Ci0 bc5 46. Ce0 gf6 47. f5 fxf5 48. Rxf5 Ce9 49. Rg5 Cc9
+50. Rg4 Cf9 51. Rg9 e5 52. Cxe5 Rxd0+ 53. Axd0 dxe5 54. Ke0 Hc4 55. Hb3 ed5
+56. Ade1 Ke9 57. Hc1 de5 58. Hd3 cd5 59. f4 Hd6 60. fg4 ef5 61. gh4 de5 62.
+h5 He4 63. h6 He6 64. hg6 H6c5 65. Hb4 Hd7 66. Hc6 ed5 67. Ri9 fe5 68. Ri6
+Hg5 69. Rh6 Hf3 70. gf6 Hf8 71. fg6 Hd4 72. g7 Hf5 73. Rh8 Hxg7 74. Hxd8
+Axd8 75. Rxf8 Ae8
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "결승전 제3국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 김기영 四단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Cb4 Ee6 7. c4
+Ke9 8. Cd4 Afe8 9. Hd2 Hf8 10. Cd1 Ra7 11. Ci1 Rh8 12. Cc1 ab6 13. Rxa7
+Cxa7 14. ih3 Cf7 15. Ed3 Cf9 16. Ri5 Add8 17. Ke0 Cc7 18. cd4 Ce7 19. Ade1
+h5 20. Ri9 g5 21. Ri6 Rg8 22. Hi3 Rg7 23. bc3 Kd9 24. c4 Rh7 25. Kd0 Rh9
+26. Cb2 Cc9 27. Cg1 Cb7 28. f4 Ce7 29. Exh5 gxh5 30. Ch2 Rh7 31. Hxh5 Rf7
+32. Cb1 Cb7 33. Cf1 Re7 34. gf3 Hb8 35. f5 Rc7 36. f6 Cd7 37. Hf4 Ra7 38.
+Ke0 c5 39. cxc5 Cxd4 40. Ea1 Ce9 41. Cb2 Cd7 42. fxe6 Hxe6 43. Hxe6 Cxe6+
+44. Ce2 Cxd2 45. Axd2 Rxa1 46. cd5 bc6 47. hg3 Hd7 48. Ri9+ Ce9 49. de5 Ra5
+50. Cf7+ Ae7 51. Cxe7 Rxe5+ 52. Ce1 de6 53. f4 Hc5 54. Af1 Hb3 55. Ad1 Ed6
+56. f5 Re4 57. f6 exf6 58. Ri8 Ra4 59. Cg1 fe6+ 60. Afe1 Rh4 61. Ri0 Rh7
+62. Rf0 ef6+
+{White resigns} 0-1
+
+[Event "제1회 이체배 왕위전"]
+[Site "브레인TV"]
+[Date "2008년"]
+[Round "A조 8강전"]
+[White "원앙마 허석조 二단"]
+[Black "귀마 류병렬 初단"]
+[Result "0-1"]
+[TimeControl "총 대국시간 70분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Cb4 Ra8 4. Ca2 ab6 5. Ea3 Rb8 6. Ci2 Rh9 7. ih3
+Ce7 8. Ce2 Hd7 9. ed3 Ei6 10. Hc2 c5 11. Cb0 Rc8 12. Ri4 b5 13. Ec0 Ed6 14.
+Ra3 Ke9 15. Ad1 Afe8 16. Cd0 gf6 17. Hce3 hg6 18. Ke0 g5 19. Afe1 Ci7 20.
+Ria4 Cif7 21. d4 gf5 22. c4 fe5 23. b4 Ce7 24. Ra6 Kf9 25. Hg4 Ce9 26. Hxe5
+Hb8 27. Ra7 exe5 28. bxb5 cxb5 29. Rb3 Hc6 30. Ra6 b4 31. Rb2 Exg3 32. hxg3
+Hf5 33. gf3 Exf3 34. Ece3 e4 35. dxe4 bxc4 36. ef4 Hfd4 37. Exc6 Hxe2 38.
+Exe9 Hg1+ 39. Kf0 Rh6 40. Rbb6 Ei5 41. Rxf6 Rxf6 42. Rxf6 Exg2 43. Cxd9+
+Kxe9 44. Cd0 Rc6 45. Rf5 cd4 46. Af1 Exd0 47. Axd0 Rc0 48. Ke0 Cd9 49. Rd5
+Rc4 50. Rg5 Hf3 51. Ee3 de4 52. Re5 exe3 53. Rxe3 Rxf4
+{White resigns} 0-1
+

@@ -1,0 +1,1320 @@
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 1라운드"]
+[White "귀마 성보경"]
+[Black "귀마 최영기"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Cg2 Ra5 4. Ca2 Rc5 5. ab3 Hc7 6. Ce2 Cbe7 7. Ke0
+Ea6 8. Ef3 Ef6 9. Ra1 Rg5 10. Hf2 gh6 11. Afe1 Rh9 12. Ra4 Af8 13. e4 Ke9
+14. ef4 Ade8 15. g4 Rd5 16. He3 Rd8 17. f5 Ca7 18. Rf4 Che7 19. fxf6 exf6
+20. Rxf6 Rg9 21. hg3 Kf9 22. Kf0 Ce9 23. Ce0 Cd7 24. Hed1 Cd9 25. Cc2 Rd5
+26. Ea3 Hd8 27. cd3 Hce6 28. He3 Rb5 29. bc3 hg6 30. Rf5 Rxf5 31. Hxf5 g5
+32. Rxi6 Cf7 33. gxg5 Rxg5 34. Cg0 Rh5 35. Eh6+ Rxh6 36. Rxh6 cd6 37. Af1
+bc6 38. Hh4 Ad9 39. Ce0 Hf4 40. gf3 Hfe6 41. Hi6 Hg5 42. Hh8+ Ke8 43. de3+
+Ce6 44. Rg6 Hi4 45. cd3 Ae9 46. Cc8+ Kd9 47. Rg4 Hh6 48. Rb4 cb6 49. Cb0
+dc6 50. Cxf8 Ae8 51. Cxd8 Kxd8 52. Rd4+ Ad7 53. Rh4 Hg8 54. Rg4 He9 55. Rg9
+Cxf2+ 56. Axf2 Ae8 57. Ade1 Hc8 58. Ch0 Ce9 59. Cd0+ cd6 60. Rg4 Kd9 61.
+Rc4 bc6 62. Rxc6
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 2라운드"]
+[White "귀마 정원직"]
+[Black "귀마 김광림"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Ed6 5. Ee3 c5 6. Rh0 Ri8 7. Hd2 Hd7
+8. Rh4 Rf8 9. Ce0 Ce5+ 10. Kd1 Hi6 11. Rd4 a5 12. c4 Rc9 13. Exg6 Cbe7 14.
+Ra1 hxg6 15. cxc5 Rxc5 16. Rc4 Exf3 17. gxf3 Rxc4 18. Hxc4 Rxf3 19. Hd2 Rg3
+20. Cg0 Rxg2 21. Cxg2 gf6 22. Rxa5 Hh4 23. ih3 Hf5 24. Hf1 Ch5 25. Ra8+ Ke9
+26. Ade1 Cd5 27. Cd0 Afe8 28. bc3 Cd8+ 29. Cd2 Hc5 30. cd3 He4 31. Ra4 Ei6
+32. Kd0 Ci8 33. de3 Ci0+ 34. Ae0 Hc3 35. Rc4 Hb1+ 36. Rc1 Ha3 37. ed3 Cexe0
+38. Ee2 Ce5+ 39. Ae1 Ci9 40. Cf0 Ci1 41. Ca2 Hb5 42. Cxf5 fxf5 43. Rc5 Ch5
+44. Rxf5 Ce5 45. Eb4 Ci8 46. Exe6 Cd8+ 47. Ad2 Hc3 48. Ce2 Hb1+ 49. Kd1 Ce7
+50. Rb5 Hxd2 51. Hxd2 Ef8 52. Rg5 Af7 53. Ec3 Ke8 54. d4 Ce9 55. d5 Kf9 56.
+d6 Ade8 57. Ea6
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 3라운드"]
+[White "귀마 주상호"]
+[Black "귀마 김태용"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. cd3 Ra5 7. Hc2
+Hf7 8. a4 Rf5 9. He4 Af8 10. Ee2 Ce9 11. Cd2 ih6 12. Rxi9 Cxi9 13. Aff1 Ri5
+14. Cf0 Cg9 15. Chd2 Ri0 16. ab4 f5 17. Hd4 fe5 18. Hxe6 Hxe6 19. Hc3 Ef6
+20. d4 Ke9 21. Ra9 Ae8 22. b5 Exh3 23. gxh3 Cxh3 24. e4 exe4 25. dxe4 Ch7
+26. bxb6 cxb6 27. Ea3 Hed8 28. Ec5 Hb7 29. Ra8 Hfd6 30. Exe8 Axe8 31. Hd5
+b5 32. Aff2 bc5 33. Cxd6 Hxd6 34. Ec6+ Kd9 35. Hc3 c4 36. He2 Hxe4 37. Ra7
+Ch5 38. Hf4 Ch9 39. He6 Hd6 40. Rh7 Cb9 41. Hf8 Cf9 42. Hxh9 He4 43. Aff1
+Ri5 44. Hg7 Cb9 45. He6 Cf9 46. Hc7+ Kd8 47. Hxe8 Rc5 48. Rh8 Re5 49. Hg7+
+Kd9 50. Hxf9 Re8 51. Rh9 Rd7 52. Hg7+ Kd8 53. He6+ Re7 54. Re9 Rxe6 55.
+Rxe6 Hg5 56. Re7 cd4 57. Ea9
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "8강전"]
+[White "귀마 정원직"]
+[Black "귀마 이병현"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. g4
+Ke9 8. Ch4 Rai8 9. ab3 Afe8 10. Ra5 ih6 11. Rxi8 Rxi8 12. Ad1 Kf9 13. Kd0
+Ce9 14. Afe1 Ch7 15. Cf4 Af8 16. Cf0 Ade8 17. Ce0 Hbd8 18. c4 Cg9 19. Hd4
+Cd9 20. Ef3 Ce7 21. c5 Cxd4 22. dxd4 Cxe3 23. de4 Hb7 24. Cb0 Hfd8 25. b4
+Ec3 26. cxc6 bxc6 27. Ra7 Ri7 28. bc4 Rd7 29. Cd2 c5 30. ed4 Rf7 31. Ch2
+cxc4 32. dxc4 Ce9 33. Exh6+ gxh6 34. Cxh6 Hd6 35. Rxf7 Aexf7 36. Cxd6 Hb7
+37. Ch6 fg6 38. Ch2 Ef6 39. He4 Cg9 40. Hxc3 Exc4 41. hg3 Hd6 42. Cf0 Ce9
+43. gf4 Ke8 44. Add2 Hb5 45. He4 Ea7 46. Cc2 Ed5 47. Ce2+ Ce7 48. g4 Ce3
+49. Cf5 Hd4 50. Cf1 Eb8 51. Hd6+
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "3·4위 결정전"]
+[White "귀마 최진호"]
+[Black "귀마 주상호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "127"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri5 4. ef3+ ed6 5. Ee3+ Kd8 6. Hd2 Ade8 7. Cb4
+Ce7 8. c4 Ce9 9. Cd4 d5 10. Cd1 gf6 11. g4 cd6 12. Ed3 fe6 13. i4 Ri8 14.
+Ci1 Rf8 15. ih4 Ca7 16. Ca2 Ri8 17. Rc0 ab6 18. ba3 bc6 19. Rb0 e5 20. f4
+Ee6 21. hi4 Rh8 22. Rh0 Hhf8 23. Ec0 hg6 24. ih4 Cg9 25. Rb7 Exh4 26. Rxh4
+Rxh4 27. Hxh4 Ce9 28. Kd1 Ce7 29. Rb5 gf6 30. Cb1 Ce9 31. Rb7 Ce7 32. Rb3
+f5 33. Cxb9 fxf4 34. gxf4 Ra8 35. Cb0 Rc8 36. Ce2 c5 37. Ea5 Rc7 38. Rb8+
+Kd9 39. Rb9+ Hc9 40. Cc2 Ce9 41. Hg2 Rb7 42. cb4 Rxb9 43. Cxb9+ Hb7 44. a4
+d4 45. Cb6 cb5 46. bxb5 d3 47. Hf1 dc6 48. Cb0 Cd7+ 49. Ke1 d2+ 50. Ke0
+ed5+ 51. Hfe3 dxc2 52. Cxb7 c1 53. b6 cxc0 54. Ade1 Ce6 55. Ae2 Cxb6 56.
+Hxd5 Ce6+ 57. Ae1 cd6 58. Exd7 dxd5 59. Eb4 Hg6 60. Cb1 He7 61. He3 Hc6 62.
+Hxd5 Ke9 63. Cb6 Aff8 64. Hc7
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "결승 1회전"]
+[White "귀마 김태용"]
+[Black "귀마 정원직"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1 f5
+8. Af1 Ef6 9. Ef3 g5 10. Ri1 i5 11. g4 Ei4 12. h4 gxg4 13. hxg4 Exf2 14.
+Rxi5 Rxi5 15. Exi5 Hh6 16. Rg0 Hi4 17. Rg2 Ed5 18. Cf2 Af8 19. gh4 Ch1+ 20.
+Kf0 Exh4 21. Rg4 Hh2 22. Rg8 fg5 23. Ca2 Rc9 24. Rxg5 Ad8 25. Afe1 cd6 26.
+Cd0 He6 27. Rg8 Cxe3 28. Hxe3 Ri9 29. Hg2 Rxi5 30. Cxh2 Rf5+ 31. Ke0 Hg7
+32. Hxh4 Rg5 33. Cf0 de6 34. Add2 Cc1 35. Cc2 Rh5 36. Hg2 Cg1 37. Rg9 Af9
+38. Ri9 Exa3 39. Ce2+ Re5 40. He3 Rg5 41. Hd5+ ed6 42. Hf6+ Kd9 43. Cxf9
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 1라운드"]
+[White "귀마 김태용"]
+[Black "양귀마 진윤호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 gf6 3. ih3 Ri8 4. ab3 Ed6 5. Ed3 Ce7 6. Ke0 Ra8 7. Ra1
+Ce9 8. Rai1 Cc7 9. Hd2 Cg7 10. He1 Ca7 11. Rxi6 Rxi6 12. Rxi6 Kd8 13. ef3
+Ade8 14. Ee3 ab6 15. Hg0 Hf7 16. Afe1 Ca9 17. Kf0 c5 18. Ri4 e5 19. Ce0 f5
+20. Cf2 Ef6 21. Rg4 Ce6 22. Af1 Cg9 23. Hh2 Hh6 24. Rxg9 Hf7 25. Rg4 b5 26.
+Ade1 cd5 27. Cd0 bc5 28. Rb4 Ce9 29. h4 Ei8 30. hg4 e4 31. gf4 fxf4 32.
+fxf4 exe3 33. Cxe3 Rb8 34. Rxb8+ Hxb8 35. Ce0 Kd9 36. b4 Ad8 37. bc4 Afe8
+38. Ce2 Cc9 39. Ke0 cxc4 40. Eb6#
+{White mates} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 1라운드"]
+[White "귀마 김영곤"]
+[Black "원앙마 김수환"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. ih3 ed6 4. ab3 Hc7 5. Hd2 Cd7 6. Ra4 He6 7. ef3
+Ri7 8. Ee3 Rg7 9. g4 Hd4 10. Ce4 g5 11. gf4 c5 12. Ad1 Af8 13. cd3 He6 14.
+Kd0 d5 15. Ra1 d4 16. dxd4 Hxd4 17. Rc1 He6 18. Ce0 Cf9 19. Hh4 ih6 20. Cg0
+Rh7 21. hg3 h5 22. Hg2 Ke9 23. Ri8 Ade8 24. He1 a5 25. b4 ab5 26. bxb5 cxb5
+27. Rg8 Cd9 28. Ce0 Ra2 29. Hd3 Hc5 30. Afe1 Ri7 31. Cf2 Ra0 32. Hxc5 Ri0
+33. Hd7+ Axd7 34. Rc0 Ade8 35. fe4 Hd5 36. ed4 Cxd4 37. Rxg9+ Aef9 38. Exb5
+Cd6 39. Rxc9+ Ke8 40. Rc8+ Kd7 41. Rc0 Hc3 42. Cc2 Hxb5 43. Rg6 Ke8 44. Re6
+Ri7 45. Cf2 Ra6 46. Rc8+ Kd7 47. Rxe7+ Rxe7 48. Cxe7 Kxe7 49. Rc5 Ha3 50.
+Re5+ Kd7 51. Rd5 Rb6 52. Ke0 Rxb0+ 53. Cd0 Rb6 54. He4 Hc4 55. Rc5 Hb2 56.
+Hxd6 Rxd6 57. Cxd6 Ke8 58. Re5+ Kd9 59. Cd0+
+{총 대국시간 종료}
+
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 2라운드"]
+[White "귀마 성보경"]
+[Black "원앙마 김수환"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 ed6 5. ef3 Hge6 6. Ed3 c5 7. Ke0
+Ri7 8. Afe1 d5 9. Kf0 Cd7 10. Ra1 Rg7 11. Ce0 d4 12. Eb0 g5 13. Hd2 Af8 14.
+He3 Cf9 15. Hef1 Ci9 16. Ei3 i5 17. Ee2 gh5 18. Cg0 Rh7 19. Cxg9 Ca7 20.
+Rc1 Cg7 21. He3 hg5 22. c4 Ci4 23. Eg0 cxc4 24. Hdxc4 Cxc4 25. Hxc4 dxc4
+26. Exg5+ Hxg5 27. Rxc4 Rh9 28. Rxi5 Hf7 29. Re4+ Ce7 30. Ci9 ab6 31. Cxb6
+Rb9 32. Cb0 Rxb3 33. Ce0 Ee6 34. Rc4 Rc3 35. Rd4 Rh6 36. Ci1 Exg3 37. hxg3
+Rc2 38. Re4 He6 39. Rxe6 Rxe6 40. Cxe6 Ke9 41. Ce0 Ade8 42. Ee3 Rc4 43. Cd1
+Hh8 44. Ri9+ Hf9 45. Ad2 Ad9 46. A0e1 Ade8 47. Cg0 Aef7 48. Ri5 Cg7 49. Ra5
+Cd7 50. Ce0 A8e8 51. Ra9+
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 3라운드"]
+[White "귀마 성보경"]
+[Black "원앙마 김영곤"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. ih3 Ce7 3. Ce2 Hc7 4. ab3 Ci7 5. Ei3 Cbe7 6. Ra4 g5 7. Hd2
+ed6 8. g4 Ci4 9. gxg5 Cxi0 10. g6 Hge6 11. Hh4 d5 12. Hf5 Ce5 13. gf6 a5
+14. Rg4 Af8 15. Rg8 Ke9 16. e4 Ce8 17. Rg7 Rh9 18. Cb4 ab5 19. Ch4 Ra1+ 20.
+Ad1 i5 21. Ch0 i4 22. Cxh9+ Ei6 23. Rg9+ Af9 24. Rg0+ Af8 25. Rxi0 de5 26.
+Cxe5 Hc5 27. Eg0 Ci8 28. c4 Hxe4 29. Hxe4 Kf9 30. Ce2 Afe8 31. Hh6 Eg3 32.
+Rxi4 Cd8 33. Hi8 Ad7 34. Hg9+
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 2라운드"]
+[White "귀마 최진호"]
+[Black "원앙마 성학범"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 a5 6. Ri4 Hge6 7. ed3 c5
+8. Hf2 Cd7 9. Exc5 Hxc5 10. He3 He6 11. Rc4 Ad8 12. d4 Cd9 13. cd3 ih6 14.
+Ce4 Ri5 15. Cc2 Ra7 16. Ad1 Ke9 17. Kd0 Afe8 18. Ce0 Ea6 19. de4 Rb7 20. e5
+Rxb3 21. Heg4 Ri1 22. exe6 Hxe6 23. Rxa5 Cxd3+ 24. Hxd3 Rxd3 25. Ra1 g5 26.
+He3 Ec3 27. Ae1 Hf4 28. Hf1 Hg2 29. Af2 Rg1 30. Ra9+ Aed9 31. Ri4 Ece6 32.
+Ri9 Ce5 33. Ri2 Ed7 34. Ra3 Rxa3 35. Exa3 Hi1 36. Ec6 Eeg9 37. Hd2 fe6 38.
+Ade1 Ce8 39. Cc9#
+{White mates} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 2라운드"]
+[White "귀마 이병현"]
+[Black "원앙마 홍문표"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "131"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 Cf7 5. ab3 c5 6. Ri4 Ri7 7. Rg4 ih6
+8. Ei3 Af8 9. Exg6 hxg6 10. Rxg6 Hd5 11. gf3 Cf9 12. Hd2 Ke9 13. Ra4 Ade8
+14. Rag4 Aff7 15. Rh4 Cd9 16. hi3 Ra7 17. Ke0 Rc7 18. Afe1 Ri8 19. Ci2 Ei6
+20. Ci5 Rf8 21. Rh7 Cg9 22. Rxi6 Cxg2 23. Ri9+ Rf9 24. Cb9+ Ad9 25. Rxf9+
+Kxf9 26. Cxd9 Hxe3 27. Rh8 ab6 28. Ca9+ Ea6 29. fxe3 Cxe3+ 30. Kf0 Rc6 31.
+Ca1 e5 32. Ci0 Ce7 33. Cf1+ Ke9 34. Ce0 cd5 35. Rb8 d4 36. Hf3 e4 37. Hg5
+Cg6 38. Rb9+ Ec9 39. Cc0 Rd6 40. Rxc9+ Ke8 41. Hxe4 dxe4 42. Cd1 ed4 43.
+Eg5 Rf6+ 44. Cf1 Cg8 45. Ee2 Cd8 46. ih3 Rf3 47. Rc5 Hf5 48. Ce0 Cxd0 49.
+Eh0 Rxh3 50. Rxf5 Cd9 51. Cxf7 d3 52. Cf1 Cd2+ 53. Axd2 dxd2 54. Rf2 d1 55.
+Rd2 dc1 56. Rc2 c1d1 57. Rd2 b5 58. Rxd1 b4 59. Rd3 Rxd3 60. cxd3 bxb3 61.
+Ke1 b2 62. Ef3 bc2 63. Ec5+ Ke9 64. d4 Kf9 65. d5 Ke9 66. d6
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 3라운드"]
+[White "귀마 이병현"]
+[Black "원앙마 성학범"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 ed6 4. Ed3 Hg7 5. ab3 i5 6. ef3 Hce6 7. Ra4 g5
+8. g4 gh5 9. h4 Cf7 10. hxh5 Ci7 11. Rh0 ixh5 12. Hf4 Hxf4 13. gxf4 Cf7 14.
+Rh2 Cxf3 15. f5 Hxf5 16. Rf2 Ri1+ 17. Ke0 Hh4 18. Rg4 Cxf0 19. Rxf0 Ege6
+20. Rg7 Ce5 21. Rgf7+ Kd8 22. Rxf9 Ae8 23. R9f1 Ri2 24. Hd2 Ce7 25. Ae1 ab6
+26. Kd0 Ra0+ 27. Kd1 Ra1+ 28. Kd0 Rg2 29. Ce0 Rg4 30. Ei3 Hg2 31. Cxg2 Rxg2
+32. Rf2 Rg3 33. Rf3 Rg4 34. Ef6 Rg1 35. R3f1 Rg6 36. Ce2 Rg3 37. Eh9 Eh4
+38. Rf3 Rg9 39. Ef6 Rg2 40. Ce0 Ece6 41. Eh3 hg5 42. R0f2 g4 43. Rxg2 Rxe1+
+44. Exe1 g3 45. Rfxg3 Exg3 46. Rxg3
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 3라운드"]
+[White "귀마 김광림"]
+[Black "원앙마 강공명"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hc7 2. Ce2 Ce7 3. Hc2 ab6 4. cd3 Hg7 5. Ef3 ih6 6. gh3 h5 7. Af1 ef6
+8. Kf0 hg5 9. Ade1 Af8 10. Ce0 Hce6 11. Cd2 Ra7 12. ab3 Ea6 13. Ea3 c5 14.
+b4 Rc7 15. Rc0 cb5 16. bxb5 bxb5 17. Rb0 Rb7 18. Ca0 Ed8 19. i4 gf5 20. Ci2
+Rh9 21. ih4 f4 22. Cd2 Rc7 23. Cg2 f5 24. Cc0 Rb7 25. Cg0 Ce5 26. Hd4 gf6
+27. Cxg9 Cg5 28. Ca9 Rh8 29. Ca2 Hxd4 30. dxd4 Ce7 31. Cd0 He6 32. Hd1 fxf3
+33. exf3 Rh6 34. d5 b4 35. d6 Ca7 36. Rb2 b3 37. Ce2+ Ce5 38. Rc2 bxa3 39.
+Rc9 Rg6 40. Ri9 Cf7 41. hg3 Cf9 42. Rc3 ab3 43. Rc4 Ke9 44. Aff2 Rh6 45.
+Ch0 Rg6 46. Cg2 fg5 47. g4 f5 48. h5 Hg7 49. Cd0 Ri6 50. Rg9 Hxh5 51. gxg5
+Hi3 52. Ce2 Hh1+ 53. Ke0 Ri1 54. Aff1 Ri2 55. Re4 Afe8 56. gxf5 Exf5 57.
+Rxe5 Rxe2 58. Rxe2 Rh7 59. d7 Ec3 60. d7xe8+ Axe8 61. Ra2 Rf7 62. Ra9+ Ad9
+63. Cxd9 Rxd9 64. Rxd9+ Kxd9 65. Rxf9+ Kd8 66. Rb9 Hi3 67. Rxb3 Ef5 68. He3
+Ec7 69. Hd5 Hh5 70. Hxc7 Hf6 71. Rd3+ Hd7 72. Hb9+ Ke8 73. Re3+
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "8강전"]
+[White "귀마 주상호"]
+[Black "원앙마 김수환"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hf2 Hg7 4. Che2 ef6 5. cd3 Hce6 6. Cd2 ih6 7. Hb4
+c5 8. Hc6 Rb9 9. Rb0 Ke9 10. Hxe7 Cxe7 11. Ri1 f5 12. Ea3 Afe8 13. Af1 a5
+14. Cf0 c4 15. Ke0 cd4 16. Ec6+ Aed8 17. Ade1 Rb6 18. bc3 Rxc6 19. Cc0 Rd6
+20. Cxc9+ Ke8 21. Cc0 dxd3 22. cxd3 Hf4 23. Ef3 Rd7 24. g4 Hxd3 25. exd3
+Rxd3 26. ih3 Rxi1 27. Exi1 He6 28. Kf0 f4 29. Rb4 f3 30. Exf3 Rxf3 31. Cg0
+Hc5 32. Rc4 Hd7 33. Cd0 He5 34. Rd4 Hd3 35. h4 Ee6 36. Ce0 Hxf2 37. Afxf2
+Eg3 38. Aff1 ab5 39. Re4 Ad7 40. Rc4 Rf5 41. Rd4 A9d8 42. Rd3 g5 43. Rxg3
+h5 44. gxg5 hxg5 45. hg4 gxg4 46. Rxg4 bc5 47. Re4 cd5 48. Ce2 de5 49. Rg4
+Ri5 50. Ce0 ed5 51. Re4 Kd9 52. Re6 d4 53. Rf6 Ke8 54. Rf4
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "준결승전"]
+[White "귀마 김태용"]
+[Black "원앙마 최진호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Ra7 7. Ra4
+Cf7 8. Rii4 Rc7 9. Rab4 Kf8 10. Ei3 Afe8 11. Rig4 gh6 12. Ha1 c5 13. Hc2 d5
+14. Cd2 Add8 15. Af1 Cd9 16. Cf0 Kf9 17. Hce3 d4 18. Eb0 i5 19. f4 Ke9 20.
+f5 Ce4 21. Rb8 Ei6 22. fe5 Cg9 23. Rf4 h5 24. Rf6 Hf8 25. Cc0 Ee6 26. ed5
+Rd7 27. Ra8 Rxd5 28. Rxa6 Cd9 29. Cf0 Rh9 30. Cd2 Rf5 31. Rxf5 Hxf5 32. Ra5
+Exg3 33. Rxc5 hg5 34. h4 Hxe3 35. Hxe3 He6 36. Re5 i4 37. hxi4 Rh3 38. ih4
+Rxi3 39. hg4 Ei0 40. Rxe6 Rxe3 41. gf4 E0g3 42. Rg6 Ci4 43. Rxg5 Kf9 44.
+Cf0 Cii9 45. fe4+ Cf7 46. exd4 Ce9 47. Ke0 Ee6 48. Ade1 Rg3 49. Rxg3 Eixg3
+50. Kd0 Ce7 51. Ce0 Af8 52. cd3 Ke8 53. bc3 Eh4 54. Ee2 Cf9 55. Eg5+ Af7
+56. Cf5 Ke9 57. Cc0 Ade8 58. Cc4 Exf1 59. Axf1 Ei6 60. Cc0
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 1라운드"]
+[White "맞상 송은미"]
+[Black "맞상 김광림"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 Hd7 2. Cg2 ih6 3. Ca2 Ce7 4. ab3 Ce5+ 5. Ee2 Ca7 6. He4 Ed6 7. c4
+Rb9 8. b4 Cee7 9. gf3 e5 10. Hc3 c5 11. cxc5 Rxb4 12. c6 Exf3 13. Hd1 Hb8
+14. Exb4 Hxc6 15. Ee2 Hd4 16. Hc2 ed5 17. Hxd4 dxd4 18. Rb0 Ri5 19. Cxh9
+Ed6 20. Ri2 Eg4+ 21. Kf1 Ee6 22. Afe1 Rf5+ 23. Cf2 Ca5 24. ih3 Ca8 25. Kf0
+Cf8 26. Af1 Afe9 27. Rb7 Rf7 28. Ri5 Ad8 29. Ca9 h5 30. Rxh5 Ri7 31. Ca0
+Ri0+ 32. Ke1 Ad7 33. Rb3 Ed6 34. Rb4 Cd8 35. Ea3 Ri4 36. Cff0 Af9 37. Rf5
+Af8 38. Rb8 Ri8 39. Cxa6 Eb3+ 40. Rxb3 d3 41. Ec6 dc3 42. Rb9 c2 43. Cxe6
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 3라운드"]
+[White "원앙마 조병운"]
+[Black "양귀마 진윤호"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "159"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hf7 2. Ce2 cd6 3. ih3 Ef6 4. h4 Ce7 5. ed3 Hd7 6. ab3 gh6 7. d4 Rg9
+8. g4 e5 9. He3 Ad8 10. Hbc2 Kd9 11. c4 dc6 12. b4 Ed6 13. Ke0 Afe8 14.
+Afe1 Ce9 15. Cd2 Cbe7 16. Ri2 cb6 17. Cf0 Rc9 18. Add1 Rc8 19. Ea3 Ci9 20.
+Rg2 Cg7 21. Rf2 Cf9 22. Ri2 Ci9 23. Rh2 i5 24. Cc0 Rh9 25. c5 Ci0+ 26. Rh0
+Cixg0 27. cd5 exd5 28. dxd5 Rb8 29. gf4 hg6 30. Hg4 Exg4 31. Rxg0 Rxh4 32.
+fxg4 Rxg4 33. Rh0 Hf8 34. Rb0 Rg5 35. Rh4 Cd7 36. bc4 Rxd5 37. c5 Rh5 38.
+Rg4 Rg5 39. Re4 Cf9 40. Rb3 Cc9 41. cd5 Ce9 42. Rd4 Rb9 43. Rc3 Rc9 44.
+Rxc9+ Cxc9 45. d6 Ce9 46. Add2 Hh7 47. Cf0 Rg0 48. Kd0 Eh3 49. Ce0 Hhg5 50.
+Add1 Rg2 51. Cd2 Hf3 52. Ce3 Rg0+ 53. Ae0 Ce5 54. de6 Ke9 55. Rf4 Hg5 56.
+Hd4 Hg1 57. Rf1 a5 58. Ae1 a4 59. Ed1 ab4 60. A0f0 Hi2 61. Hf3 Hxf3 62.
+Rxf3 Exe1 63. Kxe1 Hh4 64. Rh3 i4 65. Ce0 bc4 66. Cxg0 b5 67. Cdd0 g5 68.
+Ce0 g4 69. Ce2 i3 70. Rf3 Hg2+ 71. Ke0 bc5 72. Rf5 cd5 73. Cxd5 He3 74.
+Rxe5 Hxd5 75. Rxd5 Kf9 76. Rf5+ Ke9 77. e7 Kd9 78. Rc5 Add7 79. e7xe8+ Axe8
+80. Rxc4
+{Black resigns} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 1라운드"]
+[White "원앙마 성학범"]
+[Black "원앙마 홍문표"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "63"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 ab6 2. Ce2 -- 3. ih3 Hg7 4. Ce4+ Ce7 5. Ci2 Rh9 6. Ca2 Ha7 7. Ce2
+Cb5 8. ed3 Cb8 9. Ri4 Cg8 10. Ege3 g5 11. Exc6 bxc6 12. Ra4 g4 13. gxg4
+Rxh3 14. He3 Rh2 15. Hc2 Cg6 16. Af1 Rh1 17. gh4 Cg8 18. ab3 Cg1+ 19. Ke0
+Ci1 20. Rg4 Hb5 21. Ea3 Rb9 22. Rxg7 Hxa3 23. Hd5 ed6 24. Hf6+ Kd8 25. Rxe7
+Ece6 26. Cd2 Rh0+ 27. Af0 Eg3+ 28. Ke1 Ade8 29. Cxe8 E9e6 30. Cxe6 Rh1+ 31.
+Ke2 Exe6 32. Cd4#
+{White mates} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 3라운드"]
+[White "원앙마 김수환"]
+[Black "귀마 최영기"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hc7 2. ab3 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. Cf2 Ef6 6. ef3 Af8 7. g4 h5
+8. Ee3 cd6 9. Exg6 Rg9 10. Hf4 Hd5 11. Ra4 Hxf4 12. fxf4 Rxg6 13. f5 a5 14.
+Rc4 Ea6 15. ih3 Cxh3 16. Rh0 Ch7 17. Rxh5 Kf9 18. Ei3 Ri6 19. g5 Hh6 20.
+fxf6 exf6 21. g6 Cxh5 22. gxf6 Ke8 23. Rc7 Ad8 24. fe6 Ce5 25. Rc5 Hf5 26.
+Exf5 dxe6 27. Exd8 Kxd8 28. Rc8+ Kd9 29. Rxf8 Rf6 30. Rh8 Ra7 31. Rxh5 Rc7
+32. Ad1 ab5 33. Rh3 Ke8 34. Af1 Rd7 35. Hb0 Rf4 36. Cf0 Re4 37. Rf3 Ke9 38.
+cd3 Ce7 39. Af2 bc5 40. Hc2 Rc4 41. He3 e5 42. Rf7 Ec9 43. Ri7 Ke8 44. Ri8+
+Ke9 45. Ri9+ Ke8 46. Rf9+ Kd8 47. Cd2 cd5 48. dc3 Rd4 49. Rf3 Ke8 50. c4
+Rd3 51. bc3 Rxe3 52. Rxe3 Cxe3 53. Cxd7 Kxd7 54. cb3 Ce7 55. b4 e4 56. Kf0
+e3 57. Ch2 ef3 58. Ade1 Ke8 59. Cd2 Ee6 60. Afe2 Eh4 61. -- de5 62. cd4 ef5
+63. bc4 fe3 64. A2f2 f4 65. c5 f3 66. d5 Ef7 67. c6 Ci7 68. d6 ed3 69. Cd5
+fxf2 70. Axf2 de3 71. Cd7 Ce7 72. c7 Ei5 73. Cd0 Ce2 74. cd7+ Ke9 75. Ke1
+Ce4+ 76. Kd1 Ef3 77. de6 Ce2 78. Axe2 exe2 79. e7 Eh6 80. ef7 e1+ 81. Kd2
+e1xd0 82. d7e8#
+{White mates} 1-0
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 1라운드"]
+[White "귀마 최진호"]
+[Black "귀마 이병현"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Hc7 4. ed3+ Che7 5. Ee3 g5 6. Hf2 Ef6 7. Ke0
+Ri8 8. Ade1 Af8 9. Ca2 Rb9 10. Cad2 Ce9 11. Ce2 Cbe7 12. ab3 Ea6 13. Kd0
+Cc9 14. Ef3 gf5 15. Ra4 Ke9 16. Ce0 Ade8 17. Cc0 c5 18. Rg4 Ra9 19. Hb0 b5
+20. Aff1 fg5 21. Rxg5 Exd3 22. Rg4 Ef6 23. Exb5 Exc3 24. bxc3 Hxb5 25. Rb4
+Ci7 26. Rxi6 Cb7 27. Rxi8 Exi8 28. Ri4 Hxc3 29. Rb4 Hb5 30. Ri4 Ha3 31. Rb4
+cb5 32. Ri4 Cxb0 33. Cg2 Ef6 34. Re4 e5 35. Rxe5 Ec4 36. Re3 Cb7 37. Cf0
+Cg7 38. Ke0 Ce7 39. Ce2 Ra7 40. Ed6 Hc2 41. Re4 b4 42. Eg4 Hg5 43. Re5 Hd4
+44. Rxg5 Hxe2 45. Rc5 Hc1+ 46. Kd0 Cf9 47. Exe7 Rxe7 48. Rc6
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "8강전"]
+[White "귀마 성보경"]
+[Black "귀마 김태용"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "141"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. Ke0 Ce7 5. Ra1 ef6 6. Ef3 Ee6 7. c4 Rd5
+8. Hf2 Hd8 9. g4 Ke9 10. Afe1 Afe8 11. gf4 Rg5 12. a4 Kf9 13. Add1 Ce9 14.
+ab4 Af8 15. fg4 Rd5 16. cd4 Rc5 17. bc4 Rb5 18. Ch4 g5 19. gf4 f5 20. cb4
+Exb4 21. Ci2 Ci7 22. fxf5 gxf5 23. Cxb4 Ef6 24. Rg0 Rg9 25. Rxg9+ Cxg9 26.
+e4 fg5 27. Ee3 Rf5 28. Cd2 Rc5 29. Ra2 Cc7 30. Ha3 Rc3 31. Eg0 Rxf3 32. Cf0
+Rc3 33. Cb8 Exh3 34. Hxh3 Rxh3 35. Cbxf8 Ke9 36. Hc4 Ae8 37. Cxd8 Hxd8 38.
+Ra7 Cxc4 39. dxc4 Cd9 40. Cd0 Rg3 41. Ri7 ih6 42. Ei3 Re3 43. cd4 cd6 44.
+Ef1 bc6 45. ef4 de6 46. fe4 cd6 47. Ad2 e5 48. exe5 Rxe5 49. Ade2 de6 50.
+Rc7 Re3 51. Rc9 hg6 52. A1f2 Rd3 53. Afe1 gf6 54. A2d2 Re3 55. d5 g4 56.
+Kf0 gf4 57. Cg0 Rd3 58. dc5 f3 59. c6 f2 60. Axf2 Rxd2+ 61. Ae1 Rc2 62. c7
+Hb7 63. Rc8 Cf9 64. Ke0 Ha9 65. Ra8 Rxc7 66. Ed4 Rd7 67. Ea2 Rc7 68. Ca0
+Hc8 69. Ra5 Rc0+ 70. Cd0 Hd6 71. Ed4
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "8강전"]
+[White "귀마 김광림"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ed3 Ce7 5. Ke0 ed6 6. Ri1 Ke9 7. ef3
+Ee6 8. Ee3 Ria8 9. Exg6+ hxg6 10. Rh1 Hf8 11. Rh5 Ade8 12. He3 Kd9 13. Cb4
+Ce9 14. Afe1 Exg3+ 15. Kf0 Ca7 16. Rb0 Cf7+ 17. Af1 Cxe3 18. Ke1 Ce9 19.
+fxg3 ab6 20. Rb1 Ra5 21. Exb6+ cxb6 22. Rh1 Re5 23. Af2 Rf5 24. Rh2 Ra2 25.
+Rb2 Rxb2 26. Hxb2 b5 27. Cb7 Hc9 28. Cb4 bxb4 29. bxb4 Hd7 30. Hd1 Ri5 31.
+gh3 Rg5 32. Rh1 Rg0 33. Af1 Rg2 34. Af2 Hf6 35. Ke0 Cxf2 36. Hxf2 Rxf2 37.
+Ae1 Rf4 38. c4 Ee7 39. hg3 Exc4 40. bxc4 Rxc4 41. Kf0 Rf4+ 42. Ke0 Hd5 43.
+Kd0 Hc3 44. Rh2 Rd4+ 45. Ke0 Re4 46. Kd0 Hxe2 47. Rf2 Rd4+ 48. Ke0 Hc1+ 49.
+Kf0 Rh4 50. ih3 Ri4 51. Ad0 Hd3 52. Rd2 Rf4+
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "준결승전"]
+[White "귀마 주상호"]
+[Black "귀마 정원직"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. Ca2 Exc3+ 7.
+Cc2 Rb9 8. ab3 Ef5 9. Ee2 Hf7 10. Ea3 Ce9 11. Hd1 He6 12. e4 Che7 13. Aff1
+Kf8 14. Ra1 Cxe4 15. Hxe4 Cxe4 16. Ri4 Ce9 17. Ca0 i5 18. Rh4 ih5 19. Rc4
+Afe8 20. Cf2 Kf9 21. Ec0 Cc9 22. Rca4 Cxc0 23. Cc2 Ci0 24. Cf0 Ri6 25. g4
+Ci7 26. gf4 Ec7 27. h4 hg5 28. hg4 gxg4 29. fxg4 cd6 30. Ra9 Rxa9 31. Rxa9
+Ce7 32. Ccf2 Ce9 33. Ra5 Af8 34. bc3 Hed8 35. Kd0 Ade8 36. Ra7 Ef5 37. Ec5
+de6 38. Exe8 Axe8 39. c4 Ee7 40. Ra3 Ri3 41. Ra5 Cg9 42. gf4 Ei7 43. Rh5
+Cd9 44. Ke0 gh6 45. Rh2 bc6 46. fe4 Ke9 47. Ci2 Eg4 48. Ce2 Exe1 49. Axe1
+cd6 50. cd4 Hc6 51. Rh4 fg6 52. Rf4 Hg5 53. Rf5 Hf3 54. Rc5 Hg1+ 55. Af1
+Rd3 56. Rc1 Rd2 57. Cc2 Re2+ 58. Kd0 Hxd4 59. exd4 Cxd4+ 60. Hc3 Cd9+
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "결승 1회전"]
+[White "귀마 정원직"]
+[Black "귀마 김태용"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Ch7 8. Rb4 Kf8 9. Rc4 Rc5 10. Rci4 i5 11. R4i3 Rg5 12. Hf2 gh6 13. Ef3 h5
+14. g4 Rb5 15. Exi5 Rxi5 16. h4 Rxi3 17. Rxi3 hi5 18. Ce0 Ee6 19. Ci0 Ke8
+20. Cxi5 Ce7+ 21. Kf1 fg6 22. Cxh9 gh6 23. Ci2 Hc7 24. Ce2 Cd7 25. ab3 Ra5
+26. Afe1 Af8 27. Cc9 Cf9 28. Cxc6 He5 29. Cxh6 Cf7+ 30. He4 Hxg4 31. hxg4
+Rf5+ 32. Af2 Cxe4 33. Ke1 Cxf2 34. de3 Ce7 35. Rf3 Rh5 36. Rxf2 Rxh6 37.
+cd3 Kf9 38. Hd4 Ae8 39. Hf5 Rf6 40. g5 Cb7 41. Hd6 Rxf2+ 42. Kxf2 Cf7 43.
+Ke1 Cd9 44. bc3 Exc3 45. dxc3 Hd5 46. cd3 Hf4 47. Ce4 Ad7 48. Hf5 Ke8 49.
+Ke0 Hh3 50. Ce2+ Kd8 51. Ce5 Ade8 52. Ke1 Hf4 53. g6 Cxd3 54. ef3 Hd5 55.
+gf6 Cd7 56. Hh4 Hb4 57. Ce0 Hd3+
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "A조 2라운드"]
+[White "귀마 최영기"]
+[Black "원앙마 김영곤"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Ci7 5. Ei3 Cbe7 6. Ed3 Ca7 7. Rb0
+Cae7 8. Rg0 ef6 9. Ra0 Hge6 10. Hd2 ih6 11. gf3 f5 12. Exg6 hxg6 13. Hh4 g5
+14. Hg6 Ca7 15. Rc0 Cb7 16. e4 Ri6 17. ef4+ Kd8 18. Hh8 Ri1+ 19. Ke0 Hg7
+20. fxf5 gxf5 21. Cc2 Rh1 22. Hxf9+ Hxf9 23. Rxg9 Ae8 24. Cxc6 Ce7 25. Ce2
+Rxh3 26. fg3 Rh2 27. Ccc2 Cd7 28. Ade1 Rg2 29. Kd0 Ra7 30. Cxc7 Rxc7 31.
+Cc2 Cxd2 32. Cxc7 Cd4+ 33. Ad1 Ce9 34. Rc2 Rg0 35. Rf2 Cxg9 36. Rxf5 Ee6
+37. Rf4 Cdd9 38. Cc0 Rxg3 39. Ra4 Cxd3+ 40. cxd3 Rxd3 41. Rxa6 Hg7 42. Ae1
+Rxb3 43. Rd6+ Ad7 44. Cf0 Ke8 45. Ke0 Eg3+ 46. Kd0 Ae7 47. Rf6 Ke9 48. Ae2
+Re3 49. Ke1 Ed5 50. Ad2 Ae8 51. Rd6 Re5 52. Ke0 Rg5 53. Ade1 Eb2+ 54. Kd0
+Rg0 55. Rd2 Ee4 56. Ke0 Cd9 57. Rd4 Eh2+ 58. Af1 Ef5 59. Ke1
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 2라운드"]
+[White "귀마 강공명"]
+[Black "원앙마 송은미"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 Hg7 5. Ra4 ed6 6. Hf2 h5 7. Rc4
+Hce6 8. ed3 ab6 9. ba3 Ad8 10. Ee3 g5 11. i4 d5 12. Ca2 Ea6 13. Che2 Ce5
+14. g4 c5 15. Rb4 cb5 16. Rb1 Rc9 17. ab3 Cc7 18. Hb0 Ke9 19. gxg5 Hxg5 20.
+Ri3 Ci7 21. ih4 hxh4 22. Rg3 H5e6 23. Eg6 Cee7 24. Ke0 Cf7 25. Ade1 Af8 26.
+Hd1 Ri5 27. He3 Cf9 28. Rb2 Ade8 29. Cd2 bc5 30. Ra2 Ei6 31. Ra4 Ef4 32.
+Kd0 Rc6 33. Ra1 Ca9 34. Rb1 Cg9 35. Cg2 de5 36. Hf1 ef5 37. b4 fg5 38. Exc5
+Cxg6 39. Rf3 g4 40. c4 Cg9 41. Cxg7 Hxg7 42. d4 He6 43. b5 bxb5 44. Rxb5
+Cg0+ 45. Ae0 Ri1 46. Hd3 Cexe0 47. Hxf4 Ce7+ 48. Kd1 gxf4 49. Ra3 hg4 50.
+Rxa6 Rc9 51. Rxe6 Ra9 52. Ra6 Rc9 53. Rb8 Cg9 54. Exe8 Axe8
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 3라운드"]
+[White "맞상 송은미"]
+[Black "맞상 정원직"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Ri4 ab6 3. Hf2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. Hd1 Hg7 7. gf3
+Cf7 8. Hc2 Ed6 9. Cg2 Ri7 10. Ca2 Rc9 11. c4 i5 12. Rh4 f5 13. Rg4 g5 14.
+Rd4 ih5 15. fg3 Ad8 16. g4 Cd9 17. Hdb0 Ke9 18. ab3 Ade8 19. gxg5 fxg5 20.
+Rf4 Hf5 21. Cxh5 gxh5 22. Rxf5 Ri5 23. Ce2 Eh8 24. Rf4 c5 25. b4 Eg8 26.
+Ef3 Ri6 27. h4 hg5 28. cxc5 Rxc5 29. Rc4 Rxc4 30. bxc4 Aff8 31. cd4 gf5 32.
+de4 Cg9 33. Aff1 fe5 34. Hd0 exe4 35. exe4 Kf9 36. Ra5 Ri0+ 37. Aef0 Ri3
+38. Rh5 Rxf3 39. Rxh8 Rg3 40. Rh9 Ce9 41. Hdc2 Hc5 42. Ee3 Hd3 43. Hd1 Rg5
+44. A1e1 Rc5 45. Hd4 Rd5 46. h5 bc6 47. h6 c5 48. Hb3
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 2라운드"]
+[White "양귀마 주상호"]
+[Black "귀마 진윤호"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "200"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. e4 ed6+ 4. Ce2 Ee6 5. cb3 Hc7 6. Hd2 Cd7 7. Ra1
+Ke9 8. Ef3 Afe8 9. Rc1 Ra7 10. Ad1 Cf9 11. Af1 Add8 12. Exd6 cxd6 13. Ric0
+Add7 14. Ri0 ih6 15. Rxi9 Cxi9 16. Kf0 Cf9 17. Ade1 a5 18. Ce0 ab5 19. Ca0
+Rb7 20. Cd0 Cc9 21. Ra1 Rb6 22. bc3 Ra6 23. cd3 d5 24. Ce2 Cf9 25. d4 dxd4
+26. exd4 Cd9 27. de4 g5 28. Ed3 h5 29. ab3 Exg3 30. Rxa6 Hxa6 31. Eb6 Cg9
+32. Hh1 g4 33. hxg3 Cxg3 34. Hxg3 gxg3 35. Ce6 Hb8 36. ef4 Hg5 37. f5 Hf3
+38. He4 Hd4 39. Cd5 bc5 40. Cxh5 Hxe6 41. Hxg3 Hf4 42. Ee4 c4 43. Eg1 Hc6
+44. Cc5 Ha5 45. ba3 cd4 46. Ei4 Ef6 47. Ch5 Hc4 48. fxf6 Hxa3 49. Aff2 Hc2
+50. fg6 d3 51. gh6 Hg2+ 52. Eg1 de3 53. Hf5 Cc7 54. Ke0 Kd9 55. Ch7 Cc1 56.
+Aff1 Cc9 57. Ch2 Hf4 58. Ee4 Ce9 59. Aff2 Hb4 60. Cd2+ Ad8 61. Eb6+ Ke8 62.
+Hg7+ Ke7 63. Hf5+ Ke8 64. hg6 Ce5 65. Hg7+ Ke9 66. gf6 ed3+ 67. Kf0 dxd2
+68. Axd2 Hbd5 69. Afe1 Hxb6 70. Hf5 Hbd5 71. Hh4 Ke8 72. f7+ Kd9 73. Aee2
+He3 74. Hf3 A8e8 75. f7xe8+ Axe8 76. Ke0 Hc2+ 77. Kf0 Ce9 78. Kf1 Ad8 79.
+Kf0 Hh5 80. Hh4 Hf4 81. Hf3 Ke8 82. -- Ce3 83. Hh4 Hd4 84. Ade1 Hde6 85.
+A1f2 Hg5 86. -- Hgh3 87. Hf5 Hg2+ 88. Kf1 Hhf4 89. Hd6+ Kd9 90. Ad2 Ae8 91.
+Ke1 Ce9+ 92. Kd0 Hd3 93. Ade1 Cc9 94. Afe2 Cf9 95. Ke0 Hc1+ 96. Ad1 Cd7 97.
+Hc4 Ke9 98. Ae1 Hf4 99. Hd2 Hcd3 100. Hf1 Cf9
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "B조 3라운드"]
+[White "원앙마 홍문표"]
+[Black "귀마 최진호"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "60"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 ih6 2. Ce2 Hg7 3. Hg2 Ce7 4. Cf2 Ed6 5. Ke0 ab6 6. Ade1 Ri5 7. i4
+Rg5 8. Ri3 h5 9. Cd0 Ei6 10. Aff1 Rxg3 11. Rxg3 Exg3 12. ed3 ef6 13. Ege3
+Ra5 14. Cg0 He6 15. a4 Rc5 16. ab4 Hf4 17. c4 Rg5 18. Cb2 Hxg2 19. Kd0 Hxe1
+20. Axe1 Ee6 21. d4 Hd7 22. Ra3 Ke9 23. Exc6+ bxc6 24. Ee3 Cxe3 25. Rxe3
+Rxg0+ 26. Kd1 Ce7 27. Rc3 Rc0 28. Ce2 Ef3 29. -- Afe8 30. Ad2 Rc1#
+{Black mates} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "C조 1라운드"]
+[White "원앙마 강공명"]
+[Black "귀마 정원직"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Cbe2 Ri8 5. ef3 Ke9 6. Cf2 Ade8 7. Ra4
+c5 8. Ke0 Hf7 9. Ade1 a5 10. Ra1 Ca7 11. Rd1 Che7 12. Cd0 ab5 13. Ea3 Cd7
+14. Rd4 Ra6 15. Aff1 Aff8 16. Ee3 e5 17. Ch0 Cf9 18. Cc0 ed5 19. Ri4 Rxi4
+20. ixi4 He6 21. cd3 Ef6 22. bc3 Cd9 23. g4 Exd3 24. Hf4 Hxf4 25. fxf4 Ef6
+26. f5 Ec8 27. ih4 b4 28. Ri3 Ea5 29. Ca2 Ee6 30. Kf0 Cf9 31. Ri9 Ad8 32.
+Ri3 Afe8 33. gf4 Exh4 34. Rh3 Ch7 35. Ch0 Ee2 36. Cxh6 gxh6 37. Rg3 Eh0 38.
+Hd0 Ce7 39. He2 Cxe2 40. Axe2 Ec2+ 41. Cd2 Rxa3 42. Eh1 de5 43. Afe1 Exe2
+44. Ke0 Ra0+ 45. Ad0 exf5 46. fxf5 Cxf5 47. Re3 Eh4 48. Re4 Ef1 49. Rxb4
+Ra3 50. cb3 Ra6 51. bc3 Cf9 52. Re4 cd5 53. Ee3
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 1라운드"]
+[White "원앙마 조병운"]
+[Black "귀마 주상호"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "212"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hd7 3. Ce2 Cbe7 4. ab3 Ad8 5. ed3 gf6 6. Hc2 Cf7 7. Cd2
+Ra8 8. Af1 Cd9 9. Cf0 Ke9 10. b4 Afe8 11. Ke0 Ci7 12. Ei3 ih6 13. Rh0 Ce7
+14. Ade1 Ei6 15. g4 h5 16. h4 hxh4 17. gxh4 Rh9 18. Hce3 c5 19. d4 Rb8 20.
+c4 cxc4 21. bxc4 Rb6 22. Ra3 e5 23. Cd0 f5 24. Cg0 Rh7 25. d5 Kf9 26. c5
+Ce4 27. Rc3 exd5 28. cxd5 Hf8 29. Ea3 f4 30. Ec6 Hfe6 31. de5 Hc7 32. Rc4
+Ce7 33. Hd5 Cxd5 34. exd5 f3 35. Ef4 Exf4 36. Rxc7 He6 37. Rc9+ Aed9 38.
+Rc4 fg3 39. He3 Cxe3 40. Re4 Cxi3 41. de5 Hf8 42. Rxf4 Ca3 43. Rg4 Rh9 44.
+Rxg3 Ca9 45. Cd0 Rb0 46. Kf0 Rxd0+ 47. Ce0 Rb0 48. Rhg0 Hh7 49. Rg7 A9e8
+50. e6 Cd9 51. e7 Ed6 52. R0g2 Rb3 53. e7xe8+ Axe8 54. Re2 Rb8 55. h5 Hg9
+56. Re5 Hf7 57. Rf5 Rg9 58. Rxg9+ Cxg9 59. h6 Eb3 60. hg6 Cd9 61. g7 Rb6
+62. Ad2 Rg6 63. gxf7 Cxf7 64. Ke1 Rc6 65. Rf3 Rc1+ 66. Ke2 Ed6 67. Re3 Rc8
+68. Re6 Rd8 69. Ke1 ab6 70. Ce2 bc6 71. Ke0 c5 72. Afe1 Eb3 73. Re3 Rb8 74.
+Cb2 Ee5 75. Cf2 Rb0+ 76. Ad0 cd5 77. Ae1 Cd9 78. Re2 Rb6 79. Cd2 Ke9 80.
+Add1 Rb0+ 81. Add0 Eh7 82. Rf2 Rb7 83. Add1 de5 84. Re2 Re7 85. Cd0 e4 86.
+Rf2 Ef4 87. Cf0 Ei6 88. Af1 e3 89. Ade1 Eg3 90. Rg2 Ee6 91. Rc2 ed3 92. Cc0
+Cf9 93. -- Rf7 94. Aff2 Eg3+ 95. Aff1 de3 96. Rg2 Ee6 97. Rc2 Cxf1 98. Rf2
+Cf3 99. Cf0 Ec3+ 100. Ad1 Re7 101. Ke1 Af7 102. Rc2 Cf9 103. Ad2 ef3+ 104.
+Ae2 f2+ 105. Kd0 fxe2 106. Rc1 Rd7+
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "D조 2라운드"]
+[White "원앙마 조병운"]
+[Black "귀마 김태용"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. ih3 Ca7 4. Rb0 ab6 5. Ce2 Ce7 6. Ea3 Ef6 7. h4 Ri8
+8. Hg2 g5 9. Ke0 ih6 10. Rxi8+ Hxi8 11. gf3 Ke9 12. Rb1 Ra8 13. f4 Rg8 14.
+e4 h5 15. hxh5 gxh5 16. Hce3 Rg3 17. Ri1 Hg7 18. Ri8 Ch3 19. Ri3 cd6 20. c4
+h4 21. b4 hi4 22. Ri0 Cf3 23. He1 Cxa3 24. H3c2 Ci3 25. Ri1 Cii7 26. Rh1
+Cf7 27. Ch0 Ade8 28. Ee3 Hd5 29. cd4 Hxb4 30. Hxb4 Rxe3 31. Rh2 Rb3 32. d5
+bc6 33. Hc2 Cd9 34. Afe1 Aff8 35. Add1 i3 36. dxd6 cxd6 37. Cc0 ih3 38. Rf2
+hg3 39. f5 gf3 40. Rg2 Hxf5 41. Rg4 He3 42. Cf0 Hxc2 43. e5 Hd4 44. exe6
+Exe6 45. Cxf6 Rb0+ 46. Add0 Hxe2 47. Hc2 Hc1+ 48. Kf0 f2 49. Ad1 Cxd1
+{White resigns} 0-1
+
+[Event "제1회 K-장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2015년"]
+[Round "이벤트 대국"]
+[White "원앙마 올리비에"]
+[Black "귀마 송은미"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Cc7 3. Ce2 Ci7 4. ed3+ Ee7 5. Ei3 ab6 6. Ee3 gf6 7. Exc6
+bxc6 8. Hc2 He5 9. Cd2 i5 10. h4 ih5 11. Rh0 Ch7 12. He3 Cxh4 13. d4 Ch8
+14. Rg0 c5 15. Hg4 Ca7 16. Rb0 Hxg4 17. gxg4 Rxi3 18. Rb7 Ri1+ 19. Af1 Ch1+
+20. Rg1 Kf8 21. Ca2 Afe8 22. Rxa7 Rc9 23. ab3 ed6 24. Ca8+ Kf9 25. Kf2 Ra9
+26. Ra3 Exg4 27. Ca1 Rxa3 28. bxa3 Ri3 29. Ch2 Rf3+ 30. Ke2 Cxf1 31. Cxh9+
+Ee6 32. Rxg4 Rxc3 33. Ke1 Cf7 34. Rg2 hg5 35. Rh2 g4 36. Ch0 Rd3 37. Cc0
+cd5 38. Rd2 Rf3 39. dxd5 dxd5 40. Ae0 Eg3 41. Kd0 Ade9 42. Ke1 f5 43. a4
+fe5 44. ab4 Af8 45. bc4 Aee8 46. cd4 Cd9 47. Cf0 Ke9 48. Cd0 Exe0 49. Kxe0
+Rc3 50. Ke1 Cxd4 51. Cf1 Re3+ 52. Re2 Rc3 53. Cf2 Cd9 54. He3 gf4 55. Hg2
+fe4 56. Cd2 d4 57. Cf0 Rc0 58. Kf2 d3 59. Cxf8 e3 60. Re1 Rc2+ 61. Cd2 Axf8
+62. Kf1 Cf9+
+{White resigns} 0-1
+

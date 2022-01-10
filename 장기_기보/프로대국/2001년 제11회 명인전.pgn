@@ -1,0 +1,2377 @@
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 박유정五단"]
+[Black "귀마 노경국九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "161"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hf2 Hc7 3. Hc2 Ce7 4. Che2 Hf7 5. Ef3 Ca7 6. Rb0 Ef6 7. Ri1
+Ri5 8. g4 Rd5 9. Ke0 Cae7 10. Afe1 ab6 11. Rb1 Ra0 12. Rc1 Ea6 13. Add1 Ra4
+14. Rg1 Exc3 15. bxc3 Ra3 16. ed3 Rf5 17. Cd2 Raa5 18. Cf0 Rfd5 19. He3
+Rdc5 20. Rc2 Exd3 21. Cd0 Rcb5 22. cxd3 Rc5 23. dc3 Cxe3 24. Exe3 Ce7 25.
+Exg6 Rf5 26. Exh6 Hxh6 27. cd3 Rf3 28. ih3 Ra0 29. hg3 Rf5 30. Rh1 Hi4 31.
+Rh4 Ri5 32. Kf0 Ri6 33. Ee3 Hh6 34. Ce0 ed6 35. gf4 Kf7 36. Hh3 He6 37.
+Cf2+ Ke8 38. Add0 Ra4 39. gf3 Hf7 40. Rg4 Ke9 41. fe4 Ade8 42. f4 Ra5 43.
+Add1 Ri3 44. Hg1 Rg5 45. Rxg5 Hexg5 46. Cd0 Rg3 47. Hi2 Rf3+ 48. Af1 Aff8
+49. Hh4 Rh3 50. Hf5 Ci7 51. fg4 Hi6 52. ef4 Kd9 53. Ade1 Cd7 54. Ri2 Hih8
+55. d4 Hg6 56. Ri6 Hgh8 57. Ri9+ Hf9 58. Ri2 Hh6 59. Hxh6 Rxh6 60. de4 Aff7
+61. Ra2 He7 62. Ra9+ Kd8 63. e5 c5 64. Rc9 d5 65. ef5 Aff8 66. Rb9 d4 67.
+fg5 d3 68. Eg6 bc6 69. Cxe7 Axe7 70. Rb8+ Kd9 71. Rxf8 cd5 72. Rf9+ Kd8 73.
+Ke0 c5 74. Re9 Rh7 75. f5 Rf7 76. f6 Re8 77. Rc9 d2 78. fe6 d2xe1+ 79. Axe1
+Cd3 80. exe7 Rxe7 81. Re9
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 박수영三단"]
+[Black "귀마 조용희四단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 ef6+ 5. Ee2 Rb9 6. He4 f5 7. Cb2
+Cb7 8. cd3 fe5 9. Hc3 Ef6 10. h4 Ee6 11. g4 Hf7 12. d4 Rc9 13. de4 exe4 14.
+Hxe4 cd6 15. Cg2 Hd5 16. Hc2 gh6 17. Ke0 Cd7 18. Ade1 Ei8 19. Hd4 Rc4 20.
+ed3 bc6 21. ab3 Ci7 22. Rg0 Cg7 23. Cf2 Rc1 24. Cd0 Cd7 25. Cg8 Ce7 26. Cc8
+Rb1 27. Hd2 Rb2 28. Hf3 Hb6 29. Cc1 Cxd3 30. Rb0 Rxb0 31. Cxb0 Hc4 32. Ci1
+Ce3 33. Hb1 Ce7 34. Aff1 Ke9 35. bc3 Exc3+ 36. Hxc3 Ade8 37. Cd0 Cd9 38. g5
+Aff8 39. Rg4 Hce5 40. Hxe5 Hxe5 41. gf5 Hd3 42. Ee3 Cf9 43. Hd1 Hc5 44. fe5
+Cd9 45. Exc6+ dxc6 46. Exc5 cxc5 47. e6 Ce5+ 48. Re4 Ca5 49. e7 Ci5 50.
+e7xe8+ Axe8 51. Aef2 Rf9 52. Ce1 Rf7 53. Cf0 Ci7 54. Ae2 Ef6 55. Cxf6 Ce7
+56. Cf0 Rxf1 57. Af2 Rxf2 58. Rxe7 Rd2 59. Hb0 Kf9 60. Re5 Cf7 61. Cxe8 cd5
+62. Re7 Kf8 63. Ce1 hg6 64. hg4 ih6 65. gf4 Rf2 66. fe4 Re2 67. Hd1 d4 68.
+e5 d3 69. Cd0 gf6 70. Cxd3 hg6 71. Cd0 g5 72. Hc3 Re4 73. Hd5 Re2 74. Hc3
+Re3 75. Hb5
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 조용희四단"]
+[Black "귀마 박수영三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "199"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 g5 6. Rb0 Ef6 7. Hf2 Af8
+8. Rb4 Kf9 9. Eg6 Ri8 10. Rbi4 Ce5 11. Rxi6 Rxi6 12. Rxi6 Cd7 13. Ei9 Hd8
+14. Rg6 gf5 15. Rg9+ Ke8 16. g4 Ae9 17. Ef3 Kd9 18. Af1 Aef9 19. Rg7 Af7
+20. Rg8 Ce9 21. Eg6 A9f8 22. Kf0 cd6 23. Ade1 fe5 24. Ch8 Hf9 25. Ch0 Ea6
+26. ab3 b5 27. Ri8 Cc9 28. Ri9 Hd5 29. Eh6 Cxc2 30. d4 Exd4 31. Exf9 Cc9
+32. Ee3 bc5 33. g5 A7e8 34. g6 Exh3+ 35. Hxh3 Ccxf9 36. Ke0 Ra4 37. g7 Ea6
+38. cd3 e4 39. Eh5 Hf6 40. Rh9 Cxd3 41. Hg5 Ec9 42. gf7 Afxf7 43. Hxf7 Hxh5
+44. Hh8 Hg7 45. Rg9 Ra7 46. Cd0 Cd8 47. Hg6 cd5 48. Aff2 ef6 49. Hi5 de6
+50. Hg4 ef4 51. Hh6 f3 52. Ci2 fxf2 53. Axf2 Hf5 54. Hi8 Ri7 55. Hg7 Ke9
+56. Ci9 Cg8 57. Rxg8 Rxg7 58. Rxg7 Hd4 59. bc3 Hc2 60. Cf0 de5 61. Rg9 Ea6
+62. Ae1 ef5 63. Rg3 Cd9 64. Cd2 Ha3 65. cb3 Hb5 66. b4 Hd4 67. Af2 fe5 68.
+Cg2 Cf9 69. Ke1 Hc6 70. bc4 Ha5 71. c5 Hc4 72. Ri3 ef5 73. Ce2 -- 74. -- --
+75. Ri4 He3 76. Ci0 fe5 77. Ra4 Hc2+ 78. Ke0 Ed8 79. Rc4 He3 80. Rc3 Hf5
+81. Cd0 e4 82. cd5 Hd4 83. Rd3 Ea6 84. Ae1 Cd9 85. Cf2 -- 86. -- -- 87. Kf0
+Cf9 88. Ce0 ef4 89. dc5 Hf5 90. Cxf5 fxf5 91. Cxe6+ Ad9 92. Ae2 fe4+ 93.
+Ke1 Ke8 94. c6 Ed4 95. Ad2 fe5 96. Ri3 Kf8 97. Ri8+ Kf7 98. cd6 Ae8 99. Ri5
+ef5 100. Ce2
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 주경덕五단"]
+[Black "귀마 강철원五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Af8 7. Ke0
+Ra5 8. Ra1 Ri5 9. Rxi5 ixi5 10. Ri1 f5 11. g4 Ef6 12. Ef3 i4 13. Ch4 g5 14.
+gxg5 fxg5 15. Ch0 Rg9 16. Rg1 He6 17. Ade1 Hf4 18. hg3 Exd3 19. cxd3 Hxd3
+20. Hd4 c5 21. Rh1 Kf9 22. Hb3 cd5 23. Aff1 Hde5 24. Cb0 bc6 25. Cxe5 dxe5
+26. Exc6 Rg6 27. Ri1 Rxc6 28. Rxi4 Ce3+ 29. Kf0 Cxg3 30. Ec5 Cd7 31. Exf7
+Axf7 32. Hd4 Rc0+ 33. Ce0 ed5 34. Hf3 Ade8 35. Ri9+ Kf8 36. Hxg5 Rc6 37.
+He6+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 박강평四단"]
+[Black "귀마 최영래三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Af1
+Af8 8. Ri1 Kf9 9. Ef3 g5 10. Ad1 Ade8 11. Rai0 f5 12. Rxi6 Rxi6 13. Rxi6 f4
+14. Rg6 Ce9 15. Rg7 fxf3 16. gxf3 cd6 17. Rxh7 Ef6 18. Eg6 Hd5 19. Ei9 Hd8
+20. d4 Hb4 21. ab3 Hbc6 22. de4 Ra0 23. Ce0 Exc3 24. bxc3 Cxe4 25. Kf0 Ce9
+26. Ade1 Hd4 27. hg3 Hxc2 28. Cxc2 Rc0 29. Cg2 Rxc3 30. Cxg5 Ec4 31. fe3
+Ra3 32. Cg2 bc6 33. Rh4 Exe1 34. Axe1 Ra5 35. Eg6 He6 36. Ch0 Rf5 37. Cd0
+Rf6 38. ef3 d5 39. Hd3 Hc5 40. Hxc5 cxc5 41. Af2 Re6 42. Ee3 de5 43. Ce2
+cd5 44. Ae1 Aef7 45. Rc4 Rf6 46. Rc9 A8e8 47. Ke0 Rh6 48. Cf0 Kf8 49. Eb5
+Rb6 50. fe3+ ef5 51. Ed2 Cxe3 52. Exf5 Ce9 53. Ei3+ Ae7 54. Rc4
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 최영래三단"]
+[Black "귀마 박강평四단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Hf7 5. ed3 ef6 6. Ee3 Ee6 7. Ra1
+Ra5 8. Ke0 Rf5 9. Ade1 Af8 10. ab3 Ri5 11. Rxi5 ixi5 12. Ra4 Kf9 13. Rc4
+Ade8 14. Exc6 bxc6 15. Rxc6 Ce9 16. He3 i4 17. Ef3 i3 18. Ce4 f5 19. Cd2 f4
+20. Ce2 ixh3 21. Hxh3 Ef6 22. Hd5 fxf3 23. Hxc7 Exg3+ 24. Kd0 Exh3 25. Ha6
+Ef6 26. Rc5 Ee6 27. Rf5 Ri3 28. Aff1 fe3 29. dxe3 Rxe3 30. Ce0 Rg3 31. Cxe6
+Rg4 32. Hb4 Cd7 33. Hd3 Hd8 34. Ce0 Cd9 35. Hf2 Rd4 36. cd3 Ra4 37. bc3 Ra6
+38. Ri5 Hc6 39. Rc5 Hd8 40. Ad1 Ce7 41. Afe1 Ke9 42. Cf0 Eh9 43. Re5 gf6
+44. Rh5 fe6 45. Rh8 Ra5 46. Cxf8 Hc6 47. Cf0 Ra3 48. Ce3 Hb4 49. cb3 Hxd3
+50. bxa3 He5+ 51. Cd2 Hc4 52. Ce0 e5 53. ab3 ed5 54. b4 Hxd2 55. Aexd2 de5
+56. bc4 ed5 57. Hg4
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "귀마 박강평四단"]
+[Black "귀마 최영래三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Af1
+Ra5 8. Ad1 Ke9 9. Ef3 Rg5 10. Rag0 Afe8 11. Ri1 Kf9 12. c4 Ce9 13. g4 Rd5
+14. Hd4 Cd7 15. Rgi0 Cxd4 16. cxd4 Rf5 17. Rxi6 Rxi6 18. Rxi6 Ee7 19. Ei5
+Eb9 20. ab3 Eg9 21. Ri8 Hh6 22. Ri7 He6 23. h4 Hf8 24. bc3 Ee6 25. Ch5 Ee7
+26. Ch0 Hh9 27. Ri9 Eg3 28. Ri6 cd6 29. Eg2 Ed5 30. dxd5 dxd5 31. Ke0 Hf8
+32. Cd0 dc5 33. Afe1 c4 34. Ee5 cxc3 35. dxc3 Eb5 36. Cf0 Exe3 37. Cxf5
+fxf5 38. h5 fxe5 39. hxh6 Add8 40. Ri3 Ec6 41. hxg6 Hxg6 42. Ri6 Hf8 43. c4
+e4 44. Hxe4 Cxe4 45. Ri9+ Hh9 46. Rxh9+ Kf8 47. c5
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 김민수九단"]
+[Black "귀마 서정만三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Rb0 ef6 6. Rb4 Ra5 7. Ee3
+Ee6 8. Rg4 Rg5 9. Hf2 Hb9 10. Ef3 Hd8 11. Af1 f5 12. ab3 Ri8 13. Kf0 Rxg4
+14. gxg4 g5 15. h4 i5 16. Ade1 Ef6 17. Ce0 gxg4 18. hxg4 i4 19. Cd2 Rg8 20.
+Ei5 Hh6 21. Cg0 Ri8 22. Cd0 Rxi5 23. d4 Ri8 24. cd3 Hf7 25. Rh0 i3 26. Rh5
+fe5 27. bc3 cd6 28. Cb2 Ri6 29. Ce2 Rh6 30. Rxh6 Hxh6 31. gf4 Ei4 32. Hg4
+Hxg4 33. fxg4 ef5 34. Ke0 Eh8 35. de4 bc6 36. ef4 fxf4 37. gxf4 Ch9 38. Cd4
+Ef6 39. Cxd8 Axd8 40. Eg6 ih3 41. f5 Ec8 42. He3 Cd9 43. Hg4 de6 44. de3
+Cd6 45. Hi5 hg3 46. cd3 Ad7 47. d4 Cd8 48. e4 cd6 49. Hg4 Kd9 50. f6 Afe8
+51. fxe6 dxe6 52. Ee3 Cb8 53. Eb5 Ce9 54. d5 gf3 55. Hh2 ef6 56. e5 fg3 57.
+Hi4 gh3 58. Hg5 hg3 59. Hi4 gh3 60. Hg5 hi3 61. Hh7 fg6 62. Hi5 g5 63. Hg6
+Ef6 64. Ed2 ih3 65. ef5 gxf5 66. Exf5 hg3 67. d6 Ade7 68. Kd0 Ad8 69. Ce0
+Ce3 70. Cc0 Ch3 71. Cf0 Cf3 72. Cd2 Cf8 73. Hxf8+ Ke8 74. Hg6 Ec8 75. Hxh8
+Cf7 76. Cxd8 Kxd8 77. Hxf7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 임선웅初단"]
+[Black "귀마 최실광五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Cg7 4. ed3+ Ee7 5. Ca2 Ha7 6. Hf2 Ke9 7. Che2
+Ade8 8. Ee3 gh6 9. Ef3 Rg9 10. d4 cd6 11. Rb0 bc6 12. Rb7 He5 13. Rb3 c5
+14. de4 Hec6 15. Rb6 cd5 16. Ce0 Cc7 17. Ca0 Rb9 18. Rxb9 Hxb9 19. ab3 Ea6
+20. Hd1 Hd8 21. Cg2 Rh9 22. Ha3 Ec9 23. Hb5 Cf7 24. Ke0 Cd9 25. Ade1 Aff8
+26. Aff1 Cb7 27. Ri1 Ci7 28. Rg1 h5 29. Ch0 Ri9 30. Exd6 i5 31. Eb9 Cxb9
+32. Cd0 de5 33. ed4 Ha5 34. Ha3 Cd9 35. Eb5 Exb5 36. Hxb5 Aff7 37. Aff2 Ce7
+38. Ce2 Ea6 39. gf3 i4 40. Rg6 Ec9 41. dc4 Hab7 42. hg3 h4 43. Hc7 Cf9 44.
+Rg8 Hc6 45. Ci0 Rh9 46. Cb0 Ha9 47. Cb9+ Ea6 48. Hxa6 h3 49. Cb0 hxg3 50.
+fxg3 Hd8 51. Rg4 Rh1 52. Rg9 Rg1 53. cd4 e4 54. dxe4 Cxe4 55. Hc5 Ce7 56.
+cd3 Rh1 57. de3 ed6 58. He4 Hc8 59. Cf0 Rh0 60. bc3 d5 61. cd3 Rg0 62. Hdc3
+de5 63. Hg5 ef5 64. Hxi4 Rh0 65. Hh2 Hd6 66. Hg4 Kd9 67. Hi5 Rh5 68. Hh3
+Rh4 69. Cd0 H6b7 70. Hd5 Hd6 71. Cd4 Rh6 72. Hi5 fe5 73. Cxe5 H8b7 74. Hg6
+Ad8 75. Rxf9#
+{White mates} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 최실광五단"]
+[Black "귀마 임선웅初단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 Hf7 5. Ade1 g5 6. Ca2 Ea6 7. cd3
+Ef6 8. ab3 Ca7 9. Ea3 Hb9 10. Hbd1 Hbd8 11. Ee2 Ce7 12. Aff1 Ri8 13. g4 gf5
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 한재우三단"]
+[Black "귀마 성우제八단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ke0 Ee6 6. Ra1 Ra5 7. Rai1
+i5 8. Hf2 Hf7 9. Ef3 Rg5 10. Rg0 Ad8 11. Afe1 Kd9 12. Kf0 Afe8 13. Ee3 Ce9
+14. Exg6 fxg6 15. Cg2 Rb5 16. Cxg6 Ef6 17. Cg2 Exh3 18. gxh3 Rf5 19. Cd2
+Rxf3 20. de3+ Cd7 21. exf3 Exc3 22. Rgi0 cd6 23. Rxi5 Rg9 24. ab3 Ee6 25.
+Ce2 Hd5 26. R0i3 Hg5 27. Hd4 bc6 28. hg3 He4 29. Cxd5 dxd5 30. Rxd5 cd6 31.
+Hb5 Ce7 32. Rdi5 Cf9 33. Cg2 Rh9 34. Rh3 Eh8 35. Ri4 Hxf2 36. Axf2 Cxf2 37.
+Ae1 Cf6+ 38. Af1 de6 39. Hc7+ Ke9 40. Hxe6 Rf9 41. Rxh8 Rf7 42. Rh9+ Cf9
+43. Rf4 Ri7 44. Hg7 Ri0+ 45. Ke1 Kd9 46. Rhxf9+ Ce9+ 47. Rxe9+ Axe9 48. Cg4
+Rb0 49. Af2 Rxb3 50. Cg9+ Ae8 51. Rf9+ Ae9 52. Rf7+ Ae8 53. Hf9#
+{White mates} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 김경중八단"]
+[Black "귀마 이근수三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. g4 f5
+8. Ch5 Ef6 9. Ch1 g5 10. h4 i5 11. Ca1 Rc9 12. gxg5 fxg5 13. Cf1 Ri6 14.
+ab3 Eh3 15. Afe0 c5 16. Ra4 cd5 17. hg4 gh5 18. gf4 h4 19. f5 Eg3 20. Ri1
+Hh6 21. Re4 Hxf5 22. Cxf5 de5 23. Rxe5 He6 24. Rxe6 Rxe6 25. Cxe6 i4 26.
+Ce2 Rc5 27. Cf1 Rg5 28. Rg1 Rg7 29. c4 Rg5 30. Hd4 Af8 31. Hf5 Af7 32. Hd6+
+Kd7 33. Cd1
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 최연식二단"]
+[Black "귀마 박광영三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Rb9 5. Ke0 ef6+ 6. Ade1 Ee6 7. cd3
+Hf7 8. Cc2 Rb7 9. ab3 b5 10. Ea3 c5 11. Ee2 f5 12. Aff1 Ef6 13. Hd1 g5 14.
+Cc6 b4 15. bxb4 Rxb4 16. Exb4 c4 17. Cxf6 cxb4 18. Rc0 b3 19. Ec6 i5 20.
+He4 Ri6 21. Cf2 fe5 22. Hc5 bc3 23. Hxe6 Rxe6 24. Rxc3 e4 25. Rxi5 exe3 26.
+dxe3 Ke9 27. Ef4 Hd5 28. Exh7+ Cxh7 29. Ri9 Hd8 30. Rc2 Hb4 31. Rb2 Hxa2
+32. Cxa2 Rc6 33. Ce2+ Ae8 34. Rb8 Kd9 35. Rb3 Ra6 36. Rc3 Ra9 37. Rc5 Ch0
+38. Re5 Af8 39. Re9+ Axe9 40. Rxe9#
+{White mates} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 이금용四단"]
+[Black "귀마 정연기五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "155"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hf7 4. a4 Ra8 5. Ef3 Ef6 6. g4 g5 7. gxg5
+Exh3+ 8. Hf2 Hxg5 9. Rg0 Hxf3 10. exf3+ Ee5 11. cd3 Hc7 12. Ke0 ih6 13. Hd4
+cd6 14. Hf5 Ri6 15. fe3 Kd8 16. Ce4 Ade8 17. Cd2 Cd7 18. Ce2 h5 19. Rg4 Rf6
+20. Rc4 bc6 21. Rf4 Cd5 22. e4 hg5 23. exe5 gxf5 24. exf5 Rf8 25. Afe1 Ca7
+26. Rb0 Cf7 27. Rfb4 Ha6 28. a5 Hc5 29. d4 Cd7 30. dc4 Cxf2 31. cxc5 Cf7
+32. cxc6 dxc6 33. Rb8+ Rxb8 34. Rxb8+ Kd9 35. Rc8 cd6 36. Rxc9+ Kd8 37. Cf0
+Ri8 38. Ee3 Cd4 39. Rc7 Kd9 40. Eb5 Ke9 41. Rxf7 Rf8 42. Rxf8 Axf8 43. Cxf8
+Cd7 44. Cf0 Cd5 45. Ed2 Kd9 46. ab5 Cd7 47. Add1 Cd3 48. Ea4 Cd7 49. Cd0
+Cd3 50. f6 exf6 51. Exd6 Cd7 52. Ef3 fe6 53. bc5 ef6 54. c6 Kd8 55. cd6 Cd4
+56. Cf0 fg6 57. de6 g5 58. Cd0 gf5 59. Eh6 Ad7 60. ed6 fe5 61. Kf0 ed5 62.
+de6 Kd9 63. Ce0 -- 64. -- -- 65. Ef3 Ae8 66. Ei5 Ad7 67. Eg2 Ke8 68. Exd4
+dxd4 69. Cxd4 Kf9 70. Af2 Ae8 71. Ad2 -- 72. -- -- 73. Cd1 -- 74. -- -- 75.
+Ke1 Ke9 76. ed6 Kf9 77. Cf1+ Af8 78. d7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 정연기五단"]
+[Black "귀마 이금용四단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 Hf7 5. Ade1 gh6 6. Ca2 Ea6 7. ab3
+Rb9 8. Ef3 hg6 9. cd3 Ef6 10. Ea3 ed6 11. Kd0 Af8 12. Cg2 g5 13. Hbd1 Ad8
+14. Rc0 He6 15. Cb2 Ce5 16. e4 Cc7 17. bc3 ih6 18. Rxi9 Rxi9 19. exe5 Exd3
+20. exe6 dxe6 21. Hxd3 Ri4 22. Exc6 bxc6 23. Hf2 Kf9 24. Ra0 cb6 25. cd3
+hg6 26. Ch4 Afe8 27. Cg2 Ch7 28. Ke0 Cd7 29. Cd2 gf6 30. Cd0 Cd9 31. Aff1
+Add7 32. Rc0 f5 33. Rc5 f4 34. Ec1 e5 35. de3 gf5 36. Ch2 Ri6 37. Rc7 Ade7
+38. Ea4 bc6 39. Ca2 cb6 40. Ch2 bc6 41. Ce2 Cg9 42. gf3 fxf3 43. exf3 Hg5
+44. hg3 A7f7 45. Ra7 Ed8 46. Hh3 Hxh3 47. gxh3 Rf6 48. fg3 c5 49. Rc7 cd5
+50. Cf2 fg5 51. Rc6 Rf4 52. Rg6 Cd9 53. Rxg5 Ke9 54. Ce6+ Af8 55. Ed2 Cf9
+56. Cf0 Rc4 57. Ce2+ Kd9 58. Rg9 A7e8 59. Rg8 Aff7 60. Rg7 Aff8 61. Rg9 Eb5
+62. gf3 Kd8 63. hg3 e4 64. Rg5 Rc5 65. Exb5+ Rxb5 66. Hc3 Ra5 67. Hxe4 Cd7
+68. Hf6 Cd9 69. Cd0+ de5 70. fe3 ef5 71. Rg8 Aef7 72. Hh7 A8e8 73. Hg9 Aef8
+74. Ri8 Ra7 75. Ri5 Ra5 76. Hh7 Cd7 77. Hxf8
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 장정훈五단"]
+[Black "귀마 이현식六단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Af1
+Ad8 8. Kf0 Ca7 9. ab3 Kd9 10. Cg2 Che7 11. Exg6 fxg6 12. Cxg6 Ci7 13. Rxi6
+Ci0+ 14. Rxi0 Rxi0 15. Cxh9+ Eg9 16. Cg0 Ri1 17. Ade1 Ae8 18. Cd0+ Ke9 19.
+Ch2 Ra8 20. Ce2+ Ce7 21. Rc0 Rg1 22. Ef3 Ra5 23. de3 Ei6 24. cd3 Exg3 25.
+hxg3 Rxg3 26. Hd4 Rh5 27. Ke0 Rc5 28. bc3 Ra5 29. c4 Rgg5 30. Ei1 Hh6 31.
+Hf3 Rg1 32. Hh3 Rg3 33. Hhg5 Ri3 34. He4 Rxi1 35. c5 cxc5 36. Hxc5 Hi4 37.
+He6 Hd9 38. Rc9 Hg3 39. Aff0 Ra0 40. Hc7 Rc0 41. He5 Hxe2 42. Hd7+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 박계도七단"]
+[Black "귀마 배종국五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "47"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. He3 Hf7 6. Ra1 Ra5 7. d4 Ri5
+8. Rxi5 ixi5 9. ab3 Kf8 10. Hd5 Cg7 11. Hxc7 Cxc7 12. Ra9 Ee6 13. Rxd9 Exg3
+14. hxg3 Cg7 15. Hf2 Cxg3 16. Ef3 ih5 17. Rc9 Ri3 18. Ea3 Ri4 19. c4 Rf4
+20. Ec1 Rf3 21. Rc8+ Ae8 22. Ce0 Hd6 23. Exc6 Rxb3 24. Rxe8#
+{White mates} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 박계도七단"]
+[Black "귀마 최현식二단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hc2 ab6 3. Ce2 Ra5 4. a4 Rd5 5. c4 Hc7 6. ed3+ Che7 7. d4 Rg5
+8. ab4 Cd7 9. Ee3 cd6 10. Hf2 gh6 11. Ef3 Ef6 12. Exd6 exd6 13. He4 Exc4+
+14. bxc4 Rg6 15. h4 de6 16. g4 e5 17. Hg3 Rf6 18. Hf1 Rf3 19. Rb0 b5 20.
+Ha3 Cb7 21. Rc0 Ee6 22. c5 b4 23. c6 Hb9 24. Hb5 Ci7 25. Rh0 Ch7 26. cd6
+Kf8 27. dxe6 Afe8 28. Rc9 Hc7 29. Hxc7 Cxc7 30. e7 Add8 31. e7xe8+ Axe8 32.
+Ec6+ Hd6 33. Rxc7 -- 34. -- -- 35. Rg0 Ci1+ 36. Ke0 Cc1 37. Rg7 Rc3 38. Rg2
+Cxc6 39. Ce6 Af7 40. Cf2+ Ke8 41. gf4 Rf9 42. Rg8+ Ke9 43. R2g5 Rc5 44.
+R5g7 ef5 45. fe4 Kd9 46. Rxf7+ Rxf7 47. Cxf7 fe5 48. ef4 ef5 49. fe4 fe5
+50. Rg5 Ke8 51. exe5 hg6 52. Rf5 gf6 53. Ce2+ Kxf7 54. Rh5 ih6 55. Ri5 hi6
+56. Rh5 ih6 57. Ri5 Rc2 58. Afe1 Cc0+ 59. Ad1 Cc8 60. d5 Hb7 61. Ri7+ Kf8
+62. Rxb7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 한재우三단"]
+[Black "귀마 전영성五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. c4 Ra5
+8. Hd4 cd6 9. a4 Ra8 10. c5 d5 11. cxd5 Hxd5 12. Ef3 Af8 13. Af1 Kf9 14.
+Kf0 Ade8 15. Cg2 Ce9 16. Exg6 fxg6 17. Cxg6 Exg3 18. hxg3 Ef6 19. Cg0 Cd7
+20. Hf5 Rh9 21. Cd2 He7 22. Hd6 Exd3 23. Hxf7 Cxf7 24. Hxd3 Hf5 25. Ade1
+Hxg3 26. Hf2 Hf5 27. Ec5 Rd8 28. Exf7 He3 29. Ri1 Rh0 30. Rg1 Afxf7 31. Ra3
+Rc8 32. Hd1 Rc5 33. Cd0 Hc2 34. Cf2+ Af8 35. Rd3 Ke8 36. Rd2 Ha3 37. Cd0
+Kf9 38. Rd9 A8e8 39. Rg9+ Kf8 40. Rd3 Hc2 41. Cf2+ Rf5 42. Rdg3 Rh8 43. Ce0
+Ce7 44. R3g6 Hxe1 45. Axe1 b5 46. Rxi6 Ce9 47. Af1 bc5 48. Ri5 Rf6 49. Rxc5
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 김민수九단"]
+[Black "귀마 주경덕五단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. g4 Ra8
+8. Ch4 Ke9 9. Ad1 Rii8 10. Af1 ih6 11. Ef3 Hb9 12. Cc4 Ce5 13. d4 Cc7 14.
+d5 Ce7 15. cd3 Rid8 16. d4 b5 17. Rib0 c5 18. dxc5 bxc5 19. Cf4 Rab8 20.
+Rxb8 Rxb8 21. Cxf7 Cxc2 22. Rc0 Cc8 23. Rxc5 Hd8 24. Cf4 Ce8 25. Eb5 Hb7
+26. Rc7 Ce5 27. Ch4 Ha5 28. Cxh9+ Af8 29. de4 Rxb5 30. Ec5 Ce7 31. Exe8
+Afxe8 32. a4 Hb7 33. Ch4 Hc5 34. Ce0 Eg3+ 35. Kf0 Exd1 36. Hxd1 h5 37. Hc3
+Rb0 38. Ch0 Rd0 39. Hb1 Rd5 40. Ce5 Hxa4 41. Rxe7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제1국"]
+[White "귀마 조용희四단"]
+[Black "귀마 김도경四단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 Ri8 10. Rai1 gh6 11. Rg0 Rg8 12. Ade1 Ke9 13. Ri4 Hb9
+14. Aff1 Exg3 15. Exh6 ixh6 16. hxg3 Afe8 17. Ca2 Kf9 18. Che2 Ce9 19. Cd2
+Hbd8 20. Cf0 Rb5 21. Hg4 Rgg5 22. Ri9 hg6 23. c4 Rbd5 24. d4 Rb5 25. Exg6
+fxg6 26. Hce3 Cd7 27. d5 Rb1 28. He5 Rh5 29. Hxg6 Cxe3 30. Cf2+ Af8 31. gf3
+Rb0+ 32. Cd0 Ch3 33. He5 Afe8 34. Hxf7 Axf7 35. Rg9+ Kf8 36. Ri8+ Ch8 37.
+Rxh9 Hf9 38. Rg9 Ke8 39. de5+ He7 40. e6 Kd8 41. Cxe7 Afe8 42. Ce2 Rd5 43.
+Rxh8 cd6 44. Rxd9+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제1국"]
+[White "귀마 김민수九단"]
+[Black "귀마 한재우三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ra5 4. a4 Ri5 5. Rxi5 ixi5 6. ed3+ ef6 7. Ef3
+Hf7 8. c4 Kf8 9. ab4 Afe8 10. Ee3 i4 11. Hf2 Ee6 12. Exc6+ bxc6 13. Ra6 i3
+14. hxi3 Exg3 15. ih3 Ri1+ 16. Af1 Ei0 17. Ch4 Ri6 18. Ch0 Cbe7 19. Rxc6
+Ce9 20. Ec5 He6 21. de3 Kf9 22. Ke0 Af8 23. Ade1 Ade8 24. e4 Ri5 25. He3
+Rg5 26. Hfg4 Hed8 27. Rc8 Hd6 28. Rc9 H8b7 29. Rb9 Hxc5 30. cxc5 Rxc5 31.
+Cd0 Rh5 32. Cxi0 Cxh3 33. Hi3 Ad9 34. Rxd9 Ae8 35. Rxe9+ Kxe9 36. Hxh5 Ee7
+37. e5 Ch7 38. ed5 Hf7 39. Cd0 Hh6 40. Hg3 Cd7 41. d6 Cf7 42. bc4 Kf9 43.
+c5 g5 44. He4 Hf5 45. Hg2 Eb9 46. c6 g4 47. Ce5 gf4 48. Hd2 Hh6 49. Cf0 f5
+50. Ch5 Cd9 51. Hc4 Ee7 52. Cd5 fe4 53. Hb6 Cf7 54. Hh4 fe5 55. Cd7+ Ke9
+56. Hc8+ Ad8 57. Cd1 Ke8 58. de6 Cd9 59. Hg6 Eh9 60. cd6 Hg4 61. Cxd8 Kxd8
+62. Hf8
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제2국"]
+[White "귀마 한재우三단"]
+[Black "귀마 김민수九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Af1
+Af8 8. Kf0 f5 9. g4 Ef6 10. Ade1 Ad8 11. Exc6 bxc6 12. He3 Cxe3 13. dxe3
+Ce7 14. ed3 ih6 15. Rxi9 Rxi9 16. ab3 g5 17. gxg5 fxg5 18. Ce0 Ri2 19. Cd2
+Rg2 20. hi3 Rg3 21. Ra4 Rxi3 22. Rd4 Ce9 23. Rc4 Eh3+ 24. Hxh3 Rxh3 25.
+Rxc6 Hd9 26. de3 hg6 27. ef3 Rh1 28. Aff2 gf6 29. Ee2 gf5 30. Ec5 Kf9 31.
+Afe2 Ade8 32. Cf2 He7 33. Ra6 Rh3 34. Ra4 Cg9 35. f4 Cd9 36. fxf5 fxf5 37.
+A2d2 Ke9 38. Af1 fe5 39. Cxf8 Axf8 40. Ra8 Kf9 41. Rd8 Rh8 42. Cxe6 Hg5 43.
+Rd7+ Ae8 44. Cxe8 Ke9 45. Cxe5+ He6 46. Rxe7+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "귀마 유창식八단"]
+[Black "귀마 한재우三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "189"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hc7 4. ed3+ ef6 5. Ee3+ Kf8 6. Hf2 Ee6 7. Ri4
+Afe8 8. Rc4 Rd5 9. ab3 Hf7 10. Ri4 Ri5 11. Raa4 ih6 12. Rxi5 Rxi5 13. Ef3
+Cbe7 14. g4 Ri1+ 15. Af1 Rg1 16. Ch4 f5 17. Cc4 Rxg4 18. Exh6 Rf4 19. ba3
+cd6 20. Eh1 Eh4 21. Exf4 Exe2+ 22. Kf0 Ef6 23. Ch4 fxf4 24. Rxf4 Exh3+ 25.
+Ch2 gxh6 26. de3 Hd5 27. Rf3 Hxc3 28. Hxh3 Cxh3 29. Rxh3 Hd5 30. Cd2 Eh4
+31. Ca2 Ch7 32. Cf2+ Hg5 33. Rf3+ Af7 34. Rf5 Hh3 35. Rxd5+ Hxf2 36. Rxd6
+Hh1+ 37. Ke1 Ce7+ 38. ef3 Hi3 39. Rxh6 Hg4 40. Rh8+ Kf9 41. f4 Hh2 42. Kf0
+Hf3 43. Afe1 Afe8 44. Rh5 Ee6 45. Rh3 Hh4 46. Hd4 Ce9 47. Af2 Hg6 48. f5
+Ec9 49. f6 Hf8 50. Rf3 Add8 51. Rc3 Cg9 52. Ade1 Ea6 53. Rb3 Cd9 54. Rg3
+Hh7 55. He6 Ke9 56. Rg7 Hg9 57. Rg8 Add7 58. ab3 bc6 59. Hf4 cd6 60. b4
+Ade7 61. Hh3 A8d7 62. Hg5 He8 63. Rh8 Cf9 64. Ke0 Cd9 65. Aee2 Ed4 66. bc4
+Ef7 67. c5 Ei5 68. Rh5 Eg2 69. Hf3 Cf9 70. Hh4 Hg7 71. Rg5 Hf5 72. Rxg2 He3
+73. Rg5 Aee8 74. Hi6 Hc2 75. Rg4 Af8 76. fg6 Ade8 77. Re4 Cd9 78. Hh4 Cf9
+79. Afe1 -- 80. -- -- 81. A2d2 Kd9 82. Rc4 Ha3 83. Rc3 d5 84. cxd5 Hb5 85.
+Rc5 Ha7 86. d6 Hb9 87. Hi6 Hd8 88. Rc8 Ke9 89. Hg5 Cd9 90. de6 Hxe6 91.
+Hxe6 Aff7 92. gf6 Afe7 93. Hf4 Cf9 94. fe6 A7f7 95. Hh3
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "귀마 김경중八단"]
+[Black "귀마 박계도七단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 f5 6. Ch4 g5 7. Ch1 Ee6
+8. Ca1 Rc9 9. ab3 c5 10. Cf1 Hf7 11. Ra4 i5 12. Hf2 Af8 13. g4 Ad8 14. gxg5
+fxg5 15. Ef3 Ef6 16. Rxi5 Exd3 17. cxd3 Ce5 18. Rxi9 Rxi9 19. Eg6 Rb9 20.
+Exd8 Hxd8 21. Exc5+ bc6 22. Rf4 Re9 23. Ef3 Cb7 24. Rc4 Rc9 25. h4 Cf7 26.
+hg4 gxg4 27. Rxg4 Hd9 28. Rd4 Hb7 29. Re4 Ce7 30. Rxe6 cd6 31. Rxe7+ Kxe7
+32. He3+ Kd7 33. Exd6 Kd8 34. Cd1 Ca7 35. Eg4+ Cd7 36. Ei7 Ae8 37. Ef5+ Ae7
+38. Cxe7 Hf8 39. Ce2+ Kd9 40. Hfg4 Rc6 41. He5 Re6 42. Hg4 Rg6 43. Hxd7
+Hxd7 44. He5 Hc5 45. Hxd7 Hxd3+ 46. Ed2 Rd6 47. Hb8+ Ke8 48. bc3 Rb6 49.
+cxd3 Rxb8 50. de3+ Kf9 51. Cf1 Rb4 52. Ef5+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "귀마 박계도七단"]
+[Black "귀마 유창식八단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. Ch4 Kf8 5. g4 g5 6. Cc4 Cc7 7. gf4 c5
+8. Ch4 Cxc3 9. Hf2 Ef6 10. Ch1 Cc7 11. Hd4 cd5 12. Hb3 Cxb3 13. Ca1 Rc5 14.
+axb3 Cxc0 15. Cf1 Hc7 16. He4 Rc2 17. Hxf6 Ri7 18. Ri2 de5 19. e4 Cc6 20.
+exe5 Cxf6 21. f5 gxf5 22. exf5 Hd5 23. Rg2 Afe8 24. fxf6 exf6 25. Rg8+ Kf9
+26. Rg9+ Kf8 27. Ra4 ih6 28. Rag4 Ri8 29. Rh9 hg6 30. Ad1 Rg8 31. Ad2 Rc5
+32. Ef3 Rc6 33. Eh6 He3 34. Rxg6 Rc1+ 35. Ad1 Ri8 36. Rhg9 Hc2+ 37. Kd2 Ee6
+38. R6g8+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "4강전 제1국"]
+[White "귀마 김경중八단"]
+[Black "귀마 한재우三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra5 3. Ce2 Hc7 4. ed3+ ef6 5. Ee3+ Kf8 6. Hf2 Afe8 7. Ch4
+Ee6 8. g4 f5 9. Ch1 Hf7 10. Ca1 Rc5 11. Cf1 gf6 12. ab3 Che7 13. Ra2 Ri7
+14. d4 ih6 15. Rxi7 Cxi7 16. c4 Rb5 17. b4 Exb4 18. cxb4 Rc5 19. Cc1 Rxc2
+20. Rxc2 Cxb4 21. Exc6+ bxc6 22. Rxc6 He6 23. de4 Ce7 24. Rc4 Cbxe4 25.
+Hxe4 f4 26. Hd2 f5 27. Cf1 fxg4 28. Rxg4 h5 29. hg3 Ce9 30. Ke0 Kf9 31.
+Afe1 hg5 32. Rh4 Ee7 33. Kf0 Hf4 34. Ef3 Af8 35. g4 gxg4 36. Rxg4 He5 37.
+Cxe7 Ade8 38. Ce4
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "명인 결정전 제2국"]
+[White "귀마 김경중八단"]
+[Black "귀마 신대순八단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "157"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4
+Exc3 8. dxc3 He6 9. Rb0 Ra5 10. Rb4 Kf8 11. Ke0 Afe8 12. Afe1 Ce9 13. Cxe6
+fxe6 14. Exg6 Ri8 15. Ee3 Kf9 16. Cd2 Cb7 17. Rd4 Ci7 18. hi3 Cc7 19. Cf0
+Ef6 20. ab3 cd6 21. Rc4 bc6 22. Rb4 ih6 23. gf4 Cc5 24. Ha3 Cc8 25. f5 Cf8
+26. Rg4 e5 27. fxf6 Cxf6 28. cd3 ef5 29. Add1 Cf8 30. Ca0 Rc5 31. Cf0 fg5
+32. Ra4 de6 33. bc3 cd6 34. ih3 Rxi0 35. Cxi0 e5 36. Cf0 Rc7 37. hg3 Re7
+38. d4 Re6 39. cd3 h5 40. Hc4 h4 41. Ra6 ef5 42. Kd0 Ri6 43. Ee2 Ce6 44.
+Ra5 Ce9 45. Ra6 Cg9 46. Hh1 fe5 47. Ha3 Add8 48. Hb5 Ke9 49. Ra4 Rh6 50.
+de4 ed5 51. ef4 dc5 52. Ha3 d5 53. Ke0 Rb6 54. gf3 h3 55. Hf2 h2 56. Hh3
+Rh6 57. fg3 Cxg3 58. Cxf7 Rxh3 59. Cf0 Cxd3 60. Eg6 Add9 61. fe4 gf5 62.
+Exc5 Rg3 63. Exe8 Axe8 64. Ra5 Rxg6 65. Rxd5 Cd9 66. Rxf5 hg2 67. Hc4 Kf9
+68. He5 Rg3 69. Rf6 Ke9 70. Hc4 Rg7 71. He5 Rg3 72. Hd7+ Cd8 73. Hb8 Cf9
+74. Hc6 Cf8 75. e5 Re3 76. e6 Rg3 77. Rf4 Rg6 78. Re4 Rg7 79. e7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제1국"]
+[White "귀마 박계도七단"]
+[Black "원앙마 이양근六단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. Ra4 c5 6. ed3 cd5 7. Ri1 Hg7
+8. gh3 hg5 9. Rh4 Kf8 10. Rf1 ef6 11. Hi1 Afe8 12. Hg2 Ri8 13. Cf2 Cf7 14.
+de3 ab6 15. Ea3 b5 16. hg3 Kf9 17. Rfh1 Ei6 18. i4 Ee6 19. g4 gxg4 20. Rxg4
+Ce9 21. Cxf6 Cg9 22. Cf2 Add8 23. i5 g5 24. Ri4 Eg3 25. Rh7 Hf5 26. ixi6
+Exi6 27. Hh4 Ra6 28. Hxf5 gxf5 29. Cxf5 Cgd9 30. Cf2 Rg6 31. Eh6 Kf8 32.
+Rxi6 Rig8 33. Ri4 He6 34. cd3 Rg1+ 35. Af1 Hg5 36. Rxf7+ Cxf7 37. Ri7 Cf9
+38. ef3+ Cf6 39. b4 dc5 40. Hd4 Rh1 41. Cf5 Add7 42. Exe8 Rh7 43. Ri9 Axe8
+44. He6+ Ae7 45. f4 Rhg7 46. bxb5 cxb5 47. Rb9 Rf7 48. Hc7 Rfg7 49. Hd5 Cf9
+50. Cf2+ Hf3 51. de3 Rg1 52. Hxe7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "원앙마 이양근六단"]
+[Black "귀마 임웅규九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "203"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hg2 Hf7 5. ef3 g5 6. Ad1 Ef6 7. Cf2 Af8
+8. Cd0 cd6 9. Ke0 Kf9 10. Afe1 Ade8 11. c4 Ce9 12. b4 ab6 13. Ea3 b5 14.
+bxb5 Hxb5 15. cb4 Hc7 16. Hge3 Cd7 17. Rb0 Rb9 18. Cf0 Hd9 19. Cb2 Ra9 20.
+Cg2 Rb9 21. Ra0 h5 22. Cb0 Ra9 23. Ca2 Ci7 24. ih3 Ca7 25. Ei3 Hc7 26. Cf0
+Ri6 27. Rb0 Rb9 28. Ci2 Rh6 29. Cb2 Ra9 30. Eg0 Rh9 31. Ce2 Rb9 32. Ri4 Cd7
+33. Cc0 Hd9 34. b5 Ea6 35. b6 Ed3 36. Rbb4 Rxb6 37. Rxb6 Exb6 38. Ra4 Ed3
+39. Rxa6 Ri9 40. Ra4 Ri1 41. h4 hxh4 42. Rxh4 Rg1 43. Add2 e5 44. Hb4 He7
+45. Hxd3 Cxd3 46. Rd4 Cd5 47. Exd5 Hxd5 48. Af2 Hb6 49. Ade1 d5 50. Ri4 Hd7
+51. Aef1 Hf6 52. Ed2 He4 53. Ea0 gf5 54. Hc2 Hc5 55. Rc4 e4 56. Cf0 Rg0 57.
+A1e1 Hd7 58. Ed2 fe5 59. Rb4 Rh0 60. Kd0 Cg9 61. Ke0 ed4 62. Hxd4 dxd4 63.
+Rxd4 Cd9 64. Rc4 Hf6 65. Ea4 Hd7 66. fe3 Rg0 67. gf3 ed5 68. Ed2 d4 69. Rc6
+Hde5 70. Rc9 d3 71. exd3 Hxf3 72. de3 Hh4 73. Cxe8 Rxf0+ 74. Kxf0 Axe8 75.
+Rc4 Hg6 76. e4 Hd6 77. Rb4 Ke9 78. Ke0 He7 79. e5 Hf7 80. e6 Hc6 81. Re4
+Kf9 82. ef6 Hfd8 83. Eb5 Hb7 84. Ee3 Hcd8 85. Rf4 Hc5 86. fg6+ Af8 87. Eh5
+Af7 88. gf6 Ae8 89. Rc4 Hd7 90. fe6 He5 91. Re4 Hg6 92. e7 Axe7 93. Exe7
+Hc6 94. Ec4 Hce5 95. Ri4 Ke9 96. Ea7 Cf9 97. Ed5 Hd3 98. Ri6 Hgf4 99. Rd6
+Ke8 100. Eg7 Cd7 101. Rd4 Hc1+ 102. Ad1
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "원앙마 하성호二단"]
+[Black "귀마 김형섭三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. ih3 Ef6 5. g4 g5 6. Ra4 gxg4 7. Rxg4
+ab6 8. hg3 Ke9 9. Hg2 Ade8 10. Cf2 Ra5 11. Ke0 i5 12. Ea3 Rg9 13. Rxg9 Hxg9
+14. ef3 cd6 15. Ade1 Hf7 16. Cd0 Ea6 17. c4 Rh5 18. Ee3 Rg5 19. Aff1 b5 20.
+Cg0 Cb7 21. g4 Rh5 22. b4 Che7 23. Eg6+ Aff8 24. gh4 Rh7 25. Rxi5 Ri7 26.
+Rxi7 Cxi7 27. bxb5 Hxb5 28. Ei9 Ec3 29. Ad1 Hd8 30. Eg6 Cb2 31. Ec0 Cb9 32.
+Hf4 Hc7 33. Hh5 Ca7 34. Hxf6 Ce7 35. Hg8 Cf9 36. fe3 Cxf1 37. ed3 Cf9 38.
+Ege3 Cf3 39. dxc3 Cxc3 40. Eh5 Ce5 41. Ef2 Af7 42. Cd0 Hb7 43. Cf0 Kd9 44.
+Exf8 Ke8 45. Hi7 Axf8 46. Hg6 ef6 47. Cxf6 Ce9 48. Cf0 Cc6 49. Hxf8 Cxc2
+50. Hh9 Hb5 51. Hg7+ Ke7 52. Eh5+ Kd7 53. Cd0 Cc7 54. Cd3+ dc6 55. cd4+ cd6
+56. de4+ dc6 57. Hf5 Ca7 58. Hd4+ H5d6 59. Hb5+ Hf5 60. e5 He3 61. ed5+ cd6
+62. dxd6#
+{White mates} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "원앙마 이양근六단"]
+[Black "귀마 하성호二단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. ef3 ih6 5. Hg2 g5 6. Ad1 Ef6 7. Cf2 cd6
+8. Cd0 Ke9 9. Ke0 Ade8 10. Afe1 Ca7 11. Ea3 ab6 12. Rb0 Ea6 13. c4 b5 14.
+Hge3 Che7 15. b4 bxb4 16. cxb4 Rb9 17. Cf0 Aff8 18. Cc0 Hd9 19. Rb3 Kf9 20.
+b5 Ed8 21. b6 Ce9 22. Rb4 Ci7 23. ih3 hi6 24. Ei3 Rh9 25. Rh0 i5 26. Cb2
+Rh6 27. Ra4 Rxb6 28. Hb4 Eb5 29. Ra5 Exh3 30. gxh3 i4 31. Eg0 Ch9 32. Hec2
+Cxh3 33. fg3 Ch9 34. Rxh6 Hxh6 35. Hd5 dxd5 36. Cxb6 e5 37. Rxb5 Ci0+ 38.
+Cf0+ Hf7 39. Cb2 Ci7 40. Rb4 Ce7 41. Rxi4 Che9 42. Ce2 Hb8 43. Ri5
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제2국"]
+[White "원앙마 이남춘九단"]
+[Black "귀마 최성우九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Rb9 5. Cf2 Ef6 6. Ad1 Rb5 7. Cd0
+Rh5 8. Ri1 ed6 9. ef3 Ee6 10. f4 Rh2 11. Hce3 Rh5 12. g4 Exc3 13. bxc3 Rc5
+14. Ra3 Hf7 15. f5 Ec8 16. Ke0 Af8 17. Afe1 Kf9 18. c4 Rb5 19. Rc3 Ade8 20.
+cd4 Ce9 21. d5 ab6 22. de5 c5 23. i4 bc6 24. Ri3 Ha6 25. ih4 Rxi3 26. Exi3
+Cc7 27. Ra3 cb6 28. Exg6 hxg6 29. h5 Rb1 30. g5 gxg5 31. hxg5 Rc1 32. Cf0
+Cg9 33. g6 Ca9 34. Rb3 b5 35. f6 b4 36. Rb2 Exf6 37. gxf6 c4 38. fxf7 Axf7
+39. Hf5 c3 40. Hgh4 c2 41. Rb0 A8e8 42. Hg6 Ke9 43. ed5+ de6 44. d6 Ch7 45.
+Hg7 Kd9 46. dxe6 Aff8 47. Hxe8 Af7 48. Hc7+ Cxc7 49. Cd0+
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제2국"]
+[White "원앙마 이남춘九단"]
+[Black "귀마 조용희四단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Ef6 4. Hg2 Hf7 5. ef3 ih6 6. Ad1 Ri5 7. g4 Rb9
+8. Cf2 ed6 9. Cd0 Ee6 10. Hge3 Exc3 11. bxc3 Rc5 12. Ke0 Rxc3 13. Afe1 Ed3
+14. Add2 Ke9 15. Ea3 Rb5 16. i4 Ade8 17. ih4 c5 18. Hf5 Rxc2 19. Hxd6 Rb6
+20. Hxf7+ Axf7 21. Cxd3 Rc3 22. fe3 g5 23. Ri7 He6 24. gxg5 Hxg5 25. Rc0
+Rxc0+ 26. Exc0 Rb0 27. hg4 Rxc0+ 28. Cd0 Ch0+ 29. Ei3 Hh7 30. Eg6+ Hf8 31.
+Ed4 cd5 32. Rxf7 Ae8 33. Rf6 dxd4 34. Rxa6 Ch9 35. Rxh6 Cd9 36. Rd6 dc4 37.
+Rc6 Kf9 38. gf4 Af7 39. e4 Hd7 40. f5 Ae8 41. e5 c3 42. -- Ce3 43. e6 Ke9
+44. ed6 Hf8 45. Rc7 Hg6 46. Rc4 c2 47. Add1 Kf9 48. de6 Hf8 49. f6 Ad7 50.
+f7 Hh9 51. e7 Axe7 52. fxe7 Ce9 53. Rf4+ Hf8 54. Rf7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "원앙마 이남춘九단"]
+[Black "귀마 한재우三단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. Cf2 Ri8 6. Ad1 ed6 7. ef3 g5
+8. Ke0 c5 9. Afe1 Af8 10. Cd0 d5 11. Hce3 a5 12. c4 Ra6 13. b4 ab5 14. Rxa6
+Exa6 15. bxb5 Hxb5 16. cb4 Hc7 17. Ea3 h5 18. Exd5 cxd5 19. Hxd5 Hxd5 20.
+Cxd5 Ri6 21. He3 Kf9 22. Cd0 Ade8 23. f4 Ce9 24. Ri1 Rb6 25. bc4 Ef6 26.
+Hd5 Rc6 27. c5 Rb6 28. Rf1 Ec8 29. f5 gxf5 30. Rxf5 hg5 31. Rf4 Cd7 32. Rc4
+Rg6 33. c6 Ee5 34. Ee3 gf5 35. g4 Ed8 36. gf4 fxf4 37. Exg6 Cd9 38. Hc7 Cd7
+39. Exd8 f3 40. cd6 fe3 41. Ce4 Cd3 42. Ef5 Hxd6 43. Ei7+ Eh7 44. Hd5 Ce5
+45. Rc9+ Ae9 46. Cf0+ Ke8 47. Rc6 Ad9 48. ih3 Ad8 49. hg3 Ad7 50. g4 Hf5
+51. gf4 He7 52. Hxe7 Axe7
+{Black resigns} 1-0
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 노경국九단"]
+[Black "귀마 박유정五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ef3 Ef6 5. ed3+ Che7 6. Ee3 g5 7. Hf2
+Ri8 8. Exc6 bxc6 9. Rb0 Rb9 10. Rb4 Cd7 11. Rc4 Rb6 12. Ke0 Ke9 13. Afe1
+Afe8 14. de3 ed6 15. Re4 Cf9 16. ab3 Ee6 17. Ra4 Rb8 18. g4 gf5 19. Cb2 Rc8
+20. Che2 ih6 21. Rg0 Add8 22. cd3 h5 23. Cd2 fe5 24. bc3 Rg8 25. Cf0 Ei8
+26. Add1 Ra8 27. Rc4 Ra6 28. Ei1 d5 29. h4 c5 30. Rb4 hxh4 31. gxh4 Rxg0
+32. Hxg0 e4 33. Cxe4 Exh4 34. Eg4 de5 35. Cxh4 Eg5 36. Cd4 Rh6 37. Cdd2 Rh4
+38. Hf2 Cxf2 39. Axf2 Hh6 40. Rb6 ed5+ 41. Kd0 Hxg4 42. Ade1 He5 43. Rc6
+Add7 44. ef3 Exd3 45. cxd3 Hxd3 46. Ri6 Rh9 47. Cg2 Hb5 48. Rb6 He5 49.
+Cgd2 Add8 50. f4 Hd3 51. f5 Rh0 52. Aff1 Rh4 53. Rg6 Rc4 54. f6 Kd9 55. Ha1
+Ha3 56. Hb3 Hb1+ 57. Kd1 Hb2#
+{Black mates} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 허남열七단"]
+[Black "귀마 설조길五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "174"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Rb0 Hf7 7. Ef3
+Af8 8. Exc6 bxc6 9. Rb8+ Kf9 10. Rc8 Ce5 11. Ri4 Ce9 12. Hf2 f5 13. Ce7 Rc9
+14. Rb8 Ef6 15. Cee2 g5 16. Rd4 Ade8 17. He3 c5 18. Rb6 ih6 19. Rc6 Hd9 20.
+Rxc9 Exc9 21. g4 hg6 22. ab3 Hc7 23. Rb4 Cg9 24. gxg5 gxg5 25. Af1 Ce7 26.
+Ke0 Ri2 27. Ade1 He6 28. Rb9 f4 29. hg3 Hc7 30. Rb6 Exd3 31. cxd3 Cxg3 32.
+Rc6 fxf3 33. Rxc7 Cg9 34. Rxc5 fxe3 35. dxe3 Ee6 36. Cxe6 Rxh2 37. Ce2 Rh0+
+38. Aff0 Rh6 39. bc3 Cd9 40. cd3 Ra6 41. Ad0 Rg6 42. Ade1 g4 43. Rf5 g3 44.
+He4 g2 45. Rf6 Rg4 46. Hd6 Ra4 47. Ad0 Ra6 48. Afe1 Ad7 49. He4 Ra5 50. Rg6
+gh2 51. Rf6 Rh5 52. Hd6 Hh6 53. He4 Rh4 54. Rg6 Ade8 55. Hf6 Rh3 56. Hd5
+Ce9 57. Hf4 Rh4 58. ef3 Hi4 59. de3 Cxe3 60. He6 Ce7 61. Hc7 Re4 62. Hxd9
+Axd9 63. Kf0 Ke9 64. Add1 Ade8 65. Add2 Re5 66. Rg4 Hg5 67. Ce0 Rf5 68. Rf4
+Rd5 69. Rg4 Aff7 70. Cg0 He6 71. Rg6 Hc5 72. Ade2 Rd3 73. Rg3 Rb3 74. A2f2
+He4 75. Rg9+ Af9 76. Rg4 Hd6 77. Rg3 Hf5 78. Rh3 hg2 79. Afe2 Hd4 80. fe3
+Hxe2 81. Axe2 Cxe2 82. ed3 Rb2 83. Rf3 Rd2+ 84. Ke0 Ae7 85. Cg9+ Af8 86.
+Rxf8 Ce8+ 87. de3 gf2
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "귀마 박수영三단"]
+[Black "귀마 조용희四단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Ea6 5. cd3 Ef6 6. Ee2 Hf7 7. g4 cd6
+8. Hc2 Rc9 9. Rb0 Hb5 10. Hb4 Rc1+ 11. Ad1 e5 12. Kd0 Ce9 13. Ca5 d5 14.
+Afe1 Cc9 15. Ha2 Rc8 16. Ri1 Cxc0 17. Rb4 Cc9 18. Ke0 Rc0+ 19. Add0 Ke9 20.
+Hc3 Cb7 21. a4 Afe8 22. e4 Ec8 23. exe5 Hxe5 24. Hxd5 Hxd3 25. Re4 bc6 26.
+Ca8 Ec3+ 27. Hxc3 Hxc3 28. Re3 Ef6 29. He4 Hc1+ 30. Ad1 Hxe4 31. Rxe4 Ri7
+32. Re6 Hd3 33. Ae1 Ad8 34. Ch4 Rd7 35. Ca1 Ce7 36. Rf1 Cf9 37. Ri1 Hc1+
+38. Cd1 Cd9
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "귀마 이영우七단"]
+[Black "귀마 김도경四단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ri4
+Kf8 8. Rc4 Afe8 9. Exc6 bxc6 10. Rxc6 Ce9 11. Rc4 ih6 12. Ef3 Ri1+ 13. Af1
+Cc9 14. Ra4 Rxa4 15. axa4 Exc3 16. dxc3 Cxc3 17. Ec5 Cc1 18. Exf7 Cxf1 19.
+Ec5 Cc1+ 20. Ke0 Cxc5 21. Hd4 Cc9 22. ab4 Ri0+ 23. Ke1 Ri4 24. g4 Cf9 25.
+Ch4 Ri1+ 26. Ke0 Ri0+ 27. Ke1 Cf7 28. Cf4 Hd5 29. Ce0 Hxf4 30. gxf4 Cxf4
+31. Ra7 Cf7 32. He4 Kf9 33. Hd6 Rf0+ 34. Kd1 Add8 35. Ae1 Rf4 36. bc4 Cd9
+37. Hxe8 Axe8+ 38. Hc6 Rxc4 39. Cxe8 Kxe8 40. Rxh7 Rxc6 41. Rxh9 Rd6+ 42.
+Ad2 Rd7 43. Ke1 Re7+ 44. Ae2 f5 45. h4 fe5 46. h5 hxh5 47. Rxh5 gf6 48. Rh6
+f5 49. Rf6 Ke9 50. -- fg5 51. Rg6 ef5 52. -- Re4 53. -- g4 54. Rf6 f4 55.
+Rf7 g3 56. -- f3 57. -- fe3 58. Ad2 gf3 59. -- ed3+ 60. Ae2 fe3 61. Af2 dc3
+62. -- ed3+ 63. Ae2 c2 64. Kf2 cd2 65. Axd2 dxd2
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 이근수三단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Rb0 Ee6 7. Hf2
+Ra5 8. Af1 Kf8 9. Kf0 Afe8 10. Ade1 Ce9 11. Ce0 ih6 12. Cg0 Rxi0 13. Cxi0
+Ri5 14. Cg0 Ri1 15. Cd0 Rg1 16. Ce2 Exg3 17. hxg3 Rxg3 18. Rb4 Ri3 19. Ke0
+Kf9 20. Cf0 Af8 21. ab3 Ade8 22. Rf4 He6 23. Ra4 Hed8 24. Hb0 fe6 25. Rg4
+g5 26. Rf4 e5 27. Hd1 cd6 28. Rb4 bc6 29. Rf4 ef5 30. Rb4 d5 31. Kd0 Ef6
+32. Ce0 Cxh0 33. He4 hg6 34. Hxf6 gxf6 35. Rh4 Ch6 36. d4 dxd4 37. Rxd4 Cd6
+38. Cd2 Cxe3 39. Rd3 f4 40. Rxe3 f3 41. Re4 Cd9 42. Cc0 f5 43. Ccf0 c5 44.
+Ke0 Ri0 45. Rh4 Ke9 46. Rh2 f4 47. Ci2 fe4 48. Hb2 e3 49. Cc2 cd5 50. Ca2
+d4 51. Rh4 Rg0 52. Rf4 Hh6 53. Cd2 gf5 54. Rh4 Hg4 55. b4 fe5 56. bc4 e4
+57. cxd4 exd4 58. Rh5 Hc6 59. Ha4 Hce5 60. Hc5 Rg1 61. Cd5 e2 62. Cb5
+e2xe1+ 63. Kxe1 Hc6 64. Rg5 fe3 65. Cff5 e2+ 66. Kxe2 Rg2+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 송종일九단"]
+[Black "귀마 이남춘九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. cd3 Ra5 7. Ca2
+Rb5 8. e4 Cb7 9. Hc2 Hf7 10. Ee3 Che7 11. Chd2 Ke9 12. Cd4 Cd7 13. Cd0 Hb9
+14. Ce2 Hd8 15. Hd4 Ra5 16. e5 Cxe5 17. Hxe6 fxe6 18. Exg6+ Cg7 19. Exd8
+Axd8 20. Hg4 Ce8 21. Ef3 Cd7 22. Hh6 Hxh6 23. Exh6 Ce5 24. a4 Ra7 25. de3
+cd6 26. Rb0 Rxa4 27. Exf9 Kxf9 28. Rxb6 Ef6 29. Rb9+ Ed9 30. Aff1 Ke9 31.
+gf3 Rg4 32. hg3 Rh4 33. Rg0 Rg9 34. Cf0 Ce7 35. Rb8 Ae8 36. Cb0 Rc4 37.
+Cb9+ Eb6 38. Ad0 Rg5 39. Rh0 Cxd0 40. Rh9+ Af9 41. Rb7 Ce5 42. Cxb6 Cd9 43.
+Rd7 Ri5 44. Rxd9+ Kxd9 45. Rxf9+ Kd8 46. Ke1 Ri2 47. Rf8+ Ce8 48. Cbxe6
+Rc1+ 49. Kd2 Rxf1 50. Rxe8+ Kxe8 51. Ca6+ Kd8
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "귀마 정연기五단"]
+[Black "귀마 이금용四단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 Hf7 5. Ade1 gh6 6. Ca2 Ea6 7. ab3
+Exc3+ 8. bxc3 Ef6 9. Hc2 Exh3 10. gxh3 Cxh3 11. Hxh3 Ci7 12. Hi5 Cxi5 13.
+Ef3 Ci7 14. Rg0 Rg9 15. Rxg9 Hxg9 16. ed3 Ca7 17. Cb2 Ce7 18. Ce2 Ra5 19.
+Ra1 Hf7 20. Ea3 Rf5 21. Ec1 cd6 22. He3 Rb5 23. Ca0 He5 24. Ed1 Hg6 25. Ra4
+Rb1 26. Hf5 Ce5 27. Ra7 Ha6 28. Hg7+ Ke9 29. Aff1 Rxc1 30. Rb7 Rc0+ 31. Cd0
+bc6 32. Kf0 Afe8 33. Ea3 Ra0 34. Ed1 Ra4 35. Hh9 Ce7 36. d4 Ra5 37. Ra7 cb6
+38. Hg7 Rf5 39. Ci0 Rf7 40. Hh9 Aed8 41. Hi7 Ke8 42. Hxg6 hxg6 43. c4 ih6
+44. Ke0 gf6 45. Cb0 hg6 46. cb4 dc6 47. ba4 Ce3 48. Ra8 Rd7 49. a5 Rxd4 50.
+axa6 Ra4 51. Cb8+ Kf9 52. a7 cd6 53. Cg8 Ra0+ 54. Ad0 Ra2 55. Ade1 Rxe2 56.
+Kd0 Ra2 57. Cg0 bc6 58. Aff2 g5 59. Eb4 gf5 60. Ee2 Ce9 61. Ke0 f4 62. Kf0
+f5 63. Ce0 A8e8 64. Eb4 f3 65. Aff1 Ra4 66. Ed1 c5 67. -- cd5
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "귀마 배종국五단"]
+[Black "귀마 박계도七단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Che7 6. Ce2 Ef6 7. Hf2
+Ad8 8. e4 Kd9 9. ef4 gh6 10. Ef3 Afe8 11. Ee3 cd6 12. f5 Ci7 13. Rh0 Ei8
+14. g4 Cbd7 15. Ce0 Cf9 16. g5 Ce7 17. Che2 Ea6 18. cd3 d5 19. hg3 de5 20.
+fxe5 exe5 21. g6 Cc9 22. gxh6 ixh6 23. Exh6 Cxc2 24. Eh5 Ch7 25. Ri0 Cc9
+26. Ee4 bc6 27. Cc0 cd6 28. dc3 Exc3 29. bxc3 Cxc3 30. Ad1 Cc9 31. Cg0 Cd7
+32. Ke0 Ccf9 33. g4 Rh9 34. Ri5 Cd5 35. Rc0 Hb5 36. Rxi8 Hd4 37. Ade1 Rxh5
+38. Ri9 Hxe2 39. Axe2 exe4 40. Hxe4 Re5 41. gf4 Cd7 42. Afe1 Cg7 43. Rc5 d5
+44. Rc6 Ce7 45. Rf6 Ke9 46. Kd0 d4 47. Hf2 Cxe2 48. fe4 dxe4 49. Axe2 e3
+50. Ae1 e2 51. Ad1 Rc5 52. Ke0 Rb1 53. Re6 exf2 54. Ad2 Rg5 55. Cd0 Rb0 56.
+Ri0 Rg1 57. Ae1 f2xe1+ 58. Rxe1 Rxe1+ 59. Kxe1 Rb1+ 60. Ke0 Hg5 61. Rf0 Rb3
+62. Re1 Hf3 63. Cf2 Cd9 64. Re2 Rb0+ 65. Ke1 Rd0+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제3국"]
+[White "귀마 박유정五단"]
+[Black "귀마 유창식八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hf2 Hc7 3. Ce2 Ce7 4. Hc2 Hf7 5. Ef3 Ri5 6. g4 Rf5 7. ih3 g5
+8. h4 gxg4 9. hxg4 Ef6 10. Ri1 Ra8 11. Ke0 Ke9 12. Afe1 Rd5 13. Ra4 Rh5 14.
+Af0 Ade8 15. Ade1 Rd5 16. Ad0 Ad9 17. Afe1 Rg8 18. Af0 Ade8 19. Ade1 -- 20.
+-- -- 21. Cb8 Rg9 22. Cb0 Ca7 23. Rf4 Che7 24. Cd0 ab6 25. Aff1 Rh5 26. Ri5
+Rxi5 27. Exi5 h5 28. Eg2 Rh9 29. Rf5 Aff8 30. ed3 Cd7 31. Ee3 cd6 32. gf4
+h4 33. Eh5 Rh6 34. fg4 h3 35. Ei5 Ce5 36. Ee3 d5 37. Exf7 Afxf7 38. Ha3 Cf9
+39. Rg5 hg3 40. Eg6+ Aff8 41. He4 gf3 42. b4 Ce7 43. Hxf6 exf6 44. Ei9 f5
+45. Ri5 fe5 46. Cf0 fe3 47. dxe3 Cxe3 48. cd3 Ce7 49. Rg5 He6 50. Rg6 Rxg6
+51. Exg6 Hg7 52. Cc0 Ee6 53. b5 bxb5 54. Hxb5 Cd9 55. Aff2 Cg9 56. g5 ef5
+57. gxf5 Cxg6 58. f6 Eg3+ 59. Aff1 Cg9 60. Hd6 Cd9 61. fg6 He6 62. Cf0 Ad7
+63. Hb5 Afe8
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 박강평四단"]
+[Black "귀마 박유정五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 g5 6. Ri4 Ef6 7. Rf4
+Rg9 8. Hf2 Ke9 9. Ef3 Afe8 10. Exc6 bxc6 11. Rb0 Kf9 12. Af1 Cd7 13. de3
+cd6 14. Ca2 Ea6 15. Che2 Rc9 16. Rc4 Ce9 17. cd3 gf5 18. Cd2 e5 19. Rh4 Rh9
+20. Rxh9+ Cxh9 21. g4 Ce9 22. ab3 Hd5 23. Hb4 Hxb4 24. bxb4 d5 25. Ad1 ih6
+26. Ri0 Rc6 27. Cf0 h5 28. Ke0 Af8 29. Ri6 fg5 30. gxg5 hxg5 31. Afe1 Rb6
+32. h4 Exd3 33. Rxb6 Exb6 34. b5 Cxe3 35. bxb6 Ec3 36. hg4 Ke8 37. gxg5
+Hxg5 38. bc6 Cf9 39. Ei1 Cxf2 40. Axf2 Hh3 41. Ef3 Hxf2+ 42. Ke1
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 임선웅初단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Af1
+Ra5 8. Ri4 Kf8 9. Rc4 Rc5 10. Ef3 Rxc4 11. cxc4 Hb9 12. Rb0 Hd8 13. c5 ih6
+14. cxc6 bxc6 15. Rb5 Afe8 16. g4 Ce9 17. Hd4 cd6 18. Exd6 Hxd6 19. Rb6 Hc4
+20. Rb5 Hd6 21. Ec6 Kf9 22. Ra5 Ee7 23. ab3 Cb7 24. Ce0 Cf7 25. Kf0 Ri2 26.
+Hf3 Cxf3 27. Ke1 Rxh2 28. gf4 Rg2 29. d4 Rg1 30. Hd1 Hc8 31. Rc5 f5 32.
+fxf5 Cf7 33. fe5 gf6 34. He3 Ha7 35. d5 Hdxc6 36. d6 Hd8 37. Ad1 hg6 38. b4
+Eb9 39. Rc7 Eg9 40. Rxa7 Cxe5+ 41. Kd0 Exd6 42. Hc4 Ef3+ 43. Afe1 Ce9 44.
+Ra3 Rg0 45. Hd2 Ed6
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제1국"]
+[White "귀마 김민수九단"]
+[Black "귀마 주경덕五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "204"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. g4 Ra5
+8. c4 g5 9. a4 Rd5 10. Hd4 gxg4 11. Hxg4 Rg5 12. Hf2 cd6 13. ab4 Hb9 14.
+Ra3 Hd8 15. Hf3 Rg8 16. Hh4 i5 17. Ra5 i4 18. Hf3 Ke9 19. Rh5 Ade8 20. Ra5
+fg6 21. Ri1 Rii8 22. Rg1 gf6 23. Rag5 Rf8 24. Rg9 f5 25. R1g4 i3 26. Rxh9
+i2 27. Ch5 Rfg8 28. Rxg8 Rxg8 29. Ri9 f4 30. Rxi2 Rg5 31. Cc5 Cxh0 32. Hh2
+Rg1+ 33. Af1 Hg5 34. Eh5 Ce5 35. Ri4 f3 36. Hxf3 Hxf3 37. Rf4 Hd2 38. Kxd2
+Rxf1 39. Ae1 Rg1 40. Rg4 Ri1 41. Re4 d5 42. Cc1 Ri7 43. Hg4 Rd7 44. Hxe5
+dxe5 45. Re3 Cxh5 46. Cxe5 bc6 47. Cxc6 Ra7 48. Cc2 Ra2 49. Ce2 Kd9 50. hg3
+Eh8 51. gf3 Ch9 52. f4 Rb2 53. d4 Ee6 54. ba4 Eh4 55. fg4 Ef7 56. gf4 Ce9
+57. Rd3 Aff8 58. de4 Cc9 59. Ad1 Cf9 60. Rc3 Ke9 61. Ke1 Rb1 62. cd4 Cd9
+63. d5 Kf9 64. Cc8 Cxd5 65. Cc1 Cd9 66. f5 Rb5 67. fe5 Rb6 68. Ad2 Rd6 69.
+Rc2 Rd3 70. Cf1 Ke9 71. Ce0 Eh4 72. Cd1 Rf3 73. Rc9 Ri3 74. ab4 Ri2 75. Cd4
+Ri1+ 76. Kd0 Ef7 77. ef4 Kf9 78. f5 Rf1 79. bc4 Hb7 80. Rc7 Ha5 81. cb4 Ei5
+82. Ae1 Rf4 83. Cc0 Rxd4+ 84. Ke0 Rxb4 85. Cf0 Ke9 86. f6 Re4 87. e6 Hc4
+88. Rc5 Eg2 89. Rg5 Ee5 90. Rg3 He3 91. Rf3 Hc2 92. Rf2 Eh3 93. Cd2 Hd4 94.
+Ch2 Hb3 95. Cb2 Ri4 96. Af0 Ri1 97. Af1 Ri0+ 98. Af0 Ri5 99. Ae1 Ad8 100.
+e7 Ri0+ 101. Af0 Hd2+ 102. Kd0 Hf1+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제2국"]
+[White "귀마 주경덕五단"]
+[Black "귀마 김민수九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Ke0
+Af8 8. Ra1 Ra5 9. Rai1 gh6 10. Cxh6 Hxh6 11. Rxi6 Rxi6 12. Rxi6 Hf7 13. Ef3
+Rg5 14. Ri3 f5 15. Ade1 f4 16. Ri6 Ch0+ 17. Af1 fxf3 18. Hh1 fxg3 19. hxg3
+Exg3 20. Rg6 Ee6 21. Kd0 Ch6 22. Hf2 Rc5 23. ab3 Cf6 24. Ke0 Cd6 25. Rg4
+Ef6 26. He4 Ra5 27. Hxd6+ cxd6 28. Aff2 Ei8 29. Kf0 Ri5 30. Ce0 Eg5 31.
+Aef1 Exc3 32. bxc3 Hh6 33. Re4 He6 34. Ra4 Hf4 35. Re4 de6 36. Ra4 ef6 37.
+Ce4 He6 38. Ke1 Hc5 39. Rc4 Hxe4 40. Rxe4 Af7 41. Ha3 Ed7 42. Ae2 bc6 43.
+Aff2 cd6 44. Hc4 Rc5 45. Re5 d5 46. Re4 Hf5 47. Kd0 Ke9 48. Ri4 Ade8 49.
+Aee1 Kd9 50. Eh5 Ce9 51. He3 Hd6 52. Rc4 Rb5 53. Ke0 Hf5 54. Aee2 d4 55.
+Rc6 dxd3 56. Hxf5 Rb0+ 57. Ke1 d2+ 58. Kf1 dxe2 59. Axe2 Rb1+ 60. Kf0 fxf5
+61. Ee3 Rd1 62. Rc5 Rd0+ 63. Kf1 f4 64. Eg6 Aff8 65. Rc4 Rd6 66. Ed4 fe4
+67. cd3 Ad8 68. Af2 Eg5 69. Rc5 Ed7 70. Rc4 Afe8 71. Ra4 Rg6 72. Ea2 Rg1+
+73. Kf0 Ef4 74. Ae2 Ei2 75. Ke0 Rg0+ 76. Ke1 Rf0+ 77. Kd1 Ef4 78. Ec5 Rc0
+79. Ra5 Rc2 80. Ke1 ed4
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제3국"]
+[White "귀마 설조길五단"]
+[Black "귀마 이금용四단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 ef6 5. Rb4 Ra5 6. Rbi4 i5 7. Rc4 f5
+8. ed3 Hf7 9. Ee3 Ef6 10. Rh4 Kf8 11. Ef3 He6 12. Hf2 Afe8 13. Af1 Hf4 14.
+hi3 g5 15. g4 ih5 16. Cxh5 gxh5 17. Rxh5 Hxd3+ 18. cxd3 Rc5 19. Hd4 Rc2 20.
+dc3 Rxc3 21. Exc6 bxc6 22. Rxf5 Ec4 23. Ke0 Re3 24. Afe1 Exe1 25. Axe1 Ri6
+26. Ei5 Rg6 27. Kf0 Rxa3 28. Ce0 Ce9 29. ih3 Ra1 30. Ri1 Cd7 31. Rf1 Ra0
+32. Hc2 Add8 33. Hd0 Ra1 34. Cg0 Ri6 35. He2 Cd9 36. Hf4 Ee6 37. H2d3 Ec3
+38. Cd0 cd6 39. Rg1 Kf9 40. h4 Ce7 41. He2 Ke9 42. Cf2 Ra0+ 43. Kf1 Cxe1
+44. Hxe1 Exf5 45. Exf7 Cxf7 46. gf4 Ei7 47. Hc1 Rai0 48. Hcd3 R0i1 49. Rxi1
+Rxi1+ 50. Kf0 Cd9 51. Cd0 de6 52. Hc5 ed6 53. Hcd3 Ef9 54. hg4 Ri2 55. Ke0
+Rd2 56. f5 de6
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제2국"]
+[White "귀마 이금용四단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ef6 6. Ce2 gh6 7. Ef3
+Rg9 8. Hf2 Cbe7 9. Af1 Ea6 10. Ra4 Af8 11. Ce0 cd6 12. Che2 Rc9 13. Cg2 Rh9
+14. h4 Hd5 15. Rc4 Ad8 16. g4 Exc3 17. bxc3 Hxc3 18. Rxc9 Rxc9 19. Kf0 Ce5
+20. Exh6 ixh6 21. Ade1 Cd7 22. e4 Ce7 23. ef4 Rc5 24. Ri3 Ke9 25. Ch0 Afe8
+26. Ea3 Ha4 27. Rb3 Ri5 28. Ca0 bc6 29. Rb4 Hb6 30. Rb3 Hc4 31. Ce2 Cf9 32.
+Ke0 c5 33. fe4 cb5 34. ed4 Ha5 35. Rc3 b4 36. Ec0 b3 37. Rc8 Hb7 38. gf4
+Hc5 39. dc4 Ha4 40. cb4 Hb2 41. Cd0 Hxc0 42. Hd4 Hb2 43. f5 Ei8 44. Hxb3
+Hd3 45. Rc3 Hxf2 46. Afxf2 Rxf5 47. hg4 hg6 48. bc4 g5 49. Cf0 Re5 50. Ri3
+Ef6 51. gf4 Hh6 52. Ri9 Re3 53. Hd2 Hi4 54. cd4 Hg3 55. de4 Hxe2 56. Afxe2
+Eh3 57. Ri3 d5 58. Kd0 Cd9 59. A2f2 de5 60. Ad1 exe4 61. fxe4 e5 62. Afe1
+exe4 63. Hxe4 Rxe1#
+{Black mates} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제1국"]
+[White "귀마 조용희四단"]
+[Black "귀마 이남춘九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. Ke0
+Ra5 8. Ra1 Ri5 9. Rxi5 ixi5 10. Ri1 g5 11. c4 f5 12. Hd4 fe5 13. Exc6 ed5
+14. Ef4 dxd4 15. dxd4 gf5 16. Ec2 Af8 17. c5 Kf9 18. Rb1 Ri6 19. g4 Cb7 20.
+Ri1 Cb0+ 21. Ae1 Cb9 22. Ef3 i4 23. Ce7 Ce9 24. Che2 Ade8 25. Cg7 Ha6 26.
+Ci2 Rg6 27. Cb7 Rxg4 28. Ei5 Ch0+ 29. Hg0 Rxg0 30. Ri0 Hg5 31. Cb0 Hxh3 32.
+Kd0 Hg1 33. Ce0 Hxe0 34. Aexe0 Cxf0+ 35. Exf0 Rxi0 36. Ef3 Cg9 37. Ci6 Rg0
+38. Eh6+ Rg8 39. Cxe6 Hb4 40. ab3 Cd9+ 41. Ke1 Ha6 42. de4 b5 43. c6 Hc5
+44. e5 fxe5 45. Ce2 e4 46. Ce5 Hxb3 47. Exe4 Rg5 48. Ce2 Hc5
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "10강전 제3국"]
+[White "귀마 김민수九단"]
+[Black "귀마 한재우三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "200"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ra5 4. a4 Ri5 5. Rxi5 ixi5 6. ed3+ ef6 7. Ee3+
+Kf8 8. a5 Ce7 9. Ra4 c5 10. Ef3 f5 11. Rb4 b5 12. axb5 cxb5 13. Rc4 He8 14.
+Rd4 Afe9 15. Rd5 gf6 16. g4 i4 17. Hf2 i3 18. hxi3 Rxi3 19. Ed6 Hc7 20. Rd4
+Ea6 21. Rc4 He6 22. Eb9 Ed8 23. Cxe6 fxe6 24. Ce2 ef6 25. gf4 Ri4 26. fxf5
+Rxc4 27. cxc4 fxf5 28. Eh5+ Kf7 29. Exe7 Cxe7 30. He3 Ci7 31. Hfg4 Hh7 32.
+d4 Kf8 33. Hh6 fg5 34. Ad1 Ef6 35. Kd0 Cd7 36. Ed6 Ea6 37. d5 Aee8 38. Afe1
+Add8 39. Ce5 Kf9 40. Cxb5 Cd9 41. Ce5 Add7 42. Ce2 Ch9 43. Ce6 Ec9 44. Hhg4
+gxg4 45. Hxg4 Cd9 46. Cc6 Eh9 47. c5 Ee7 48. Hh6 Add8 49. Hf5 Ke9 50. Ke0
+Hg5 51. Eg8 Hf3 52. Add2 Cf9 53. Aed1 Af7 54. He3 Ee6 55. Ee5 Eh4 56. Kd0
+Af8 57. Cc3 Hh2 58. Hg2 Ef7 59. Eh3 Ed4 60. He1 Hf1 61. Ke0 Eg4 62. Cc8 Af7
+63. Ee5 Exe1 64. A1xe1 He3 65. Cc0 Ea6 66. Cf0 Ade8 67. Cd0 Ec3+ 68. Add1
+Ef5 69. Ae2 Eh2+ 70. Ke1 Ee4 71. d6 Cf5 72. Eb7+ Kf9 73. c6 Hg2+ 74. Af2
+Eg7 75. Ed4 Hf4 76. Ad2 Ei4 77. Afe2 Cf3 78. Ke0 Ef6 79. Ea2 Eh3 80. Ec5
+Cf5 81. c7 Afe7 82. de6 Ke9 83. Aee1 Exe1 84. Kxe1 Hg2+ 85. Cf2 A7f7 86.
+ed6 Afe7 87. Ke0 Hf4 88. Cc2 Hd5 89. Exe8 Kxe8 90. Ce2+ Kf8 91. Ke1 Cc5 92.
+Ce0 Ce5 93. Kd0 He3 94. Ae1 Hc2+ 95. Kd1 Ke8 96. de6 Hd4 97. ed6 Hb5 98.
+dc6 Hc3+ 99. Kd0 Hb5 100. Cb0 Hd4
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "귀마 한재우三단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hc7 3. Ra4 Hf7 4. Ce2 Che7 5. Hf2 Ef6 6. Af1 ed6 7. Ef3
+Ee6 8. gh3 Cd7 9. Rg0 Ke9 10. Kf0 Afe8 11. Ade1 Cf9 12. Ce0 Add8 13. Rgg4
+g5 14. Rg1 h5 15. Ci0 Rg9 16. Ke0 Cg7 17. Rh1 Cg2 18. Hd1 d5 19. Cd0 c5 20.
+e4 a5 21. Ra1 ab5 22. Rxa9+ Cxa9 23. Exc5 bxc5 24. Hde3 Cg7 25. Cf0 Ei8 26.
+Cb2 Ce7 27. ef4 Cf9 28. h4 Ch7 29. i4 Cxf4 30. Rg1 hxh4 31. ixh4 Cf9 32.
+Cg2 Rh9 33. Cg7 Ha6 34. c4 Ch3 35. cxc5 Hxc5 36. Hxd5 Rxh4 37. Ee3 He5 38.
+bc3 Rd4 39. Rg3 Cf3 40. Ri3 Rxd5 41. Rxi8 Cxc3 42. Ri5 Hed3 43. Ad1 Re5 44.
+Ri3 gf5 45. Kd0 Cxf1 46. Cc0 Kd9 47. Ce0 Rd5 48. Ri6 Eg3 49. Ri8 Exd1 50.
+Kxd1 Cc9 51. Ri2 Cff9
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "4강전 제2국"]
+[White "귀마 한재우三단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "100"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. Ca2 Rb9 5. ab3 Ef6 6. Ef3 Che7 7. Ce2
+Rb8 8. Hf2 Ri8 9. g4 Cb9 10. Af1 Ea6 11. Ke0 Ke9 12. Ade1 ih6 13. Rxi8 Rxi8
+14. e4 Afe8 15. ef4 g5 16. gxg5 Exh3 17. f5 Ri0+ 18. Aff0 Ri3 19. He3 c5
+20. Ra4 Add8 21. Rh4 Ch9 22. Rf4 Cd9 23. c4 cd5 24. Rh4 Ch9 25. Rg4 Cb9 26.
+b4 Ee5 27. Ce4 Rxf3 28. Cc2 bc6 29. Cxc6 Cb0+ 30. Ad0 Rxf2 31. Ae1 Rf3 32.
+Hc2 Cb9 33. Ee3 Ri3 34. Cc3 Ri0+ 35. Af0 d4 36. cxd4 Exd4 37. Cc0 Ri2 38.
+Hxd4 Eb7 39. Hc6 ed6 40. f6 dxc6 41. fxf7 Axf7 42. Cxc7 Ri3 43. Eg0 Rb3 44.
+bc4 Ade8 45. gf5 Cf9 46. Rh4 hg6 47. Rg4 gh6 48. Rh4 Rf3 49. Rxh6 Rf4 50.
+Cb4 Rxf5
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "명인 결정전 제1국"]
+[White "귀마 신대순八단"]
+[Black "귀마 김경중八단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Hf7 6. Ch4 Ee6 7. Ch1
+Ra5 8. Hf2 Ke9 9. Ke0 Afe8 10. Ade1 Kf9 11. Ca2 Rg5 12. g4 Ri5 13. Rxi5
+ixi5 14. Ee2 i4 15. ab3 i3 16. hxi3 Rxi3 17. Cd2 Ce9 18. Ra5 gh6 19. Kd0
+Hb9 20. g5 Hbd8 21. gh5 hg6 22. Hg4 Rg3 23. Hi5 Ch2 24. Cf2 Af8 25. Ra4 Ch8
+26. Hh7 Ce8 27. Ri4 Ce5 28. Ri8 Ade8 29. Rg8 C5e7 30. Hg9 Ch7 31. Rg7 Ce7
+32. Rg8 Ce9 33. h6 Cd7+ 34. Ke0 Cd9 35. Cxh9+ Cxg9 36. h7 Ce9 37. Eh5 Ce7
+38. Exf8 Cxh7 39. Cxf7+ Axf7 40. Exc6 Ae8 41. Ef4 Rh3 42. Ei6 Ch2 43. He3
+Rxh9 44. Hg4 Cc2 45. He5 Rh6 46. Eh4 f5 47. Hf3 Rxi6 48. Hd4 Cxd4 49. dxd4
+Cc9 50. Ee2 Ke9 51. d5 bc6 52. dc5 cd6 53. cd3 gf6 54. Eb4 Ri2 55. Exe6
+fxe6 56. b4 Ri4 57. b5 Rb4 58. Rg2 Cf9 59. Ad0 Rb3 60. d4 Rd3
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "20강전 제1국"]
+[White "귀마 최성우九단"]
+[Black "원앙마 이남춘九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 h5 5. ed3 g5 6. Ee3 ed6 7. Exh5
+gxh5 8. Ef3 He6 9. gh3 hg5 10. Rg0 a5 11. Af1 Ra6 12. Ad1 Hhg7 13. Ra1 ab5
+14. Rxa6 Exa6 15. Ra0 Ed8 16. Ra4 Ke9 17. Kd0 Ri6 18. Ade1 Cf7 19. de3 Ade8
+20. cd3 Cd9 21. Ce0 d5 22. Cd2 c5 23. Cc0 Aff8 24. Ra9 gf5 25. Hd1 f4 26.
+Eh0 Rg6 27. Aff2 Ch7 28. Ee2 Ce7 29. Aff1 Rg4 30. Ra4 Rg1 31. bc3 Rg6 32.
+Ra9 Hc7 33. cb3 Ef5 34. Cdf0 Rg0 35. Ce0 Hge6 36. Cf2 Exi3 37. hxi3 Rg3 38.
+i4 fe4 39. Cf0 d4 40. bc3 c4 41. ef3 Ri3 42. Cc0 b4 43. Ke0 Rxi4 44. cxc4
+bxc4 45. dxd4 exd4 46. Hde3 Ri5 47. Cxc4 dxc4 48. Hxc4 Hb5 49. Rc9 Hed4 50.
+Hxd4 Hxd4 51. Af2 Ee6 52. Rc7 Hxe2 53. Afxe2 Ec3+ 54. Kd0 Rd5+ 55. A2d2
+Rc5+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "5강 풀리그전"]
+[White "귀마 박계도七단"]
+[Black "원앙마 이남춘九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. Ri1 Hg7 6. Ra4 Cf7 7. Rc4 ab6
+8. Ea3 Ad8 9. Exc6 bxc6 10. Rxc6 Ra7 11. cd3 Cd9 12. gh3 g5 13. Ke0 ed6 14.
+Exd6 Ri6 15. Hd4 Hce6 16. Hxe6 Ecxe6 17. Rg1 Cxd6 18. Rxd6 Eg3+ 19. Rxg3
+Rxd6 20. Cxh5 Hxh5 21. Rxg5 Hi7 22. Rxg9 Hg6 23. hg3 Hf4 24. Ce4 Hg2 25.
+ih3 Ra0 26. Ae1 Hxe1 27. Kxe1 Rc6 28. Hf2 Rc1+ 29. Hd1 Rcc0 30. Kf1 Ae9 31.
+Ae1 Rg0 32. Ri9 Rg1+ 33. Kf2 Ra2+ 34. Ae2 Rg2+ 35. Kf1 Rg1+ 36. Kf2 Rxd1
+37. Ri0 Rg1 38. Rd0 Kd9 39. Ad2 Aee8 40. Ce2 Ra6 41. Ad1 Ri1 42. Re1 Ri4
+43. Rf0 Ce9 44. Ke1 Cb9 45. bc3 Cf9 46. Ce4 Ra1 47. c4 Cc9 48. cd4 Ch9 49.
+Rf1 Ri0 50. h4 Raa0 51. ef3 Ch1+ 52. Ke2 Cxd1 53. Rxd1 Ri2+ 54. Ke1 Ri1+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "4강전 제1국"]
+[White "귀마 유창식八단"]
+[Black "원앙마 이남춘九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hg7 4. ed3+ Che7 5. Ef3 ef6 6. Ee3 Hge6 7. Ri4
+Ra5 8. Exc6 bxc6 9. Rb0 Kf8 10. Rh4 Afe8 11. Rc4 c5 12. Exc5 Rxc5 13. Hf2
+ih6 14. Rxc5 Hxc5 15. Rb6 H5e6 16. Rc6 Ce9 17. Ke0 Cf7 18. Ade1 Ea6 19. ab3
+Ri5 20. g4 Ra5 21. Aff1 h5 22. ba3 hg5 23. gxg5 Rxg5 24. Kd0 Cc9 25. Rd6
+Exc3 26. dxc3 Cxc3 27. Ce0 Cc9 28. Hd4 Ce9 29. Cd2 Hxd4 30. Rxd4 He6 31.
+Cxe6 fxe6 32. Cxd9 ef6 33. Cd2 Rg0+ 34. Cf0 Kf9 35. Ri4 Rg5 36. ab3 Cd9 37.
+Rg4 Rd5+ 38. Hd1 Ce7 39. Cd2 Rc5 40. Aef2 Rc0+ 41. Ke1 Ee6+ 42. Ae2 Eb4+
+43. Re4 Ee6 44. Rd4 Ke9 45. Af2 Rh0 46. Hb2 Rxh3 47. Rd3 Rh1+ 48. Af1 Rh0
+49. Cf0 Eb8+ 50. Ad2 fe6+ 51. Kd0 Rh1 52. Af2 e5 53. Rd6 Ed5 54. Hd3 Exf2
+55. Rxd9+ Axd9 56. Hxf2 Rf1 57. Hd1 Rf3 58. b4 Re3 59. Cb0 g5 60. bc4 Rc3
+61. Ce0 Rxc4 62. Ae1 gf5 63. -- Ae8 64. -- Rc1 65. Ad2 f4 66. Hf2 f3 67.
+Hd3 e4 68. Ae1 Rc3 69. Hf2
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제2국"]
+[White "원앙마 차진학八단"]
+[Black "귀마 전영성五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "74"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hc2 ab6 3. Ch4 Ef6 4. Ci2 ih6 5. Ei3 Rh9 6. Ca2 Rb9 7. Exg6
+hxg6 8. Ri8+ Ke9 9. Rg8 gh6 10. Cg2 He8 11. g4 e5 12. ab3 Cb5 13. e4 Cb8
+14. Rg5 Hf7 15. exe5 Ec8 16. Rf5 Af8 17. e6 Ee5 18. Ce4 Exe6 19. Cg7 Hed6
+20. Cxe6 Exc2 21. Ee3 Rg9 22. Cg2 Rxg4 23. Rf2 Kf9 24. Cee2 Afe8 25. Ra5
+Cf8 26. Ri5 Cxf2 27. Kxf2 Rg9 28. hg3 Rh9 29. Cg7 Cxh0 30. Ch2 hi6 31. Rxi6
+Rxh2+ 32. Ke1 Hf5 33. Ri9+ Ch9 34. Cg0 Hxe3 35. gf3 Rh1+ 36. Ke0 Hf5 37.
+Ade1 Ra9
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "40강전 제1국"]
+[White "원앙마 이현식六단"]
+[Black "귀마 장정훈五단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "40"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 ab6 2. Ce2 Hc7 3. Hc2 Ce7 4. Cd2 Hf7 5. gf3 Ra5 6. c4 Ef6 7. Ke0 Rg5
+8. Ri2 ih6 9. Ad1 ed6 10. cd4 Af8 11. Ef2 Kf9 12. Cd0 Ade8 13. Af1 Ce9 14.
+Ed2 Ee6 15. Afe1 Che7 16. Ri0 Ch7 17. Rg0 Cg9 18. a4 Rgi5 19. i4 Rxi4 20.
+Hf0 Cxg0+
+{White resigns} 0-1
+
+[Event "제11회 명인전"]
+[Site ""]
+[Date "2001년"]
+[Round "도전자 결정전 제2국"]
+[White "원앙마 이남춘"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hf7 3. Ce2 Che7 4. ih3 Ef6 5. Hg2 gh6 6. h4 Rg9 7. hg4
+Ke9 8. Cf2 Afe8 9. Ad1 Cd7 10. Cd0 Ca7 11. Ea3 a5 12. Rb0 a4 13. Ec0 Ea6
+14. Ri1 cd6 15. Ke0 Rc9 16. ed3 Cd7 17. Ra0 Ca7 18. Rb0 Cd7 19. Ra0 Exd3
+20. cxd3 Hb5 21. Rxa4 Cxd3 22. Hce3 Rxc0 23. b4 Hc7 24. bc4 Cxg3 25. Ei3
+Cd3 26. Afe1 Cf3 27. Hf5 Cf6 28. Hfe3 Cf9 29. Ra5 Add8 30. Rc5 Add7 31. Eg0
+Ra0 32. cb4 Cc9 33. Rf5 Ed4 34. Hi3 Ce5 35. bc4 Eb1 36. Add2 Cf9 37. Rxe5
+Hxe5 38. Rf1 Hb5 39. Rf4 Ade7 40. c5 Hc3 41. Cc2 Rg7 42. Rb4 Hf3 43. Cf2 e5
+44. Rf4 A7f7 45. Rc4 He4 46. Cb2 Hg1+ 47. Hf1 Ra5 48. Cg2 Rh7 49. Rb4 Rxc5
+50. gf4 Cxf4 51. Rb9+ Ad9 52. Hg4 Cf9 53. Hf2 Hxf2 54. Axf2 Cxf2 55. Ae2
+Cf9 56. Af2 Ae8 57. Ce2 Rf7 58. Ae1 Rc1 59. Cxd9 Rc0+ 60. Ad0 Rxf1
+{White resigns} 0-1
+

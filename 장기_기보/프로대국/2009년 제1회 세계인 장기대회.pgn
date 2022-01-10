@@ -1,0 +1,1337 @@
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 엠게임부 4강전"]
+[White "귀마 이병현 아마3단"]
+[Black "귀마 최오봉 아마3단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ Ce7 5. Ee3 ef6 6. Exc6 bxc6 7. Rb0
+Ch7 8. Ri4 Kf8 9. Rc4 c5 10. Ra4 Rb5 11. Rxb5 cxb5 12. Ra9 Cb2 13. Ef3 b4
+14. a4 Ee6 15. axb4 Exb4 16. c4 Hc7 17. cxb4 Cb9 18. bc4 Ce9 19. Ra3 ih6
+20. Hf2 fe6 21. Ke0 Ri5 22. Ade1 Afe8 23. d4 Ef6 24. g4 Rb5 25. Ad0 e5 26.
+Afe1 Rb6 27. cb4 Cc9 28. Cb2 Rd6 29. Chd2 Ra6 30. Rxa6 Hxa6 31. Cf0 Ec8 32.
+dc4 Ce7 33. Ce2 Kf9 34. Ec5 Hxc5 35. cxc5 Cxc5 36. b5 Cf5 37. Hd4 gf6 38.
+g5 Cd5 39. Cxf6+ Ke9 40. gf5 Cxf5 41. Hxf5 exf5 42. Cf3 He5 43. Cf1 fg5 44.
+Kf0 Hd3 45. Ce0 Hxf2 46. Axf2 Ee5 47. hg3 h5 48. Ade1 Eb3 49. bc5 Add8 50.
+Cf3 gf5 51. cd5 hg5 52. Ch3 Exe1 53. Kxe1 f4 54. Cd3 g4 55. gxg4 fxg4 56.
+Cd6 gf4 57. Kd0 fe4 58. Ae1 Ce3 59. Cd1
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "하얼빈 예선리그"]
+[White "귀마 김정수(한국)"]
+[Black "귀마 박경한(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. Ef3 g5 4. ab3 Hc7 5. Hc2 Ef6 6. Cbe2 Ri8 7. Ra4
+Ke9 8. Rc4 ab6 9. Ea3 Cb5 10. b4 Cb9 11. Exc6 Ade8 12. Ef4 Ra7 13. Rxi6 Cd9
+14. Rxi8 Exi8 15. Ke0 Aff8 16. Afe1 Cf9 17. Ei6 He5 18. Ri4 Aff7 19. e4 Ef6
+20. Ri5 Hc6 21. c4 Ra5 22. c5 Cxe4 23. cxc6 bxc6 24. g4 Ce7 25. Rxg5 Rxg5
+26. gxg5 Exh3 27. Hxh3 Cxf3 28. Hd4 Cf9 29. Hxc6 ed6 30. Hd4 Ea6 31. Hb5
+Hxb5 32. bxb5 Ec3+ 33. Add1 dc6 34. Ch6 Ee6 35. Cxc6 Eb4 36. Add2 Exe2 37.
+Axe2 Kd9 38. bc5 Ce9 39. Cc0 Ce7 40. Cf0 Ke9 41. Eg3 Cd7 42. cd5 Kd9 43. d6
+Cf9 44. Ed5 Ke9 45. Ea3 Ad8 46. Cd0 Afe8 47. Ec6 Cd9 48. de6 Kf9 49. Cf0 --
+50. Hf4+ Ke9 51. exe7 Axe7 52. Ee3 Add7 53. Eg6+ Ke8 54. gf5 Cd6 55. fe5
+Cd8 56. e6 Af7 57. Ei9 Afe7 58. Hh5 Cf8 59. Hg7+ Ke9 60. Hf5 Aee8 61. A2f2
+-- 62. Cd2 -- 63. Cg2
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 1회전"]
+[White "귀마 김동학 四단"]
+[Black "귀마 이점섭 六단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ri8 7. Ef3
+Ke9 8. c4 Ee6 9. Ad1 Raa8 10. Af1 ih6 11. Rxi8 Rxi8 12. Hd4 Afe8 13. Exc6
+bxc6 14. Hxc6 Cg7 15. Ec5 Kf9 16. g4 Ri5 17. ab3 Cd7 18. Ce0 Kf8 19. Cd2
+Add8 20. Cf0 Rd5 21. Cd2 Rf5 22. Kd0 Cd9 23. Afe1 Ri5 24. b4 Kf9 25. Ra9
+Ri0 26. gf4 g5 27. d4 hg6 28. de4 f5 29. Cf0 gf6 30. cd4 Af8 31. b5 Ade8
+32. b6 Cd7 33. Cc0 fxf4 34. exf4 Hd8 35. Ke0 Hdb9 36. Ra3 Ke9 37. Ee2 Cf7
+38. de4 Cdf9 39. Rb3 Hd9 40. Rb5 fg6 41. Hd4 Eh8 42. bc6 He7 43. cd6 Ha7
+44. Rc5 Ri2 45. Cd2 Cxf2 46. Axf2 Rg2 47. Afe1 Rg1 48. Rc7 Hb9 49. Rc3 gf6
+50. Ch2 Hg6 51. Ch6 f5 52. fxf5 gxf5 53. Cxh9 f4 54. exf4 Hxf4 55. Ch7 Rg6
+56. Hb5 Rg5 57. Rb3 Rd5 58. Add2 Hd8 59. Cf0 Re5 60. h4 Hg2 61. Cd0 He3 62.
+Ch1 Ef5 63. Cd1 Hc2 64. Cf0 Re4 65. Rb2 Rc4 66. Ha3 Rc3 67. Hxc2 Cd9 68.
+Cc0 Ra3 69. Rb6 Ra0 70. Hb0 Ra4 71. Cf0 Rc4 72. h5 Eh2+ 73. Kd0 Ee4 74. Ra6
+Rb4 75. hg5 Rb1 76. gf5 Eb6 77. Ra9 Hb7 78. Rb9 Hd8 79. Rc9 Ee4 80. fe5
+Aff7 81. e6 Eh2 82. --
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 1회전"]
+[White "귀마 김경중 九단"]
+[Black "귀마 정상규 八단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Ad8 7. Hd2
+Kd9 8. Cb1 Ri5 9. Ci1 Rd5 10. ih3 Ri5 11. Ed3 Ei6 12. Kd1 Ade8 13. Ca1 Rxi0
+14. Cxa9+ Kd8 15. Rxa6 Cb2 16. hi3 Rg0 17. Cc2 Rg1+ 18. Ade1 Rh1 19. gh3
+Eg9 20. Kd0 He6 21. Exc6 dxc6 22. Ce2 Hb8 23. Ra2 Cb7 24. Ca1 Rxe1+ 25.
+Axe1 Hd7 26. Ra8+ Kd9 27. Ca9+ Ed6 28. Rc8 c5 29. Rc9+ Kd8 30. Cxf9 Hg7 31.
+Cf1 Ce9 32. Cd1 Exf3 33. Eg5 Ee6 34. Hc4+ cd5 35. Ha5 Ae7 36. Rxe9
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 3, 4위전"]
+[White "귀마 정국봉(중국)"]
+[Black "양귀마 하여명(미국)"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hc2 Hf7 2. Ce2 gf6 3. ih3 Ed6 4. Hf2 Ce7 5. ed3 ab6 6. He3 Ad8 7. Ke0
+Ra5 8. Ra1 Kd9 9. Rai1 i5 10. Heg4 Rf5 11. Rxi5 Rixi5 12. Rxi5 Rxf2 13.
+Cxh9+ Ae8 14. Cxc9 Rh2 15. Ch9 Rf2 16. Ade1 Rf4 17. Ch1 Rb4 18. Ee3 Rb0+
+19. Ad0 Ra0 20. ab3 Cb5 21. Ke1 Cb9 22. Cd1 Cf9 23. b4 f5 24. Cxe6 fg5 25.
+Hi3 Cxf0 26. Ef3 Exf3 27. gxf3 Cf5 28. Ri6 Ra2 29. Cd4+ cd6 30. hg3 Rf2+
+31. Kd1 Ke9 32. Cxb6 d5 33. Ri9+ Cf9 34. Eg6+ Kd9 35. Cd6+ Ad7 36. Rxf9+
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 한게임부 4강전"]
+[White "귀마 김준호 아마4단"]
+[Black "원앙마 구중완 아마4단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ege6 6. cd3 Hf8 7. Ca2
+Ea6 8. Cc2 Ra7 9. ab3 Rb7 10. Ea3 c5 11. He4 cd5 12. Hd6+ Ke9 13. Hxb7 Cxb7
+14. Ee2 Cxb3 15. Hd1 Cb9 16. Rc0 Ade8 17. Ci2 ih6 18. Rxc7 Ad7 19. Rc8 de5
+20. hi3 Rg9 21. Cg2 Afe8 22. Cd2 Ade7 23. Cd0 e4 24. gf3 exe3 25. dxe3 Cf9
+26. Aff1 g5 27. Ca2 Ca7 28. Cxa6 gf5 29. Ca2 Rg4 30. Rg0 Rxg0+ 31. Cxg0 Cg7
+32. Aff2 Hg6 33. ih3 f4 34. hg3 fxf3 35. gxf3 Hh4 36. Hb2 b5 37. Cd0 hg6
+38. Hc4 Ec3+ 39. Ad1 Cd9 40. Ae1 b4 41. Hd6 b3 42. Exh4 Cd7 43. Ec6+ Kf9
+44. He4 f5 45. Cf0 g5 46. Hxg5 A7f7 47. Hi6 Ch7 48. Hg7#
+{White mates} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 한게임부 결승전"]
+[White "귀마 김준호 아마4단"]
+[Black "원앙마 이상화 아마5단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Ce7 3. Ri1 ab6 4. Ke0 Hc7 5. Cg2 ef6+ 6. Ade1 Hge6 7. Ca2
+Rb9 8. Cc2 Cd7 9. cd3 Ea6 10. ab3 Ke9 11. Ea3 Afe8 12. Hbd1 Cf9 13. Aff1
+Add8 14. He4 c5 15. Aff0 b5 16. Ee2 Rh9 17. Ch2 ih6 18. Aff1 c4 19. Rb0 h5
+20. Hd6 b4 21. bxb4 cxb4 22. Rxb4 Rxb4 23. Exb4 Cd9 24. He4 f5 25. Exe6
+Exe6 26. Hc5 Ec9 27. Aff2 Hb5 28. Hb7 Hxa3 29. Hxc9 Rh6 30. Ce2 g5 31. Hb7
+h4 32. hxh4 Exg3+ 33. Aff1 Rxh4 34. Ri7 Add7 35. Hc5 Kf9 36. Hxd7 Axd7 37.
+Rf7+ Ke9 38. Ce6 Ae8 39. Rxe7 Rh0+ 40. Af0 Rh6 41. Cxe8 Cxd1 42. Ce4+ Kd9
+43. Ce2 Rh8 44. Ra7 Rc8 45. Rxa3 Cd7 46. Rc3 Ra8 47. Rc2 Ei6 48. Cd2 Ra0+
+49. Ke1 Ra1+ 50. Ke0 Ra8 51. Rc7 Eg9 52. Cd4 Kd8 53. Rc9 Cd9 54. Rxd9+ Kxd9
+55. Cd0+ Ed7 56. Cxd7
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 1회전"]
+[White "귀마 송종일 九단"]
+[Black "원앙마 유희석 二단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. gh3 Hge6 6. cd3 c5 7. Hf2 f5
+8. Rg0 g5 9. Cxe6 Egxe6 10. Ce2 Ke9 11. Af1 Afe8 12. Kf0 Cd7 13. Ade1 Add8
+14. Ci2 Cd9 15. i4 Rb9 16. b4 cd5 17. Rb0 Rg9 18. Cxi6 f4 19. Ei1 Exb4 20.
+Rxb4 Rxb4 21. Hxb4 Rg6 22. Ci2 a5 23. h4 Rb6 24. Hc2 He6 25. Ce2 Rc6 26.
+Ch2 Ea6 27. Ea3 a4 28. Hb4 Rc4 29. Hxa6 axa3 30. Ce2 Rc0+ 31. Ce0 Rc6 32.
+Hb4 Rb6 33. Hc2 ab3 34. i5 b2 35. Hd0 Cg9 36. Rh0 Cd9 37. ih5 gf5 38. hg4
+d4 39. gxf4 fxf4 40. Rg0 dxd3 41. exd3 Hc5 42. de3 Cf9 43. Rg5 Hd7 44. Rf5
+Rb4 45. Hh3 fg4 46. ef3 gh4 47. Hf4 Hb6 48. Rf6 Kd9 49. Rc6 Rb5 50. He2 Ha8
+51. Hc3 Rb6 52. Rc8 Ra6 53. Hcd5 Ce9 54. Rb8 Ra7 55. Hb6 hg4 56. Hfd5 Cxe1
+57. Rxa8 Ri7 58. Exg4 Rf7 59. Kxe1 bc2 60. Rc8 cb2 61. Hc7 Ke9 62. Rxd8
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "하얼빈 예선리그"]
+[White "귀마 김동학(한국)"]
+[Black "원앙마 김철(중국)"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "55"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Hc7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+c5 8. Hf2 Ad8 9. Rh4 Ra8 10. Rh7 Ca7 11. Rg7 Ke9 12. Ed6 Rb8 13. Exf9 Kxf9
+14. Rg8 Ke9 15. Ee3 Cd7 16. Rxi6 Ad9 17. Rixg6 Rxg8 18. Rxg8 Ae8 19. Ke0
+Cf9 20. Ade1 cd5 21. Hg4 f5 22. Hh6 de5 23. Hi8 Cd9 24. Cxe5 Hg7 25. Rxg7
+fxe5 26. Eg6 Kf9 27. Rg8 Rxi8 28. Ch9#
+{White mates} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 16강전"]
+[White "귀마 김동학(한국)"]
+[Black "원앙마 안용일(중국)"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+Ri7 8. Ea3 c5 9. Rh4 Ke9 10. Rh7 Rxh7 11. Cxh7 gh6 12. Exh6 ixh6 13. Ri9 c4
+14. Rxg9 cxc3 15. bxc3 Rb9 16. Kf1 h5 17. gf3 Rb5 18. hg3 hi5 19. -- a5 20.
+Hf2 -- 21. Rg4 Afe8 22. Rh4 ih5 23. Rc4 hg5 24. Rh4 Cf9 25. Chh2 Add8 26.
+Ke1 f5 27. Af1 Ea6 28. Kf0 Cc9 29. Ade1 Rb1 30. He3 ab5 31. Rh6 Ce5 32. Hd5
+Exc3 33. dxc3 Hxd5 34. Rxe6 Hxc3 35. Rc6 Cc5 36. Ce0 Rb3 37. Hd3 Cc2 38.
+Ri6 Kf9 39. Hxe5 fxe5 40. Ri9+ Kf8 41. Ec0 Cc7 42. Ee3 e4 43. Ri8+ Kf9 44.
+Ri5 exe3 45. fxe3 Add7 46. Rxg5 Cf7+ 47. gf3 Rb2 48. Rh5 b4 49. Ch8 Rg2 50.
+Cc8 Cd9 51. Rc5 Hd5 52. Cc0 b3 53. Aff2 Hc3 54. Ce2 Hxe2 55. Afxe2
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 16강전"]
+[White "귀마 하여명(미국)"]
+[Black "원앙마 리광룡(중국)"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "39"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Hd2 Ke9 9. Rc4 Ri8 10. Exg5 Hxg5 11. Ee3 Rc8 12. Rg4 He6 13. Cxe6
+Cxf0 14. Rxg7 Cxa0 15. Rxe7+ Afe8 16. Eg6+ Kf9 17. Cf2+ Af8 18. fe3+ Ae8
+19. Rf7+ Af8 20. Rxd9#
+{White mates} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 1회전"]
+[White "귀마 이남춘 九단"]
+[Black "원앙마 이양근 九단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 h5 5. g4 Hg7 6. Hf2 ef6 7. Af1 Hce6
+8. cd3 c5 9. b4 f5 10. Ad1 g5 11. gxg5 hxg5 12. Ea3 Cf7 13. ih3 Ei6 14.
+Cxe6 Exe6 15. Ce2 Rb9 16. Rab0 Rb6 17. Hd4 Ch7 18. Rig0 Rg9 19. Rgc0 c4 20.
+Rxc4 Rxb4 21. Rbxb4 Exb4 22. Rxb4 Kf8 23. Hc6 Afe8 24. Rh4 ab6 25. Hxe7
+Cxe7 26. Rh6 b5 27. Ed5 fe5 28. Cxe5 bc5 29. Eb8 Ce9 30. Kd0 gf5 31. Ce0 f4
+32. Rc6 fxf3 33. exf3 cb5 34. Rg6 Kf9 35. Afe1 Af8 36. Ed5
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 2회전"]
+[White "양귀마 김동일 二단"]
+[Black "원앙마 이래원 七단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hf2 Ce7 3. Ra4 Hg7 4. Ce2 ef6 5. Rc4 ab6 6. Ed3 Hce6 7. Exb6
+cxb6 8. cd3 Rb9 9. Rc8+ Ke9 10. Ef3 Afe8 11. ih3 Kf9 12. Ed6 Ad7 13. Ri4
+He8 14. Rb4 Ce9 15. Ef3 ih6 16. Rxb6 Rxb6 17. Cxb6 Ri1+ 18. Af1 Ri5 19. e4
+Rb5 20. Cb4 Cc7 21. Hd2 Ra5 22. Kf0 Cf7 23. Ade1 Ra0+ 24. Ce0 h5 25. Cb2
+hg5 26. Ce2 Cf5 27. e5 Cf8 28. Rc4 Hd8 29. Rc7 Cxe5 30. Rxd7 Ra5 31. Ri7
+Ce9 32. Rd7 Ee6 33. d4 gf5 34. g4 f4 35. gxf4 Cxf4 36. d5 Cf8 37. Ec5 Eb8
+38. hg3 Ra6 39. Cc2 Ra9 40. gf3 Ea6 41. Hd3 Exd5 42. Rxd5 He6 43. Exe8 Axe8
+44. Cf2 Hd4 45. f4 Rd9 46. Rxd9 Axd9 47. fe4 Hc6 48. Hb4 Hb8 49. bc3 Ed8
+50. cd3 Ae8 51. d4 Hd7 52. Hd5 Hc5 53. dc4 Hb7 54. cd4 Hc5 55. Hc4 Cg9 56.
+Ce2 Cd9 57. Hc7 Hd7 58. d5 Cf7 59. d6 Cxc7 60. Hb6 Ce7 61. dxd7 Axd7 62.
+Hxd7
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 1회전"]
+[White "원앙마 이래원 七단"]
+[Black "귀마 설조길 六단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. ef3 Hf7 5. Hg2 Ef6 6. Ad1 cd6 7. Cf2
+Af8 8. Cd0 Kf9 9. Hge3 Ade8 10. Ke0 Ce9 11. Afe1 g5 12. c4 ab6 13. Ea3 Cg9
+14. b4 b5 15. bxb5 Hxb5 16. cb4 Hc7 17. Cf0 Ea6 18. Cc0 Ra7 19. Ca2 Cc9 20.
+Ed5 Rb7 21. Ci2 Rh9 22. Cb2 Hb5 23. Rxa6 Cg9 24. Cxb5 Rb9 25. Cb2 Rd9 26.
+Ce2 Cd7 27. Eb2 Rb9 28. Ra5 h5 29. Cf0 Ed3 30. Rc5 Rc9 31. Rxc9+ Cxc9 32.
+Cd0 Ef6 33. b5 Cg9 34. Ri2 Ri9 35. bc5 Ci7 36. Rf2 Cc9 37. cd5 dc6 38. Cxe6
+Ed3 39. Hb4 Hd8 40. Ce2 Ef6 41. f4 Cg9 42. f5 Eh9 43. ih3 Ri8 44. fxg5 hxg5
+45. Cf0 Cd9 46. Rf4 Cf7 47. Rc4 Ci9 48. Hxc6 Hxc6 49. Rxc6 Cg9 50. Rg6 Ce9
+51. Rxg5 Ri1 52. Ei3 Ef6 53. Hf5 Ri0 54. de5 Cxf5 55. Rxf5
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 결승전"]
+[White "원앙마 이창원 二단"]
+[Black "귀마 김동일 二단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Cb4 Ra8 4. Ca2 ab6 5. Ea3 Rd8 6. Ci2 Rh9 7. Exc6
+bxc6 8. ih3 Ce7 9. Ce2 Hd7 10. Ri4 Ke9 11. Hc2 Rhh8 12. Ke0 Ra8 13. Rxa8
+Rxa8 14. Rd4 ed6 15. Cg4 Hi8 16. ef3 Ee6 17. Ee3 Re8 18. Afe1 Ad8 19. Hi3
+cb6 20. Cg0 gf6 21. Add1 Ce5 22. Rc4 Cf7 23. Cd0 hg6 24. cd3 Hg9 25. Cg0
+gh6 26. d4 Hi8 27. Cd0 Ce7 28. d5 dc6 29. Ra4 Hg7 30. b4 Af8 31. b5 Cf9 32.
+bxb6 cxb6 33. d6 Exd6 34. Cxd6 hg6 35. Cd0 Rd9 36. Hh5 Hi6 37. Hf4 Rc9 38.
+Hd4 gh6 39. Hdxe6 fxe6 40. Hxe6 h5 41. Ri4 Hg5 42. Hg7 Rc5 43. Hxf9 Kxf9
+44. Cf0 Hf7 45. Eg6 Rg5 46. Ed4 Rd5 47. fe3 Ke8 48. Cd2 Rc5 49. Exf7 He5
+50. Ei9 Hc4 51. Re4 Ad7 52. Cd0
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 한게임부 4강전"]
+[White "원앙마 이상화 아마5단"]
+[Black "귀마 강공명 아마4단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Hd7 5. Hc2 Ed6 6. Af1 Ad8 7. Cd2
+Kd9 8. Cf0 Afe8 9. Hce3 gf6 10. g4 Ce9 11. Ke0 ih6 12. Ei3 h5 13. Ade1 Ei6
+14. h4 hxh4 15. gxh4 Cf7 16. c4 Cc9 17. d4 Cf9 18. Ra1 Rg9 19. d5 Cf3 20.
+Aff2 Hh9 21. Cd0 Rg3 22. Cg0 Rh3 23. Aff1 Ci9 24. Rd1 Cixi3 25. Rd4 Ci9 26.
+Rxi6 Cif9 27. c5 Cf7 28. hg4 Hg7 29. Ri9 Hf5 30. Rf4 Hh6 31. Rc4 Cc7 32. g5
+Hf7 33. gf5 b5 34. fxf6 exf6 35. dxd6 bxc5 36. dxc6 cxc4 37. cxc7 Ra7 38.
+cxd7 Rxd7 39. Hxc4 Rd4 40. Hd2 Rd6 41. Cd0 Rc6 42. He4+ Hd6 43. Ee3 Rb6 44.
+Hxf6 Rb0 45. Ri8 Rg3 46. Rxe8#
+{White mates} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 4강전"]
+[White "원앙마 조룡호(중국)"]
+[Black "귀마 정국봉(중국)"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ef6+ 4. Cbe2 Ee6 5. ed3 ab6 6. g4 Hd7 7. Ke0
+Ke9 8. Ade1 Afe8 9. Cf2 Ra8 10. Cd0 Ci7 11. Ei3 Ad8 12. Hce3 ih6 13. Rh0
+Cif7 14. Ci2 Rh9 15. d4 Cd9 16. Ca2 Rc8 17. ab3 c5 18. Ch2 Ri9 19. Ce2 Ce7
+20. Aff1 Ri8 21. h4 Hh9 22. h5 hxh5 23. Rxh5 Hf8 24. g5 gxg5 25. Rxg5 Rh8
+26. cd3 Rh6 27. bc3 Rc6 28. Rg8 Rh3 29. Hg4 f5 30. Ee3 Rc8 31. Hi5 Rh9 32.
+Hg6 Rg9 33. Hxe7 Axe7 34. Rxf8 Ade8 35. Rf6 Rxg2 36. Eg6+ Af8 37. Rxe6 Ae8
+38. Eh5 Kf9 39. de4 cd5 40. Ra7 Cg9 41. Ege3 Rg7 42. Ri6 fg5 43. Cxd5 gxh5
+44. Exh5 Rc5 45. e5 Rg0+ 46. Aff0 Hxe5 47. Cd0 Hf3 48. Ef2 Rb5 49. de3 Hh4
+50. Ri9 Hf5 51. Ri5 Hh6 52. Ri9 Hf7 53. Rc7 Ee7 54. cd3 Ra5 55. Cxe7 Ra9
+56. Ce2 Hd8 57. Ed5 Aff7 58. Cxe8 Axe8 59. Rg7 Rxg7 60. Exg7 Kf8 61. Cxd8+
+Kf7 62. Ri8 Cg0+ 63. Af1 Axd8 64. Rxd8 Ra0+ 65. Ad0 Cxd0 66. dc3 Cd9+ 67.
+Ke1 Ra1+ 68. Rd1 Rxd1+ 69. Kxd1
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 결승전"]
+[White "원앙마 조룡호(중국)"]
+[Black "귀마 도기룡(중국)"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Hc2 Hg7 4. Cbe2 Cf7 5. Ke0 Ed6 6. g4 gf6 7. ed3
+Ke9 8. Hce3 Ade8 9. Ade1 Aff8 10. Cf2 ab6 11. Cd0 Cd9 12. Aff1 Rh9 13. h4
+ih6 14. Ei3 Ei6 15. Rh0 Cg9 16. Cg0 h5 17. Ra2 hxh4 18. gxh4 Rh7 19. Rc2
+Ef3 20. Rh3 Ed6 21. c4 Rc9 22. ab3 c5 23. bc3 b5 24. cd4 Rc8 25. Ra2 Ea8
+26. Rh0 Ca9 27. Rd2 Ch9 28. Ci2 Eg9 29. Ce2 Ed6 30. Ci0 e5 31. Ra2 He6 32.
+Rh3 f5 33. Rg3 Rg7 34. Rxg7 Hxg7 35. Ra6 Ea8 36. Rg6 Aff7 37. Exf5 Cf9 38.
+Ei7 Cc9 39. Eg4 Hf9 40. Exe7 Hxe7 41. Cd0 b4 42. Hg4 bc4 43. cxc4 cxc4 44.
+dxc4 Rxc4 45. Ee3 e4 46. Hf6 He5 47. Rg5 exe3 48. dxe3 H5c6 49. Hh7 Rc0 50.
+Hxg9 Aff8 51. ed3 Ec5 52. Hxe8 Axe8 53. Ch2 Ra0 54. Rg4 He5 55. Rb4 Cf9 56.
+de3 Ra6 57. e4 Hd7 58. hg4 Rg6 59. He3 Hd5 60. Rd4 H5f6 61. ef4 Ea2 62. Rd2
+Exd0 63. Axd0 Ri6 64. Ade1 Ri3 65. Hg2 Rg3 66. Ce2+ Kd9 67. Aff2 Rc3 68.
+Rd6 Hh5 69. Re6 Hf8 70. Re5 Rc0+ 71. Ad0 Rxd0+ 72. Kxd0
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 2회전"]
+[White "원앙마 문희웅 初단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hd7 4. ed3 gf6 5. Hc2 cb6 6. Cd2 Ed6 7. c4 Rc9
+8. d4 Cb5 9. g4 Ad8 10. Ke0 Cb9 11. Ade1 Rh9 12. Rh0 Hf5 13. Ra2 Hh6 14.
+hg3 Af8 15. Aff1 Cf9 16. Cf0 Rc8 17. ab3 Kd9 18. Ra1 Hf5 19. Rxh9 Cxh9 20.
+gf4 Hxd4 21. Hxd4 Rxc4 22. Rd1 ih6 23. Ece3 Cf9 24. g4 Cb9 25. Rd3 Ei6 26.
+Ei3 Ade8 27. Hxe6 fxe6 28. Cxe6 bc6 29. bc3 Rc5 30. Exc6 Rxc6 31. He3 Ef3
+32. Ce2 Ei5 33. Hf5 Rf6 34. Cd0 Ke9 35. Cxd7 Cf9 36. Cd0 Cf7 37. g5 Kf9 38.
+Rh3 Cd9 39. Ch0 Eg9 40. Cxh6 Ee6 41. Cxe6
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 2회전"]
+[White "원앙마 이창원 二단"]
+[Black "귀마 김영숙 三단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hg7 2. ih3 Ce7 3. Ri4 Ed6 4. Rc4 ih6 5. Hg2 Ri1+ 6. Ke0 Rg1 7. Hc2
+c5 8. Rxc5 Hd7 9. Hce1 Ad8 10. Rc4 Ke9 11. Ce2 Afe8 12. Cb4 Hb6 13. Rc6
+Exb3 14. Cb1 Rxg2 15. Hxg2 Exd0 16. ed3 ef6 17. Rxb6 axb6 18. Rxa9+ Add9
+19. Kxd0 He6 20. Rb9 Ad7 21. Rxb7 Hf4 22. Rxb6 Hxe2+ 23. Ae1 Hf4 24. gf3
+Hxh3 25. Cb9+ Ke8 26. Cxg9 Cc7 27. Ece3 Cg7 28. Hf4 Hg1 29. Exg6 fxg6 30.
+Hxg6 Hxf3 31. He5 Hg5 32. Ee3 Ae7 33. Rxh6 Cd7+ 34. Hxd7 Axd7 35. Cg0 Hf7
+36. Re6+ Kf9 37. Cc0 A9e8 38. Cf0+ Ke9 39. Eg6+ Kd9 40. Rb6 Aee7 41. d4 He5
+42. d5 Hf7 43. d6 Ke8 44. Cd2
+{Black resigns} 1-0
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 1회전"]
+[White "귀마 하성호 七단"]
+[Black "귀마 김동일 二단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Ri5 3. i4 Ri8 4. Ce2 Hd7 5. ef3+ Ce7 6. Ee3 ed6 7. Hd2
+Ee6 8. c4 Ke9 9. Cb4 Ria8 10. ih4 Hf8 11. Ri9 Ae8 12. Cg4 Kd9 13. Ca4 Ca7
+14. Exc6 dxc6 15. Cd4+ Hb8 16. Cd1+ Ke9 17. Ca2 Cxh4 18. Ed3 Hd7 19. He3
+Chh7 20. Af1 Cc7 21. cd4 Ce7 22. Kf0 Cxe3 23. fxe3 Exg3 24. ef3 Ei6 25.
+Ade1 ab6 26. Aff2 Ed6 27. Ra1 Eg4 28. f4 Ee7 29. Ca0 Hc5 30. de4 Hxe4 31.
+Cg1 Hh7 32. Ri7 Hxd2 33. Axd2 Rd9 34. bc3 Rd4 35. Cg7 Rxf4 36. Ke1 Re4+ 37.
+Ade2 Eb9 38. Rxh7 Re7 39. Kd0 Rd8 40. Ce0 Red7 41. Ad2+ Kd9 42. Afe1 Eg3
+43. Ce4 Ee6 44. c4 Ce7 45. Eg1 Ce9 46. Ca4 Rc7 47. Cd4+ Rc8 48. Cd1+ Ad8
+49. Ra9 Rb7 50. Ade2+ cd6 51. Ra4 Cc9 52. Ee4 Cxc4 53. Rh9 Cc9 54. Cg0 Ke9
+55. Af0 bc6 56. Ce0 Ae8 57. Ra3 Rcc7 58. Ra8 Ra7 59. Rb8 Rab7 60. Ra8 Rf7
+61. Exh6 gxh6
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 엠게임부 4강전"]
+[White "귀마 최영기 아마5단"]
+[Black "귀마 김정수 아마4단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. Ch4
+Afe8 8. g4 Ce9 9. Cc4 He6 10. Ke0 ih6 11. Rxi9 Cxi9 12. Ra1 Ce9 13. Hb0
+Hed8 14. Cc0 Ee6 15. Ade1 Exc3+ 16. dxc3 Cxe3 17. Aff1 Ce9 18. gf4 Kf9 19.
+Cf0 Ra7 20. fe4 Ca9 21. Hc2 Cc7 22. Ca2 Rb7 23. Cb0 ba6 24. cb3 ab6 25. bc3
+ba6 26. ab3 ab6 27. Ce2 Ce9 28. Ra5 Ch7 29. Cf0 Ra7 30. Ri5 Af8 31. cd3 cd6
+32. d4 bc6 33. b4 Cc7 34. bc4 Rb7 35. hg3 Rb3 36. gf3 Ch7 37. Kd0 Rc3 38.
+Hb0 Cd7 39. Hd1 Ra3 40. Ri9 Ade8 41. Ch2 Ch7 42. fe3 Ra5 43. Ef3 Rg5 44.
+Ri3 f5 45. Ce2 Ef6 46. Hb2 Cd7 47. Ad1 Cd9 48. Afe1 fe5 49. exe5 Cxe5 50.
+e4 Ce9 51. Ri4 Rg3 52. ef4 g5 53. Ri2 de6 54. Ce0 cd6 55. Ri1 gh5 56. f5
+Rg6 57. Exd6 Cxd6 58. Cxe6 Hxe6 59. d5 Cd4+ 60. cxd4 Hxd4 61. fxf6 Hc2+ 62.
+Ke0 Rg2 63. fxf7 Aexf7+ 64. He4 Ce3+ 65. Ad2 Re2+ 66. Re1 Cxe1 67. Axe2
+Cxe4+ 68. Ad2 Ke8 69. d6 hg6 70. Cc0 Ce9+ 71. Kf0 gf6 72. Cc6 f5 73. Hc4
+Hd4 74. Cc0 Kf9 75. A1e1 A8e8 76. Ke0 Ce4+ 77. Kd0 Cxc4
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 엠게임부 결승전"]
+[White "귀마 이병현 아마3단"]
+[Black "귀마 김정수 아마4단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ch4 Kf8 7. Hf2
+Afe8 8. g4 Ce9 9. Exg6 fxg6 10. Cf4+ gf6 11. Cf1 Ra5 12. He3 Ee6 13. a4 Rc5
+14. He4 Exc3 15. Hxc5 Exa0 16. Hb3 Ec3 17. Hd5 Ea6 18. Ef3 Kf9 19. a5 He6
+20. axa6 bxa6 21. Hf4 Hxf4 22. gxf4 ab6 23. Hd4 cd6 24. f5 fe6 25. Exd6
+exd6 26. Hf3 Af8 27. Hg5 Hxg5 28. fxg5+ Ke8 29. g6 Ad8 30. h4 Ad7 31. de3+
+Kd9 32. Cd1 Ae8 33. g7 Che7 34. gf7 Axf7 35. Cxd7 de6 36. ed3 ih6 37. Cd2+
+Ke8 38. hi4 Ef6 39. i5 Exd3 40. Ri3 Eg5 41. Rf3 Rxi5 42. Af1 hg6 43. Kd1
+gf6 44. Ade1 Kf9 45. Ce0 Ce5 46. Rb3 bc6 47. Rb7 Ae8 48. Rg7 Ei2 49. Cd0
+Ef4+ 50. Ce2 cd6 51. Cf2 f5 52. Rg6 Rg5 53. Rh6 Cg9 54. Rh9 ef6 55. Kd0 de6
+56. Ce0 Ke9
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 32강전"]
+[White "귀마 전승기(중국)"]
+[Black "귀마 하여명(미국)"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. Ef3 Ce7 5. g4 ef6 6. Hf2 Ee6 7. c4 Af8
+8. a4 Ra8 9. Af1 Ce9 10. Kf0 Kf9 11. Ade1 Ade8 12. Ce0 Cg9 13. h4 ih6 14.
+Rxi9 Cxi9 15. gf4 Ch7 16. hg4 Cg9 17. Che2 Cc7 18. Ca2 Rc8 19. ab4 Exb4 20.
+Hxb4 Cxc4 21. Ch2 b5 22. Hc2 Cc7 23. Hd4 Ch7 24. Hxb5 Hbd8 25. Hc3 cd6 26.
+Hcd1 fe6 27. ed3 Rc4 28. Hb2 Rc7 29. Cd2 Rb7 30. Cg2 Rb5 31. Cb0 Rh5 32.
+Cd0 Rh3 33. de3 Rg3 34. Ce2 g5 35. Ra4 Ef6 36. Ke0 Ei4 37. gxg5 Rg1 38. f5
+Exf2 39. Afxf2 Cd9 40. Ri4 Rg3 41. Hc4 hg6 42. gxg6 Rxg6 43. Hd2 Ce7 44.
+He4 d5 45. Hc3 de5 46. Ei5 exf5 47. Cf0 e5 48. e4 Hh6 49. Ri2 Rc6 50. exe5
+Rxc3 51. exf5 Ke9 52. f6 Hg4 53. fg6 He6 54. Ri4 Rc4 55. gf6 Hxf2+ 56. Axf2
+Rxi4 57. fxe6 Ce4 58. Ef3 Ri6 59. Ec1 Rxe6 60. Exe4 Rxe4 61. Ea3 Kf9 62.
+Ed5 Cf7 63. Ae1 Re5 64. Ea3 Rb5 65. Ed1 Rf5 66. Kd0 Rxf0+ 67. Axf0
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 16강전"]
+[White "귀마 酒井淸隆(일본)"]
+[Black "귀마 윤희윤(중국)"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "68"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Hf8 3. Hd2 Ee7 4. Che2 Cd7 5. ef3 Ri7 6. Ee3 cd6 7. Ed3
+ih6 8. Ad1 Ad8 9. Kd0 Kd9 10. Afe1 Afe8 11. Ce0 Cf9 12. g4 Cg7 13. Rh0 Cxg4
+14. Exg6 hxg6 15. Cf2 Cg7 16. Hf4 Cgd7 17. Rh8 Rxi3 18. Rg8 Cc9 19. Hxg6
+Hxg6 20. Rxg6 Ei6 21. Ra4 Ccf9 22. Rg8 Ef8 23. Rh4 Efh5 24. Eg5 Ch7 25. Rc4
+Exf2 26. Exe8 Axe8 27. Rc8 Hf8 28. Axf2 Ri0 29. Rxf8 Axf8 30. Rxf8 Ke9 31.
+Rf7 Ra7 32. Rxh7 ab6 33. Ke1 Ri2 34. Ce2 Rxf2+
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 8강전"]
+[White "귀마 허동렬(중국)"]
+[Black "귀마 하여명(미국)"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ ef6 5. Ee3+ Ce7 6. Exc6 bxc6 7.
+Rb0 Ch7 8. Ri4 Kf8 9. Ef3 Ee6 10. Hf2 Hbd8 11. Ca2 Re5+ 12. Che2 Cg7 13.
+Ke0 Afe8 14. Afe1 Rg5 15. Cd2 Exg3+ 16. hxg3 Rxg3 17. Cf0 Ce7 18. c4 Rg5
+19. Hd4 Ce9 20. Rb8 ih6 21. Rxi9 Cxi9 22. Rc8 Rd5 23. ab3 Ce9 24. bc3 Kf9
+25. Add1 Af8 26. Ei1 Ade8 27. Hg4 fe6 28. He3 Ri5 29. Ef3 Ri3 30. Exh6 gxh6
+31. Hxc6 Hxc6 32. Rxc6 ef6 33. Hg4 Ri6 34. Hxf6 Exf6 35. Rxf6 Ri0 36. c5
+Rg0 37. c6 Rg6 38. Rf4 Rxc6 39. c4 Cg9 40. Rg4 Rg6 41. Ri4 Cd9 42. d4 Ce7
+43. d5 Ke9 44. Re4 Kf9 45. c5 Ra6 46. Rg4 Re6 47. Kd0 Ke9 48. Cd2 hg6 49.
+Rc4 Hg5 50. Rc3 He4 51. Cxe6 Hxc3 52. Af2 gf6 53. Ci6 fe6 54. Ade1 He4 55.
+Afe2 Hxd2 56. A2xd2 Ce5 57. Aed1 Cxc5 58. dxc5
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 4강전"]
+[White "귀마 하여명(미국)"]
+[Black "귀마 도기룡(중국)"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. Ed3 Ce7 4. Ce2 Ra8 5. ih3 Hg7 6. Ra4 cb6 7. Rc4
+Ke9 8. Cb4 Cf7 9. Ei3 gf6 10. Cb1 Ade8 11. Cg1 Cd9 12. gf3 Hf5 13. hg3 Hh6
+14. Ca1 Rb8 15. Cf1 Aff8 16. Exf6 exf6 17. Cxf6 Ri7 18. Hd2 Rg7 19. He4 a5
+20. Ad1 ab5 21. Cf2 Ra8 22. Cd0 Eg8 23. Eg0 Ra1 24. Cd2 Rg6 25. Rxi6 Ee5
+26. Ri5 bc6 27. Ei3 Rf6 28. Hg5 c5 29. Rh4 Exb3 30. He4 Rfa6 31. cxb3 R6a2
+32. ed3 Hf7 33. bc3 Hde5 34. de3 Ad8 35. cd3 Cd5 36. Hc3 Rxd2+ 37. Kf2
+Rxe2+ 38. Kxe2 Cxi5 39. Rh5 Cg5 40. gh3 c4 41. Rh9 Afe8
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 2회전"]
+[White "귀마 김동학 四단"]
+[Black "귀마 이남춘 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Af1
+Ade8 8. Ad1 Ce9 9. Ed3 Ri5 10. Ric0 Rd5 11. g4 He6 12. ih3 Cg7 13. hg3 Ca7
+14. Rab0 Kd9 15. Rb1 Hef8 16. Cb0 Cc9 17. Cd0 Ad8 18. Kf0 Afe8 19. Ade1 Ri5
+20. Cc2 ab6 21. Ra0 Ce7 22. Rxa9 Cxa9 23. Ra1 Cc9 24. c4 Cf9 25. Ra9 Ke9
+26. gh3 d5 27. Hi3 dc5 28. cd4 He6 29. Ci0 Rf5 30. Cf2 Cxf3 31. Rxb9+ Add9
+32. Exc6+ bxc6 33. de4 Cxe4 34. Rb4 Ce7 35. gf4 Rg5 36. fg4 Rf5 37. gf4 Rg5
+38. fg4 Rf5 39. Cc0 Cf9 40. h4 Re5 41. Hg2 Re3 42. Ea1 Rg3 43. Hh0 cd5 44.
+Hi2 Ri3 45. Hg1 Hd4 46. Ra4 Hxb3 47. Ra3 Hdc5 48. gf4 Rg3 49. Hi2 Rc3 50.
+Cxc5 Rxc5 51. Rxb3 d4 52. Hg3 g5 53. He2 dc4 54. Rg3 c3 55. He4 Ra5 56.
+H2xc3 Ee6 57. Ec4 c5 58. He2 cxc4 59. Hf6 Af7 60. He4 Afe8 61. Rd3 gf5 62.
+Hd6 Rc5 63. Cxf5 Exh4 64. Hg3 c3 65. Re3 Add8 66. Re6 Exf1 67. Axf1 Rd5 68.
+Ae1 h5 69. Hc8
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 B조 2회전"]
+[White "귀마 김경중 九단"]
+[Black "원앙마 이창원 二단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ef6 4. ab3 Hc7 5. Ed3 f5 6. Ra4 Hge6 7. ef3 c5
+8. Rh4 Ri7 9. He3 g5 10. Cb4 Ke9 11. Cb1 Ade8 12. Rh8 Kd9 13. Rg8 Rg7 14.
+Rxg7 Hxg7 15. Cg1 Hge6 16. g4 Ce9 17. gxg5 fxg5 18. Cxg9 Hd4 19. hg3 Ee6
+20. Rxi6 ab6 21. Rg6 Exg9 22. Rxb6 Cd7 23. Rd6 He6 24. Ef6 Kd8 25. Hd2 Ra6
+26. Rxa6 Hxa6 27. c4 cxc4 28. Hdxc4 Hd4 29. Ce5 gf5 30. Ci5 Ee6 31. Ke0
+Aff8 32. Afe1 Cf9 33. Ei4 f4 34. fxf4 Cxf4 35. Ci1 Ad7 36. Ha5 Ca4 37. gh3
+Hxb3 38. Hc6+ Ke8 39. Kf0 Ca8 40. Ci8+ Af7 41. Cc8 Hb4 42. Hxb4 Exb4 43.
+Hd5 Ee2 44. Hb6 Ec5 45. Ef2 Ha5 46. Ei3 Hb7 47. Eg6 Ce6 48. Ed4 Hd6 49. Ha4
+Ef3 50. hg3 Eh6 51. Hc5 Cc6 52. g4 Kd9 53. Hb3 Ade7 54. Exf7 Axf7 55. Hd4
+Cf6+
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "8조"]
+[Date "2009년"]
+[Round "하얼빈 예선리그"]
+[White "귀마 宋正彬(일본)"]
+[Black "원앙마 전길수(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hf2 ab6 2. ih3 Hg7 3. Ce2 Ce7 4. Ef3 Hc7 5. ed3 ef6 6. Hc2 Hge6 7. Ee3
+Cd7 8. Ri4 Ri7 9. Af1 Rg7 10. Kf0 Ke9 11. Afe1 Afe8 12. Cg2 f5 13. Cg4 Rh7
+14. Cxg9 Rg7 15. Cxd9 Kxd9 16. Rxi6 Cf9 17. Cd2+ Ke9 18. Cg2 g5 19. g4
+Cxf3+ 20. Ke0 Cf9 21. Rb0 Rh7 22. Ce2 gxg4 23. Hxg4 Rxh3 24. Hf6 Af7 25.
+Rb4 Ra5 26. Rg4 fg5 27. Eg6+ Kd9 28. Rg0 Cxf6 29. Ri9+ Ke8 30. Re9+ Kd8 31.
+Rxc9 Cf8 32. Ri0 Hf4 33. Rf0 Hce6 34. Ca2 Hc7+ 35. de3 Rc5 36. ab3 Hg2 37.
+Ri0 Hxe3 38. Ce2 Hxc2 39. Rxc7 Re3 40. Ri9 Rd5 41. Rxe7 Axe7 42. Ri2 Rh3
+43. Ri0 Rh2 44. Rf0 Rxe2 45. Rxf8+ Kd7 46. Rf9+ Ae8 47. Rf2 Rxd0#
+{Black mates} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "하얼빈 예선리그"]
+[White "귀마 이남춘(한국)"]
+[Black "원앙마 조룡호(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ri4
+c5 8. Rh4 Ke9 9. c4 cd5 10. Hb4 Ce5 11. Hc6 Ce8 12. d4 dxd4 13. cxd4 Rb9
+14. Hb4 Ad8 15. Rb0 ab6 16. bc3 Cd9 17. c4 Ce5 18. c5 Ce7 19. Hd5 Hxd5 20.
+dxd5 Ade8 21. Hf2 Hd4 22. Ce0 Ece6+ 23. de5 Hf5 24. Rc4 Cxe5 25. Che2 Ce7
+26. g4 Ad7 27. c6 Hd4 28. cd6 Hxe2 29. dxd7 Ce5+ 30. Cxe2 Rb8 31. Rc5 f5
+32. gf4 gf6 33. fe4 Cg5 34. Rc9 Af8 35. de7 Rb7 36. ed4 Ce5 37. Ea3 b5 38.
+d5 Cxe7 39. d6 Ce5 40. Rc5 Ra7 41. Rbxb5 Rxa3 42. Rxe5 fxe5 43. Rxe5 Kf9
+44. d7 Rd3 45. de7 Rd8 46. Ad1 Eb4 47. Ci2 Rh9 48. Cd2 Rh7 49. Cd0 Cxd1 50.
+Hxd1 Rxd1+ 51. Ke0 Rd6 52. Ae1 Re6 53. Rg5 fg6 54. Rd5 Rhxe7 55. Rd9+ Re9
+56. Rd2 R9e8 57. Cg0 Re3 58. Ed6 Ege6 59. Ra2 Ed7
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 1회전"]
+[White "귀마 윤정보 二단"]
+[Black "원앙마 문희웅 初단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ef6 4. Ed3 He6 5. ab3 Hbc7 6. Hd2 c5 7. Ad1
+Cd7 8. Kd0 Af8 9. Afe1 Cf9 10. Ra4 a5 11. Rh4 ab5 12. Ce0 Ke9 13. Rh8 Ade8
+14. Rg8 Ra4 15. ef3 c4 16. Ee3 cxc3 17. bxc3 Hd5 18. cb3 Rd4 19. Exg6 fxg6
+20. Rxg6 Rxd3 21. Ri4 Hdc7 22. He3 bc5 23. Cg2 Cd9 24. Hf5 Ce5 25. b4 i5
+26. Re4 cd5 27. Rc4 ih5 28. fe3 Ra3 29. e4 Cc5 30. Hd6 Ra6 31. Hb7 Cc8 32.
+Rxc7 Hxc7 33. Rxa6 Ee6 34. Ra4 Aff7 35. bc4 h4 36. Cc2 Hb5 37. cb4 Hc7 38.
+Cc0 hxh3 39. gxh3 Rh9 40. Ra3 Exb4 41. Hxc9 Cf9 42. Ha8 Hxa8 43. Rxa8 Cf8
+44. Ra3 Rh6 45. Cf0 Rc6 46. Cf2 Exd1 47. Axd1 Rc1 48. Ae1 Cd9 49. Ke0 Ad8
+50. C0d0 Cc8 51. Rg3 Ce8 52. Rg1 de5 53. Cxd8 exe4 54. Kf0 e3 55. Rf1 ed3
+56. He0 Rc0 57. Cd1 Ae7 58. Cd0 Cf9+ 59. Rg1 d2 60. Axd2 Rxd0 61. Ae1 Af7+
+62. Cf1 Rd3 63. Rg3 Rd6 64. Hc1 Ri6 65. hi3 Rc6 66. He2 Re6 67. Rg2 Re3 68.
+Ri2 Ae7 69. Af2 Rg3 70. ih3 Rg0+ 71. Ke1 Cd9 72. Cd1 Ad7+ 73. Hf4 Rg4
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "브레인TV"]
+[Date "2009년"]
+[Round "한국대표 선발전 전문기사부 A조 결승전"]
+[White "귀마 문희웅 初단"]
+[Black "원앙마 이남춘 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 ef6 5. ed3 Ege6 6. Ra4 Exg3 7. hxg3
+c5 8. Rb4 cb5 9. Rc4 Ra7 10. Rc6 Kf8 11. Ke0 Ee6 12. gh3 ab6 13. Rc4 Ra2
+14. Ee3 Rxc2 15. Afe1 Hd5 16. Rd4 bc5 17. Rii4 Afe8 18. Rig4 Cf7 19. Hf2
+Cf5 20. Ce5 Rc1 21. Cxc5 Ra1 22. Rxd5 Ra5 23. Cd2 Eb8 24. Ce5 Rxd5 25. Cxd5
+Exd5 26. Rd4 ih6 27. Ef3 Ri0+ 28. Hg0 fe6 29. Rg4 exe5 30. Exh6 e4 31. c4
+exe3 32. dxe3 Af7 33. Rxg6 Cb5 34. bc3 Cb8 35. Kf0 Cg8 36. Rxb6 Rxg0+ 37.
+Kf1 Ke8 38. Rd6 Eg3 39. Ee4 Cd8 40. Exg7 Cf8+ 41. ef3 Cxg7 42. Rg6 Cxf3 43.
+Rf6 Cxh3 44. cd4 Ce7 45. c4 Cd3 46. de4 Ad8 47. Rg6 Cd9 48. e5 Ke9 49. e6
+Cf9+ 50. ef6 Afe8+ 51. fe6 Af8+ 52. ef6 Ade8 53. cd4 Ri0 54. Rxg3 Cxf6
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "본선 8강전"]
+[White "원앙마 한성걸(중국)"]
+[Black "귀마 도기룡(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "133"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ce7 3. Ce2 Hg7 4. ab3 Cf7 5. Hc2 Ed6 6. ed3 gf6 7. Ke0
+Af8 8. b4 cb6 9. Cd2 Ke9 10. Ade1 Ade8 11. Aff1 Cd9 12. Cf0 Rc9 13. c4 Rh9
+14. d4 Rc8 15. Rh0 ih6 16. g4 h5 17. Ei3 Ei6 18. Hce3 Cg9 19. Ra2 Ch7 20.
+d5 Ea8 21. h4 hg5 22. Ri0 gxg4 23. hxg4 Ce7 24. gh4 Cd9 25. Cd0 Ca7 26. Rc2
+a5 27. c5 Ce7 28. Cg0 Rh7 29. Rh0 ab5 30. bc4 bxc5 31. cxc5 b5 32. c6 bc5
+33. dxc5 Exc5 34. Ch2 Ri7 35. Ea3 e5 36. Rc4 He6 37. Ce2 ed5 38. Ci2 d4 39.
+Rc0 de4 40. Hc2 Hf4 41. Hxf4 exf4+ 42. Kf0 Rb8 43. Rh3 Ef3 44. Rb0 Rxb0+
+45. Cxb0 fe6 46. Hb4 Cf9 47. Hd5 Ce5 48. Aff2 fe4 49. c7 Hc5 50. Hc3 Ce3
+51. Rh1 Cxa3 52. h5 Ce3 53. h6 Rxc7 54. Hd5 Rb7 55. Cg0 Cxi3 56. hxi6 Rg7
+57. Ce0 e5 58. Rh3 Cg3 59. Cd2 Ce3 60. Rh5 exd5 61. Rxd5 Hd7 62. Aef1 Ce7
+63. Rh5 e3 64. ih6 Exh6 65. Rxh6 Rg1 66. Re6 Cf7 67. Ke1
+{White resigns} 0-1
+
+[Event "제1회 세계인 장기대회"]
+[Site "하얼빈"]
+[Date "2009년"]
+[Round "하얼빈 예선리그"]
+[White "岡野伸(일본)"]
+[Black "유용철(중국)"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hf7 3. Ce2 Ce7 4. Ef3 Ef6 5. ed3 Hc7 6. Hc2 Cd7 7. Cd2
+Ke9 8. Ke0 Afe8 9. Afe1 Add8 10. Add1 Cd9 11. Cf0 ih6 12. Rxi9+ Cxi9 13.
+Ee3 cd6 14. Rb0 bc6 15. Rb4 Ra5 16. Rb8 e5 17. d4 Ra8 18. Rb4 Cd9 19. c4
+Ee6 20. Rb3 Ra9 21. Hb4 cb6 22. c5 Cd7 23. Cc0 Ra7 24. Hd3 Exd3 25. Rxd3 d5
+26. cxd5 exd5 27. Rc3 dxd4 28. Cxc7 d3 29. Rc4 dxe3 30. Cxe6 exf3 31. gxf3
+Hg5 32. Kf0 Hxe6 33. Cc0 Rxa3 34. Cg0 Rxf3 35. Ce0 Cf9 36. Cxe6 Rxf2+ 37.
+Ke0 Rf6 38. Re4 Rf3 39. Ce2 Add7 40. Rh4 Re3 41. Add2 Cd9 42. Kf0 Rf3+ 43.
+Ke0 Ra3 44. Rb4 Ra0+ 45. Ad0 bc6 46. h4 Cxd2
+{White resigns} 0-1
+

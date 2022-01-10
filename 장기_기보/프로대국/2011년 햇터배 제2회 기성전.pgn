@@ -1,0 +1,1426 @@
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "귀마 김영윤 七단"]
+[Black "귀마 박동현 八단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Ee6 6. Ri1 Ri5 7. Hd2
+Hd7 8. Ke0 Ra5 9. Rxa5 axa5 10. Ra1 c5 11. c4 d5 12. cxc5 Hxc5 13. Afe1 d4
+14. Rc1 Hd7 15. Rc8+ Ad8 16. g4 gf6 17. Hf4 de4 18. Cxe4 f5 19. Ed3 fxf4
+20. gxf4 Ra6 21. Exa5 Rxa5 22. Eb5 Ke9 23. Exe7 Cxe7 24. Cxb9 Ke8 25. Kf0
+Rb5 26. Ci9 Hc5 27. Ce0 Hxb3 28. He4 Ce5 29. Ci1 Rb8 30. Rc7 Ad7 31. Cb1
+Ha5 32. Cf1 Hb3 33. f5 Ce7 34. Hf6+ Kd8 35. Cd1+ Hd4 36. Rxd7#
+{White mates} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "귀마 하성호 八단"]
+[Black "귀마 안동건 六단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ad1
+Hd8 8. Kd0 Kf8 9. Ca2 Rc5 10. ab3 Afe8 11. Cad2 Ce9 12. Ra4 Rf5 13. Ef3 Ci7
+14. Rg0 Ri5 15. Afe1 ih6 16. Cf0 Kf9 17. g4 Ri6 18. Exh6+ gxh6 19. g5 Cd7
+20. gh5 hg6 21. Rag4 Af8 22. Exg6 fxg6 23. Rxg6 Rxg6 24. Rxg6 Ade8 25. Ce2
+Cd9 26. He3 Ri8 27. Hf5 cd6 28. Hg4 bc6 29. Hg7+ Rg8 30. Hh6 Rxg7 31. Rxg7
+Ce7 32. Rg4 Ke9 33. Hxf7 Afxf7 34. Cd2 Ef6 35. hg5 Exd3 36. cxd3 Hb7 37.
+bc3 Hc5 38. Ce0 Cf9 39. g6 Ha6 40. c4 Aff8 41. d4 Aff7 42. Ri4 Aff8 43. Ri9
+Ce3 44. gf6 Ec9 45. h4 Kd9 46. d5 Ke9 47. dxd6 cxd6 48. Ri3 Cxf6 49. Rxe3
+Cf9 50. Ce2 Ee6 51. Rd3 dc6 52. hg4 Cd9 53. Rd7 Kf9 54. Ra7 Ec9 55. Ke0 c5
+56. Cf0+ Cf7 57. Ra9
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 16강전"]
+[White "귀마 김정수 二단"]
+[Black "귀마 주경덕 八단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Hf7 5. Rb4 ef6 6. Rbi4 gh6 7. Ef3
+fg6 8. ed3 Ri8 9. Ee3 Rg8 10. Hf2 Ee6 11. Rc4 Ef6 12. Rf4 cd6 13. Af1 Hd5
+14. Rd4 bc6 15. Kf0 Exd3+ 16. cxd3 Rb9 17. Cxe6 dxe6 18. Rxd5 e5 19. Rd4 c5
+20. Rb4 cb5 21. Rc4 Ke9 22. Ce2 g5 23. Rc6 Rd8 24. Ri4 Ade8 25. Ric4 Aff8
+26. Ci2 Kf9 27. Cd2 ed5 28. Rc9+ Rxc9 29. Rxc9+ Ce9 30. d4 Ch5 31. Exb5 Rb8
+32. Cxd5 Rxb5 33. Ade1 hg6 34. Cd0 ih6 35. dc4 Ch2 36. cb4 Re5 37. Cg0 Hd6
+38. Rc6 Hf5 39. ab3 Re7 40. Rc4 Re6 41. Hd4 Re4 42. Hc6 Re3 43. bc3 Re6 44.
+cd3 h5 45. Ha7 Ad8 46. Ce0 Ra6 47. Hc6 Ade8 48. Hd1 hi5 49. Hd4 Hxd4 50.
+Rxd4 Ch6 51. Cg0 Cf6 52. de3 ih5 53. bc4 Ra2 54. Cd0 Aff7 55. Ri4 Ra1 56.
+cd4 gf5 57. de4 g5 58. Ed6 fe5+ 59. ef4 Cf8 60. gf3 gf5 61. fxf5 exf5 62.
+Ri7 Ae7 63. hg3 hg5 64. Rg7 A7d7 65. Hc3 Aed8 66. Cxd7 Ra6 67. Hb5 Rb6 68.
+Cd0+ Ke8 69. Hd4 Ce7 70. Eb3 Rh6 71. Rg9 Ce9 72. Ed6 Ad7 73. Hb5 Cd8 74.
+ed3 Rh4 75. Rg6 Rb4 76. Hd4 fe5 77. He6 Ae7 78. Rxg5 Rb6 79. fe3 Rb5 80.
+Rg9 Cd5 81. Rf9+ Kd9 82. Eb9 Rb7 83. Exe7 Rxe7 84. d4
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 8강전"]
+[White "귀마 김경중 九단"]
+[Black "귀마 양승태 三단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ke9 8. Kf0 Rc8 9. ih3 Ade8 10. Ra4 Rca8 11. Ade1 ab6 12. Rg4 Hf8 13. Ce0
+Kd9 14. Cf2 Ce9 15. Ed3 Cb7 16. c4 Rc8 17. Ri5 Ra4 18. Cd0 Ad8 19. Ec0 Cf7
+20. Ea3 Ra7 21. Cf2 Afe8 22. Cg0 Raa8 23. Cc0 Cc7 24. Ca2 Rab8 25. Ca9+
+Cec9 26. Ri9+ Ae9 27. Ca2 Hh7 28. Ri5 Aee8 29. fe3 gf6 30. Ra5 hg6 31. Ri4
+Cf9 32. Ke0 Ke9 33. gf3 Eg9 34. Ri8 Ee6 35. e4 b5 36. Ra4 c5 37. cxc5 bxc5
+38. Ch0 Hg9 39. Ri5 Cc2 40. Ea5 Rc9 41. Exd7 Adxd7 42. He3 Rxb3 43. Hxc2
+Rb2 44. Hb0 d5 45. Ed1 Ed6 46. Ra6 Ec3 47. Ra3 Exf1 48. Cc2 Hh7 49. Rh5
+Rcb9 50. Cf2 R2b6 51. Rxh7 Cd9 52. Hc2 Rc9 53. Cc0 Rcb9 54. Ha1 Rb0 55. fg3
+Ade7 56. Cf0 Ed4 57. Rh4 Rc9 58. Hc2 Rb2 59. Hxd4 Rcb9 60. He2 R9b4 61. Ra9
+Eb9 62. Ra3 Af9 63. Rh9 Ae8 64. Re3 Ee7 65. Ri9 Cxd2 66. ed4 fe6 67. dxd5
+cxd5 68. Rxe6 Rc4 69. Re3 d4 70. Ri5 Cd9 71. Rd5 Rb7 72. Rc3 Rxc3 73. Hxc3
+Ad7
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 8강전"]
+[White "귀마 김정수 二단"]
+[Black "귀마 김영윤 七단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Hf2 Ee6 6. Ee3 Hf7 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 Ke9 10. ab3 Hb9 11. Rg1 Hd8 12. Afe1 Ade8 13. Rgi1 i5
+14. c4 Kd9 15. Hd4 Rg5 16. Rg0 Ce9 17. g4 Ra5 18. Rgi0 Ca7 19. Kf0 Cg9 20.
+Rxi5 Rixi5 21. Rxi5 Rxi5 22. Exi5 Ch7 23. Cg2 Ce9 24. Exg6 fxg6 25. Cxg6
+He5 26. Cg2 Hxc4 27. bc3 Ha5 28. Cd2 cd6 29. Hb3 Hab7 30. g5 bc6 31. c4 Ee7
+32. d4 Cb9 33. Hc1 Cd7 34. gf5 Aff8 35. fe5 Cbf9 36. Ke0 Ha5 37. exe6 dxe6
+38. Ce2 ed6 39. hg3 Exc4 40. dxc4 Hxc4 41. Cf0 Ha5 42. He4 Cc9 43. Ha2 Ce9
+44. Hg5 Hb3 45. Hc3 c5 46. Add1 d5 47. Hce4 Hd4 48. Add2 Hxe2 49. Adxe2 Cd4
+50. Hd2 He6 51. Hxe6 Cxe6 52. Ef3 Cd7 53. He4 Cd4 54. Hf6 Aff7 55. g4 de5
+56. gf4 cd5 57. Ei5 Cd8 58. Hh7 Ce9 59. Exf7 Axf7 60. Cxf7 Cc9 61. Cf2 Ce9
+62. Hf6 Ce3 63. Kf0 Ce6 64. Hh5 Ce3 65. Hg7 d4 66. fg4 e4 67. g5 Cd3 68.
+Hf5 Ce5 69. g6 ef4 70. He7+ Ke8 71. Hc6 Cd6 72. Hxd4
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 4강전 2국"]
+[White "귀마 하성호 八단"]
+[Black "귀마 김정수 二단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Hf2 Hf7 6. Ee3 Kf8 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 gh6 10. Rg1 Afe8 11. Afe1 Ce9 12. Ch4 He6 13. Ci2 Ri5
+14. g4 Cc7 15. Cc4 Rxi2 16. Rxi2 c5 17. Ci4 Ci7 18. gh4 f5 19. Rig2 Kf9 20.
+Ei1 fg5 21. Rh2 Cg9 22. Rf1 Ef6 23. Ci0 Ce7 24. hg4 gh5 25. Hd1 Exd3 26.
+cxd3 Add8 27. Hd4 Hxd4 28. dxd4 Cd9 29. Rf6 Rg9 30. hg3 Ce9 31. Rf4 Ee6 32.
+Ci3 Af8 33. Cf3 Ade8 34. Cf6 b5 35. Kf0 Ce7 36. Rb2 hg6 37. Cf2 ih6 38.
+Exb5 Ri9 39. d5 cxb5 40. d6 Ce9 41. dxe6 Cxe6 42. Rd2 Hd8 43. Re4+ gf6 44.
+Rxd8 Axd8 45. Rxe6 hg6 46. Re5 Rxi1 47. Rxh5 Rg1 48. Rh3 Ae8 49. Hc3 bc5
+50. He2 Ke9 51. Ke0 cd5 52. Cxf8
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "결승전 1국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 하성호 八단"]
+[Result "1-0"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "63"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Hg7 8. Ra4 d5 9. Kf0 Cf7 10. Ci2 Rh8 11. Cif2 Af8 12. Ce2 Cf9 13. ih3 Cc9
+14. Ade1 ab6 15. Rxa9 Cxa9 16. Cd0 dc5 17. Ri4 Ed6 18. c4 cb5 19. Ed3 Exf3
+20. gxf3 Cf9 21. Hf4 Cf5 22. Hd5 Ce5 23. f4 Cf3+ 24. Ke0 Kf9 25. Ri7 Rg8
+26. Ri9+ Ke8 27. f5 cd6 28. fxe5 Cxd3 29. Exg6 dxd5 30. exe6+ He5 31. e7+
+Kd8 32. e8+
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 16강전"]
+[White "귀마 하성호 八단"]
+[Black "원앙마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. Ri4 Cf7 7. ef3
+g5 8. Hd2 Ke9 9. Exg5 Hxg5 10. Rg4 He6 11. Ee3 Ade8 12. Cxe6 Exe6 13. Rxg7
+ih6 14. Ce2 Cd9 15. Rh7 Ri6 16. hi3 hg6 17. Ad1 Aff8 18. Rg7 gf6 19. Rg8
+Aef7 20. Kd0 Ed7 21. Rh8 f5 22. Rh5 Rf6 23. Afe1 a5 24. Ce0 A8e8 25. ih3
+Cc7 26. Exc6 dxc6 27. He3 f4 28. fxf4 Exf4 29. Hd5 Exc3 30. bxc3 Rd6 31.
+Hxf4 a4 32. cd3 a3 33. Ce3+ Kf9 34. Rxa3 Rb9 35. Ra0 Rb4 36. gf3 Ri6 37.
+Ce0 Ri0 38. Rg5 Cc2 39. He6 Rb2 40. Rd5 Afe7 41. Hg7+ Kf8 42. fe3 A7f7 43.
+Hf5 c5 44. Rd6 Cd5 45. Hd4 Rg0 46. Ri6 Ca2 47. Ri5 Kf9 48. Ri9+ Kf8 49. Rc9
+Rc2 50. Hb3 c4 51. Rc5 Rg5 52. Rc9 Rg2 53. Cc0 Afe7 54. Cf0 Rg0 55. Ke0
+A8d7 56. d4 Cd8 57. Rxc4 Rb2 58. Rc9 Ke8 59. Hf1 Cf8 60. Hd2 Cxd2 61. Raa9
+Rb0+ 62. Add0
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 4강전 1국"]
+[White "귀마 김경중 九단"]
+[Black "원앙마 유희석 四단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+Ra7 8. Ei3 g5 9. Rb4 Rc7 10. Rb7 Rxb7 11. Cxb7 ab6 12. Ra9 Rh9 13. Rxc9 g4
+14. Kd1 gxg3 15. hxg3 d5 16. Ade1 d4 17. Eb0 Ad8 18. Kd0 Cd9 19. Hd2 Rh5
+20. Cb4 Ra5 21. Ce0 Cd7 22. Ad1 Hc5 23. Afe1 Ee6 24. Cb2 Ra0 25. He3 de4
+26. Hf1 Hh5 27. Ef5 ed4 28. Cf2 Exg3 29. Cf0 Ei0 30. Hh2 Ef2 31. Axf2 d3
+32. cxd3 Hxd3 33. Afe1 Hb2 34. Ce2 Hxd1 35. Axd1 Cxd1 36. Kxd1 Rxb0 37. Ke1
+Hg7 38. Ec3 Ce9 39. Hg4 Hh5 40. He5+
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "양귀마 김민호 三단"]
+[Black "귀마 김진규 六단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hf7 3. Ce2 Ke9 4. Hd2 Ade8 5. Ra1 ef6 6. cb3 Ee6 7. Ed3
+ba6 8. g4 Hbd8 9. e4 f5 10. Ke0 Cd7 11. Cxe6+ Kd9 12. Cxi6 gh6 13. Ade1
+Rxi6 14. Rxi6 hxi6 15. Ce2 Aff8 16. Aff1 Cf9 17. Kf0 Ch7 18. Ef3 Ce7 19.
+Ce0 Ke9 20. Ch0 fe5 21. exe5 Hxe5 22. Cxh9 Hxg4 23. Ch0 Hxf2 24. Aexf2 Cd9
+25. bc3 ab6 26. Ce0 Ra5 27. Re1 Aff7 28. ab3 Rf5 29. Re4 i5 30. h4 b5 31.
+Ei1 cd6 32. Eg4 de6 33. Exe7 Afxe7 34. hg4 ih5 35. Cg0 bc5 36. A2e1 e5 37.
+Ra4 ed5 38. Cd0 Rf7 39. Ke0 Rg7 40. Cg0 Ri7 41. Cc0 d4 42. Eg1 cd5 43. gf4
+Ri1 44. Ee4 de5 45. Ra5 Ri4 46. Rxe5 Rxf4 47. Cf0 Rh4 48. Eh6 Rh3 49. Cd0
+Rh4 50. Hf3 Rf4 51. Cxd8 Rxf3 52. Cd0 Rh3 53. Aff2 h4 54. Rd5 A7d7 55. Rh5
+d3 56. cxd3 Cxd3 57. Rd5 Ade7 58. Rg5 Af9 59. Cf0 Aee8 60. Exf9 Ci3 61. Eh6
+Ce3+ 62. Ad1 Kd9 63. Cd0+
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 16강전"]
+[White "양귀마 김민호 三단"]
+[Black "귀마 박강평 八단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Ce7 3. e4 cd6 4. Ce2 ab6 5. Ra1 Ef6 6. Hd2 bc6 7. cb3 Hf7
+8. g4 Af8 9. Ke0 Ea6 10. Ef3 Ad8 11. Rai1 gh6 12. Exh6 Hxh6 13. Rxi6 Rxi6
+14. Rxi6 Hf7 15. Ed3 Rg9 16. Exf6 exf6 17. Rxf6 Kf9 18. Ad1 Ade8 19. Afe1
+Ce9 20. Cb4 c5 21. Cb0 cd5 22. b4 d4 23. exd4 Exd4 24. bc4 Eg6 25. Cg0 Hd5
+26. Rxg6 Rxg6 27. Cxg6 Hc3 28. Cgg2 Cd7 29. ab3 Cxd2 30. bxc3 Cd9 31. hg3
+He5 32. He4 Hxc4 33. cxc4 Cxe4 34. gf4 Ce9 35. Cg5 Ce7 36. fe4 d5 37. Cg0
+Ce9 38. Ce6 Cd3 39. Cd0 Ce7 40. gf3 Cd9 41. Cxd5 Ke9 42. e5 Kf9 43. Cf5+
+Cf7 44. f4 Ce9 45. c5 Ce7 46. fg4 Ke9 47. c6 Cf9 48. g5 Aff7 49. cd6 Kd9
+50. Cd5+ Ke9 51. Cd0 Cf6 52. Ce4 Cf8 53. e6 Ce5 54. Add2 Kf9 55. Ade2 --
+56. A2f2 -- 57. Cf0 -- 58. Cf6 Ad8 59. g6 Afe8 60. g7 Add9 61. d7 Ke9 62.
+e7 Axe7 63. dxe7 Ae8 64. gf7 Cd8 65. e7xe8#
+{White mates} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 16강전"]
+[White "원앙마 유희석 四단"]
+[Black "귀마 공현선 二단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "78"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hf7 3. Cb4 Ri5 4. Ca2 ab6 5. Ea3 Ha7 6. Exc6 Rb9 7. Ci2
+Rg5 8. ih3 Cb5 9. Ef4 Ea6 10. Ce2 Ce7 11. Hc2 Rc9 12. ef3 Cb8 13. Hge3 Rc7
+14. g4 Re5 15. Ke0 b5 16. Cbb2 Ke9 17. Cxe5 exe5 18. Ce2 Exc3 19. bxc3 g5
+20. hg3 gf5 21. Afe1 Ef6 22. Ra6 Ade8 23. Rxf6 Rxc3 24. Ra6 Cxe3 25. Exe3
+fxf4 26. Rxa7 fe4 27. Ra9+ Ad9 28. Ri7 Rxc2 29. Kf0 Cb0+ 30. Ce0 Rc7 31.
+Exb5 Cb7 32. gf4 exf4 33. fxf4 Ae8 34. Cxe5+ Kf9 35. Ri9+ Kf8 36. Ce0 Hd6
+37. Ri8+ Kf9 38. Rxe8+ Hxe8 39. Rxd9+ Kf8
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 8강전"]
+[White "원앙마 유희석 四단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hd7 3. Ch4 Cc7 4. Ci2 Ci7 5. Ei3 Ce7 6. Ca2 Ca7 7. Hg2
+gf6 8. Ch1 Ee7 9. ab3 Ke9 10. Ce2 Afe8 11. Ra4 Hg7 12. Ca2 Hc5 13. Rg4 ih6
+14. Rg0 e5 15. Rd4 h5 16. Ea3 Rb9 17. Cb1 Rc9 18. gf3 Add8 19. Cg1 Hge6 20.
+Rg4 Ei6 21. Ce2 ef5 22. c4 Ha6 23. Cc1 fg5 24. Re4 Rh9 25. Hf4 gf5 26. Hxh5
+Rxh5 27. h4 Rh9 28. Exf5 Cd7 29. Hd4 Cd9 30. Hxe6 fxe6 31. Rxe6 Rxh4 32.
+Ce4 Kf9 33. Cxe7 Rxc4 34. Ei7+ Kf8 35. Rg8+ Kf7 36. Cf1+
+{Black resigns} 1-0
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "귀마 최상문 初단"]
+[Black "귀마 박동민 初단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Hf7 5. Rb4 ef6 6. Ef3 Ee6 7. Rc4
+Af8 8. ed3 Kf9 9. Rci4 Ade8 10. Rxi6 Rxi6 11. Rxi6 Ra5 12. Ri4 Rg5 13. Rg4
+Rb5 14. He3 Rb0 15. Hd5 Ce9 16. Hxc7 Cxc7 17. Ee3 Rb1+ 18. Ad1 Cg7 19. Rc4
+Cd7 20. Rd4 Exg3 21. hxg3 Hd6 22. Rh4 Hf5 23. Rf4 Rxd1+ 24. Ke0 Rg1 25. gh3
+Rxg0 26. Cxh9 Rg2 27. Ae1 Aff7 28. Ch0 cd6 29. Cc0 b5 30. Cf0 d5 31. ab3
+bc5 32. Ei5 Rh2 33. Rf3 Ce5 34. Eg8 Rh0 35. Ed6 Ce9 36. b4 Ce7 37. c4 cxc4
+38. bxc4 Ce9 39. hi3 Rh4 40. Cf4 Rh0+ 41. Cf0 Hh4 42. Rh3 Rxh3 43. ixh3 Hf5
+44. Ea4 Cxd3 45. Eh1 d4 46. Ef4 dxc4 47. Cxf5 fxf5 48. Ec6 Ce7 49. Kf0 cb4
+50. Ec1 g5 51. Ce0 Cg7 52. Cg0 Cc7 53. Ef3 Cxh3 54. Cd0 Cb3 55. Cf2 Ke9 56.
+Ec5 Afe7 57. Ee2 bc4 58. Cd0 c3 59. Eh4 cd3 60. Ef1 Cf3+ 61. Ke0 Kf9 62.
+Ad1 Cf8 63. Ed4 de3 64. Ae1 g4 65. Cf0 fe5 66. Eg6 ef3
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "귀마 김영숙 四단"]
+[Black "귀마 양승태 三단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "146"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. Ri1 Ed6 6. Ke0 Exb3 7. cxb3
+Ri5 8. Hd2 Rc5 9. ih3 Ke9 10. Ei3 Ade8 11. Rf1 cb6 12. Cb4 Rac9 13. Cb1 Cb5
+14. Cg1 Ca7 15. Ca1 Cd5 16. Afe1 Aff8 17. Rf4 Cd9 18. Rb0 e5 19. Cg1 Ee6
+20. gf3 g5 21. Hi1 gf5 22. Rg4 Hh5 23. h4 Hhf6 24. Hg2 Ce7 25. Ch2 e4 26.
+Exf6 exe3 27. fxe3 R9c6 28. He4 Ra5 29. Cxh6 Cb7 30. Ch2 Cb5 31. Cb1 Ra1
+32. bc3 Exc3+ 33. Kf0 fe5 34. Hxc3 Rxc3 35. Ec4 Cb7 36. Cb2 Rc1 37. Cd1 Ra2
+38. Cf1 Rc3 39. Eg0 Rxb2 40. Rxb2 Cxb2 41. Ei3 Cb7 42. Aed1 a5 43. h5 Cb4
+44. Ee7 b5 45. Rg8 Axe7 46. Rxf8 Rc2 47. Rg8 Cb8 48. h6 Ae8 49. Rg5 Rc4 50.
+ef3 Cf9 51. f4 Kd9 52. Rg9 Rc6 53. hg6 Cb0+ 54. Ke1 Rc2 55. Ad2 Cb7 56. Eg0
+Ce7+ 57. He3 Rc3 58. Cd1 Cxe3 59. Exe3 Rxe3+ 60. Ae2+ Ke9 61. Ae0 Rf3 62.
+fg4 e4 63. Rh9 Hc5 64. Rh5 e3 65. Ad2 Rg3 66. Re5 ed3 67. Ae2 Rxg4 68. gf6
+Re4 69. Rxe4 Hxe4 70. fe6 bc5 71. Af0 c4 72. Ke0 d2 73. Axd2 Hxd2
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "귀마 김준호 二단"]
+[Black "귀마 한재우 六단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Ea6 5. Cc2 Hf7 6. Ke0 Ef6 7. Ade1
+Ra8 8. ab3 Rb8 9. cd3 Hb9 10. Ea3 Ce9 11. Hbd1 ih6 12. Rxi9 Cxi9 13. bc3
+Hbd8 14. Ch2 Af8 15. Ef3 g5 16. Cg2 h5 17. Cb2 Ra8 18. c4 Ce7 19. cd4 e5
+20. Ce2 Ei8 21. Aff1 Ec9 22. Kd0 Ke9 23. Ce0 Ade8 24. Ch2 Cd9 25. Cc2 Ee6
+26. Ra2 c5 27. Cg2 b5 28. Hb0 b4 29. Ed1 Rxa2 30. Hxa2 bc4 31. dxc4 cxc4
+32. Cd2 Hb7 33. Ea3 Ha5 34. Hc1 ef5 35. Ce2 Eb4 36. Ke0 f4 37. Cf0 c3 38.
+Ca0 Hb3 39. Hxb3 cxb3 40. Ec6+ Kf9 41. Exf4 bc3 42. Ec6 Ef6 43. Ce4 gf5 44.
+dxc3 fe5 45. Ca4 hg5 46. c4 Exc4 47. Cxc4 ef5 48. e4 fe5 49. ed4 Ad8 50.
+Hd3 ed5+ 51. Kf0 dxd4 52. Hxb4 dxc4 53. Ha6 He5 54. Ea3 Afe8 55. Cg0 gf5
+56. Eh6+ Ke9 57. Ce0 Hd7 58. Ce2 f4 59. Ed1 He5 60. Exf4 Cf7 61. Ke0 Hg6
+62. g4 cd4 63. Hc7 de4 64. g5 Hf8 65. Exe4 Cf9 66. Eh1 Hh7 67. gf5 Af7 68.
+Hd5 Cxf5 69. Hxe7 Axe7 70. Cxe7 Hg5 71. Ce2+ Kf9 72. Ec7+ Ad7 73. hg3 Kf8
+74. Ee3 Cf9 75. g4 Hi4 76. Kd0 Hh6 77. gf4 Kf7 78. fe4 Hg4 79. Eb5 Hf6 80.
+Ed2 Hd5
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "귀마 정상규 八단"]
+[Black "귀마 주경덕 八단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "154"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Af1
+Ra5 8. Ad1 Ri8 9. Rb0 Rd5 10. Ef3 Ke9 11. Ri4 Afe8 12. d4 Rg5 13. g4 Rf5
+14. gf4 Rg5 15. Rbi0 gh6 16. fg4 Rf5 17. Exh6 i5 18. gf4 ixi4 19. fxf5 fxf5
+20. cd3 Ri6 21. Rg0 Hg5 22. Rg4 Hf7 23. de4 fg5 24. Rg0 Cg7 25. Ri0 Ce7 26.
+Ef3 Ef6 27. d4 Af8 28. ab3 Ade8 29. b4 Exb4 30. Hxb4 Cxe3 31. ef4 Kf9 32.
+Rg0 Ce9 33. Hd5 Ec8 34. de4 Cg9 35. Ri0 He6 36. Cxe6 Rxe6 37. Rxi4 Cd9 38.
+Kf0 b5 39. Ade1 c5 40. Hc3 Ce7 41. Ce2 Ra6 42. Hd1 cd5 43. Ce0 Ra3 44. hg3
+Ra0 45. Hb2 Ra3 46. Hbd3 Ke9 47. Hc1 Rc3 48. Cg0 Ra3 49. Ri6 Ea5 50. Rb6
+bc5 51. Hb3 Ed7 52. Cd0 c4 53. Hd2 Ra4 54. Rc6 d4 55. g4 Ra0 56. exd4 cxd4
+57. fe4 dxe4 58. Hxe4 He5 59. Re6 Hxg4 60. Hxg5 Hxf2 61. Afxf2 Cxe1 62.
+Axe1 Exg5 63. Ec1 Rc0 64. Ee4 Rc4 65. Eb6 Cf9+ 66. Ke0 Rc7 67. Rg6 Rc5 68.
+Ee4 Re5 69. Ec1 Ed7 70. Rg9 Re3 71. Ea4 Eb4 72. Rg4 Ee6 73. Cf2 Ec3+ 74.
+Kf0 Ri3 75. Ae2 Ri0+ 76. Kf1 Rd0 77. Rg2 Rd2
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "귀마 고장진 五단"]
+[Black "귀마 박강평 八단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Ra5 5. Rb4 Hf7 6. Hf2 ef6 7. ed3
+Ee6 8. Rc4 Exc3 9. dxc3 Rc5 10. Ef3 Rxc4 11. cxc4 Ce9 12. c5 Kf8 13. Ri4
+Afe8 14. cxc6 bxc6 15. Rc4 Cc9 16. Ee3 cd6 17. Rg4 ih6 18. Hb0 Ce9 19. Hd1
+Hd5 20. Eb1 Kf9 21. Ed4 f5 22. Cxh6 fg5 23. Exg6 Ri1+ 24. Ch1 gxg4 25. gxg4
+Ri4 26. gh4 Ri5 27. Exe9 Ef6 28. hg4 Rf5 29. Ec1 Hb4 30. He3 Hd3+ 31. Kf1
+Rf3 32. Cxe8 Rxe3 33. Ce0 Hxc1 34. Cxc1 Ec4 35. Cc9 Hxe9 36. Cexe9 Rf3 37.
+Afe1 Exf2 38. Ce0+ Kf8 39. Axf2 Ae8 40. h4 Rxa3 41. h5 Af7 42. g5 Ce7 43.
+g6 -- 44. gf6 Ae8 45. hg5 Ra9 46. g6 Rxc9 47. Kf0 Rc4 48. Ade1 Kf9 49. g7
+Rf4
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 16강전"]
+[White "귀마 박동민 初단"]
+[Black "귀마 양승태 三단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ch4 Ra5 7. Hf2
+Ee6 8. Rb0 Af8 9. Ch1 Kf9 10. Ca1 Ri5 11. Rxi5 ixi5 12. Ef3 ih5 13. Exc6
+bxc6 14. g4 g5 15. gxg5 hxg5 16. He3 Exc3 17. dxc3 Ade8 18. Rb4 Ce9 19. cd3
+f5 20. Rh4 Cd7 21. ab3 Ri6 22. Ch1 cd6 23. bc3 Hd5 24. Hxd5 dxd5 25. Ke0
+Ef6 26. Ade1 fe5 27. de3 Hd8 28. hg3 Ce7 29. g4 gf5 30. cd3 Ke9 31. Cd1 Cd9
+32. Rh5 Hc6 33. Ei5 Ri9 34. Rh6 Rxi5 35. Rxf6 Hd8 36. e4 Ri3 37. exe5 fxe5
+38. gf4 Rxd3 39. f5 Cf9 40. Rd6 exf5 41. Kd0 Rc3 42. Ce0 Hc6 43. He4 Hb4
+44. Cf1 Rd3+ 45. Hd2 fe5 46. Ce2 Ra3 47. Ke0 Hd3 48. Kd0 Ra0+ 49. Kd1 Rb0
+50. Rc6 e4 51. Rc3 Cd9 52. Ce0 d4 53. Cxe4 Hf4 54. Ce0 d3 55. Rc9 dxd2+ 56.
+Kxd2 Hd3+ 57. Rxd9+ Axd9 58. Ce2 Hc5 59. Kd1 He4 60. Aee0 Hc3+
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 16강전"]
+[White "귀마 배성철 五단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ri4 Ra5 7. Rd4
+Kf8 8. Hf2 Afe8 9. Kd1 ih6 10. Ade1 Ee6 11. Ce0 Ce9 12. Kd0 Kf9 13. ab3
+Rxa0+ 14. Cxa0 Hb9 15. Aff1 Ri0 16. Ch4 f5 17. Cf0 Ri2 18. Ca4 Hbd8 19. ba3
+Af8 20. Ca2 Ri1 21. Ef3 Ri0 22. Cd2 Ade8 23. Ra4 Cd7 24. ab3 Cd9 25. Ad1 g5
+26. g4 hg6 27. Afe1 Cg9 28. h4 Ri3 29. gxg5 gxg5 30. Rc4 Rg3 31. Ra4 Ef6
+32. Ca2 Ce9 33. Ha1 c5 34. Hc0 cd5 35. Hd2 bc6 36. Cc0 Ei8 37. Hh1 Rg1 38.
+Ei1 Ce7 39. hg4 Cxe3 40. dxe3 Rxh1 41. gxg5 fxg5 42. Ri4 Ef6 43. Ri6 Eh3
+44. Cf2 cd6 45. He4 Ke9 46. cd3 de5 47. Hc5 ed5 48. Ha6 Hc6 49. Ri8 gf5 50.
+Ce0 Eg3 51. Cc0 Exd1 52. Axd1 d4 53. bc3 dxd3 54. cxd3 de6 55. Ad2 Cxd2 56.
+Ke0 Ra1 57. Ri9+ Aff9 58. Ch0 Rxa6 59. Ch9+ Hg9 60. Ef3 Ra0+ 61. Ke1 Rf0+
+62. Ke2 Cd9 63. Ri1 Ef6 64. Cxf5 Rd2#
+{Black mates} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 16강전"]
+[White "귀마 윤정보 二단"]
+[Black "귀마 송종일 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Kd1 ed6 5. Ci2 Ei6 6. ef3 Hd7 7. Cg2
+He6 8. Ee3 g5 9. Hhf1 Ra8 10. Rh0 gh5 11. Cc2 Ri8 12. Ch2 hg5 13. Ca2 ab6
+14. Rxh6 Kd8 15. Rxi6 Rh8 16. ih3 g4 17. Ci8+ Ade8 18. gxg4 Hg7 19. Cxe8
+Axe8 20. Rg6 Rxh3 21. Exc6 bxc6 22. Rxg7 Cxb0 23. Rxb0 Rxa2 24. Rg5 Ra1+
+25. Rb1 Rxb1+ 26. Hxb1 Rxf3 27. Hbd2 Ri3 28. Ra5 Ce9 29. gf4 Kd9 30. Ra9
+Ri5 31. Ade1 Rb5 32. fe4 Cc9 33. Ra7 Cf9 34. c4 Ke9 35. Kd0 Cd9 36. b4 Rg5
+37. Ra3 Ee7 38. cd4 d5 39. bc4 dxd4 40. cxd4 c5 41. Rg3 Rh5 42. Ke0 cd5 43.
+dxd5 Rxd5 44. Rg6 Rd3 45. Ad1 Ra3 46. Afe1 Ra0+ 47. Add0 Ra5 48. Rg3 Ra4
+49. Re3 Ra5 50. Hb3 Rg5 51. Hd4 Rd5 52. He2 Rc5 53. Hfg3 Rg5 54. ef4 Rg6
+55. Hf5 Rf6 56. Hg3 Cf9 57. Hh5 Exh5
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 16강전"]
+[White "귀마 한재우 六단"]
+[Black "귀마 김영윤 七단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "178"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Rb0 ef6 6. Rb4 Ra5 7. Ef3
+Ee6 8. Rbi4 i5 9. Rd4 Af8 10. Ch4 Hb9 11. Ch1 Hd8 12. Cd1 Ri8 13. g4 Rf5
+14. Hf2 Ra5 15. a4 Rb5 16. Ee3 Rb2 17. Rxi5 Rxi5 18. Cxb2 Rb5 19. Ce2 Rb1
+20. Rd5 Rc1 21. Kd2 Ke9 22. g5 gh6 23. Ei5 cd6 24. Rxd6 Cxe3 25. Rd4 Cee7
+26. Exf7 Axf7 27. Ri4 Ce5 28. de3 Cd7 29. Ri9 Ade8 30. Rxh9+ Af9 31. c4 Ae8
+32. Rxh6 Cd9+ 33. Cd4 Cd6 34. Rh7 Rb1 35. ab4 Rb3 36. Hg4 Ce7 37. Ke1 Rc3
+38. Hb0 Rc0 39. c5 Rxc5 40. Hd1 Rxg5 41. h4 Af7 42. Rh5 Rg6 43. b5 bc6 44.
+bc5 cxc5 45. Rxc5 Cd9 46. Hc3 A9e8 47. Ad1 Eg3 48. He5 Ri6 49. Hc6 He6 50.
+Cxe6 Ri1+ 51. Kd0 fxe6 52. Hxe7 Afxe7 53. He2 Ei6 54. Ade1 Ri3 55. Rc3 ed6
+56. Ke0 Eg9 57. hg4 Ee6 58. Rb3 d5 59. Cd6 dc5 60. Cg6 c4 61. ed3 Ri4 62.
+g5 Re4 63. Aff1 Re5 64. Cg0 Rxg5 65. Cd0 Re5 66. Hf4 Eh4 67. Hg6 Rg5 68.
+Rb6 A7d7 69. de3 Add8 70. Aff2 Rh5 71. e4 Rh6 72. Rc6 cb4 73. He5 Ee6 74.
+ef4 Cf9 75. Cf0 b3 76. Rc4 Rh3 77. Rc6 Eb4 78. Rc4 Ed7 79. fe4 Re3 80. Hg4
+Rg3 81. He5 Rg0 82. Hc6 Eg5 83. Aff1 Ei2 84. e5 Exf0 85. Afxf0 Rg3 86. Re4
+Rc3 87. Hb4 Cd9 88. Ad0 Add7 89. e6 Rc5
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 4강전 1국"]
+[White "귀마 김정수 二단"]
+[Black "귀마 하성호 八단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Ch7 5. ef3+ Kd8 6. ih3 Ch5 7. hi3
+Ch9 8. ih3 Hd7 9. Ee3 ed6 10. Hd2 Ade8 11. Cc2 Ce7+ 12. Exc6 dxc6 13. Cxc6
+He5+ 14. Ce2 Hxc6 15. He3 Ri5 16. Ra4 Kd9 17. Rc4 ab6 18. Ed3 Ra6 19. Ke0
+He6 20. Afe1 Hed4 21. f4 Ce9 22. Hf5 Cc9 23. Hxd4 Cxc4 24. cxc4 Hxd4 25.
+cxd4 Aff8 26. dc4 bc6 27. fe4 Ee7 28. cd4 Cf9 29. Eg1 Ri1 30. Rg0 Ra5 31.
+bc3 Rai5 32. Af0 Ri0 33. Rxi0 Rxi0 34. Ae1 Ri1 35. Cc2 Rxg1 36. Cxc6 Ri1
+37. e5 Ri4 38. de4 Ke9 39. gf3 Eg4 40. hg3 Exd2 41. Axd2 Rxe4+ 42. Afe1
+Rxe5
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "결승전 2국"]
+[White "귀마 하성호 八단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ad8 7. Ke0
+Ra5 8. Ade1 Kd9 9. Ri4 Afe8 10. Ef3 Ce9 11. Exc6 bxc6 12. Rc4 Ra6 13. Ca2
+Rb6 14. cb3 Ea6 15. He3 cd6 16. Cg2 Cc9 17. Ri4 Cf9 18. Cd2 fe6 19. Rc0 Cc9
+20. Rb0 Ef6 21. Aff1 Cd7 22. d4 g5 23. Rf4 ih6 24. Cf0 Ri0 25. dc4 e5 26.
+c5 Rb8 27. Ce2 Ed3 28. Rc0 ed5 29. c6 d4 30. cxc7 Cxc0 31. cxd7 Adxd7 32.
+g4 Rc8 33. gxg5 Cc9 34. Rg4 Rc0+ 35. Ad0 Exf0 36. Axf0 d3 37. Hf5 d2 38.
+Ch2 Rxd0+
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "결승전 3국"]
+[White "귀마 김경중 九단"]
+[Black "귀마 하성호八단"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ke9 8. Kf0 Rc8 9. ih3 Ade8 10. Ri4 Hf8 11. Ed3 Rca8 12. Ade1 ab6 13. Rxa8
+Rxa8 14. c4 Kd9 15. Ce0 Ce9 16. Ri5 Cb7 17. Cf2 Ra4 18. c5 cxc5 19. Rxc5
+dc6 20. Ri5 Ed6 21. Rd5 Ra6 22. Ec0 Cc9 23. Ea3 Cc2 24. Exb6 Rxb6 25. Exc6
+Rxc6 26. He4 Cc9 27. Rxd6 Rxd6 28. Hxd6 Cg7 29. Cd0 Ad8 30. He3 gf6 31. Hd5
+hg6 32. b4 Afe8 33. b5 Cf9 34. b6 Cf7 35. Hb5 Ke9 36. bc6 Hb8 37. cd6 Exg3
+38. hxg3 Kf9 39. Cf2 Ha6 40. de6 fxe6 41. Cxe6 Cg5 42. Hb6 Hb4 43. Ca6 Hd3
+44. fe3 Hc5 45. Hd5 Ke9 46. g4 Cg9 47. gf4 Cfd9 48. Hdc7 Cd7 49. e4 g5 50.
+Ha8 Cb9 51. Ca9 Hb7 52. Hbc7 Cbf9 53. Ca0 Hc5 54. Hd5 Hd3 55. He3 Hh7 56.
+Cg0 Ci7 57. Cg7 Cf3 58. Hb6 Hi5 59. Ke0 g4 60. Cg0 gxf4 61. exf4 Hh3 62.
+Cfd0 Hxf4 63. Hc4 Cf9 64. Hd6 Add7 65. Hdf5 Ca7 66. Cf0 Hh3 67. Cd2 Cd9 68.
+Kf0 Kf9 69. Ce0 Hf4 70. Ad1 Hb2 71. Ke1 Hc0+ 72. Cd0
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "결승전 4국"]
+[White "귀마 하성호 八단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "20분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. Ch4
+Afe8 8. Ch1 Ra5 9. Ca1 Ri5 10. Rxi5 ixi5 11. Ef3 ih5 12. Cf1 Ce9 13. ab3
+Ri4 14. Exg6 fxg6 15. Ra5 hg5 16. Ec1 Ef6 17. He3 cd6 18. g4 gxg4 19. Hexg4
+b5 20. Ra4 Kf9 21. hi3 Rh4 22. Cf4 Rh5 23. i4 Cd7 24. Cf1 de6 25. He3 Cg7
+26. ih4 Ri5 27. hg4 Af8 28. gf4 g5 29. f5 gxf5 30. Hxf5 Rg5 31. Rh4 Ade8
+32. d4 Cge7 33. Ee4 Ha8 34. cd3 Cg9 35. Rh9 bc5 36. He3 Ke9 37. bc3 Hb6 38.
+Eh2 Ha4 39. de4 Ei4 40. Hfg4 Aff9 41. Rh4 Eg7 42. Hf2 Hb6 43. ef4 Rg3 44.
+Hf5 ef6 45. Hh6 Aff8 46. Hhg4 fe6 47. Rh9 Aff9 48. Hh6 Cg6 49. Ri9 c4 50.
+Ee4 cd4 51. dxd4 Rxc3 52. Ke0 e5 53. Afe1 Hd7 54. Ri5 Rg3 55. f5 exf5 56.
+Rxf5 Aff8 57. d5 Rg5 58. Rxg5 Hxg5 59. d6 Ed5 60. dxd7 Axd7 61. Cf5 Exf2
+62. Axf2 Ade8 63. Hg8 Cg9 64. Hf6 Ce3 65. Eb6 Ee6
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "귀마 김형섭 七단"]
+[Black "원앙마 유희석 四단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 d5 7. He3 c5
+8. Hf5 Ce5 9. Ra4 gf6 10. Hh4 Ca7 11. Rg4 Ci7 12. Rh0 Ra7 13. fe3 Rf7 14.
+Hd2 ih6 15. e4 Ce7 16. Exf6 h5 17. Rg6 hxh4 18. hxh4 d4 19. Cxe6 Exe6 20.
+Ce2 dxe4 21. Cxe6 ef4 22. Ce0 Kf8 23. hg4 Afe8 24. gxf4 Ce9+ 25. Ce2 Kf9
+26. Rh7 Ce7 27. Rh5 Ei6 28. g4 Ce9 29. Rh7 Ce6 30. Ed3 Ce9 31. Rhxg7 Rxg7
+32. Rxg7 Cf7 33. Ef6 Exf4 34. gxf4 Ri2 35. He4 Cxe4 36. Rg9+ Kf8 37. cd3
+Cxf4 38. Rg4 Cf7 39. Rxe4 Rf2+ 40. Kd1 Rxf0 41. Ee3 Rxf6 42. Re6 Rxe6 43.
+Cxe6 ab6 44. bc3 Add8 45. Ke1 Cd9 46. Ce2 Kf9 47. Ce0 b5 48. Cc0 Cg9 49.
+Ad1 Cd9 50. Ke0 Add7 51. Ae1 Aee7 52. Cf0 Ke8 53. Cd0 Kf9 54. Eg6 Ke8 55.
+d4 Cf7 56. c4 Cd9 57. cxc5 bxc5 58. de4 cd5 59. Ee3 d4 60. exd4 Cxd4 61.
+Eg6 Cd9 62. Cf2 Af7 63. Ei3
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "귀마 이남춘 九단"]
+[Black "원앙마 공현선 二단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. ed3 ef6 5. Ee3 c5 6. ih3 Cd7 7. Ri4 He6
+8. Rh4 Ri8 9. c4 cd5 10. d4 Rb9 11. Rb0 dxd4 12. cxd4 Ad8 13. b4 ab6 14.
+bc4 Cd9 15. Hf2 Ke9 16. Ke0 Afe8 17. Ade1 f5 18. Ri4 Ri7 19. Ch9+ Cf9 20.
+Ch1 Ri9 21. Cd1 ih6 22. Rxi9 Cxi9 23. Cd6 Cf9 24. c5 Ea6 25. d5 Cc9 26. Rb2
+Ec3 27. Aff1 Cxe3 28. de5 fxe5 29. Kf0 e4 30. Hxe4 Ce5 31. Hxc3 Cxc5 32.
+He3 Cc9 33. Hcd5 Cf9+ 34. Ef3 Hxd5 35. Hxd5 bc6 36. Rxb9+ Cxb9 37. Cd0 Cf9
+38. Ce0 c5 39. He3 g5 40. Cf2 h5 41. Hc2 Cd9 42. Hb4 cb5 43. Hc2 Ce7 44.
+Ha3 Hd4 45. Hb1 bc5 46. Hc3 Ee6 47. Hd1 Cd7 48. Cd0 Cxd1 49. Axd1 Hb3 50.
+Afe1 Ce5 51. Eh0 gf5 52. gf3 c4 53. hg3 hg5 54. Ee2 cd4 55. Cg0 Add7 56.
+Cf2 de4 57. Exg5 fxg5 58. Cxg5 Ce7 59. Cg0 Hc5 60. Ce0 Eb8 61. g4 Ed5 62.
+Cd0 Eb8 63. g5
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "양귀마 정연기 八단"]
+[Black "귀마 배성철 五단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "168"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Hf2 Ke9 3. Cg2 ef6 4. ab3 Ee6 5. cd3 Hhf8 6. bc3 Cc7 7. He4
+Afe8 8. Ee2 Cf7 9. Cc2 cb6 10. Cc7 Ra8 11. Ca2 Rb8 12. d4 Rc8 13. Cc2 Rxc3
+14. Ci2 Rc1+ 15. Ad1 ih6 16. Ed3 f5 17. gf3 fe5 18. Hg3 ed5 19. dxd5 Exg3
+20. hxg3 Ce7 21. Af1 Ri5 22. Ra1 Rc3 23. Hb2 Rxd5 24. Cid2 Rb5 25. Cf2 Ra3
+26. Rc0 Kf9 27. Rc8 Rc5 28. Rxc5 Hxc5 29. Hc4 Rc3 30. He5 Hxd3+ 31. exd3
+Rc5 32. Kf0 Rxe5 33. fe3 Ri5 34. Ke1 Ra5 35. Rc1 gf6 36. Rc2 hg6 37. Ke0
+Rg5 38. gh3 Hh7 39. Ade1 Hi5 40. h4 Rg1 41. Rc7 Hh3 42. Cd0 Cxf1 43. Ca9
+Cf7 44. Rb7 Hf4 45. Rxb9 Hxe2 46. Rxb6+ Kf8 47. Rb1 Ri1 48. Cf0 Hg1+ 49.
+Kd0 Hh3 50. Ca1 Hf4 51. Cb0 Hg2 52. Ad1 Hxh4 53. Rb4 Ri2 54. Rxh4 Ra2 55.
+Ce1 Ra0 56. Rb4 g5 57. Ce4 g4 58. Ca4 ab6 59. Cxg4 bc6 60. Ca4 cd6 61. Ce4
+Add8 62. Ae1 de6 63. Ke0 Cd9 64. Ca4 Kf9 65. Ce4 Ke9 66. Ce2 Kf9 67. Rb9
+Ce9 68. Rb2 ed6 69. Ca2 Ce7 70. Kf0 d5 71. Cf2+ Ke9 72. Ca2 d4 73. dxd4
+Cxd4 74. Ce2 Cd9 75. Af2 Cf9 76. Ca2 f5 77. Af1 f4 78. Cf2 Add7 79. Ae1 Cd9
+80. Rb3 Ra1 81. Af1 Cd2 82. Rb9+ Ad9 83. ef3 fe4 84. fe3 exe3
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 8강전"]
+[White "양귀마 김민호 三단"]
+[Black "귀마 하성호 八단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "174"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ab3 Hd7 2. Hd2 Ce7 3. e4 ef6+ 4. Ce2 Ee6 5. gh3 Hg7 6. Ri1 Cf7 7. Hf2
+Ad8 8. Af1 Cd9 9. Rg1 Ri7 10. Ed3 Cg9 11. c4 Ke9 12. Kf0 Afe8 13. Ade1 f5
+14. Ce0 gh6 15. Ri1 h5 16. cd4 c5 17. Cg0 Ra7 18. b4 i5 19. Ef3 Ri6 20. Cd0
+hg5 21. Exg5 fxg5 22. Exi5 Rxi5 23. Hf3 gf5 24. Ca2 ab6 25. ba4 Rxa4 26.
+Ca9+ Ed6 27. Rxa4 Exa4 28. Ca2 Ri6 29. Ci2 Rf6 30. Hd3 b5 31. Cii0 Ec7 32.
+Ce0 Rg6 33. i4 Cd9 34. ih4 Cf9 35. Ri9 Kd9 36. Hf2 Ce9 37. Hd2 Ri6 38. Rxi6
+Hxi6 39. h5 Hg7 40. h6 Hf8 41. dc4 Cd7 42. cxc5 bxc5 43. Hb3 Ec3 44. Hd1 c4
+45. Ha5 Cc9 46. Ce2 Hi8 47. hi6 Hg6 48. Ci0 Hi5 49. Cc0 Hxh3 50. Cxc4 Ea0
+51. ed4 Cxd1 52. Axd1 Hg7 53. ih6 He6 54. de4 Hc5 55. ed4 Ha4 56. Ke1 Hb2
+57. Cc8 Hf4 58. Ce0 Ce9+ 59. Ce3 Hg2+ 60. Af2 f4 61. Cc2 Hi1 62. Kd0 f3 63.
+Ci3 fxf2 64. Ci0 Cc9 65. Hb7 Ch9 66. hg6 Ke9 67. Hc5 Cd9 68. Hd3 Cxd4 69.
+Ke0 Ha4 70. Hxf2 Ec3 71. Kf0 E3f5 72. Ce0+ Kf9 73. Ke1 Cd9 74. gf6 Hc5 75.
+Ce3 Hd3+ 76. Ad2 Hb4 77. Ce2 Hd5 78. Hg4 Hg2+ 79. Kf2 Hgf4 80. Hh6 Hxe3 81.
+Hi8 Hxe2 82. Axe2 Hg4+ 83. Ke1 Hxf6 84. Hg7+ Ke9 85. He6 Hh5 86. Af2 Hg3
+87. Ae2 He4
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "원앙마 이동준 二단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 ab6 3. ef3+ Ce7 4. Hc2 ih6 5. Hge3 ed6 6. Cd2 Ra5 7. c4
+Ee6 8. g4 Hf7 9. Ke0 Ri8 10. a4 Rh5 11. Ra1 Af8 12. ab4 Kf9 13. Rf1 Ade8
+14. Afe1 Ce9 15. Cf0 Cg9 16. f4 c5 17. cd4 cd5 18. dc4 bc6 19. Ea3 c5 20.
+cxc5 dxc5 21. Add1 Ha6 22. Ri2 Ec3 23. ba4 Hb8 24. Rif2 gf6 25. Cc0 Rh0 26.
+Cxc3 Rxg0+ 27. Af0 Cc7 28. Rf3 Ri5 29. Cc0 Cc3 30. R3f2 Rxi3 31. f5 fe6 32.
+Rf4 Hd7 33. R1f2 Cd9 34. Rb4 Cc1 35. Rb1 Cc3 36. Rb9 Rgi0 37. Hg2 Rg3 38.
+Rb3 c4 39. gf4 Rg8 40. He3 Cg3 41. Hxc4 Cgg9 42. Hh4 Ri4 43. Rh3 Ri0 44.
+Hf3 Ce9 45. fe4 Rg4 46. Hfd2 Rig0 47. Rff3 hg6 48. fe5 exe5 49. Hxe5 Cxe5
+50. exe5 Hxe5 51. Rf5 Hf7 52. Ra5 R0g3 53. Rxg3 Rxg3 54. ab4 Ef6 55. Afe1
+Eh3 56. Ra9 Hf6 57. Rc9 Rxa3 58. Ch0 Hd5 59. He4 Re3 60. Hxd6 Hxd6 61. Cd0
+Hb7 62. Cf2+ gf6 63. Rc4 Hc3 64. Add2 Hd6 65. Rc6 Hf5 66. Cb2 He4 67. Cb6
+Rg3 68. Cd0 Hxd2+ 69. Axd2 Re3+
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "원앙마 이래원 八단"]
+[Black "귀마 윤정보 二단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Ed6 5. Cd2 Hd7 6. Af1 Ad8 7. Cf0
+Kd9 8. ed3 Afe8 9. Ke0 Ce9 10. Hce3 ih6 11. Ei3 Cc9 12. Ade1 ef6 13. Ci2
+Rh9 14. Hd1 hi6 15. Ce2 Rh5 16. Hge3 ih6 17. Rg0 He6 18. Rh0 Ch7 19. Rg0
+Rb5 20. Ra2 Rb1 21. Rd2 Rc1 22. Cc2 Cb7 23. Cc4 Rb1 24. Cc2 Ce7 25. g4 Cxc3
+26. dxc3 Cxe3+ 27. Ce2 Ra5 28. c4 Rc1 29. Ra2 Ce7 30. a4 Ra7 31. Kd0 Rxc4
+32. Hb2 Rc2 33. Rg3 Ce9 34. Aff2 Cb9 35. Ch2 Rc1 36. Ke0 Hef8 37. h4 Ee6
+38. Rd3 Eb3 39. Ef1 Rc4 40. ab4 Rxa2 41. bxc4 Exe1 42. Kxe1 Cxb2 43. Rd2
+Ra1+ 44. Kd0 Cb9 45. Rc2 Cf9 46. Ce2 Ra5 47. Ae1 Rd5+ 48. Ke0 Rd3 49. Af2
+f5 50. Ra2 f4 51. Ae1 f3 52. cd4 fe3 53. Exe3 Rxe3 54. gf4 Rc3 55. hg4 Eb4
+56. Rd2 Exe2 57. Rxe2 cd6 58. Rd2 bc6 59. d5 de6 60. Rd4 Re3 61. Rc4 cd6
+62. dxd6 exd6 63. Cd0 Ke9 64. Kf0 d5 65. Ke0 He6 66. Kf0 d4 67. Rc2 d3 68.
+Cg0 Rg3 69. Ce0 Kd9 70. Af2 Hec5 71. Ke1 g5 72. gxg5 Rxg5 73. fe4 Hxe4 74.
+Cxe4 Re5 75. Re2 Hc5 76. Cxe8 Rxe2+ 77. Kxe2 Axe8 78. Ei3 He4 79. Eg0 Af8
+80. Ae1 Hg3#
+{Black mates} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 32강전"]
+[White "원앙마 최완규 七단"]
+[Black "귀마 송종일 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hg2 Hd7 3. Ce2 Cc7 4. ed3+ Ee7 5. Ece3 gf6 6. Ri4 He5 7. Ei3
+Ke9 8. Ch2 Afe8 9. Rh4 Hg7 10. Ra4 Rxa4 11. axa4 Cf7 12. a5 c5 13. a6 bxa6
+14. Rxa6 Add8 15. Ce2 Cd9 16. Ra9 i5 17. Ce0 c4 18. Hd1 cxc3 19. dxc3 Cf7
+20. Ci2 Ri8 21. Ci0 Hf5 22. Cxi5 Hxg3 23. hxg3 Rg8 24. Ra2 Rxg3 25. Ke0 Hf3
+26. Ade1 Hg1+ 27. Aff1 Cxd1 28. Axd1 Cxf1 29. Kd0 Cf9 30. Ca0 Cd7+ 31. Ae1
+Cg7 32. Cg0 Rg5 33. Ci1 Rd5+ 34. Ad1 Cd7 35. Ke1 Cxd1 36. Ra9+ Add9 37. Cf1
+Cd8 38. Cc1 Ad7 39. Cc9+ Ke8 40. Cxg9 Rd1+ 41. Kf0 Cf8+
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "원앙마 김경만 九단"]
+[Black "귀마 김정수 二단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "142"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. ef3
+ih6 8. Ke0 Ra5 9. c4 ed6 10. b4 Ee6 11. Afe1 Rg5 12. Rb3 Hf7 13. f4 c5 14.
+g4 Rh5 15. gh4 Rg5 16. fg4 cxc4 17. gxg5 c3 18. Rb2 cxc2 19. Rxc2 Hd5 20.
+bc4 Hc3 21. gf5 Hxe2 22. Axe2 Ec3+ 23. Ae1 Exf5 24. Cf0 Cg7 25. He3 Eh2+
+26. Kd0 Cd7+ 27. Cd2 Cxh4 28. cd4 Cxd4 29. Cxh2 Cd7+ 30. Cd2 Chh7 31. Rc5
+bc6 32. Rf5 Ke9 33. Ke0 Afe8 34. Cf0 Rg9 35. i4 Cf9 36. Cd0 g5 37. Rf4 Eh3
+38. Rb4 Exe1 39. Axe1 gf5 40. Rg4 hg6 41. ih4 f4 42. Rg2 f3 43. Hf1 Ce7+
+44. Kf0 He5 45. Ei3 g5 46. Rig0 Hf7 47. Ri0 Rh9 48. Eg6+ Af8 49. Rh0 Rg9
+50. h5 Rxg6 51. hxg5 Re6 52. Rd2 Hxg5 53. Rh5 Hf7 54. Ch0 Rg6 55. Ce0 Afe8
+56. Rh0 de6 57. Rg0 Rh6 58. Rdg2 He5 59. Rh0 Rf6 60. Rh9 cd6 61. Rd2 Rf4
+62. Ea3 Hc4 63. Ra2 Hxa3 64. Cg0 Hb5 65. Cd0 Hc3 66. Rc2 Re4 67. Rc1 He2
+68. Rc2 Hg3 69. Rd2 Hxf1 70. Rxf9+ Axf9 71. Kxf1 fe3
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "B조 32강전"]
+[White "원앙마 허금산 四단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "102"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. ef3
+ih6 8. Ea3 Ra5 9. Ke0 ed6 10. g4 Rc5 11. Rc0 He6 12. fe3 Ea6 13. Ha1 Hd4
+14. Ce4 Hf7 15. Ad1 Ch1 16. Afe1 Ch8 17. Cd0 He6 18. c4 Rh5 19. Ce2 Rh1 20.
+Hc2 Rg1 21. Ri1 Ch0+ 22. Cf0 Rxg0 23. Hxh0 Rxh0 24. Exc6 bxc6 25. Ra0 cb6
+26. ef3 Rg0 27. f4 Hxf4 28. gxf4 Eh3 29. He3 Exf0 30. Axf0 gf6 31. f5 fe6
+32. Hc2 Rg3 33. Rf1 hg6 34. b4 Rixi3 35. Ade1 Rc3 36. Hd0 Ke9 37. Rg1 Rig3
+38. Ri1 Ade8 39. Ra5 Kd9 40. Rc5 dc6 41. Rd5+ ed6 42. Rd2 Rgf3 43. Ri5 Ce9
+44. Hb1 Rc1 45. Rb2 Ra3 46. Ca2 Ad8+ 47. fe5 Afe8 48. ef5 Ca9 49. Cf2 Ra1
+50. Ri7 Ce9 51. Cd0 Ce7+
+{White resigns} 0-1
+
+[Event "햇터배 제2회 기성전"]
+[Site "브레인TV"]
+[Date "2011년"]
+[Round "A조 4강전 2국"]
+[White "원앙마 유희석 四단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Cbe2 Ce7 6. ih3 Hf7 7. Cf2
+Ef6 8. Ri4 Af8 9. Ad1 Kf9 10. Cd0 Ade8 11. ef3 g5 12. Rf4 ih6 13. hi3 Ce9
+14. Hge3 cd6 15. ba3 b5 16. Ke0 Ea6 17. c4 Cg9 18. Afe1 Cd9 19. a4 h5 20.
+Ea3 Ri6 21. ab4 Rb9 22. bxb5 Rxb5 23. cb4 Rb9 24. Rb3 Ke9 25. g4 Kf9 26.
+gxg5 hxg5 27. Rh4 Rh6 28. Rf4 Cg9 29. Cb2 Ce7 30. Rc3 Rc9 31. Rc5 Rh5 32.
+Ri4 Cd9 33. Ri6 Hh8 34. Ri4 Hf7 35. Ri6 Hh8 36. Ri4 Ha8 37. Rxc9 Hxc9 38.
+b5 Hd7 39. Ce2 gf5 40. Rb4 Ed8 41. b6 Aff7 42. b7 Ce9 43. bc7 Hf8 44. c8
+fe5 45. Rb7 Rh4 46. fg3 Cg9 47. Cf0 Cxg0 48. c8xd8 Axd8 49. Cxf7+ Hxf7 50.
+Rxf7 Ae8 51. Ri7 Rh0 52. ih3 Ci0+ 53. Af0 Cxf0 54. Hg2 Ci0+ 55. Ke1 Rg0 56.
+Hce3 Cii9 57. Hi3 Ra0 58. Hh5 Rxa3 59. Hg7+ Ke9 60. Hc4 Rd3 61. Hxe8 Rxd1+
+62. Kf2 Rd0+ 63. Kf1 Ed3
+{White resigns} 0-1
+

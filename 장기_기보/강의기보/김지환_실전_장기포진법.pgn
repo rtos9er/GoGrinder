@@ -1,0 +1,2778 @@
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 01 ±Í¸¶ ´ë ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Rc5 9. Ef3 Rf5 10. c4 Rxf3 11. Hd4 Ce4 12. Ch4 Cd7 13. Rb3 Cg7 14.
+Ch1 Cge7 15. Cc1 Rf5 16. gf4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 02 ±Í¸¶ ´ë ±Í¸¶ 2-1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. Hf2 Ef6
+8. Ce0 Hf7 9. Af1 Af8 10. Kf0 Kf9 11. Ef3 Ade8 12. Ade1 Ce9 13. Cg0 ih6 14.
+Rxi9+ Cxi9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 03 ±Í¸¶ ´ë ±Í¸¶ 2-2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "26"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. d4 Rd6
+8. Ef3 e5 9. Cxe5 Rxd4 10. Ce2 Rd5 11. Rb4 i5 12. ab3 Ri6 13. Hf2 c5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 04 ±Í¸¶ ´ë ±Í¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. He3 Ra5 6. a4 Rc5 7. ab4 Ee6
+8. bc4 Rb5 9. Ef3 Hf7 10. Hf2 Af8 11. Af1 Kf9 12. Kf0 Ade8 13. Ade1 Ce9 14.
+Ce0 Cg9 15. Cd2 Exg3 16. hxg3 Cxg3 17. Ra9+ Ad9 18. Hd5 cd6 19. cb4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 05 ±Í¸¶ ´ë ±Í¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "100"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 g5 5. Rb0 Ra5 6. Ee3 Rd5 7. d4 Rc5
+8. c4 Rb5 9. Rxb5 bxb5 10. Exc6 ed6 11. Ef3 dxc6 12. d5 Hf7 13. c5 bxc5 14.
+dxc5 He5 15. cd5 Hd3+ 16. Ke0 Ef6 17. Ri1 i5 18. ab3 Ea6 19. Hb4 Hxb4 20.
+bxb4 Ri6 21. Rc1 He6 22. Rxc6 Hd4 23. Hf2 gf5 24. bc4 Hxe2+ 25. Cxe2 Ec3+
+26. Ke1 Af8 27. Ec5 Kf9 28. He4 fe5 29. Cxe5 ih5 30. Hxc3 Ri1+ 31. Af1 Exh3
+32. gxh3 Cxh3 33. Ce0 Ade8 34. Rc9+ Ce9+ 35. Ce2 Aff7 36. Ae0 Ch8 37. He4
+Ch1+ 38. Kd0 Ch8 39. Aee1 Ri4 40. cd4 Cd8 41. Exe8 Axe8 42. Hf6 Rxd4+ 43.
+Ke0 Kf8 44. Kf0 Rf4 45. Rc6 Rf5 46. Ce0 Ce7 47. de5 Rf3 48. Hxh5 Cxe1 49.
+Rf6+ Rxf6 50. Hxf6 Ce7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 06 ½ÅÆ÷Áø ±Í¸¶ ´ë ±Í¸¶ 1-1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "36"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Rc5 9. Ef3 Rf5 10. c4 Rxf3 11. Hd4 Ce4 12. Ch4 Cd7 13. Rb3 Cb7 14.
+Rc3 Cbe7 15. Cf4 f5 16. Cxf7 Kxf7 17. Rg0 fe5 18. Hxc6 bxc6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 07 ½ÅÆ÷Áø ±Í¸¶ ´ë ±Í¸¶ 1-2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "45"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Af8
+8. Af1 Ra5 9. c4 Rd5 10. Hd4 Kf9 11. Ad1 Ade8 12. Ri1 Ce9 13. ab3 Cg9 14.
+Ef3 Cd7 15. bc3 ih6 16. Rxi9 Cxi9 17. Ri0 Cg9 18. Ch4 Ch7 19. Exh6 gxh6 20.
+Ri8 Cd9 21. Rg8 Ri5 22. Rg7 Ch5 23. Chh2
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 08 ½ÅÆ÷Áø ±Í¸¶ ´ë ±Í¸¶ 1-3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ri3 g5 9. h4 gxg4 10. hxg4 Ef6 11. Ef3 Af8 12. Exc6 bxc6 13. He3 Ra5 14.
+Af1 Kf9 15. Ad1 Cxe3 16. dxe3 Exc3 17. Rai0
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 09 ½ÅÆ÷Áø ±Í¸¶ ´ë ±Í¸¶ 1-4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "41"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Ra6 14.
+Exg6+ fxg6 15. Cxg6 Exc3 16. Cg1 Aff8 17. dxc3 Rf6 18. cd3 Rxf3 19. Cc1
+Rxd3 20. Ci2 He6+ 21. Kf1
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 17 ±Í¸¶ : ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Ra6 14.
+Exg6+ fxg6 15. Cxg6 Exc3 16. Cg1 Ri8 17. Ca1 Rf6 18. ab3 Ra6 19. bxc3
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 18 ±Í¸¶ : ±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 Rb8 12. Cc9+ Ae8 13. Cc6 Exc3 14.
+Cxg6 Aff8 15. Cg1 Ea6 16. Cb1 bc6 17. Ci1 Rxb0 18. Hxb0 ih6 19. Ei5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 19 ±Í¸¶ : ±Í¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Ra8 5. Rb4 Ke9 6. ed3 Ef6 7. Ee3
+Rg8 8. Ef3 Rii8 9. Rc4 Ha8 10. Exc6+ bxc6 11. Rxc6 Rd8 12. de3 Hf7 13. Hf2
+Afe8 14. ab3 Kf9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 20 ±Í¸¶ : ±Í¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "38"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Af8 9. Exc6 bxc6 10. Rb7 Ce5 11. Ca2 Rd5 12. Kf1 Rd8 13. Rb5 Cee7
+14. Ca4 Ke9 15. Cd2 Rc8 16. Rb9 Ae8 17. Ci2 ih6 18. hi3 hi6 19. Cai4 ih6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 21 ±Í¸¶ : ±Í¸¶ 5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Kf8 9. Ch4 g5 10. Cc4 He8 11. gf4 Ce9 12. fe4 Hed6 13. Cf4 gf5 14.
+Cf1 Afe8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 22 ±Í¸¶ : ±Í¸¶ 6"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Rd5 9. Ch4 Exc3 10. dxc3 He6 11. cd3 Rc5 12. Rb2 Af8 13. Ch1 Kf9 14.
+Cd1 Ade8 15. Ef3 Rf5 16. Exc6 bxc6 17. Rb9+ Ce9 18. Cd7+ Ae7 19. Rd9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 23 ±Í¸¶ : ±Í¸¶ 7"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "44"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Rb0 Rd5 9. Ch4 Exc3 10. dxc3 He6 11. cd3 Af8 12. Ch1 Rc5 13. Rb2 Kf9 14.
+Cd1 Ade8 15. Cg1 Ce9 16. Exg6 fxg6 17. Cxg6 Cg9 18. de3 Hed8 19. Cg1 ih6
+20. Rxi9 Cxi9 21. Ef3 Ef6 22. Ch2 h5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 24 ±Í¸¶ : ±Í¸¶ 8"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "16"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 gh6
+8. Ef3 fg6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 25 ±Í¸¶ : ±Í¸¶ 9"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ri3 g5 9. h4 gxg4 10. hxg4 Ef6 11. Ef3 Ra5 12. Rb0 Af8 13. Exc6 bxc6 14.
+Rb7 Ce5 15. He3 Rxa3 16. Hxf5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 26 ±Í¸¶ : ±Í¸¶ 10"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "33"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ri3 g5 9. h4 gxg4 10. hxg4 Ef6 11. Ef3 Af8 12. Exc6 bxc6 13. He3 Ra5 14.
+Af1 Kf9 15. Ad1 Cxe3 16. dxe3 Exc3 17. Rai0
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 27 ±Í¸¶ : ±Í¸¶ 11"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ri3 g5 9. h4 gxg4 10. hxg4 Ef6 11. Rh3 Kf8 12. Rh5 Ra5 13. Exc6 bxc6 14.
+He3 fe5 15. Rg5 Afe8 16. Rg6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 28 ±Í¸¶ : ±Í¸¶ 12"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "54"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ri3 g5 9. h4 gxg4 10. hxg4 Ef6 11. Rh3 Kf8 12. Rh5 Ra5 13. Exc6 bxc6 14.
+He3 Cxe3 15. dxe3 Ce7 16. cd3 i5 17. Rh3 Ei4 18. gh4 Exh4 19. Rxh4 Afe8 20.
+Rc0 Rc5 21. Rxc5 cxc5 22. He4 cd5 23. Hd6 de5 24. Hxf7 Axf7 25. Rh8+ Kf9
+26. Ch9 Ade8 27. Rh6 Ke9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 29 ±Í¸¶ : ±Í¸¶ 13"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "75"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 f5
+8. Ra1 g5 9. h4 gxg4 10. hxg4 i5 11. Ri3 Ef6 12. Rh3 Kd8 13. Ce4 f4 14.
+Cd2+ cd6 15. Ce2 Ri6 16. Cxd6 Ke8 17. Cd1 Hh6 18. Rg3 fxg4 19. Rf3 Hf7 20.
+Rf5 g3 21. Cf1 Af8 22. Rxf6 Rxf6 23. Cxf6 Hd5 24. Cxf8 Kxf8 25. Hg4 ih5 26.
+Rb1 h4 27. d4 Hf4 28. Hf6 Hg2+ 29. Kd2 Cxh0 30. Rxb6 Hxf0 31. Cxe6 Cxd0 32.
+Ke1 Hg2+ 33. Kxd0 Ae8 34. Hh7+ Kf9 35. Ca6 Cxh7 36. Ri6 Rd9 37. Ri9+ Kf8
+38. Ri8+
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 30 ±Í¸¶ : ±Í¸¶ 14"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 gh6
+8. Ch4 Ri8 9. Cc4 Ra7 10. Rb0 Ke9 11. Exc6 bxc6 12. Kf1 c5 13. Ca2 Ha6 14.
+Ci4 Rc8 15. Rb6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 32 ¸é»ó ´ë ±Í¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "54"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ke0 Hd7 5. Afe1 c5 6. c4 Ri5 7. cd4 Ei6
+8. gf3 Rg5 9. Cg2 Ed6 10. Ee2 gf6 11. ih3 Ci7 12. hi3 Cbe7 13. e4 Rh5 14.
+Ee3 Rg5 15. Ri2 h5 16. Hf1 Rf5 17. Eh0 h4 18. fg3 Hh9 19. Rh2 Hf8 20. Rxh4
+Cxi3 21. Add1 Ci7 22. Cf2 Ke9 23. Eh5 Rxf2 24. Cg9+ Ke8 25. Axf2 Hg6 26.
+Cg5 Ci0+ 27. Cg0 Hxh4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 34 ¸é»ó ´ë ±Í¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "50"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Cb2 4. Hd1 Ca7 5. Ha2 Cb8 6. Cxg6 Hf7 7. Ee2
+ed6 8. Cg2 Ce7 9. Hab0 Cb1+ 10. Hb2 Ca7 11. Ha4 Ee6 12. Ca2 b5 13. Ra1 Cg1
+14. Ke0 Cg8 15. ab3 b4 16. bxb4 Exc3+ 17. Hc2 Rb9 18. Rb1 Ce7 19. Ade1 Cb8
+20. bc4 Cxe2+ 21. Kd0 Ci8 22. Rg0 Rxb1 23. Axe2 Rc1 24. Hxc3 Rxc0+ 25. Ke1
+Cd8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 49 ¸é»ó ´ë ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ee6 6. cd3 Ra5 7. Ee2
+Ca7 8. He4 Ri5 9. Rxi5 Cxa0 10. Ri4 Cxc0 11. Cc2 Ca0+ 12. Hd1 Hb9 13. ab3
+ba6 14. bc3 Hd8 15. Cd2 Hf7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 50 ¸é»ó ´ë ±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 ef6+ 5. Ee2 Rb9 6. He4 Ee6 7. cd3
+f5 8. gf3 Ef6 9. hg3 fe5 10. Hc3 Exd3 11. exd3 ef5 12. Ee3 Exc3 13. dxc3
+Hf7 14. Hd1 He6 15. cd3 gf6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 51 ¸é»ó ´ë ±Í¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ke0 Ee6 5. cd3 Hf7 6. Ade1 Cg7 7. g4
+Ca7 8. Ca2 Rc5 9. Hc2 gh6 10. Ri1 Cxh3 11. Hxh3 Eg3+ 12. Kd0 Rxc2 13. Ee2
+Rc4 14. gh4 Ri8 15. Rg1 Ee6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 52 ¸é»ó ´ë ±Í¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ke0 Ee6 5. cd3 Hf7 6. Ade1 Cg7 7. g4
+Ca7 8. Ee2 Ri5 9. Rxi5 Cxa0 10. Rd5 Cxc0 11. He4 Ccc7 12. Cd2 Hbd8 13. Hd1
+ih6 14. h4 Cg7 15. Aff1 Ri0+
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 53 ¸é»ó ´ë ±Í¸¶ 5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ca2 Rb5 5. ab3 Ee6 6. Hd1 Hf7 7. Ee2
+Ce7 8. Cg2 Hd8 9. Ra2 Af8 10. Ke0 Exg3 11. hxg3 Rh5 12. Rh0 ih6 13. Ade1
+Ce9 14. gf3 Ch7 15. Cc2 Kf9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 54 ¸é»ó ´ë ±Í¸¶ 6"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ca2 Rb5 5. ab3 Ee6 6. Ee2 Exc3 7. bxc3
+Rb1+ 8. Ke0 Rc1 9. He4 Rxc0 10. Cc2 Cxb0 11. Ci2 ih6 12. Rxb0 Rxb0 13. Exb0
+Hf7 14. Ee2 Ce7 15. cd3 f5 16. gf3 Ef6 17. hg3 fe5 18. Hc3 Exd3 19. exd3
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 55 ¸é»ó ´ë ±Í¸¶ 7"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ce2+ Kf8 5. ed3 Hf7 6. Ee3 Ee6 7. g4
+Hbd8 8. Ch4 Ce7 9. Cd4 Ke8 10. Hc2 Ce5 11. Cd1 Ri7 12. Ef3 ih6 13. Rxi7
+Cxi7 14. Ke0 Cd7 15. Ade1 Ce7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 56 ±Í¸¶ ´ë ¸é»ó 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra8 3. Ce2 Hf7 4. ed3+ Ee7 5. Ee3 g5 6. Hf2 cd6 7. Ef3
+He5 8. d4 Cc7 9. Ra2 bc6 10. de4 Hg6 11. Exd6 cxd6 12. Cg2 Hf8 13. Cxg5 Ke9
+14. cd3 Afe8 15. Cg0 Cg7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 57 ±Í¸¶ ´ë ¸é»ó 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ra8 3. Ce2 Hf7 4. ed3+ Ee7 5. Ee3 g5 6. Ra1 He5 7. Ke0
+Cc7 8. Cxe5 exe5 9. Eg6 Ri8 10. Rai1 cd6 11. Rxi6 Rxi6 12. Rxi6 Ad8 13.
+Ri8+ Kd9 14. Ca2 Rb8 15. He3 Ade8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 70 Ïû¸¶ : Ïû¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "35"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 gh6
+8. Ch4 Ri8 9. Cc4 Ra7 10. Rb0 Ke9 11. Exc6 bxc6 12. Kf1 c5 13. Ca2 Rb7 14.
+Rxb7 Cxb7 15. Cxc7 Rc8 16. Cg7 c4 17. cxc4 Rxc4 18. He3
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 71 Ïû¸¶ ´ë Ïû¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "31"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 gh6
+8. Ef3 fg6 9. c4 Ra5 10. Hd4 Rd5 11. ab3 Ef6 12. bc3 Af8 13. Rb0 Kf9 14. c5
+Rxc5 15. Hxe6 Rf5 16. Hxc7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 72 Ïû¸¶ ´ë Ïû¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "41"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Ra6 14.
+Exg6+ fxg6 15. Cxg6 Exc3 16. Cg1 Aff8 17. Ca1 Rg6 18. Ci1 ih6 19. Ei5 hi6
+20. Cg2 Re6+ 21. de3
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 73 Ïû¸¶ ´ë Ïû¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "41"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Af8
+8. Af1 Kf9 9. Ch4 Ra5 10. Rb0 Rf5 11. Cc4 He8 12. Exc6 bxc6 13. Rb9 Ae9 14.
+He3 Cxe3 15. dxe3 Exc3 16. Ef3 Rc5 17. Ci4 ih6 18. Cie4 Hc7 19. Rxi9 Hxb9
+20. Rxh9+ Ke8 21. Rxh7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 74 Ïû¸¶ ´ë Ïû¸¶ 5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "41"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Ra6 14.
+Exg6+ fxg6 15. Cxg6 Exc3 16. Cg1 Aff8 17. dxc3 Rf6 18. cd3 Rxf3 19. Cc1
+Rxd3 20. Ci2 He6+ 21. Kf1
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 75 Ïû¸¶ ´ë Ïû¸¶ 6"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "45"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 Rb8 12. Cc9+ Ae8 13. Cc6 Exc3 14.
+Cxg6 Aff8 15. Cg1 Ri8 16. Cb1 bc6 17. Ci1 Rxb0 18. Hxb0 Rg8 19. Ci9+ Aff9
+20. Rxi6 Rxg4 21. Ei5 Rg1+ 22. Af1 Hg9 23. Rh6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 76 Ïû¸¶ ´ë Ïû¸¶ 7"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "43"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Ra6 14.
+Exg6+ fxg6 15. Cxg6 Exc3 16. Cg1 Aff8 17. Cd1 Rf6 18. Ci1 ih6 19. Ei5 hi6
+20. Exf7 Rxf7 21. Cxi9+ Ef6 22. Rxi6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 77 Ïû¸¶ ´ë Ïû¸¶ 8"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "47"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ke9
+8. Ch4 Ra8 9. Cc4 cd6 10. Ef3 d5 11. Rb0 b5 12. Cc9+ Ae8 13. Cc6 Exc3 14.
+Cxg6 Aff8 15. Cc6 f5 16. Rxb5 Ra6 17. Rxd5 Rxc6 18. Rxf5 Rc4 19. ab3 Kf9
+20. bxc3 Rb4 21. Rc5 Rb2 22. cb3 Rb1+ 23. Ke0 Ce9 24. b4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-1 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. d4 Rd6
+8. Ef3 e5 9. Rb4 Hf7 10. de4 gf5 11. exe5 fxe5 12. Rh4 Kf8 13. Hf2 Afe8 14.
+Cxe5 Hxe5 15. Ce2 Af7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-2 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. d4 Rd8
+8. Exc6 bxc6 9. Rb7 Rc8 10. Ch4 ed6 11. Rb5 Hf7 12. Cc4 Ef6 13. Cxc7 Rxc7
+14. Rxg5 Af8 15. Rf5 de6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-3 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 g5 6. Rb0 Af8 7. Rb4 i5
+8. Hf2 Kf9 9. Ca2 Rb9 10. Che2 Ef6 11. Rh4 Ea6 12. Ca5 b5 13. Ca1 cd6 14.
+g4 gxg4 15. Rxg4 bc5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-4 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ef6 5. Ee3 g5 6. Rb0 Ra8 7. Exc6
+bxc6 8. Rb7 Rc8 9. Rb5 Exd3 10. cxd3 Hf7 11. Rb4 i5 12. Rh4 Kf8 13. Hf2
+Afe8 14. g4 gxg4 15. Rxg4 Rd8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-5 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 g5 6. Rb0 Ef6 7. Rb4 i5
+8. Hf2 Af8 9. Rh4 Kf9 10. Ca2 Rb9 11. Che2 Ade8 12. g4 gxg4 13. Rxg4 Ke9
+14. Ef3 i4 15. Eg6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78-6 Ïû¸¶ ´ë Ïû¸¶ 9 º¯È­6"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 Rf5 6. ab3 Hf7 7. Hf2
+Ea6 8. Ra4 Af8 9. Rg4 g5 10. Rgi4 Rf6 11. Ch4 ed6 12. Ch1 d5 13. Cd1 c5 14.
+Cf1 Rc6 15. g4 gxg4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 78 Ïû¸¶ ´ë Ïû¸¶ 9"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "±Í¸¶ "]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. d4 Rd8
+8. Exc6 bxc6 9. Rb7 Rc8 10. Ch4 ed6 11. Rb5 Hf7 12. Cc4 Af8 13. cb3 Ef6 14.
+Cc1 Rd8 15. Ef3 Ha8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 47 ±Í¸¶ ´ë ¾ç±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¾ç±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 gf6 3. ih3 Ce7 4. Hf2 Hf7 5. Ra1 Ra8 6. Ke0 Ke9 7. Rai1
+Rai8 8. Ch4 Rc8 9. Rxi6 Rxi6 10. Rxi6 cb6 11. ed3 Ade8 12. Ee3 Kd9 13. Ade1
+Ce9 14. Ef3 e5 15. Ch0 Ed6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 48 ±Í¸¶ ´ë ¾ç±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¾ç±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. Hc2 Hf7 2. Ce2 cd6 3. Ef3 Ce7 4. ab3 Ra8 5. ih3 Ef6 6. Ra4 g5 7. Rc4 Hd7
+8. Rc5 Exh3 9. Rc4 Ke9 10. Exd6 exd6 11. Rf4 Rf8 12. Rf6 i5 13. gxh3 Afe8
+14. ed3 Add8 15. Ee3 Kd9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 65 ¸é»ó ´ë ¾ç±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¾ç±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Hf2 Ce7 3. Cg2 Hf7 4. Ke0 Ed6 5. Ade1 g5 6. Hd1 e5 7. Ee2 Ce9
+8. gf3 Che7 9. ab3 Ad8 10. Ea3 cb6 11. b4 Ef6 12. hg3 gf5 13. Cd2 Kd9 14.
+Cd0 Cb7 15. bc4 Afe8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 66 ¸é»ó ´ë ¾ç±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¾ç±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. Hd1 Ef6 4. h4 gh6 5. Ee2 ab6 6. g4 e5 7. Cg2 Ed6
+8. Ke0 Hd7 9. Ade1 Ad8 10. Rg0 Kd9 11. Cd2 Afe8 12. Cd0 Ce9 13. Aff1 c5 14.
+Ca2 Rb9 15. Ci2 Rg9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 14 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 b5 5. c4 Hc7 6. Ra1 ed6 7. Ke0 Cd7
+8. Rii1 Af8 9. ab3 Rxa1 10. Rxa1 c5 11. cxc5 bxc5 12. Cb7 He6 13. Ra8+ Ad8
+14. Rc8 d5 15. gf3 Cf9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 15 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "42"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 b5 5. c4 Hc7 6. Hd2 ed6 7. Ad1 Cd7
+8. Ei3 ih6 9. Af1 c5 10. cxc5 bxc5 11. ab3 Ea6 12. Exg6 Rxi0 13. Rxi0 hxg6
+14. Ri7 He6 15. gf3 Ce9 16. Hh4 g5 17. e4 Kd8 18. Cxe6 Exe6 19. Ri8+ Ade8
+20. Exg5 Kd9 21. Ce2 cd5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 16 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "37"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 b5 5. c4 Hc7 6. Hd2 ed6 7. Ad1 Cd7
+8. Ei3 ih6 9. Af1 c5 10. cxc5 bxc5 11. ab3 Ea6 12. Exg6 Rxi0 13. Rxi0 Ei6
+14. Ei3 Af8 15. gf3 Kd8 16. Hf4 Ade8 17. Rc0 d5 18. Hxd5 cxd5 19. Rxc7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 35 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Cf7 5. Ri4 c5 6. Ef3 ef6 7. ed3 cd5
+8. Rc4 Ra7 9. Rc6 Ad8 10. Ra4 Cd9 11. Rac4 Hge6 12. Ed6 Ha8 13. Rc8 Cxd6
+14. Rb8 Cd9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 36 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "29"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Cf7 5. Ri4 c5 6. Ef3 ef6 7. ed3 cd5
+8. Rc4 Ra7 9. Rc6 Ad8 10. Ra4 Cd9 11. Rac4 Ad7 12. Ee3 He6 13. Rg4 Ri8 14.
+Exg6 fxg6 15. Rxg6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 37 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 Hg7 5. Hf2 h5 6. g4 ef6 7. Af1 Cf7
+8. Ea3 ab6 9. Ad1 c5 10. ih3 Rxi0 11. Rxi0 g5 12. gxg5 hxg5 13. Ch7 f5 14.
+Ri9 He6 15. cd3 Ke9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 38 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "28"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Cf7 5. Ri4 c5 6. Ef3 ef6 7. ed3 He6
+8. Rb4 Kf8 9. Rb8+ Afe8 10. Rc8 cd5 11. Ke0 Kf9 12. Ade1 Ke9 13. Ch4 Add8
+14. Ch1 Cd9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 39 ±Í¸¶ ´ë ¿ø¾Ó¸¶ 5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. ih3 Cf7 5. Ri4 c5 6. Ef3 ef6 7. ed3 cd5
+8. Rc4 Ra7 9. Rc6 Ad8 10. Ee3 Ee6 11. Ra4 g5 12. Rac4 Ad7 13. d4 dxd4 14.
+Rxd4 Cd9 15. Rdc4 Hf5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 58 ¸é»ó ´ë ¿ø¾Ó¸¶ "]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 ef6+ 5. Ee2 Ca7 6. ab3 Ea6 7. cd3
+Hg7 8. He4 Che7 9. Cc2 Hge6 10. gf3 f5 11. Ea3 fe5 12. Hg3 c5 13. Ke0 g5
+14. f4 Ke9 15. Ade1 Ade8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 69 ¸é»ó ´ë ¿ø¾Ó¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ef6+ 5. Ade1 Ca7 6. Ca2 Ea6 7. cd3
+Hg7 8. Ee2 Che7 9. He4 Hge6 10. gf3 f5 11. ab3 fe5 12. Hg3 g5 13. f4 Ke9
+14. Ea3 Ade8 15. Hd1 c5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 80 ±Í¸¶ ´ë ¾ç±Í»ó"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hg7 4. Ef3 Af8 5. Hf2 Ke9 6. ed3 gf6 7. Ee3 c5
+8. ih3 Ed7 9. Ri4 Cf7 10. Rg4 Ri7 11. Af1 Cf9 12. Ce0 Ad8 13. Che2 Ef7 14.
+Kf0 Afe8 15. Ade1 ab6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 33 ¾ç±Í¸¶ ´ë ±Í¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "23"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hd2 Ce7 3. e4 ab6 4. Ce2 Hf7 5. Hf2 Ra5 6. cb3 Rc5 7. Ef3
+Rc1+ 8. Ad1 Ef6 9. Ed3 ed6 10. He0 Rc4 11. Exf6 Rc2 12. Kf1
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 45 ¾ç±Í¸¶ ´ë ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 ih6 4. Hf2 Hf7 5. Ed3 ed6 6. cb3 Ee6 7. g4 ab6
+8. Rc0 b5 9. Ef3 c5 10. Af1 d5 11. Ad1 Ra8 12. ih3 Rxi0 13. Rxi0 Rd8 14.
+Kf0 d4 15. exd4 Rxd4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 46 ¾ç±Í¸¶ ´ë ±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. ih3 Ce7 3. e4 ab6 4. Ce2 Hf7 5. Ed3 b5 6. cb3 ed6 7. Rc0 c5
+8. Ef3 d5 9. Hf2 Ra6 10. Af1 Af8 11. Kf0 Kf9 12. Ade1 Ade8 13. Ce0 Ce9 14.
+Ri1 Cg9 15. Ci0 g5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 67 ¾ç±Í¸¶ ´ë ¸é»ó 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 ih6 2. Ce2 Hf7 3. Hd2 Hd8 4. Ef3 Ee7 5. gh3 h5 6. e4 g5 7. Ed3 Cg7
+8. c4 Ke9 9. ab3 Ade8 10. Ad1 Ca7 11. Rb0 Cd7 12. Kd0 Cd9 13. Afe1 Aff8 14.
+Ce0 Ri6 15. Cc0 Caf7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 68 ¾ç±Í¸¶ ´ë ¸é»ó 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 ih6 2. Ce2 Hf7 3. Hf2 Ke9 4. e4 Ade8 5. Ed3 Cg7 6. g4 Hd8 7. Ef3 Ee7
+8. Ce0 h5 9. ih3 Rxi0 10. Cxi0 gf6 11. Ce2 ab6 12. c4 Cd7 13. Af1 Cd9 14.
+cd4 Aff8 15. Kf0 Cb7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 31 ¾ç±Í¸¶ ´ë ¿ø¾Ó¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 Hg7 4. Hf2 ab6 5. Ed3 ef6 6. cb3 Hce6 7. Rc0 c5
+8. Ef3 b5 9. ih3 Ad8 10. Ad1 Cf7 11. Ri4 Cd9 12. Ea1 g5 13. Kd0 Ke9 14.
+Afe1 Ea6 15. Ce0 Ade8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 61 ¾ç±Í¸¶ ´ë ¿ø¾Ó¸¶"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 Hg7 4. Hf2 ab6 5. Ed3 ef6 6. cb3 Hce6 7. Rc0 c5
+8. Ef3 b5 9. ih3 Ad8 10. Ad1 Cf7 11. Kd0 Cd9 12. Ce5 Ke9 13. Ce0 Afe8 14.
+Afe1 f5 15. Rc1 g5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 62 ¾ç±Í¸¶ ´ë ¿ø¾Ó¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hc7 2. Ce2 Ce7 3. e4 Hg7 4. Hf2 ef6 5. ih3 Cf7 6. Ef3 ab6 7. Af1 Ad8
+8. Kf0 Cd9 9. Ade1 f5 10. c4 g5 11. cd4 Hce6 12. Ed3 c5 13. Ce0 Ke9 14. Ra1
+Afe8 15. ab3 Ea6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 63 ¾ç±Í¸¶ ´ë ¿ø¾Ó¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¾ç±Í¸¶"]
+[Black "¿ø¾Ó¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hg7 2. Ce2 Ce7 3. e4 ih6 4. Ef3 h5 5. gh3 g5 6. Ed3 Ri6 7. Hf2 ef6
+8. Rg0 f5 9. c4 ab6 10. Af1 Hc7 11. Ad1 Cd7 12. ab3 Ea6 13. Kf0 Ke9 14.
+Ade1 Afe8 15. Ce0 Cf9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 64 ¿ø¾Ó¸¶ ´ë ¾ç±Í¸¶¸é»ó"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "¾ç±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 Hf8 3. ab3 Ee7 4. ef3 ih6 5. Hg2 cd6 6. Cf2 Ef6 7. Ad1
+Cc7 8. He3 Ke9 9. Cd0 Afe8 10. f4 Ri8 11. g4 Cf7 12. Ke0 Cf9 13. Afe1 Add8
+14. c4 ab6 15. Rxa9+ Cxa9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 10 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "43"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 ef6 5. ed3 Rh9 6. Ri4 Ee6 7. Ege3
+Exg3 8. Exc6 Ra5 9. hxg3 Rh1+ 10. Af1 Ed6 11. Hge3 gh6 12. Cd2 Hh5 13. Rd4
+Hxg3 14. Rxd6 Rxf1+ 15. Ke0 Ri5 16. Rxd9+ Kf8 17. Ae1 Ri0+ 18. Cf0 Hxe2 19.
+Axf1 Hc1+ 20. Kd0 Hxa0 21. Ae1+ Rxf0+ 22. Axf0
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 11 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 1-2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "48"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 ef6 5. ed3 Rh9 6. Ri4 Ee6 7. Ege3
+Exg3 8. Exc6 Ra5 9. hxg3 Rh1+ 10. Af1 Ed6 11. Hge3 gh6 12. Cd2 Hh5 13. Rd4
+Hxg3 14. Rxd6 Rxf1+ 15. Ke0 Ri5 16. Rxd9+ Kf8 17. Ae1 Ri0+ 18. Cf0 Rfxf0+
+19. Axf0 Hxe2 20. Ke1 Rxf0+ 21. Kd1 Rf1+ 22. Kd2 Cb2+ 23. Hb0 Rf0+ 24. Kd1
+Rd0#
+{Black mates} 0-1
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 12 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "27"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 ef6 5. ed3 Rh9 6. Hge3 Ee6 7. Ra1
+Rh5 8. d4 Rb5 9. Kd1 Ce5 10. Ade1 Ci7 11. Rh0 Cd7+ 12. Cd2 Ce7 13. Kd0 Ed6
+14. c4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 13 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 ef6 5. ed3 Rh9 6. Ece3 cd6 7. Cd2
+Ra8 8. Ri4 f5 9. Rc4 Hd7 10. Ke0 Ke9 11. Afe1 Rhh8 12. Cf0 Ee6 13. Add1
+Rhc8 14. Rxc8 Rxc8 15. Cc0 d5
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 40 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 1"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Ef6 5. ef3 g5 6. Cf2 Hf7 7. Ad1 Ch5
+8. He3 cd6 9. c4 Ch8 10. f4 Ca8 11. Ea3 ab6 12. Rc0 Cg8 13. g4 gxg4 14.
+fxg4 Cxg2 15. Hxg2 Rg9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 41 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Ef6 5. ef3 g5 6. Cf2 Hf7 7. Ad1 Ch5
+8. He3 cd6 9. c4 Ch8 10. Cd0 Ca8 11. Ea3 ab6 12. Rc0 Cg8 13. Ke0 Ea6 14.
+Afe1 b5 15. b4 bxb4
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 42 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 3"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. Hc2 Ce7 3. Ce2 Hc7 4. Hg2 ih6 5. Cf2 Ef6 6. ef3 g5 7. Ad1 cd6
+8. Cd0 Cd7 9. c4 Ca7 10. Ea3 ab6 11. Rc0 Ea6 12. Hce3 Cd7 13. Ri1 Ke9 14.
+Ke0 Afe8 15. Afe1 Cf9
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 43 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 4"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hf7 2. Hc2 Ce7 3. Ce2 Hc7 4. ih3 Ef6 5. h4 gh6 6. Hg2 Rg9 7. g4 Cd7
+8. ef3 Ke9 9. f4 Afe8 10. Cf2 Cf9 11. Ad1 Add8 12. Cd0 Cd9 13. Ri1 ab6 14.
+Ea3 Ea6 15. Ke0 cd6
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 44 ¿ø¾Ó¸¶ ´ë ±Í¸¶ 5"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Ef6 5. Cf2 Hf7 6. Ad1 Af8 7. Cd0
+Ce9 8. ef3+ Kf9 9. f4 g5 10. Hce3 Ade8 11. Ke0 cd6 12. Afe1 ab6 13. Ea3 Ea6
+14. c4 Hb9 15. Rc0 Hbd8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 59 ¿ø¾Ó¸¶ ´ë ¸é»ó"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hf7 3. Ce2 Ra8 4. ef3+ Ee7 5. Hg2 cd6 6. Cf2 He5 7. He3
+gf6 8. f4 hg6 9. fe4 Hc6 10. c4 Ke9 11. Ad1 Ade8 12. Cd0 Cd7 13. Ke0 Aff8
+14. Afe1 Cf9 15. g4 Cg7
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 60 ¿ø¾Ó¸¶ ´ë ¸é»ó 2"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hf7 3. Ce2 Ra8 4. ef3+ Ee7 5. Hg2 cd6 6. Cf2 He5 7. He3
+gf6 8. Ad1 Ke9 9. Cd0 Ade8 10. Ke0 Cg7 11. f4 Ca7 12. Ea3 ab6 13. Rc0 Ea6
+14. fe4 Hg6 15. c4 Hd8
+*
+
+[Event "[½ÇÀü Àå±âÆ÷Áø¹ý] 79 ¾ç±Í»ó ´ë ±Í¸¶ "]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "¿ø¾Ó¸¶"]
+[Black "±Í¸¶"]
+[Result "*"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "30"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. Hg2 Ef6 5. Af1 ih6 6. Cf2 Af8 7. Ke0
+cd6 8. Ed2 Kf9 9. Cf0 Ade8 10. Ad1 Cg7 11. ef3 Cg5 12. He3 Cg9 13. Ef2 Cd9
+14. Afe1 Ce7 15. Cc0 ab6
+*
+

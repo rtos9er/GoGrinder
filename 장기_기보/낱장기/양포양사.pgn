@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Variant "janggitraditional"]
+[VariantFamily "janggi"]
+[FEN "9/4k4/9/9/9/9/9/4C4/4AA3/4KC3 w 0 1"]
+[SetUp "1"]
+
+{--------------
+. . . . . . . . .
+. . . . k . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . C . . . .
+. . . . A A . . .
+. . . . K C . . .
+white to play
+--------------}
+1. Aff2 -- 2. Cf3 -- 3. Cf1 -- 4. Kf0 -- 5. Ce0+ Kd7 6. Aee2 -- 7. Ke1 Ke8
+8. Cd1 Ke9 9. Kd2+ Kf9 10. Aee1 -- 11. Cf1#
+{Xboard adjudication: Checkmate} 1-0
+

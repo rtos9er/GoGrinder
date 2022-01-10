@@ -1,0 +1,38 @@
+[Event "제1회 한중 친선 장기대회"]
+[Site ""]
+[Date "2006년"]
+[Round "결승전"]
+[White "귀마 성우제 9단"]
+[Black "귀마 김경중 9단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. g4 Ee6 7. Ch4 Ra5
+8. Ch1 Af8 9. Ca1 Rd5 10. ab3 Kf9 11. Hf2 Ade8 12. Cg1 Ri5 13. Rxi5 ixi5
+14. Ef3 ih5 15. Exg6 fxg6 16. Cxg6 He5 17. Cg1 Hxg4 18. Cd1 Hxf2 19. Kxf2
+Cxh3 20. Ra5 h4 21. He3 Chxe3 22. Ra9+ Ad9 23. Cxd9 Ri6 24. Cd2+ Ke8 25.
+Rc9 Rf6 26. dxe3 Cxe3 27. Rxc7 Rxf3+ 28. Ke1 Rf7 29. Rc8+ Ke9 30. cd3 Ce8
+31. Ra8 Rc7 32. Rd8 Rc9 33. de3 Cxe3 34. Rxf8 Rd9 35. Af1 Re8 36. Rf5 Ce7
+37. Cf0 h3 38. Rg5 Kd9 39. Ke0 hg3 40. Ad1 gf3 41. Rg9+ Re9 42. Cd0+ Ke8
+43. Rg8+ Kf7 44. Cf0 Ce3 45. Cxf3 Eh4 46. Af2 Ke7 47. Rg4 Rf9 48. Re4+ Ce6
+49. Rxe6+ Kd7 50. Re3 cd6 51. Cd3+
+{Black resigns} 1-0
+

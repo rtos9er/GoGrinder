@@ -1,0 +1,351 @@
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "3·4위전"]
+[White "귀마 박영완 二단"]
+[Black "귀마 이남춘 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Kd8 7. Ke0
+Ri5 8. Ri1 Ra8 9. Ed3 Rc5 10. Ria1 Ee6 11. Rxa6 Rxa6 12. Rxa6 Ke8 13. Ra3
+Exc3+ 14. bxc3 cb6 15. Hb2 b5 16. c4 Rc8 17. Cg4 Cxb2 18. Rb3 Rxc4 19. Rxb2
+He6 20. Rxb5 Rc3 21. Rxb9 Rxd3 22. Afe1 Rd5 23. Rb5 Rxb5 24. Exb5 Hd4 25.
+Kf0 Hxb5 26. He3 Hd4 27. Ce0 gf6 28. ih3 hg6 29. Cg1 Hb6 30. Cd1 Hb3 31.
+Cg1 Ke9 32. Hc2 Afe8 33. fe3 Hd5 34. gf3 Add8 35. hg3 Add7 36. Ce2 Cc7 37.
+ed3+ Ae7 38. Cd1 fe6 39. fe3 Hc5 40. Hb4 Hf4 41. gf3 Hh5 42. Cd4 g5 43.
+Add1 g4 44. Cd2 g3 45. Cd0 Cf7+ 46. Ke0 Cd9 47. Add2 gxf3 48. exf3 Hi3 49.
+fe3 Hg2 50. ef3 Hh4 51. fe3 Hg2 52. ef3 He4 53. de3 Hc3 54. ed3 Hd5 55. Ha2
+Hh4 56. de3 Hi2 57. Cxe6 Hxe3 58. Cxe8 Hg1+ 59. Kf0 Hc4 60. Ce2+ Kf9 61.
+Cf2+ Af7 62. Cxf7 Cxd2+ 63. Axd2 Hxf3 64. Ae1 Hg5 65. Hc3 Hxf7 66. Ce0 Hg5
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "준결승전(B조)"]
+[White "귀마 성우제 九단"]
+[Black "귀마 이남춘 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Kd8 7. Cb4
+Ade8 8. c4 Ce9 9. Cb1 Ri5 10. Ci1 Rh5 11. ih3 ab6 12. Rxa9 Cxa9 13. Cd1 Ra5
+14. Ed3 Ra8 15. Ri5 Kd9 16. c5 Ce7 17. cxc6 bxc6 18. Ri4 d5 19. Exg6 hxg6
+20. Rg4 He5 21. Rb4 Ed6 22. He3 c5 23. Rb6 Rd8 24. Ea1 Ke9 25. b4 He6 26.
+bc4 Ea4 27. Ra6 Rd9 28. Rxa4 Rc9 29. cxc5 Hxc5 30. Ra5 Cxe3 31. fxe3 Cd9
+32. Cxd5 Hcd7 33. Cd1 Cxd2 34. Kxd2 Aff8 35. Ke1 gf6 36. gf3 Ee6 37. Cxe5
+Hxe5 38. Rxe5 Rc1 39. Ed3 Eb4 40. Rb5 Exd1 41. Axd1
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "8강전(A조)"]
+[White "귀마 박영완 二단"]
+[Black "귀마 송종일 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ra8 7. Cb4
+cb6 8. Cb1 Ri5 9. Ci1 Ra5 10. Rxa5 axa5 11. ih3 ab5 12. Cd1 Ee6 13. c4 Ad8
+14. Ri5 Hh9 15. Ed3 Rc8 16. Exb6 Hxb6 17. Ch1 Hf8 18. Cb1 d5 19. Cxb5 gf6
+20. Ke0 Rc7 21. Afe1 Kd9 22. g4 Hfd7 23. Cc2 dc5 24. Kf0 Rc8 25. b4 Ade8
+26. Cb0 Ra8 27. cxc5 Cxb4 28. c6 Ha4 29. Rb5 Cb8 30. cd6 Hc3 31. Rb3 Hd5
+32. dxd7 Axd7 33. Rd3 Ra5 34. Hf4 Ce4 35. Rd4 f5 36. Rxe4 Eb4 37. Cf2 fxf4
+38. gxf4 Ee7 39. Re5 Afe8 40. hg3 Cf8 41. fe4 Ra8 42. ed4 Hc7 43. dc4 Cd8
+44. Ce0 Cxd2+ 45. Axd2 Ha6 46. cxb4 Hxb4 47. Rb5 Hd3 48. Rb9+ Kd8 49. A0e1
+Af7 50. Cd0 Ra3 51. Ec6 Rc3 52. Rb8+ Kd9 53. fe3 He5 54. Cd5+ Ae8 55. Cd0+
+Ad7 56. Ade2+ Ae8 57. ed3+ Hd7 58. Rb9+ Kd8
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "8강전(B조)"]
+[White "귀마 이남춘 九단"]
+[Black "귀마 김경중 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. c4 Ra5
+8. a4 Ra8 9. Ad1 Ke9 10. Kd0 Rii8 11. Afe1 ih6 12. Rxi8 Rxi8 13. ab4 Ri5
+14. Ce0 Afe8 15. Cc0 Kf9 16. Hd4 Exb4 17. cxb4 He6 18. Hxe6 fxe6 19. Ef3
+Ef6 20. Ra3 Ce9 21. bc4 cd6 22. Cf0 Af8 23. d4 Ade8 24. Chd2 Cg9 25. g4 Rb5
+26. h4 Cd9 27. Cg2 d5 28. Exg6 dxd4 29. cxd4 hxg6 30. Cxg6 e5 31. Ke0 Rb4
+32. Cd0 Ce7 33. Ce6 ef5 34. de4 fg5 35. Ei1 gxg4 36. Exg4 Rb0 37. Rf3
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "결승 제1국"]
+[White "귀마 김기영 三단"]
+[Black "귀마 성우제 九단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Ri5 9. Rxi5 ixi5 10. ab3 i4 11. Cc4 Hb9 12. Ef3 Hd8 13. Ra5 Ri6 14.
+Ei5 Rh6 15. Cxi4 Cxh3 16. Hxh3 Rxh3 17. Cd4 Rh2 18. Kd2 Eg3 19. Ade1 He6
+20. Ch4 c5 21. Cb4 Hh6 22. Ra8+ Ad8 23. Cb8+ Kd7 24. Ra9 Ade8 25. Ra4 Ri2
+26. gh4 g5 27. Ef3 Hf5 28. Cb4 Ad8 29. Cb2 b5 30. Kd1 Ke8 31. Cd2 Ae9 32.
+hg4 gxg4 33. Rxg4 Ri8 34. Rg9 Rh8 35. Aff1 Aed9 36. Cf0 Ei6 37. Cf2 Hf4 38.
+Rg4 Hd5 39. d4 Hc7 40. cd3 Rh3 41. Rg8+ Ke9 42. Cf0 A9e8 43. Kd0 Kd9 44.
+Ri8 Ef8 45. de4 Hg3 46. Ce0 Cb7 47. Rg8 Cd7+ 48. Cd2 Ed5 49. Rg9+ Ae9 50.
+ed4 Hf5 51. bc3 Ef8 52. Ec6 Ae8 53. Exf8 Rxf3 54. Rxh9 b4 55. Eh5 Rh3 56.
+Ri9 Rxh5 57. Ri3 Rh4 58. de4 Rg4 59. e5 Hg3 60. Ri7 Kd8 61. de3 cd5 62.
+exd5 Hxd5 63. cd3 Hc7 64. Hd4 Rg5 65. Ri6 Rg6 66. He6+ Kd9 67. Hxc7+ Kd8
+68. Rxg6 fxg6 69. Hd5 bc4 70. Hb6
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "준결승전(A조)"]
+[White "귀마 김기영 三단"]
+[Black "원앙마 박영완 二단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "163"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ed3 Hge6 6. ih3 Cd7 7. Ra4
+c5 8. Rh4 Ra8 9. Rh7 Ca7 10. Ri4 Ke9 11. Exc5 Hxc5 12. He3 H5e6 13. d4 i5
+14. Ri1 Rd8 15. c4 Ade8 16. Rh4 Ca4 17. b4 Ca9 18. Ke0 ab6 19. gf3 Ea6 20.
+Rd1 Aff8 21. Hd5 Rd6 22. c5 f5 23. Ee3 Cf9 24. b5 i4 25. Rh7 Aff7 26. Rh8
+Cd9 27. bxb6 Rxb6 28. c6 Rxc6 29. Hxe7 Rc2 30. Hc8+ Kf9 31. de4 Rxe2+ 32.
+Afe1 Rb2 33. Rg8 g5 34. e5 Hd8 35. Rc1 Rb7 36. Rc4 Ke9 37. Hf2 i3 38. hg3
+Aff8 39. Rc5 Cf9 40. Cd2 Cd9 41. Cf0 Ri7 42. exf5 gxf5 43. Hd1 Cf9 44. Rxg9
+Rb8 45. Rxf5 Rxc8 46. Re5 Hce6 47. Eg6 Re7 48. Exi3 Hc6 49. Ri5 Hcd4 50.
+Ra5 Ra7 51. Eg6 Hc6 52. Ra4 Ed4 53. Rxa7 Hxa7 54. Ei3 Rc7 55. He3 Hc6 56.
+Ef5 Rg7 57. Ri9 Ea6 58. Add1 Hcd4 59. Ei7 Rh7 60. Hd5 Ec3 61. Hf6 Re7 62.
+Exf9 Aexf9 63. Ri2 Hc7 64. Rd2 Hcb5 65. Ra2 A9e8 66. Hg4 Aff9 67. Hf6 Rc7
+68. Ra9+ Ad9 69. Hg8+ Af8 70. Hf6 Hc2 71. Ra2 Hd4 72. He4 Afe8 73. Hd2 Ef5
+74. fe3 Re7 75. gf3 Hb4 76. Ra4 Hbc2 77. Rc4 Eh2+ 78. Hf1 Ef5 79. ed3 Hxe1
+80. Axe1 Ei3 81. Rxd4 Exf1 82. Rg4
+{Black resigns} 1-0
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "8강전(B조)"]
+[White "귀마 황문수 九단"]
+[Black "귀마 성우제 九단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "128"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ra5
+8. Ch4 Ri5 9. Rxi5 ixi5 10. Ef3 i4 11. Cc4 Hb9 12. Rb0 Hd8 13. Exc6 bxc6
+14. Rb5 Ri6 15. Ei5 Rh6 16. Cxi4 Cxh3 17. Hxh3 Rxh3 18. ab3 Hh6 19. Cc4
+Hxg4 20. Kd1 cd6 21. Ade1 He5 22. b4 Hxc4 23. bxc4 Exc3 24. He3 He6 25. Rb3
+Hf4 26. Ce4 fe6 27. Eg8 gf6 28. Rb5 Rh5 29. Rxh5 Hxh5 30. Hg4 Ea0 31. Ei5
+f5 32. Ce0 f4 33. Hh6 Ef6 34. d4 Ec3 35. Ch0 Af8 36. Kd0 Ke9 37. Aff1 Ade8
+38. Cc0 fg4 39. Aff2 Ce5 40. Eg8 Ce7 41. Ad1 Ed3 42. Afe1 ef6 43. Cg0 Eg5
+44. de4 Ed7 45. Hi8 de6 46. cd4 Aff7 47. Ei5 gf4 48. exf4 Exf4 49. Cc0 fg6
+50. Ch0 Hf6 51. Eg2 Hg4 52. Cc0 Hi3 53. Ei5 Ea6 54. dc4 Hg4 55. Eg2 Exd1
+56. Ce0 Ea3 57. c5 Ec3 58. Ed4 Exe0 59. Exg6+ Kf9 60. Axe0 ef6 61. Ei9 Ce9
+62. Hg7+ Kf8 63. Hh9+ Kf9 64. Hg7+ Kf8
+{White resigns} 0-1
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "결승 제2국"]
+[White "귀마 성우제 九단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Cbe7 5. Ra1 Ri8 6. Ee3 ef6 7. Ke0
+Ee6 8. Rai1 gh6 9. Ef3 Rg8 10. Exh6 ixh6 11. Ri8 Rxi8 12. Rxi8+ Af8 13. Hf2
+fg6 14. Rg8 Ra5 15. g4 Rf5 16. Ade1 Rf3 17. Exg6 Cxh3 18. de3 Rg3 19. Ed4
+Chxe3 20. Hxe3 Rxe3 21. ab3 Ef6 22. Kd0 cd6 23. Ce0 Rf3 24. Cd2 Hb5 25. cd3
+Exd3 26. b4 Hxd4 27. Cxd4 Ea1 28. Cxd9 Kxd9 29. Rxf8 He5 30. Ra8 Hd3 31.
+Ra7 Ke8 32. Ra3 Hxe1 33. Ra8+ Kd7 34. Axe1 dc6 35. Hd1 Exb4 36. Rxa1 Rd3
+37. gf4 Exd1 38. Axd1 Rf3 39. Ke1 Rxf4 40. Ra9 Rf7 41. Rb9 hg6
+{White resigns} 0-1
+
+[Event "제1회 장기 천하전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "8강전(A조)"]
+[White "원앙마 이양근 九단"]
+[Black "귀마 김기영 三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hc2 Hg7 3. Ce2 Cbe7 4. ab3 Ed6 5. ed3 cb6 6. d4 Exb3 7. cxb3
+Rc9 8. Ra2 Cf7 9. Hg2 gf6 10. b4 Rc3 11. bc4 Ke9 12. Hge3 Ca7 13. Rb2 Cb7
+14. cb4 Afe8 15. Ch4 b5 16. Ch1 bxb4 17. Cc1 Cxb2 18. Cxc3 Cb9 19. Cf3 ab6
+20. d5 Ce7 21. Ri4 Add8 22. Hxb4 i5 23. Rc4 ih5 24. Ei3 Ei6 25. g4 Ch9 26.
+h4 Eg9 27. Cd3 b5 28. Hc2 Cf9 29. Ke0 Ei6 30. Ad1 hxh4 31. gxh4 Ef4 32. Hg2
+Rh9 33. Hce3 Ei6 34. Afe1 Hi8 35. Cd0 Ef8 36. Cg0 Rh7 37. Rg4 Hh6 38. Rg9
+Hf7 39. Ri9 Hb8 40. Ch2 Ri7 41. Rxi7 Cxi7 42. Cg7 Ci0 43. Ea3 Ci9 44. Ce2
+Kd9 45. Cg0 Ha6 46. Cd0 Cd7 47. h5 Ca9 48. Ec0 bc5 49. hg5 Ei6 50. Hh4 Eg9
+51. g6 fxg6 52. Exg6 Hg5 53. Exd8 Kxd8 54. Cg0 Hh3 55. Hg2 cxd5 56. Cxg9 e5
+57. Ee3 Kd9 58. Cg0 Hb8 59. Eg6 Cxd1 60. Axd1 Hf2+ 61. Kd0 Hxg0 62. Ae1 Hc6
+63. Hf3 Cf9 64. Ei3 Hxe1 65. Kxe1 Hb4 66. Eg6 Af8 67. Hd2 d4 68. Hb3 d3 69.
+Ci2 dc3 70. Hc1 e4 71. Ha2 Hxa2 72. Cxa2 cd3
+{White resigns} 0-1
+

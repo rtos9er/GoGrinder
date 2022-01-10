@@ -1,0 +1,1445 @@
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 임웅규 九단"]
+[Black "귀마 박동현 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "55"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 Ci7 5. Ce2 Hd7 6. ef3+ Cbe7 7. Ed3
+Ed6 8. Hg2 cb6 9. Ee3 Rc9 10. Ad1 Ke9 11. Rh0 Rh9 12. Cf2 Ade8 13. Rh4 Cf7
+14. Ke0 Cd9 15. Afe1 Ca9 16. Rb0 Cd9 17. Cd0 Cb9 18. Ra0 Cd9 19. Ch0 Ri9
+20. Ci2 Ei6 21. i4 Ci7 22. Exg6 hxg6 23. Exb6 axb6 24. Rh7 Cxi4 25. Rxg7
+Hf8 26. Ce2 Ci7 27. Rd7 bc6 28. Ra8
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 강창호 七단"]
+[Black "귀마 안동건 八단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. Hf2 Ce7 5. Ef3 ef6 6. g4 Ee6 7. cd3 Hd8
+8. Af1 Kf8 9. Kf0 Afe8 10. Ade1 Ce9 11. Ce0 Ch7 12. a4 Ra7 13. e4 ih6 14.
+Rxi9 Cxi9 15. e5 Eb8 16. d4 Cg9 17. h4 Ca9 18. Ra3 fe6 19. ed5 Ef6 20. Ee3
+Cxa4 21. Exg6 hxg6 22. Cg0 Ca9 23. Rxa7 Cxa7 24. Cxg6 Cg7 25. Cg0 Cc7 26.
+He3 Ce9 27. Hf5 e5 28. dxe5 Cxe5 29. d5 Ce9 30. g5 Ei8 31. g6 He6 32. Ce0
+Hf4 33. Ce4 cd6 34. g7 dxd5 35. gxf7+ Axf7 36. hg4 de5 37. gxf4 exe4 38.
+fxe4 Ef6 39. Ei5 Ade8 40. Cb2 bc6 41. Hg4 Ec4 42. ed4 Exe1 43. Axe1 Kf9 44.
+Ad2 Cg9 45. Exf7 Axf7 46. He5 Ae8 47. Cf2+ Ke9 48. Hxc6 Cd9 49. Ae1 Ee6 50.
+de4 Eg9 51. Hfd4 Ad7 52. Hb5 Ci7 53. Hb8 Cd5 54. Hd6 Ae8 55. Hc8+ Ad8 56.
+Hd6 Ae8 57. Hf5 Ee6 58. Hc6 Ec3 59. Hh6 Af8 60. Hb4
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 황문수 九단"]
+[Black "귀마 김동일 四단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Ri5 3. Ce2 Hd7 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Cb7 8. Ed3 Kd8 9. Rh4 Ee6 10. Rha4 Exc3 11. bxc3 Ra5 12. Rxa5 axa5 13. cb3
+a4 14. Hd2 Ade8 15. Ce0 Ce7 16. Cbe2 Ce9 17. Ra1 d5 18. Ca0 d4 19. Rc1 Ca7
+20. Ea1 Cxa1+ 21. Rxa1 d3 22. Hb1 Ed6 23. bc3 dxc3 24. Hxc3 c5 25. He3 Rb9
+26. Rb1 ab4 27. Af1 Eb3 28. Cf0 Kd9 29. Cd2+ Ad8 30. Ra1 Ae8 31. Hcd5 cxd5
+32. Hxd5 Rb8 33. Ra5 Exd0 34. Kxd0 bc4 35. fe3 Hhf8 36. gf3 Rc8 37. Ra7 cd4
+38. Ra4 dc4 39. Hb6 Rc6 40. Hxc4 He6 41. He5 Rc0+ 42. Ke1 gf6 43. Rc4 Rb0
+44. ih3 Rb7 45. Hg4 Rb1+ 46. Kf0 Rb0+ 47. Ke1 Rb1+ 48. Kf0 Rb6 49. Hxf6 Rd6
+50. Ae1 Hxf6 51. Cxe6 Aed7 52. Ce2 Rb6 53. Rc8 Rd6 54. hg3 Hh5 55. Ke0 Hg7
+56. g4 Hf5 57. gf4 Hh4 58. Rc5 Hi2 59. Re5 Hg1+ 60. Af1 Cc9 61. Ke1 Hi2 62.
+fe4 Hh0 63. ed4 Rc6 64. dc4 Rd6 65. Af2
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 강창호 七단"]
+[Black "귀마 김승래 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Hd2 Ce7 4. Che2 ed6 5. ef3 Ee6 6. Ee3 Ke9 7. Ke0
+Ri8 8. Ri1 Ria8 9. ih3 ab6 10. Rxa8 Rxa8 11. Cb4 Ra9 12. c4 Hf8 13. Afe1 d5
+14. Cf4 Ra0 15. Ed3 c5 16. cxc5 Hxc5 17. Ri7 d4 18. bc3 de4 19. Cf1 Exc3+
+20. Kf0 Ch5 21. f4 exe3 22. Hxe3 Ee6 23. Hd5 Ade8 24. Hxe7 Exe7 25. Ea1 Rb0
+26. Ec4 Ch0 27. Ce0 Ec3 28. Cxb0 Exf1 29. Hxf1 Ch5 30. Ef2 Hfe6 31. Exh5
+hxh5 32. gf3 Hd4 33. hg3 Ec4 34. Ce0 Exe1 35. Rc7 Hde6 36. Rc9+ Ad9 37.
+Rxc5
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "준결승 제1국"]
+[White "귀마 전만황 三단"]
+[Black "귀마 임웅규 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "125"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Rb0 Ee6 7. Ri4 f5
+8. Rc4 Rc9 9. ab3 Ef6 10. Rd4 Ke9 11. Ra0 Ade8 12. Hf2 Aff8 13. Ef3 ih6 14.
+g4 Kf9 15. Ch4 g5 16. Ch1 Ri4 17. Raa4 Ce9 18. Rac4 Eg3 19. Ra4 Cxh3 20.
+Hxh3 Ri3 21. Hg1 Ri1 22. Cf1 Rxg1 23. Ke0 Rg2 24. Ade1 h5 25. Kd0 He6 26.
+Cxe6 Rxc2 27. Ce2 Rc0+ 28. Kd1 Cg9 29. gxg5 hxg5 30. Ad0 Ra9 31. Rxa9+ Cxa9
+32. Ke1 Cg9 33. Cxe8 Rc2 34. Ce2 Ae8 35. Ad1 Ra2 36. Rh4 Cd9 37. Rh3 Cg9
+38. Rh9 Ra4 39. Eh0 Rf4 40. d4 Ei6 41. de4 Rg4 42. Cxf6+ Hd6 43. Cf1+ Ke9
+44. Rh6 Ri4 45. ed4 Kd9 46. d5 Hc8 47. Ad2 Ri1 48. Ef3 Ri3 49. Cd1 Cg3 50.
+dc5+ cd6 51. Exd6 He7 52. Eg8+ Ke9 53. Rh9+ Af9 54. Cxe7 fe5 55. Exe5 Cg9
+56. Eb7+ Ke8 57. Ce2+ Kf7 58. Rh6 Rf3 59. Af1 Eg3 60. Rxb6 Ei0 61. Rg6 Cd9
+62. Rg7+ Kf8 63. Ec6+
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "준결승 제3국"]
+[White "귀마 강창호 七단"]
+[Black "귀마 김응술 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "65"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Ce2 Ce7 4. Hc2 Hf7 5. Ef3 Ef6 6. Ke0 ed6 7. Ade1
+Ee6 8. cd3 gh6 9. Aff1 Rg9 10. Cd2 Exg3 11. hxg3 Rxg3 12. Exd6 Exd3 13. Eg4
+Ef6 14. Ca2 Rc9 15. He4 Rxg4 16. Hxf6 Rg6 17. He4 cd6 18. Cd2 Hb5 19. Ra2
+Cxe3 20. Cxd9 Cee7 21. Cd0 de6 22. Ri4 Rc4 23. Ee3 e5 24. ab3 Cxe4 25. b4
+Rc3 26. Exb5 Hd6 27. Rf4 Ae9 28. Ra8+ Ke7 29. Rxe4 Kf7 30. Cf0+ ef5 31.
+Cf2+ Rf3 32. Rxe9 Rg0+ 33. Cf0
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "결승 제4국"]
+[White "귀마 강창호 七단"]
+[Black "귀마 전만황 三단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Rb0 Hf7 7. Ri4
+Hb9 8. Hf2 Hd8 9. g4 Ra5 10. Ef3 i5 11. Ri1 Rf5 12. Ch4 g5 13. gxg5 Rxf3
+14. c4 Rf4 15. cd4 f5 16. de4 Cxe4 17. Eh1 Cb7 18. Exf4 fxf4 19. Hxe4 Cxb0
+20. Hf6+ Ee7 21. Hxb0 i4 22. Cd4 f3 23. Rf1 Rg9 24. Rxf3 Rxg5 25. Cd2 Ra5
+26. ab3 Rb5 27. d4 Af8 28. Ke0 c5 29. Hd1 bc6 30. Ade1 Hb7 31. Cd0 cd6 32.
+Aff1 Ad8 33. Cf0 Ha5 34. bc3 cd5 35. dxd5 dxd5 36. Hh7 Kd9 37. Hxf8+ Ae8
+38. Rxf7 Rb7 39. Ri7 Axf8 40. Ri9+ Kd8 41. Cd2+ dc5 42. Cd0+ cd5 43. He3+
+de5 44. Hd5+ Rd7 45. Cxd7 exd5 46. Cd0+ dc5 47. cd3+ cd5 48. Cxd5 Ke8 49.
+Cd0 Af9 50. Ri6 Hb3 51. Rxe6 Hc1+ 52. Ad1 Hxd3 53. Cxd3
+{우승: 강창호 七단
+ 준우승: 전만황 三단}
+
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 김승래 九단"]
+[Black "양귀마 이용택 二단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Ed6 2. Hc2 Ad8 3. Ce2 gf6 4. Ef3 ab6 5. Exd6 cxd6 6. Ca2 Rb9 7. Ke0
+Hd7 8. Ce2 Cc7 9. ed3+ Kd9 10. He3 Hf7 11. ab3 Afe8 12. Hf2 Ce7 13. Ra4 fg6
+14. Afe1 Ce9 15. Ch4 Ef6 16. Ch0 Ra9 17. Rg4 gh6 18. d4 Rg9 19. Rxg9 Hxg9
+20. de4 Cbe7 21. ef4 Cc9 22. Hc4 Cf9 23. g4 dc6 24. He3 cd6 25. f5 Ei8 26.
+cd3 bc6 27. g5 Ra5 28. gh5 Ci9 29. Ri1 hg6 30. Rg1 ef6 31. fxf6 g5 32. hxg5
+Rxg5 33. Ch9+ Hh7 34. Rxg5 Exg5 35. Heg4 Hxf6 36. bc3 Ci4 37. Ee3 Cf4 38.
+Cg2 Cf9 39. Cxg5 Af7 40. Cg2 Hh7 41. Ce2 Hg5 42. Ch0 He6 43. Cxe6 dxe6 44.
+Exc6 e5 45. Ad1 Hb8 46. Ee3 ef5 47. hg3 f4 48. Hi3 Afe8 49. Kd0 Hd7 50. Hh5
+Af7 51. Cc0 ih6 52. Hi3 He5 53. Cf0 f3 54. gxf3 Cxf3 55. -- Ade8 56. Cc0
+Cf9 57. Hig4 Hxg4 58. Hxg4 h5 59. He5 hg5 60. Hc6 Cg7 61. Hb8+ Ke9 62. Ec6+
+Ad8 63. Ce0+ Ce7 64. Ee3 gf5 65. Hc6 Ade8 66. Ce2 Cd9 67. Ke0 Kf9 68. Hxe7
+Afxe7 69. Ec6 Cf7
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 김기원 七단"]
+[Black "원앙마 김평곤 初단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "69"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hg7 3. Ce2 Ce7 4. Ef3 Hc7 5. Hf2 ed6 6. gh3 Ke9 7. Rg0
+Ri7 8. Exh6 gxh6 9. Cxh6 Ade8 10. Ke0 Ege6 11. Ade1 Cd7 12. Ci2 Hi6 13. Rg6
+Exc3 14. bxc3 Rf7 15. Af1 Hh8 16. Rg8 Kd9 17. Rxh8 Cd1 18. Ce2 Ee6 19. Rg8
+Cd8 20. Rg4 Exc3 21. Ch0 He6 22. Cd0 Hd4 23. ed3 Hb3 24. Rb0 Cxd3 25. Rxb3
+ab6 26. Rxc3 Cd8 27. Ee3 Ke9 28. Rg9 Cf8 29. Eh5 Rf6 30. He4 Rf4 31. Hxd6
+Rf5 32. Hxf5 Ra5 33. Hxe7 Re5 34. Hg6 Cc8 35. Rf3
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "8강전"]
+[White "귀마 강창호 七단"]
+[Black "원앙마 성우제 九단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ri4 ed6 5. Ed3 Hce6 6. gf3 g5 7. ab3
+Ra7 8. Rb4 Rc7 9. Hd2 ih6 10. hi3 Cf7 11. Rb8+ Ad8 12. Ra4 Ke9 13. Rxd8 Ae8
+14. Rb8 Cd9 15. Ri4 Ei6 16. Ad1 c5 17. Kd0 d5 18. Afe1 d4 19. Ce0 h5 20.
+Hf4 gf5 21. Hxh5 Hxh5 22. Rg4 Hhg7 23. Cg2 Ri7 24. Rg6 f4 25. Cc0 Rd7 26.
+Rh6 fxf3 27. Hxf3 Ri8 28. Hh4 Cd6 29. Hg6 Eg3 30. Rc8 Rd9 31. ef3 Ei6 32.
+Cxg7 Rg8 33. Rh9+ Rg9 34. Rxg9+ Exg9 35. Hxe7 Axe7 36. Rg8 Ed7 37. Cg9 Re8
+38. Rg4 Cd9 39. fe3 Rf8 40. Cg2 Ae8 41. Add2 Rh8 42. Cc2 Eg5 43. Ce2 Rh5
+44. ef3 dxd3 45. cxd3 Exd3 46. fe3 Ea5+ 47. Ke0 cd5 48. bc3 dc5 49. Rg6 Hd8
+50. Rg8 Ee6 51. ed3 Re5 52. Ee3 Rf5 53. Eh5 Rf7 54. Ee3 Rf5 55. Cf0 Exd3
+56. Af2 Exc3+ 57. Ke1 Rd5 58. Rxe8#
+{White mates} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "8강전"]
+[White "맞상 전만황 三단"]
+[Black "맞상 고경석 二단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Hc2 Ce7 3. Ce2 ef6 4. ab3 Ed6 5. Ri4 cb6 6. Rd4 Exb3 7. cxb3
+Rc9 8. Ra2 ih6 9. Ef3 Ee6 10. Hf2 Ri5 11. ed3 Ric5 12. bc3 Rb5 13. Ke0 Hf8
+14. He3 Ke9 15. Hd5 Ce5 16. Exh6 Rcc5 17. Hg4 Rxd5 18. Hxe5 Hxe5 19. Re4
+gxh6 20. Cxh6 Hd7 21. Rd2 Ade8 22. Ch1 Hg6 23. d4 Rf5 24. Rd3 Cc7 25. Ea3
+Cf7 26. Ade1 Rb0+ 27. Rd0 Rxd0+ 28. Kxd0 Rf4 29. Rxf4 Hxf4 30. Ce0 Ca7 31.
+Ed1 Hg6 32. g4 Hi5 33. h4 bc6 34. c4 ab6 35. Ef4 Ce7 36. Ch9+ Af8 37. h5
+Hh7 38. Exh7 Eg3 39. Aff1 f5 40. hg5 fxg5 41. gxg5 c5 42. Ch0 cxc4 43. dxc4
+bc6 44. gf5 c5 45. cd4 cd5 46. de4 Ei6 47. e5 dxe5 48. fxe5 Ce4 49. e6 Hc5
+50. ef6 Hd7 51. fg6 Hc5 52. gh6 Eg3 53. hg6 Ha4 54. Ce2 Hc3 55. Ad2 Hxe2+
+56. Axe2 Ee6 57. gf6 Eb4 58. Afe1 Ae7 59. Cb0 Ce8 60. A2d2 Ce4 61. Cf0 Ae8
+62. Ade2 Ca4 63. fg6 Cg4 64. Ee5 Ed7 65. gf6 Eb4 66. Eb7+ Kd9
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "양귀마 김동일 四단"]
+[Black "귀마 이근수 六단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Ce7 3. e4 ab6 4. Ed3 b5 5. Ce2 ed6 6. Hd2 Ra6 7. cb3 c5
+8. Rc0 d5 9. Ad1 Hf7 10. Kd0 Kf8 11. Cc2 He6 12. Cxc9 Rc6 13. Cxf9 Kxf9 14.
+Cxb5 d4 15. Cf5+ Ke8 16. exd4 Hxd4 17. Cf1 i5 18. Ef3 Ef6 19. Ade1 Ce9 20.
+Cd1 Cd7 21. Ea1 He6 22. g4 i4 23. h4 i3 24. Ed3 Exd3 25. Hxd3 Hd4 26. Hb4
+cb5 27. Cxd4 Rxc0+ 28. Hxc0 bxb4 29. Hd2 bxb3 30. axb3 Ri5 31. bc3 i2 32.
+h5 Ri3 33. gf4 Hd6 34. Rg0 Hb5 35. Cd1 Hxc3 36. Cd3 Ri6 37. fe4 Ad8 38. hi5
+Ri8 39. Rxg6 Rf8 40. Rc6 Hd5 41. Eh6+ Kd9 42. e5 He3 43. e6 Hf5 44. ed6 Rf6
+45. Ef3 Cd5 46. Rc5 He3 47. Rc7 Ke8 48. ih5 Hf5 49. Rc8 Kd9 50. Rc5 He3 51.
+Rc7 Ke8 52. Rc8 Rf4 53. Aff1 ih2 54. hg5 hg2 55. g6 Kf9 56. de6 Ae8 57. gf6
+Cg9 58. Ke0 Ce9 59. Cd0 Cg9 60. Rc3 Hf5 61. Rc7 Hd4 62. Cxd4 Rxd4 63. Eh6+
+Ke9 64. e7 Af8 65. f7
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "원앙마 유희석 五단"]
+[Black "귀마 김영숙 四단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "83"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 ed6 5. ef3 Ee6 6. Hce3 Hf7 7. Cf2
+Ch2 8. g4 Ch8 9. Ci2 Ca8 10. Ea3 Ci8 11. ih3 ab6 12. Cf2 Ra5 13. Rc0 Af8
+14. Ad1 Ke9 15. Cd0 He5 16. hg3 gf6 17. c4 Ade8 18. Ca0 Rb5 19. b4 Hd3+ 20.
+Ad2 Rh5 21. Cd0 He5 22. Ri1 Kf9 23. Ke0 Ce9 24. Afe1 hi6 25. Rf1 Hg6 26.
+Ei3 i5 27. Cf0 i4 28. Eg0 Cg9 29. f4 Ra5 30. Exc6 bxc6 31. f5 fxf5 32. Hxf5
+Hh8 33. Hg7+ Ke9 34. Hxi8 Rh5 35. Cxf8 Kd9 36. Ee3 Cxg3 37. Exc6 Axf8 38.
+Rxf8 Rxi8 39. Kd0 Ri6 40. Ra0 Cg9 41. Ra7 Rd5 42. Re8+
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "원앙마 성우제 九단"]
+[Black "귀마 윤효일 七단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "129"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. ih3 Hd7 3. Hc2 Cbe7 4. Cbe2 Ed6 5. ab3 cb6 6. c4 Rc9 7. bc3
+Ad8 8. ed3 Cf7 9. Hce3 Cd9 10. Ra2 Ke9 11. Cf2 Ade8 12. g4 gf6 13. Ke0 Ci7
+14. Ei3 ih6 15. Rh0 Ce7 16. h4 Aff8 17. Ade1 Ca9 18. Rc2 a5 19. Aff1 ab5
+20. Cf0 bc5 21. cd4 Cd9 22. Ra2 Rc8 23. g5 Ei6 24. hg4 Rh9 25. Ch2 Ri9 26.
+Cc2 Hi8 27. d5 b5 28. dxd6 Cxd6 29. Ra9+ Cd9 30. Ci2 Rh9 31. Cxi6 c4 32.
+Ci2 cxc3 33. dxc3 Hg7 34. c4 h5 35. Ce2 He5 36. Rb9 Ch7 37. Rg0 hxg5 38.
+gxg5 Ce7 39. Rxb5 Hxc4 40. Hxc4 Rxc4 41. He3 Rc1 42. gf5 Hxf5 43. Hxf5 fxf5
+44. Exf5 Rh1 45. Rb9 e5 46. Rg9+ Aff9 47. Ei3 Rh5 48. Ad2 Af8 49. Ef2 Rh0
+50. Eg0 Rh3 51. Afe1 e4 52. Rg7 A8e8 53. Ce5 Rc7 54. Ec4 Rh5 55. Rb5 Rxe5
+56. Rxe5 Rxc4 57. Ei3 Aff8 58. Ef1 ef4 59. Rexe7 Axe7 60. Rxe7+ Ae8 61. Re5
+f3 62. Add1 fg3 63. Add0 Rc3 64. Ei3 Rc6 65. Rg5
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "원앙마 김경만 九단"]
+[Black "귀마 양승태 四단"]
+[Result "1-0"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Ce7 3. Hc2 ih6 4. Cd2 Ed6 5. Af1 ab6 6. Cf0 Ri5 7. ih3
+Rxi0 8. Cxi0 Ra5 9. c4 Hd7 10. Cf0 Rg5 11. a4 Ei6 12. Hd4 gf6 13. ef3 c5
+14. ab4 cd5 15. Hc2 de5 16. Ra3 h5 17. f4 Exg3 18. Rxg3 Rxg3 19. hxg3 Cc7
+20. Ha1 Cf7 21. g4 Ce7 22. He3 Ad8 23. Hac2 Cd9 24. Ke0 Cg9 25. Ei3 hi5 26.
+Afe1 Hh5 27. Ef1 Hg3 28. Add1 Cc9 29. Ea3 Cxc2 30. Hxc2 Hxe2 31. Axe2 ih5
+32. Ade1 Ea8 33. Ca0 Ca7 34. Ca5 f5 35. fxf5 ba6 36. Ca2 exf5 37. Cxa6 e5
+38. Hd4 Ca9 39. Hc2 Ed6 40. Ec6 Hb8 41. Cxd6 Hxc6 42. c5 Hb8 43. Hd4 Ha6
+44. bc4 Ke9 45. Cd0 Afe8 46. He6 Ca4 47. Hg7 Cxg4 48. Hxh5 e4 49. Hg7 fg5
+50. He6 Cxc4 51. cd5 gf5 52. Ei3 Cg4 53. Eg6+ Kf9 54. Cf0+ Af7 55. Hxd8+
+Ke8 56. He6 Hb4 57. d6 Hd5 58. Ei9 fe5 59. A2f2 Ae7 60. Hg7+ Ke9 61. Hh5
+Cd4 62. de6 Ae8 63. Hi7 Kd9 64. Hg8 Cd8 65. Hi7 Hc7 66. Hg6 ed5 67. e7 Axe7
+68. Hxe7+ Ke8 69. Hc6 Ci8 70. Ef7 Cc8 71. Hb4 de5 72. Eh4 Cc4
+{Black resigns} 1-0
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 송종일 九단"]
+[Black "귀마 양승태 四단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ke9 8. Ade1 Afe8 9. g4 Hc7 10. Ch4 Cd7 11. Rb0 Cf9 12. Ca4 Cb7 13. Rc0 c5
+14. Ca0 Rb8 15. Cd0 Add8 16. Aff1 Ce7 17. Ef3 b5 18. Rb0 ih6 19. Rxi9 Cxi9
+20. Exg6+ hxg6 21. Exc5 Cb7 22. Ra0 bxc5 23. ab3 Ce7 24. Ra9+ Rb9 25. Ra4
+Cf9 26. He4 cd5 27. Rc4 Add7 28. g5 Ra9 29. gxg6 Cc9 30. gxf6 Cxc4 31. fxe6
+Cxe4 32. cxc4 de5 33. ed6 Add8 34. d4 Ce7 35. de6 Hxe6 36. Cxe6 Hg5 37. Ce3
+Hxh3 38. Cf0 Ra6 39. Hb4 Rg6 40. bc3 Hi5 41. Kd0 Rg3 42. Ce0 Rxc3 43. Cxe5
+Rd3+ 44. Cd2 Hg4 45. Ce0 Hh2 46. Aff2 Hf3 47. Kd1 Kf9 48. Hc6 Ce9 49. Afe2
+Ef6 50. Kd0 Eh3 51. Cc0 Hxe1 52. Axe1 Exe1
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 김형섭 七단"]
+[Black "귀마 최완규 八단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Exg6 hxg6 7. Rh0
+Rh8 8. Rh4 Ee6 9. Rg4 Hf8 10. Ed3 Ch9 11. Hd2 Rh5 12. ih3 Rc5 13. Ra3 Ra5
+14. Rxa5 axa5 15. He3 Kd8 16. Hf5 Ce5 17. Rc4 Ade8 18. fe3 gf6 19. e4 fxf5
+20. exe5 fxe5 21. Ce0 ed5 22. Eg5 dc5 23. Ri4 Ce9 24. Cbe2 ab5 25. Cg0 Ra1+
+26. Ad1 Kd9 27. Exe8 Axe8 28. Cg8 Hg6 29. Cg5 Rc1 30. cd3 Rc4 31. d4 Ra4
+32. bc3 cd5 33. c4 bc5 34. dxd5 cxd5 35. Cg0 Hgf8 36. Ri9 Ra3 37. Rg9 Re3
+38. Ce0 Rd3 39. Kd0 Ee7 40. Cxe7 Exg3 41. hxg3 Axe7 42. Afe1 Ae8 43. gf3
+He6 44. fe3 Rc3 45. e4 c5 46. cxc5 dxc5 47. e5 Hef8 48. He4 Rc2 49. Add2 c4
+50. Hg3 cd4 51. Hh5 Rc6 52. Hg7 d3 53. Add1 Kd8 54. ef5 de6 55. Ri9 dc3 56.
+Ri4 c2 57. Ra4 Rc8 58. Ra6 c1 59. Aed2 ef6 60. Ae2 Cxe2 61. Ke1 c1xd1+ 62.
+Kxd1
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 박준성 初단"]
+[Black "귀마 전만황 三단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Hf2 Hf7 7. g4 Ra5
+8. Ch4 Rh5 9. ab3 Hb9 10. Ef3 Rf5 11. Ra9 Hd8 12. Cf4 Ce9 13. Ra1 Che7 14.
+Ke0 Af8 15. Rg1 Kf9 16. Afe1 Cg9 17. h4 Ade8 18. Rgi1 gh6 19. Rh1 Ra5 20.
+Ci2 Ci7 21. Kf0 f5 22. Cxf7+ Aexf7 23. Exh6+ Ke9 24. h5 Ef6 25. Rih0 Cc9
+26. Ce2 cd6 27. Hb0 ixh6 28. Ri0 hg6 29. Ri6 Ce7 30. Rxi9+ Cxi9 31. h6 gxh6
+32. Rxh6 Exc3 33. Rxf6 Ee6 34. Hd1 Cb9 35. bc3 fg5 36. Rg6 gf5 37. Rh6 fg5
+38. Rg6 gxg4 39. Rxg4 Cf9 40. Ke0 Ri5 41. Rg0 A7e8 42. Af1 Eh4 43. Hg4 Cc9
+44. Ade1 Rg5 45. Eh1 He6 46. Hde3 Ra5 47. Rg1 bc6 48. Aff2 Cf9 49. Rg2 Ri5
+50. Aff1 Ri1 51. Rg1 Hf4 52. Ce4 de6 53. Hf2 Exf1 54. Axf1 e5 55. Ce1 He2
+56. Heg4 Ri0+ 57. Af0 Hc1+ 58. Kd0 Rxf0+ 59. Kd1 Ha0 60. Ca1 Rc0 61. Cf1
+Hb2+ 62. Kd2 Rc2+ 63. Kd1 Rxf2#
+{Black mates} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 한재우 七단"]
+[Black "귀마 김준호 二단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Ri5 5. ef3 Hd7 6. Ee3 ed6 7. Exg6
+hxg6 8. Rh8+ Af8 9. Rg8 Ce9 10. Rxg9 Ri8 11. Kd1 Cc9 12. He3+ Kd8 13. Rxg7
+Cxg7 14. ih3 ab6 15. Rxa9 Cxa9 16. Cb4 Ade8 17. Ed3 Cb7 18. Hd2 Cf9 19.
+Ade1 b5 20. Cb0 c5 21. c4 cxc4 22. Cxb5 cd4 23. Ea1 Ri5 24. b4 Rc5 25. Kd0
+Rc1 26. Hb3 Rc0+ 27. Kd1 Rc3 28. h4 dc6 29. Af2 cb6 30. Cg2 bxb5 31. bxb5
+Rxb3 32. Cd2 Rxb5 33. Hc2 d3 34. Cg2 Ed6 35. Ec4 Ce7 36. Cxg6 Rc5 37. Cg2
+Rxc4 38. A0e1 Hb6 39. hg4 Cd7 40. Kd0 d2 41. Cxd2 Rxc2 42. Ad1 Ce9 43. Ade1
+Eb3+ 44. Kd1 Rc1+ 45. Kd0
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 공현선 五단"]
+[Black "귀마 김응술 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 gh6 6. Ef3 Ef6 7. Exh6
+Rg9 8. Rxi6 Exh3 9. Hf2 Rxg3 10. Ee4 Cxe4 11. Ri8+ Ke9 12. Hxe4 Rg2+ 13.
+Cf2 Ce7 14. Ri4 Exf0 15. Eh5 Hg5 16. Hxg5 Rxg5 17. Kxf0 Rxh5 18. Ri0 Raa5
+19. He3 ed6 20. Ri7 Ade8 21. Ri0 Ee6 22. a4 Rag5 23. ab4 ba6 24. Ae1 Rg1
+25. Cd0 Eg3 26. Ri3 cb6 27. d4 He6 28. cd3 Cxe3 29. dxe3 Rf5+ 30. Cf2 Rg0+
+31. Kf1 Rxa0 32. Rxg3 Rh5 33. Cf0 Ra1 34. Kf2 Hxd4 35. ed3+ He6 36. Cxf9
+Rf5+ 37. Cf3 Kd9 38. de3 Hg5 39. Rg4 Ra3 40. Ce0 bc6 41. Kf1 Rxe3 42. Cxe3
+Rxf3+ 43. Af2 Rxe3 44. Rxg5
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 조혁해 初단"]
+[Black "귀마 황문수 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Cb4 Ri5 7. Cb1
+Ee6 8. Hd2 Hh9 9. Ci1 Ra5 10. Rxa5 axa5 11. Ed3 ab5 12. c4 Hf8 13. ih3 Ra4
+14. Cd1 Rxc4 15. Ri5 c5 16. Cg1 Ra4 17. Ea1 d5 18. Exb5 de5 19. bc3 cxb5
+20. c4 Ra3 21. He3 gf6 22. h4 hg6 23. hg4 Ad8 24. gf4 Kd9 25. Ce0 Afe8 26.
+cd4 bc5 27. de4 ed5 28. f5 Ec3 29. Ce2 fxf5 30. Rxf5 Ce9 31. Rf4 Ea0 32.
+Hc0 Rb3 33. -- Cc9 34. Hd2 Exd2 35. Kxd2 Rb1 36. Ad1 Rb4 37. Ke1 Cb1+ 38.
+Ke0 Ra4 39. e5 d4 40. e6 Ce9 41. Hc2 Hxe6 42. Ri4 Cc9 43. fe3 gf6 44. Hxd4
+Rxd4 45. Rxd4 Hxd4 46. ed3 Hb3 47. gf3 Hxa1 48. fe3 Hb3 49. Ade1 Cb7
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "귀마 서정만 七단"]
+[Black "귀마 김정수 三단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Rb0 Ee6 7. Hf2
+Kf8 8. g4 Afe8 9. Ch4 Ce9 10. Cc4 Hb9 11. Exg6 fxg6 12. Ci4 ih6 13. Cf4+
+gf6 14. Rxi9 Cxi9 15. Cf1 Ra5 16. h4 Ce9 17. Ef3 hg6 18. c4 Hbd8 19. ab3
+Cb7 20. b4 Kf9 21. Ke0 Af8 22. Afe1 Cc9 23. He3 Cxc4 24. Ch2 Cxb4 25. Cxh9
+Cb9 26. Cb1 Ade8 27. Ch0 Ra1 28. Kf0 Rxb1 29. Rxb1 Cxb1 30. h5 Cc7 31. g5
+gxg5 32. hxg5 Cb9 33. Hd5 Cc0+ 34. Ad1 fg6 35. gxg6 He5 36. Eh6+ Ke9 37.
+gf6 c5 38. He3 Eb8 39. Ce0 Kd9 40. Hf5 Hd7 41. fe6 Ce9 42. ed6 Hf6 43. Hg4
+Hh5 44. Hg7 Hf4 45. Exe8 bc6 46. d7 Hb7 47. d4 Af7 48. Hf6 Hd6 49. Hf9 Hg2+
+50. Kf1 Hf5 51. Hh8 Hg3 52. d8+ Kxd8 53. Hxf7+ Ce7 54. Af2 Ee6 55. de4 Ec3+
+56. Ae2 Hxe2 57. Kf2 Hef0 58. ed4 Hh1+ 59. Ke2 Hf4+ 60. Ke1 cd6 61. Hg4
+de6+ 62. Ce3 Kxe8 63. Hg9+ Kd7 64. Hh7 Hg2+ 65. Hf2 Hxf2 66. Kxf2 Hf4 67.
+Hg5 Ef5 68. Hf3 Cc8 69. Hh4 Ei7 70. Ad2 Ke8 71. Ke1 Eg4+ 72. Ke0 e5 73. Ae1
+cd5 74. dxd5 exd5 75. Hi6
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 최완규 八단"]
+[Black "귀마 임웅규 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ch4 Ef6 6. Ch1 gh6 7. Ca1
+Ea6 8. Hf2 Rc9 9. g4 cd6 10. ab3 b5 11. He3 Ca7 12. Rb0 Che7 13. Ea3 Cd7
+14. Ci1 Rh9 15. Cc1 Exd3 16. cxd3 Hd5 17. bc3 Rxc3 18. dxc3 Hxc3 19. Hc2
+Hxe2 20. Exe2 He5 21. Kf1 Af8 22. Afe1 Cf9 23. Kf0 Ke9 24. Cf1 Ade8 25.
+Rxb5 Ed8 26. Rb3 Rh7 27. Rg0 hg6 28. Hb4 Cd7 29. Ec0 ih6 30. Ri0 Cd9 31.
+Hd3 Hc6 32. Hf4 ef6 33. Ee3 Hd4 34. Rb9 f5 35. Ri9+ Aff9 36. Hg2 gf6 37.
+Rb4 de6 38. Eb1 Hxe2 39. Axe2 Cxe2 40. Hi1 Rc7 41. Ke1 Ce7+ 42. He4 e5 43.
+Cd1 exe4+ 44. Kf0 Rc0 45. Kf1 Rxd0 46. Cg1 fe5 47. Rb9 hg6 48. Hg2 Ea6 49.
+He1 Ec3+ 50. Hd3 Rxd3 51. gf4 Rd1+ 52. Kf0 Rd0#
+{Black mates} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 김기원 七단"]
+[Black "귀마 고경석 二단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Rb0
+Rd5 8. Rb4 Ee6 9. Rg4 Rg5 10. Rc4 c5 11. Ra4 Exg3 12. hxg3 Rxg3 13. Rai4
+gh6 14. Rg4 Rxg4 15. Hxg4 Ri8 16. Ef3 Rg8 17. Hf2 f5 18. Ri4 Rg3 19. Ed6
+Rg6 20. Ea4 Hd5 21. Ce4 Ef6 22. Ri3 Rg2 23. Ce2 Rxh2 24. Rg3 Hf4 25. Rf3
+Ei4 26. Af1 Exf2 27. Axf2 Rh3 28. Rxh3 Cxh3 29. Ce4 fe5 30. Ci4 Hg5 31. Ci8
+e4 32. Kd1 Ch8 33. Ci2 Ch2 34. Hb0 hg6 35. Ci8 ih6 36. Cb8 Ch8 37. Cg8 Hgh3
+38. Ade1 gf6 39. Eh1 Hxf2+ 40. Axf2 Cxh1 41. ab3 Ke9 42. Hc2 f5 43. de3
+Cxe3 44. Hxe3 exe3 45. b4 Hd5 46. c4 cxc4 47. bxc4 Hf6 48. Ed6 bc6 49. Eb9
+Hxg8 50. cd4 f4 51. Kd0 Hf6 52. Ee7 c5 53. Eb9 Ch9 54. Ed6 Ch4 55. Ea8 Hd7
+56. Ed6 Cxd4 57. Ke1 Ade8 58. Ke0 cd5 59. Ea4 Hc5 60. Ed2 Hd3 61. Eg0 f3
+62. Ae1 Cd9 63. Ei3 Hc1+ 64. Kf0 Cf7+ 65. Ef1 e2 66. Axe2 Hxe2+ 67. Ke1 Hg3
+68. Ei3
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 김준호 二단"]
+[Black "귀마 김응술 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "54"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 ed6+ 5. Ade1 Ee6 6. cd3 Ef6 7. g4
+Hf7 8. Cxg6 Exd3 9. Hxd3 d5 10. Cg2 d4 11. Hb2 Ca7 12. Ca2 Rg9 13. Ee2 Rxg4
+14. Chc2 cd6 15. Rxi6 Rg1 16. Ri0 ba6 17. Ha4 Hg5 18. Cf2 Hxh3 19. Ri8+ Ke9
+20. Cd0 Ade8 21. Hc3 Rc9 22. Ri4 Cd7 23. Ci2 Hd5 24. Hxd5 Rxc0 25. Hb4 Ch0+
+26. Af1 Rg0+ 27. Aef0 Rxf0+
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "8강전"]
+[White "귀마 황문수 九단"]
+[Black "귀마 김응술 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ef6 5. Ee3 g5 6. Rb0 Rb9 7. Rb4 i5
+8. g4 Hf7 9. gxg5 Exh3+ 10. Hf2 Hxg5 11. Rg4 Hi4 12. Ri3 Ef6 13. Ef3 Af8
+14. Exi5 Rxi5 15. Eg6 Rh5 16. Rixi4 Rxh2 17. Rih4 Rxh4 18. Rxh4 Ch3 19.
+Hxh3 Exh3+ 20. Rxh3 ef6 21. Ee3 He6 22. Ke0 cd6 23. Afe1 Ea6 24. ab3 Hf4
+25. Rf3 f5 26. Cb2 Rc9 27. Cf2 b5 28. --
+{브레인TV의 해명에 의하면 4252와 황문수 九단이 한 수 쉬는 장면은 편집 과정에서 삭제됐고, 시청자 게시판에는 4252가 김응술 九단의 옷소매에 밀린 이 아니냐는 의혹이 제기됨}
+28... Hxd3 29. cxd3 Rxc2 30. Rxf5 Rc5 31. Rf3 Rd5 32. bc3 Re5 33. Cxf8
+Exc3+ 34. Kf0 Ee6 35. Cf2 Ri5 36. Cf6 Ri0+ 37. Kf1 d5 38. Eg6 Rg0 39. Ei3
+Rg7 40. Cf2 Rg3 41. Rxg3 Exg3 42. de3 de5 43. ef3 Ee6 44. f4 bc5 45. Kf0
+cd5 46. Add1 d4 47. Cd0 de4 48. fg4 ef5 49. Cg0 ef4 50. Ce0 Ce4 51. gh4
+Exh4 52. Eg6 Kf8 53. Ch0 Cg4 54. Cd0 Ke8 55. Cf2 fg5 56. Ei9 f3 57. Cd0 --
+58. Ke0 Ae9 59. Cf0 fe3 60. Af2 ef3 61. Afe1 fe3 62. Add2 Ef7 63. Exf7 Kxf7
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "준결승 제2국"]
+[White "귀마 임웅규 九단"]
+[Black "귀마 전만황 三단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ca2 Ea6 5. Ce2 Hf7 6. Hc2 g5 7. ed3 Ef6
+8. Ef3 Af8 9. Rb0 Rc9 10. Ee3 Ad8 11. Cd2 Kf9 12. Exc6 bxc6 13. Cxd8 Exd3
+14. cxd3 Rd9 15. Rb8 Ae8 16. Cd1 Rxd3 17. Rc8 Rc3 18. Kf1 Rxc2 19. Afe1 Ce9
+20. Ci2 Ed4+ 21. Kf0 ih6 22. Ri1 Rc3 23. a4 Rc4 24. a5 Rc5 25. Ad2 Rc4 26.
+A0e1 cd6 27. Ce2 Rxi1 28. Cxi1 Ch5 29. Cd1 Cxa5 30. Cxe8 He5 31. Hd3 Hxe8
+32. Cf1+ Cf5 33. Rd8 Hxd3 34. Rd7 Rc0+ 35. Ae0 ef6 36. Ed0 Hf2 37. Ae2 Rc1
+38. A0e1 Cxe2 39. Rd9+ Ce9 40. Rxe9+ Kxe9 41. Cf4 Hd3
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "준결승 제1국"]
+[White "귀마 강창호 七단"]
+[Black "귀마 김응술 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Ce2 Ce7 4. Ef3 Ca7 5. Ha2 Hf7 6. Ri4 Che7 7. Cb7
+Ef6 8. Ra1 ed6 9. Exd6 cxd6 10. Rd1 bc6 11. ab3 Ee6 12. Cb1 Cd7 13. cd3
+Rxa2 14. Rd2 Rxd2+ 15. Kxd2 Exd3 16. Rb4 g5 17. exd3 Cxd3 18. Ke1 Cd7 19.
+Rb8+ Ad8 20. Cb7 Hd9 21. Rc8 ih6 22. Ke0 He5 23. He4 gf5 24. gf3 Ri4 25.
+fe3 f4 26. Hc3 Hg4 27. Hd1 Ri2 28. Afe1 Ri0+ 29. Af0 Cxd1 30. Axd1 Hh2 31.
+Ra8 f3 32. exf3 Hxf3 33. Ef2 Hd4 34. Exi0 Hxe2 35. Ade1 Hc1+ 36. Kd0 Hxb3
+37. Cb0 Hd4 38. Ra2 Hf8 39. Aff1 Hg6 40. Cf0 -- 41. Rd2 Hb5 42. Rf2 Af8 43.
+hg3 Hc3 44. Rc2 h5 45. g4 Hd5 46. Rg2 He3 47. Rh2 Hxg4 48. Rxh5 He3 49. Rh2
+Ke9 50. Rb2 Ade8 51. Ef2 Hf4 52. Ec0 Hed5 53. Rc2 Hd3 54. Ea3 H5b4 55. Rd2
+Hc5 56. Cb0 He4 57. Rb2 Hd3 58. Rc2 Hec5 59. Ce0 Hb4 60. Rc4 Hba6 61. Exc6+
+dxc6 62. Cc0 Kd9 63. Rd4+ Ad8 64. Cxc6 Hb3 65. Rd6 Eh4 66. Cf6 Hac5 67. Cf0
+He4 68. Rb6 Ade8 69. Ad1 Hd4 70. Rb9+ Kd8 71. Rc9 Exf1 72. Rc4 He2+ 73. Ae1
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "준결승 제2국"]
+[White "귀마 김응술 九단"]
+[Black "귀마 강창호 七단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ef3
+Rg5 8. Rg0 Hd8 9. ab3 Kf8 10. g4 Rd5 11. Ch4 Cg7 12. Cd4 --
+{강창호 七단이 54漢를 잘못 만져서 한 수 쉼}
+13. Cd1 Rf5 14. c4 Afe8 15. Hd4 Rh5 16. Exg6 fxg6 17. gh4 Cxg0 18. hxh5 Cg9
+19. Ci1 Ci7 20. Hf5 gf6 21. Hd4 Ri8 22. Ra5 Rg8 23. h6 ixh6 24. Ei5 Rg1+
+25. Cf1 hg6 26. Rh5 gh6 27. Rh4 Rg6 28. de3 Ce7 29. Ef3 Rg5 30. Ri4 Kf9 31.
+h4 Cxe3 32. hg4 Rh5 33. gf4 Ce7 34. f5 hg6 35. fxf6 gxf6 36. Ei1 Ke9 37.
+Rg4 Kf9 38. He4 Cge9 39. Rf4 Af8 40. Hxf6 Exf6 41. Rxf6 cd6 42. Hf5 Rh2 43.
+Hxd6 Rxe2+ 44. Kd1 Re3 45. Rf3 Re5 46. cd4 Ch7 47. He4 Cd7+ 48. Ke1 Eh4 49.
+Cxf7+ Hxf7 50. Kf2 Ri5 51. Eg4
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "결승 제1국"]
+[White "귀마 전만황 三단"]
+[Black "귀마 강창호 七단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "184"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Ce7 4. Cbe2 Hf7 5. ed3 ef6 6. Ee3 Ee6 7. g4
+Ra5 8. c4 Hb9 9. Ef3 Hd8 10. Ch4 g5 11. Rg0 gf5 12. Ch1 Ra7 13. Cc1 ih6 14.
+Exh6 Hxh6 15. g5 fxg5 16. Rxg5 Hf7 17. Cf1 Ri4 18. cd4 Ke9 19. a4 Ade8 20.
+Eh5 Ri5 21. He3 cd6 22. Heg4 Ri6 23. Rg8 Ra8 24. Ad1 Kd9 25. Rc0 dc6 26.
+Ra0 Ce9 27. Rg7 Ce7 28. Rg8 Ke9 29. Ad2 Ri1 30. Kd0 Ri0 31. Ae1 Ri6 32. Ce0
+cd6 33. Ad2 b5 34. Afe1 Rc8 35. Rg5 Rc5 36. Rxc5 bxc5 37. ab4 Rg6 38. Ra5
+Rg5 39. bc4 cb5 40. Ra9+ Ad9 41. Cc1 dc6 42. Cf1 Rxh5 43. Cxf6 Exf6 44.
+Hxf6 Rh6 45. Hxh7 Rxh7 46. Cc0 Rh5 47. Ra3 bc5 48. cxc5 Rxc5 49. Cf0 Rh5
+50. de3 Afe8 51. e4 Ch7 52. Cc0 Rc5 53. Cf0 Cd7 54. Ke0 Cf9 55. hg3 Af8 56.
+g4 Ade8 57. Cd0 Ri5 58. gf4 cd6 59. Ra6 Rh5 60. Ade2 Ri5 61. Hg4 Rg5 62.
+Cxd6 Hxd6 63. Rxd6 Rh5 64. Ra6 Aff7 65. Af0 Rc5 66. Aee1 Cd9 67. Ad0 Cg9
+68. Hh6 Cd9 69. Ra9 Rb5 70. Ra3 Cf9 71. Ri3 Cd9 72. f5 Eg9 73. f6 Aff8 74.
+Rg3 Rh5 75. Hg8 Hc6 76. fe6 Hd8 77. Rg6 Rh8 78. dc4 Hxe6 79. Rxe6 Rxg8 80.
+Rh6 Rg3 81. cd4 Re3+ 82. Afe1 Ri3 83. e5 Ei6 84. Rh4 Cf9 85. Af0 Re3+ 86.
+Ade1 Rxe5 87. de4 Ra5 88. Ad0 Eg9 89. Rh6 Ra3 90. Ade1 Re3 91. ed4 Ee6 92.
+Rxe6 Rxe6
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "결승 제2국"]
+[White "귀마 강창호 七단"]
+[Black "귀마 전만황 三단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "152"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Hf7 5. ed3 ef6 6. Ee3 Ee6 7. Rb0
+Kf8 8. g4 Ra5 9. Ch4 Afe8 10. Cc4 Ha8 11. Exg6 fxg6 12. Ci4 Ri5 13. Ef3 Eh4
+14. gxh4 ih6 15. Cf4+ Ef6 16. Rxi5 Rxi5 17. hg4 Rd5 18. Rb4 Hc7 19. de3 Ce9
+20. Ch4 Rc5 21. ab3 Ra5 22. Ra4 Rd5 23. Rd4 Rc5 24. Ke0 Kf9 25. Ade1 Cb9
+26. e4 Ra5 27. ba3 Add8 28. Ra4 Rb5 29. Ra9 ba6 30. ab3 Rf5 31. ef4 Ra5 32.
+fe4 Add9 33. Ra7 Ce9 34. Exh6 gxh6 35. Cf4 hg6 36. hg3 Af8 37. Rb7 ab6 38.
+Rb8 Ade8 39. Ad0 Hd9 40. Rxe8+ Axe8 41. Cf1 Che7 42. gf4 Ec8 43. Afe1 Af8
+44. f5 cd6 45. Cg2 de6 46. Cxg6 Cxe4+ 47. Kf0 e5 48. f6 Exf6 49. Cxf6 Ce7
+50. Cg0 bc6 51. Ce0 Ke8 52. Hg4 ed5 53. Hce3 c5 54. Hf5 Ra6 55. Cf1 Hb8 56.
+Cd1 Hd7 57. Hd6 Ra4 58. Af1 Rf4 59. Ae1 de5 60. Aff2 cd5 61. Cf1 Ra4 62.
+Hf6 Ce3 63. Hxf7 Axf7 64. Hxd7 Kxd7 65. Cxf7 Ce7 66. Cf1 Ri4 67. gf3 Ke8
+68. f4 Ri3 69. fg4 Rg3 70. gf4 Rh3 71. f5 exf5 72. Cxf5 Rf3 73. Cb5 dc5 74.
+Cb1 c4 75. cxc4 Rxb3 76. Cf1 Ri3
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "결승 제3국"]
+[White "귀마 전만황 三단"]
+[Black "귀마 강창호 七단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "126"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Ri4 Ra5 7. Ef3 f5
+8. Rb0 Ef6 9. Exc6 bxc6 10. Rb7 Cxb7 11. Hf2 Cbe7 12. Ce0 Ke9 13. Che2 i5
+14. Rb4 Ra8 15. Ca0 Rd8 16. Ad1 Rii8 17. ab3 ih5 18. Kd0 fe5 19. Afe1 g5
+20. Cf0 Exd3 21. cxd3 Ee6 22. Rc4 Hb9 23. Rxc6 Rc8 24. Rxc8 Rxc8 25. bc3
+Hd8 26. Ha3 ed5 27. c4 Rb8 28. Hc2 Rb3 29. Ce0 Rb2 30. He3 de5 31. d4 Eb8
+32. Hf1 Ade8 33. Hd3 Rb3 34. Hb4 Ee6 35. Ae2 Exb4 36. Hd2 Rd3 37. Cxf7 Axf7
+38. Cxe5 Exd1 39. Kxd1 He6 40. Ae1 Ra3 41. de4 A9e8 42. Ce2 Ra1+ 43. Kd0
+Ra0+ 44. Kd1 Hc7 45. e5 Ce3 46. He4 Cxe5 47. c5 Ra4 48. Ec1 Rd4+ 49. Ad2
+Cd7 50. Ke1 Cd3 51. Hf2 Rc4 52. Ce0 Rxc1+ 53. Kf0 Cd0 54. g4 Rc3 55. gxg5
+Rf3 56. Kf1 hxg5 57. Ae2 Kf9 58. Kf0 Ce9 59. Kf1 Cxe2 60. Ke1 Cxf2 61. Kxe2
+Cf5 62. h4 Rf0 63. Ce5 Cf8
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "귀마 김정수 三단"]
+[Black "원앙마 성우제 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "140"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Rb4 Ri8 9. g4 gf5 10. Rb7 Ci7 11. Ee3 Ke9 12. Rb4 ih6 13. f4 Rf8 14.
+Hd2 fxf4 15. gxf4 d5 16. h4 cd6 17. hg4 d4 18. Ad1 Ei6 19. Rb5 h5 20. Ce5
+Cf7 21. Kd0 Rd8 22. Ce0 Ade8 23. Eg6 dxd3 24. cxd3 d5 25. f5 Cd9 26. Rb4
+Cd6 27. gh4 hxh4 28. Hxh4 Ef4 29. Ce2 Cxd3 30. f6 Hd4 31. Ae1 dc5 32. bc3
+Cxd1 33. Kxd1 Hxe2 34. Cxe2 Ed7 35. Hi6 Kd9 36. Hxg7 Ca7 37. Rab0 Rc8 38.
+He6 Ce7 39. Rf0 Aff8 40. Rf5 cb5 41. Rc4 Rb8 42. cb3 ab6 43. Hc7+ Rc8 44.
+Hd5 Ra1+ 45. Kd0 Ra0+ 46. Kd1 bc5 47. Rc1 Ce9 48. He3 bc6 49. Rf0 Ra4 50.
+Rb0 Ef4 51. Hg2 Rb8 52. Rf0 Ed7 53. He3 Ea6 54. Rf3 Cc9 55. Cb2 Ra8 56. Ri3
+Cf9 57. Ri9 Ef4+ 58. Ce2 Ra7 59. Rc0 Re7 60. Hg2 Re5 61. Kd0 Rf5 62. fe6
+Rg5 63. Hh4 Rg4 64. Rh9 Eh1 65. Hi2 Rg0+ 66. Ce0 Rxg6 67. Rxh1 Cd7+ 68. Ad1
+Rg2 69. ed6 Cxd2+ 70. Axd2 Rxi2
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "양귀마 장상진 四단"]
+[Black "귀마 김경만 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hd2 Hf7 2. Ce2 ih6 3. Hf2 Ke9 4. Ef3 Ef6 5. Ra1 Ade8 6. g4 ed6 7. e4 Ce7
+8. gf4 Ee6 9. cb3 g5 10. Ed3 hg6 11. Af1 Hd8 12. Ra0 d5 13. Exf6 gxf6 14.
+Ad1 Kd9 15. Rag0 f5 16. fxf5 gxf5 17. Rg6 Ce9 18. Kf0 Cb0 19. Ri1 Cb6 20.
+Rgg1 Hg5 21. Ca2 Ra7 22. Hh3 Cg9 23. Rgh1 Cb2 24. Hxg5 fxg5 25. Ch0 Cb9 26.
+Cd0 Aff8 27. Hc4 c5 28. Hd2 Cf9 29. Rh6 Rai7 30. Rg6 Aff7 31. Rxg5 Rxi3 32.
+Rxi3 Rxi3 33. Cxa6 Cxf3+ 34. Hxf3 Rxf3 35. e5 Cc9 36. exd5 cxd5 37. Cxd5+
+Ke9 38. Ca0 Cf9 39. Ae1 Rf5 40. Rxf5 Cxf5+ 41. Ke0 Eb8
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "8강전"]
+[White "원앙마 김경만 九단"]
+[Black "원앙마 임웅규 九단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "176"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 Ad8 5. Hc2 Ke9 6. Cd2 gf6 7. Ke0
+Cd7 8. Ad1 Ef7 9. Cd0 Af8 10. Afe1 Ca7 11. Ea3 Ed7 12. ef3 c5 13. Hge3 Ca5
+14. Rb0 Rb9 15. c4 cxc4 16. Hxc4 Ca9 17. H4e3 Afe8 18. Cf0 a5 19. Cc0 Rb7
+20. Ca2 Hb5 21. b4 Hd6 22. Ci2 ih6 23. Ei3 Rh9 24. Ed5 Rb9 25. Cb2 ab5 26.
+bc4 Cb7 27. c5 bxc5 28. Cxc5 Ce7 29. Cc0 Ea5 30. Ce2 Rxb0 31. Hxb0 Hb5 32.
+Kf0 Hc3 33. Ce0 Cxe3 34. fxe3 Hxd5 35. Eg0 He7 36. Ri4 Cf9 37. Ce2 h5 38.
+ef3 Hf5 39. Ee3 h4 40. Ch0 hxi4 41. Cxh9 Hd4 42. Ce0 Ed7 43. Ci0 e5 44. Cd0
+e4 45. Eg0 fe6 46. Ke0 Ea5 47. Ha2 Hc2 48. Cf0 e5 49. Ca0 Ed7 50. Ch2 Hb4
+51. Hc3 Cc9 52. Af1 Hed5 53. Hb1 Cg9 54. Ed2 e3 55. fxe3 Cb9 56. Ha3 Hxe3
+57. Ade1 Cf9 58. Aff2 Ec5 59. Cf0 Hec2 60. Hc4 Hd4 61. Eg4 Cc9 62. Hd2 Hdc6
+63. Cf4 Hd3 64. Cxi4 Kd9 65. gf3 ed5 66. fe3 Hde5 67. hg3 Ce9 68. Kf0 Hg6
+69. ef3 Hh4 70. gh3 Hg6 71. Hb3 Ha5 72. Hd2 He5 73. fg3 Hg6 74. Ch5 Hc6 75.
+Ch0 de5 76. Hb3 Ef7 77. Cd0 Cc9 78. hi3 Cf9 79. Ke0 Cc9 80. Ci2 e4 81. Ed6
+e3 82. Ci6 Hd4 83. Hc5 Hh4 84. Ca6 Hhf5 85. ih3 Hc2 86. Ce6 Hxd6 87. Ha6
+Cc0 88. Ad2 Hxd0+
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "32강전"]
+[White "원앙마 김재현 二단"]
+[Black "귀마 고경석 二단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. ef3 g5 6. Hce3 cd6 7. Cf2
+Ef6 8. Af1 Af8 9. Ke0 Kf9 10. Ed2 Ade8 11. Ra4 Ce9 12. g4 Rg9 13. gxg5 Rxg5
+14. Ri2 Cd7 15. Ade1 Cg7 16. f4 Rg3 17. Cd0 ab6 18. Rxa9 Cxa9 19. f5 Cd9
+20. Cc2 Ha8 21. Ccf2 Ce7 22. Ea0 Ca9 23. fxf6 exf6 24. Cg0 Rf3 25. Cf0
+Cxa0+ 26. Ea3 Rxf1 27. ih3 Ke9 28. Kd0 Rg1 29. Cc0 Ca4 30. Ri0 Ca9 31. cd3
+Cd9 32. bc3 Ee6 33. Ed1 hg6 34. Cf0 bc6 35. Cd2 Cg7 36. Hi1 Hc7 37. Cc0 Ha6
+38. Ea3 Hb4 39. Cc4 Rg5 40. cb3 Ha6 41. dc3 Ri5 42. Cc1 Ce7 43. Heg2 Rb5
+44. Rf0 Exc3 45. bxc3 Rb0+ 46. Kd1 Rb1 47. Rc0 Hb4 48. Kd0 Ra1 49. cb3 Hd5
+50. Cg1 Ra2 51. Ch2 He3+ 52. Cd1 Hxd1 53. Axd1 Ra1 54. Cd2 Rb1 55. bc3 Rb5
+56. He3 Re5 57. cd3 Cxe3 58. dxe3 Rc5 59. Rxc5 cxc5 60. hg3 f5 61. Ae1 He5
+62. gf3 Hc4 63. Ed1 Hxd2 64. Axd2 Cxd2+ 65. Ke1 Cd7 66. Hg2 g5 67. Eb4 Cf9
+68. Ee2 d5 69. fg3 f4 70. Hi3 c4 71. Hh1 d4 72. Hf2 c3 73. Hh3 gf5 74. Hi5
+Cd9 75. Hg6 d3 76. exd3 cxd3 77. Eb4 fe4 78. gf3 ed4 79. f4 d2+ 80. Ke0 fg5
+81. He5 Ad8 82. Ee6 Afe8 83. Eb8 de2 84. Ee6
+{White resigns} 0-1
+
+[Event "제16회 명인전"]
+[Site "브레인TV"]
+[Date "2013년"]
+[Round "16강전"]
+[White "원앙마 유희석 五단"]
+[Black "귀마 전만황 三단"]
+[Result "0-1"]
+[TimeControl "각 20분, 초읽기 40초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "86"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. ef3 ed6 6. Hce3 Rb9 7. Ke0
+Rb5 8. g4 He6 9. Ra4 a5 10. Ra2 Hd4 11. Ce4 Ri8 12. Ade1 g5 13. gf4 Rg8 14.
+b4 Rb6 15. c4 He6 16. Rxa5 Ra6 17. Rxa6 Exa6 18. Ea3 gf5 19. fxf5 Rxg2 20.
+Cf2 Ke9 21. Ce2 Ade8 22. Exc6+ Ed8 23. b5 Rg4 24. Cxe6 dxe6 25. f4 Rg3 26.
+Cd0 ed6 27. c5 Rg6 28. b6 Re6 29. Ri2 Cxe3+ 30. Exe3 Rxe3 31. Af1 Rc3 32.
+Ra2 Rxc5 33. Ra9+ Ad9 34. Rc9 Rc0 35. Kf0 Ae8 36. Aff2 Cd7 37. ih3 Rc4 38.
+fe4 dxc6 39. bxc6 Rxe4 40. Ch0 Cf9 41. Ce0 Cxf5+ 42. Af1 Ee7 43. c7 Re2
+{White resigns} 0-1
+

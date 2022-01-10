@@ -1,0 +1,275 @@
+[Event "[햇터명국선] 주간경향배 제3회 패왕전"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 송종일"]
+[Black "귀마 김민수"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 cd6 5. Ee3 g5 6. Rb0 b5 7. Hf2 d5
+8. Rb1 e5 9. Ke0 Ra6 10. Rg1 Hf7 11. g4 gf5 12. Ade1 Rc6 13. Ch4 Ea6 14.
+ab3 bc5 15. Aff1 Ca7 16. g5 Che7 17. g6 fg5 18. gf6 Exf6 19. Rxg5 Af8 20.
+Rg4 Exd3 21. cxd3 ef5 22. Kf0 Kf9 23. Ef3 fg5 24. Rf4 Ade8 25. Ch0 Rg9 26.
+Cc0 gh5 27. Hb4 cb5 28. dc3 Rd6 29. Rxf7 Afxf7 30. Exd6 bxb4 31. bxb4 dc5
+32. Rxi6 Ce9 33. cd3 Hd5 34. d4 Hf4 35. Rf6 Rg7 36. Rxf4 Cxe3 37. Rf5 hg5
+38. Rxc5 Rg6 39. He4 g4 40. Exg4 Rxg4 41. Ke0 Afe7 42. hg3 Rg6 43. Cf0+ Cf7
+44. gf3 Ci3 45. f4 Ri6 46. f5 Cf4 47. f6 Ci9 48. fe6 A7f7 49. d5 Ce9 50. d6
+Cf8 51. Hg5 Ri7 52. Hxf7 Axf7 53. d7 Ri6 54. e7 Axe7 55. dxe7
+{Black resigns} 1-0
+
+[Event "[햇터명국선] 제1회 KBS 장기 고수전"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 이일훈"]
+[Black "귀마 이남춘"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Ce7 3. Cg2 Rb9 4. Ke0 Rb1 5. Ade1 ef6 6. Cc2 ab6 7. Cc4
+Ca7 8. Ca2 Ha8 9. ab3 Ea6 10. Ea3 Hf7 11. Hbd1 Ce7 12. Rc0 f5 13. Ee2 Cxe2+
+14. Axe2 Rxd1 15. Aee1 Rb1 16. Cc1 Ci7 17. Ci1 Hc7 18. Cg2 Kf8 19. Rg0
+Exc3+ 20. Rxc3 Rb0+ 21. Ad0 ih6 22. Ae1 He6 23. Exc6+ Ce7 24. Rg1 Hd4 25.
+Rd3 Hxc6 26. Rxd9 Rxb3 27. e4 Ef6 28. Ce2 Ri4 29. g4 Rf3 30. hg3 Re3 31.
+Kf0 Ec4 32. Ce0 Ra3 33. Cf1 Ri5 34. Cxf5+ Rxf5 35. Ri1 hi6 36. Rxi6 Hh6 37.
+Ri9 Ae8 38. Rdh9 Exe1 39. Axe1 Ra1 40. ef4 He5 41. Rh8+ Kf7 42. Ri7+ Cxi7
+43. fxf5 Ce7 44. Cxe5 Ra3 45. f6+ gxf6 46. Rxh6 Kf8 47. Rxf6+ Af7 48. Rxb6
+Rxg3 49. Ce0 Ri3 50. gf4 Rf3 51. fe4 Ae8 52. Rb2 Ce9 53. ed4 Rf5 54. Rd2
+Kf9 55. d5 Cg9 56. de5 Rf7 57. e6 Cd9 58. Re2 Ke9 59. ef6 Kf9
+{Black resigns} 1-0
+
+[Event "[햇터명국선] 제1회 대한홍삼배 엠게임 프로리그"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 신대순"]
+[Black "귀마 황문수"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Afe1 Ad8 9. Kf0 Ce5 10. Ci2 Cf7+ 11. Cbf2 Rh5 12. ih3 Ce7 13. Ra4
+Ke9 14. Ri1 Afe8 15. Ci0 Cd9 16. Ee2 Ra5 17. Rc4 ab6 18. Exg6 hxg6 19. Rg4
+Hh9 20. Rxg6 Hf8 21. Rg5 d5 22. g4 de5 23. gf4 Ed6 24. hg3 Exb3 25. cxb3 c5
+26. Ri6 cd5 27. bc3 d4 28. fe3 Eb4 29. c4 dxc4 30. Hxc4 Rc9 31. Exb4 Rxc4
+32. Exd7 Rb5 33. ef3 Adxd7 34. Ce0 Rc2 35. Rxe5 Rxe5 36. Cxe5 Cxd0 37. Rd6
+Cg0 38. Rxb6 Cc0 39. Ce0 Cc9 40. f5 Cf9 41. f6 Cd9 42. Rb9 Hh7 43. Hi3 Hg5
+44. Hg4 Add8 45. He3 Rc5 46. Hf5 Hi4 47. fg6 Add7 48. Hxe7 Adxe7 49. Rb4
+Hg5 50. gf6 Cf9 51. fe6 A7d7 52. g4 Hi4 53. ed6 Ade7 54. Rf4 Cd9 55. de6
+A7d7 56. Af1 Re5 57. Ae1 Rc5 58. ef6 Ade7 59. Re4 Hh2 60. f4 Rc7 61. Re3
+Hi4 62. fg6 Rc4 63. Ri3 Hg5 64. Ri5 Cf9 65. Rxg5 Kd9 66. Rd5+ A7d7 67. g7
+Add8 68. Re5 Rc2 69. Cf7+ Ke9 70. g8 Rc7 71. Cf2 Cd9 72. g8f8 Rd7 73.
+f8xe8+ Axe8 74. Rxe8+ Rxe8 75. f5
+{Black resigns} 1-0
+
+[Event "[햇터명국선] 주간경향배 제3회 패왕전"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 신대순"]
+[Black "귀마 김경만"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "114"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. ab3 Ce7 3. Ra4 Hf7 4. Hc2 Ef6 5. Ef3 gh6 6. Exh6 Exh3 7. Rg4
+ab6 8. Ce2 Ef6 9. Ee4 Ha6 10. Hf2 Ke9 11. ed3 Ri8 12. Ee3 Raa8 13. gh3 b5
+14. Ch4 bc5 15. Cf4 Ade8 16. Rg6 Exh3 17. Rgxi6 Rxi6 18. Rxi6 Cxe4 19. Hxh3
+Ca7 20. d4 Ce7 21. Eh5 Hc7 22. Exe7 Cxe7 23. Kf1 Ad9 24. Hf2 Rg8 25. Ke1
+Rg3 26. Cf1 Ade8 27. Cc1 ed6 28. Ke0 He6 29. de4 Hfg5 30. Rf6 Hxe4 31. Hxe4
+Cxe4 32. Ade1 Ce7 33. Kd0 Hd4 34. Ha1 Ea6 35. Rf4 Hxe2 36. Axe2 Exc3 37.
+bxc3 Rxc3 38. Rf1 Re3 39. Ad2 c4 40. Afe1 Ra3 41. Hc2 Ra0+ 42. Kd1 Rc0 43.
+Cxc4 Rxc2 44. Rf4 de6 45. Ch4 cd6 46. Ce4 Rc4 47. Rh4 Af7 48. Kd0 Rd4 49.
+Rf4 A9f8 50. Rh4 Ke8 51. Kd1 e5 52. Rh5 Rxe4 53. Rh6 Rd4 54. Rh5 Ce9 55.
+Rh9 Af9 56. Rh7 A7f8 57. Rg7 Kd9
+{White resigns} 0-1
+
+[Event "[햇터명국선] 제1회 KBS 장기 고수전"]
+[Site ""]
+[Date ""]
+[Round "8강전 제1국"]
+[White "귀마 김승래"]
+[Black "귀마 남상은"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Ri5 5. Rh4 Hd7 6. ef3 ed6 7. Ee3
+Ee6 8. Rha4 a5 9. R4a3 Rc5 10. Hd2 Ad8 11. c4 Rd5 12. g4 Rf5 13. Hf4 Ri5
+14. ih3 gf6 15. Hd3 Kd9 16. Cb4 Ch7 17. hg3 Cbe7 18. R3a1 Ri1+ 19. Ke0 Rxa1
+20. Rxa1 Afe8 21. c5 cb6 22. gf4 d5 23. cxd5 Exb4 24. bxb4 Ch0+ 25. Ae1 Ch9
+26. fe4 Ke9 27. e5 Cd9 28. Add1 ab5 29. Rxa9 Cxa9 30. bxb5 bxb5 31. Cb2 Cb7
+32. Eg0 f5 33. exf5 Hxf5 34. f4 Hg7 35. Ee3 Cd9 36. g4 Af8 37. g5 Ade8 38.
+He5 b4 39. Hxd7+ Axd7 40. de5 Afe8 41. g6 hxg6 42. Exg6 Cg9 43. Ei3 Hh5 44.
+f5 Hxi3 45. Ed3 Cd9 46. Eg5 Hg4 47. Ce2 Ce7 48. Ce6 Ed6 49. Ce4 Kf9 50. e6
+Ce9 51. Exe8 Cxe6 52. Eh6+ Hxh6 53. fe5 Cb6 54. Ce6 Eb3 55. Hf3 Hf7 56. ef5
+Ae8 57. f6 Hd8 58. Ci6 bc4
+{White resigns} 0-1
+
+[Event "[햇터명국선] 주간경향배 제3회 패왕전"]
+[Site ""]
+[Date ""]
+[Round ""]
+[White "귀마 안성택"]
+[Black "귀마 최성우"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Ra5 3. Cg2 ef6 4. Ca2 Rf5 5. Ce2+ Ee6 6. ab3 Hc7 7. Ea3
+Ce7 8. Hd1 Hf7 9. Rc0 Hb9 10. cd3 Hd8 11. Rc2 Rb5 12. bc3 Rg5 13. g4 Ri5
+14. Rxi5 ixi5 15. Ef3 i4 16. Cd2 Af8 17. c4 i3 18. hxi3 Rxi3 19. c5 cxc5
+20. Rxc5 Kf9 21. Af1 Ade8 22. Cxd8 Axd8 23. Rc9+ Ke8 24. Rxh9 Af9 25. Hc3
+Ri7 26. Hd5 Ce9 27. Rxh7 Rxh7 28. Hxb6 Af8 29. Ed5 Kf9 30. Exf8 Kxf8 31.
+Hd5 Rh5 32. Hf4 Ae8 33. Hxg6+ fxg6 34. Cxe6 He5 35. gf4 Rh4 36. f5 Hc4 37.
+Ce2 Rf4 38. Kf0 Rxf5 39. Ade1 g5 40. Ce0 g4 41. Eh6 gh4 42. Exe8 Kxe8 43.
+ef3+ Ce7 44. de3 hg4 45. Hd3 gf4 46. fxf4 Rxf4 47. e4 Rg4 48. Hf2 He3 49.
+Ae2 Hg2+ 50. Ke1 Rxe4 51. Kd1 Rc4 52. Afe1 Hf4 53. A2d2 Rc0 54. He4 Rc6 55.
+Kd0
+{White resigns} 0-1
+
+[Event "[햇터명국선] 제1회 KBS장기왕전"]
+[Site "KBS"]
+[Date ""]
+[Round ""]
+[White "귀마 송종일"]
+[Black "귀마 박계도"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Hd2 Ce7 4. Che2 gf6 5. Rh0 h5 6. Ke0 Ri8 7. c4 Hd7
+8. Rh1 Ke9 9. Ce4 e5 10. Cee2 c5 11. cxc5 Hxc5 12. Cxe5 Ed6 13. Hc4 Ee6 14.
+ih3 f5 15. Ce2 Rd8 16. Rd1 Rc9 17. b4 Rc7 18. Ra3 Eb9 19. Rxd8 Axd8 20. Ed3
+Hd7 21. Rxa6 Exb4 22. Hd2 Hc5 23. Ra9 Rc9 24. Afe1 Ed7 25. Ra8 Afe8 26. gf3
+Ed6 27. Ra3 Ha4 28. Ef6 Kd9 29. Hc4 Hc5 30. Rc3 Exf3 31. exf3 He4 32. Ra3
+Hxf6 33. Hd6 Rc6 34. He4 fe5 35. Hc3 Ce9 36. Ee3 e4 37. Eb5 ed4 38. Exd8
+Axd8 39. Rb3 Cf7 40. Hb5 dc4 41. Re3 Hd5 42. Re5 Hc3 43. Hxc3 cxc3 44. fe3
+Cc9 45. Re7 Rf6 46. Ce5 Hf5 47. Add1 Hh6 48. Ce2 c2 49. Re5 cxb2 50. Rxh5
+Hf5 51. e4 Eb4 52. Ch2 Ce9 53. e5 He3 54. Cd2+ Ed7 55. Rh8 Hd5 56. Cd0 Hc3
+57. Cd2 Rd6 58. Kf0 He4 59. He3 Hg5 60. Hd5 Hf3+ 61. Ke0 Hxd2 62. Axd2
+{White resigns} 0-1
+

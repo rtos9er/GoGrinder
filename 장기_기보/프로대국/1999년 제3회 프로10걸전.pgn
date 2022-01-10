@@ -1,0 +1,388 @@
+[Event "제3회 프로10걸전 "]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 박계도 六단"]
+[Black "귀마 김경중 七단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. ih3 Ce7 4. Ce2 Hg7 5. Ed3 Ra8 6. Ra4 Cf7 7. ef3
+gf6 8. Ee3 cb6 9. Rg4 Hf5 10. Exf6 Rc8 11. Cxe6 Exb3 12. Ce2 Rxc3 13. Hd2
+Hc5 14. Ke0 Ad8 15. Afe1 Cd9 16. Rg8+ Af8 17. f4 Hh6 18. Rg6 Cd6 19. Ec4
+Ee6 20. Cxe6 Hxe6 21. Rxe6 Rc2 22. Cb4 bc6 23. Ce4 Cxd0 24. Rxe7+ Kf9 25.
+Axd0 Rxd2 26. Ae1 Ra2 27. Kf0 Ra0+ 28. Ae0 Ra2 29. Kf1 Rxg2 30. Rb7 Rg1+
+31. Kf0 Rg2 32. Ae1 Afe8 33. Rxb3 Hf7 34. Rb9+ Add9 35. Ce2 ab6 36. Eg6 Ri7
+37. Ed4 Rg1 38. Exf7 Rxf7 39. gf3 Ra7 40. hg3 Ra0+ 41. Ce0 Rc0 42. Ef2 Rc1
+43. Ec4 Rc0 44. f5 c5 45. f6 cxc4 46. f7 Axf7 47. Rxd9+ Kf8 48. Rd2 c3 49.
+Ad0 c2 50. Rf2 Rcc1 51. Rxi6 cd2 52. Ri8+ Kf9 53. fe3
+{Black resigns} 1-0
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 김경중 七단"]
+[Black "귀마 신대순 七단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Af8 7. Ri4
+Ee6 8. Ad1 Ra5 9. Kd0 Kf9 10. Ca2 Rf5 11. Afe1 Ade8 12. Cad2 Ra5 13. Cf0
+Ce9 14. a4 Ri5 15. Rxi5 ixi5 16. ab4 i4 17. Ra5 i3 18. Ef3 Ri4 19. c4 Exg3
+20. hxg3 Rh4 21. Ce2 Cg9 22. Ri5 Cxg3 23. Rxi3 Cg9 24. Ri8 Cg3 25. Ri6 g5
+26. cd4 Ce7 27. Ce0 Hb9 28. b5 Hd8 29. bxb6 cxb6 30. Hb4 Ce9 31. Hd5 bc6
+32. Hb4 Cgxe3 33. dxe3 Rxd4 34. Hbd3 Cxe3 35. Ri7 Ce9 36. Rg7 fe6 37. Ei5
+gh5 38. Eg2 cd6 39. Hf4 hg5 40. Ei5 ef6 41. Exf7 f5 42. Exd4 He6 43. Cxe6
+dxe6 44. Hd5
+{Black resigns} 1-0
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 신대순 六단"]
+[Black "원앙마 성우제 七단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Ri4 f5 7. Rb4
+Ke9 8. ed3 Cd7 9. He3 Ca7 10. Rb0 fg5 11. Ch4 c5 12. Ch1 ih6 13. Ke0 Afe8
+14. Ade1 Add8 15. Cd1 Cd7 16. Rb8 Ra8 17. ba3 Ra9 18. Rc8 cb5 19. Cd6 Cb7
+20. Ra0 Add7 21. ab3 a5 22. Kd0 Ri4 23. Hf2 Kf9 24. Ch2 Hf4 25. Cc2 Hcd5
+26. Cd4 He6 27. Rc4 Hxd4 28. Hxd5 Ce9 29. Hc7 Add8 30. Ch2 Cf7 31. Ca2 bc5
+32. Rxd4 Rxd4 33. dxd4 ab5 34. Ea3 Ca7 35. d5 cxd5 36. Hxb5 Ea6 37. Cxa6
+Ce5 38. Hxa7 Rxa7 39. Ca1 Rd7 40. Cf1 Ch5 41. Ra2 Ke9 42. Ec6 de5+ 43. Hd3
+e4 44. Ra9+ Ad9 45. Cd1 ed4 46. Hf2 de4 47. Ra4 Re7 48. Ec1 Ch0+ 49. Af1
+Ae8 50. Ra9+ Ad9 51. Rxd9#
+{White mates} 1-0
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "원앙마 신대순 六단"]
+[Black "귀마 박계도 六단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "81"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 ef6 5. Hc2 Rh9 6. Ege3 Ee6 7. Kd1
+c5 8. Ri4 g5 9. Cd2 Ra8 10. Ade1 Hd7 11. a4 Cb5 12. c4 cxc4 13. Rxc4 Ci5
+14. Ea3 Ad8 15. ab4 Ci9 16. Ca2 Rb8 17. Cb2 Hf5 18. ba4 Ra8 19. Cxb9 Exg3+
+20. hxg3 Rh2 21. Cg9 He5 22. Rc3 Hf7 23. Ed5 Rxa4 24. Ha3 Rxa3 25. Exa3
+Rxg2 26. Ca8+ Kd7 27. Ed5 Ade8 28. Eb8 Hxe3+ 29. Ae2 Hd5 30. d4 Ci3 31.
+dxd5 Ad8 32. Rc8 Cg7 33. d6+ Hxd6 34. Rxd8+ Ke7 35. Rxd6 Rxe2 36. Re0 Rxe0
+37. Axe0 f5 38. Rxb6 i5 39. Cd9 Cd7 40. Rf6 Cf7 41. Cd0
+{Black resigns} 1-0
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 조용희 三단"]
+[Black "귀마 신대순 七단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. Ke0
+Ri5 8. Ri1 Ee6 9. Ria1 Ra5 10. Rxa5 axa5 11. c4 d5 12. Ad1 c5 13. cxc5 dxc5
+14. Ed3 a4 15. Afe1 Kd9 16. g4 Ra6 17. ih3 Ed6 18. hg3 Exb3 19. Hxb3 Ec3
+20. Rc0 c4 21. Eb6 ab4 22. Ee4 He6 23. Cxb4 cxb4 24. Rxc3 Cxb3 25. Rc9+ Ke8
+26. Exh6 gxh6 27. Kf0 Kf8 28. Ch2 Cc7 29. Cf2+ Cf7 30. Ke0 Ke8 31. gf4 Cd9
+32. f5 Cg9 33. Rc8 Cxg2 34. f6 Af8 35. Ec6 Hd4 36. Exf8 Hxf6 37. Cd0 Hc6
+38. Ed5 Hxd5 39. Cxd5 He7 40. Rc5 Hxd5 41. Rxd5 Cg9 42. Rd4 Rb6 43. Rg4 hg6
+44. Ri4 Ad9 45. Ri8+ Ke7 46. Ri9 Ca9 47. Rxd9 Rb9 48. Rd6 Ce9 49. Rxg6 Cb7
+50. Kf0 Ra9 51. fe3 Cf7 52. Aed2 Ra0+ 53. Ke1 b3 54. Kf1 Ra5 55. Ke1 bc3
+56. gf3 Re5 57. Ae2 Ce6 58. Add2 Cd7 59. Rg4 Ce8 60. Rc4
+{White resigns} 0-1
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 김경중 七단"]
+[Black "귀마 조용희 三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "185"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ri8
+8. Ef3 Ke9 9. c4 Raa8 10. Hd4 Afe8 11. Exc6 bxc6 12. Hxc6 Cg7 13. gf4 Ra6
+14. c5 Cd7 15. fe4 Cf9 16. a4 Hd8 17. a5 Ra9 18. de3 f5 19. e5 fxe5 20.
+Hxe5 gf6 21. c6 Hcb9 22. cd6 Ee7 23. Ra4 Hb7 24. Hc6 H9d8 25. Hxd8 Hxd8 26.
+Rg0 Rb9 27. Rd4 Rb3 28. Ce0 Ca7 29. Ad1 Cf7 30. Rg9 Hb7 31. Rd5 Hxd6 32.
+Cd2 Hb7 33. Ci2 Rh8 34. Ri9 ih6 35. Cd2 hg6 36. Af1 Cf5 37. a6 Eb5 38. Ch2
+Rg8 39. Rd4 Ee7 40. Ed6 Hxd6 41. Rxd6 gh6 42. Ri1 Rg6 43. e4 Rf3 44. Rd3
+Rxd3 45. Hxd3 Ec3 46. ab6 Cf7 47. He5 f5 48. Hxf7+ Axf7 49. Af2 Afe8 50.
+Cd2 Rg0 51. Ri5 fg5 52. Ae2 h5 53. Ri6 Add8 54. e5 Eg4+ 55. Cf2 Rg1+ 56.
+Kd0 Cd7+ 57. Ae1 Cd9+ 58. ed5 Exe0 59. Kxe0 Rg0+ 60. Af0 Cxd5 61. Ri9+ Af9
+62. Rg9 Cd9 63. h4 hxh4 64. Rxg5 Afe8 65. bc6 Rg3 66. Aee1 Rc3 67. Rg6 Ee7
+68. Re6 hg4 69. Cd0 g3 70. Aff1 gf3 71. cd6 Rd3 72. Cf0 fe3 73. dc6 Eh5 74.
+Rh6 Rd5 75. Re6 Rc5 76. cd6 ed3 77. Cd0 Ee3 78. Ad1 Rc0 79. Ke1 Rc3 80. Ke0
+Eh1 81. Cf0 Rc1 82. Ade1 Ee3 83. Cd0 Eh5 84. dc6 d2 85. Cxd8 d2xe1+ 86.
+Axe1 Rc0+ 87. Ad0 Ee7 88. cd6 Kf9 89. Cd2 Cg9 90. Rf6+ Af8 91. Rf2 Eg4 92.
+Kf0 Exd2 93. Rxd2
+{White resigns} 0-1
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 박계도 六단"]
+[Black "귀마 조용희 三단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. c4 d5
+8. cd4 c5 9. dxd5 cxd5 10. Ri1 Ed6 11. Ke0 dc5 12. Rc1 Ri5 13. Ad1 a5 14.
+b4 a4 15. bxa4 Rxa4 16. Rxa4 Exa4 17. Hb3 Af8 18. Ra1 c4 19. Rxa4 cb4 20.
+Ra8+ Kf9 21. Hd2 Rc5 22. Ke1 Ade8 23. Ra7 Rc1 24. Eb5 Hc5 25. He3 g5 26.
+Ce4 Ce9 27. Cf2 Cg9 28. Kf1 Hf5 29. f4 Ec3+ 30. Ed3 He7 31. Ce1 Rc0 32.
+Cxe7 Axe7 33. Hd5 Ad7 34. Hc7 Hxd3 35. Ee3 Hc5+ 36. Ke1 Ce9+ 37. fe4+ gf5
+38. Ra8 He6 39. Ae0 hg6 40. Kf0 Ea0 41. Hf3 Rxc7 42. Cxf5+ gf6 43. Cf2 Ade8
+44. Cxf6+ Cf7 45. Hg5 Ec3 46. Ra9 Rd7 47. e5 Rxd1 48. Ae1 Rd3 49. exe6 Rxe3
+50. Hi6 Ad9 51. Hh8+ Ke8 52. Ra8+ Ad8 53. gf3 Rxe6
+{White resigns} 0-1
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "귀마 조용희 三단"]
+[Black "원앙마 성우제 七단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 f5 7. Ri4 f4
+8. Ee3 Ce4 9. Ri1 Ci7 10. Rh1 Ca7 11. Rb0 ih6 12. c4 ab6 13. bc3 Cf7 14.
+Ke0 Ri0 15. Eh0 Ke9 16. Ade1 Ade8 17. Hf2 Ce7 18. cd4 Aff8 19. de4 Ra4 20.
+d4 Ea6 21. cd3 Cd9 22. exf4 Hxf4 23. Ce4 Ra5 24. Cd2 Ei6 25. g4 Hfe6 26.
+Aff1 Hc5 27. Cf0 Ri5 28. Cc4 H5e6 29. Rg1 Rib5 30. Rc0 Rb3 31. Ef3 Cxd3 32.
+Hxd3 Rxd3 33. h4 c5 34. Cxc7 Hxc7 35. Exh6 gxh6 36. Cf3 Rd2 37. Cf0 Ri2 38.
+Kd0 He6 39. gf4 Ra2 40. Cd2 Ra4 41. fe4 c4 42. Rb0 cxd4 43. Rxb6 Ra0+ 44.
+Hb0 dxe4 45. Ec0 Hc5 46. Rg5 Hd7 47. Rb9+ Ec9 48. Rd5 Ra7 49. Ea3 Rc7 50.
+Rd6 Ri3 51. Ra9 Rb3 52. Cf0 hg6 53. Rxg6 Ef4 54. Ec6 Rd3+ 55. Ad1 Rc3 56.
+Ea3 Ei2 57. Rg9+ Aff9 58. Rg1 Hc5 59. Ade1 Ha6 60. Ed5 Rd3+ 61. Hd1 Rxd5
+62. Rb9 Rdc5 63. Rb0 Hb4 64. Ke0 ed4+ 65. He3 Hc2 66. Rb3 Rc3 67. Rxc3 Rxc3
+{White resigns} 0-1
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "원앙마 성우제 七단"]
+[Black "귀마 박계도 六단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 ef6 5. Cd2 Ra5 6. ed3 Rh9 7. Ri4
+Ee6 8. Rf4 Rf5 9. Rd4 Ed6 10. He3 Rb5 11. Rf4 Rb1+ 12. Ad1 Rc1 13. d4 Hd7
+14. Cd0 Cb1 15. Ra1 Rxc2+ 16. Rxb1 Rxc0 17. c4 Rh5 18. d5 Ri5 19. dxd6 cxd6
+20. Cxd6 Ri2 21. Cd0 f5 22. Rxf5 Eh4 23. Ce4 Ee2 24. Ke0 Eh0 25. Ade1 Ri1
+26. Rf1 Ri4 27. Ce2 Ri5 28. Rd1 Ad8 29. Rd6 ih6 30. ab3 Ri6 31. b4 Ra0 32.
+Rh1 Ra2 33. Rxh0 Rxe2 34. Axe2 Cxe2 35. Hd5 Ri1 36. He3 Ce7+ 37. Hf1 He6+
+38. Ee3 Hf4+ 39. Eh1 Ri2 40. Rd2 He5+ 41. Ee3 Hxc4+ 42. Re1 Hd2#
+{Black mates} 0-1
+
+[Event "제3회 프로10걸전"]
+[Site ""]
+[Date "1999년"]
+[Round "<5강리그전>"]
+[White "원앙마 성우제 七단"]
+[Black "귀마 김경중 七단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Hd7 3. Hc2 Cbe7 4. Cbe2 Ed6 5. ab3 cb6 6. b4 Rc9 7. bc4
+Cf7 8. Cf2 gf6 9. ed3 Ci7 10. Ei3 i5 11. Rh0 i4 12. Eg0 Ei6 13. g4 Cf7 14.
+He3 Ke9 15. h4 ixh4 16. gxh4 Hf5 17. Hxf5 Cxf5 18. Ei3 Cf7 19. Ke0 Rg9 20.
+Rh2 Rg3 21. Ri2 Ef4 22. Rh2 Rc8 23. Hh0 Rxi3 24. hg4 Ec6 25. Hf1 Rg3 26.
+Rh4 Rg8 27. c5 Ea9 28. cd5 Ea8 29. Ra4 Ade8 30. Afe1 Rg2 31. Rc4 Cd9 32.
+Rc8 R8xg4 33. Rxg4 Rxg4 34. Rxa8 Cxd5 35. Rxa9+ Cd9 36. Cf0 Aff8 37. He3
+Rg5 38. Ea3 e5 39. Add1 f5 40. Af2 Hc5 41. Rc9 He4 42. Ade1 Hg3 43. Cg2 Rh5
+44. Cgd2 e4 45. Hf1 f4 46. Kd0 f3 47. Afe2 Hxf1 48. Axf1 Cxe2 49. Rc4 e3
+50. dxe3 fxe3 51. Ae1 Ce7 52. Re4 Rh3 53. Re6 ed3 54. cxd3 Rxd3 55. Ed1 Rc3
+56. Ae2 bc6 57. Ae1 ab6 58. Af1 b5 59. Ae1 b4 60. Ae2 b3 61. Ke1 cd6 62.
+Re4 Rh3 63. Kd0 bc3 64. Rc4 Re3 65. Af2 de6 66. Cc0 cd3 67. Cd5 d2 68. Ea3
+d2e1+
+{White resigns} 0-1
+

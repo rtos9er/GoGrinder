@@ -1,0 +1,1225 @@
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-25"]
+[Round "16강전"]
+[White "귀마 김대두 9단"]
+[Black "귀마 정준호 2단"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. Ke0 Ri5 6. Ri1 Rc5 7. Hd2
+ed6 8. Rc1 Ee6 9. ih3 Cc7 10. Rca1 Kf8 11. Rxa6 Rxa6 12. Rxa6 Afe8 13. Ra3
+Exc3+ 14. bxc3 Rxc3 15. Ra9 Cf7 16. Rxb9 Ra3 17. Cc2 Hf9 18. Cc7 Hd8 19.
+Rb8 Ra2 20. Hc0 d5 21. He1 d4 22. Eb0 c5 23. ed3 dc4 24. Ee3 Kf9 25. Rc8
+cb4 26. Ec6 Ade9 27. Ef4 Hf6 28. Cc9+ Cd9 29. Rxc5 b3 30. Cb5 Af7 31. Hc2
+He6 32. Rd5 Hc7 33. Rc5 He8 34. Cf5 Hxc9 35. Rxc9 Ae8 36. Cxf7 g5 37. Eh1
+Hd7 38. Rc7 Cb1 39. gf3 Ke9 40. Cf2 Ra0 41. fe3 Cb8 42. Rb7 Cb6 43. Ef4
+Cxb0 44. Hxb0 Rxb0 45. Rc7 Cf7 46. Rc8 Hb6 47. Rc9+ Cd9 48. Afe1 g4 49.
+Eh7+ Af8 50. Rc6 Cf9 51. Hd2 Ha4 52. Rc8
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-04-16"]
+[Round "16강전"]
+[White "귀마 김주 2"]
+[Black "귀마 송종일 9"]
+[Result "1-0"]
+[TimeControl "각 1시간 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Hf2 Hf7 6. Ee3 Rf5 7. ab3
+Ea6 8. Ra4 Ef6 9. Ef3 Af8 10. Rg4 g5 11. Rh4 Kf9 12. Ce0 Afe8 13. Kf1 i5
+14. c4 i4 15. Hd4 Rd5 16. Afe1 Rg9 17. Rf4 Exd3 18. c5 cxc5 19. Rfxi4 Cxe3
+20. Ri9 Rxi9 21. Rxi9+ Kf8 22. Cd2 c4 23. Hxd3 cxd4 24. Ae2 ef6 25. Hb2 Rb5
+26. Cf2 Hd5 27. g4 gxg4 28. Ri7 gf4 29. Ei5 Ca7 30. Ri8+ Kf9 31. Ri9+ Kf8
+32. Exf7 Ce9 33. Ei5 Rxb3 34. Ri7 Ad7 35. Rxd7 Hc7 36. Rxc7 Ae8 37. Rxa7
+Rxh3 38. Ade1 Rh5 39. Ri7 Ec3 40. Hd1 Ef5 41. Ri8+ Kf9 42. Kf0 Ce6 43. Ri9+
+Kf8 44. Af1 de4 45. Aee1 bc6 46. Cxf5+ Rxf5 47. Cg0 f3 48. Cd0 e3 49. Exf3
+exf3 50. Hc3 Ce9 51. He2 fe3 52. Hg3 Rg5 53. Hi4 Rg6 54. Aff2 ef3 55. Afe2
+Ce7 56. Ri5 Af7 57. Rg5 Ri6 58. Rg8+ Kf9 59. Hg5 Ri7 60. Hxf3 fe6 61. Hg5
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-18"]
+[Round "16강전"]
+[White "귀마 김주 三단"]
+[Black "귀마 전대인 초단"]
+[Result "1-0"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Ef6 3. Ef3 Hc7 4. Ce2 g5 5. Hf2 Cb2 6. ed3+ Kd8 7. Ee3
+gf5 8. g4 Ca7 9. ab3 Ea6 10. Rc0 Cb5 11. b4 Cb8 12. cb3 fe5 13. Exc6 bxc6
+14. Hd4 Exd4 15. Rxc6 Rc9 16. Cxe6 Cxb3 17. dxd4 Cd7 18. bc4 Ade8 19. Cc2
+Ed3 20. Ce3 Ri7 21. Rixi6 Rf7 22. Rif6 Ri7 23. Rxc7 Rxc7 24. Cxc7 e4 25.
+Ce0 Ce3 26. Rg6 exd4 27. cxd4 Rf7 28. Ei5 Rf5 29. de4 Cxd0 30. Hxd3 Cd7 31.
+Rg5 Rf6 32. Rd5 Hf7 33. Exf7 Axf7 34. He5 Re6 35. Rd3 Cxe5+ 36. exe5 Rf6
+37. e6 Rf5 38. h4 A9e8 39. Rd4 Kd9 40. gf4 Rc5 41. Cc4 Ke9 42. ef6 Afe7 43.
+Cce4 Re5 44. f5 Rxf5 45. Rxd7 Re5 46. Rb7 Kf9 47. hg4 Rf5 48. fe6 A7d7 49.
+Rb9+ Kf8 50. Ch4 Rc5 51. Cf4 Aed8 52. ef6+
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-23"]
+[Round "4강전"]
+[White "귀마 김주 3단"]
+[Black "귀마 김재두 9단"]
+[Result "1-0"]
+[TimeControl "각 1시간  40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "265"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. g4
+Afe8 8. Ch4 He6 9. Ch1 Ra8 10. Ca1 Rd8 11. Cf1 Ce9 12. ab3 ih6 13. Rxi9
+Cxi9 14. Ra5 c5 15. Ra4 Kf9 16. Ef3 Ce7 17. Exh6+ gxh6 18. g5 Ke9 19. gh5
+hxh5 20. Exh5 Rd5 21. h4 Rg5 22. He3 Cf9 23. Ra9 Add8 24. Ke0 cd5 25. Ade1
+bc6 26. Cxf6 Exf6 27. Cxe6 de5 28. Hed1 ef5 29. de3 Rg1 30. Ce2 fg5 31. Ra5
+gxh5 32. hxh5 cd6 33. e4 Rg3 34. ef4 Eh3 35. f5 Rf3 36. Hxh3 Rxh3 37. hg5
+Rh2 38. Af2 Rh6 39. Ra9 Hh8 40. cd3 Hi6 41. de3 Hh4 42. bc3 Hi2 43. cd3
+Hg1+ 44. A0f1 Rh0+ 45. Ke1 Rc0 46. fe5 Hh3 47. gf5 Rc1 48. Ra0 Hf4 49. Ce4
+Rc4 50. Kd0 d5 51. exd5 Ee6 52. d6 Eh8 53. Ra7 Rc0+ 54. Ke1 Kd9 55. f6 Rc4
+56. Kd0 Rc0+ 57. Ke1 Rc5 58. Hc3 Ef5 59. Ha4 Rc4 60. Kd0 Rb4 61. A1e1 Hh5
+62. fe6 Ce9 63. Ra6 Hg3 64. Ce2 Hxe2 65. Afxe2 Eh8 66. Hb6 Rb0+ 67. Kd1 Rb4
+68. Ha8 Rb8 69. Hb6 Exe6 70. dxe6 Rb7 71. ed6 Cb9 72. Hd5 Ke9 73. Hf6 Af7
+74. He4 Afe8 75. Ra9 Rb5 76. A1d2 Cd9 77. de6 Kf9 78. ef6 Ch9 79. Hd6 Rb6
+80. He4 Add9 81. Ra7 Rb1+ 82. Kd0 Rf1 83. Aee1 Rf4 84. fg6 Cbe9 85. Hf6 Rh4
+86. Rg7 Rh0+ 87. Kd1 Rh8 88. Ri7 Ch1+ 89. Ae2 Add8 90. g7 Rh6 91. Hg4 Rh4
+92. Hf2 Chh9 93. gf7 Cg9 94. f7xe8+ Axe8 95. He4 Rf4 96. Ri9 Cd9 97. Hd6
+Rf1+ 98. Kd0 Rf0+ 99. Kd1 Rf8 100. Ke1 Ke9 101. d4 Ad7 102. d5 Re8 103. ef3
+Kf9 104. f4 Rh8 105. f5 Rh1+ 106. Ke0 Cxd6 107. dxd6 Ae8 108. f6 Rh7 109.
+fe6 Rh0+ 110. Ke1 Rh8 111. ef6 Rh1+ 112. Ke0 Rh0+ 113. Ke1 Rh7 114. fg6 Ke9
+115. g7 Rh1+ 116. Ke0 Rh8 117. de6 Rh0+ 118. Ke1 Rh1+ 119. Ke0 Kd9 120. ef6
+Rh8 121. f7 Af9 122. Kf0 Rh0+ 123. Kf1 Rh1+ 124. Kf0 Kd8 125. fe7 Rh0+ 126.
+Kf1 Rh1+ 127. Kf0 Rh0+ 128. Ke1 Rh8 129. gf7 Rh1+ 130. Kd0 Rh0+ 131. Kd1
+Rh1+ 132. Aee1 Ce9 133. ed7+
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-07"]
+[Round "32강전"]
+[White "귀마 박강평 9단"]
+[Black "귀마 주경덕 9단"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. g4 Ri8
+8. Rb0 Ke9 9. Ch4 Exc3 10. dxc3 Raa8 11. Cc4 He6 12. cd3 Raf8 13. Exc6+
+bxc6 14. Rb9 ih6 15. Rxi8 Rxi8 16. Cc9+ Ke8 17. Cxf9 Hc7 18. Rb8+ Ad8 19.
+Rc8 Ce9 20. Cd7 cd6 21. He3+ Kf9 22. Cd4 Hb5 23. Cd1 Hxa3 24. Ef3 de6 25.
+Hd5 e5 26. Hb4 Hb5 27. Rc5 Ee7 28. d4 Ch5 29. Exh6+ gxh6 30. g5 Ch7 31. Cf1
+Ri4 32. Cxf6+ Ke8 33. Rxb5 Rf4 34. Rb6 Rxd4 35. Hc2 Rf4 36. hg3 Rc4 37. He3
+Rc3 38. gf3 e4 39. Cxe4+ Ec4 40. Ce2+ Che7 41. Hxc4 Rxc4 42. fe3 Rc3 43. e4
+Re3 44. ef4 Kd9 45. f5 Ch7 46. Ad1 Ch2 47. Hg4 Rg3 48. He5 Ae8 49. Hxf7
+Axf7 50. Re6 Rg2 51. Cf2
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-07"]
+[Round "32강전"]
+[White "귀마 이남춘 9단"]
+[Black "귀마 김경중 9단"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "189"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ad8 7. g4 Kd9
+8. Ch4 Afe8 9. Cd4+ cd6 10. Rb0 Rb9 11. Ef3 Ce9 12. Cd1 d5 13. Exg6 fxg6
+14. He3 de5 15. Rb4 Ee6 16. Ra4 Cd7 17. Ri2 ih6 18. Rxi9 Cxi9 19. Cf1 Cif9
+20. Exh6 gxh6 21. Cxf7+ Axf7 22. Cxe5 Cxf2 23. Kxf2 Cxd0 24. Ce2 Ee7 25.
+Ke1 Cd6 26. Hf5 bc6 27. ab3 hg6 28. Hd4 c5 29. Hxe6 Hxe6 30. Ra6 Cf6 31.
+Rxe6 Ra9 32. Cxe7 Ra1+ 33. Kd0 Ra0+ 34. Kd1 Rxf0 35. Ce1 Rf5 36. d4 Ade8
+37. h4 Cf9 38. Cc1 gf6 39. Rd6+ Ad8 40. de4 Ri5 41. gf4 f5 42. hg4 fxf4 43.
+gxf4 Ae8 44. Rf6 cd5 45. Rf5 Rxf5 46. fxf5 Af8 47. fg5 Ade8 48. cd3 Cd7 49.
+bc3 de5+ 50. ed4 Cf9 51. gh5 Ad8 52. Cc5 Cf5 53. de3 Ade8 54. c4 Aff7 55.
+Ke1 Cf9 56. cb4 Ad8 57. b5 ef5 58. Ca5 f4 59. Cd5+ Ke9 60. Cd0 Ade8 61. hg5
+-- 62. bc5 -- 63. cd5 Aff8 64. de5 f3 65. ed3 fg3 66. gf5 gf3 67. de4 --
+68. Cd4 Kd9 69. Cf4 Aff7 70. Cf6 fg3 71. e6 Cc9 72. e5 Ce9 73. Cf0 Cc9 74.
+Cd2+ Ke9 75. Cd6 Cf9 76. de3 Aff8 77. Kd1 Cf7 78. Cd0 -- 79. Cd3 g2 80. ef6
+Cf9 81. Ke1 -- 82. ed5 -- 83. Cd6 Ad9 84. Cd2 Afe8 85. de5 g1 86. ed3 Add8
+87. Cd6 Cd9 88. d4 Kf9 89. d5 Cg9 90. Cd1 g0 91. Cd6 Ce9 92. fe6 Af8 93.
+Cd0 Ade8 94. Ke0 Aef7 95. Cxg0
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "본 협회 대국실"]
+[Date "2017-04-30"]
+[Round "32강전"]
+[White "귀마 정준호 二段"]
+[Black "귀마 강호필 初段"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40호 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra8 4. Ca2 Rd8 5. ab3 Ra8 6. ba3 Rc8 7. Ce2
+Ra8 8. ed3+ Ce7 9. Ee3 ef6 10. Ef3 Ee6 11. Hf2 Hd8 12. Ad1 Af8 13. Kd0 Kf9
+14. Ca2 Rc8 15. Afe1 Ade8 16. Cad2 Ra8 17. Cf0 Ce9 18. Cc0 Cg7 19. Cg0 Cc7
+20. Exg6 fxg6 21. Cxg6 Cg9 22. Ce2 Exc3 23. dxc3 Cxc3 24. Cg0 Cc7 25. He3
+Ra5 26. Cc0 Ci7 27. Rh0 Cd7+ 28. Ke0 ih6 29. Cf0 Ce9 30. Hf5 hg6 31. Hh4 g5
+32. a4 Rb5 33. a5 Rd5 34. a6 bxa6 35. Rxa6 Cxd1 36. Cd2 Re5 37. Hg6 Rxe2
+38. Axe2 Ce6+ 39. Kd0 Cxa6 40. Hxf8 Axf8 41. Kxd1 Ce6 42. Ra0 Ke9 43. Ra9+
+Ke8 44. Rd9+ Ke7 45. Rxd8 Ce8 46. Rc8 He5 47. Rc7+ Hd7 48. Ed6
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-04-09"]
+[Round "16강전"]
+[White "귀마 김재두 九"]
+[Black "귀마 안동건 九"]
+[Result "1-0"]
+[TimeControl "각 1시간, 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "123"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Cg2 Ra5 4. Cxg6 Ce7 5. Kf1 Ef6 6. g4 ed6 7. Hf2
+Ee6 8. cd3 Exd3 9. Afe1 Ef6 10. Cg0 i5 11. Ef3 Ei4 12. h4 Exh4+ 13. gxh4
+Hc7 14. hxi4 ixi4 15. Ce2 Rh5 16. Kf0 Cd7 17. Add1 Ke9 18. Cd0 Afe8 19. Ke0
+de6 20. ab3 Cf9 21. bc3 Add8 22. cd3 cd6 23. Rb0 b5 24. Cf0 bc5 25. Ea3 Hb5
+26. Rb4 i3 27. Rg0 ih3 28. Rg6 c4 29. Rb0 c3 30. dxc3 Hxc3 31. ed3 He5 32.
+Rh6 Rxh6 33. Exh6 Hxd3 34. Exf9 Hxf2+ 35. Axf2 Hxe2 36. Rb9+ Add9 37. Axe2
+Kxf9 38. Ade1 Ri4 39. Rb3 Rc4 40. He3 Re4 41. Hg2 h2 42. Hf4+ Ke9 43. Rf3
+ef6 44. Rf2 f5 45. Hh5 fg5 46. Hg7 h1 47. Rh2 Af9 48. Kd0 h1i1 49. Rf2 Afe8
+50. Ri2 Af9 51. -- i1h1 52. A2f2 Ade8 53. Ri9 Rd4+ 54. Ed1 Kd9 55. Cxf9 Af7
+56. Cf3+ Kd8 57. Hf9+ Kd7 58. Hh8 Ae8 59. Cf0 Rh4 60. Hg6 Cb7 61. Ri5 Rh6
+62. Rxg5
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-30"]
+[Round "8강전"]
+[White "귀마 박영완 6단"]
+[Black "원앙마 장배형 8단"]
+[Result "1-0"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+c5 8. Hf2 Ke9 9. Rg4 Ri7 10. Exc5 Hxc5 11. Ee3 Rg7 12. Rc4 He6 13. Cxe6
+Exe6 14. Rxc7 Afe8 15. Ce2 ab6 16. ba3 gh6 17. g4 Add8 18. Rc8 Cf9 19. Rg0
+Ra5 20. Af1 Ri5 21. Ke0 Ri1 22. Ade1 hg6 23. d4 ih6 24. c4 Rgi7 25. d5 R7i5
+26. cd4 Ri0 27. Rxi0 Rxi0+ 28. Aff0 Rh0 29. d6 Cxf2 30. Axf2 Rxh3 31. dxe6
+Cxe3 32. Rxc9+ Add9 33. exf6 gxf6 34. Rc3 Kf9 35. Rxe3 Rxe3 36. Hxe3 hg6
+37. ab3 bc6 38. d5 Add8 39. b4 Af7 40. b5 Ade8 41. A0e1 Afe7 42. Kd0 A8f7
+43. Hc4 fe6 44. Ce0 gf6 45. Cc0 cd6 46. dxd6 exd6 47. Hxd6
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-28"]
+[Round "32강전"]
+[White "귀마 오세광 4단"]
+[Black "원앙마 이상화 초단"]
+[Result "1-0"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Hf2 Cd7 7. cd3
+c5 8. g4 Ke9 9. Af1 Rb9 10. b4 Afe8 11. Ea3 Add8 12. Kf0 Cd9 13. Ade1 a5
+14. Ce0 ab5 15. bxb5 Rxb5 16. Cg0 Ea6 17. Cd0 c4 18. Rb0 Rf5 19. Rb6 c3 20.
+dxc3 Exc3 21. Ce2 g5 22. gxg5 Rxg5 23. ed3 Ea6 24. Hb4 Rb5 25. Rxb5 Hxb5
+26. Hd5 Ce5 27. Hb4 Ri7 28. Rg0 Rc7 29. Rg5 Rc4 30. Ed1 Ce7 31. Rxb5 Ec9
+32. Rg5 ih6 33. Rg8 fg6 34. Ch2 Hg5 35. Ed6 Ee6 36. d4 Rc0 37. Hd5 Ce5 38.
+de4 Ci5 39. Hf4 Rc5 40. Ce2 gf6 41. Eb3 Hf7 42. e5 Kf9 43. Hg4 hi6 44. Hxi5
+ixi5 45. exe6 f5 46. Hg2 Rc3 47. Ed6 Rxh3 48. Cf2 Add7 49. ef6 Hd8 50. fe6+
+Ke9 51. e7
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-30"]
+[Round "8강전"]
+[White "귀마 정원직 초단"]
+[Black "원앙마 김철 6단"]
+[Result "1-0"]
+[TimeControl "각 1시간 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "71"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ra4
+Ke9 8. Hf2 Rg7 9. Rc4 ab6 10. Ea3 f5 11. Exc6 bxc6 12. Rxc6 f4 13. Ec5 Ra5
+14. c4 fe4 15. Ri4 g5 16. d4 e3 17. Hxe3 Cxe3 18. d5 Ra1+ 19. Ad1 i5 20.
+Rxi5 Cb1+ 21. Ke0 Rf7 22. Afe1 Cxe1 23. Kxe1 Ra0 24. Ri1 Hf4 25. Ce0 Hxd5
+26. cd4 Ra6 27. Rxa6 Exa6 28. Cd2 He6 29. dxd5 Rf5 30. de5 Rxe5 31. gf3
+Rxc5 32. fxe3 Ade8 33. Ri9 Hd4 34. Rxg9 Hxb3 35. He4 Rc1 36. Rxg5
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-08-13"]
+[Round "4강전"]
+[White "귀마 정원직 초단"]
+[Black "원앙마 이창원 5단"]
+[Result "1-0"]
+[TimeControl "각1시간 10분 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Ed3 Hc7 5. Hd2 b5 6. Af1 Af8 7. Ad1 Cd7
+8. Ei3 ih6 9. gf3 Cf9 10. Ci2 ef6+ 11. Cbe2 Rh9 12. Cf2 c5 13. c4 Hge6 14.
+cxc5 bxc5 15. ab3 Rxa0 16. Rxa0 Ke9 17. b4 Rh7 18. Rc0 Ce5 19. bc4 cd5 20.
+Hb3 Ad8 21. cd4 Rd7 22. de4 Ce8 23. Cd0 Ea6 24. Rc6 f5 25. Kf0 fe5 26. exe5
+Cxe5 27. Hf4 gf6 28. Ea5 Rg7 29. Hxd5 Cc9 30. Rb6 Cf9 31. Hxc7 Rxc7 32.
+Rxa6 Rc3 33. Rb6 Afe8 34. Ed3 hg6 35. Ha5 Aed7 36. Rc6 Rxc6 37. Hxc6 Ce8
+38. Cxe6 Exe6 39. Ade1
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-04-23"]
+[Round "32강전"]
+[White "맞상 전대인 初段"]
+[Black "맞상 추광후 二段"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Ef3 Ed6 3. Hf2 Ce7 4. Cg2 ef6+ 5. Kd1 ab6 6. Exd6 cxd6 7.
+Ade1 Hd7 8. ed3 Ci7 9. Rg0 Cbe7 10. Ee3 ih6 11. Kd0 He6 12. Hbd1 Ad8 13.
+Cc2 d5 14. Cc8+ Ke9 15. Cc0 Ri8 16. gf3 Ci9 17. Cxh6 gxh6 18. Rxg9 Ae8 19.
+Ce0 Kd9 20. Ch0 Ri6 21. fg3 Ce9 22. Rg4 hg6 23. Eg0 Hef8 24. Ei3 Ri7 25. d4
+dc5 26. Ce0 Ad8 27. Ci0 Rh7 28. Ri4 fe6 29. cd3 gf6 30. Ri8 Rh5 31. g4 Ra7
+32. Aff1 Rh9 33. Rxi9 Rxh3 34. Rxf9 Rxi3 35. Cc0 Ae8 36. Rg9 f5 37. Ce0 fe5
+38. a4 ed5 39. dxd5 cxd5 40. Ra3 d4 41. de3 b5 42. Rb3 bc5 43. Rb9+ Kd8 44.
+Hb2 Rc7 45. gf4 Rc8 46. Hfd1 cd5 47. Cc0 Ri6 48. Cf0 e5 49. f5 exf5 50.
+Cxf5 Rb6 51. Rxb6 Hxb6 52. Cf0 Hc4 53. Cxf8+ Axf8 54. Rxe9 Hxb2 55. Hxb2
+Ae8 56. Rb9 Rc3 57. Rb6 Ad7 58. Rd6 Rxe3 59. Rxd5 Rb3 60. Hd1 Ra3 61. Ke0
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-18"]
+[Round "16강전"]
+[White "원앙마 김철 6단"]
+[Black "귀마 김정룡 3단"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "85"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ef6 5. ef3 Hf7 6. Cd2 Af8 7. c4
+ed6 8. b4 Ee6 9. f4 g5 10. Ke0 Kf9 11. Afe1 Ade8 12. Cf0 hg6 13. Ece3 Rg9
+14. ih3 Ce9 15. Exg6 Exh3 16. gxh3 Rxg6 17. Ri2 Rg9 18. Ra3 Cee7 19. h4 Ke9
+20. Add1 Ca7 21. Rai3 Che7 22. Ri9 Rxi9 23. Rxi9+ Aff9 24. Ee3 Af8 25. h5
+Ra8 26. hxg5 Hxg5 27. Eh5 Hf7 28. Exe7 Cxe7 29. Hce3 Ae8 30. Hf5 Ca7 31.
+Hg7 Kd9 32. Hxf9 Ca9 33. Cd2+ Hd8 34. Ri7 Cxf9 35. Rxc7 ab6 36. Rg7 Ke9 37.
+Rg8 Hb7 38. f5 Hc9 39. f6 Ra7 40. Hi3 Rh7 41. Cf0 Rd7 42. Hg4 Cd9 43. Cd2
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-09-17"]
+[Round "결승 제3국"]
+[White "원앙마 박영완  六단"]
+[Black "귀마 정원직 初단"]
+[Result "1-0"]
+[TimeControl "각 1시간 30분 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "73"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. Hc2 ab6 4. ef3 Ef6 5. Hge3 ih6 6. Cd2 Af8 7. Ke0
+Kf9 8. Afe1 Ade8 9. Cf0 Hf7 10. f4 ed6 11. g4 c5 12. Rb0 b5 13. Ri2 Ea6 14.
+ab3 Ce9 15. Add1 Hd5 16. Hxd5 dxd5 17. f5 Ec8 18. He3 Exc3 19. bxc3 Cb7 20.
+cb3 b4 21. g5 Cxb3 22. gxg6 hxg6 23. Rg2 Ra6 24. Rg4 Cxe3 25. Rxb4 Ce9 26.
+R0xb3 Ri5 27. Rf4 Ea5 28. Ece3 Ed7 29. Rf1 Ri6 30. Rb8 Ce4 31. Rb9+ Ce9 32.
+fg5 gf6 33. g6 de5 34. gxf6 Hd8 35. Rc9 Hb7 36. Rb9 Hd8 37. Rc9
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-16"]
+[Round "8강전"]
+[White "원앙마 장배형 8단"]
+[Black "귀마 강창호 9단"]
+[Result "1-0"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Ce7 3. Hc2 ab6 4. ef3 cd6 5. c4 Hf7 6. Hge3 b5 7. Cd2 ih6
+8. Ke0 Ri5 9. Ri2 bc5 10. cd4 Hb5 11. Ca2 Ea6 12. ab3 Ed8 13. Ea3 Rc9 14.
+b4 Hc7 15. Cd2 Ra9 16. Afe1 Ke9 17. Add1 Ade8 18. Cf0 d5 19. dxd5 cxd5 20.
+Rb0 dc5 21. Cc0 Ra7 22. Ca0 Ha6 23. Ca5 c4 24. Cxa7 c3 25. Ca4 Ch0+ 26. Af0
+Ef6 27. Rh2 Ed3 28. Ad2 Rc5 29. Rxh0 cxc2 30. Afe1 cxd2 31. Axd2 e5 32. Rc0
+Ra5 33. Rc3 Rc5 34. Rxc5 Hxc5 35. Rh4 Ce4 36. Ca0 Hb3 37. Rh1 Eb6 38. Hc2
+Ce7 39. Rb1 Hxd2+ 40. Exd2 Hg5 41. Eb5 Exb5 42. bxb5 He4 43. Rd1 Ed9 44. f4
+Hc3 45. Rd3 Hxb5 46. Rb3 Hc7 47. Ca9+ Ea7 48. Rb9+ Ad9 49. Rb7+
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-04-09"]
+[Round "16강전"]
+[White "원앙마 김철 六段"]
+[Black "귀마 이근수 七段"]
+[Result "1-0"]
+[TimeControl "각 1시간 40초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "77"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 ih6 4. Che2 Ef6 5. Cd2 Hf7 6. ef3 Af8 7. f4 g5
+8. c4 Kf9 9. b4 Ade8 10. Ra3 Ce9 11. Ke0 ab6 12. Rf3 cd6 13. Afe1 Cg9 14.
+Cf0 Ce7 15. Hge3 Cd9 16. Ea3 Ea6 17. Add1 b5 18. f5 gxf5 19. Rxf5 bxb4 20.
+cxb4 Ce9 21. Cc0 Hb9 22. b5 Ed4 23. Cf0 Hc7 24. Rc5 Ra7 25. b6 Hb9 26. Rc9
+Eg6 27. Rxb9 Exe3 28. Exe3 Rc7 29. bc6 dxc6 30. Eaxc6 Ri5 31. Hb4 ed6 32.
+Ha6 Ra7 33. Exe9 Rxa6 34. gf3 de6 35. Rg0 Kxe9 36. Cxf6 exf6 37. Rg9+ Af9
+38. Eg6+ Af8 39. Rxf9+
+{Black resigns} 1-0
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-04-23"]
+[Round "32강전"]
+[White "귀마 김동학 六단"]
+[Black "귀마 정원직 初단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ri5 8. Ad1 Ra5 9. Rxa5 axa5 10. ih3 a4 11. Ri4 Hh9 12. Rc4 Ra6 13. Kf0 d5
+14. Ade1 Hf8 15. Ce0 Ad8 16. Ri4 Ce9 17. Cg0 a3 18. Cd0 axb3 19. cxb3 c5
+20. Rb4 Cee7 21. g4 Ke9 22. Hf4 Afe8 23. Cg0 Eh8 24. h4 de5 25. h5 ef5 26.
+hxh6 fxf4 27. Exg6 fxf3 28. Hxf3 Ee6 29. Hd2 Ed6 30. Cd0 Rc6 31. g5 Exb3
+32. Rxb3 Eb8 33. Ce2 Rb6 34. Rxb6 Hxb6 35. Ed3 Cb9 36. Hb3 Cf9 37. Ke0 Ha4
+38. Hd4 cd5 39. Hb5 Hc5 40. Eg1 Hd3 41. Ee4 Hf4 42. Aff2 Ee6 43. Eb6 Eb4
+44. Hd6 Exe2 45. Axe2 Hxe2 46. Hf5 Cxf5 47. gxf5 Hg3+ 48. Kf0 Hxf5 49. Ed3
+Hxh6 50. Ee3 Hg4 51. Eh1 He5 52. Cxd5 Hxd3 53. Ee3 Hb4 54. Eh5 Hxd5
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-14"]
+[Round "32강전"]
+[White "귀마 서준호 9단"]
+[Black "귀마 김영윤 8단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 Hf7 5. ed3 Af8 6. Ra1 Ra5 7. Ke0
+Ef6 8. Ee3 Rg5 9. Hf2 ed6 10. Rg1 Ee6 11. Afe1 Exh3 12. g4 Rf5 13. Exd6 Ef6
+14. Ef3 Rxf3 15. Exg6 Ri8 16. He3 cd6 17. Kf0 Ce5 18. Rgi1 Cd7 19. Rxi6 Rg8
+20. Ce0 Ce7 21. R0i3 Eg3 22. Cc2 Exd3 23. Cxc7 Rxf2+ 24. Hf1 Rf5 25. Rxg3
+Cf9 26. Rxd3 bc6 27. Ei9 He5 28. Rg3 Cf7 29. cd3 Ri5+ 30. Rf6 de6 31. Rf2
+Rxi9 32. Ccc0 Rxg4 33. Rxg4 Hxg4 34. Rf3 Hi3 35. Cg0 Hg2+ 36. Ke0 ef6+ 37.
+Re3 Hxe3 38. Hxe3 Ri2 39. Ad1 Rb2 40. Cf0 Ad8 41. Cd2 Cd9 42. dc3 fe6 43.
+Hg4 Rb4 44. Hf2 Rh4 45. Cc0 Ke9 46. ab3 Cf9 47. Kd0 Ra4 48. Ce0 Ade8 49.
+cd3 cd6 50. bc3 Cd9 51. Cf0 Ra2 52. Cd2 Ra5 53. Hg4 Rg5 54. Hf2
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-16"]
+[Round "16강전"]
+[White "귀마 오세광 4단"]
+[Black "귀마 정원직 초단"]
+[Result "0-1"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "46"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Hf7 4. Ef3 Ef6 5. Che2 Che7 6. ed3 g5 7. Ee3
+Ri8 8. Cd2 Ke9 9. Ke0 Afe8 10. Afe1 Add8 11. Add1 Cd7 12. Rb0 Cf9 13. Rb4
+gf5 14. Ca2 Ea6 15. Ca5 Rc9 16. Ca0 Kd9 17. ab3 fe5 18. Rg4 i5 19. h4 cd6
+20. Rg6 Exc3 21. bxc3 Hb5 22. Eh6 Cd7 23. Ch2 e4
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-25"]
+[Round "16강전"]
+[White "귀마 이남춘 9"]
+[Black "귀마 김정수 4"]
+[Result "0-1"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "122"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ra5 7. Ch4
+Ee6 8. Ch1 Af8 9. Cc1 Hb9 10. g4 Hd8 11. Ef3 Kf9 12. c4 Afe8 13. a4 Rh5 14.
+ab4 Ce9 15. Hd4 Cg9 16. h4 Rd5 17. Cf1 ih6 18. hi4 Ce7 19. Ri1 Af8 20. Ra9
+Hb7 21. Ra3 Ade8 22. Cd1 Hd8 23. Ade0 Ri8 24. ih4 Rxi1+ 25. Exi1 Cd9 26.
+Kd0 Ri5 27. Aee1 cd6 28. gf4 b5 29. h5 hxh5 30. bxb5 hg5 31. bc5 Ri4 32.
+fg4 gxg4 33. Exg4 g5 34. Exd6 Cxd6 35. c6 Cd9 36. c7 Eg3 37. He4 g4 38. Ra9
+Ce9 39. Hg5 Ri5 40. Ra5 Ed5 41. Hxf7 Afxf7 42. Cf1 gf4 43. c8 Ce5 44. Ra6
+He6 45. Cxf6+ Exf6 46. Rxe6 fe4 47. Cxe4 Eh3 48. Ce2 Ce7 49. Rg6 Ea7 50.
+Ra6 Rb5 51. c9 Cxd3 52. Hc6 Rb0+ 53. Kd1 Rb7 54. Hxe7 Rd7 55. Af2 Aexe7 56.
+Ke1 Cf3 57. Ae0 Rd3 58. Ec6 Cf8 59. Rxa7 Cxf2 60. Af0 Cf8+ 61. Ke0 Rd2
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-02"]
+[Round "8강전"]
+[White "귀마 김영윤 8단"]
+[Black "원앙마 이창원 5단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 b5 5. ef3 ef6 6. Ee3 c5 7. Ra1 Hc7
+8. Af1 Hge6 9. Ad1 Af8 10. Ce4 Cd7 11. Cf2 Cf9 12. Kf0 Ke9 13. Ce0 Ade8 14.
+Afe1 cd5 15. c4 Cd9 16. Ra2 Ri7 17. Ri1 Rg7 18. Hh0 Ci7 19. Rg1 ih6 20. Cg0
+Ra8 21. ab3 Ea6 22. Rh1 Rh7 23. Rh2 Ce7 24. Ri2 Rh8 25. Ce0 Ei6 26. Hhf1
+Rd8 27. Ch0 Rg8 28. Chd0 d4 29. cxd4 Exd4 30. Hh0 Ci9 31. Rh2 Exg3 32. hxg3
+Ri8 33. Hg2 Ri5 34. Rc2 bc5 35. Ra2 Rb8 36. Cb2 Rc8 37. Ce2 Ea6 38. Rh0 Hd4
+39. Ce0 Rb8 40. Rb2 Cb7 41. Ra2 Ch7 42. Rg0 Ca9 43. Rb2 Cb7 44. bc3 cb5 45.
+cb3 b4 46. Ed3 Rc5 47. Cf2 bxb3 48. Rc2 Rxc2 49. Cxc2 bc3 50. Cf2 cxd3 51.
+Hf1 Ce7 52. Exg6 hxg6 53. Rh0 Hce6 54. Cd0 Rb3 55. Rh5 Cf9 56. Ra5 Ed8 57.
+Ra7 g5 58. Cf2 f5 59. Ra4 f4 60. fxf4 Hxf4 61. gf3 Hfe6 62. fg3 d2 63.
+Adxd2 Rxg3 64. Hfh0 Rf3 65. Af1 g4 66. Ade1 g3 67. Hi3 gh3 68. Hh5 h2 69.
+Hg7 Cf7 70. Ra9+ Ad9 71. Hh9 Ae8 72. Hi7 Rg3
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-23"]
+[Round "8강전"]
+[White "귀마 김정수 4단"]
+[Black "원앙마 이창원 5단"]
+[Result "0-1"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hf2 Ce7 3. Hc2 ih6 4. Cbe2 h5 5. g4 Hg7 6. Af1 Ad8 7. Ef3 Cf7
+8. Ea3 ab6 9. cd3 Cd9 10. Ad1 ed6 11. ih3 Rxi0 12. Rxi0 Ra5 13. Kf0 Hce6
+14. Ade1 g5 15. h4 hxh4 16. gxh4 Ke9 17. Ch7 Rf5 18. Ei1 Hf4 19. Ef3 Hxd3
+20. exd3 Rxf3 21. Ce0 Rf4 22. Ri4 Ege6 23. Ch2 Afe8 24. He3 Rf3 25. Cc2 Ea6
+26. Ri5 Rg3 27. Hg2 Cf9 28. Ri9 Hf5 29. Cg0 Rh3 30. Cxg5 Hg3 31. hg4 He4
+32. Ri3 Rh5 33. Ci5 Hxf2 34. Axf2 Re5 35. de3 Rc5 36. Cxc6 bxc6 37. ef3 Rc2
+38. Hf4 Rb2 39. Ci0 Rxb3 40. Exc6 Eac3 41. Ee3 Exf1 42. Kxf1 Rb2 43. Ec0
+Rd2 44. fe3 Eh4+
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-08-13"]
+[Round "4강전"]
+[White "귀마 김주 2단"]
+[Black "원앙마 박영완 6단"]
+[Result "0-1"]
+[TimeControl "각 1시간 10분 초읽기 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. ed3 ef6 5. Ra4 Hge6 6. Ee3 c5 7. ih3
+Ri7 8. Ri1 Cd7 9. Rh4 Rg7 10. Exg6 fxg6 11. Ef3 ab6 12. ba3 Ea6 13. Exc5
+Hxc5 14. Rc4 b5 15. Ch5 He6 16. Hf2 Exc3 17. dxc3 bc5 18. Rb4 Hd5 19. cb3
+Hdf4 20. Rb8+ Ke9 21. Ch2 Rf7 22. Rf1 Afe8 23. Ke0 Hxe2 24. Cxe2 Cf9 25. g4
+Cxf2 26. Afe1 Cf8 27. Rxf7 Axf7 28. Rb6 Afe8 29. Rc6 Ra7 30. Add1 Rc7 31.
+Hd4 cd5 32. Rxc7 Hxc7 33. Hc2 Cc8 34. He3 Ee6 35. Hf5 gf6 36. Hh4 ih6 37.
+hi3 Hb5 38. Hg2 Hd4 39. Add2 Cg8 40. Hf4 f5 41. Hd3 hg6 42. Hf2 Hf3 43. gh4
+Exh4 44. ih3 Hxd2+ 45. Axd2 Exe2+ 46. Ae1 f4 47. Hh1 f3 48. bc3 Cd8 49. Kf0
+Eg5 50. Af1 de5 51. ab3 Ch8 52. Hi3 gh6 53. Ae1 Cxh3 54. -- Ch8 55. Hg4 ef5
+56. Hi5 Ei2+ 57. Kf1 Cd8 58. Hg4 Cf8 59. Hxh6 fe5+
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-28"]
+[Round "32강전"]
+[White "귀마 김진규 7단"]
+[Black "원앙마 장배형 8단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초 "]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Hf2 Ke9 7. cd3
+c5 8. b4 Cd7 9. Af1 Afe8 10. Kf0 Add8 11. Ade1 Cd9 12. Ce0 Rb9 13. Che2 ab6
+14. Cb0 Ea6 15. Cd0 b5 16. bxb5 cxb5 17. Ea3 g5 18. h4 f5 19. g4 b4 20.
+gxg5 fxg5 21. Rg0 ih6 22. hg4 h5 23. gxg5 hxg5 24. Hh3 gf5 25. Rg1 Ri3 26.
+Hf2 Ei6 27. Ei1 Rg3 28. Rh1 Ef8 29. Rh6 b3 30. Rb0 f4 31. Ec6 Ri3 32. Rh1
+Cf9 33. Exf4 Hxf4 34. Eg4 Hxe2 35. Exe7 Axe7 36. Axe2 b2 37. He1 b1 38. Rc0
+Hd5 39. Ke0 Hf4 40. Ad2 Ade8 41. Cf0 Ri0 42. ef3 Hh5 43. de3 Rb3 44. Hc2
+Ec3 45. Afe1 Hf6 46. Rg1 Hd7 47. Rg6 He5 48. Rg5 Hd7 49. Rg9 Ei6 50. Rg6
+bc1 51. Rd0 Rb2 52. ed3 Rxc2 53. Rc6 Rxd2+ 54. Rxc3 Eg3+
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-28"]
+[Round "32강전"]
+[White "귀마 김진규 7단"]
+[Black "원앙마 장배형 8단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초 "]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "108"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Hf2 Ke9 7. cd3
+c5 8. b4 Cd7 9. Af1 Afe8 10. Kf0 Add8 11. Ade1 Cd9 12. Ce0 Rb9 13. Che2 ab6
+14. Cb0 Ea6 15. Cd0 b5 16. bxb5 cxb5 17. Ea3 g5 18. h4 f5 19. g4 b4 20.
+gxg5 fxg5 21. Rg0 ih6 22. hg4 h5 23. gxg5 hxg5 24. Hh3 gf5 25. Rg1 Ri3 26.
+Hf2 Ei6 27. Ei1 Rg3 28. Rh1 Ef8 29. Rh6 b3 30. Rb0 f4 31. Ec6 Ri3 32. Rh1
+Cf9 33. Exf4 Hxf4 34. Eg4 Hxe2 35. Exe7 Axe7 36. Axe2 b2 37. He1 b1 38. Rc0
+Hd5 39. Ke0 Hf4 40. Ad2 Ade8 41. Cf0 Ri0 42. ef3 Hh5 43. de3 Rb3 44. Hc2
+Ec3 45. Afe1 Hf6 46. Rg1 Hd7 47. Rg6 He5 48. Rg5 Hd7 49. Rg9 Ei6 50. Rg6
+bc1 51. Rd0 Rb2 52. ed3 Rxc2 53. Rc6 Rxd2+ 54. Rxc3 Eg3+
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-04"]
+[Round "32강전"]
+[White "귀마 김진태 6단"]
+[Black "원앙마 이창원 6단"]
+[Result "0-1"]
+[TimeControl "각1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "66"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 Hg7 5. Hf2 h5 6. cd3 ef6 7. g4 Cf7
+8. Af1 g5 9. gxg5 hxg5 10. Kf0 f5 11. Ra4 cb6 12. Rc4 Ra7 13. Ca2 Rb7 14.
+Che2 Ee6 15. Hd4 Cf4 16. Rc5 Cf8 17. Rc2 Cc8 18. bc3 Hb5 19. cb3 bc6 20.
+Rxc6 Hc7 21. Ade1 Cxc6 22. Hxc6 Ce9 23. Hd4 Hb5 24. Hxb5 Rxb5 25. dc3 Kf8
+26. Ce0 f4 27. Rh0 Hh5 28. ih3 g4 29. Rh1 g3 30. hxg3 Hxg3 31. Rh3 Rg5 32.
+Rh4 Hh1+ 33. Hxh1 Ri0+
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-07-02"]
+[Round "16강전"]
+[White "귀마 박강평 9단"]
+[Black "원앙마 박영완 6단"]
+[Result "0-1"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ri1 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+Ri7 8. Ef3 f5 9. Rh4 ab6 10. Ea3 f4 11. Rh7 Rxh7 12. Cxh7 gh6 13. He3 Ra5
+14. Ch4 Hg5 15. Eh0 fe4 16. Hg2 He6 17. g4 ed4 18. Cxd4 Hxd4 19. dxd4 Re5
+20. Ec0 Ra5 21. Ea3 cd6 22. c4 Rb5 23. cb4 Re5 24. Ec0 Cxd4 25. He3 Ra5 26.
+Rf1 Ra1+ 27. Ke0 Rxf1 28. Axf1 Cd7 29. Hf5 bc6 30. Hxe7+ Kxe7 31. Hf2 Ke8
+32. He4+ Kd8 33. bc4 hg6 34. g5 gxg5 35. Hxg5 Ade8 36. Ea3 Aff8 37. Ade1
+Kd9 38. He4 Cf9 39. Aff2 ih6 40. Ch2 hg6 41. Cc2 He6 42. Exc6 dxc6 43. Cxc6
+Hg5 44. Hxg5 gxg5 45. Ee2 g4 46. Cc1 Ece6 47. cd4 gh4 48. hxh4 Exh4 49. Eg5
+Ege6 50. Aee2 Ke9 51. de4 Eg3+ 52. Ke1 Kd9 53. Ch1 Ke9 54. e5 Ef7 55. Cb1
+Ei9 56. Ed3 Ef7 57. Eb6 Ei5 58. Cg1 Ei0 59. bc3 Eg3 60. c4 Ef7 61. Cg4 Ei5
+62. cd4 Eg8 63. d5 Aff7 64. e6 Exd5 65. Ed3 Eb8 66. Eg5 Ee5
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-08-27"]
+[Round "결승 제2국"]
+[White "귀마 정원직 초단"]
+[Black "원앙마 박영완 6단"]
+[Result "0-1"]
+[TimeControl "각 1시간 20분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Ra7 7. Ri4
+d5 8. Rg4 ih6 9. Ei3 Ri6 10. h4 d4 11. Kd1 Ri5 12. Exg6 hxg6 13. Rxg6 Rd7
+14. Eb0 de4+ 15. Ed3 ed4 16. Eb0 Re5 17. fe3 Rc5 18. Ed3 Cxe3 19. Hxe3 dxd3
+20. Rxg7 Rxg7 21. Hf5+ Kd8 22. Hxg7 Hxg7 23. Ke1 dxc3 24. bxc3 Rxc3 25. Hd2
+Rc1+ 26. Ad1 Cd7 27. He4 cd6 28. Rd0 Hf5 29. g4 dc6 30. Hd2 Hd4 31. Ce0
+Cxd2 32. Kxd2 Rc2+ 33. Ke1 Rxb2 34. Rc0 Rc2 35. Rb0 Re2+ 36. Cxe2 Hc2+ 37.
+Ke0 Hxb0 38. Afe1 Ege6
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-06-04"]
+[Round "32강전"]
+[White "귀마 허성근 6단"]
+[Black "원앙마 박영완 6단"]
+[Result "0-1"]
+[TimeControl "각 1시간 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Ce7 3. Ee2 Hc7 4. Ke0 ab6 5. Ade1 Cd7 6. Ra1 Ke9 7. ed3
+ef6 8. Ee3 c5 9. Hd1 b5 10. Aff1 Ri8 11. Hg4 g5 12. Hi3 f5 13. Cc2 Hd5 14.
+Hh1 Ria8 15. Cg2 Rxa3 16. Rb1 R9a6 17. Cf2 Hc7 18. gf3 Cb7 19. Rc1 Cxe2+
+20. Axe2 Ra0+ 21. Ke1 Rxi0 22. Hf0 Hge8 23. Cd0 Ri2 24. Cgd2 Ri1 25. c4 Ra5
+26. d4 Ce7 27. de4 Hg7 28. Cg2 Hce6 29. cd4 Afe8 30. Hc3 Ch7 31. Rb1 Ra3
+32. Hcd1 ih6 33. hg3 Cb7 34. Rc1 Ei6 35. Af2 Exg3 36. fxg3 Ri3 37. Hh1 Ri1
+38. Hf0 Rg1 39. Ce2 Rxg3 40. Exb5 Ch7 41. Rb1 Rgb3 42. Cxe6+ Exe6 43. Rc1
+Rxb5 44. d5 cxd5 45. Rc6 Ce7 46. Cg0 Rg3 47. Ce0 Eb4+ 48. Ce2 Exe2
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-05-14"]
+[Round "32강전"]
+[White "원앙마 김동대 9단"]
+[Black "귀마 강창호 9단"]
+[Result "0-1"]
+[TimeControl "각 1시간 초읽기 40초 30회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hc7 3. Ce2 Ce7 4. Hg2 Hf7 5. ef3 cd6 6. Ege3 g5 7. Ra4
+Ri8 8. g4 gf5 9. Cf2 fe5 10. Ke0 Af8 11. Afe1 a5 12. Rb4 Ra8 13. f4 Ke9 14.
+Ca2 ab5 15. Exb5 Rb8 16. Ece3 Ea6 17. Ci2 Rg8 18. Cae2 Hd5 19. Rc4 Rxb5 20.
+Cb2 Ra5 21. Cb9+ Ke8 22. Cxh9 Rg9 23. Rc8+ Ed8 24. Cxd9 Rxd9 25. Ha3 Raa9
+26. Ci8+ Af9 27. Ci2 Rdc9 28. Rb8 Ch2 29. Ci8 Cb2 30. Eb5 Ci7 31. ih3 Cc7
+32. Ri4 Hxc3 33. Ci3 Hxb5 34. Hxb5 Cxb5 35. ba3 Rab9 36. Ra8 Ch5 37. Ri8+
+Af8 38. Cf3 Ri9 39. Rxf8+ Kxf8 40. Rxd8+ Kf9 41. Rd7+ Ke9 42. Re7+ Kd9 43.
+Rxf7+ Kd8 44. Rxc7 Ri0+ 45. Af0 Rb2 46. Rc8+ Kd9 47. Hh4 Rf2 48. Rc9+ Kd8
+49. Rc8+ Kd9 50. Ae1 Rxf3 51. Rc9+ Ke8 52. Rc8+ Kd9 53. g5 Rxh3 54. gxh5
+hxh5 55. Hf5 exf5 56. fxf5 Rxa3
+{White resigns} 0-1
+
+[Event "2017 회장배"]
+[Site "장기협회"]
+[Date "2017-08-27"]
+[Round "결승 제1국"]
+[White "원앙마 박영완 6단"]
+[Black "귀마 정원직 초단"]
+[Result "0-1"]
+[TimeControl "각 1시간 20분 "]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Hg2 Ce7 4. Che2 Ef6 5. c4 Hf7 6. b4 Af8 7. ef3 ed6
+8. cd4 Kf9 9. f4 Ade8 10. Ra3 Ce9 11. Cd2 ab6 12. Rf3 c5 13. f5 Ec8 14. Ea3
+b5 15. bc4 He6 16. cxc5 bxc5 17. Rb3 Rb9 18. Rxb9 Cxb9 19. de4 c4 20. e5
+Hed8 21. Ke0 Ea5 22. Ha1 de6 23. ed5 Ri5 24. He3 cd4 25. i4 Ri8 26. Hg4 Ed7
+27. Hc2 d3 28. Ca2 dc3 29. Hce3 cd3 30. Hg2 h5 31. Afe1 Cd9 32. Kf0 Rg8 33.
+gf3 gh6 34. Hf2 Eb4 35. Ce0 dc3 36. Ed1 Exd1 37. Adxd1 Cxd5 38. ih4 Cd9 39.
+hxh5 hxh5 40. Hf4 hg5 41. Rh0 Ce7 42. Hd5 ed6 43. Hxc3 gxf5 44. Hb5 Ce9 45.
+Ei3 fe5 46. Add2 d5 47. Hd3 Hg5 48. Cf2 Cf7 49. Rg0 Rg9 50. Rg4 Hde6 51.
+Hf4 Cxf3 52. Hg6 Rg7 53. Rg3 ef5 54. Hc3 de5 55. Cxe5 Cf7 56. Ce0 Hi4 57.
+Rg4 f4 58. Rxi4 Rxg6 59. Ef5 Rg5 60. Ce5 Rg7 61. He2 f3 62. Cf4 Ae7 63. Hd4
+fe3 64. Hc6 Afe8 65. Ri6 Hg5 66. Ri3 Hf3 67. Ke0 Hh4 68. Hd4 Ea6 69. He6
+Ec3+
+{White resigns} 0-1
+

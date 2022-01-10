@@ -1,0 +1,318 @@
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전"]
+[White "귀마 임성숙 五단"]
+[Black "원앙마 김귀임 初단"]
+[Result "1-0"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 ih6 3. Ef3 g5 4. Hf2 Ce7 5. Che2 ef6 6. g4 fg6 7. gxg5
+gxg5 8. Af1 Hg7 9. cd3 Ege6 10. Cd2 h5 11. Kf0 Rb9 12. Rb0 Ri6 13. Ade1 Cf7
+14. Ce0 Ke9 15. ih3 Rxi0+ 16. Cxi0 Ade8 17. Cd0 Rb5 18. Ea3 ab6 19. Hd4 Rc5
+20. bc3 Ea6 21. cb3 Rc4 22. Rc0 c5 23. b4 Rxc0 24. Exc0 c4 25. bxc4 Ca7 26.
+c5 Ec9 27. c6 bxc6 28. Hxc6 Ca4 29. Cg2 Hf5 30. Ce2 Af8 31. Ea3 Ee6 32. Ed5
+Kf9 33. Cg0 g4 34. Cc0 Hd9 35. Cxe6 Ed8 36. Cc9+ Ae9 37. Ce2 Ae8 38. Cc5
+hg5 39. Cxf5 Exf5 40. He5 Cf4 41. e4 Ci4 42. d4 Caxe4 43. dxe4 Cxe4 44. Ec5
+Ce6 45. Exe8 Axe8 46. Hd3 Hc7 47. Ea3 Ce9 48. Ec6 Cg9 49. He4 gh5 50. Hf6
+hg5 51. Hh7 Cd9 52. Hxg5 He6 53. Hi6 Hd4 54. Hb4 He6 55. Ce0 Hd8 56. Hg7+
+Ke9 57. Hxe8 Ec3 58. Hg7+ Exe0 59. Kxe0 Cg9 60. He6 Ke8 61. Hxd8 Kxd8 62.
+Hd5 Cg0 63. Hf6 Cc0 64. Hxg4 Cc8 65. He5 Ce8 66. Kf0 Cc8 67. Hf7+ Ke8 68.
+Hd6+ Kd7 69. Ee3
+{Black resigns} 1-0
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "결승전"]
+[White "귀마 송은미 初단"]
+[Black "원앙마 박민선 初단"]
+[Result "1-0"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "98"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Ri4 Ce7 3. Ke0 ef6+ 4. Ade1 Hc7 5. Hf2 ab6 6. Cg2 Hge6 7. Ca2
+Rb9 8. cd3 Ke9 9. Cc2 f5 10. Rc4 ih6 11. a4 fe5 12. d4 Ri5 13. Ee2 ed5 14.
+dxd5 Rxd5 15. He4 Rd4 16. Rxd4 Hxd4 17. Cxc7 Hb3 18. Cg2 Ece6 19. Ha2 Ra9
+20. Cc4 Ei6 21. Ci4 Af8 22. Aff1 Ade8 23. gf3 h5 24. Kf0 g5 25. Cb2 g4 26.
+Hb0 h4 27. hxh4 gxh4 28. Ci9 Ra8 29. Hg5 Ec3 30. Ra3 Rd8 31. ab4 ba6 32.
+Ci0 Rd6 33. Cd0 hg4 34. He4 Rd4 35. bc4 Rxc4 36. Rxb3 gf4 37. Rxb7 fxf3 38.
+Hd6 Rd4 39. Rb9+ Ad9 40. Hc8+ Ke8 41. exf3 Ad8 42. Ee3 Cxe2 43. Hd1 Rh4 44.
+Exc6 Ce9 45. Hxc3 Rh3 46. Ad2 Rxf3 47. Hd6+ Kf9 48. Hce4 Ef4 49. Rb5 Rb3
+{Black resigns} 1-0
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전"]
+[White "원앙마 박민선 初단"]
+[Black "귀마 신귀하 初단"]
+[Result "1-0"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hd7 2. Hg2 Ed6 3. Hc2 ab6 4. Cbe2 Ce7 5. Cf2 ef6 6. Ci2 Hi7 7. ed3
+Ch2 8. Hce3 Ra5 9. d4 Ee6 10. g4 Ke9 11. h4 Afe8 12. Ke0 Ri8 13. Ade1 Rb5
+14. Ra2 Rb0 15. Rc2 Cc7 16. Rh0 Ch8 17. hi4 ih6 18. ih4 hi6 19. Ri0 Ri9 20.
+Cf2 Hg8 21. Cd0 Rb1 22. c4 c5 23. Cxd6 bc6 24. Cd0 cxc4 25. dxc4 Cf8 26. a4
+Cg7 27. ab4 Kf9 28. Ea3 cb6 29. Rd2 Add8 30. Ed1 Exb4 31. cxb4 Rxb4 32. Ra2
+Rb0 33. Ra9+ Add9 34. Ri3 Cg9 35. Hc2 Rc0 36. Rc3 Ce9 37. Ra5 ih6 38. Ei3
+He5 39. Rd5 Hf3 40. Rd6 Ri5 41. Ea3 Hg1+ 42. Aff1 Rc1 43. Cxd9 Cxf1 44. Cd1
+Rb1 45. Axf1 Hi0 46. Ae1 Re5 47. Hge3 Ri5 48. Ci1 Hg1+ 49. Cf1+ Hf3 50.
+Cxb1 Rxi3 51. Cf1 He7 52. Rc7 Hf5 53. Rd9 Ri8 54. Rcd7 fe6 55. Hxf5 ef6 56.
+Hfe3 Axd7 57. Rxd7+
+{Black resigns} 1-0
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승전"]
+[White "원앙마 박민선 初단"]
+[Black "귀마 봉재숙 初단"]
+[Result "1-0"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hg7 3. Ce2 Ed6 4. Hg2 Ce7 5. Cf2 Hd7 6. Ke0 Ke9 7. Ade1
+Afe8 8. Cd0 Ci7 9. Ei3 Cbe7 10. Rh0 ih6 11. ed3 gf6 12. g4 e5 13. h4 Cf7
+14. Hce3 f5 15. Aff1 Add8 16. Cg0 Cd9 17. gf4 Ri7 18. fxf5 exf5 19. Exf5
+Ra5 20. Cg5 Ra7 21. Cxg9 Ri5 22. Eh2 Cf9 23. Cg3 Hh9 24. Cg0 Hf8 25. Cd0
+hg6 26. d4 Ef3 27. Rg0 Cd9 28. Hf4 gf6 29. Hfd5 Ed6 30. Hxf6 Cf9 31. Rg9
+Kd9 32. Hxd7 Adxd7 33. d5 Ri6 34. Rb0 He6 35. dxd6 cxd6 36. Rxb6 Hf4 37.
+Rb9+ Kd8 38. Ce4 Re6 39. Rb6 Kd9 40. c4 Ke9 41. cd4 dc6 42. Rb9+ Ad9 43.
+Cf0 Hg6 44. Rxf9#
+{White mates} 1-0
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "3∼4위전"]
+[White "귀마 봉재숙 初단"]
+[Black "귀마 임성숙 五단"]
+[Result "0-1"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "170"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 gf6 6. Rb0 Ra5 7. Hf2
+Rc5 8. Ef3 Ri5 9. Rxi5 ixi5 10. Exc6 bxc6 11. Rb8+ Ke9 12. Rc8 He8 13. Rxc6
+Af8 14. He3 Kf9 15. Rc4 Ce9 16. Rh4 Cd7 17. Eh6+ Ch7 18. Ee4 Cd7 19. Af1
+Ad8 20. Ke0 -- 21. Ade1 Cd9 22. Eh6+ Hxh6 23. Rxh6 Hd6 24. Rh8 Ade8 25. Kf0
+Aff7 26. Ce0 Ee7 27. Cg0 ih5 28. Cd0 hg5 29. g4 gf5 30. Ce2 Hb5 31. ab3 fe5
+32. gf4 Ea6 33. Rh5 Hc7 34. Ke0 Aff8 35. Rh4 Hb9 36. fe4 ef5 37. ed4 Hd8
+38. Hd5 Cxd5 39. dxd5 Ri1 40. Cf0 Aef7 41. Cxe7 Axe7 42. Kd0 Hf7 43. hg3
+Aee8 44. gf3 Ri6 45. de3 Hh6 46. Rh2 Ch9 47. Rg2 Cd9+ 48. Ke0 Hf7 49. cd3
+Ri4 50. bc3 Ed8 51. dc5 Ke9 52. Rg8 Aff9 53. Cd0 Ea6 54. cd5 f4 55. fxf4
+Rxf4 56. Ri8 Ra4 57. Ad1 Ra3 58. Afe1 Exc3 59. dxc3 Rxc3 60. ed3 Rc0 61.
+Ri6 Hd8 62. de5 exe5 63. Rxf6 Aff8 64. Rh6 Cf9 65. Rh5 ef5 66. de3 He6 67.
+e4 Hc5 68. Rh3 Hd7 69. Re3 Cd9 70. Hh1 Hc5 71. Hg3 Cf9 72. e5 fxe5 73. Rxe5
+Hd3 74. Re2 Hb4 75. He4 Hc2 76. Hg5 Hxd0 77. Adxd0 Rc7 78. He6 Re7 79. Hd4
+Ri7 80. Af0 Rd7 81. Re4 Cd9 82. He2 Re7 83. Rxe7 Axe7 84. Hf4 Afe8 85. Hg6
+A7f7
+{White resigns} 0-1
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "준결승전"]
+[White "귀마 임성숙 五단"]
+[Black "원앙마 송은미 初단"]
+[Result "0-1"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "116"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 ef6 5. g4 He6 6. cd3 c5 7. Hf2 Hg7
+8. Af1 Ra8 9. i4 h5 10. Kf0 Rb8 11. b4 Ke9 12. Ade1 Rbi8 13. Ce0 Rxi4 14.
+Rxi4 Rxi4 15. Ed6 Afe8 16. Ra3 Cf7 17. Cd2 Cxf2+ 18. Aexf2 Rxg4 19. ef3 c4
+20. d4 cxd4 21. Rc3 hg5 22. Rxc9 d3 23. Ca2 Ad8 24. A1e1 Ed7 25. Rc6 a5 26.
+Ea3 dc3 27. Rxc3 Rxb4 28. Cd2 a4 29. Ec0 Rg4 30. Ca2 gf5 31. He3 ab4 32.
+Ea3 Hi6 33. Ea8 fe5 34. Hd1 e4 35. fg3 Ri4 36. Ed6 Hd4 37. Rd3 fe6 38. Ea8
+b3 39. Ec6 Ea5 40. Rd2 Hxc6 41. Ec5 gf6 42. Rd5 He5 43. Ca9+ Ae8 44. Exe8
+Ed7 45. Ci9 Hh4 46. gh3 Hhg6 47. Cc9 Hf4 48. Aef1 ed4 49. He3 Hxd5 50. Hxd5
+ed6 51. Hb6 Kxe8 52. Hc8 de6 53. Cc1 Hd3 54. Cg1 Rf4 55. A2e1 Rg4 56. Hb6
+Rxg1 57. Hd5 Ce5 58. Aff2 Hf4
+{White resigns} 0-1
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전"]
+[White "맞상 조경자 四단"]
+[Black "맞상 송은미 初단"]
+[Result "0-1"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hd7 2. Hf2 Cc7 3. Ce2 Ci7 4. Ci2 ab6 5. Ef3 Ce7 6. Hc2 ef6+ 7. Kf1
+f5 8. ed3 f4 9. Ec1 Ed6 10. Afe1 Hg7 11. Kf0 ih6 12. Cie2 Ei6 13. Rg0 Cf7
+14. Ke0 Af8 15. Cd2 f3 16. gxf3 Exf3 17. Add1 Cf9 18. Cf0 Ed6 19. Kd0 Eg9
+20. hg3 Ee6 21. g4 Ri5 22. He3 Ke9 23. Ea4 Ade8 24. Cd2 Cc9 25. Exd6 cxd6
+26. Cxd6 Exc3 27. dxc3 bc6 28. Cxh6 gxh6 29. g5 Ra5 30. g6 Cg9 31. a4 Ra6
+32. gxg7 Cxg0 33. Hxg0 Ri0 34. Ce0 Rxg0 35. Hf5 Kd9 36. a5 Ca7 37. Rb0 Rxa5
+38. Ee3 Rh0 39. Hd4 cb6 40. He2 Cxg7 41. cd3 Ca7 42. Af0 Rh2 43. Ade1 Ce7
+44. Aff1 Cxe2 45. Rb2 Ra3 46. dc3 Rxc3 47. Axe2 Rd3+
+{White resigns} 0-1
+
+[Event "제3회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2018년"]
+[Round "8강전"]
+[White "맞상 장민희 아마 2단"]
+[Black "맞상 봉재숙 初단"]
+[Result "0-1"]
+[TimeControl "각 15분, 초읽기 30초 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "176"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hg7 3. Ce2 Ce7 4. Hc2 Hd7 5. Ke0 Ed6 6. Afe1 ef6 7. ed3
+Ee6 8. Add1 Ad8 9. Ee3 Kd9 10. Cd2 Afe8 11. Cf0 Ce9 12. Ri4 Ra5 13. Rc4 Cc9
+14. Ra4 Rxa4 15. axa4 Cf9 16. Cg2 ih6 17. Kd0 Ce7 18. Ce2 Ri5 19. ab4 Cc7
+20. Ra2 c5 21. c4 cxc4 22. bxc4 Ce7 23. Cd2 Ri0 24. Cxd6 Rxh0+ 25. Ce0 Ri0
+26. Cd2 Ke9 27. Cf0 Ri5 28. Ce2 Cd9 29. Ke0 Rb5 30. d4 Rb3 31. gf3 f5 32.
+Hg0 g5 33. d5 bc6 34. Cd0 Rc3 35. cd4 Eb4 36. Ce4 fe5 37. Cxb4 exd5 38. de4
+c5 39. Cf4 h5 40. Cff2 de5 41. ed4 gf5 42. Kf0 Cf9 43. Hh2 hg5 44. Cg0 Hh9
+45. hg3 Hf8 46. Ce0 Kd9 47. Hi4 c4 48. dxc4 Rxc4 49. Hh2 e4 50. Hf1 exe3
+51. Hxe3 Rc5 52. Ra4 fe5 53. Hh2 gf5 54. Hi4 Rc6 55. Hc4 Ce9 56. Hd2 Ri6
+57. Hh2 fg5 58. Hb3 Rb6 59. Hd4 gf5 60. He2 He6 61. f4 Hec5 62. Rc4 Cc9 63.
+Rd4 fxf4 64. Rxf4 He4 65. gf3 Hxf2 66. Axf2 Ce9 67. Ade1 e4 68. Rf5 Hf8 69.
+Rd5 Rb3 70. Hc3 Rxc3 71. Cxe4 Cxf3+ 72. Hxf3 Rxf3 73. Ce0 Cc9 74. Cg0 Cf9
+75. Rd2 Rg3 76. Cd0 Ke9 77. Ke0 He6 78. Aff1 Re3 79. Cf0 Cd9 80. Rf2 Re4
+81. Cd2 Ra4 82. Ad0 Hc5 83. Cg2 Cd7 84. Afe1 Hd3 85. Rf1 Hf4 86. Rf3 Cf9
+87. Rg3 Hxg2 88. Rxg2 Re4
+{White resigns} 0-1
+

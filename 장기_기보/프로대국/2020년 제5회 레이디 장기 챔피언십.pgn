@@ -1,0 +1,636 @@
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 1경기"]
+[White "송은미"]
+[Black "강덕원"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "57"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hg7 3. Cg2 Hc7 4. Cxg6 ef6 5. Ca2 Cbe7+ 6. He4 ba6 7. Cg1
+Hge6 8. Hxf6+ Ke9 9. Hg8+ Af8 10. Hxi9 Cxh0 11. Rxh0 Rb9 12. ab3 ih6 13.
+Cxg9 hg6 14. gf3 ab6 15. Hg8 gf6 16. Hxf6 Ea6 17. hg3 c5 18. Rh9 Afe8 19.
+Cxd9+ Af9 20. Cxf9 Kd9 21. Cxb9+ Kd8 22. Rf9 Ce5+ 23. Kf1 Ce8 24. Ra1 Exc3+
+25. bxc3 cd5 26. Hc2 bc6 27. Rd1 Hd4 28. Hxd5 Hxc2 29. Hxc7+
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 4경기"]
+[White "박민선"]
+[Black "임성숙"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 Hd7 4. Cbe2 gf6 5. ed3 c5 6. g4 Ed6 7. ab3 Ad8
+8. h4 Kd9 9. Hce3 Afe8 10. Cf2 Ce9 11. Ke0 ab6 12. ba3 ih6 13. Ei3 h5 14.
+Ade1 hxh4 15. gxh4 Cf7 16. Aff1 Hf5 17. Ci2 Ei6 18. Exf5 Rg9 19. Cf2 Ef8
+20. Cd0 Ef3 21. Aff2 Ca7 22. ab3 Cae7 23. Rxa9+ Cxa9 24. Ei7 Ri9 25. Ri3
+Ed6 26. Eg4 Cxe3 27. Rxi9+ Cxi9 28. Exe3 Ea8 29. d4 Cc9 30. c4 b5 31. b4
+bxb4 32. cxb4 Cg9 33. Hi3 Cc9 34. b5 Cf9 35. bxc5 Exc5 36. dc4 Ea8 37. h5
+Ed6 38. Exd6 exd6 39. hg5 fe6 40. g6 Ei6 41. c5 Eg3+ 42. Aff1 Cc9 43. c6
+dxc6 44. Exc6 Ed5 45. Hh5 Ce9 46. Hf4 Eb2+ 47. Kf0 ed6 48. Ea3 Ee4 49. Ed1
+dc6 50. Ce0 Hc5 51. gf6 Ce5 52. fe6 Ke9 53. Ea3 Ce3 54. Exc6 Hxe6 55. Hxe6
+Cxe6 56. Cxe4 Kf9 57. Cf2
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 7경기"]
+[White "신귀하"]
+[Black "천미향"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "111"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 ab6 2. Ce2 Hc7 3. c4 Ce7 4. g4 Hg7 5. Hc2 ih6 6. Cd2 ef6 7. e4 Cf7
+8. ed4 Ad8 9. Ke0 Cd9 10. Ade1 Hce6 11. Ca2 ba6 12. ab3 Rb9 13. b4 Ke9 14.
+Hge3 Afe8 15. Ra1 Ri5 16. i4 Ri8 17. Ri3 h5 18. Ad1 Rh8 19. Afe1 ab6 20.
+Cd2 Ea6 21. Cb2 Ca9 22. Rb1 Rc9 23. Hd5 Ci7 24. ih4 Ei6 25. Rh3 c5 26. Hf4
+f5 27. Hg2 cb5 28. hxh5 g5 29. gxg5 fxg5 30. h6 gh5 31. hxi6 Ce7 32. Ri3
+Cd9 33. Cd2 Cg9 34. Hi1 Hf4 35. Rf3 Hge6 36. bxb5 bxb5 37. Rxb5 Cd9 38. Rb7
+Cf9 39. Rb6 Cxf3 40. Kd0 Ra9 41. Hb4 Cf9 42. Ce0 Cd9 43. Hxa6 Rf8 44. Hb4
+Rf7 45. Hc6 Cd6 46. Hxd8 Axd8 47. Rxd6 Ae8 48. Ei3 Hg5 49. Cf0 Hd3 50. Ef1
+Rg7 51. Ee3 Ad9 52. Ec6+ Ke8 53. Exa9 Ad8 54. Hg2 Hc1 55. Rb6 Ha2 56. Rb2
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 8경기"]
+[White "박혜연"]
+[Black "허자임"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Ri5 3. Cc2 ed6 4. Ci2 Rf5 5. gf3 Ee6 6. He4 Hd7 7. Ee2
+Cc7 8. Cc2 Cg7 9. Cg2 Rh5 10. Ke0 Rh1 11. Afe1 Hhf8 12. Add1 d5 13. c4 de5
+14. Hg3 e4 15. Hi2 exe3 16. Exe3 cd6 17. Hf1 Cf7 18. fg3 Rh4 19. b4 Rf4 20.
+ih3 Cxf1 21. Rf0 Cc7 22. Rxf1 Rxf1 23. Axf1 Ce7 24. Ra3 d5 25. Afe1 de5 26.
+cd4 Ad8 27. Eb5 Cb7 28. Exd8 Kxd8 29. Rc3 Ce7 30. Rc8+ Kd9 31. bc4 Ke9 32.
+Cf2 Ae8 33. gf3 Hh7 34. Cd2 ab6 35. Cxd7 Ra0+ 36. Add0 Ed6 37. Cd2 Exf3 38.
+Cd3 Ci7 39. hg3 Ra3 40. Cd6 Cd7 41. gxf3 Rxf3 42. Rb8 bc6 43. Rb9+ Ad9 44.
+Ca6 Hf8 45. Hh0 Ke8 46. Hf1 h5 47. Cf0 Ra3 48. Cxf8 Rxa6 49. Cf0 Eh4 50.
+Exh4 hxh4 51. Rb5 cd6 52. Rxe5+ Kd8 53. Re4 h3 54. Re3 de6 55. Rxh3 gf6 56.
+Rb3 Ae8 57. Add1 Ra1 58. Cd2 Ra5 59. He3 e5 60. Hg4 fe6 61. Rb6 Ra0+ 62.
+Add0 ef5 63. Rxe6 fg5 64. He5 Ra7 65. Rb6 g4 66. Hxd7 Axd7 67. Rg6 gf4 68.
+d5 f3 69. Rf6 fe3 70. Cd6+ Ae8 71. Cd4+ Ad7 72. d6
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 1경기"]
+[White "송은미"]
+[Black "김순선"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "89"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hg7 3. Cg2 Hc7 4. Cxg6 Cbe7 5. Ee2 Ca7 6. Ha2 Che7 7. Cg1
+Ri7 8. Ke0 Ke9 9. Ade1 Ade8 10. cd3 Cd7 11. Hc3 Aff8 12. Hd5 ed6 13. Hf4
+Ee6 14. Hg6 Ca7 15. Ca1 Kd9 16. Hxi7 Cxi7 17. Rg0 Cif7 18. He4 Cf9 19. gf3
+Ea6 20. Cc2 Hb9 21. Rxg7 Hd8 22. ab3 Ra8 23. Rxa7 Rxa7 24. Cxa7 Hb9 25. Ca1
+Hd8 26. Ch1 Cd7 27. b4 d5 28. b5 Aff7 29. bxb6 cxb6 30. Hg5 Cg7 31. Hxi6
+Ca7 32. Rb0 bc6 33. Cd1 Ci7 34. Cxd5+ Cd7 35. Cc8 Ke9 36. Rb9+ Cd9 37. Hg5
+Kf9 38. Cd2 Aff8 39. Cxd8 Exd8 40. Hxe6 cd6 41. Hg7+ Ke9 42. Rb4 -- 43. Re4
+d5 44. Cxe8 Axe8 45. Rxe8#
+{White mates} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 2경기"]
+[White "박민선"]
+[Black "김영숙"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "39"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hg7 3. Ce2 Ce7 4. Ca2 Ce5+ 5. Kd1 Ci7 6. Cxa9 Cxi0 7.
+Cxc9 Cxg0 8. Hg2 ih6 9. Ce2 Ri4 10. ab3 Ed6 11. ed3 Ei6 12. Hce3 c5 13. Ra7
+Hi8 14. Hg4 Kd8 15. Hxe5 exe5 16. Rb7 b5 17. Rb6 Eg8 18. Cxf9 Exg3 19. Rb8+
+Kd7 20. Re8#
+{White mates} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "준결승 2경기"]
+[White "박혜연"]
+[Black "이경화"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hd2 Ce7 3. Ee2 ih6 4. Ke0 Hg7 5. Afe1 e5 6. Add1 Hce6 7. gf3
+Cf7 8. Hg2 c5 9. Cf2 Af8 10. c4 cd5 11. Cd0 Cf9 12. Cf0 Ri8 13. ih3 Ei6 14.
+h4 Ke9 15. Cb8 Af7 16. Cb2 Ade8 17. hg4 Aff8 18. Ei3 h5 19. Rh0 g5 20. gxg5
+hxg5 21. Cb4 Ra7 22. Ci4 Rg8 23. Ci2 Rc7 24. Ci0 Eg9 25. Cg0 Ca7 26. Rb0
+Rd7 27. bc3 Rc7 28. Rb3 Ce7 29. Cc0 gh5 30. cd4 Rd7 31. dxd5 exd5 32. Cg0
+Rh8 33. Cf2 Ei6 34. c4 Rd6 35. He4 de5 36. Cgd0 Rb6 37. Rxb6 axb6 38. Hc5
+Ea6 39. Hxe6 Hxe6 40. Cf6 Hc7 41. c5 Rh6 42. Cff2 Rg6 43. Rxh5 He6 44. cd5
+Rxg2 45. dxe5 Hg7 46. Rh6 Ec9 47. Rxb6 Eg3 48. Kf0 Ece6 49. ef5 Ri2 50. Eg6
+Cxf5 51. Rb9+
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "3·4위 순위 결정전"]
+[White "박민선"]
+[Black "이경화"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "61"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hg7 2. Hf2 Hc7 3. Ri4 Ke9 4. Ef3 Che7 5. Ce2 ef6 6. ab3 Hge6 7. Ed3
+f5 8. e4 Ad8 9. Ra4 c5 10. Exc5 Hxc5 11. Rc4 H5e6 12. Hd2 Ef7 13. Rc6 Ci7
+14. Rg4 Cbe7 15. Rxg6 f4 16. Cxe6 Hxe6 17. Rcxe6 fxe4 18. Hxe4 Afe8 19. Ce2
+Eh4 20. Hf6 Egxe6 21. Hg8+ Kd9 22. Hxi9 Exe2 23. Rxe6 Ci2 24. Hg8 Ra7 25.
+Hxe7 Rxe7 26. Rxe2 Ci9 27. Rxe7 Axe7 28. g4 Cc9 29. g5 ih6 30. h4 Ce9+ 31.
+Kd1
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 2회전"]
+[White "송은미"]
+[Black "박혜연"]
+[Result "1-0"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hf7 3. Cg2 Ce7 4. Ca2 Ha7 5. Ri4 Cb5 6. Ke0 Cb8 7. Ade1
+Cf8 8. Hd1 ed6 9. gf3 g5 10. Ri1 Ef6 11. hg3 Ee6 12. Ee2 Ci7 13. Rg1 Cc7
+14. ab3 Rc9 15. Cf2 Cg7 16. Cxf6 gf5 17. gh3 Ca8 18. Ca2 Rg9 19. Aff1 ih6
+20. f4 fxf4 21. Cff2 Ce7 22. Rxg9 Hxg9 23. Cxf9 Kxf9 24. Cf2+ Ke8 25. Rxa7
+Ch8 26. Ra4 Cxh3 27. Rxf4 Ch9 28. Rf6 h5 29. ef3 Ke9 30. Ee3 Ae8 31. Eg6+
+Kd9 32. Cd2+ Ad8 33. Rf8 Rc8 34. Cd7+ Ae8 35. Cd3+ Ad8 36. He3 hg5 37. Hd1
+c5 38. f4 bc6 39. f5 cd5 40. fxg5 Ae8 41. Rg8 Ce4 42. gf5 Cf9 43. f6 Rc7
+44. fxe6
+{漢의 다음 수는 44兵45卒 打
+自將}
+
+{Black resigns} 1-0
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 2경기"]
+[White "노신예"]
+[Black "김순선"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "32"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hc7 5. Ee3 ed6 6. Ed3 Hge6 7. Ke0
+c5 8. Ri1 d5 9. Ria1 Cd7 10. Ade1 Ke9 11. Hd2 d4 12. Kd0 cd5 13. Exg6+ hxg6
+14. Kd1 dxd3 15. cxd3 Cxd3+ 16. Hb1 Cd7+
+{楚의 다음 수는 01楚車03
+漢의 다음 수는 34漢包94楚宮 打}
+
+{White resigns} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 3경기"]
+[White "송경화"]
+[Black "김영숙"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "50"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hg7 3. Hg2 Ce7 4. Cbe2 ef6 5. ed3 Ee6 6. Ch4 Hd7 7. Ad1
+Ri8 8. Ch1 Ke9 9. Ee3 Exc3 10. dxc3 Ed6 11. Ed3 Afe8 12. Af1 He6 13. Hb1
+Cxb1+ 14. Kf0 Cb8 15. gf3 Exf3 16. Ch4 Cg8 17. He1 Cxe3 18. Ch1 Cxc3 19.
+Ce0 Ed6 20. Ce2 Ce3 21. Ri4 Ce7 22. Ch4 Hf4 23. Eb0 Hxe2 24. Ad2 Hf4 25.
+Ch0 Hg2#
+{Black mates} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 5경기"]
+[White "이은성"]
+[Black "이경화"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ri4 ef6+ 4. Ce2 Hc7 5. ab3 Hge6 6. Ed3 f5 7. ef3
+c5 8. Rb4 cb5 9. Ri4 Af8 10. Ee3 bc5 11. Rb4 cb5 12. Ri4 Ke9 13. Eb6 bc5
+14. c4 cd5 15. Hd2 Ade8 16. Ke0 Cd7 17. Afe1 Cf9 18. Exe8 Axe8 19. Ci2 Ri7
+20. Cbe2 g5 21. Cf2 Rg7 22. Kf0 ih6 23. Ce0 Ei6 24. Ri0 Rg9 25. Cg0 Ci9 26.
+Rh0 h5 27. Add1 Ef8 28. Ri0 Cf9 29. Ri4 Rg7 30. g4 Rh7 31. gxg5 hxg5 32. h4
+Rh6 33. Ri9 Ca7 34. Rc0 Cg7 35. Ri2 ab6 36. Ke0 Cb7 37. Ch2 Rf6 38. Ce2 Ce7
+39. Ri9 Ri6 40. Rxi6 Exi6 41. Cb2 b5 42. Cf2 Ef8 43. Kf0 Cd9 44. b4 bxb4
+45. cxb4 dc5 46. Cc2 Ra1 47. Add0 Ra7 48. Cc6 Ea6 49. b5 Cg9 50. Hi3 Ad8
+51. Cf6 cxb5 52. Cd6 Cc9 53. Rb0 bc5 54. Rb8 Ae8 55. Rc8 Cf9 56. Hh1 f4 57.
+fxf4 Cxe3 58. Hf1 Ce7 59. hg4 gxg4 60. fxg4 Ec3 61. Ce0 Exf1 62. Axf1 Ra1
+63. Cf6 Hd5 64. Rc6 Hec7 65. Ade1 Hd9 66. Ce5 He3 67. Hf2 Hg2+ 68. Ke0 Ed5
+69. He4 Eb2+ 70. Kd0 Ra0+ 71. Kd1 Exe4 72. Rxc5 Ra1+ 73. Kd0 Ra6 74. Cf0
+Hxf0 75. Afxf0 Rd6+ 76. Ad1 Eb2 77. Ae1 Ed5 78. gf4 Cd7 79. fe4 Eb2 80. Ke0
+Exe4
+{White resigns} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "16강 6경기"]
+[White "최은주"]
+[Black "조경자"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "66"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hd7 2. Hg2 Ed6 3. Hd2 Ce7 4. Cbe2 ef6 5. ef3 Ee6 6. Ee3 cb6 7. ih3
+Hf8 8. Ri4 Ce5 9. Ed3 Rc9 10. Kf1 Ca7 11. Rc0 Cf7 12. Cf2 i5 13. Cc2 Rb9
+14. Rg4 Ri6 15. Rd4 Exf3 16. gxf3 ih5 17. Afe1 Ke9 18. Hf4 hg5 19. hg3 gf5
+20. Hd5 Afe8 21. g4 Ri3 22. gf4 fxf4 23. Cxf4 Ri4 24. Rc4 Add8 25. Ccf2 Cd9
+26. Hc7 Rc9 27. Hxd9 Rxc4 28. cxc4 Adxd9 29. c5 f5 30. Cxf8 Hxf8 31. c6
+Ri1+ 32. Kf0 Ri0+ 33. Kf1 Eh4#
+{Black mates} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 3경기"]
+[White "조경자"]
+[Black "이경화"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "134"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. Hf2 Ce7 3. Ce2 ed6 4. Ef3 He6 5. ed3 Hhg7 6. Ee3 g5 7. ab3 d5
+8. Hd1 Ad8 9. Ke0 Cf7 10. Ade1 Cd9 11. Kd0 Ke9 12. Ce0 Afe8 13. Cg2 Ci7 14.
+Rg0 Ca7 15. Rc0 ih6 16. Cd2 c5 17. g4 h5 18. c4 Ch7 19. cxc5 dxc5 20. Ec6
+Cc7 21. bc3 ab6 22. Ef4 gf5 23. Rb0 cb5 24. Ce2 Ra8 25. Aff1 Ch7 26. Cf0
+Ce7 27. Ce0 Ri7 28. Cd2 fxf4 29. gxf4 Hxf4 30. Rg4 Hfe6 31. Rc4 Ea6 32. Eh6
+Ri6 33. Exe8 Axe8 34. hg3 Cf9 35. Rg4 hg5 36. Rh4 Hh5 37. g4 Ch9 38. gxg5
+Cxh4 39. gxh5 Ch9 40. Cf0 Cf9 41. He3 Exc3 42. Hd5 Cd9 43. Cd2 Exe0 44.
+Hxe7 Axe7 45. Kxe0 Ri0+ 46. Cf0 Rh8 47. de3 Rxh5 48. Rc0 Ed7 49. Rc4 Ef4
+50. Re4 Rh6 51. ef3 Ei2 52. Ri4 Ae8 53. Ad1 Rhh0 54. Ade1 Exf0 55. Re4 Hg5
+56. Rg4 Rg0 57. fg3 He6 58. Afxf0 Rg2 59. Re4 Hc5 60. Re3 Cf9 61. Hg4 Ri6
+62. Rc3 Re6 63. Rc4 Hd7 64. Rc3 Rg0 65. Hi3 Hf6 66. gf3 Hg4 67. Hh5 Rxf0#
+{Black mates} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "8강 4경기"]
+[White "신귀하"]
+[Black "박혜연"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "143"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hf7 2. Hc2 ih6 3. c4 Cg7 4. ef3 Ee7 5. Ke0 ab6 6. Afe1 He5 7. a4
+Hxc4 8. Cbe2 He5 9. Hf0 Ca7 10. Ca2 Cc7 11. Hd4 cd6 12. Hfe2 Ke9 13. Hf5
+Ade8 14. Rb0 b5 15. Rxb5 Exb5 16. ab4 Hc6 17. bxb5 Cxc0+ 18. Ad1 Cc7 19. b6
+Hb4 20. Cf2 e5 21. He3 Ad7 22. b7 Ci7 23. ih3 hi6 24. Rxi6 Ci0+ 25. Rxi0
+Rxi0 26. bxa7 Rxa7 27. Cd0 de6 28. Ch9+ Ae8 29. Cxc9 Ra0 30. Af0 Rxg0 31.
+Cg9 Ri0 32. Cxb9 gf6 33. Ae1 Rc0 34. Cg9 Hc2 35. Hxc2 Rxc2 36. Cg2 Rc6 37.
+Cd2 Ade7 38. fe3 Rc4 39. gf3 Ra4 40. hg3 Rii4 41. C2f2 Ri6 42. Hc3 Rc4 43.
+Hd1 e4 44. exe4 Rxe4 45. fe3 Re5 46. gf3 Rii5 47. f4 Ra5 48. e4 Ra1 49. Hc3
+Rc5 50. He2 Ra6 51. Hd4 e5 52. exe5 Rxe5 53. He2 Re3 54. Aff1 fe6 55. Cff0
+ed6 56. Ad2 dc6 57. Ade1 c5 58. f5 c4 59. f6 c3 60. Aff2 Ra4 61. Aff1 cd3
+62. Cff2 Rc4 63. Cdf0 Ri3 64. C2d0 de3 65. Aff2 exe2 66. Aexe2 Ri0 67. Aee1
+Rc6 68. -- Rxf6 69. Aff1 Re6 70. Cf2 Ri1 71. Kd0 Rd6+ 72. Cd2
+{White resigns} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "준결승 1경기"]
+[White "박민선"]
+[Black "송은미"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hd7 2. Ce2 Ee7 3. ih3 ab6 4. Hg2 Ke9 5. Cf2 Ri8 6. Ei3 gf6 7. e4 Hg7
+8. Ce0 Cf7 9. Ca2 Rc9 10. Hge3 Ci7 11. Cg2 ih6 12. Rh0 He8 13. ab3 Ei6 14.
+Ra7 Rb9 15. Ea3 Hec9 16. Ra5 c5 17. ed4 Cb5 18. Ra4 Ci9 19. b4 Ch5 20. Rg0
+Exg3 21. Cg9+ Ae8 22. Rxg3 Hb8 23. d5 Hcd7 24. Ec0 Ha6 25. c4 Ch8 26. Ci0
+Ci6 27. Rg8 cxd5 28. Hxd5 Ci2 29. Ra3 e5 30. Hc7 Rb7 31. Hxd9 Kxd9 32. Ad1
+Cf8 33. Rg2 Ci7 34. Cd0 Cd8 35. Rag3 Ci9 36. Rg7 hi6 37. Rh7 Rc7 38. Ea3
+ef5 39. He3 f4 40. Ke0 f3 41. Hf1 He5 42. Afe1 Hf7 43. Cgg0 Exc4 44. bxc4
+Rxc4 45. Cf0 Cb9 46. Cxf3 Ce9 47. Kf0 Hd6 48. Rg9 Rg8 49. Rxg8 Cxg8 50. Cd0
+bc6 51. Ra7 Hb4 52. Rc7 Rc3 53. Ed5
+{White resigns} 0-1
+
+[Event "제5회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2020년"]
+[Round "결승 1회전"]
+[White "박혜연"]
+[Black "송은미"]
+[Result "0-1"]
+[TimeControl "각 15분, 30초 초읽기 3회, 총 대국시간 60분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "66"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Ri5 3. Cc2 ed6 4. Ci2 Rh5 5. ih3 Ee6 6. Ce2 Hd7 7. Hg2
+Ce7 8. ef3 Hg7 9. Cf2 Cf7 10. Ri4 Re5 11. Af1 Rxe2+ 12. Exe2 Exc3+ 13. Kf0
+Exa0 14. Hc4 de6 15. Ade1 ab6 16. He3 e5 17. Rg4 Ed6 18. Rf4 Cc7 19. b4 gf6
+20. Ri4 Eb3 21. Ei3 Ec3 22. Hc2 Ra0+ 23. Hb0 Ce7 24. Rc4 Cxe2 25. Rxc3
+Rxb0+ 26. Ae0 Ce6 27. Ae1 Cc7 28. Rd3 Cxe1 29. fe3 ef5 30. Ch2 Ce6 31. Ce2
+Cf7 32. gf3 Rb2 33. Ce4 Rf2#
+{Black mates} 0-1
+

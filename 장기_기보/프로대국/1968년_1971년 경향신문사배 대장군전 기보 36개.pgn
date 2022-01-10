@@ -1,0 +1,2053 @@
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제7국"]
+[White "梁周浩 三段"]
+[Black "金明水 四단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "172"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. Ci2 Rh9 5. ih3 Che7 6. Ce2 c5 7. Ed3
+cd5 8. Ri4 Ed6 9. Rc4 Ad8 10. Rc6 ab6 11. Rxa9 bxc6 12. c4 Ri9 13. Ea5 Ri5
+14. Ra6 dc5 15. Rxc6 cb5 16. Hd2 bxa5 17. b4 gf6 18. Ei3 Ei6 19. Ad1 Rg5
+20. He4 Cxe4 21. exe4 Ce7 22. cd4 Exg3 23. Ad2 Ei6 24. Ce0 Rf5 25. hg3 Rh5
+26. g4 Rh3 27. Ce3 Rg3 28. gf4 Hh5 29. Eg0 hg6 30. d5 Exf4 31. dxd6 exd6
+32. Rxd6 Ei2 33. Kd1 Exf0 34. Rd5 g5 35. Rxa5 f5 36. Rd5 Kd9 37. bc4 Afe8
+38. Rb5 Ce9 39. Rb3 Ed3 40. Rxd3 Cxe4 41. He1 Ce9 42. Ce0 Cxe1 43. Rxg3
+Hxg3 44. Kxe1 Hb6 45. cd4 Hh1 46. Ch2 f4 47. de4 f3 48. Ae2 Ha4 49. Cd2+
+Ad7 50. e5 Hc5 51. ed5 Hd3 52. d6 A7e8 53. Kd0
+{김명수 四단은 잠시 세수를 함.}
+53... Hf0 54. Ae1 Hg2 55. Ae2 Hgf4 56. Ei3 Hh5 57. Ef1 g4 58. Ed4 Hhf4 59.
+Ea6 g3 60. Exd8 Axd8 61. Cd4 Hd5 62. de6 Hb4 63. Cd6+ Ae8 64. Cd2+ Ke9 65.
+Ke1 Hc3 66. ef6 He4 67. f7 Hd6 68. f7xe8+ Hxe8 69. Kf1 Kd9 70. Cxe8 Kxe8
+71. Ae1 fe3 72. Cf0 Hc2 73. Ad2 Hd4 74. Ke1 Hc2 75. Kf2 Hd0 76. Ke1 Hb1 77.
+Ad1 Hc3 78. Ad2 He4 79. Kf1 ed3 80. Ae1 g2 81. Ae2 d2 82. Axd2 Hxd2+ 83.
+Ke1 He4 84. Cd2 gf2+ 85. Kd1 Hg5 86. -- Hf3
+{소요시간: 4시간}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제8국"]
+[White "李在求 三段"]
+[Black "李正碩 六단"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "179"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 Hc7 2. ab3 Ce7 3. Hc2 Ca7 4. Rb0 ab6 5. Ce2 Ce7 6. Ea3 Hf7 7. Rc0
+Ea6 8. cd3 cd6 9. Ef3 Ef6 10. Hf2 Kf8 11. Af1 Afe8 12. Kf0 Add8 13. Ade1
+ih6 14. Ce0 Rxi0+ 15. Cxi0 Ri9 16. Cd0 Ce9 17. b4 Ri4 18. d4 b5 19. bc4 Kf9
+20. e4 Af8 21. Ha1 Ade8 22. Ed1 Hb9 23. Rb0 Ed8 24. c5 Ha7 25. cxb5 Hxb5
+26. Hc2 g5 27. Ce2 h5 28. Hb4 Cb7 29. Ra0 Ch7 30. Ra3 gf5 31. Ke0 Cg9 32.
+Ra8 Cd9 33. Ra9 hg5 34. Rc9 fe5 35. exe5 exe5 36. Hc2 Ea6 37. Rc5 Hc3 38.
+Rxe5 Hxe2 39. Rxe2 Ce7 40. Exd6 Ce9 41. de4 Ad7 42. ef4 Cxd6 43. Hb4 Ed8
+44. Kf0 Ade8 45. Rc2 Cd9 46. Rc6 Ei8 47. gf3 gf5 48. fxf5 Exf5 49. f4 Ed8
+50. hg3 Eg5 51. g4 Ed7 52. Hc2 He5 53. Rc9 Ea5 54. Hb4 Cf7 55. Hd5 Hxg4 56.
+fxg4 Rxg4 57. He3 Re4 58. Rc3 Ed7 59. Ke0 Re5 60. Ea3 Eg5 61. Hfg4 Re6 62.
+Ec0 Ea6 63. Rc5 Ed3 64. Ad1 Ef6 65. Afe1 Ed8 66. Hh6 Cd9 67. Hhf5 Re4 68.
+Hg3 Re7 69. Hh5 Eh3 70. Cf2+ Af7 71. Hg7+ Ke8 72. Rc8 Re4 73. Hf5 Ee5 74.
+Rb8 Ri4 75. Cd0 Cd7 76. Rb6 Ae7 77. Re6 Eb3 78. Cd2 Ri0+ 79. Cf0 Af7 80.
+Add2 Kd9 81. Hxe7+ Ae8 82. Rb6 Axe7 83. Rxb3 Ri3 84. Cd0 Eg6 85. Ade2 Exe3
+86. Rd3 Kd8 87. Exe3 Cxe3 88. Rxe3 Rxe3 89. A2f2 Ke8 90. Cf0
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제1국"]
+[White "康萬植 四段"]
+[Black "李正碩 六단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "154"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{낙일(樂一)기원에서 예선전을 치른후 본선전은 경향신문사 회의실에서 진행되었다.}
+1. ab3
+{-본선 진출자 명단-
+이정석(李正碩) 六단
+강만식(康萬植) 四단
+김명수(金明水) 四단
+양주호(梁周浩) 三단
+이재구(李在求) 三단 등.....}
+1... ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 c5 5. Ee3 Ri5 6. Rh0 Rf5 7. f4 Rf8 8.
+g4 Hd7 9. ih3 e5 10. h4 Rf6 11. Hd2 Ad8 12. h5 Kd9 13. hxh6 gxh6 14. g5
+Afe8 15. Ad1 Ce9
+{이미 임제민(林濟民) 六단과 임재점(林在漸) 四단, 김덕길(金德吉) 三단 등이 타계한 상태에서 이정석 六단은 가히 장기계의 1인자였음.}
+16. Ed3
+{다만 이정석 六단은 큰 사업을 경영하다가 1961년에 사업이 실패하면서 생계가 어려워졌고, 68년 당시에는 장기대전집(將棋大全集)이라는 책을 출판하려고 노력 중이었다.}
+16... cd5
+{강만식 四단도 큰 사업을 하다가 역시 실패하여 종로3가에서 기원(棋院)을 운영하는 것으로 생계를 유지 중이었음.
+대국 당시 이정석 六단은 56세, 강만식 四단은 51세였음.}
+17. c4 Ch9 18. Ri0 Ei6 19. Ri3 Ce7 20. Rf3 Ed6 21. Rf1 Ea4
+{초차가 한상을 취하면 한에서는 초차 2개 중 1개를 반드시 잡을 수 있는 수순이 있으니 한포(漢包)로써 연구하시기 바랍니다.}
+22. b4 Ec7 23. f5 Hxf5 24. gxf5 Rxf5 25. Rxf5 exf5 26. Ra3 He5 27. Kd0 Ke9
+28. Afe1 Ch3 29. Hh4 Hxd3 30. Cb5 He5
+{이정석 六단은 고혈압 때문에 머리에 물수건을 두르고 장기를 두고 있었는데 강만식 四단 왈 "편싸움을 하려는 거냐?"라며 놀리자 이정석 六단은 "기사(棋士)의 체면으로는 좀 안 되었지만 이겨야 되겠기에 할 수 없다."고 대꾸함.}
+31. Eb1 Ch5 32. Ce6
+{강만식 四단:
+"아프지 않게 슬슬 이기라."
+이정석 六단:
+"아직 승부(勝負)도 나지 않았는데 놀리지 말라."}
+32... Eg9 33. Ce2 Ch9 34. Hg2 Hf7 35. Cc2 Ra7 36. cd4 fe5 37. dxd5 exd5 38.
+Hf4
+{(어느새 신문에는 박정희(朴正熙) 전 대통령의 '한글전용' 정책에 적당히 맞추어 將棋 第1回 大將軍戰이라는 제목도 장기 제1회 대장군전으로 나오고 있습니다)}
+38... dc5 39. Cb3 Cf9 40. Hg2 He5 41. Cb0 Ef5 42. He3 Eh8 43. Ed4 a5 44.
+Ce2 Hc6 45. Ch0 Ege6 46. Rc3 Cc9 47. Hf5 Rd7 48. Rd3 cd5 49. Ea6 Hxb4 50.
+Rb3 Ch9 51. Exd8 Rxd8 52. Ri3 Cd9 53. Hxh6 d4 54. Hg8+ Af8 55. Ri7 Ce3 56.
+Ri6 Rd6 57. Rf6 Ke8 58. Cc0 d3 59. Cf0 dxd2 60. Cxd2 Hc2+ 61. Ke0 Eg3+ 62.
+Rf1 Rg6 63. Cf0 Rxg8 64. Aed2 Hd4 65. A1e1 Hxe2 66. Axe2 Rg5 67. Cd2 Rd5
+68. Kf0 Cf7+ 69. Cf2 Ei0 70. Rg1 Rf5 71. Af1 Rh5 72. Ad2 Ce9 73. Afe1 Rh0+
+74. Kf1 Ef5 75. Rg5 Ec3+ 76. Ade2 Rh1+ 77. Kf0
+{체념하는 강만식 四단}
+77... Exf2+
+{소비시간
+
+강만식 四단: 2시간 20분
+이정석 六단: 1시간 30분}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제2국"]
+[White "金明水 四段"]
+[Black "梁周浩 三段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "181"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{예선전에서는 김명수 四단이 패배했습니다.
+본선전에서는?}
+1. ih3
+{본선에 앞서서 신흥사(新興寺)에서 1주일간 고심했다는 양주호 三단도 질 생각은 없어 보입니다.}
+1... ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 Hf7 5. Rb0 Ef6 6. Rb4 Ra5 7. Rg4 g5
+8. Rh4 Af8 9. Hf2 Ea6 10. ab3 Ri8 11. Ea3 ih6 12. Rxi8 Cxh4 13. Ri0 Ch9 14.
+Af1 e5 15. b4 ef5
+{양주호 三단은 객관적으로 수(手)가 김명수 四단보다 약합니다.
+그래서 아예 비길 생각입니다.}
+16. e4 Cb9 17. c4 Rd5 18. ed4 Rd8 19. Ce0 cd6 20. Exd6 Rxd6 21. Cd2 Exc4
+{한차를 살리는 묘수}
+22. bxc4 Rf6 23. Ce2
+{양주호 三단은 남대문 시장의 역사(力士)로 완력에도 자신이 있습니다.
+장기는 어떨지.}
+23... b5 24. Ad1 h5 25. Cd0 Rc6 26. Ri4 fe5 27. Ke0 Ke9 28. Ade1 Ade8 29.
+gf3 gf5 30. Ch0 hg5
+{이정석 六단은 중반에 안궁(安宮)하는 것을 별로 안 좋게 봅니다.
+지금과는 관점이 달랐던 60년대입니다.}
+31. Cc0 Rb6 32. He3 Ha8 33. Ed1 Cf9 34. hg3 Cd9 35. Cg0 Rh6 36. Cd0 Hc7 37.
+Hc2
+{김명수 四단은 두통약과 달걀 3개를 먹으며 두고 있고, 양주호 三단은 질세라 담배를 피우며 대응하고 있습니다.}
+37... Ec9 38. fe3
+{요즘 대회장에서 음식물을 마음대로 먹고 담배를 피운다면 어떤 처분을 받을까요.
+60년대와 2000년대는 참으로 다릅니다.}
+38... Ee6 39. gf3 Rg6 40. Cg0 gh5 41. Cc0 Ha6 42. Ha3 ba5 43. Cf0 a4 44.
+Hc2 Eh4 45. Ri1 f4
+{양주호 三단 왈:
+"비겨야 잘 두는 것"
+김명수 四단 왈:
+"큰일 날 소리 말라"}
+46. Hh3 fxf3 47. exf3 hg5 48. Aff2 Ee6 49. Rg1 Cg9 50. Hf4 Rh6 51. Ri1 Cc9
+52. Hxe6 Cxc2 53. Ri9+ Aff9 54. Ef4
+{마상대(馬象對)가 되었지만 한에서 기물에 금이 가고 있습니다.
+양주호 三단은 비길 수 있을까요?}
+54... Cc9
+{두 기사는 서로 과자를 나누어 먹으며 장기를 두고 있습니다.}
+55. Ec6+ Ad8 56. Cd0 Rh8 57. d5 Cxc4 58. d6 Hb8 59. Hg7 Cc9 60. Hxf9 Cxf9
+{초에서 기물을 내던지면서 소망하는 것은 졸로 한의 면포를 잡는 것입니다.}
+61. de6 Hxc6 62. exe7 Hxe7 63. Cxe7
+{초에서 끝내 기물의 부족을 만회합니다.}
+63... ed5 64. fe3 de5 65. ed3 ed5 66. Aee2 Ad7 67. Ce1+ Ae8 68. Ce3+ de5
+69. Ri7 Hg9
+{만회는 했지만 기물이 부족함을 실감하는 김명수 四단의 맹공}
+70. Ce6+ Af7 71. Rg7 Cd9 72. Rxg5
+{한에서 점차 절망적...}
+72... e4 73. Rg4 Rh3 74. Ad2 e3 75. d4 ef3 76. Afe1 Rg3
+{차대를 구하는 양주호 三단에게 김명수 四단은 담배를 권하며 차대를 피했음.}
+77. Re4 Hh7 78. Ce2+ Kf9 79. Cf0 Rg0 80. d5 Hg5 81. Re5 Hh3 82. Af1 f2 83.
+Axf2 Hxf2+ 84. Ke1 Cxd2 85. d6 Rxf0+ 86. Kxf0 Hh1+ 87. Ke1 Hg3 88. Ce0 Hi4
+89. d7 Hh2 90. Re8+ Axe8 91. d7xe8#
+{소요 시간 5시간 5분 두 기사는 종국 후 악수(握手)함.}
+
+{Xboard adjudication} 1-0
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제3국"]
+[White "康萬植 四段"]
+[Black "李在求 三段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "180"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{사제(師第) 대결}
+1. ih3 Hc7 2. Hc2 ab6 3. Ce2 Ce7 4. Ef3 Hf7 5. ed3 g5 6. Ke0 Ra5 7. Hf2 Ef6
+8. Ra1 gh5 9. Ee3 i5 10. Rb1 Kf8 11. Rf1 Afe8 12. g4 Rg9 13. hg3 Add8 14.
+Eh6 cd6 15. He4 e5 16. Rxf6 de6 17. Rf3 exe4 18. Cxe4 Kf9 19. Afe1 bc6 20.
+Ca2 Rb5 21. Cee2 cd6 22. Rf4 Rc5 23. Rif0 Ce9
+{신중하지 못한 수}
+24. Ca4 Af8 25. c4 Rb5 26. cb4 Rc5 27. Cc4 Ade8 28. Ad2 Hd5 29. R4f2 Hxh6
+30. Cc1 Ra5 31. Cxc9
+{기물이 부족하다는 것만 생각하는 수}
+31... Rg7 32. Cc0 Cf7 33. R0e1 ef6 34. Rg2 Hf5 35. a4 Ra7 36. gf3 Cg9 37.
+A0d1 fe6 38. Cf0
+{한포로 졸을 치면 초차가 귀에 붙어서 한이 곤란합니다.}
+38... He7 39. d4 Hf6 40. fg3 Rc7 41. Cc0 Rb7 42. Rh1 Rh7 43. Ch2 Ri7 44.
+Ci0 Rg7 45. A2e1 Ke9
+{서로 헛수 연발입니다.}
+46. Re2
+{졸을 풀어 보려고 면차(面車)함.}
+46... Cc9 47. Cc0 h4 48. gxh4 Rxg3 49. Cd2 Rg5 50. Cb2 Ra7 51. Ri2 Ci9 52.
+Rih2 Cd7 53. Re2
+{이정석 六단은 흥미없는 대국이라고 해설했습니다.}
+53... Cd9 54. dc4 He4 55. Cb5 Hf6 56. c5 Rg7 57. Cxi5 e5 58. Eh5
+{서서히 차이가 나는 중반전}
+58... ed5 59. cxd5 Hexd5 60. Ce5+ de6 61. Ca5 Ra6 62. Ca2 Rd6 63. Rf2 Ch7
+64. Ce2 Ce7 65. Cf0 Hc3
+{초포 대신 초차를 밀었어야 합니다.
+아프군요.}
+66. Cd0 Rc6 67. Cb2 -- 68. Ee3 Rc5 69. Rh3 Cf7 70. Rd2 Hd5 71. Rxd5 Rxd5
+72. Cxd5 Cxe3+
+{다음 수에 한차의 장군에 외통이 나온다.}
+73. Kd0
+{피했는데...}
+73... Rg0+ 74. Ae0 Ce7 75. Ce2 ed6 76. Re3 Kf9 77. Ri3 Ce9 78. Ri6 Hxd5 79.
+Rxd6 Hf4
+{초는 죽을 맛이다.}
+80. Hd4 Cf0+ 81. Ke1 Hd3+ 82. Kd2 Rg2 83. He6 Cxe6 84. Rxd3 Ce9 85. Ke1
+Rxe2+ 86. Kf1 Rxe0 87. Rd2 Re5 88. Ae1 Cxd2 89. Af2 Ad7 90. hg4 Cd9
+{총 180수, 한 완승
+소요 시간: 4시간 50분}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제4국"]
+[White "金明水 四段"]
+[Black "李正碩 六段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "52"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{본선을 리그전으로 치렀기 때문에 이정석 六단은 비기기만 하여도 우승이고, 김명수 四단은 두 번의 완승을 해야만 우승이 되는 상황}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Ed6 5. Cd2 Hd7 6. ed3 c5 7. Af1 gf6
+8. Cf0 Ad8
+{김명수 四단은 이정석 六단의 수제자입니다.
+스승은 제자를 어떻게 요리할까요?}
+9. d4 Hf5 10. c4 cxc4 11. dxc4 Rc9 12. Ri4 Kd9 13. Ei3
+{조차불리(早車不利)라고 했지만 김명수 四단은 반드시 완승을 해야 하기 때문에 그걸 따질 때가 아닙니다.}
+13... Afe8 14. Rf4 i5 15. Hge3 Ei6 16. Rg4 Hxe3 17. Hxe3 Ef8 18. Ke0 ih5
+19. Ade1 Ce9 20. cd4 e5 21. Hf5
+{초차를 살리는 한 수}
+21... fxf5 22. Rg6 Ri6 23. Rg9
+{초차가 생환할 수 있을 것인가?}
+23... Cf7 24. Rh9 Ra9 25. dc4 Af9 26. Rh8 Cb7
+{이후는 신문에 실린 좌표 오류로 입력이 불가하니 양해해 주시기를 바립니다.
+신문대로라면 없던 졸이 하나 생기네요.
+10번의 검토 끝에 단념했습니다.
+경향신문에 실린 기보는 다들 조금씩 좌표 오류가 있는데, 이번 것은 좀 심합니다.
+총162수, 한 완승, 이정석 六단 우승 확정}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제5국"]
+[White "梁周浩 三段"]
+[Black "李在求 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "120"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hg7 3. Hg2 Ed6 4. Che2 Ce7 5. ed3 c5 6. Cd2 Hd7 7. Af1
+Ad8 8. Cf0 gf6 9. Hge3 Kd9 10. d4 Afe8 11. Ke0 Ce9 12. c4 cxc4 13. dxc4 Cf7
+14. g4 ih6 15. Ei3 --
+{이재구 三단이 기물을 잘못 만져서 한 수 쉼.}
+16. Ade1 Ei6 17. Rg0 Rg9 18. Ca2 Rc9 19. Cg2 Cc7 20. cd4 e5 21. h4 Rc8 22.
+Ch0 hg6 23. Exg6 Ccc9 24. Ra2 Ri9 25. g5 Eg9 26. Cf0 Ri7 27. h5 e4 28. dxe4
+Cxe4 29. Af2 Cf9 30. Ce2 Ce9 31. Ra1 Rc5 32. Rd1 bc6 33. Rd4 fxg6 34. gxg6
+He6 35. Rh4 Hef8 36. h6 Ee6 37. Rc4 Rxc4 38. Hxc4 Eh4 39. Ca2 Cxf2 40. Ee3
+Cf9 41. Exc6 Ri5 42. Ee3 Rc5 43. Cc0 Ce7 44. ab3 Cc9 45. bc3 Ee6 46. gf6
+Exc3 47. Ha3 Re5 48. Cxc3 Cxe3+ 49. Ce2 Ce7 50. Rg2 Ea8 51. Kd0 Ec5 52. Cb2
+Rd5+ 53. Cd2 Ea2+ 54. Cc1 He5 55. Hb4 Rd7 56. Hxa2 Hf3 57. Rf2 Cf9 58. Cf1
+Hxd2 59. Rxd2 Rc7 60. Rc2 Rb7
+{여기까지가 경향신문에 실린 8보(譜)이다.
+경향신문에는 9보째에 121수부터가 아닌 136수부터 150수까지 실려서 이후 기록은 불가하다.
+총150수, 무승부}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그전 제6국"]
+[White "李正碩 六段"]
+[Black "康萬植 四段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "157"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{이정석, 김명수 프로가 우승과 준우승을 나누어 가질 것이 확실한 가운데...}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Ra5 5. Rb4 Rb5
+{양차합세를 방비하는 참 간단한 방법}
+6. Rxb5 bxb5 7. Ef3 Ea6 8. ab3 cd6 9. Hf2 Hf7 10. Af1 Af8 11. g4 g5 12. h4
+gxg4 13. hxg4 bc5 14. Kf0 cd5 15. Ade1 de5 16. Ce0 Ce9 17. cd3 Che7 18. Hb4
+Ef6 19. Cc2 Hb5 20. Cg0 Kf9 21. Cd0 Ade8 22. bc3 Ed8 23. c4 ih6 24. Rxi9+
+Cxi9 25. c5 Ha7 26. Cg0 Cd9 27. Ea3 h5 28. Ca0 Hb9 29. c6 d5 30. Ch2 dc5
+31. dc3 cb5 32. Hc2 ed6 33. cxd6 Cxd6 34. Hh3 Cd9 35. Cxh5 Ch9 36. Hg5 Ec8
+37. Hxf7 Afxf7 38. cd3 Cc9 39. Hd4 b4 40. Eh6+ Ke9 41. g5 bc4 42. Hf3 c3
+43. Ed1 cxd3 44. exd3 Ha7 45. Cxe5 Exe5 46. Hxe5 Hb5 47. Cg0 Hd6 48. Cd0
+Ch9 49. de3 Hb5 50. Cxd8 Axd8 51. Hxf7+ Kd9 52. ef3 Hd6 53. He5 Ke9 54. f4
+Cd9 55. gf5 Cd7 56. Eb4 Cd9 57. f6 Cf9 58. Exf9 Kxf9 59. f7 Ch7 60. fe7 Cc7
+61. ed7 Axd7 62. Exd7 Hf7 63. Hc4 Ke8 64. Eb4 Ch7 65. fe4 Cd7 66. Aef2 Kd8
+67. Hb6 Cd9 68. Ee2 Hd6 69. e5 He4 70. e6 Ke8 71. Hd5 Kd8 72. Hf4 Ke8 73.
+Hg6 Kd8 74. e7 Hf6 75. Eg5 Hd5 76. ef7 Hc7 77. He5 Cd5 78. Hd7 Ch5 79.
+f7e8#
+{소요시간 4시간 20분}
+
+{Xboard adjudication} 1-0
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제10국"]
+[White "李在求 三段"]
+[Black "鄭進一 三段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "177"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{정진일 三단은 임제민(林濟民) 六단의 수제자로 당시 최연소 입단 기록 보유
+경희대학교 법학과를 졸업한 후 아버지의 사업을 돕고 있었음.
+이재구 三단은 국수 수위전 준우승 경력자로 대학 중퇴 후 맏형의 사업에 협조 중}
+1. ab3
+{두 기사는 32세 동갑
+}
+1... Hc7 2. Hc2 Ce7 3. Ce2 Hf7 4. Hg2 Ef6 5. Cf2 ih6 6. Ad1 cd6 7. ef3 Af8
+8. Cd0 Kf9 9. Ke0 Ade8 10. Afe1 Ce9 11. g4 h5 12. f4 g5 13. Hce3 ab6 14.
+Ea3 Cg9 15. gxg5 hxg5
+{정진일 三단:
+입단은 동기지만 기력(棋歷)은 내가 선배 아니냐?
+이재구 三단:
+명예를 걸고 싸우는 마당에 양보가 어디있냐?}
+16. Rh0 Rh9 17. c4 Cd9 18. Rc0 Ce7 19. Rxh9+ Cxh9 20. Ca0 Ea6 21. b4 Cg7
+22. cd4 Cc9 23. Rb0 Cg9 24. f5 Cxg2 25. fxf6 exf6 26. ih3 Cg7 27. Ei3 Cd9
+28. bc4 b5 29. Cc0 Exd4 30. Rb3 He6 31. Cxe6 fxe6 32. cxd4 Cxd4 33. Hc2 Cd9
+34. Rxb5 Ce7 35. Kf0 Ra4 36. hg3 Ke9 37. Ef1 He5 38. Rb9 g4 39. gxg4 Hxg4
+40. Add2 e5 41. Rc9 d5 42. Ade2 Hf6 43. Cg0 e4 44. Ca0 Rd4 45. Hxd4 dxd4
+{정진일 三단은 한차가 잡히자 "호구(虎口)에 들어간 고기"라고 중얼거렸다.}
+46. Cg0 Hd7 47. Rb9 d3 48. Ei3 e3 49. A2f2 He5 50. Ef5 Ad8 51. Cd0 Afe8 52.
+Cd5 ef3 53. Aff1 de3 54. Ke0 Hf7 55. Kd0 Hh6 56. Ec3 Hg4 57. Rb6 He5 58.
+Re6 Hd3 59. Re4 Hc5 60. Ec6 ed3 61. Ee0 fe3 62. Rb4 d2 63. Rc4 d2xe1+ 64.
+Axe1 Ha6 65. Exe3 Add7 66. Eg6+ Kf9 67. Ad2 Hc7 68. Rc6 Cg9 69. Eg3
+{한포로 초상을 취하면 포다리가 끊어지니 잡지 못함}
+69... Hd9 70. Rf6+ Hf8 71. Ei6 Cd9 72. Cd1
+{한에서는 초상에 한마가 결려 있어서 한포로 초사를 잡을 엄두가 안 남.
+게다가 한포의 생환은 불가능.}
+72... Cf7 73. Exf8 Kxf8 74. Ei9 Cc7 75. Ae1 Kf9
+{초상으로 한의 곁마를 취한 수가 조급했음이 서서히 드러나고 있음}
+76. Cf1 Ke9 77. Eg6+ Af8 78. Rb6 Ce7 79. Rb9+ Ke8 80. Rb8+ Kf9 81. Ed4 Ke9
+82. Rxf8 Ae8 83. Ri8 Cd9+ 84. Eg6+ Kf9 85. Af2+ Cf7 86. Ri9+ Kf8 87. Ee3
+Ad7 88. Rd9 Ae8 89. Eh5#
+{4시간 40분 걸린 대국}
+
+{Xboard adjudication} 1-0
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제2국"]
+[White "金明水 四段"]
+[Black "崔鍾潤 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Ra5 5. Ee3 g5 6. Rb0 Rd5 7. d4 Rd8
+8. Hf2 Hf7 9. Rb1 Ef6 10. c4 e5 11. Ke0 Exc4 12. Rb4 Ea1 13. Rb1 ef5 14.
+Rxa1 He6 15. Rd1 Af8 16. ab3 Kf9 17. Cxe6 Exe6 18. Ce2 Eh8 19. g4 Ade8 20.
+gxg5 fxg5 21. Ef3 Ch9 22. Eg6 Cd9 23. He3 ih6 24. Rxi9+ Cxi9 25. Hd5 hxg6
+26. Hxe7 Axe7 27. de4 Ad7 28. bc3 Cd9 29. cd3 Ade8 30. d4 Ra8 31. Ri1 Ra3
+32. hg3 g4 33. Ri3 gxg3 34. Rxg3 Hg5 35. Afe1 Rxf3 36. Rxf3 Hxf3 37. Hh3 g5
+38. ef4 gh5 39. de4 h4 40. Hi1 Cg9 41. Hg2 h3 42. e5 c5 43. f5 Ce9 44. Hf4
+Ch9 45. fg5 Hg1+ 46. Af1 Ch4 47. Ae1 c4 48. g6 cd4 49. g7 de4 50. Hg6 Ch0
+51. g8 Hf3 52. ed5 Aff7 53. Ce6 Afe7 54. d6 Hg5 55. Ce2 Ke9 56. Cxe7+ Kd9
+57. g8f8 Axf8 58. Hxf8+ Ke8 59. Hg6 e3 60. Aef2 ef3 61. Ce9
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제3국"]
+[White "이협(李?) 初段"]
+[Black "김명석(金明錫) 初단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "136"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+{김명석 初단은 당시 67세의 최고령 기사
+※ 김명석 프로는 경찰이었으므로 '김 순사(金巡査)'라는 별명이 있었다고 함}
+1. ih3 Hc7 2. Hf2 Ce7 3. e4 ed6+ 4. Ce2 Ee6 5. cb3 Hf7 6. Hd2 Ef6 7. Ed3
+Af8 8. Rc0 Ra7 9. Af1 Kf9 10. Kf0 Ade8 11. Ade1 Ce9 12. Ce0 ih6 13. Rxi9+
+Cxi9 14. Ef3 Cd9 15. Ca0 Exh3+ 16. gxh3 Ra8 17. Cd0 Ra7 18. Rc4 Cd7 19. bc3
+a5 20. Exd6 cxd6 21. ab3 ab5 22. Ce2 Ch9 23. Cc2 Ch7 24. e5 Cc9 25. Re4 Ce7
+26. Eb6 d5 27. Exe8 Axe8 28. Ri4 dxe5 29. Ce2 bc5 30. Rb4 cd5 31. Rb6 gf6
+32. cd3 Ke9 33. d4 Cf9 34. dxd5 Hxd5 35. Rc6 Ra4 36. Rc5 Eb8 37. Rb5 Ra8
+38. Hc4 fe6 39. Hb6 Hxb6 40. Rxb6 Hg5 41. hg3 Ed5 42. g4 He4 43. gf4 Hxf2
+44. Afxf2 Ra4 45. Rxe6 Rxf4 46. Rxe5 Re4+ 47. Rf5 Cf4+ 48. Af1 Exf2 49. Ke1
+Ei4 50. Ri5 Ef6 51. Rf5 hg6 52. bc3 Kf9 53. cd3 Ce9 54. Af2 Ca4 55. Kd1 Cg4
+56. Ae1 Cg8 57. de3 Rxe3 58. Cf2 Rd3+ 59. Ad2 Af8 60. Cxf6+ gxf6 61. Rxf6
+Cd8 62. Rf0 Ke8 63. Ke1 Af7 64. Rb0 Cf8 65. Rg0 Rf3 66. Rg8 Rf0+ 67. Kd1
+Kf9 68. Rxf8+ Axf8
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제4국"]
+[White "梁周浩 三段"]
+[Black "金世煥 二段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{양주호 三단은 낙원(樂園)시장 상인
+김세환 二단은 남대문(南大門)시장 상인}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 Hf7 5. ed3 e5 6. Ke0 Ee6 7. Ra1 ef5
+8. Rai1 f4 9. Rxi6 Rxi6 10. Rxi6 g5 11. Rg6 Ke9 12. Ee3 cd6 13. Eh0 Ra8 14.
+Ri6 Rg8 15. Hf2 Ade8 16. Ade1 bc6 17. gf3 fg4 18. Cg2 Rh8 19. Ee2 gf5 20.
+ab3 c5 21. Cg6 f4 22. fxf4 gxf4 23. Eh5 Ce5 24. de3 cd5 25. c4 Rg8 26. e4
+fxe4 27. Hxe4 Cxh3 28. Cd2 Eh4 29. Exh4 Cxh5 30. Ee2 Ee7 31. Cb6 de6 32.
+Cb0 Rh8 33. Aff1 Ch9 34. Cbf0 Ch6 35. Ri3 Cd6 36. b4 Aff8 37. Ra3 Hd9 38.
+Ra9 Rh3 39. Hf2 Rc3 40. Hb0 Re3 41. Hg4 Cxe2+ 42. Axe2 Rxe2+ 43. Ae1 Rg2
+44. Hf2 Rg6 45. Ch2 Rg2 46. Cd2 Rg6 47. Ce2 He5 48. Kd0 Hd3 49. Ce0 Hxf2
+50. Axf2 Cd3 51. Ra3 Cd7 52. Re3 e5 53. Hd1 Rg1 54. Ae2 Eg4 55. Hf2 He7 56.
+Hxg4 Rxg4 57. Ra3 Cf9 58. Ae1 Hg6 59. Ce2 Rg0+ 60. Kd1 Hf4
+{여기까지가 8보(譜)이다.
+네이버에 있는 익일자 신문에는 9보가 실려 있지 않았다.
+그 다음 10보가 계속되어서 입력을 하지 못하였다.
+총182수, 한 완승}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제6국"]
+[White "全柱煥 初段"]
+[Black "金天熙 初單"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "120"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{김천희 初단은 68세의 최고령 기사
+전주환 初단은 1968년 4월 입단한 신입}
+1. ih3 Hc7 2. ab3 Ce7 3. Hc2 Ca7 4. Rb0 ab6 5. Ra0 Ea6 6. Rb0 Rc9 7. Ce2
+Ce7 8. g4 Ef6 9. Hf2 Hf7 10. cd3 cd6 11. Ef3 Exd3 12. Rb2 Ef6 13. Cg2 Ce5+
+14. Kf1 Cd7 15. Cxg6 Cb7 16. Cg0 b5 17. Ce0 Af8 18. Ri3 Ad8 19. Ci0 Rcg9
+20. e4 Cee7 21. ef4 Cg7 22. Ce2+ Cbe7 23. Cxi6 e5 24. b4 bxb4 25. Rxb4 Hd5
+26. Ec5+ Ke9 27. Cxd6 Rxi3 28. hxi3 Hc3 29. Afe1 Hxe2 30. Exe2 Ei8 31. Add1
+Cxe2 32. Rb9+ Ad9 33. Cd0 Ae8 34. Axe2 Ce7 35. Rb6 Cxe2 36. Rxa6 Ce7 37.
+Ri6 Rg8 38. Kf0 Kf9 39. ih3 Ce9 40. Cg0 Rh8 41. Rg6 Add8 42. Hd4 Rh6 43.
+Rxh6 Hxh6 44. Cg7 Hi4 45. h4 Hh6 46. h5 Hf7 47. Hb5 Add9 48. Ae1 Hd8 49.
+Hd6 Hc6 50. h6 Hd4 51. hg6 He6 52. Af1 Hf8 53. gh6 Hh9 54. h7 Hf8 55. h8
+He6 56. Cg0 Hd8 57. h8xi8 Af8 58. i8h8 Hf7 59. Hxf7 Axf7
+{김천희 初단은 이 국면이 되어서도 투료(投了)하지 않았고, 관전자들은 김천희 初단의 연세 때문에 아무도 전주환 初단을 거들지 못하였다고 한다. }
+60. Ae1
+{ }
+60... Ade8
+{이후 40여수가 더 이어졌지만, 경향신문 1968년 7월 29일자에 실린 기보는 종국도(終局圖)만 실려 있고 좌표가 나오지 않아 더 이상 입력이 불가하다.
+신문사의 인쇄 오류일 것이다.}
+
+{Xboard adjudication} 1-0
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제7국"]
+[White "이재구(李在求) 三段"]
+[Black "진남종(陳湳鍾) 初段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+{이재구 三단은 국수 수위전 준우승자로 68년에 32세였음.
+진남종 初단은 양귀마를 잘 쓰며 이재구 三단과 동갑임.}
+1. ih3 Hf7 2. Hf2 Ce7 3. e4 e5 4. Ce2 Ee6 5. exe5 Cxe5 6. ab3 Hbd8 7. Hd2
+Ce7 8. Ef3 Ef6 9. c4 Af8 10. cd4 Kf9 11. Ri1 Ade8 12. Ke0 Ce9 13. Ria1 cb6
+14. Cxb6 Hc6 15. de4 Eb4 16. bxb4 Hxb4 17. Cxg6 Exh3 18. Cg1 Rd9 19. Rd1
+Ca9 20. Ca1 Exf0 21. Kxf0 Rg9 22. Ec5 Rd5 23. Exe8 Rxg3 24. Ae1 Axe8 25.
+Ce0 Rc5 26. Rd0 Ra3 27. Ee2 Rc7 28. Cf1 Rac3 29. Rac0 Rxc0 30. Cxc0 Ke9 31.
+Hh3 Cd7 32. Cd1 Cdf9+ 33. Ke0 Ca0 34. Cf1 Rxc0 35. Hxc0 Hc2 36. Cc1 Ha1 37.
+Cf1 Hxc0 38. Hg5 Hxg5 39. Exg5 Cxd0 40. Kxd0 Hb2 41. e5 ih6 42. e6 hg6 43.
+Ee2 Hd3 44. Cd1 He5 45. Ad2 Hf3 46. Ae1 Hd4 47. Cd6 Hxe6 48. Cxg6 Hf4 49.
+Ec5 Hxg6 50. Exe8 Kxe8 51. Ke0 ab6 52. Ad0 He5 53. Ae1
+{포사대(包士對)가 되기 전에는 던지지 않겠다는 진남종 初단의 의지에 여기서 50여 수가 더 이어진다.
+신문에 수순이 나오지 않고 종국도만 실려서 이후는 입력이 불가능하다.
+총156수, 한 완승}
+
+{Xboard adjudication} 0-1
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제8국"]
+[White "康萬植 四段"]
+[Black "鄭進一 三段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "209"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{강만식 四단의 건강을 염려한 부인이 대회장에 약(藥)을 들고 등장함.
+관전자들은 부러워함.
+정작 부인은 장기 때문에 20년 동안 속상해 왔다고.}
+1. ab3
+{강만식 四단은 이미 1패한 상황이라 이 대국을 이겨야 함.}
+1... Hc7 2. Hc2 Ce7 3. Ce2 Ef6 4. ef3 ih6 5. Ege3 cd6 6. Hf1 g5 7. Ke0 Hf7
+8. Afe1 Af8 9. Ce4 Kf9 10. Ca2 ab6 11. Ea3 Ea6 12. b4 Rc9 13. Hb0 Ade8 14.
+Hd1 Ce9 15. Kf0 Ca9 16. Caa4 Cd9 17. Ce2 Rc8 18. Ce0 Ha8 19. Cc0 Rd8 20.
+Ce0 Hc9 21. Rc0 Hd7 22. cb3 Rb8 23. Cf4 Ri8 24. Rc2 Cg9 25. Cf2 Rb9 26. Cc0
+e5 27. Hc3 d5 28. Ce0 e4 29. Rc1 Rc9 30. Ra1 de5
+{신문에 좌표가 잘못 나온 부분
+덕분에 한참 다시 입력했습니다.}
+31. Cc0 Rb9 32. Hd1 exe3 33. Hxe3 b5 34. Hc2 Cd9 35. bxb5 Rxb5 36. b4 Rb6
+37. Ec6 Ec4 38. bxc4 Rxc6 39. Ra5 h5 40. Ca2 Ed8 41. Add1 Ce7 42. fe3 Rh6
+43. ih3 Rxi0+ 44. Cxi0 h4 45. hxh4 Rxh4 46. cd4 Rh6 47. Cc0 Hb8 48. gf3 Ke9
+49. ed3 gf5 50. fe3 Ea6 51. dc4 Rh4 52. Cxa6 Hxa6 53. Rxa6 Rh6 54. Rxh6
+Hxh6 55. Hg3 ed5 56. Add2 fe5 57. Ade2 Hf7 58. cb4 Hg5 59. Cg0 Cf9+ 60.
+A2f2 ef5 61. b5 Cc9 62. Hxf5 dc5 63. Hcd4 cxb5 64. Hxb5 Cf9 65. Hg3 Hh3 66.
+Hd6 Hi1 67. Cg4 Hh3 68. Hde4 Hi5 69. Cg1 Hh7 70. Cg7 Hi5 71. Hh5 Hh7 72.
+Aef1 Hg9 73. Hhg3 Hi8 74. Cg2 Hh6 75. Hd6 Ad7 76. Ce2 Afe8 77. d4 Cd9 78.
+Hb5 Kf9 79. e4 Ce9 80. ef4 Hg8 81. Cg2 Hi7 82. f5 Hh9 83. de4 Hf8 84. e5
+Hh7 85. Ha7 Cd6 86. Hc6 Cd8 87. Hh5 Hi5 88. Hg7+ Cg8 89. Hh5 Hh3 90. Hd4
+Hi1 91. Cd2 Hh3 92. Ch2 Hi5 93. e6 Cd8 94. Hf3 Cd5 95. f6 Hh3 96. Hg7+ Kf8
+97. Cd2 Hf4 98. Ae2 Hd3 99. Hg5 Aee7 100. Ke0 Ade8 101. Afe1 A8f7 102. Cf0
+Ke8 103. Cxf7 He5 104. Ci7+ Kd8 105. exe7
+{두 기사는 이로써 1승 1패가 됨.}
+
+{Xboard adjudication} 1-0
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제9국"]
+[White "金明水 四段"]
+[Black "梁周浩 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{두 기사는 서울신문사배 입단대회 동기}
+1. ih3 ab6 2. Hc2 Hc7 3. Ef3 Ce7 4. Ce2 Hf7 5. a4 Ef6 6. Hf2 Ce9 7. ed3+
+Che7 8. Ee3 ih6 9. Rxi9 Cxi9 10. Af1 Af8 11. Ad1 Kf9 12. Ri0 Ce9 13. ab4
+Ra5 14. bc4 Ea6 15. Ch4 cd6 16. Rb0 b5 17. Ch0 Cc9 18. Ke0 Cb7 19. Ra0
+Rxa0+ 20. Cxa0 Exd3 21. cxd3 Cxc4 22. Ha3 Cc9 23. Cxa6 ba5 24. Hb1 Cd7 25.
+Ca0 Cxd3 26. Exh6+ gxh6 27. Cxe6 Hxe6 28. Hxd3 Ce9 29. Cf0 Cxe3 30. Cxf7+
+Axf7 31. He5 d5 32. Hg4 Ce9+ 33. Kf0 h5 34. Hc3 d4 35. Afe1 hg5 36. Hi5 d3
+37. Hd5 ab5 38. gf3 gf5 39. Hb6 Ad8 40. Hg6 Hc7 41. hg3 Ke8 42. Hh4 fe5 43.
+Hg6 e4 44. Hi5 Ce7 45. Hg4 ed4 46. Hf6 He6 47. Hd5 Ce5 48. Hg4 Cc5 49. Hf4
+Hg5 50. Hg6 Ca5 51. Ke0 bc5 52. H4i5 He6 53. Hh7 Kd9 54. Hf6 Ce5+ 55. Kf0
+Ce9 56. Hh8 Ade8 57. Hi6 cd5 58. Hg5 Hc7 59. Hgh7 de5 60. Hi5 Cc9 61. Hfg4
+ef5 62. Hh6 fg5 63. Hh3 He6 64. Ke0 Cf9 65. Hi5 gh5 66. Hh3 Hg7 67. Hg1 Cc9
+68. f4 Ce9 69. Hf5 Ce5+ 70. Kf0 Hi6 71. fg4 de4 72. Hh6 Ce9 73. Hf5 hg5 74.
+gxg5 Hxg5 75. Hd6 Cc9
+{심판의 권고로 양 대국자는 여기서 무승부에 합의함.}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제1회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선결승전 제5국"]
+[White "朴宗勳 初段"]
+[Black "申武均 二段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "135"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Hd2 Ed6 7. Ci2
+Rh9 8. Cbe2 gf6 9. Cf2 Cf7 10. Rg0 Ei6 11. Ed3 Ce5 12. ih3 hg6 13. Ch2 Rg9
+14. Cf2 Exf3 15. gxf3 Cxf3 16. Hh4 Cf7 17. Exg6 Ce7 18. Exf6 exf6 19. Ee3
+Hf5 20. Rxg9 Exg9 21. Hxf5 Cxf5 22. Ra4 a5 23. Rh4 Ee6 24. Rh8+ Af8 25. cd3
+Kd8 26. Ke0 Ade8 27. Rh6 Ra6 28. Ade1 Kd9 29. Rh9+ Aff9 30. Cd0 ab5 31. Rh6
+Ke9 32. Aff1 Cf7 33. Cf0 Cd9 34. bc3 Aff8 35. Eh5 Aff7 36. Rxf6 Cf9 37.
+Rxe6 Rxe6 38. de3 Cxe3 39. Exe3 Rxe3 40. cd3 Re6 41. Cxf7 Cd9 42. dc3 Cxd2
+43. Axd2 cd5 44. hg3 bc5 45. cd3 Hb6 46. gf3 Hc4 47. Afe1 Ha3 48. Cf0 Kd9
+49. Cd0 Re4 50. fe3 Rb4 51. Ce4 Rb0 52. Kf0 Ad8 53. Ce2 Rb4 54. Ce4 de5 55.
+Ce2 ef5 56. d4 Hb1 57. e4 fg5 58. e5 Hxd0 59. Axd0 Rxd4 60. A2e1
+{비기는 기물이지만
+신무균 二단의 고집으로 대국 계속}
+60... Rf4+ 61. Ke0 Rh4 62. Af2 Rh0+ 63. Ke1 g4 64. Ce0 g3 65. Ad1 gf3 66.
+Af1 c4 67. e6 c3 68. e7
+{총135수, 무승부}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제1국"]
+[White "金明水 四단"]
+[Black "崔鍾潤 三단"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "201"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 c5 5. Rh0 Ri5 6. Rh4 Rd5 7. ef3 h5
+8. Rha4 Rd6
+{김명수 四단은 아버지에게 장기를 배운 실력파 기사. 아버지가 박보(博譜)책을 쓰신 분이다.}
+9. Hd2 Hd7 10. Ad1 e5 11. Rb4 Ee6 12. Rg4 hg5 13. Exg5 ef5 14. Rh4 Ke9 15.
+Rb4 Afe8 16. Ei2
+{공격력이 강한 최종윤 三단과 수비력이 강한 김명수 四단}
+16... cd5 17. ih3 de5 18. Rg4 fg5 19. Exg5 ef5 20. Ri4 gxg5 21. Ri9+ Hf9
+22. Kd0 Add8 23. Afe1 Kd9 24. Ce0 Ce9 25. Ri4 Hg7 26. Ee3 Cbe7 27. Rc4 Ca7
+28. Rc0 Hb6 29. Ri4 Ch7 30. Ri9 Cd7 31. c4 Rd3 32. c5 Ed6 33. b4 Eb3 34. b5
+a5 35. bxb6 Af9 36. Ri4 ab5 37. cxb5 Ra1
+{수를 내기 위해 기물이란 기물은 다 버린 최종윤 三단}
+38. Rc2
+{여기서 이기지 못하면 기물 부족으로 질 것을 알기에 최종윤 三단은 강경하다.}
+38... Ee5 39. Ric4 Rb3 40. R4c3 Rb4 41. Rd3 Ke8 42. Af0 Ce7 43. Ke1 Cd9 44.
+Rxd8+ Kxd8 45. Rc8+ Kd7
+{김명수 四단은 졌다고 소래를 고래고래 지르는데....}
+46. bc6 Rd4 47. c7+ Cxc7 48. Rxc7+ Ke8 49. Cf2 Cxd2 50. Kf1 Rxd1+ 51. Ae1
+Cd7 52. Axd1 Rxd1+ 53. Kf0
+{한에서 차 1개를 내 준 것에 어리둥절하는 표정의 김명수 四단}
+53... Rd0 54. Ch2
+{점수제 장기가 아니기 때문에 초에서 한차로 연장군을 부르는 반복수를 막기 위해 초포를 넘김.}
+54... Kd9 55. Rc1 Eb3 56. Rc2 Rd3 57. Cd2 Ee5 58. He1 Rd4 59. Ra2 Ke8 60.
+bc5 Ae9 61. Ce2 Ch7 62. Eb5 Re4 63. Ce0 Rd4 64. Ce3 Rb4 65. Ra8+ Kf9 66.
+Rg8 He8 67. Cxe6 Ch1 68. Ri8 Rb0+ 69. Kf1 Hg7 70. Ri9+ Ch9 71. Ce2 Eb3 72.
+Ri7 Ae8 73. Rxg7 Cd9 74. Rg6 Cf7 75. Rf6 fe5 76. Cf0 Rb1 77. Ed2 Rd1 78. f4
+e4 79. gf3 ed4 80. fe3 g4 81. f5 Af8 82. cd5 Rc1 83. Cf3 de4 84. exe4 Rc3
+85. Ce0 Ed0 86. Rg6 Exf3 87. Rg9+ Ke8 88. ef4+ Kd8 89. Eb5+ Rc7 90. Rxg4
+Kd9 91. f6 Cf9 92. f5 Ae8 93. de5 Rc5 94. Rd4+ Ke9 95. Hxf3 Rxb5 96. Ce6+
+Ad9 97. Ce1+ Ae8 98. Rd8 Cxf5+ 99. Hg5 Cf8+ 100. Hf7 Rxe5 101. Rxe8#
+{Xboard adjudication} 1-0
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제2국"]
+[White "朴庭植 初段"]
+[Black "尹應植 五段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "195"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2
+{윤응식 五단은 장기의 단급(段級)제도를 창안한 프로기사이자 임제민 六단의 수제자.}
+2... Hg7 3. Ed3 Hc7 4. Ce2 Che7 5. ef3 ed6 6. Ee3 Hge6 7. Ra4 Cd7 8. Rc4
+Hd4 9. Exc6 Hxc6 10. Hg2 Ra7 11. Cf2 Hd4 12. Rb4 Ra8 13. c4 He6 14. bc3 Ri5
+15. Kf1 a5 16. Rb6 d5 17. Afe1 ab5 18. Ce0 dc5 19. Kf0 Af8 20. Ci2
+{한차가 피해도 포장군에 다른 한차가 떨어진다.}
+20... Ri6 21. Cxi6 Exi6 22. cxc5 bxc5 23. Cxe6 Cxd2+ 24. Axd2 Hxe6 25. Ri1
+Ra3 26. Rb3 Ra0 27. Rd1 Ce9 28. Rb8+ Kf9 29. Rc8 Rc0 30. cb3 Rb0 31. ba3
+Rb4 32. ih3 Ri4 33. Ri1 Rd4 34. fe3 Hf4 35. He1 He6 36. gf3 Ci9 37. Rg1 Ad8
+38. Hg2 Ef7 39. Rc6 Hg5 40. Hf4 Cd9 41. hg3 Exg3 42. Rxg3 Rc4 43. Rc9 Ade8
+44. Rb9 Rc0 45. Ae1 Rc2 46. Ke0 Ri2 47. a4 Ri7 48. a5 Ed4 49. Rc9 Ef7 50.
+Rb9 Ed4 51. Rg2 Rc7 52. Ri2 Ke9 53. fg3 gf6 54. Rc2 hg6 55. g4 Hi6 56. e4
+Ef7 57. He2 Rd7 58. Exf6 gxf6 59. Rb6 Hh8 60. Rxf6 Rd5 61. Rh6
+{윤응식 五단은 바쁘다는 이유로 장기대회에 참가하지 않으려 했으나 특별히 청해 참가한 기사.
+車 1개가 부족하여 장기가 어렵다.}
+61... Hf9 62. a6 Ad8 63. gf4 Ri5 64. Re6+ Ade8 65. e5 Ri0+ 66. Af0 Rg0 67.
+Ae1 Eh4 68. Rb6 Exe2 69. Axe2 Rg2 70. Afe1 Cf7 71. Rb9+ Ad9 72. A2f2 c4 73.
+Rxc4 Rg0+ 74. Af0 Cxf2 75. fe4 Af7 76. ef5 Ae8 77. ef4 He7 78. Rb5 Cxf5 79.
+fxf5 Hxf5 80. Rxf5 Rg6 81. Ra4 Re6+ 82. Ae1 Af9 83. Rf2 Ade8 84. Rd2 Re7
+85. ab6 Rd7 86. Re2 Rd9 87. bc6 Af8 88. Ra7 Af9 89. c7 Af8 90. cd7 Kf9
+{박정식 初단의 필승지세}
+91. d7xe8+ Axe8 92. Ri7 Rd7 93. Ri9+ Kf8 94. Rg2 Rh7 95. Ri8+ Kf7 96. Rf2+
+Ke7 97. Re2+ Kd7 98. Rixe8#
+{윤응식 五단은 2시간 10분을 소비, 박정식 初단은 2시간 50분을 소비.}
+
+{Xboard adjudication} 1-0
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제3국"]
+[White "康萬植 四段"]
+[Black "鄭進一 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "135"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{정진일 三단은 故 임제민 六단의 제자로 제2회 입단대회 최연소자 입단기록 보유자.
+
+강만식 四단은 정진일 三단보다 20년 연상.}
+1. ih3 Hc7 2. Hc2 Ce7 3. Ce2 ab6 4. ed3 Ra5 5. Ee3 g5 6. Ke0 Ef6 7. Ra1 Ea6
+8. d4
+{강만식 四단의 형은 강인식(康仁植) 씨다.
+형에게 장기를 배웠다고 한다.}
+8... Exh3 9. gxh3 Rf5 10. ab3 cd6 11. Rai1 d5 12. dc4 Rf6 13. Ade1 Hf7 14.
+Hf2 e5 15. Ri4 b5
+{두 기사는 가장 오래두기로 유명한 기사이다. 소요시간 초과하기가 일쑤.}
+16. Rh4 Ri8 17. cd4 Exd4 18. Exb5 Hxb5 19. Rxh7 Rc6 20. Rh4 Hxc3 21. bxc3
+Rxc3 22. Hd0 Ad8 23. Rf4 Ea2 24. Rf6 Exd0 25. Axd0 i5 26. Ri1 Kf8 27. Ef3
+i4 28. Rg1 ef5 29. Ed6 Afe8 30. Afe1 i3 31. hxi3 Rixi3 32. Ea4 Ri0+ 33. Rg0
+Ri4 34. Ra6 Ra3 35. Rd6 Raxa4 36. Rxd5 f4 37. Rd3 g4 38. Kf0 Ra5 39. Ce0
+Rf5 40. Af1 f3 41. Hd1 g3 42. Rd2 Ce9 43. Ade1 Kf9 44. Ca2 Rh5 45. Hb2 Cg9
+46. Rh0 Rxh0+ 47. Cxh0 Ri0 48. Rh2 Cd9 49. Ke0 He5 50. Aff0 Hg4 51. Cd2 Hf6
+52. Hd1 He4 53. Cd0 Ke9 54. Hb2 fe3 55. Ch8 gf3 56. Hc4 Ri6 57. Hd2 Re6 58.
+Aff1 Hc3 59. Chxd8 e2 60. Ci8 exd2 61. Rxd2 Hb1 62. Rb2 Hxd0 63. Kxd0 Cf7
+64. Ri2 Rc6 65. Ci0 Cd9 66. Ke0 fe3 67. Rd2 Cf9 68. Cd0
+{심판의 권유로 무승부}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제4국"]
+[White "金明水 四段"]
+[Black "朴庭植 初段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{김명수 四단은 서울의 유력한 기사,
+박정식 初단은 경북의 1인자 기사.}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Ef3 Ef6 5. Rb0 Hf7 6. Rb4 g5 7. ed3 Af8
+8. Ee3 gf5 9. Rc4 Ce5 10. Exc6 bxc6 11. Rxc6 Rb9 12. Rc4 Rb1+ 13. Ke0 Rg1
+14. Rg4 Kf9 15. He3 fg5 16. Rxg5 Exd3 17. Rh5 Eb0 18. Ce4 Che7 19. Ce1 Cg7
+20. Hi1 Ci5 21. Rxi5 ixi5 22. Af1 Ce7 23. Cxg1 Cxe3 24. Hg2 Cxa3 25. Cc2
+Ha8 26. Ec5 Ea6 27. cb3 Ca7 28. Exa8 Ca0 29. Ke1 Cxa8 30. Ad1 Ed4 31. bc3
+Ad8 32. Rxb0 Ce8+ 33. Kd2 Ce5 34. He3 Ce9 35. Ce2 e5 36. c4 ih5 37. Rb9
+Ade8 38. cxd4 Ri1 39. Ce1 Rxf1 40. Cc1 Rf4 41. Hc2 e4 42. dxe4 Rxe4 43. Ae1
+Re3 44. Kd1 Rd3+ 45. Ad2 h4 46. hxh4 Rxg3 47. Cf1 Rf3 48. Ke1 He5 49. Hd4
+Rf6 50. Rb3 Hf7 51. Ri3 Ad8 52. Hf3 Rh6 53. He5 Ae8 54. hg4 Rh5 55. Hg6 Rf5
+56. Hf4 Re5 57. Rh3 Re4 58. Kf0 Ae7 59. Ae1 Aee8 60. Cf6 Re3 61. Rh4 Ri3
+62. Ke0 Ri0+ 63. Cf0 Ri7 64. Hg6 Rg7 65. g5 Rg9 66. Hh8+ Rg8 67. Hi6 Rg9
+68. Rh9 Ad8 69. Hg7+ Ke8 70. Rxg9 Ce7 71. Rg8 Cxg7 72. Rxf8+ Kd9 73. Rxf7+
+Ae8 74. Rxg7 Kd8 75. Cd0
+{楚 완승}
+
+{Xboard adjudication} 1-0
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제5국"]
+[White "康萬植 四段"]
+[Black "崔鍾潤 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "195"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{최종윤 三단은 국수 타이틀 보유자}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 c5 5. Ee3 Ri5 6. Rh0 Rf5 7. f4 Rf8
+8. g4
+{담배 태우는 최종윤 三단}
+8... Hd7 9. Ke0 cd5 10. Hd2 e5 11. Afe1 Rf6 12. Add1 Ke9 13. Kd0 Afe8 14.
+Ce0 Ch7 15. Ri0 Chf7 16. ih3 Ei6 17. h4 Ce7 18. Ri3 Ca7 19. ba3 Ca5 20. ab3
+Ca8 21. ba3 Ca7 22. Ra1 Cxa3 23. Rc1 Ci8 24. Rh3 Rc6 25. h5 Cc8 26. hxh6
+gxh6 27. Rh1 Ee7 28. Eg0 a5 29. c4 a4 30. Rh3 Ca6 31. Cc0 Ch8 32. Rb3 Cg6
+33. Hi1
+{물수건으로 머리를 식히는 강만식 四단}
+33... Cg9 34. Rcc3 Add8 35. Ce2 Ch0+ 36. Ei3 Ch9 37. Ef1 Cc9 38. gh4 Rg6
+39. Rg3 Cg9 40. Rxg6 hxg6 41. Rf3 Ra6 42. f5 Cd9 43. fxe5 Hxe5 44. Ri3 Cd7
+45. Hg2 Chd9 46. Re3 gf6 47. Ke0 Cg9 48. Hi3 f5 49. Cf0 Rb6 50. Rh3 Cb9 51.
+h5 Ch9 52. hi5 Ef4 53. Rb3 Ra6 54. Hg2 Rg6 55. Hxf4 fxf4 56. Cxf4 Rg5 57.
+Cxa4 Rxi5 58. Cf4 Ri0+ 59. Cf0 Hh5 60. cd4 dxd4 61. Exd4 Hf4 62. Re3 Hc6
+63. Rf3 He6 64. Eg6+ Hg7 65. Hb3 Ri5 66. Hd4 Hxd4 67. Exd4 Rd5 68. Ea2
+{이미 밤 11시가 지났지만 강만식 四단은 태연한 자세를 유지하고 있다.}
+68... Chd9 69. Add0 Cg9 70. Af2 Ca9 71. Ra3 Caf9 72. Ade1 Kd9 73. Rg3 Hh5
+74. Re3 Ca9 75. Rc3 Ce9 76. Rc5 Rd6 77. Rg5 Hi7 78. Ec5 Ec4 79. Ef3 Rd4 80.
+Ei1 Ea7 81. Cd0 Rd5 82. Rxd5 Exd5 83. Eg4
+{최종윤 三단은 강만식 四단을 이기지 못하면 대장군 타이틀은 물 건너 가는 상황}
+83... Hh5 84. Ed2 Cxd2
+{최 三단은 결국 대살(對殺) 감행}
+85. Axd2 Exf2 86. Ae1+ Ed5 87. Ed3 Eg3+ 88. Kf0 Ce3 89. Cd6+ Ke9 90. Cd1
+Hf4 91. Ad2 Hg2+ 92. Kf1 Ee6 93. Kf2 Hi1 94. Ke1 Hg0+ 95. Kd0 Eh4 96. Ae1
+Hh2 97. Ch1
+{강만식 四단의 비기자는 말에 최 三단은 침묵}
+97... Hf3 98. Cd1
+{무승부}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제6국"]
+[White "鄭進一 三段"]
+[Black "金明水 四段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "180"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{두 기사는 입단 동기.}
+1. Hc2
+{맞상 포진}
+1... ih6 2. Hf2 Hg7 3. Cbe2 Ce7 4. Ef3 h5 5. ab3 Ed6 6. Exd6 exd6 7. cd3
+Hd7 8. bc3 Ad8 9. Af1 Kd9 10. c4 g5 11. d4 Afe8 12. Ad1 Ee6 13. gh3 Ce9 14.
+e4 Cbe7 15. Ee3 Cc9 16. Ra2 Cf9 17. Rg0 Ri6 18. Kf0 Ca7 19. Rb2 ab6 20. Ae1
+Rf6 21. Ke0 Ce7 22. Ra2 Rxa2 23. Cxa2
+{담배를 태우는 김명수 四단.}
+23... Cc7 24. Hb0 Rf3 25. Hbd1 Hf5 26. e5 Cg7 27. Cg2 Hxe3 28. Hxe3 Rxe3
+29. exe6 dxe6 30. Rg1 Ra3 31. Rh1 Ra0+ 32. Ad0 Cb7 33. Ch0 Rc0 34. Ce2 Cb0
+35. Ae1 Rxc4+ 36. Ad1 Rxd4 37. hg3 Cb7 38. ih3 Ri4 39. Cd0 Ce7 40. gf3 Ke9
+41. hg3 e5
+{3졸 정도가 우세하지만 김명수 四단은 여전히 담배를 태운다.}
+42. Cf0 e4 43. Hg0 Ri7 44. Ri1 Rg7 45. Ri4 Hc5 46. Hh2 Rh7 47. Hf1 h4 48.
+Ri5 gh5 49. Ri6 Cd9 50. fe3 ed4 51. Cd0 Hb3 52. Ch0 cd6 53. gf3 Rg7 54. f4
+Rg0+ 55. Cf0 hg5 56. Rg6 bc6 57. f5 g4 58. fe5 Hc5 59. -- Add7 60. Add2 d3
+61. exd3 Hxd3 62. e6 Hf4 63. exe7 Hxg6 64. exd7+ Axd7 65. He3+
+{정진일 三단이 의도는 양포의 힘을 믿고 한을 괴롭게 하는 것.
+그러나 과연 잘 될지?}
+65... He7 66. Hxg4+ Ae8 67. Hf6 Cf7 68. He4 d5 69. Hf2 Rg6 70. He4 d4 71.
+Cxe7+ Axe7 72. Hf2 c5 73. Cd0 c4 74. Add1 Rf6 75. Hh1 h3 76. Hf0 Rf3 77.
+He2 Re3 78. Add2 de4 79. Add1 Ae8 80. Add2 Rf3 81. Hg1 Rg3 82. He2 Rg5 83.
+Aed1 e3 84. Hf0 Rg0 85. A2e1 hg3 86. Add2 gf3 87. Add1 c3 88. Add2 cd3 89.
+Add1 Ad7 90. -- Cc7
+{Xboard adjudication} 0-1
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "본선리그 제7국"]
+[White "金明水 四段"]
+[Black "李正碩 六段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{두 기사는 전적이 이미 2승 2패로, 이 대국은 5번승부 중 5번이다.}
+1. ih3
+{대국 장소는 서울 서대문구 홍파동(지금은 종로구에 속한다) 80번지 손도심(孫道心) 장기협회 이사장 댁.}
+1... ab6
+{이정석 六단은 전날 밤12시까지 검토와 연구를 거듭하였다.}
+2. Hc2 Hc7 3. Ce2 Ce7 4. Hf2 Hf7 5. Ef3 Af8 6. Af1 Ce9 7. Ce0 Ef6 8. g4
+{김명수 四단은 이정석 六단이 지도했던 기사.}
+8... Kf9 9. Kf0 Ade8 10. Cg0 ih6 11. Rxi9+ Cxi9 12. Exh6 gxh6 13. Cg7 Hd9
+14. Cxh6 Ei4 15. h4 ef6
+{漢의 포진은 이정석 六단이 의도한 것.
+楚에서 양병(兩兵)을 깔끔하게 잡기가 어렵다.}
+16. hxi4 fg6 17. Cxc6 bxc6 18. cd3 Ra5 19. a4 Rh5 20. gh4 Rc5 21. Hd4 gf6
+22. ab4 Rc1 23. hg4 fg6
+{이정석 六단은 해설에서 장기가 바둑과 달리 좋은 기보가 적게 나오는 것은 공제가 없기 때문이라고 썼다.
+점수제 장기의 도입이 가시화되는 분위기이다.}
+24. gf4
+{뮬론 이 대국은 점수제 장기이다.
+서로 동률이라 점수제로 결판을 내야 한다.
+기물 점수가 지금과 다르니 읽을 때 유의할 것.}
+24... cd6 25. Hg4 Hg5 26. Hi5 Hi6 27. Cg0 gf6 28. Ade1 Rc5 29. f5 d5 30.
+Hf3 fxf5
+{점수가 앞서니 점수승하려는 이정석 六단과 점수가 뒤처져 승점을 찾으려는 김명수 四단.}
+31. Hh4 Rc6 32. Hxf5 Rf6 33. Hh4 He7 34. Ra2 Cd7 35. Rg2 Cd9 36. Hg4 Hxh4
+37. ixh4 Rf4 38. b5 C7f7 39. Ke0 Ea6 40. b6 Ec9 41. Cd0 Rb4 42. bc6 Ea6 43.
+cd6 Hf5 44. Rh2 Hxd6 45. Cxd5 Rc4 46. Ea3 Ra4 47. Ed1 Ra0+ 48. Ad0 Ch9 49.
+Ri2 Ce9 50. Ae1 Cd9 51. Hf6 Ce7 52. He4 Hf7 53. Cd2
+{그새 세수를 하고 온 이정석 六단.}
+53... Ed8 54. hg4 Ra6 55. Cf0 Ke9 56. Rg2 Re6 57. gf4 Re5 58. Ae2 Eb5 59.
+Ade1 Ri5 60. Hc3 Ed8 61. fe4 Cxe3
+{포로 양 졸을 취할 목적.
+당시의 기물 점수로는 그렇게 두어도 한에서 점수가 앞선다.}
+62. dxe3 Ri3 63. ef4 Rxe3 64. He4 He5 65. Hc5 Hc4 66. fe4 Hb2 67. Cd2 Rc3
+68. He6 Rc0+ 69. Cd0 Hxd1 70. Axd1 Cxd1 71. Rg9+ Aff9 72. Hxd8 Axd8 73. Ae1
+Rxd0+
+{한의 점수승은 이제 확정.}
+74. Axd0 Cd9 75. Ae1 Ae8
+{이정석 六단 점수승.
+김명수 四단은 종국 후 손을 내밀어 악수를 청함.
+제2회 대장군전 우승도 이정석 六단
+준우승도 김명수 四단으로 전년과 같은 결과이다.}
+
+{Xboard adjudication} 0-1
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제1국"]
+[White "李龍吉 初段"]
+[Black "文昌吉 初段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "150"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{문창길 初단은 1969년 제5회 입단대회에서 우승하여 입단.
+
+이용길 初단 역시 제5회 입단대회 준우승으로 입단}
+1. ab3 ih6 2. Hf2 Hc7 3. Cc2 Ce7 4. Ee2 Ef6 5. Ra4 ed6 6. He4 He6 7. cd3
+Hf7 8. Ke0 Af8 9. Ci2 Rh9 10. gf3 d5 11. Ade1 Kf9 12. Cf2 de5 13. Hg3 Ade8
+14. Ea3 Ce9 15. Hd1 ab6 16. Ri4 Cb7 17. Ca2 Rb9 18. b4 Hed8 19. Cb2 Ee6 20.
+Cf2 Cg9 21. Cd0 Cd9 22. Rf4 Ke9 23. bc4 Ci7 24. ih3 Ce7 25. h4 Cf9 26. Rh0
+Exd3 27. h5 e4 28. exe4 Hg5 29. Rg4 Exg3+ 30. fxg3 hxh5 31. Cxd3 Hde6 32.
+cd4 c5 33. Cd0 c4 34. dxc4 Hxe4 35. Rxg6 Hf4 36. Rg4 Hxe2 37. Rxe4 Hxg3 38.
+Re5 Rc9 39. Hb2 Rg9 40. Rg0 Rg5 41. Re3 Hf5 42. Rxg5 Hxe3 43. Re5 Hxc4 44.
+Hxc4 Rxc4 45. Ae2 Rc2 46. Cd2 hg5 47. Afe1 gf5 48. Re3 b5 49. Ch2 Rc7 50.
+Ed1 bc5 51. A2f2 Ra7 52. Ce2 Aff7 53. Cf0 Cd9 54. Rd3 fe5 55. Ef4 cd5 56.
+Eh7+ Cxh7 57. Rxd5 Ce7 58. Rxe5 Aff8 59. Cxf8 Cf7 60. Cc8 Kf9 61. Rc5 Ra0+
+62. Cc0 Ce9 63. Ad0 Ce7 64. Rc2 Cd9 65. Afe1 Ad7 66. Rc9 Ke8 67. Rc8+ Ad8
+68. Rc2 Ad7 69. Rc8+ Ke9 70. Rc2 Ra3 71. Add1 Re3 72. Add2 Cd6 73. Cf0 Ke8
+74. Rc8+ Cd8 75. Cd0 Re6
+{심판의 권고로 무승부}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제2국"]
+[White "朴大準 初段"]
+[Black "崔鍾潤 三段"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "168"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{최종윤 三단은 서울 태생으로 국수(國手) 타이틀 보유자.
+박대준 初단은 경기도 태생으로 제3회 입단대회 우승으로 프로 입문.}
+1. ih3 Hg7 2. ab3 Ce7 3. Hg2 Ci7 4. Rh0 ih6 5. Ce2 Hd7 6. ed3+ Cie7 7. Ei3
+gf6 8. h4 Ed6 9. b4 Ad8 10. Hc2 Af8 11. c4 Ei6 12. Cd2 ab6 13. Ea3 Ra5 14.
+Af1 Rg5 15. g4 Re5 16. de3 Ra5 17. Cf0 Raa9 18. Ke0 Ce9 19. e4 Kd9 20. ed4
+e5 21. Ade1 Afe8 22. Rh3 Cc9 23. Rd3
+{최종윤 三단은 대장군전에서는 별 재미를 못 보았습니다.
+이번 대국도 초반전은 楚가 재미있군요.
+漢은 수 낭비만 했습니다.}
+23... h5 24. hxh5 Hxh5 25. gh4 Hg7 26. d5 exd5 27. Rxd5 He6 28. Hce3 Ef8
+29. Rg5 Cf9 30. Cd0 Ri7
+{하지만 楚도 아직 이득을 본 건 아니네요.}
+31. Cg0
+{최종윤 三단은 漢에서 별 볼일 없는 국면이 되어 가자 밖에 나가서 세수를 합니다.}
+31... f5 32. Rg6 Hf4 33. Ci2 Re7 34. Hxf5 Hd3 35. Ed1 Re5 36. Rxa9+ Cxa9
+37. Ci5
+{차를 피해도 졸 당기면 차가 잡힙니다.
+최종윤 三단의 제2회 대장군전 예선리그 경기는 암울합니다.}
+37... Rxf5 38. Exf5 Ce7+ 39. Kd0 Cf9 40. Ei7 Cb9 41. Rg3 He5 42. Ef5 Ef3
+43. Cc0 c5 44. cd4 Cf9 45. Ei7 Cf7 46. Rg9+ Ce9 47. Ef5 Hc6 48. Cf0 Ed6 49.
+bc4 cxc4 50. dxc4 Hd4
+{무심코 한마를 취하면 초차가 잡힙니다.}
+51. He3 Ei6 52. Ri9 Hf6 53. Cd2 bc6 54. Cxd6+ cxd6 55. cxd4 Ef4 56. Eb4 Hh7
+{표정이 굳어 버린 박대준 初단}
+57. Rxe9+ Axe9 58. Ce5 Hf6 59. hg4 Eh1 60. Hc4 d5
+{물수건으로 머리 식히는 박대준 初단}
+61. dxd5 Hxd5 62. Ed1 He3 63. Hxe3 Exe3 64. Ke0 Eb5 65. Eh2 Ee7 66. g5
+{초에서 기물 1개만 더 잡히면 빅이 됩니다.
+최종윤 三단은 끝까지 그걸 노립니다.}
+66... Ade8 67. Ee4 Cd7 68. Ce2 A9f9 69. Eb6+ Kd8 70. gf5 Aff8 71. fe5 Cf9
+72. e6 Aff7 73. Eb4 Eb5 74. ed6 Cf6 75. Ee4 Cf9 76. Aff2 Aee7 77. Eh6 Af8
+78. Ch2 Cf7 79. de6 Ad7 80. Ee2 Kd9 81. Ee4 Ee7 82. Eb6+ Ke9 83. Ec5 Afe8
+84. Ce2 Kf9
+{빅}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제3국"]
+[White "李在求 三段"]
+[Black "朴庭植 初段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "105"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{박정식 初단은 경상북도 출신
+이재구 三단은 故 임제민 六단의 제자.}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. Hd2 Ad8 6. ef3 Ed6 7. Ee3 c5
+8. Rh0
+{박정식 初단은 주포진이 원앙마이지만 이재구 三단이 원앙마를 잘 부수니 귀마로 두고 있는 것.
+두 기사는 첫판을 무승부로 비겨서 이판은 필히 이기겠다는 결심 중.}
+8... Af8 9. Ec6 Ra8 10. Rh4 Exf3 11. Rha4 Rc8 12. Rxa6 Ed6 13. Ad1 Ei6 14.
+ih3 Ce5 15. R0a5 Exb3
+{박정식 初단은 물수건으로 머리를 식힘.}
+16. Exf8
+{박정식 初단은 갑자기 두통약을 재촉.}
+16... Kxf8 17. Ra8 Ric9 18. Rxc8 Rxc8
+{이재구 三단은 담배를 피우며 장고(長考).}
+19. Ra4 Cf7 20. cxb3 cd5 21. He3 Rc5 22. Cb7 Hb6 23. Rb4 Hc4 24. Hxd5 Rxd5
+25. Rxc4 Rxd3
+{흡연이 길어지는 이재구 三단과 머리에 계속 물수건을 갖다 대는 박정식 初단.}
+26. Rc3 Rd5 27. Kd0 Ra5 28. Cb0 Ra0 29. Rc0 Kf9 30. Ade1 Ae8 31. Ce0 Cd9+
+32. Ad1
+{(신문에 나온 좌푯값 수정이 입력보다 힘듭니다)}
+32... Ra1 33. Ae1 Ce7 34. Ce2 gf6 35. bc3 Hf5 36. cd3 Exg3 37. hxg3 Hxg3
+38. Rc3 Hxe2 39. Axe2 Ra0 40. Rb3 Cxe2 41. Ke0 Ce7+ 42. Kd0 Ke9 43. Ae1 hg6
+44. Ad1 g5 45. Ae1 gf5 46. Rb9
+{楚에서 한포를 때리지 않으면 완패가 분명한데 때려도 완패한다는 것이 문제.}
+46... Ra1 47. Ad1 Ra0 48. Ae1 f4 49. Ke0 Ra1 50. Rb1 Ce5+ 51. Kf0 Ra0 52.
+Rb9 fg4 53. de3
+{여기까지가 신문에 실린 7보(譜)입니다.
+8보째에서 좌표가 실려 있지 않고 보면(譜面)만 덩그러니 실려 있어서 더 이상 입력이 불가합니다.
+총138수, 한 완승
+이재구 三단은 본선 진출길이 막혔습니다.}
+
+{Xboard adjudication} 0-1
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제4국"]
+[White "申武均 二段"]
+[Black "金商圭 初段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "213"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{김상규 初단은 대학교 졸업의 고학력 기사이며 故 임제민 六단의 제자.}
+1. ih3 ab6 2. Hf2 Hc7 3. Ce2 Ce7 4. Hc2 Hg7 5. Ef3 ef6 6. Ri4 Hce6 7. ed3
+f5 8. Ee3
+{신무균 二단의 특기는 차(車) 활용입니다.}
+8... i5
+{신무균 二단은 서울 태생이며 입단한지 15년이 되었으나 여태 二단.
+입단 3년차와 입단 15년차의 대결입니다.
+김상규 初단이라는 신예 기사를 어떻게 요리할 것인가?}
+9. Rb4 ih5 10. Exc6 bxc6 11. Rb7 Ke9 12. Cd2 Ra5 13. Rb9 Ri1+ 14. Af1 Re5
+15. Ca2 f4 16. He3 Rc5 17. Rxc9 Rb5 18. ab3 fxf3 19. gxf3 cd6 20. Ra1 Ra5
+21. Rc8 Rg5 22. hg3 Afe8 23. Ca0 Kf9 24. Cf0 Cf7 25. Rca8 dc6 26. Ke0 h4
+27. Ade1 gf6 28. R1a4 Rh5 29. Ch2 Rhi5 30. Rxh4 Hc7 31. Raa4 Rxf1
+{초에서 초차가 그냥 피하는 바람에 이 수가 성립됩니다.
+초차가 한마를 걸면서 피했으면 괜찮았을 겁니다.}
+32. Ce2 Rfi1 33. Rag4 Ri7 34. Rh8 cd6 35. Rg8 Hi8
+{기가 꺾여가는 김상규 初단}
+36. Hh3 R1i6 37. Hg5 Rg6 38. Rxg6 fxg6 39. Ri4 Rxi4 40. Hxi4 Ce9
+{무승부를 꾀하는 김상규 初단과 이길 수 있음을 장담하는 신무균 二단}
+41. Cc0 Hd5 42. d4 Hf6 43. Cg0 gh6 44. Cd0 dc6 45. Ci0 Ei6 46. Cc0 Cxe3 47.
+fxe3 cd6 48. gf3 h5 49. Cf0 Hh7 50. Cd0 h4 51. Hh2 h3 52. Hg0 dc6 53. c4
+Hg5 54. Hi1 hg3 55. fxg3 Exg3+ 56. Af1 Hh6 57. Ke1 Hf5 58. e4 Hf3+ 59. Af2
+Ei0 60. Hg0 Exf2 61. Cxf2 Hh6 62. bc3 Hg4 63. cd3 Hfh2 64. Hxh2 Hxh2
+{한의 무승부 전술이 계속되는데...}
+65. Cd0 Hf3+ 66. Kd1 Add8 67. de3 Hg1 68. Kd2 He0+ 69. Ke1 Hg1 70. Cd5 cd6
+71. Cd1 Hxe2 72. Kxe2 de6 73. d5 Cd9 74. c5 Cg9 75. Kd2 Cd9 76. Cd4 ef6 77.
+e5 Ke9 78. e4 Cf9 79. Cf4 fg6 80. ef5 Add7 81. de5 Ade7 82. cd5 A7f7 83. d6
+{독병(獨兵)은 오래 못 삽니다.
+김상규 初단의 병 1개가 잡히면 한에서는 이 장기를 지게 됩니다.}
+83... Cd9+ 84. Cd4 Cf9 85. de6 Cd9 86. ed5 Cf9 87. e5 gh6 88. fg5 Cd9 89.
+Ke1 hi6 90. gh5 Cf9 91. Cd6 i5 92. hxi5 Cd9 93. ih5 Kf9 94. hg5
+{이마에서 땀방울이 쉴새없이 떨어지는 김상규 初단}
+94... Cg9 95. gf5 Ke9 96. Cf6 Cd9 97. Cf2 Cf9 98. d6 Afe7 99. f6 Cd9 100.
+ef5 Cf9 101. fg5 Cd9 102. Kf1 Cf9 103. g6 Cd9 104. g7 Cf9 105. exe7 Axe7
+106. gf7 Ae8 107. f7xe8+
+{김상규 初단은 비길 수 없음을 인정하고 궁을 던졌다.
+총213수, 초 완승}
+
+{Xboard adjudication} 1-0
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제5국"]
+[White "金知桓 初段"]
+[Black "梁周浩 三段"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "244"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{양주호 三단은 서울 태생, 김지환 初단은 경기도 태생.
+입단 3년차의 김지환 初단에 거는 기대가 크다.}
+1. Hg2
+{첫수부터 정석을 거스르는 김 初단}
+1... ab6 2. Ce2 Hg7 3. ih3 Ce7 4. Hd2 Ed6 5. Ed3 ef6 6. Ri4 Rh9 7. Rf4 He6
+8. Rg4
+{양득을 포기하는 한 수.}
+8... ih6 9. Exf6 gxf6 10. Rg8+ Af8
+{양주호 三단은 자신에 찬 표정, 담배 한 개비를 다 태우면서 생각.}
+11. Cxe6 fxe6 12. Ce2 ef6 13. Rg7 Hd7 14. He4 Ce9 15. Rg5 Kf9 16. Ke0 Ee6
+17. cd3 hg6 18. Ri5 Ade8 19. Ei3 Cg7 20. Ch2 Ri9 21. Rxi9+ Cxi9 22. a4 Eb3
+23. Ch9
+{아주 거창한 한 수.
+하지만 결과는 장담할 수 없음.}
+23... Ra7
+{그저 양주호 三단이 1969년 들어서 대단히 부진한 성적을 내고 있다는 것에 기대할 뿐.}
+24. Ra2 Ee5 25. gf3 Ci0+ 26. Ae1 Ci7 27. Exg6 fxg6 28. Hf4 Cb7 29. Hxg6
+{머리를 물수건으로 식히는 양주호 三단.}
+29... Cc7 30. Rg2 Cc0+ 31. Ad1 Cc9 32. Ra2
+{김지환 初단의 작전은 수포가 됨.}
+32... Eb4 33. Add2 Ke9 34. Ch2 Ee6 35. hg3 Cf9 36. Cc2 c5 37. Hxe5 Hxe5 38.
+Hxc5 Eh4 39. Ce2 Hc6 40. a5 Ef7 41. He6 He7 42. Hf4 Ra8 43. e4 Rc8 44. e5
+Rc0+ 45. Ad0 Cb0
+{김지환 初단이 5졸을 다 살린 보람이 없습니다.}
+46. Ra0 Ca9 47. ab5 ba6 48. Ca2 Hc6 49. Ke1 Hb4 50. Ca7 Rc1+ 51. A0d1 Cxb5
+52. Ra4 Rc4 53. dc3 Re4+ 54. Kf0 Ec5 55. Rxa6 Cxe5 56. Ra4 Cf9 57. Ca3
+Cxf4+ 58. fxf4 Rxf4+ 59. Ke0 Kf9 60. cb3 Ce9+ 61. Ce3 Hd5 62. Rxf4 Hxf4 63.
+A1e1 Hh5 64. g4 Hi3 65. g5 Hg4 66. Ca3 Ce3+ 67. Kf0 Ea8 68. Cd3
+{한은 대삼능(大三能)이다.
+초에서는 소삼능(小三能)으로 한을 이길  수 없는 기물이 남았다.}
+68... Hi3 69. Cd1
+{초에서는 방비할 자신이 있는 듯.}
+69... Ec5 70. Af1 Ce9 71. Afe1 Aef7 72. Af1 Hg2+ 73. Cg1 Ee8 74. Ade1 Eb6
+{졸에는 관심조차 없는 양주호 三단
+양 三단은 초포에 관심이 있다.}
+75. Aff2 Ed3
+{포에 관심이 있으면 최소한 졸을 잡는 걸까?}
+76. Ad2
+{인천에서 서울을 방문하여 장기를 두고 있는 김지환 初단은 아주 피로한 기색이 또렷하다.}
+76... A8e8 77. bc3 Exg5 78. Kf1 Ei2
+{포마상 승수법을 알고 있는 양주호 三단}
+79. Ade2 Hf4 80. Ke1 Ce3+ 81. Kd1 Hh3 82. Cc1 Ci3 83. c4 Ef4 84. Cf1 Cf3
+85. Kd0 Ed7 86. Afe1 Hf4 87. Cd1 Eg5 88. A2d2 Cf6 89. cd4 Cf8 90. de4 Hg2
+91. e5 He3 92. e6 Hc2+ 93. Ke0 Ei2 94. Aee2 Cf4 95. Cd3 Hd4 96. ef6 Cb4 97.
+fxf7 Ce4+ 98. Af2
+{김지환 初단은 담배를 피움.}
+98... Ce9+ 99. Kd0 Axf7 100. Ke1 Ae8+ 101. Afe2 Hf3+ 102. Kf1 Af7 103. Cd0
+Hh2+ 104. Kf0 Hi4+ 105. Kf1 Hg3+ 106. Kf2
+{점점 불리해지는 초궁의 위치}
+106... Eg5
+{이미 4시간이 지났지만 포기하지 않는 김지환 初단.}
+107. Aee1 Ei8 108. Af0 He4+ 109. Kf1 Hxd2+ 110. Ke1 He4+ 111. Kd1 Ef6 112.
+Ae1 Hc3+ 113. Kd2 Ke8 114. Cf2 He4+ 115. Kd1 Ec4 116. Cd0 Hc3+ 117. Kd2
+Hb1+ 118. Kd1 Cxe1 119. Cd2 Ce9 120. -- Ef2 121. Cg2 Ed5 122. -- Ea3#
+{양주호 三단의 완승으로 끝.}
+
+{Xboard adjudication} 0-1
+
+[Event "제2회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "예선리그 제6국"]
+[White "李龍吉 初段"]
+[Black "韓新鎬 初段"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "209"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{初단 간의 대결}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ee2 ef6 5. He4 Hf7 6. cd3 Af8 7. Ke0
+Ce9 8. gf3 f5
+{한신호 初단은 속수파(速手派)}
+9. Ade1 Ea6 10. Ca2 Rb9 11. ab3 ih6 12. Rxi9 Cxi9 13. h4 fe5 14. Hg3 Cxh4
+15. Ea3 Ch7 16. Hd1 He6 17. Cb2 Rc9 18. f4 Cg9 19. ef3 Ef6 20. de3 Cg5 21.
+Ra1 Cg9 22. e4 exe4 23. fxe4 Kf9
+{이용길 初단은 쾌활한 성격이지만 장기를 둘 때는 숙고파, 거구.
+한신호 初단은 속수파, 작은 체구.}
+24. Hi2 Ce7 25. f4 g5 26. Cf2 Ei4 27. Cd0 h5 28. Rc1 Ade8 29. b4 Rc7 30.
+Rc3 Cd9 31. Ri3
+{첫판을 비긴 두 기사는 이번 판에는 승부를 낼 속셈인 듯.}
+31... Eg7 32. Ri4 Ec9 33. Cg2 Ra7 34. Ed5 cd6 35. Exg7 Cxg7 36. Ri3 bc6 37.
+bc4 Ra1 38. Cgd2
+{세수를 하고 온 이용길 初단은 아직 신통한 수를 발견하지 못했음.}
+38... Hed8 39. cd4 Ce7 40. Hg1 Ea6 41. Hb2 Rc1 42. Ha4 Hb7 43. Aff1 Cxe2+
+44. Axe2 Rxf1 45. Ri1 Ra1 46. Hb2 Rb1 47. Cf2 Ec3+ 48. Kf0 Rb0 49. Ke1 Hc5
+50. Hd1 Rb1 51. Hf3 de6 52. Hd2 Ra1 53. Ke0 Ke9 54. Ae1 cd6 55. Cc2 Ea6 56.
+Ce2 Ha4 57. Hc4 Hc3 58. Hxc3 Exc3+ 59. Kf0 Kf9 60. Ri3 Rc1
+{담배를 태우는 한신일 初단
+물수건으로 머리를 식히는 이용길 初단}
+61. Ha3 Ea6 62. Rb3 Ed8 63. Cf2 Rc0+ 64. Ce0 h4 65. Rg3 gh5 66. f5 Ke9 67.
+Hc4 Rb0 68. Rg8 Rb3 69. Hd2 Rb5 70. ef4 Kf9 71. f6 exf6 72. Cxf6 de6 73.
+Cf2 e5 74. de4 exe4 75. fxe4 Rf5 76. Hc4 h3 77. e5 Rg5 78. Ri8 Rg9 79. Ri7
+Ri9 80. Rxi9+ Cxi9 81. e6 Cd9 82. ef6 Hh8 83. fg6+ Ef5 84. g7 Hg6 85. Cf6+
+Ke9 86. Ce2+ Ad8 87. He3+ Afe8 88. Hxf5+ Af8 89. Ce0+ Ade8 90. Af2+ Ad7 91.
+He3+ Afe8 92. Hd5+ Af8 93. He7+ Ade8 94. Hxg6+ Ad7 95. Cf1 Ke8 96. He7+
+{한에서 궁으로 초마 먹으면 집니다.}
+96... Kd8 97. Hxd9 Kxd9 98. Cxf8 Ae8 99. Cf1 hg3 100. Ae1 gf3 101. Cd1 hg5
+102. Ad2+ Ad8 103. gf7 f2 104. Ae2+
+{한신호 初단은 대응수가 없음을 알고 대진표의 점수계산 중}
+104... Ae8 105. f7xe8#
+{Xboard adjudication} 1-0
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제1국"]
+[White "林哲鎬 初단"]
+[Black "李一勳 二단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "178"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{주최: 경향신문사
+주관: 한국장기원(韓國將棋院)
+예선 제1국}
+1. ab3
+{이일훈 二단은 면상(面象) 포진의 명수(名手)이다. 이일훈 프로보다 면상을 잘 쓴 기사는 아직 없다.}
+1... ih6
+{임철호 初단은 상대가 면상의 명수라는 것을 알고 있기에..}
+2. Hd2 Hf7 3. Hg2
+{..楚를 쥐고 맞상으로 두어 판을 비튼 것이다.}
+3... Cg7
+{이일훈 二단은 선·후수를 가리지 않고 면상 포진만 둔다.}
+4. Cbe2 Ee7 5. ef3 He5 6. Ee3 cd6 7. Ca2 ab6 8. Hh0 Ke9 9. Hhf1 Ade8 10.
+Cc2 Cc7 11. Ci2 Rh9 12. ih3 Ri9 13. Ke0 Aff8 14. Afe1 Cd7 15. f4 gf6 16.
+fe4 Hg6
+{예선에서 선발된 기사는 부산의 안성흥(安盛興) 五단, 서울의 김명수(金明水) 四단, 서울의 최종윤(崔鍾潤) 四단, 이리(裡里)의 문창길(文昌吉) 二단, 서울의 이일훈(李一勳) 二단이다.}
+17. Ed3
+{결국 김명수 四단이 대장군 타이틀의 도전자가 된다.
+
+(당시 대장군 타이틀 보유자는 이정석)}
+17... bc6 18. g4 f5 19. Add1 Cf9 20. hg3 e5 21. exe5 Hxe5 22. Hb1 d5 23.
+Ha3 Ea6
+{제3회 대장군전 결승은 7월 20일 서울 서대문구 연희동(延禧洞) 손도심(孫道心) 이사장 댁에서 진행되었다.
+
+집행부: 김세환(金世煥)
+진행부: 전주환(全柱煥)
+심판부: 양주호(梁周浩)
+관전: 손도심, 안성흥, 최종윤 등}
+24. Ra1 Hd8 25. Hb5 Rc9 26. Hxc7 Rxc7 27. Ca0 Exc3 28. bxc3 cd6 29. Ra3 d4
+30. Cf0 Ri5 31. Add2
+{이일훈 二단은 성균관대학교를 졸업했고, 1969년 입단대회에서 준우승으로 입단, 승단대회에서는 면상 포진만으로 7명을 물리치고 二단이 되었다.}
+31... Cc9 32. Add1 Cxc3 33. Ra9+ Cc9 34. Eb0 de4 35. Eh1 hg6 36. Ra6 Hec6
+37. Ra4 fe5 38. Cd0 d5
+{임철호 初단은 입단한 지 3년째, 직장 관계로 원래는 참가할 수 없었지만 회사에서 특별히 배려하여 대회에 나올 수 있었다고 한다.}
+39. Ra2 Hd4 40. Ed3 Cf9 41. Rh2 Rc0 42. Rg0 gf6 43. Ce2 f5 44. gf3 Ri3 45.
+fe3 exe3 46. Exe3
+{이일훈 二단은 故 임재점(林在漸) 四단처럼 선·후수 모두 면상을 둔다.}
+46... Hc6 47. Add2 Ra0 48. g5 fxg5 49. Rxg5 Cxf1 50. Axf1 Rxe3 51. Rg9+
+Aff9 52. Ke1 Hb4 53. Rh6
+{면상장기인데 漢에 양포가 없다.}
+53... Hxd3
+{이정석 六단은 이일훈 二단에게 여러 포진을 익히라고 충고했지만, 이일훈 二단은 1998년 작고할 때까지 면상만 고집했다.}
+54. Rc6 Ra9 55. Rc3 Hf3+ 56. Kf0 d4 57. Rg3 e4 58. Cg0 Ra5 59. Rc9+ Ad9 60.
+Rg7 Ra7 61. Rg9 Rd7 62. Cd0 Re8 63. Afe1 Rf7 64. Cf2 He5 65. Ke0 Re8 66.
+Cd0 Hd7 67. Ra9 Hb4 68. Ra5 Hb6 69. Rf5 Rd7 70. Add1 Ae8 71. Rb5 H4d5 72.
+Rc5 Rc7 73. Ra5 Rc9 74. Kf0 Hf4 75. Ce0 Rf3+ 76. Af1 Re3 77. Rf5 Rc2 78.
+Rfg5 Ree2 79. Afe1 Ri2 80. Cd2 Rc3 81. Cd0 Hd7 82. Af1 Rcc2 83. Ci0 Hg2+
+84. Ke0 Re2+ 85. Ade1 Hxe1 86. Axe1 Rxe1+ 87. Kxe1 Ec4+ 88. Kf1 Re2 89. Rf5
+Re1#
+{Xboard adjudication} 0-1
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제2국"]
+[White "文昌吉 二단"]
+[Black "朴庭植 初단"]
+[Result "1/2-1/2"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "243"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{지방에서 올라온 두 기사.}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3
+{양졸을 다 접으면 뺨을 맞는다는 장기속담을 무시하는 문창길 二단.}
+4... Cd7 5. Ed3 ed6 6. Hd2 Af8 7. gf3 g5 8. c4 Cf9 9. Ad1 Hge6 10. Kd0 d5
+11. Afe1 c5 12. cxc5 dxc5 13. Ce0 Ke9 14. Cbe2 Ade8 15. Cc0 Rh9
+{박정식 初단은 바둑 1급이기도 하다.}
+16. hg3
+{문창길 二단은 1969년 입단대회 우승자. 1970년 7월 7일 승단대회에서 7명을 이기고 二단으로 승단했다.}
+16... ih6 17. Cf0 Ca7 18. Rc0 ab6 19. Ri8 Aff7 20. Cb2 b5 21. e4 cd5 22.
+Ce2 bc5 23. Ei3 Ea6 24. Rg8 Ce7 25. Eg0 gh5 26. Ea1 Cc9 27. Rg4 Ri9 28. Ei3
+Cg7 29. Cf6 Ce7 30. Cc6 hg5 31. Rh4 h5 32. Rh0
+{박정식 初단은 물수건으로 머리를 식힘.}
+32... Ei6 33. Ci2 Hg7 34. Cc2 He6 35. Ra0 Ed8 36. Cce2 Ra6 37. Ce0 Ch9 38.
+Rg0
+{이미 시간은 늦은 저녁.}
+38... Ca9 39. He3 Cxa1 40. Hc2 Ca9 41. Rxa6 Exa6 42. Hb4 Ed8 43. Hc6 Rh9
+44. g4 gxg4 45. ef4 Rh6 46. fxg4 Cg9 47. Hxe7 Afxe7 48. Ef1 d4 49. bc3 Ea6
+50. Exd4 Hxd4 51. cd3 Hde6 52. Cc2 h4 53. Cc6 Hc7 54. Cc2 cd5 55. f4 d4 56.
+de3 Hb5 57. Ri0 hxg4 58. fxg4 Cd9 59. Ri5 Ha3 60. Cg2 dc4
+{두 기사는 담배를 피우지 않는 기사이다.}
+61. ed3 Hh5 62. gh4 Hf4 63. Ra5 Cxd2+ 64. Adxd2 Hb1+ 65. Kd1 Hxg2 66. Rb5
+Hxd2 67. Axd2 Rd6 68. Rg5 Hf4
+{어느덧 밤 9시, 저녁을 주문해 먹은 후 대국이 이어진다.}
+69. de3 c3 70. Ke1 c2 71. Ad1 Hd5 72. Rg2 Hb4 73. h5 Rc6 74. hi5 Ef8 75.
+Rg4 Ha2 76. Rg9+ Af9 77. ed3 Hb4 78. Kd0+ Af7 79. de3+ Ae8 80. Rg4 Hd5 81.
+ed3+ Kd9 82. Ra4 He7 83. Rb4
+{9월 중순에는 장원전(壯元戰)이 열릴 예정이고, 10월에는 국수 타이틀전이 열린다는 이정석 六단의 해설.}
+83... Ed5 84. de3 Eg3 85. Cxe7 Axe7 86. ef3 Ee6 87. Rb9+ Ec9 88. Ke1 Aee8
+89. Rb5 Rc3 90. Rf5 Eb4 91. ih5 Ece6 92. hg5 cb2 93. Rd5+ Ke9 94. Rd2 Rc1
+95. gf5 Ec3 96. f6 Aff8 97. Rd4 Rxd1+ 98. Rxd1 Exd1 99. Kxd1 Ea0
+{상병(象兵) 대 민궁, 상병 대 독졸(獨卒)은 상병이 이기는 기물이지만, 지금 楚에서 양졸로 수비를 하고 있어 심판이 판정을 내리지 못하는 국면.}
+100. fe3 bc2 101. Ke1 cd2+ 102. Kf2 Ec3 103. ed3 Ee0 104. de3 Eb2 105. fe6
+Ed5
+{슬슬 관전자들은 무승부를 알아차리고 집으로 돌아가기 시작.}
+106. ef6 Ea3
+{박정식 初단은 맥이 풀린 표정.}
+107. ed3 Ec0+ 108. Kf1 de2 109. fe6 ef2+ 110. Kf0 Ea3 111. d4 Ed1 112. de4
+Eb4 113. ed6
+{자신에 차 있는 문창길 二단.}
+113... Ee2 114. ef4 Eb0 115. Ke0 Ed3 116. Kd0 fe2 117. Kd1 Ef0 118. de6 Eh3
+119. fe4 Ee1 120. ef6 ef2 121. Kd2 Eg4+ 122. ef4
+{심판은 한상(漢象)이 이길 수 있는 자리에 가도 초의 졸(卒)에 멱이 막힐 수밖에 없음을 알고 무승부 판정.
+결국 박정식 初단의 공격은 허사가 되었다.빅.}
+
+{Xboard adjudication: long game} 1/2-1/2
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제3국"]
+[White "梁周浩 三단"]
+[Black "申武均 二단"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "281"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+{신무균 二단은 제2회 입단대회 우승자.
+그러나 환갑이 넘었다. 과연 제 실력이 나올지?}
+1. ih3 ab6 2. Hf2 Hc7 3. Hc2 Hf7 4. Che2 Che7 5. ed3 g5 6. Ee3 cd6 7. Cd2
+Cd7 8. Ef3 d5 9. Ca2 Ca7 10. Ri4
+{양주호 三단은 젊었던 시절에 남대문 시장에서 장사를 했지만 지금은 한국장기원에서 후배 양성 중.}
+10... b5 11. Eg6 Ri7 12. Rc4 bc5 13. Exc5+
+{처음부터 변형포진을 차린 양주호 三단의 작전은 일단 성공.}
+13... Kf8 14. Rb0 Rb9 15. Rxb9 Hxb9
+{두 기사는 제2회 입단대회 동기.
+신무균 二단은 60대, 양주호 三단은 50대.}
+16. Ea8 Afe8 17. Rxc9
+{신무균 二단은 한상이 떨어지자 어색한 표정을 짓는다.}
+17... Ce9 18. Rc4 ef6 19. He4 fxg6 20. Hd6 Hxd6 21. Exd6 Rd7 22. Ea4 Ef6
+23. Ke0 Cf7
+{신무균 二단은 차(車)를 잘 활용하는 기사로 알려져 있고, 속수파(速手派)이다.
+양주호 三단은 그걸 알기에 楚의 주도로 차대를 성사시켰다.}
+24. Cd2 Rb7 25. ab3 de5 26. Rh4 Hd8 27. de3 ef5 28. gf3 gh6 29. Rd4 Rb6 30.
+hg3 Ra6 31. Afe1 Cc9
+{자신이 세계챔피언이라고 큰소리치는 신무균 二단.
+안궁 수비에 주력하는 양주호 三단.}
+32. cd3
+{양주호 三단의 실착.}
+32... Hc6 33. Rd6 Cxc2 34. Ce6 Cc9 35. Cxc6 Ec8 36. b4 Rxc6 37. Rxc6 Cxc6
+38. bc4
+{기물이 우세해진 신 二단은 승점을 모색하고, 기물이 불리해진 양 三든은 빅을 모색.}
+38... fe5 39. cd4 Cc9 40. d5 ef5 41. Cf0 Ce9 42. Add1 Add8 43. d6 Add9 44.
+d4 fe5 45. dc6 gf5 46. Ed2 Ef6 47. f4 hg6 48. fxf5 exf5 49. gf3 fe5 50. cd6
+Ec8 51. Kd0 Kf9 52. dc6 ih6 53. Cc0 Ef6 54. Cf0
+{신 二단은 귀찮다는 표정.
+이 정도 국면은 거의 무승부.}
+54... Add8 55. cd6 Eh3 56. Cf4 Ef6 57. Cf2 Cd9 58. Cf4+ Eh9 59. Cf2+ gf6
+60. Ea4 Af8 61. Ke0
+{후회하는 표정의 양주호 三단.}
+61... Ade8 62. ed3 Ad8 63. fe3 Ke8 64. Add2 ef5 65. de4 hg6 66. Kf0 g5 67.
+Ade2 g4 68. Cd2
+{양주호 三단은 이번 대국을 비기거나 지면 예선전 탈락이 확정되므로 주변의 비기라는 권유를 무시하고 대국을 이어간다.}
+68... g3 69. Ke0 fg6 70. Kd0 Af7 71. Cf0 Ee7 72. Ke0 Eb5 73. A2f2 g5 74. d4
+Kf8 75. ef3 gh3 76. f4 fxf4 77. Cxf4+ Ke8 78. Cf0 g4 79. Cf5 hg3 80. Afe2
+Ad7
+{한상을 살리려는 수.}
+81. d5 Ed8 82. Ec1 Ea6 83. Ca5 Ad8 84. Ca8+ Kf9 85. Ca4
+{한에서 귀사를 면사로 놓았어야 하는데 그렇게 두지 않아서 병이 잡힘.}
+85... Ade8 86. de5 Ad8 87. de6 Ec3+ 88. Kf0 Afe8
+{빅장}
+89. Af1
+{비기거나 지면 양 三단은 예선 탈락이다.}
+89... Cf7+ 90. Ke1 gf3 91. Cxg4 fe3 92. Cc4
+{양득을 막는 수.}
+92... exe2+ 93. Kxe2 Ee0 94. Af0 Eg3 95. Cg4 Kf8 96. Ae1 Cf9 97. ed6 Cf3
+98. de6
+{담배를 피우는 신 二단.
+빅을 구상 중.}
+98... Ch3 99. ef6 Ce3 100. ef5 C3e7+ 101. Kf2 Add7 102. Ef3 Cc7 103. ef4
+Aee7 104. fg5 Ke8 105. Cg6 Ei0+ 106. Kf1 Kd8 107. Cd6+ Ae8 108. Ei1
+{한상은 사망 확정.}
+108... Kd9 109. Ci6 A7d7 110. Cxi0 Cc9 111. Af2 Cf9 112. fe6 Af8 113. fe4
+Afe8+ 114. Ke1
+{한에서 패색이 뚜렷하다.
+주변의 무승부 권유를 뿌리치고 대국을 이어온 양 三단의 의지가 대단하다.}
+114... Ce7 115. Ci5 Cxe4 116. Ce5 Af8 117. Eg4 Ade8 118. Ed2
+{양 三단의 '자신만만한 몸가짐+흡연'이 신 二단을 괴롭게 하고 있다.}
+118... Kd8 119. Ea4 Kd9 120. Ec1 Ad7 121. ed6 Ae7 122. Exe4
+{한에서 포졸대(包卒對)만 성공하면 빅이 되지만 그건 어렵겠다.
+신무균 二단은 당장 지는 수가 어디있냐면서 대국을 이어간다.}
+122... -- 123. Eb6+ Kd8 124. Ch5 Ad7 125. Cd5 Ke8
+{빅장}
+126. Ae2 Af7 127. Cxd7 Ae7 128. Cd0+ Cd7 129. g6 Af7 130. gf6 Af8 131.
+dxd7+ Kxd7 132. Ad2+ Ke7
+{빅장}
+133. fe6+ Kf7 134. Cf2 Ae8 135. Ee4 Ad7 136. Eh6 Ae8 137. Kd0 Ad7 138. Ae1
+Ae8 139. Af1 Kf8 140. ef6+ Af7 141. Cxf7
+{초 완승 소요시간은 3시간}
+
+{Xboard adjudication} 1-0
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제4국"]
+[White "金天熙 初단"]
+[Black "陳湳鍾 初단"]
+[Result "1-0"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "165"]
+[FEN "reha1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+{김천희 初단은 69세. 최고령 기사로 서울 내기장기 역사에 한 획을 그으신 분이다.
+내기를 안 하고 두는 장기는 시합뿐.}
+1. Hg2 ab6 2. Ce2 cd6
+{진남종 初단이 漢으로 양귀마를 차리자 의아한 표정을 짓는 김천희 初단.}
+3. ef3+ Kf8 4. Ee3 gh6 5. Ed3 bc6 6. ih3 Ri8 7. Ri4 Hf7 8. Rc4 He5
+{이정석 六단은 고등마보다 곁마가 더 좋았다고 해설함.}
+9. Cxe5 exe5 10. Exc6 dxc6 11. Rxc6 Hd7 12. Hd2 Rg8 13. Ad1 Afe8 14. Kd0
+Cf7 15. Afe1 Ef6 16. hi3
+{진남종 初단은 전라남도 태생으로, 전남대학교를 중퇴한 온순한 성격.
+김천희 初단보다 35세 연하.
+그래서 좋아하는 담배를 못 피우며 대국 중.}
+16... hg6 17. Ce2 ih6 18. Ce0 Ee7 19. ab3 Rxa0+ 20. Cxa0 Add8 21. Ra6 Exd3
+22. cxd3 Hc5 23. Ra5 Hxd3
+{김천희 初단은 화급한 성격이고 기풍은 공격형, 사업이 장기 때문에 기울었다는 장기 애호가.}
+24. bc3 Ch5 25. Ra6 Hc5 26. Rc6 He4 27. He3 Hg5 28. f4 Cf9 29. Cf0+ Cxf4
+30. gf3 Hxf3 31. Hxf3 Ri8 32. ih3 e4 33. Hc2 Ri2
+{진남종 初단, 세수를 하고 들어 와 자신의 양마(兩馬)가 없어진 장기판을 내려다보며 고민한다.}
+34. cd3 Ch7 35. Hg1 Rg2 36. He2 Cf9 37. hg3 Rg0 38. Re6 Ch0 39. Ae0 Ch7 40.
+Rxe4 Ri0 41. Hf4+ Cf7 42. de3 Kf9 43. Aee1 Ke9 44. gf3 Cd9 45. Ke0 Ri2 46.
+Hb4
+{기물은 대등한데 漢에 뛰는 기물이 없다.}
+46... Rb2 47. Hc6 Rb7 48. Re6 Add7 49. Hxg6 hxg6 50. Rxg6 Add8 51. Rg8 Rc7
+52. Hd4 Chd7 53. Hf5
+{장기 속담에 士를 본 象이 춤을 춘다는 말이 있다.}
+53... Ec4
+{象은 士만 보면 먹는다는 뜻인데}
+54. Rg6
+{비기는 장기로 만들려면 士는 살리고 卒兵 죽이는 것이 좋다.}
+54... Ca7
+{그래서 진남종 初단은 상사대(象士對)를 하지 않고 다른 수를 둔다.}
+55. Hh6 Cf9 56. Hg8+ Kd9 57. e4 Af8 58. Cxf8 Exe1
+{상으로 사를 쳤는데 이것은 비기겠다는 뜻.}
+59. Cf0
+{楚에서는 비길 마음이 없다.}
+59... Eh3 60. Cd0 Ce7+ 61. Hxe7+ Rxe7 62. f4
+{한상 1개는 반쯤 죽은 거나 다름없는 상태.}
+62... Cc9 63. Rh6 Ce9 64. Ae1+ Rd7 65. Rxh3 Rd2 66. Rh8
+{이미 계산이 끝난 김천희 初단.}
+66... Ad7 67. Rh2 Rd1 68. Rh7
+{한차도 사망 확정.}
+68... Rxd0+ 69. Kxd0 Ae8 70. ed4
+{차졸(車卒) 대 독사(獨士)는 무승부지만 차양졸(車兩卒)이라 대국은 계속된다.}
+70... Cc9 71. d5 Cf9 72. d6 Ke9 73. Ke0 Af8 74. fe4 Ke8 75. e5 Cf7 76. e6
+-- 77. Rh8 Cf9 78. e7+ Kxe7 79. Rxf8 Cf7 80. de6+ Kd7 81. Rxf7+ Kd8 82. e7
+-- 83. e8#
+{Xboard adjudication} 1-0
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제5국"]
+[White "金知桓 初단"]
+[Black "全柱煥 二단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "45"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+{전주환 二단은 제주도 태생으로 제4회 입단대회에서 우승한 실력파 기사.
+1970년 7월 7일 승단대회에서 7명을 물리치고 2단으로 승단.}
+1. ab3 Hg7 2. Hd2 Ce7 3. e4 e5 4. Ce2 exe4 5. Hxe4 Ee6 6. Hgf2 Hd7 7. gh3
+Ri8 8. Ri1
+{둘 다 40대 기사.}
+8... Rf8
+{김지환 初단은 인천(仁川) 모 운수회사(運輸會社)의 상무(常務)로 근무하는데 공식대회는 빠짐없이 참가하는 성실한 기사.}
+9. Rg1 ih6 10. Af1 Cb1 11. Hd2 Rxf2+
+{전 二단의 노림수에 걸려드는 김 初단.}
+12. Axf2 Cxg1 13. Ra4 a5 14. Rg4 Cg5 15. Cxh6 Ed6 16. Rg1 ab5 17. Ed3 Ce3
+18. Cxe6 Hxe6 19. Rg3 Ce7 20. Exg5 gxg5 21. Kf0 Ra0 22. Ae1 Ra4 23. c4
+{여기까지는 제3보(譜)
+제4보(譜)부터 수를 빠트렸는지 좌표가 맞지 않아 입력 불가.
+신문에는 총13보까지 실렸으며, 총229수 한 완승으로 끝났다.}
+
+{Xboard adjudication} 0-1
+
+[Event "제3회 대장군전"]
+[Site "경향신문사"]
+[Date "1968년~1971년"]
+[Round "제6국"]
+[White "康萬植 四단"]
+[Black "梁周浩 三단"]
+[Result "0-1"]
+[TimeControl "미상"]
+[Variant "janggi"]
+[PlyCount "210"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+{노장 대 노장의 대국}
+1. Hf2 Hg7 2. Ce2 Ce7 3. e4 ab6 4. Hd2 ih6 5. Ef3 Ri5 6. Ed3 ef6 7. c4 Ee6
+8. g4 Ec3
+{강만식 四단은 서울 태생으로 맏형 강인식(康仁植) 씨 밑에서 장기를 익혔다.
+
+二단이라는 특혜를 받고 장기기사가 되었으며 바둑과 장기에서 승부력이 강하다.}
+9. Rc0 Ria5 10. ab3 Ra1+ 11. Ad1 R1a2 12. Cxb6 cxb6 13. Exb6+ Hd7 14. ef4
+He6 15. Ee4 Ra1 16. bxc3 Ke9 17. c5 Hexc5 18. Exc5 Hxc5 19. i4 He6 20. Ri3
+R9a8 21. Rd3 Afe8 22. c4 Kf9 23. ih4
+{두 기사는 시우(詩友), 주붕(酒朋), 기우(棋友)로 일찍부터 많이 싸운 사이이다.}
+23... Ce9 24. Rb3 R8a7 25. Ce0 Ee7 26. Af1 Cf7 27. Kf0 R1a5 28. Ade1 Ri5
+29. Eb6 Rd7 30. Exd9 Rxd9 31. Rcc3 Ci9 32. Rb8 Rd7 33. Rc8 Cid9 34. Rc9 Kf8
+35. Hde4 Ri9 36. Rc8 Ri1 37. Rh3 Ra7 38. Rh0 Ra0 39. Hd6 Cd7 40. fe4 Ri5
+41. cd4 Kf9 42. h5 hxh5 43. e5 Ch9 44. Rg0 Ce9 45. exe6 fxe6 46. Hc4 Ri8
+47. gf4 ef6 48. Hb6 Cf7 49. de4 Cg9 50. Rh0 g5 51. Hd5 Ri6 52. ed4 fe6 53.
+Hxe7 Axe7 54. Rg8 Ce9 55. de4 Cf3 56. Rd8 Ri1 57. Rd3 Ri3 58. Rd0 Ra1 59.
+Ri0 Rxi0+ 60. Cxi0 Ae8 61. Rd3 Cf7 62. Hd1 g4 63. Ke0 gxf4 64. exf4 e5 65.
+He3 Ce7 66. Kd0 Cd9+ 67. Rc3 ed5+ 68. Hd1 d4 69. Rc9 Kf8 70. f5 d3 71. Cb0
+d2 72. Rxd9 d2xe1+ 73. Axe1 Axd9 74. Cf0+ Ke8 75. Af2 Ce9 76. f6 Ce5 77.
+f7+ Ke9 78. Hb2 Ra3 79. Hc4 Rd3+ 80. Ke1 Rd4 81. Hb6 Ad8 82. fe7 hg5
+{담배를 피우는 양주호 三단.}
+83. ef7 Re4+ 84. Kd0 Ci5 85. Hc8 Re6 86. Ha7 Ra6 87. Ke1 Ce5 88. Hb9 Ad7
+89. Hc7 Rc6 90. Hb9 Re6 91. Kd0 Ci5 92. Ha7 Ad8 93. Hb9 Ad7 94. Ha7 Kd9 95.
+Hc8 Cd5 96. Ae1 Cd8+ 97. Cd2 Rf6 98. fg7
+{양해를 구하고 세수하러 나가는 양주호 三단.}
+98... Ke8 99. Ha7 Ra6 100. Hb9 Cf8 101. Hc7 Rc6 102. gf7+ Kxf7 103. Hd9 Cf5
+104. Hb8 Rc0+ 105. Kd1 Ae8
+{여기까지는 14보(譜)
+
+그런데 15보부터는 226수째부터 실려 있다.
+더 이상 입력은 불가하다.
+신문 연재 중간에 수순이 15수나 빠졌다.
+총272수, 한 완승
+◇알림=예선 제6국 종보(終譜)로 대장군전 기보 연재를 일단 마감함을 알려드립니다.
+<이정석 六단>}
+
+{Xboard adjudication} 0-1
+

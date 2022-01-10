@@ -1,0 +1,851 @@
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2010-09-22"]
+[Round "결승전"]
+[White "귀마 김동학 四단"]
+[Black "귀마 양승태 三단"]
+[Result "1-0"]
+[TimeControl "5분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "107"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Kf8 7. Ch4
+Afe8 8. g4 Ce9 9. Exg6 fxg6 10. Cf4+ gf6 11. Cf1 Ra5 12. a4 Ra8 13. d4 Ee6
+14. He4 ih6 15. Hxf6 Exf6 16. Rxi9 Ca9 17. Ri8+ Kf9 18. Ri7 Ce7 19. Cxf7
+Add8 20. Cf1+ Ke9 21. Ef3 Cea7 22. Ca1 Rc8 23. Ri5 hg6 24. c4 Kd9 25. ab4
+Ce9 26. Cg1 Ha6 27. Rc0 Rc7 28. He3 Exb4 29. Rc3 Cf7 30. Hd5 cd6 31. Exd6
+Re7 32. Ri2 bc6 33. Cxg6 c5 34. Hxf6 Re5 35. He4 Rf5 36. Cxa6 cxc4 37. Rxc4
+Cxf0 38. Rf2 Ra5 39. Kxf0 Rxa6 40. Rxb4 Add7 41. d5 Ra3 42. h4 Rd3 43. dc5
+Cxe4 44. Rxe4 Rxd6 45. Rb4 Rd2+ 46. Ae1 Rc2 47. Rb9+ Kd8 48. Rb8+ Kd9 49.
+Ri2 Rxc5 50. Ri9+ Ae9 51. Rb9+ Kd8 52. Rixe9 Rc0+ 53. Ce0 Rc8 54. Rbd9#
+{White mates} 1-0
+
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS별관"]
+[Date "2012-10-01"]
+[Round "결승전"]
+[White "양귀마 김준호 初단"]
+[Black "귀마 김영숙 四단"]
+[Result "1-0"]
+[TimeControl "5분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. ih3 Hf7 2. Hf2 Ce7 3. Hd1 ef6+ 4. Ee2 ab6 5. Ed3 Ra5 6. Ra1 Ee6 7. ab3
+Rg5 8. gf3 b5 9. Cd2 Hd8 10. Ra9 Ce9 11. Ra4 c5 12. Ke0 Ci7 13. Rh0 Ri5 14.
+Ade1 ih6 15. Aff1 Cc7 16. Cd0 f5 17. Cbf2 fe5 18. Hdb2 ed5 19. Ra7 Hb9 20.
+Ra8+ Hbd8 21. Edb0 Af8 22. Hd2 Kf9 23. c4 Ef6 24. h4 Ch7 25. cxc5 bxc5 26.
+He4 Re5 27. Hd3 Rei5 28. Rg0 Cg9 29. hg4 de5 30. Hdxc5 exe4 31. Hxe4 Rb5
+32. Cxd9 Cd7 33. Hxf6 Rxb3 34. He4 Rb5 35. ed3 Hb7 36. fe3 Rf5 37. Cf0 Re5
+38. Rc8 Ke9 39. Rc7 gf6 40. Rxd7 Ae8 41. Rxb7 Hd8 42. Rh7 Kxd9 43. Rh0 fg6
+44. g5 Ke9 45. gf5 Rd5 46. f6 Re5 47. fxg6 hxg6 48. Rg7
+{Black resigns} 1-0
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2012년"]
+[Round "결승전"]
+[White "원앙마 허금산 四단"]
+[Black "귀마 김동학 五단"]
+[Result "1-0"]
+[TimeControl "각자 5분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 g5 5. Cd2 Ed6 6. Af1 Hd7 7. Cf0 Ad8
+8. ed3 Kd9 9. Hce3 Afe8 10. Ke0 Ce9 11. Ade1 ih6 12. Ei3 Cc9 13. h4 ef6 14.
+g4 gxg4 15. hxg4 Ee6 16. Rh0 hg6 17. Exg6 fxg6 18. Hf4 gf6 19. g5 Ri6 20.
+d4 Cxc3 21. g6 fxg6 22. Hxe6 Cc9 23. Hxg7 Cxg7 24. d5 Eg4 25. Cd0 g5 26.
+Rh8 Exe1 27. Axe1 Cc7 28. Rg8 gh5 29. a4 Rf6 30. Hg4 Rf4 31. de5 cd6 32. e6
+bc6 33. exd6 cxd6 34. a5 Ce9 35. Ra3 Rf5 36. Rd3 Rg5 37. Rxg5 hxg5 38. He3
+Rxa5 39. Rxd6 Rc5 40. Hd5 Ce5 41. Ea3 Cf7 42. Re6 gf5 43. Ra6 Ke9 44. Ed1
+Cd9 45. He3 f4 46. Hg2 fe4 47. Ra3 Rc6 48. Hh4 Rf6 49. Cf0 Ce3 50. Ra4 Hc5
+51. Rc4 Rh6 52. Hf5 Rc6 53. Hxe3 exe3 54. Ce5+ Af7 55. Cc0 Cf9 56. Cxc5 Kd9
+57. Ea3 Rc7 58. Ec0 ed3 59. Ea3 Afe8
+{Black resigns} 1-0
+
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2014-09-08"]
+[Round "결승"]
+[White "원앙마 김철 2단"]
+[Black "귀마 김동일 5단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hg7 2. Ce2 Ce7 3. Hg2 Ed6 4. ih3 ab6 5. ed3 gf6 6. g4 Ad8 7. Cf2 Kd9
+8. Ke0 Afe8 9. d4 Ce9 10. Ade1 Hd7 11. He3 ih6 12. Rxi9 Cxi9 13. d5 Cf9 14.
+Cd0 b5 15. c4 h5 16. Ei3 Rc9 17. a4 bc5 18. dxc5 cxc5 19. ab4 cxc4 20. bxc4
+Cf7 21. Ra3 Cf3 22. Ra5 Cd3 23. Rd5 Cxh3 24. g5 Cc3 25. gxh5 Cc7 26. Ea3
+Ra9 27. Ed1 Ce7 28. Rg5 Af7 29. h6 Hi8 30. h7 Rc9 31. h8 Hh6 32. Rxg9 Afe8
+33. Rg5 Ce5 34. h8g8 Hf5 35. Rg4 Hxe3 36. Hxe3 Rc8 37. Rd4 Ce7 38. Hg4 Hb6
+39. Hxf6 Cd7 40. Rf4 Hxc4 41. Hxe8 Axe8 42. Rh4 Hb6 43. Rb4 Hc4 44. Rb9+
+Kd8 45. Eb4 Cd3 46. Rb5 e5 47. Ra5 Ce4 48. Eg6+ Ce7 49. Ra3 Hb2 50. Ra6 Hc4
+51. Ra3 Hb2 52. Aff1 ed5 53. Rb3 Exg8 54. Rxb2 Cd6 55. Ed1 Rc0 56. Rb8+ Kd9
+57. Rb5 dc5 58. Rb9+ Kd8 59. Rb6
+{Black resigns} 1-0
+
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2015-09-27"]
+[Round "결승"]
+[White "원앙마 김철 六단"]
+[Black "귀마 김정수 四단"]
+[Result "1-0"]
+[TimeControl "자유시간 20분, 30초 초읽기 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Hf7 7. ef3
+ih6 8. Ke0 Af8 9. Afe1 Ri8 10. Cf0 Kf9 11. c4 Ade8 12. b4 Ce9 13. f4 g5 14.
+Rb3 ef6 15. Ea3 He6 16. Rf3 Cg9 17. Hge3 Hed8 18. Add1 Ee6 19. Ca2 Rb9 20.
+Ci2 Rg8 21. ih3 h5 22. Cb2 Rc9 23. Ce2 cd6 24. Ri6 Ce7 25. Cc0 Ra9 26. cd4
+bc6 27. Cf0 Ke9 28. d5 Rb9 29. dxd6 cxd6 30. Cd0 Rc9 31. bc4 Rb9 32. c5 Ec3
+33. Cxd6 Hb7 34. Cd0 Kf9 35. Hd5 Ch7 36. Rxc3 Rc9 37. c6 Hbd8 38. Hxf6 Exf6
+39. Rxf6 Ce9 40. Ee3 Cg9 41. Ed5 Cd9 42. Exf8 Axf8 43. Rc5 Cg9 44. Re5 Hxc6
+45. Exc6 Rxc6 46. Rxc6 Hxe5 47. Re6 Hg6 48. He3 Rg7 49. Cf0 Cf7 50. f5 gxf5
+51. Hxf5 Rg8 52. g4 Hi5 53. Hh6
+{Black resigns} 1-0
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2015-02-22"]
+[Round "결승전"]
+[White "원앙마 김철 三단"]
+[Black "귀마 이남춘 九단"]
+[Result "1-0"]
+[TimeControl "10분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hg2 Ca7 4. Rb0 ab6 5. Che2 Ce7 6. Cd2 Ef6 7. ef3
+ih6 8. c4 Hf7 9. b4 Af8 10. f4 g5 11. Ke0 Kf9 12. Afe1 Ade8 13. Cf0 Ce9 14.
+Rb3 Ra8 15. Ea3 Cg9 16. Rf3 Cd9 17. Add1 Ce7 18. cd4 cd6 19. Hge3 b5 20.
+bc4 Ea6 21. f5 gxf5 22. Rxf5 b4 23. cxb4 Exd4 24. bc4 Eb7 25. c5 Cxe3 26.
+Exe3 Ra4 27. Cc0 Hb9 28. gf3 Hbd8 29. f4 Ra8 30. fe4 hg6 31. Rg0 Rxi3 32.
+Rxg6 Ri9 33. Eh5 Rg9 34. Rxg9+ Cxg9 35. Exf8 Axf8 36. Cf0 Cc9 37. cd5 Ra5
+38. e5 exe5 39. Rxf6 exd5 40. Rxd6 Ke9 41. Rd7 Ra6 42. Cxf8 Kd9 43. Cf0 Ce9
+44. He3 He5 45. Hxd5 Hxd7 46. He7#
+{White mates} 1-0
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2011-01-24"]
+[Round "결승전"]
+[White "귀마 김정수 初단"]
+[Black "귀마 김경중 九단"]
+[Result "0-1"]
+[TimeControl "10분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Hf7 5. Rb4 Ra5 6. Hf2 ef6 7. ed3
+Ee6 8. Rbi4 i5 9. R4i1 gh6 10. g4 Ri8 11. Ef3 h5 12. Exi5 Rxi5 13. Ee3 Ke9
+14. Rxi5 hxi5 15. gf4 Exc3 16. dxc3 He6 17. fe4 Rg5 18. Ad1 f5 19. Eh5 cd6
+20. Rxi5 f4 21. exf4 Hxf4 22. Ce0 Ef6 23. h4 Cxh4 24. Ri6 de6+ 25. Kd0 Rxh5
+26. Cd2 bc6 27. Afe1 cd6 28. Cf0 Hd5 29. c4 Hb6 30. Cc0 Ch8 31. Cxf6 exf6
+32. Rxf6 Ade8 33. Rxd6 Hd7 34. Ra6 Cd8 35. Hd4 Rb5 36. Cf0 Hde5 37. Ra4 Hg5
+38. Aed2 Rb2 39. A1e1 Hgf3 40. c5 Hxd2 41. Cxd2 Rb0+
+{White resigns} 0-1
+
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2011-09-19"]
+[Round "결승전"]
+[White "귀마 하성호 8단"]
+[Black "귀마 이남춘 9단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "156"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ri5 7. Rh0
+Ee6 8. c4 Ad8 9. Cb4 Kd9 10. Cg4 He8 11. Kd1 Ce9 12. Ca2 ab6 13. ba3 ba6
+14. Cga4 ab6 15. Cf4 ba6 16. Ade1 Cc9 17. Aff1 Ch7 18. ih3 Ca7 19. Cxa6 Ce7
+20. Ca2 Rxa3 21. Cff2 Hg7 22. g4 Afe8 23. Rg0 Hh9 24. Hf4 Hf8 25. Ed3 Rb5
+26. Rgb0 Rxb0 27. Rxb0 Cf9 28. Ce2 Ra6 29. Kd0 Ke9 30. Ke0 Ra9 31. hg3 Ra6
+32. Kf0 Ra4 33. cb4 Ra5 34. b5 Ra4 35. Cd0 Ra3 36. b6 cxb6 37. Exb6 Rc3 38.
+Ed3 Rc5 39. Rb4 Rc3 40. Rb5 Rc9 41. Ea5 gf6 42. Cf2 Rc3 43. g5 Ra3 44. Cd0
+Ra4 45. g4 Ec3 46. He4 Rd4 47. Eb1 fe6 48. Hd2 Ra4 49. Cb2 Exf1 50. Kxf1
+dc6 51. Cxd7 Adxd7 52. Cxb9 ed6 53. Cb2 He6 54. Cf2 Ra3 55. Hxe6 dxe6 56.
+Hb3 Ra4 57. Hd4 cd6 58. gf4 Cd9 59. Hf5 Ce5 60. Hg7 Cxa5 61. Rb7 Ca1 62.
+Kf0 Rc4 63. Ee3 Cg1 64. Hi8 hi6 65. Eg6+ Cxg6 66. gxg6 Rc3 67. Hg7 Rxf3 68.
+fg4 Rg3 69. Rb4 i5 70. Cd0 ih5 71. Hi6 Ri3 72. gh6 ef6 73. Ke0 de6 74. Rb5
+Ri4 75. Rxh5 Rxg4 76. h7 Rg6 77. Hg7 Ade7 78. Ri5 Rh6
+{White resigns} 0-1
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2013-02-11"]
+[Round "결승"]
+[White "귀마 안동건 七단"]
+[Black "원앙마 공현선 四단"]
+[Result "0-1"]
+[TimeControl "5분 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "157"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Rb4 ih6 9. Rb7 Ci7 10. Ra4 Ke9 11. Rb9 Rxb9 12. Cxb9 cb6 13. Exg5
+Hxg5 14. Rc4 bc6 15. Ee3 ab6 16. Exc6+ bxc6 17. Hd2 Ri8 18. He3 H5e6 19.
+Rb4 Ei6 20. h4 Rf8 21. Ke0 Rd8 22. Afe1 Ae8 23. cd3 Kf9 24. Cc2 Ce9 25.
+Cf2+ Cf7 26. Ra4 Rb8 27. Cb4 Rb6 28. Ca2 Rb5 29. Cb0 Ri5 30. Add1 Hf5 31.
+Cf0 Hxe3 32. dxe3 hg6 33. Ce2 Hd8 34. bc3 de6 35. cd3 ef6 36. hi4 Rh5 37.
+g4 Ee6 38. Kd0 Rb5 39. ih4 Af8 40. Ce0 Ade8 41. f4 Rb4 42. Rxb4 Exb4 43. e4
+cd6 44. d4 Ce7 45. Hc4 fe6 46. Cd2 Hb7 47. Cb0 Ha5 48. Hb2 Ed7 49. f5 Ke9
+50. Cg0 Cf9 51. Cxg6 Cxf5 52. h5 Hb3 53. h6 Eg9 54. Cg3 Aff7 55. Hd3 Hxd2
+56. Adxd2 Ca7 57. Hb4 Cf9 58. Aed1 Cd9 59. Ha6 dc6 60. Hc7 Cf9 61. d5 Cd9
+62. de5 exe5 63. exe5 Cf9 64. Cg6 Aff8 65. Ke0 Cf7 66. Ha8 Ce7+ 67. Kd0 Cd9
+68. Cg2 Aff7 69. e6 Cg7 70. h7 Cg3 71. Ke1 Cg8 72. Hc7 Cc8 73. Cg6 Aff8 74.
+ef6 Cf9 75. Cxc6 Cxf6 76. Ha8 Aff7 77. hg7 Ei6 78. gxf7 Axf7 79. Kd0
+{White resigns} 0-1
+
+[Event "추석 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2013-09-22"]
+[Round "결승"]
+[White "귀마 황문수 9단"]
+[Black "원앙마 김철 초단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hg2 Hg7 2. Ce2 Hc7 3. ih3 Cbe7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 Cf7 7. Ri4
+g5 8. Rb4 Ke9 9. Rb9 Rxb9 10. Cxb9 ih6 11. Ei3 Ke8 12. Cb1 Ke9 13. Cb7 cb6
+14. Exb6 axb6 15. Ra9 Ade8 16. Rxc9+ Cd9 17. Hd2 h5 18. Cb4 bc6 19. Ad1 Ei6
+20. Kd0 gf5 21. Afe1 f4 22. Ce0 fxf3 23. gxf3 hg5 24. cd3 g4 25. h4 gf4 26.
+fe3 Aff8 27. Cb2 Eg9 28. Cc0 Ri5 29. Ra9 Ei6 30. Cg0 c5 31. Ce2 c4 32. Ke0
+Rc5 33. Eg6 Ri5 34. Cd0 Rg5 35. Hi3 Rxg6 36. Ra4 cd4 37. bc3 Rh6 38. dxd4
+Rxh4 39. de4 Rh3 40. Hc4 Rxi3 41. e5 dc6 42. exe6 Hxe6 43. cd3 c5 44. Hb2
+f3 45. e4 fe3 46. dxe3 Rxe3 47. Hd3 Eg3+ 48. Kf0 Cf9+ 49. Cf2 Rxd3 50. Ce5
+Ei0 51. Ce2 Hg5 52. e5 Exf2 53. Rg4 Ei0+ 54. Ke0 Rg3 55. Rxg3 Exg3+ 56. Kd0
+Hf3 57. Ce0 Exe0 58. Kxe0 Cd9 59. e6 Ce5+ 60. Ad2 Hg5 61. Kd0
+{White resigns} 0-1
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2014-02-02"]
+[Round "결승전"]
+[White "원앙마 김재두 八단"]
+[Black "원앙마 정국봉 初단"]
+[Result "0-1"]
+[TimeControl "15분 초읽기 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hc7 2. Ce2 Hg7 3. Hc2 ab6 4. Cd2 Cbe7 5. cd3 ih6 6. Ke0 ef6 7. Ad1
+Cf7 8. gf3 Ad8 9. Ef2 Cd9 10. Af1 c5 11. i4 b5 12. Ri3 Hge6 13. ih4 Rxi3
+14. Exi3 Ei6 15. Cd0 Ke9 16. hg4 h5 17. f4 Afe8 18. Ci0 Ef8 19. ab3 Rxa0+
+20. Cxa0 Cg9 21. Hh0 Ei6 22. e4 c4 23. Cf0 Ea6 24. Cc0 bc5 25. Afe1 Cd9 26.
+dc3 cd4 27. He3 dxe4 28. Cxe4 Hd5 29. cd3 Exf4 30. Hhg2 Hxe3 31. dxe3 Exd1
+32. Eg0 Hd4 33. Axd1 Hxb3 34. Ae1 g5 35. gxg5 hxg5 36. Cf0 Hc1+ 37. Ad1 f5
+38. Ke1 Ha2 39. Cd2 Hc3 40. ed3 Cxd3 41. Ce0 Add7 42. Ei3 Kd9 43. Eg6 Cd8
+44. Hi3 f4 45. Ei4 fe4+ 46. Kf1 Hxd1 47. Hg2 Ec3#
+{Black mates} 0-1
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS"]
+[Date "2010-02-08"]
+[Round "결승전"]
+[White "원앙마 허금산 二단"]
+[Black "귀마 김동학 四단"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "138"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+{2월 8일에 있었던 설특집 kbs장기왕전 결승전의 대국입니다.}
+1. ih3
+{2월 8일에 이 대국을 치르고 나서 4회 챔피언스리그 결선 1국을 치렀을 겁니다.}
+1... Hg7 2. Hg2 Ce7 3. Hc2
+{우원앙을 차리겠다는 수.}
+3... Ed6 4. Cbe2 g5
+{김동학프로의 독특한 수.
+이 전의 대회에서도 많이 선보였었죠.}
+5. Cf2 ab6 6. ed3 Ad8 7. Af1 Kd9 8. Cf0
+{나중에 83마가 중앙에 나온 후 57마가 56으로와서 마대를 하자고 하는 수를 막기 위함입니다.}
+8... Ci7 9. Ei3 ih6 10. Rh0 Cc7
+{지금 형태에서 초에서
+가장 좋은 수는 06포가 09로 가서 한차를 쫓고 07로 오는 수 정도입니다. 
+원래 47병을 미는 수를 공략하려면 초반에 78졸을 올린 후에 77졸을 밀어올려서 대를 해야 됩니다.}
+11. Hce3 Hd7 12. g4
+{먼저 78졸을 밀고 나서 77졸을 미는 수가 좋습니다. 허금산프로의 대국을 보면
+마가 이탈하는 수를 많이 보곤 합니다. 그리고 그 중앙으로 상이 나오곤 하죠. 하지만 엄격히 따지면 별로 좋은 수가 아닙니다.}
+12... gxg4 13. Hxg4 h5 14. h4
+{병을 당겨서 마를 쫓기 어렵죠 나중에 06포가 09로 갔다가 07로 가는 수가 있으니까요. 57로 간 병만 약해집니다.}
+14... hxh4 15. Rxh4 Afe8 16. Ke0 Rh9
+{원앙마 포진 자체는 발이 느립니다. 왜냐면 원앙마 포진도 선수비 후 공격이기 때문입니다. 그래도 선수효과를 유지하려면 최선의 수 정수만을 두어야 합니다. 실제 허금산프로는 선수보다도 후수일 때 승률이 더 좋습니다. }
+17. Rxh9 Hxh9 18. Ade1 Hg7 19. Eg6
+{지금은 초의 형세가 좋아졌습니다. 면포를 한 뒤에 하포로 하는 것이 좋겠지만}
+19... Cb5
+{의외로 엉뚱한 수를 둡니다. 사 정도는 그냥 주겠다 이건데 또 장기 두는 사람들은 그냥 주면 그냥 먹기 싫어합니다. 상대방의 의도에 대한 반발이랄까요.}
+20. Ece3
+{저 같은 경우는 단순해서 대체로 주면 바로 먹습니다. 상수들은 흔히 주면 바로 먹지 않을 것이라는 것을 알고 있지만, 오히려 바로 먹어버리는 것이 상대의 의표를 찌르는 행위랄까요. }
+20... Cb9
+{가만히 있으면 74졸을 치밀어 올려서 52포가 걸리게 되고 73졸까지 밀어올리게 되면 44상이 눌리기가 쉽죠.}
+21. Exc6
+{기세라고 쳤는데 별로 좋은 수는 아닙니다.}
+21... bxc6 22. Rb0 Cf9
+{이렇게 포만 도망가면 이제 71졸을 처리해야 되는데 기분이 나쁘죠.}
+23. Ee3
+{일단은 사를 먹지 않고 걸어보지만,}
+23... c5
+{이렇게 피해버리니 71졸에 대한 가일수가 필요합니다. 선수라고 막상 쳤지만, 초에서 기분 나쁜 결과가 생겨버렸습니다.}
+24. ab3
+{어쩔 수 없죠.}
+24... Hh5
+{77로 떠서 면포를 잡으려고 하니}
+25. Hh4
+{막고 봅니다. 지금은 33포가 38로 가서 마를 쫓는 수가 일단 보이는데요. 그럼 68마가 89정도로 가서 77의 자리에 오지 못하게 둘 겁니다. }
+25... Hhf6
+{단순히 마대를 하네요. 이 수는 기물 대가 될지는 모르겠지만 선수가 초에게 넘어갑니다. 승부제일 경우는 결코 좋은 수가 아니죠. 먹지 않고 67마가 48정도로 들어가는 수가 나아보입니다. }
+26. Hxf6
+{그러나 그냥 먹었네요.}
+26... exf6 27. b4
+{자연스러운 감각인데, }
+27... Rb9
+{김동학프로는 꼬투리 잡기 전문입니다.
+또 대차를 하자고 하는군요. }
+28. Cd0
+{일단 상을 노려보지만, 차로 지킬 수도 있고 }
+28... Eg4
+{이렇게 상이 뜰 수도 있습니다. 마의 길을 방해한다는 점에서 이런 수를 두었네요. 사를 먹고 싶은 생각은 전혀 없겠죠.}
+29. Cg0
+{흔히 주면 먹기 싫은게 사람 심리죠. 그리고 저 상의 값어치와 사의 값어치는 현재의 경우 상이 좀 더 값어치가 있다고 할 수 있습니다.}
+29... Ee6 30. c4
+{졸병대를 하고 2졸이 올라가서 승부를 봐야죠. 차대는 어쩔 수 없습니다. }
+30... cxc4 31. bxc4 Rxb0+ 32. Cxb0
+{한에서도 차를 바로 먹는게 이득이죠 일단 하포를 02의 쓸모 없는 자리로 이동시켰으니까요.}
+32... Ce7
+{차분하게 면포를 합니다. }
+33. Hg2
+{당장은 마가 들어올 필요가 없지만 74졸을 밀어올리기 위해서 75상을 지킬 필요가 있어서 들어온겁니다. 일단 선수로 포가 06으로 가서 병을 노렸다면 만약 35포가 15로 내려갔다면 마가 들어올 필요도 없고 바로 74졸을 밀 수 있었죠.}
+33... Ce9
+{지금은 포가 뒤로 넘는 수 보다 34귀마가 42정도로 나오는 수가 자연스러웠습니다. }
+34. d4
+{이제 합졸을 하게 되니 마가 나와도 선수효과가 없죠. 그래도 }
+34... Hb6
+{일단은 마가 나오고 봅니다. 나중에 61로 가서 73의 자리로 가기 위함이죠. 방금 전에 하포를 하지 않고 나왔다면 한이 좋았을 겁니다. }
+35. Cg0
+{어서 먹어달라고 합니다. 하지만,}
+35... Ei7
+{안 먹고 도망갔네요. 차가 없는 조각장기에서는 사의 값어치가 별로 없습니다. 상이 더 아깝죠.}
+36. Cd0
+{포는 왕을 따라가야 합니다. 포를 띄워서포장에 아무 수도 나지는 않지만, 지금은 기분이 나쁘죠. }
+36... Eg3
+{일단 마가 나오지 못하게 누르고 봅니다. 김동학프로의 수읽기의 특징은 자신이 둘 공격적인 수만을 보고 두는 것이 아니라 상대의 기물의 움직임의 범위를 읽고 그것을 의미 없게 무력화 시키는 수...일명 상대를 꼼짝 못하게 묶어 두는 그런 수를 골라서 두려는 습성이 있습니다. }
+37. Cd6+
+{항상 말하지만 그건 강점임과 동시에 약점입니다. }
+37... Cd7
+{이 포장을 마로 막는 수는 말이 안되죠.}
+38. Ec6
+{일단 초가 기분이 좋습니다.}
+38... Ha4
+{지금은 63졸을 당겨서 61마를 82로 오게 만들어야 합니다. 그게 선수죠.}
+39. Hi3
+{일단 마를 쫓고 나서 마가 변으로 떠야 합니다. }
+39... Hc3
+{그러지 않아서 면포가 걸리게 되었죠.}
+40. Cd3
+{물론 이렇게 막으면 됩니다만 나중에 마가 변으로 뜨면서 마장에 포를 잡자는 수가 나와서 기분이 나쁘게 됩니다. }
+40... Ee6
+{마가 떠서 양상과 병을 거는 수를 어떻게 막나 했더니 단순하게 상이 들어갔습니다 79마가 58로 간다면 46병을 47로 쓸어서 나중에 45상이 68로 떠서 85면포를 잡겠다는 것이죠. 양상대 포의 기물 대의 경우 한이 유리한까요. 현재 점수는 5점 차이입니다. }
+41. de4
+{그 수를 보고 졸을 중앙으로 미리 당겨 놓습니다. 한이 여전히 답답한 모양입니다.}
+41... Ha2
+{일단은 선수죠 마장에 포가 죽으니}
+42. Ad1
+{이렇게 둘 수 밖에 없고,}
+42... Hb0
+{여기서는 정수가 05궁이 95로 오라오는 수가 정수였습니다. 지금 한마의 위치는 좋지 않고 지금은 초승이 유력한 국면입니다.}
+43. Ad2
+{하지만 사를 올려서 장기가 묘하게 됩니다.}
+43... Ef5
+{양걸이.}
+44. Hg4
+{어쩔 수 없이 병 사 대가 이루어집니다.}
+44... Exd2 45. Hxf6
+{중앙상이 걸려있습니다만. 상을 죽이고 84상이 61정도로 가는 수도 있습니다. 다음 수에 마가 81로 가면 마가 93으로 가는 수에 74포를 잡을 수 있기 때문입니다.}
+45... Ec3+
+{하지만 자기 기물을 그냥 주는 법이 없는 김동학프로입니다. 여기서는 궁이 04나 95 정도로 피해야 나중에 43상이 66으로 떠서 34포를 잡는 수가 나옵니다.}
+46. Kf0
+{당장도 초가 좋습니다. }
+46... Ea4
+{한에서 상이 나온 이유는 94로마장을 부르고 82로 마가 가서 74포를 쫓기 위해서죠.현재 모양에서 가장 좋은 수는 85포로 25사를 쳐버리는 수입니다. 절대 선수죠.}
+47. Ef4
+{하지만 놓쳤습니다. 이제}
+47... Hd1+
+{마장이 나오고 포를 쫓고 봅니다.}
+48. Ae1 Hb2
+{여기서 상으로 포를 먹으면 82마로 74포를 먹으면서 포대가 되고, 마로 먹으면 2점 이득입니다. 하지만 지금은 그래도 상으로 먹어야 함이 마땅하지 않았을까 합니다. 61상의 위치가 절묘해서 46마가 54로 와서 33의 마장을 치는 수가 되지 않죠.}
+49. Hxd7
+{아까운 마가 결국 그냥 죽었습니다. 여기에서 승기가 한에 확살히 기울었다고 할 수 있습니다.}
+49... Axd7 50. Cb3 Ed6 51. Ce6
+{일단 상대의 길을 막고 봅니다. 하지만 뒷수가 있는건 아니죠. 초에게 남은 건 양졸인데..}
+51... Ea0
+{72포의 다리를 끊고 있습니다.}
+52. Eh7 Cc9 53. Cc6
+{나중에 포가 1선으로 가는 수를 막기 위함이죠. 현재는 그냥 상대를 방해하고 봅니다. 특별히 의미가 있는 수는 아닙니다. 물론 82마를 03으로 가지 못하게 하는 것은 있으나 74의 자리로 언제든지 도망갈 수 있는 마죠.}
+53... Cf9 54. Ad0
+{그냥 06궁이 05로 갔으면 나았을텐데요. 형태가 이상합니다. 이제 01상이 움직일 수 있는 공간이 생겨버렸네요.}
+54... Ed2
+{이렇게 말이죠.}
+55. Ee5
+{초에서는 마를 가두어보려고 하지만 쉽게 잡힐 마도 아니고 포도 떠 있어서 많이 불리합니다.}
+55... E2g4
+{초가 답답합니다.}
+56. Ke0 Cc9 57. Eh7
+{포가 15로 못오게 막습니다만,}
+57... A7e8
+{사부터 갔네요. 차라리 44상이 27로 바로 빠지는 수가 낫지 않았을까 생각해봅니다.어차피 피차 동일합니다.}
+58. ed4 Eg8
+{포다리를 또 끊는 수죠.}
+59. Kf0 Ei5 60. Ef4 Ef7 61. Eh1 Ce9
+{김동학프로는 빨리 이길 생각보다, 어차피 이기고 있으니 상대를 부동으로 만들어서 천천히 두겠다 이겁니다. 빨리 이기는 수를 찾기보다 상대를 둘 것 없게 만드는 쪽에 수읽기가 특화 되어있죠.}
+62. d5
+{둘게 없으니 졸이나 움직입니다. }
+62... Ha0
+{슬슬 72포를 잡겠다 이겁니다. 15포 때문에 98상이 75로 가서 포다리도 놓지 못하고 이거 난처합니다. 물론 63졸을 62로 해서 다리를 놓을 수 있습니다만, 초의 기물이 너무 흩져 있네요.}
+63. Ad1 Hb2 64. Ef4
+{상을 지킨 수는 좀 별로랄까요.}
+64... Cc9
+{이렇게 넘게 되니 다음수에 16으로 포가 가는 수가 보입니다. 여기에서 그나마 정수는 54졸을 44로 밀고 13포가 16으로 갈 때 43포가 44졸을 다리 삼아 46으로 가서 수비를 하는 수 정도입니다.
+
+이 모양에서 졸을 미는 수가 절대수입니다.}
+65. Ke0
+{하지만 놓쳤네요.}
+65... Cf9
+{뭐가 하나 당장 죽지는 않지만}
+66. Ec2
+{이렇게 스스로 포길을 상이 막다보니}
+66... Hc0
+{다음 수에 포를 살릴 길이 보이지 않습니다. 포가 공짜로 죽게 되죠.}
+67. Ee5 Ha1 68. Cc3 Hxb3
+{포가 공짜로 죽게 되고,}
+69. Eg2 Hc1
+{여기서 대국시간 종료입니다. 
+ 
+ 5점 승이네요. 허금산프로 김동학프로에게 유리한 장기를 여러판 지게 되네요. 리그전1번째 대국에서부터 총 4판의 대국이 이루어졌는데 안타깝게 좋다가 진 대국이 세판이나 되네요. 다음에 만나게 된다면 실수를 좀 줄여서 좋은 대국을 보여주었으면 합니다. }
+
+{White resigns} 0-1
+
+[Event "설 특집 KBS장기왕전"]
+[Site "KBS신관"]
+[Date "2016-01-19"]
+[Round "결승전"]
+[White "원앙마 김철6단"]
+[Black "귀마 김경중9단"]
+[Result "0-1"]
+[TimeControl "총대국시간55분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Hc2 ab6 4. Cbe2 Ra8 5. Cf2 ef6 6. ed3 Hd7 7. g4
+Ee6 8. h4 Ke9 9. Ke0 Afe8 10. Ade1 Ci7 11. Rh0 ih6 12. Ri0 hi6 13. Rh0 Cif7
+14. Cd0 Kf9 15. Ei3 ih6 16. d4 Ce7 17. c4 Ce9 18. Aff1 Add8 19. Hce3 Ri5
+20. Rh3 Rb5 21. Ra1 c5 22. Hc2 cxc4 23. dxc4 Rc8 24. Hge3 Ch9 25. a4 hi6
+26. hi4 gh6 27. ih4 h5 28. ab4 hxh4 29. Rxh4 Ri5 30. Rh3 Rh5 31. Rxh5 Hxh5
+32. Eg0 Hg3 33. Cb2 Ce9 34. Ra5 Af8 35. Cg2 Exb4 36. Kf0 ih6 37. cxb4 Ade8
+38. Ri5 Rc3 39. Aef2 Cf3 40. gf4 h5 41. Ri7 Cd3 42. Rg7 Hi4 43. f5 Cd9 44.
+Rg4 Hh2 45. Rg3 Hi4 46. Ri3 h4 47. fxf6 Hxf6 48. Rf3 Hh5 49. Rf5 Hi7 50.
+bc4 bc6 51. Ri5 Hg6 52. Rg5 Hi7 53. Ce2 Ce6 54. A2e1 cd6 55. Ke0 Ee7 56.
+Cf0 Ke9 57. cd4 Hh2 58. d5 Cxd5 59. Hxd5 dxd5 60. He3
+{White resigns} 0-1
+
+[Event "추석 특집 장기왕전 브레인TV"]
+[Site "브레인TV"]
+[Date "2011-08-28"]
+[Round "4강전 1회"]
+[White "귀마 김정수2단 "]
+[Black "귀마 김동학5단"]
+[Result "0-1"]
+[TimeControl "총대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. Ci2 Rf8 5. ih3 Hg7 6. Ce2 Che7 7. Ri4
+Ke9 8. ef3 Raa8 9. Rd4 Ed6 10. Ee3 ab6 11. Rxa8 Rxa8 12. Hd2 Ade8 13. Rg4
+e5 14. Rc4 ed5 15. Ed3 c5 16. Ri4 Kd9 17. c4 b5 18. Exg6 hxg6 19. He3 Ce9
+20. Hxd5 cxd5 21. Cxb5 Ra6 22. Ke0 Eg8 23. Afe1 He6 24. Cb1 dc5 25. b4 Ra3
+26. fe3 Hg5 27. Rd4 cxc4 28. bxc4 Cxe3 29. Rd5 He6 30. gf3 Cee7 31. Ea5 Hc7
+32. Rf5 He5 33. f4 Rxa5 34. fe4 Hxc4 35. Rxa5 Hxa5 36. Cg1 Ce9 37. Cxg8 gf6
+38. hg3 Cg7 39. Cc8 Hd5 40. Ch8 Hc3
+{White resigns} 0-1
+
+[Event "추석 특집 장기왕전 브레인TV"]
+[Site "브레인TV"]
+[Date "2011-08-28"]
+[Round "결승전 3회"]
+[White "귀마 성우제9단"]
+[Black "귀마 김동학5단"]
+[Result "0-1"]
+[TimeControl "총대국시간90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Af1
+Ke9 8. Kf0 c5 9. Ade1 Ria8 10. Ra4 ab6 11. Rg4 Hf8 12. ih3 Ra4 13. Ce0 Rxg4
+14. gxg4 Cxh3 15. Exg6 Hxg6 16. Rh0 Ch9 17. Rxh6 Hh8 18. Rf6 Ade8 19. Rf5
+bc6 20. Ri5 Kd9 21. Cf2 Ra4 22. Hf4 Che9 23. g5 Ce5 24. Ri8 Hf7 25. g6 Eh4
+26. Ed3 Exf1 27. Axf1 Re4 28. Cb2 Hg5 29. Ri3 Cb5 30. Eg1 Re7 31. cd3 Hxf3
+32. Rxf3 Cf5 33. Re3 Rf7 34. Rg3 Cf8 35. Hg2 Rf4 36. de3 Rg4+ 37. Rf3 Rxg6
+38. Ke1 Af7+ 39. Kd0 Cxf3 40. exf3 Ee7 41. Ae1 Cg9 42. Hf4 Rxg1 43. Cf2 Ce9
+44. bc3 Rxe1#
+{Black mates} 0-1
+
+[Event "추석 특집 장기왕전 브레인TV"]
+[Site "브레인TV"]
+[Date "2011-08-28"]
+[Round "4강전 2회"]
+[White "귀마 최완규7단"]
+[Black "원앙마 성우제9단"]
+[Result "0-1"]
+[TimeControl "총대국시간 90분"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 c5 7. c4
+cd5 8. Hb4 Kf8 9. Rxa6 Rxa6 10. Hxa6 Hb5 11. b4 Ha7 12. ba4 Afe8 13. Hf2 g5
+14. Kf1 f5 15. Cg2 Hf4 16. Afe1 i5 17. Cc2 Ece6 18. ab4 Cb1+ 19. Kf0 Cb6
+20. Ea3 Kf9 21. Cc9+ Ad8 22. Cc0 Cf6 23. Hc7 Add7 24. Hb5 Hxb5 25. bxb5
+Hxh3 26. gxh3 Cxf3+ 27. Af1 Cxa3 28. d4 dxd4 29. cxd4 f4 30. Hd1 f3 31. h4
+Ch3 32. Ade1 fg3 33. bc5 Ch8 34. Ch6 Cd8 35. Cd6 Cf8+ 36. Ke0 gf5 37. hg4
+Cxf1 38. Kd0 Cf7 39. Cf0 Ke9 40. d5 Cd9 41. Af2 Eh8 42. Ri3 Ege6 43. c6 i4
+44. Ri1 i3 45. Ae1 Ri4 46. c7 i2 47. Rh1 Cxc7 48. gh4 Exh4 49. He3 f4 50.
+Cd4 fe4 51. Rxh4 Rxh4 52. Cxh4 exe3
+{White resigns} 0-1
+
+[Event "추석 맞이 KBS2 TV 장기고수전"]
+[Site "KBS"]
+[Date "1993-08-22"]
+[Round ""]
+[White "귀마 배종국4단"]
+[Black "귀마 김윤권4단"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "95"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Rh0 Hd7 5. Rh4 Ed6 6. Ed3 Ri5 7. ef3
+Ad8 8. Ee3 c5 9. Ec6 Rc9 10. Rxa6 Exf3 11. Ea9 Rh5 12. Rxh5 hxh5 13. Exd7
+Axd7 14. gxf3 c4 15. cxc4 Rxc4 16. Hd2 Rc1+ 17. Ad1 Ce5 18. Ra5 Cbe7 19. f4
+gf6 20. fe4 Ci5 21. Ra8+ Ad8 22. Cb8+ Ke9 23. Cb0 Afe8 24. Ra9+ Aed9 25.
+Cg0 Hi8 26. Hf4 hg5 27. Hh3 gh5 28. Hxi5 hxi5 29. Ra5 Hh6 30. Rxi5 Ed7 31.
+Exf6 exf6 32. e5 Hg4 33. Rg5 Hxi3 34. Rg9+ Ke8 35. Rg7 Ce3 36. Rg3 Hg2+ 37.
+Rxg2 Rc5 38. Rg3 Ce7 39. Rg7 Rxe5 40. Rxe7+ Kf8 41. Rxe5 A9e8 42. Cd0 Kf9
+43. Cf2+ Af8 44. Rg5 Ke8 45. He4+ fe6 46. Hc5+ ed6 47. He6+ Kd9 48. Rg9+
+{Black resigns} 1-0
+
+[Event "추석 맞이 KBS2 TV 장기고수전"]
+[Site ""]
+[Date "1993년"]
+[Round "결승전"]
+[White "귀마 이일훈"]
+[Black "귀마 이남춘"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 Hf7 5. Ade1 g5 6. cd3 e5 7. Ca2 Ea6
+8. Cc2 He6 9. a4 Rb9 10. a5 Ec9 11. Ea3 Ce9 12. Hbd1 Ef6 13. Cg2 Rb8 14.
+Ce2 Che7 15. Rc0 Af8 16. Exc6 Rc8 17. Cxe5 Exd3 18. Ce2 Rd8 19. exd3 bxc6
+20. Rxc6 Hf4 21. de3 Hxe2 22. Rc2 Rd5 23. Exe2 Rxa5 24. He4 Re5 25. Rc8+
+Kf9 26. Cf2 gf5 27. Hg5 Re6 28. Cxf7+ Axf7 29. Hxf7 Ae8 30. Hxe9 Cxe9 31.
+Rxc9 Ri7 32. gf3 Rd6 33. Rg0 Ad9 34. Rc2 Ra7 35. Ad0 ih6 36. Rg8 Rdd7 37.
+Rc5 Cxe2 38. Rxf5+ Rf7 39. Rg9+ Kf8 40. Rfg5 Ce8+ 41. Afe1 Ri7 42. Rg0 Raf7
+43. Hc3 Ri5 44. He4 Re5 45. Rxd9 Rxe4 46. exe4 Rxf3 47. Rd8 hg6 48. Ri0 Kf7
+49. Ri7+
+{Black resigns} 1-0
+

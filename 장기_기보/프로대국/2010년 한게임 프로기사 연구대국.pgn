@@ -1,0 +1,921 @@
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-15"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "귀마 양승태 2단"]
+[Result "1-0"]
+[TimeControl "5분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. Rb0 Hf7 5. Hf2 Ef6 6. Ke0 Ra5 7. ed3
+Af8 8. Ee3 Rf5 9. Ade1 Kf9 10. Rb4 Ade8 11. ab3 Ce9 12. Ef3 Che7 13. Rc4
+ed6 14. Rg4 g5 15. Ra4 Ee6 16. d4 Ci7 17. Rg0 Cg9 18. Exd6 cxd6 19. Ch7 Hd9
+20. Rb4 bc6 21. Aff1 Exg3 22. hxg3 Ra5 23. ba3 Rh9 24. Rh0 Ce9 25. Rh1 He7
+26. a4 Ra8 27. He4 Ei4 28. gf3 de6 29. d5 Rd8 30. Hg3 Rxd5 31. Hxi4 cd6 32.
+Hg3 Hc6 33. Rb9 Hfd8 34. Rc9 Hd4 35. cd3 Hxf3 36. d4 Re5 37. Cxe5 Hxe5 38.
+He4 g4 39. Ch0 Rxh1 40. Exh1 Hb7 41. Rb9 Aff7 42. Ch7 Hc5 43. Rb5 Ci5 44.
+Rb1 Hxe4 45. dxe4 Hg6 46. ab4 ef6 47. ed4 Ci8 48. Ch0 i5 49. Cd0 de6 50.
+Rb3 Cd8 51. bc4 i4 52. Ee3 Hi5 53. Ec6 Hh7 54. d5 ih4 55. c5 Ce7 56. Rb9+
+Ce9 57. Kf0 Hg5 58. Rb3 He4 59. Aff2 ed6 60. Cxd6 Hxd6 61. dxd6 fe6 62.
+dxe6 Cxe6 63. Hd4 Ce9 64. Hf5 Cg9 65. Ri3 Cd9 66. Hg7+ Ke9 67. cd5 Cf9 68.
+Ke0 gf4 69. Hxf9 Axf9 70. Exf4 hg4 71. Eh7+ A7f8 72. d6 Cg8 73. d7 Ae8 74.
+d7xe8+ Kxe8 75. Ri4 Af7 76. Rxg4 Cd8 77. Re4+ Kf9 78. Re9+ Kf8 79. Ef4 Ae8
+80. Ec6+ Kf7 81. Rg9 Ad7 82. Rf9+ Ke7 83. Ee3 Ae8 84. Eb5+
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-17"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "귀마 김동일 2단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Ed3 Hd7 3. Hg2 Ce7 4. Hd2 ed6+ 5. Cbe2 Ee6 6. ef3 Hf8 7. Ee3
+Kd8 8. Cf2 Ade8 9. Ke0 Ce9 10. Ci2 Rg9 11. Ade1 ab6 12. Rxa9 Cxa9 13. f4
+Cc9 14. Cf2 c5 15. Hb1 Cb7 16. ih3 Exc3+ 17. Hxc3 Cxb3 18. Hd1 Cb7 19. Ri5
+d5 20. Cd0 Kd9 21. Ea5 bc6 22. fe4 g5 23. e5 dxe5 24. Exc6 Ce7 25. Hde3+
+ed5 26. Ef4 Ke9 27. Efxd7 Axd7 28. Exd7 Ae8 29. Ea5 Rg6 30. Ri4 Ra6 31. Ec2
+He6 32. Rb4 Cf9 33. Ad1 Ra0 34. Cxe6 Ra6 35. Ce2 hg6 36. Rb8 gf6 37. Afe1
+f5 38. g4 gxg4 39. Hxf5 Rf6 40. Hge3 gf4 41. Cf0 de5 42. Hh4 Rc6 43. Exe5
+Cxe3 44. Eh7+ Kd9 45. Cd0+ Cd7 46. Rxb9+ Kd8 47. Exf4 Re6 48. Hf5 Af7 49.
+Hd6 Cd5 50. Hb7+ Ke8 51. Rb8+ Ke7 52. Eh1
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-21"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "귀마 박동현 8단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "167"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Kd1 ed6 5. Ci2 Ci7 6. Cg2 Ee6 7. ef3
+Kd8 8. Ee3 Hd7 9. Exg6+ hxg6 10. Cxg6 Rh9 11. ih3 Cif7 12. Hhf1 Ri9 13. Cg2
+Hf5 14. c4 Ade8 15. Cb2 Aff8 16. Rh0 Cf9 17. Cc2 ab6 18. Rxa9 Cxa9 19. Cf2
+Hg7 20. fe3 Ri5 21. Ce2 Ra5 22. Ed3 Ra0 23. Ke1 Ce7 24. gf3 Cf9 25. Rg0
+Aff7 26. Rg5 Kd9 27. Ke0 Cc9 28. Rg4 Cf9 29. Ae1 Ra4 30. Cf0 Ra7 31. Add1
+Ke9 32. Ri4 Ra4 33. hg3 Ra8 34. g4 Ad9 35. g5 Ri8 36. Rg4 Afe8 37. g6 Hh9
+38. gf6 Ri6 39. fxe6 dxe6 40. Rg9 Rh6 41. Hg3 e5 42. e4 Hi7 43. Eg5 Rg6 44.
+Rxg6 Hxg6 45. Exd7 Axd7 46. Cxe5 Hxe5 47. exe5 cd6 48. Kd0 A9e8 49. Cb0 dc6
+50. e6 Cb7 51. f4 Cd9 52. b4 Cxd2+ 53. Adxd2 -- 54. f5 -- 55. f6 Kd9 56.
+Add1 Ke9 57. He4 Kd9 58. Ce0 -- 59. Ce2 -- 60. Add2 -- 61. ba4 -- 62. c5 --
+63. cxc6 bxc6 64. a5 -- 65. ab5 -- 66. Cc2 -- 67. Cc7 Cb0 68. Hg5 Cb8 69.
+Hf3 Cf8 70. He5 Ee7 71. Hxc6 Eh9 72. fg6 Cd8 73. Ke0 Ke9 74. Cc2 Kf9 75.
+Ce2 -- 76. bc5 -- 77. He5 Ke9 78. c6 Kd9 79. c7 Ade7 80. g7 -- 81. Hc6 A7f7
+82. cd7 Ci8 83. gxf7 Axf7 84. Hb8#
+{White mates} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-24"]
+[Round ""]
+[White "귀마 박동현 8단"]
+[Black "귀마 김동일 2단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Hd2 Ce7 4. Cbe2 ed6 5. Ra4 Ee6 6. ef3 Ri5 7. Ee3
+Kd8 8. i4 Rd5 9. i5 Ade8 10. i6 Hf8 11. Exg6 Rh5 12. Ee3 hxi6 13. Rxi6 Exg3
+14. Exc6 Rxh2 15. Cxh2 Exi6 16. Exa9 Ce9+ 17. Ce2 ab6 18. Hh4 Eg9 19. Ed3
+Kd9 20. Eg5 Ee6 21. Hf5 Cb7 22. Rc4 dc6 23. Ra4 Hh7 24. Exe8 Axe8 25. cd3
+Hhf8 26. Ra8 Eh8 27. de3 He6 28. Hd4 Hd8 29. He4 c5 30. bc3 cd5 31. Hb3 d4
+32. Hg5 b5 33. Ra4 Cb4 34. Hc1 Hb6 35. Ha2 Ee6 36. Hxe6 Cxe6 37. cb3 dc4
+38. bxb4 bxb4 39. Ra5 Ce9 40. Rc5 Hd7 41. Rb5 Hf8 42. Rb6 Hfe6 43. ed3 Hg5
+44. fe3 Hge6 45. Ec6 Ed6 46. Cxe6 Hxe6 47. Exe9 Kxe9 48. Rxd6 Hf4 49. Rf6
+Hd5 50. Rf5 Hxe3 51. dxe3 b3 52. Hc1
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-24"]
+[Round ""]
+[White "귀마 정연기 7단"]
+[Black "귀마 윤정보 2단"]
+[Result "1-0"]
+[TimeControl "5분 20초 1회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "139"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ch2 4. Ri2 Ch8 5. ih3 Rxi2 6. Hxi2 Hd7 7. Cxc6
+Ed6 8. c4 Ce7 9. Ce2 gf6 10. b4 Ei6 11. Ra3 Ra8 12. e4 ab6 13. Rxa8+ Cxa8
+14. Cc1 Cg8 15. Cg1 Hi8 16. gf3 Ke9 17. h4 Afe8 18. f4 Ea8 19. Ed3 hg6 20.
+hg4 bc6 21. Cd1 c5 22. Ea1 cxc4 23. Exc4 ed6 24. Ci1 Hg7 25. b5 fe6 26. Hh4
+gh6 27. Ee3 h5 28. Hi2 Ci7 29. Ci3 d5 30. Ea1 dc5 31. Hh0 cxb5 32. Exb5 Hc5
+33. Hf1 Cg6 34. He3 Cg3 35. ed4 Exf4 36. d5 Hd7 37. gxf4 h4 38. Ce4 h3 39.
+Hef1 Cg8 40. Cd3 Hb6 41. Cd1 Kf9 42. He3 Cb8 43. Hec4 Hd7 44. Ce0 Cf8 45.
+fe4 hg3 46. e5 exe5 47. Hxe5 Hxe5 48. dxe5 Hh5 49. Af1 Hi3 50. ed5 Ci1+ 51.
+Af2 Ci9 52. Ec4 Ce9+ 53. Ce6 Hh5 54. de5 Hf4 55. Cf1 Hxe6 56. exe6 Cxe6 57.
+Cf6 Ce9+ 58. Kf0 Ed6 59. Ade1 gf3 60. Aff1 Add8 61. Ea7 Add7 62. Ed5 fe3
+63. Hc4 Eg4 64. Exe3 Cd8 65. Eg3 Cxe3 66. Hxe3 Ed6 67. Hf5 Eb3 68. Cf2+ Cf8
+69. Hd4 Exe1 70. Axe1
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-25"]
+[Round ""]
+[White "귀마 김동학 4단"]
+[Black "귀마 김동일 2단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 ed6 3. Hg2 Ee6 4. Che2 Hf8 5. ef3+ Exc3 6. Ee3+ Kd8 7.
+bxc3 Hcd7 8. Ci2 Rg9 9. Ri1 Ce7+ 10. Cbe2 Ade8 11. Ci0 Ce9 12. Ke0 ab6 13.
+Rxa9 Cxa9 14. Ra1 Ce9 15. Cb2 Cb7 16. Ade1 Kd9 17. Ra7 Cg7 18. Ra5 gf6 19.
+Hi1 Cb7 20. Aff1 hg6 21. Hg2 fe6 22. ih3 e5 23. f4 gf6 24. Cd0 d5 25. c4
+Ad8 26. Ra9 fe6 27. cd4 c5 28. dxd5 exd5 29. Ce2 Afe8 30. fe4 Rg5 31. Hi3
+Cbe7 32. Eh5 e5 33. ef4 Rg6 34. Exe7 Axe7 35. Cxe7 Re6 36. Cb7 cb5 37. Cg7
+Hg6 38. gf3 ef5 39. fxf5 Hi5 40. Kf0 Hxh3 41. fg3 Hi1 42. Aff2 Ri6 43. Hh1
+bc5 44. Cg1 b5 45. Ee2 Rh6 46. Cxi1 Rxh1 47. Cf1 Rh6 48. He4 Re6 49. Hf6 d4
+50. Hg8 Rb6 51. Hxe9 Kxe9 52. Cb1 ba5 53. Cxb9 Ke8 54. Cb0 Rg6 55. Eg5 ab5
+56. Rg9 Hf8 57. f6
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-25"]
+[Round ""]
+[White "귀마 정연기 7단"]
+[Black "귀마 하성호 7단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "229"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Ri5 3. Cc2 ed6 4. Ci2 Rh5 5. ih3 Ee6 6. Hg2 Hd7 7. Cie2
+Kd8 8. Ri9 Hg7 9. ef3 Ade8 10. Ee3 Che7 11. Ed3 Rc5 12. Rc0 Exc3 13. bxc3
+ab6 14. Ri4 Ra3 15. c4 Rb5 16. Exb6 Rxb2 17. Exc6 Ra1+ 18. Ad1 Rxb6 19. Ee3
+Ce9 20. cd4 Cf7 21. Exg6+ hxg6 22. Rg4 Cg9 23. He3 Rb5 24. Ri4 Kd9 25. Hec4
+gf6 26. fe3 dc6 27. de4 Cc7 28. Rd0 c5 29. He5 He6 30. Hg4 Hef8 31. gf3
+Cc1+ 32. Kf2 Rb6 33. hg3 Ed6 34. Hh6 fg6 35. Hi8 Ce9 36. Afe1 Cc7 37. Kf1
+Ea4 38. Kf0 Exd2 39. Adxd2 Ad8 40. Af1 Afe8 41. Ade1 Cf7 42. f4 g5 43. gf3
+Rg6 44. Ce0 gh5 45. Rg4 Ri6 46. Hg7 Ri5 47. f5 Cc7 48. Rd6 Ra0 49. Ad0 Ra1
+50. e5 h4 51. Rg2 Ri7 52. Hh5 Ri1 53. Ade1 Cc1 54. Rd1 Ra0 55. Ad0 Cxf1 56.
+Cxa0 Cxf5+ 57. Hf4 Rxd1 58. Axd1 Hxe5 59. Ae1 hg4 60. Rxg4 Cxf3 61. Rg3
+Cf5+ 62. He2 Hc4 63. ed3 Cf9+ 64. Ke0 Ce7 65. Cf0 Ke9 66. d4 Ha5 67. Ra3
+Hb7 68. Rb3 Add7 69. Rb6 Hh7 70. Cb0 Hd8 71. Rh6 Hg9 72. de4 Hf7 73. Rg6
+cd5 74. Cf0 Hb7 75. Rb6 Hg5 76. Hc3 dc5 77. Cb0 c4 78. He2 Hxe4 79. Cxb7
+Hf2+ 80. Kd0 Cd9+ 81. Ad1 He4 82. Re6 Cd3+ 83. Ae1 Hd2+ 84. Ad1 Hb3+ 85.
+Ae1 Cd9+ 86. Ke0 Hc5 87. Rc6 He4 88. Re6 Hd6 89. Rxe7 Aexe7 90. Cxe7 Axe7
+91. Kf0 He4 92. Ke0 Af7 93. -- Ci9 94. -- Kf9 95. Kf0 Ce9 96. -- Hg5 97.
+Hg1 cd4 98. -- de4 99. Af2 e3 100. -- He4 101. Ae1 Hg3 102. Af2 Cg9 103.
+Hh3 Hh1+ 104. Kf1 ef3 105. Ae2 Af8 106. Ke1 Hg3 107. Ad2 fe3 108. Kd0 Ce9
+109. Hg1 He4 110. Ae1 Hc3 111. Af2 Hb1+ 112. Kd1 ed3 113. Ke1 d2+ 114. Kf0
+Ke8 115. Hf3
+{갑자기 한에서 기권함.
+ 
+ 초 완승.}
+
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-17"]
+[Round ""]
+[White "귀마 하성호 7단"]
+[Black "원앙마 김동학 4단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "151"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ra4 ef6 5. ih3 c5 6. Ri1 Hge6 7. ed3
+Ke9 8. Hf2 a5 9. Rh4 ab5 10. Ee3 Ra8 11. Ke0 Ri7 12. Afe1 f5 13. Cg2 Rg7
+14. gf3 gh6 15. Rg1 Af8 16. hg3 fg5 17. ba3 h5 18. Cxh5 gxh5 19. Rxh5 Ri7
+20. Rh9 Cd7 21. Rxg9+ Af9 22. Rh1 Rf8 23. Ee2 Ad8 24. Rg6 Cd9 25. Rh9 Rf5
+26. Hg0 Ae8 27. Cd2 Ri5 28. Cf0 Rg7 29. Rf6 Hd5 30. Rf5 Rxf5 31. Cxf5 Hxc3
+32. dxc3 Hd4 33. Cf2 Hxf3 34. gxf3 Rxg0+ 35. Af0 Ee6 36. ab3 b4 37. Ae1 cd5
+38. Rh5 Ad7 39. Rf5 Rg8 40. Rf6 Exc3 41. bxc3 i5 42. cd3 bc4 43. Rf5 Ra8
+44. Rxi5 Ra0+ 45. Hd0 Ra6 46. Ri4 dc5 47. Ri9 Rd6 48. Rg9 Ae8 49. Eg6+ Af8
+50. de3 Ke8 51. Rg7 Cxd0 52. Axd0 Cxe2 53. Ei3 Rd2 54. Af1 cb5 55. Rb7 b4
+56. Rb8+ Ke9 57. Cf0 A9e8 58. Rb9+ Ad9 59. e4 Rd6 60. fe3 Rd2 61. Cxf8 Cb2
+62. Ra9 Re2+ 63. Ade1 Rxe3 64. Eg6 Rg3 65. Ra6 Rd3 66. Cf0+ Ke8 67. Re6+
+Kd7 68. Cd0+ Rxd0+ 69. Axd0 b3 70. Rc6 c3 71. e5 Ke8 72. e6 Cb9 73. Rc9
+Cb0+ 74. Ae1 Cb6 75. e7+ Kxe7 76. Rxd9
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-21"]
+[Round ""]
+[White "귀마 김동학 4단"]
+[Black "원앙마 허금산 4단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "192"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hg7 2. ab3 Ce7 3. Cc2 ih6 4. Ke0 Ce5+ 5. Afe1 Ci7 6. Ci2 Ei6 7. Ra4
+Exg3+ 8. Cg2 Cee7 9. He4 Cxe4 10. exe4 Ra7 11. Ee2 Ei6 12. ih3 Rh9 13. Ee3
+Rh7 14. Hf1 ab6 15. Rxa7 Hxa7 16. Rg0 Hh9 17. Cd2 Hf8 18. Add1 Ke9 19. cd3
+cd6 20. Cf0 bc6 21. ed4 Ea6 22. dc4 Ed8 23. Cc2 d5 24. h4 cd6 25. Ch2 Cg7
+26. Rh0 Ci7 27. h5 Rb7 28. b4 Rd7 29. hxh6 gxh6 30. Cc2 Rh7 31. Rh4 hg6 32.
+Cxf8 Rxh4 33. Exh4 Exf8 34. Cc9+ Ae8 35. Exg6 Ad7 36. Exd8 Axd8 37. Cc0
+Afe8 38. Ch0 ef6 39. Hg3 de6 40. Ch7 Hc6 41. de3 He5 42. Ch0 Hg6 43. Hh5
+Hxh4 44. Hxi7 Hg2 45. Cd0 Hxe3 46. Cf0 Add7 47. Add2 Ade7 48. Ade2 Kd9 49.
+A2f2 Ke9 50. Aff1 A7d7 51. Cb0 Ade7 52. Cb6 Hg4 53. Kd0 A7d7 54. Cb0 Ade7
+55. Ce0 ed6 56. b5 Kd9 57. cb4 dc6 58. ba4 d4 59. a5 A7d7 60. Ca0 fe6 61.
+Hg6 He5 62. Hf4 ed6 63. He2 dc4 64. Ke0 Ke9 65. Cf0 Hd3 66. Cd0 Ed5 67. Ad1
+Hb2 68. Afe1 Ha4 69. Kf0 Hc3 70. Hf4 Ade7 71. Hh5 A7f7 72. Hf6 de6 73. Hg4
+Ea7 74. He3 cb4 75. Cg0 Ed9 76. Ce0 Kf9 77. Hf5 ed6 78. Cg0 Hd5 79. Ke0 bc4
+80. Ca0 c3 81. Ca9+ Ef6 82. Ca0 Ke9 83. a6 cd3 84. Cf0 He3 85. Hh6 Aff8 86.
+a7 Eh3 87. Cd0 Exe1 88. Axe1 Hd5 89. Hf5 Hb4 90. ab7 Ad8 91. bc7 Afe8 92.
+Kf0 de6 93. Hh6 de3 94. Ch0 e5 95. Ce0 Hd5 96. Hg8+ Kf9
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-23"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "원앙마 김동학 4단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "200"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ed6 4. ih3 Hg7 5. Ef3 d5 6. Hf2 Hce6 7. Af1
+Ad8 8. Kf0 g5 9. Ade1 Cf7 10. Ce0 Cd9 11. Cg0 Ra7 12. Ce2 Rc7 13. Cg2 gf5
+14. Eh6+ Ke9 15. Exf9 Cxf9 16. ef3 Ca7 17. Ea3 c5 18. He3 ab6 19. Rb0 fe5
+20. Hed1 ih6 21. Rxi9 Cxi9 22. Cb2 b5 23. Ch2 h5 24. b4 ba5 25. Ec0 hg5 26.
+Ce2 Ae8 27. Ee3 Cf9 28. Cc0 Rb7 29. Cg0 Ce7 30. Ra0 Rxb4 31. Rxa5 e4 32.
+Cd0 d4 33. Ra1 gf5 34. Rb1 Ra4 35. Rb7 Ei6 36. Eb1 f4 37. Ce0 Hf5 38. fxf4
+Exf4 39. Ce2 Ei6 40. g4 Hfg7 41. Ke0 ef4 42. gxf4 Exf4 43. hg3 Ei6 44. g4
+Hf5 45. Hh1 Ra2 46. Hb2 Ra1 47. Hd1 de4 48. cd3 cd5 49. Rb4 Cd9 50. Cf0
+Hfg7 51. Hf2 ef4 52. de3 Ea6 53. gxf4 Hxf4 54. ef3 Hd3 55. Rb7 He5 56. Cd0
+Ra0 57. He3 Ec3+ 58. Kf0 Hd7 59. Rb2 de5 60. Rb4 Ee6 61. Rg4 Hh5 62. Rc4
+Ef8 63. Hc2 ed5 64. Ee3 Ra6 65. Hh3 Cf9 66. Hg5 Hg7 67. Ke0 Rb6 68. f4 dc5
+69. Ra4 Ec3 70. Ra8 Cd9 71. Rc8 Ed5 72. He4 He6 73. Eh5 Hxf4 74. Exe7 Hxe2
+75. Axe2 Re6 76. Hxc3 Rxe7 77. Aee1 Eg3 78. He2 Ee6 79. Hed4 Eh4 80. Hf5
+Re4 81. Af2 cd5 82. Rc3 de5 83. Hh6 Hf8 84. He3 Ee6 85. Hg8 ed5 86. Rb3 Cf9
+87. Cf0 dc5 88. Hc2 Cxf2 89. Hf6 Rf4 90. Hh5 Rf5 91. Hg7 Rf7 92. Axf2 Rxg7
+93. He3 Eg3+ 94. Af1 Re7 95. Kd0 Rd7+ 96. Ke1 He6 97. Ke0 Hd4 98. Ra3 Re7
+99. Rd3 c4 100. Ke1 Re5
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-22"]
+[Round ""]
+[White "원앙마 김동일 2단"]
+[Black "귀마 윤정보 2단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "93"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hc2 Hd7 3. Ce2 Ed6 4. Hg2 ab6 5. ed3+ Cbe7 6. Hce3 ef6 7. Ad1
+Ee6 8. Cf2 Cf7 9. Cd0 Ke9 10. d4 Af8 11. c4 Ci7 12. Ei3 ih6 13. Exg6 Hc9
+14. d5 Eb9 15. Ra2 hxg6 16. Rc2 Ra7 17. c5 Rc7 18. ab3 Ade8 19. Ea3 cxc5
+20. dxc5 Rb7 21. cb5 Hd7 22. bxb6 Rxb6 23. Cxd7 Cxe3 24. Hxe3 Rxb3 25. Ec6+
+Ad8 26. gf3 Ri8 27. Rxi7 Rxi7 28. Cxi7 Hh9 29. Exf8 Hxi7 30. Ei6 Ae8 31.
+Rc7 Hg8 32. Eg3 Kd9 33. Exe6 fxe6 34. Cxe6 He7 35. hg3 Rb5 36. Ce2 gf6 37.
+Ce0 fe6 38. Af1 e5 39. Kf0 Af7 40. Hc4 Rd5 41. Rc9+ Kd8 42. Rxb9 Rxd1 43.
+Hxe5 Ae8 44. Ae1 Rd5 45. Hg6 Rd7 46. Hxe7 Axe7 47. Cg0
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-23"]
+[Round ""]
+[White "원앙마 김동일 2단"]
+[Black "귀마 이동준 2단"]
+[Result "1-0"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "149"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hg2 ih6 3. Ce2 Ri8 4. Hc2 Ce7 5. ef3 Hf7 6. Hge3 Af8 7. Ke0
+Ce9 8. Afe1 Kf9 9. Cd2 Ade8 10. Cf0 ab6 11. Rxa9 Cxa9 12. c4 Cd9 13. b4 Cg9
+14. cd4 cd6 15. Ea3 Ea6 16. Add1 b5 17. Cc0 bxb4 18. Cxc7 b3 19. dc4 bc3
+20. Kf0 cxc2 21. Hxc2 Ri5 22. Hb4 Ra5 23. Ec0 Ce7 24. ih3 Cd9 25. Ece3 Ef6
+26. Ri4 g5 27. Rf4 Ke9 28. Hc2 Rb5 29. cb4 Rc5 30. Rc4 Rxc4 31. bxc4 e5 32.
+c5 Ec9 33. Ke0 gf5 34. Hb4 Ei8 35. c6 d5 36. Eb5 Ce4 37. fe3 Ce6 38. Cc0
+dc5 39. Hd3 cxb5 40. Cxc9 Kf9 41. Hb2 Cg9 42. gf3 Hg5 43. hg3 Hi4 44. Ei3
+Ci6 45. Exf5 exf5 46. c7 Aff7 47. Cc0 hg6 48. Cf0 g5 49. gh3 Hh6 50. fg3
+Cf6 51. Cd0 Afe7 52. Hc4 bc5 53. Hd2 cd5 54. e4 Cd9 55. Hb3 de5 56. Cxe5
+fxe5 57. exe5 Ci6 58. Ch0 Hf7 59. e6 He5 60. Hc5 Cf7 61. exe7 Axe7 62. c8
+Ae8 63. He6 Ef6 64. Ch6 Hd3 65. c8d8 Ae7 66. Hd4 Hf4 67. Hc6 Ad7 68. He5
+Ae7 69. h4 Ei8 70. g4 gxg4 71. hxg4 Hd5 72. Hg6 Ci9 73. g5 Ef6 74. Hh8+ Kf8
+75. g6
+{Black resigns} 1-0
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-14"]
+[Round ""]
+[White "귀마 박동현 8단"]
+[Black "귀마 김동일 2단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "144"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Ed3 Ee6 7. Hd2
+Kd8 8. Ad1 Ade8 9. Af1 Ce9 10. Ra4 ab6 11. Rxa9 Cxa9 12. Ci2 Rg8 13. Cbe2
+Hhf8 14. Ra0 Ce9 15. ih3 Ri8 16. Cf2 Ri5 17. Cd0 Kd9 18. Ke0 Ad8 19. Ra8
+Exc3 20. bxc3 gf6 21. Ade1 hg6 22. g4 Afe8 23. gf4 Cb7 24. hg3 Cg7 25. Ra4
+fe6 26. fg4 gf6 27. c4 Hh7 28. cd4 Hg9 29. de4 Hi8 30. ef4 c5 31. Cb2 Cb7
+32. Ra7 Cf7 33. Ra4 Cb7 34. Ra7 Cg7 35. Ra4 Cb7 36. Ce2 d5 37. fe4 Cg7 38.
+ed4 Ed6 39. Ra3 dxd4 40. Ea5 cb5 41. Exb5 bxb5 42. Cxd4 bxa5 43. Cd0 ab5
+44. He3 bc5 45. gf4 Hh6 46. Aff2 Cc7 47. Rd3 Cce7 48. Hb1 Cc9 49. Ra3 Cf9
+50. Hc2 c4 51. Hd2 Rc5 52. Cf0 c3 53. Cc0 cb3 54. Cxc5 bxa3 55. Cc0 ab3 56.
+Hd4 bc3 57. Hc4 Ea8 58. Cf0 Ec5 59. Cd0 Ke9 60. Kf0 Hb6 61. Cxd8 Hxc4 62.
+Cd0 Ha5 63. Cg2 cd3 64. Cg5 Ea2 65. Hb5 f5 66. Cg2 Exd0 67. Axd0 fxf4 68.
+Ade1 fxf3 69. gxf3 Hf5 70. Hc7 Cxf3+ 71. Ae2 Cf9+ 72. A2f2 Hh4+
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-15"]
+[Round ""]
+[White "귀마 박동현 8단"]
+[Black "귀마 이동준 2단"]
+[Result "0-1"]
+[TimeControl "15분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hf7 3. Ce2 Ra5 4. ed3+ Ce7 5. Ee3 ef6 6. Hf2 Ee6 7. Ri4
+Kf8 8. a4 Ra8 9. Ef3 Afe8 10. Rg4 ih6 11. Exh6 gxh6 12. Rg9 Ce9 13. Ra3
+Hbd8 14. c4 Cc9 15. Rg8+ Kf9 16. ab4 Rxa3 17. Hxa3 Exb4 18. cxb4 Cxb4 19.
+Hg4 Ce9 20. Af1 Ri6 21. Ch4 hg6 22. Cf4 f5 23. Cf0 g5 24. Hi3 Af8 25. Ke0
+Cb7 26. Afe1 Ci7 27. Eh5 gxh5 28. Hxh5 Rh6 29. Rg7 Rxh5 30. Rxi7 Rh6 31.
+Hc2 Ade8 32. He3 fg5 33. Rg7 He6 34. Cxe6 Rxe6 35. Rxg5 Ad9 36. Rg7 Ke8 37.
+Add1 Ce7 38. Rg8 Ef6 39. Hg4 Ke9 40. Rxf8 Ae8 41. Rg8 Exd3 42. Kd0 Eg5 43.
+gf3 Rh6 44. hg3 cd6 45. Cxf7 Axf7 46. Rxg5 Rh0+ 47. Ae0 bc6 48. Rg9+ Ke8
+49. Rg8+ Kd9 50. Rg9+ Kd8 51. Ae1 Rh5 52. Rf9 Rd5+ 53. Ad1 Ae8 54. Ra9 de6
+55. Ae1 Rh5
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-16"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "귀마 하성호 7단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ra8 7. c4 cb6
+8. Cb4 dc6 9. Cb2 c5 10. cxc5 Ri5 11. c6 bxc6 12. Exc6 He6 13. i4 Rc5 14.
+Ef4 Ed6 15. b4 Rc3 16. Ri3 a5 17. b5 a4 18. ih4 Af8 19. Ra1 a3 20. Ed3 a2
+21. Ra0 Cb4 22. Eb6 Ad8 23. Ri7 Ce5 24. Ri9 Rc9 25. Rc0 Rxc0 26. Hxc0 Rc8
+27. Hd2 Rc9 28. He3 Exf3 29. Hd5 Cxh4 30. Ec2 Ce7 31. Hxe7 axb2 32. Hxg6+
+Hd4 33. Ee4+ Hxe2 34. Hxh4 bxc2 35. gxf3 cxd2+ 36. Kxd2 Rc2+ 37. Ke1 Hc3
+38. Rxg9 Re2+ 39. Kf1 Rxe4 40. Hf5 Hxb5 41. Hxh6 Rh4 42. Hf5 Rh1+ 43. Kf2
+He5 44. fe3 Rh3 45. Hg7+ Hf7 46. Hf5 Rh5 47. Hg3 Rh2+ 48. Kf1 Rg2 49. Ke1
+Hd4 50. Rg4 Hc2+ 51. Ke0 Ke9 52. Ad1 Afe8 53. ef3 Rf2 54. f4 He3 55. Ade1
+Rg2 56. Rg6 He5 57. Rg7 Hd3 58. Rg9+ Af9 59. Rg6 Ade8
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-18"]
+[Round ""]
+[White "귀마 하성호 7단"]
+[Black "귀마 김동일 2단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "203"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri8 4. ef3+ Ce7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ke9 8. Afe1 Exc3+ 9. bxc3 Ria8 10. ih3 Ade8 11. Ri5 ab6 12. Rxa8 Rxa8 13.
+Ri9 Hf8 14. Kf0 de6 15. Ce0 Ed6 16. Cf2 gf6 17. cd3 Kd9 18. Ri5 Ce9 19. Eg0
+Cb7 20. Ee2 hg6 21. fe3 Cg7 22. Hi1 Hh7 23. Ri4 Ra5 24. Ei3 Cb7 25. Af1
+Hhf8 26. Ade1 g5 27. gf3 gf5 28. hg3 fe5 29. d4 Ad8 30. ed3 Cc9 31. fe3
+Afe8 32. Hg0 c5 33. gf3 Ea4 34. Hh2 Exd2 35. Cxd2 bc6 36. Hg4 cd6 37. Hf2
+Ra4 38. Ci0 cd5 39. dc4 dc6 40. cb4 Ra3 41. b5 Rb3 42. Ra4 Cf9 43. Ra6 cd6
+44. Ra5 dc6 45. Cd0 Ce7 46. Ad1 Ce9 47. Afe1 ed6 48. Ef1 ef5 49. Hh3 Ce5
+50. Cxd5 dxd5 51. Ra6 Rxb5 52. Rxc6 Ce9 53. dc3 fe5 54. c4 fe6 55. Eb4 dc5
+56. Ke0 ed5 57. cxc5 dxc5 58. Ee2 cd5 59. Hf4 e5 60. Hh5 Rb6 61. Rc4 Rh6
+62. Hf4 dc5 63. Ra4 Ce7 64. Hd3 cd5 65. Hb4 Ke9 66. Ra5 Rb6 67. Cf0 d4 68.
+Cb0 Ri6 69. Hc2 de4 70. Cf0 Rc6 71. Ra2 exe3 72. fxe3 Rc3 73. Efh4 Cxe3 74.
+Hxe3 Rxe3 75. Ra5 Re4 76. Rb5 Hg6 77. Ef1 Re3 78. Rb4 Hc5 79. Rg4 He7 80.
+Rg5 Ha4 81. Add2 Hc3 82. Rg9 e4 83. Eh0 Rh3 84. Ef3 e3 85. Ed6 Rh6 86. Eg4
+Rg6 87. Rxf9+ Axf9 88. Exe7 Ade8 89. Ec4 Ha2 90. Ef6 Hc1+ 91. Add1 Aff8 92.
+Kd0 Rg4 93. -- Re4 94. Add2 Hd3 95. -- Hb4 96. Ke0 Re6 97. -- Hc6 98. Kd0
+Ha5 99. Ke0 Hc4 100. Kd0 Ha3 101. Ke0 Hb1 102. Add1
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-18"]
+[Round ""]
+[White "귀마 박동현 8단"]
+[Black "귀마 윤정보 2단"]
+[Result "0-1"]
+[TimeControl "15분 30초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "152"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Hd7 4. ef3+ Cbe7 5. Ee3 c5 6. Hd2 Ed6 7. Cb4
+Ra8 8. Cb1 ab6 9. Rxa8+ Exa8 10. Ci1 Rh9 11. Ed3 Ed6 12. Cd1 Rh8 13. Exg6
+hxg6 14. Rh0 Rh9 15. He3 Cf7 16. Rxh9 Hxh9 17. Cxe6 Cxf0 18. Ce2 Cxd2 19.
+Kxd2 Exf3 20. gxf3 g5 21. Ke1 Hg7 22. Cg1 gh5 23. fg3 Ee6 24. Hg4 Hf5 25.
+Hf6+ Ke9 26. ih3 Ade8 27. Hxh5 cd5 28. Cd1 d4 29. Eg5 Ce5 30. g4 He3 31.
+Hg7 Hc5 32. hg3 Hg2+ 33. Kf1 Ce7 34. Hf5 Ce5 35. Ae1 Aff8 36. Af2 Hh0+ 37.
+Ke1 d3 38. Cd5 Eb8 39. c4 Ha4 40. Cd0 Hb2 41. Kf0 de3 42. Cxh0 exe2 43.
+Axe2 bc6 44. Ae1 cd6 45. gf3 de6 46. Ei8 Aff7 47. Cb0 Ce7 48. c5 e5 49. Hh4
+Ee6 50. Hg6 Hd3 51. c6 ef5 52. Ad2 Cg7 53. cd6 Ec9 54. f4 fxf4 55. Hxf4 Hf2
+56. Ae1 Hxg4 57. Ci0 Hh6 58. Hh5 Ea6 59. Ce0 Kf9 60. Ce6 Ed8 61. Cc6 Hxi8
+62. Hxg7+ Hxg7 63. Ce6 Hf5 64. dc6 Hd4 65. cd6 Hxb3 66. Ce0 Ef5 67. Ch0 Hd4
+68. Cd0 Hc2 69. Cf2 Ke9 70. de6 He3 71. ef6 Ec3 72. Ae2 Aff8 73. Ke1 Hg4
+74. fg6 Hxf2 75. Axf2 Ee6 76. gf6 Eb4
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-14"]
+[Round ""]
+[White "귀마 윤정보 2단"]
+[Black "원앙마 김동학 4단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "160"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Ri7 7. Ee3
+c5 8. Hf2 f5 9. Af1 Rg7 10. Kf0 g5 11. Ade1 f4 12. Ce0 Cd7 13. Ec0 cd5 14.
+Ra4 g4 15. Cg0 a5 16. Ra1 Ci7 17. Rh0 fxf3 18. gxf3 Rf7 19. de3 Ce7 20. cd3
+Ra6 21. b4 dc5 22. Cd0 Af8 23. Rg0 Rg7 24. Hd4 Cf9 25. Hxe6 Hxe6 26. Ca0
+Rb6 27. Rxa5 Rxb4 28. Ra8+ Ke9 29. Cd0 Ade8 30. Rc8 Rb7 31. Ea3 cb5 32. Cc2
+Rc7 33. Rxc7 Hxc7 34. h4 Ege6 35. hxg4 Ea6 36. f4 Rh7 37. Cg2 b4 38. Ed1
+bc4 39. Ce2 c3 40. dxc3 Eaxc3 41. ed3 Ea6 42. Rh0 Rxh0+ 43. Cxh0 Hd5 44.
+Cd0 Cf7 45. Ce0 Cxf2+ 46. Afxf2 Eb8 47. d4 Hf6 48. g5 Hh7 49. gf5 ih6 50.
+d5 hg6 51. d6 Kf9 52. dc6 Ec3 53. fe5 gf6 54. ed5 Ce9 55. Ce2 Ch9 56. fe4
+Ee6 57. cd6 Eg3 58. Cg2 Cd9 59. e5 Cf7 60. Ke0 Exd1 61. Axd1 Cxf2 62. de6
+Cf7 63. exf6 Hxf6 64. Ke1 Hh5 65. Ad2 Hf4 66. Cc2 Cf3 67. Ce2 Ca3 68. Cf2
+Ce3 69. Cc2 Ke9 70. Cd0 Ce7+ 71. Kd1 Aff7 72. d6 Ea6 73. e6 Ce5 74. Ce2 Ed4
+75. Ae1 Ea2 76. Cd2 Hd5 77. Af2 Ec5 78. Ch2 He3+ 79. Ce2 Hg4 80. Ae1 Ea2
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-14"]
+[Round ""]
+[White "귀마 양승태 2단"]
+[Black "원앙마 허금산 4단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "250"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ed6 4. ih3 He6 5. Hf2 Hhg7 6. Af1 d5 7. Kf0
+Cf7 8. Ef3 g5 9. cd3 Rb9 10. b4 c5 11. Ade1 Ad8 12. Cxe6 Ci7 13. Rg0 Hxe6
+14. g4 gf5 15. Ea3 Ke9 16. Cd2 fe5 17. g5 Afe8 18. g6 Rb7 19. Exd5 cxd5 20.
+Rxa6 Rc7 21. Ra2 Ca7 22. Ci2 Rh9 23. b5 Hf8 24. b6 ef5 25. Rg4 Rh5 26. bc6
+Rb7 27. gf6 Rg5 28. Rxg5 fxg5 29. Ra5 gf5 30. Rxd5 Rg7 31. Ke0 Rg2 32. Ra5
+Hh7 33. f7 Axf7 34. Rxa7 Rxi2 35. Ra9 f4 36. Rxc9+ Ad9 37. Hd4 Rg2 38. cd6
+Ae8 39. Rc5 Rg0+ 40. Aff0 Rg6 41. Rc6 Hf8 42. Kd0 Ci0+ 43. Kd1 Ci9 44. d7
+Axd7 45. Rxg6 Hxg6 46. Ad2 A9e8 47. Afe1 Hf8 48. Hg0 Ee6 49. Aee2 Cd9 50.
+Ed0 Cg9 51. Hh2 ih6 52. hg3 hg6 53. gf3 fg4 54. Hc6 g5 55. e4 gh4 56. e5
+Cd9 57. fe3 Eh8 58. Hf3 gh5 59. Ke1 hg4 60. d4 g3 61. Hg1 h4 62. de4 Cg9
+63. Hi2 Hg6 64. ef5 h3 65. f6 Hi7 66. Hh4 Hh5 67. fg6 Cg4 68. He5 Cg0 69.
+gh6 Ee6 70. Hf5 h2 71. Hc4 Eh8 72. Hfd6 Ee6 73. e5 Eh4 74. Hf5 Exe2 75.
+Axe2 Cg9 76. Hd6 Cd9 77. Hg7 Hf4 78. Hdf5 g2 79. e4 Hh3 80. e6 Hg5 81. Exg2
+hxg2 82. hg6 Cf9 83. Hxf9 Kxf9 84. He3 Hxe6 85. Hxg2 Hc5 86. ef4 Hd3+ 87.
+Kf0 Ke9 88. fe4 Kd9 89. Ae1 Ke9 90. Hf4 Hxf4 91. exf4 Ade7 92. fe4 A7d7 93.
+e5 Ade7 94. e6 A7f7 95. ef6 Aff8 96. fe6 Kd9 97. ef6 Kd8 98. fe6 Kd9 99.
+Af2 Kd8 100. Kf1 Kd9 101. Kf0 Kd8 102. Kf1 Kd9 103. Kf0 Kd8 104. Kf1 Kd9
+105. Kf0 Kd8 106. Kf1 Kd9 107. Kf0 Kd8 108. Kf1 Kd9 109. Kf0 Kd8 110. Kf1
+Kd9 111. Kf0 Kd8 112. Kf1 Kd9 113. Kf0 Kd8 114. Kf1 Kd9 115. Kf0 Kd8 116.
+Kf1 Kd9 117. Kf0 Kd8 118. Kf1 Kd9 119. gf6 Kd8 120. Kf0 Kd9 121. Kf1 Kd8
+122. Kf0 Kd9 123. Kf1 Kd8 124. Kf0 Kd9 125. Kf1 Kd8
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-15"]
+[Round ""]
+[White "귀마 김동일 2단"]
+[Black "원앙마 김동학 4단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. Hf2 Cd7 7. Af1
+Ke9 8. Kf0 Afe8 9. Ade1 Cf9 10. Ce0 g5 11. cd3 c5 12. d4 f5 13. b4 f4 14.
+bc4 cxc4 15. dxc4 Rb9 16. ed3 ab6 17. Rb0 Ea6 18. Hd4 Add8 19. Hxe6 Hxe6
+20. Ec5 bc6 21. Rxb9+ Cxb9 22. Ee3 fe4 23. Ec0 cxc5 24. cxc5 Hxc5 25. Hxe4
+Cf9+ 26. gf3 Hxd3 27. Hxg5 Hc1 28. Cg0 Ec3 29. Aff2 Ri8 30. He4 Ege6 31.
+Hg5 Rf8 32. Rxi6 Rf5 33. Rg6 Ce5 34. hg3 Cxg5 35. Rxg5 Cxf3+ 36. Af1 Cxf1
+37. Rxf5 Cxf5+ 38. gf3 Eb8 39. Ke1 Hd3+ 40. Cd2 Hxf2
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임"]
+[Date "2010-06-22"]
+[Round ""]
+[White "귀마 이동준 2단"]
+[Black "원앙마 하성호 7단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 i5 4. Ed3 Hc7 5. ab3 Cd7 6. Ra4 Ri7 7. ef3 cd6
+8. h4 gf6 9. Hd2 Ke9 10. Ke0 Ad8 11. Afe1 Ef7 12. Rc4 Ra7 13. Cc2 Hd5 14.
+Ee3 Cd9 15. Rc8 Afe8 16. c4 Hf5 17. hg4 Hdxe3 18. gf4 Hd5 19. fxf5 fxf5 20.
+c5 e5 21. Ce2 Ri6 22. Rh0 Rg6 23. cxd5 dxd5 24. Rh3 d4 25. Eg1 i4 26. bc3
+ih4 27. Ri3 Ei6 28. Ci2 Rb7 29. cb3 Rd7 30. Cxi6 d3 31. Exd3 Rxd3 32. Ce2
+h3 33. Rxh3 Rxi6 34. Rc9 ab6 35. bc3 Rd7 36. Rh0 bc6 37. He3 Af9 38. Rb9 c5
+39. c4 cd5 40. Hb3 Ri4 41. c5 d4 42. Hc2 dc4 43. Ha5 c3 44. Hc6 Rd6 45. Ha3
+Ri2 46. Add1 ed5 47. Kf0 dxc5 48. Rh6 Ri0+ 49. Kf1 Rxh6 50. Hxe7+ Afe8 51.
+Hxf5+ Re6 52. Rc9 Ri5 53. Ce0 Ri1+ 54. Kf0 Rf6 55. Hh4 Kf9 56. Hg2 Rg1
+{White resigns} 0-1
+
+[Event "한게임 프로기사 연구대국"]
+[Site "한게임(Hangame)"]
+[Date "2010-06-16"]
+[Round ""]
+[White "원앙마 김동일 2단"]
+[Black "귀마 양승태 2단"]
+[Result "0-1"]
+[TimeControl "10분 40초 3회"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "136"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hc2 Ce7 3. Hg2 Ci7 4. Rh0 ih6 5. Cbe2 Ce7 6. Cf2 Hd7 7. ed3
+Ad8 8. He3 Kd9 9. Ke0 Afe8 10. Ade1 ab6 11. Cd0 Ri5 12. d4 Ce9 13. Ei3 Ed6
+14. d5 ef6 15. Ci2 Rg5 16. cd3 Ei6 17. Ce2 Exg3 18. hxg3 Rxg3 19. dxd6 cxd6
+20. Cxd6 Cxe3 21. Hxe3 Rxi3 22. Rh4 He6 23. Rc4 Ke9 24. Rc7 Ra7 25. Rc9+
+Add9 26. Rxd9+ Axd9 27. Hg2+ Ce7 28. Hxi3 Hf4 29. Kd0 fe6 30. Cd2 Hc5 31.
+Ce0 Hfxd3 32. Rb0 Rb7 33. Rb1 gf6 34. Rc1 bc6 35. Hg4 hg6 36. Rc3 g5 37.
+Hh2 gf5 38. Aff1 f4 39. Hg0 Rb0 40. Hf2 Hxf2 41. Afxf2 He4 42. Rxc6 Hxd2
+43. Axd2 Rb2 44. Afe1 f3 45. Ce2 Rb4 46. Rc3 Rf4 47. Ca2 Ke8 48. ab3 Rg4
+49. Ea3 fe3 50. Rc8+ Kf7 51. Cf2+ ef3 52. Ca2 Rg0+ 53. Kd1 Rb0 54. Rc3 Ce3
+55. Rd3 Ae8 56. Ec6 Rb2 57. Exe3 fxe3 58. Rxe3 Rxa2 59. bc3 Kf8 60. c4 Ae7
+61. cd4 Ke8 62. d5 Ra4 63. de5 exe5 64. Rxe5 Ra6 65. Rd5 fe6 66. Ri5 Ra9
+67. Ri8+ Kf7 68. Rb8 Rd9
+{White resigns} 0-1
+

@@ -1,0 +1,155 @@
+[Event "제4회 국수전"]
+[Site ""]
+[Date "2000년 4월 12일"]
+[Round "결승 2국"]
+[White "귀마 김경중"]
+[Black "귀마 신대순"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "110"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ad8 7. Ra4
+Ee6 8. Ke0 Ri5 9. Ri1 Kd9 10. Ed3 a5 11. Ra0 c5 12. Ria1 Exc3+ 13. bxc3 cb5
+14. Ade1 Rd5 15. Ci2 Ci7 16. Cbe2 Cbe7 17. Rc0 Ade8 18. Aff1 Ra8 19. Cf2
+Rc8 20. Cd0 Rf5 21. c4 Cf7 22. Exa5 bxa5 23. Hb3 ab5 24. Ra9 Rb8 25. Hd4
+Rg5 26. Cxd6+ Ke9 27. Cd0 Cd9 28. Ra6 Rc8 29. Ec6+ Ad8 30. He3 He5 31. Hdf5
+gf6 32. Cxe5 Rxf5 33. Hxf5 fxf5 34. Ee3 fxe5 35. Rxh6 e4 36. Rg6 Hh9 37.
+Re6 Afe8 38. Rxe4 Ed6 39. Kf0 Hg7 40. Re5 Rb8 41. Rb0 Rc8 42. cd4 Exf3 43.
+Exb5 Ci7 44. Cxd8 Eh6 45. Cd0 Cif7+ 46. Ke0 Rc6 47. Ra0 Cg9 48. Cg0 Cxg3
+49. Rg5 Cg6 50. d5 Ef3 51. Ee3 Rc3 52. Exg6 Cd9 53. Ra9 Ec1 54. Cd0 Re3 55.
+Rh5 --
+{Black resigns} 1-0
+
+[Event "제4회 국수전"]
+[Site ""]
+[Date "2000년 4월 12일"]
+[Round "결승 1국"]
+[White "귀마 신대순"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Ee6 6. Ri4 Hf7 7. Hf2
+Ra5 8. Kd1 Kf8 9. Ca2 Rg5 10. g4 Ri5 11. Rxi5 ixi5 12. Ade1 i4 13. gf4 i3
+14. hg3 Ri4 15. g4 gh6 16. Aff1 ih3 17. Chd2 hg3 18. Rg0 Ri3 19. Hh1 Ch2
+20. g5 Cg7 21. Rb0 gf3 22. Exc6+ bxc6 23. f5 fxf5 24. gxf5 Cd7 25. Rb8+
+Afe8 26. Rc8 Cdh7 27. Cxd9 Ri5 28. Cdd2 Rxf5 29. Hf0 Ef6 30. Rb8 Rf4 31.
+Cd4 Cd7 32. Cad2 Ch9 33. Exf3 Rxf3 34. Rb3 Kf9 35. Aff2 Eh3 36. Ch2 c5 37.
+de3 Rf4 38. cd3 Hb5 39. Rb4 cd5 40. Rxb5 dxd4 41. Cd2 dxd3 42. exd3 Exf0
+43. Hd4 Re4 44. Aff1 Ei2 45. Ri5 Ef4+ 46. Kd0 Cd9 47. Rf5 Cxd3 48. Hxe6
+Rxe6 49. Rxf4 Re3 50. Cf0 Ke9 51. Cc0 Cf9 52. Rb4 Ch3 53. Ce0 Rd3+ 54. Ad1+
+Kd9 55. Re4 Hg5 56. Rg4 h5 57. a4 Ca3 58. ab4 Ce3 59. Cc0 Ce9 60. --
+{White resigns} 0-1
+
+[Event "제4회 국수전"]
+[Site ""]
+[Date "2000년"]
+[Round "24강"]
+[White "귀마 주경덕"]
+[Black "귀마 노경국"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Ed3 Hd7 5. Hd2 Ed6 6. Ad1 Ad8 7. Kd0
+Af8 8. Afe1 Ei6 9. ih3 ab6 10. Rb0 Kd9 11. Ce0 Afe8 12. ef3 Ce9 13. Cbe2
+Rf9 14. Cb2 Rf5 15. Ee3 Rc5 16. Cc0 Rd5 17. Cg0 gf6 18. Ri4 Rda5 19. Ce2
+Rc5 20. c4 Rd5 21. cd4 Rf5 22. Exc6 bxc6 23. bc3 cb6 24. Rc0 Rfa5 25. He3
+Hf5 26. d5 Hxe3 27. dxd6 exd6 28. fxe3 Ci7 29. Rb4 bc6 30. Ke0 Ri5 31. Cd0
+Cxe3 32. Ra0 Rc9 33. Rh4 hg6 34. Rh9+ Ce9 35. Ra8 Cb7 36. gf3 Cf7 37. hg3
+Rc5 38. c4 Re5 39. Cf0 Exg3+ 40. fxg3 Re3 41. Exf6 gxf6 42. g4 Rxe2 43.
+Rxe9+ Kxe9 44. Axe2 Cd9 45. Aee1 c5 46. cd4 de6 47. gf4 Cf9 48. fe4 Ra9 49.
+Rc8 Ra5 50. Cd0 cd5 51. dc4 dc5 52. cxc5 Rxc5 53. Ra8 Cd9 54. ed4 Rb5 55.
+Hc4 f5 56. Ra9 f4 57. Rc9 e5 58. Cf0 fe4 59. dxe4 exe4
+{White resigns} 0-1
+
+[Event "제4회 국수전"]
+[Site ""]
+[Date "2000년"]
+[Round "24강"]
+[White "원앙마 김재두"]
+[Black "귀마 신대순"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hc2 Ed6 5. Cd2 Hd7 6. Af1 Ad8 7. Cf0
+Ce9 8. ed3+ Kd9 9. g4 Cc9 10. h4 Afe8 11. Hce3 ef6 12. Ri3 Ee6 13. Ke0
+Exc3+ 14. dxc3 Cxc3 15. Hd5 Cc9 16. Rd3 fe6 17. Ei3 gf6 18. g5 ih6 19. Ci2
+Rg9 20. Ca2 Rb9 21. Ade1 Ce7 22. ab3 Hi8 23. hg4 Cf9 24. Ci2 Rg8 25. Ce2
+Ke9 26. Hde3 Cd9 27. b4 Ef3 28. Rda3 Ei5 29. Hf4 cd6 30. Cd0 bc6 31. Rb3
+Cf9 32. Cg0 Rh8 33. Hc2 Ef7 34. Hg2 h5 35. Cd0 hxg5 36. gxg5 Ei5 37. Hge3
+Rh3 38. Eg0 Rg3 39. gh5 Eg8 40. Ea3 Hg7 41. Rb1 Hxh5 42. Cb2 Rc9 43. Rd1
+Ei5 44. Rd2 e5 45. Rh2 Hf4 46. Cbf2 e4 47. Hd1 Rg1 48. Cxf6 Hg2 49. Af2
+ef4+ 50. Ae2 cb6 51. Ra2 Rxc2 52. Rxc2 Rxe1#
+{Black mates} 0-1
+

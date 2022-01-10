@@ -1,0 +1,314 @@
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "준결승전(B조)"]
+[White "귀마 송은미"]
+[Black "귀마 이은성"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "69"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hf2 Hc7 3. Cg2 Ce7 4. Ke0 Ra5 5. Ade1 Ca7 6. Ca2 Ri5 7. Rxi5
+ixi5 8. g4 Hf7 9. ab3 i4 10. Ea3 i3 11. hg3 g5 12. gxg5 Hxg5 13. g4 Hf7 14.
+Cc2 ed6 15. cd3 Ha8 16. Ee2 Ee6 17. Ra1 Ri5 18. b4 Eg3+ 19. Kd0 Ei0 20. He4
+ih3 21. Exc6 bxc6 22. Ca0 Ri6 23. Eh4 Rg6 24. g5 Ri6 25. Hd1 Hc9 26. Exf7
+Kxf7 27. Cxc9 Cg7 28. Cxf9 Cd7 29. Ra9 Ke8 30. Cc9 Ee7 31. Ce0 d5 32. gf5
+cd6 33. Hf6+ Kf8 34. Ra8+ Kf7 35. Hxh7
+{초 완승}
+
+{Black resigns} 1-0
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(A조)"]
+[White "원앙마 김영숙"]
+[Black "원앙마 김귀임"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "127"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hc2 Hg7 2. Ce2 ab6 3. Ca2 Ha7 4. Cxa7 Ce7 5. Ca1 Rb9 6. Kd1 ef6 7. ih3
+Ke9 8. Cb2 Ege6 9. cd3 Afe8 10. Ri4 Exg3+ 11. hxg3 Rh9 12. Hg2 Ee6 13. ef3
+Rh5 14. Rc4 Ci7 15. Ra4 Rc5 16. Ke1 Rxc2 17. Ce2 Ce7 18. Ece3 Rc9 19. Cf1
+Exg3 20. Exc6+ R9xc6 21. fxg3 He6 22. He3 R6c5 23. gf3 Hc7 24. Ri4 Rxe2+
+25. Kd1 Cd7+ 26. Rd4 Rf2 27. f4 Rxf4 28. Rxd7 Axd7 29. ab3 fe6 30. bc3 Rf3
+31. Cc1 Rb5 32. Af1 Rb1 33. Rc0 gf6 34. Ade1 A9e8 35. Kd0 Rg3 36. Cxc7
+Rxg0+ 37. Aff0 bc6 38. Cc4 cd6 39. Ra0 Ce4 40. Hd1 Kf9 41. Ra9+ Ae9 42. Cc0
+Rc1 43. Ce0 ih6 44. Ra4 Ce7 45. Ra0 Rg5 46. Aff1 hg6 47. Cc0 Ke8 48. Cf0
+Ad9 49. d4 f5 50. c4 gf6 51. Ra3 Rg0 52. Ra0 e5 53. Aff2 fe6 54. Afe2 f4
+55. Ke0 e4 56. Ra3 exd4 57. cxd4 e5 58. Rh3 Kd8 59. Rc3 Ke8 60. Rxc1 ed5
+61. dxd5 dxd5 62. Rc4 f3 63. Rf4 Rg3 64. Rf8+
+{초 완승}
+
+{Black resigns} 1-0
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "준결승전(A조)"]
+[White "원앙마 박민선"]
+[Black "귀마 김영숙"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. ef3 ed6 6. g4 Ee6 7. Cf2 Ri8
+8. f4 g5 9. He3 h5 10. c4 Rb9 11. b4 Af8 12. Ra2 Ke9 13. Ke0 Ade8 14. Ci2
+Rg8 15. Afe1 c5 16. Rc2 cxc4 17. Rxc4 Hd5 18. Kf0 Hxb4 19. Ea3 a5 20. Ce4
+a4 21. Ed1 He5 22. Rc7 Hbc6 23. Cee2 Hd3 24. i4 Rg7 25. Ci9+ Aff9 26. Rc8
+Hd8 27. Rc4 Cf7+ 28. Ke0 Hb2 29. Rc2 Ha0 30. Ra2 Hc1 31. Rxa4 Cd9 32. f5
+Hc6 33. f6 Hd4 34. Ch2 Ch7 35. fxe6 Hxe6 36. ih4 hxh4 37. gxh4 Ch3 38. Ri8
+Rg6 39. Ce2 Rb8 40. Hc2 Rh6 41. Rb4 Rc8 42. Rc4 Rd8 43. Ce7+ Ad7 44. Re8+
+Kxe8 45. Ce2+ Kf8 46. Hf4 Hxf4 47. Rxf4+ Rf6 48. Re4 Rc8 49. He3 Rf3 50.
+hi4 Rg3 51. Rf4+
+{초 완승}
+
+{Black resigns} 1-0
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "이벤트 대국"]
+[White "원앙마 윤선영"]
+[Black "귀마 노유진"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "103"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Hd7 5. Hc2 ef6 6. Cd2 Ed6 7. Af1
+Ee6 8. Cf0 Ad8 9. Hce3 Kd9 10. Ri4 Ra5 11. Ke0 Rg5 12. Rg4 Exg3 13. Rxg3
+Rxg3 14. hxg3 ih6 15. c4 g5 16. d4 h5 17. Ei3 f5 18. d5 Eg8 19. Exf5 Hxf5
+20. Hxf5 gxf5 21. Cxf5 Ri6 22. Cf0 Re6 23. Ke1 Ade8 24. Ee3 Rh6 25. g4 Ce9
+26. Rc0 Cg7 27. Hf4 Cxe3 28. Rc3 Ce9 29. Rh3 Cc7 30. cb4 cd6 31. g5 h4 32.
+Rh2 bc6 33. dxd6 cxd6 34. gh5 Ri6 35. Rxh4 Ee5 36. h6 Ri3 37. a4 Cf7 38.
+bc4 Ri1 39. Cf2 Cc7 40. Hd3 d5 41. Cf0 Cf7 42. Cd2 Aff8 43. Cxd5+ Ad8 44.
+Hxe5 Cf9 45. Hxd7 Rxf1+ 46. Kd2 Ke8 47. Ae1 Rg1 48. He5+ Cxe5 49. Re4 Rg5
+50. Ce0 Kf7 51. Rxe5 Rxe5 52. Cxe5
+{초 완승}
+
+{Black resigns} 1-0
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(B조)"]
+[White "귀마 오지현"]
+[Black "귀마 이은성"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 g5 6. Hf2 Ef6 7. Ef3 Ri8
+8. Rb0 Ad8 9. Rb4 Kd9 10. Ad1 Afe8 11. Exc6 bxc6 12. Rb8 Ce9 13. d4 ed6 14.
+c4 He6 15. Rg0 ih6 16. g4 gxg4 17. Rxg4 Cd7 18. Exh6 Ri6 19. Ee4 Ea6 20.
+Rb4 Cc9 21. Cxe6 dxe6 22. d5 Ri5 23. Rb5 Cxc4 24. Eb6+ Cc8 25. Ce2 Rb9 26.
+Rgb4 Ed3 27. Hd4 Ke9 28. Ke0 Ri4 29. Afe1 Rxd4 30. Rxd4 Cxd4 31. Rb3 Eg5
+32. Rf3 Kf9 33. Ed3 Rb5 34. Exg5 Rxd5 35. Ei8 Add7 36. ab3 Cxi8 37. Rd3 Rb5
+38. bc3 Rb0+ 39. Aed0 Cd9 40. Re3 Cxd1 41. Ke1 Cd9 42. Ad1 cd6 43. cd3 Rb3
+44. hg3 Ca8 45. g4 He5 46. Cxe5 exe5 47. Rf3+ Cf8 48. Rf6 Ec9 49. g5 Rb6
+50. Hg4 de6 51. Rh6 e4 52. gf5 ef4 53. Hh2 Ke9 54. Hf1 f3 55. fe5 ef6 56.
+Hh2 f2+ 57. Ke0 Rb1 58. Ad2 Rh1 59. Kd0 Cxd3+
+{한 완승}
+
+{White resigns} 0-1
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(B조)"]
+[White "귀마 마지현"]
+[Black "원앙마 송은미"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "44"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Hf2 ih6 4. Ef3 ef6+ 5. Cbe2 f5 6. Ra4 He6 7. ed3
+c5 8. He3 g5 9. g4 a5 10. Rb4 ab5 11. Rd4 Hxd4 12. dxd4 Ege6 13. i4 Ra0 14.
+Ea3 Cxe3 15. de4 Ra1+ 16. Ad1 Exc3 17. Ed6 Hg7 18. Ri3 Cd7 19. Ea8 cd5 20.
+Cg2 Ce7+ 21. Ce2 Rxd1+ 22. Ke0 Rd2+
+{한 완승}
+
+{White resigns} 0-1
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "8강전(A조)"]
+[White "원앙마 이해숙"]
+[Black "원앙마 박민선"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "84"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hc2 Hg7 3. Ce2 Ce7 4. Hg2 Hc7 5. ef3 ed6 6. Hce3 g5 7. f4
+Hge6 8. g4 gxg4 9. fxg4 Ri5 10. c4 Cd7 11. i4 Ri7 12. Hf5 Ce5 13. Hxh6 Ke9
+14. Hg8+ Af8 15. Hxi7 Ca7 16. Rb0 Cxi7 17. ih4 Cb7 18. Ra0 Ed7 19. Ri9+ Ke8
+20. Ch8+ Af9 21. Ri8 Ke9 22. Ch0 Af8 23. gf4 Ade8 24. f5 Ce7 25. f6 Kd9 26.
+fxe6 dxe6 27. Ege3 ed6 28. Eh5 Ce9 29. Exf8 Eg5 30. Rg8 Exe2 31. Kf1 Exh0
+32. Hxh0 Cf7 33. Afe1 He6 34. Kf0 Ra7 35. Ra2 Axf8 36. Rd2 Hf4+ 37. Rf2
+Cxf2 38. Axf2 Ae8 39. hg4 Hd3 40. Ade1 Rf7 41. bc3 Hxe1 42. Kf1 Hxc0
+{한 완승}
+
+{White resigns} 0-1
+
+[Event "제2회 레이디 장기 챔피언십"]
+[Site "브레인TV"]
+[Date "2017년"]
+[Round "결승전"]
+[White "원앙마 박민선"]
+[Black "귀마 송은미"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "118"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 Hd7 2. Ce2 Ee7 3. ed3 ab6 4. ih3 Ri8 5. Hc2 gf6 6. Hge3 He5 7. Hg4
+cd6 8. Cd2 Cc7 9. Ra2 f5 10. Hxe5 fxe5 11. Ri2 Ci7 12. Rf2 ih6 13. Ch2 h5
+14. Kd1 Cd7 15. Ce2 Ri1+ 16. Ade1 Rg1 17. Ce0 Ei6 18. gf3 Cf7 19. fe3 Hg7
+20. Kd0 Cb5 21. Ra1 Cg5 22. Ae2 Rg4 23. Ri2 Cc7 24. Ra2 Cf7 25. Ei3 Af8 26.
+Afe1 Ch7 27. h4 hxh4 28. Ef1 hi4 29. Cd4 Cd5 30. A2d2 Cf7 31. e4 Ci5 32.
+Rh2 Rg5 33. exe5 exe5 34. Add1 Ke9 35. Rh6 bc6 36. Cd2 Ade8 37. Ra1 Cc7 38.
+Cf0 de6 39. Ce2 cd6 40. He3 Ci9 41. cb3 Cd9 42. Rc1 Cxd3+ 43. Ke0 Cf7 44.
+Rc4 i3 45. Rg4 Rxg4 46. Hxg4 Rc9 47. Hxi3 Rc1 48. Eh4 Cc7 49. Rg6 Cd9 50.
+Hh5 Cg9 51. Rh6 Exh5 52. Ef1 Ee7 53. Rh8 Cd9 54. Add2 Eg3 55. Rh3 Hf5 56.
+Rh8 Cxd2 57. Axd2 Rxf1 58. Rg8 Cf7 59. Rg9+ Aff9
+{한 완승}
+
+{White resigns} 0-1
+

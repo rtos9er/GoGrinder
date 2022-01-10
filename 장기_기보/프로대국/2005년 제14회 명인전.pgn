@@ -1,0 +1,1370 @@
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 김진현"]
+[Black "귀마 성우제"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "59"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ch4 Ee6 6. Ch1 Ra5 7. Hf2
+Hf7 8. Ee3 Af8 9. Cd1 Ri5 10. Rxi5 ixi5 11. ab3 Kf9 12. Ra9 Ae8 13. Rc9 Ce9
+14. Rc8 f5 15. Cf1 g5 16. g4 ih5 17. gxg5 hxg5 18. He4 Ri5 19. Ef3 Ri6 20.
+Hxg5 fxg5 21. Ei5+ gf5 22. Exf7 Axf7 23. Cxf7 He8 24. Cxd9 Ri1+ 25. Af1 Ef6
+26. Cd2 f4 27. hg3 Rg1 28. Exc6 Exc3 29. Cd7+ Hg7 30. Rf8#
+{White mates} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 강철원"]
+[Black "귀마 설조길"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Hf2 Ee6 6. Ee3 Hf7 7. Af1
+Ra5 8. Kf0 Ri5 9. Rxi5 ixi5 10. Ade1 i4 11. Ce0 i3 12. Ef3 f5 13. ab3 g5
+14. Ra4 ixh3 15. gxh3 c5 16. Hb0 Af8 17. Hbd1 Kf9 18. Cc2 b5 19. Ec6 Ri6
+20. Exc5 He5 21. d4 Ri4 22. Ee2 Ade8 23. de4 Hxc6 24. Cxc6 g4 25. Cc0 Hd9
+26. Ra6 Ce9 27. Rb6 ba5 28. Ec5 f4 29. exf4 Exc3 30. bxc3 gxf4 31. Rh6 Ri7
+32. Ch0 ab5 33. Exe8 Axe8 34. Rxh7 Rxh7 35. Cxh7 f3 36. Hd3 fe3 37. Hc1 Ef6
+38. h4 Hc7 39. cd3 Hd5 40. dxe3 Cxe3 41. Hxe3 Hxe3 42. He2 Hg2+ 43. Ke0
+Hxh4 44. Ch2 Ke9 45. Cf0 Ed3 46. Hd4 bc5 47. Aff2 Eg5 48. Hf3 Hxf3 49. Cxf3
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 서준호"]
+[Black "귀마 정연기"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 Hg7 2. Hg2 Ce7 3. ih3 Ci7 4. Rh0 ih6 5. Ce2 Ce7 6. Rh1 Hd7 7. Hd2
+Ri5 8. Ke0 Rd5 9. Ed3 Rd4 10. Rc1 cb6 11. c4 Rd6 12. Afe1 Ce9 13. Exb6 Hxb6
+14. c5 Rd7 15. Cxb6 Cbe7 16. c6 ed6 17. c7 Rd8 18. Cb1 Kf8 19. Cd1 Ca7 20.
+Rb0 Afe8 21. He4 de6 22. Cf1 Cf7 23. Ra0 Rd5 24. Rc6 a5 25. Hc3 Ri5 26. Hi3
+gf6 27. ef3 Ee7 28. Ee3 Rb9 29. Rb0 Cc9 30. Cb1 Rxb3 31. Cb8+ Rxb8 32. Rxb8
+Cxc6 33. Exc6 Cxc7 34. Cxe7 Cxc3 35. Ce2+ Kf9 36. Rb7 Ri7 37. Ee3 a4 38.
+Rc7 Cxf3 39. gxf3 ab4 40. Kf0 Kf8 41. Ce0 Af7 42. Ci0 Rh7 43. Ce0 hg6 44.
+hg3 g5 45. Rc9 Afe8 46. Add1 Hf5 47. f4 Hd6 48. Rc5 Ri7 49. Hh1 Ri5 50. g4
+gh5 51. Hf2 Ei6 52. Ec6 Kf9 53. Hd3 bc4 54. Hb2 cb4 55. fe4 Ri4 56. Rxh5
+Rxg4 57. Ri5 Eg9 58. Ri9 b3 59. Hd3 Add8 60. Hf2 Rg3 61. Rh9 b2 62. Rh3 Rg5
+63. Rb3 Rc5 64. Ea9 bc2 65. Ri3 Rc9 66. Ri9 Kf8 67. Hg4 Rxa9 68. Hi5 Af7
+69. Hh7+ Ke8 70. ed4 Rf9 71. d5 Hb5 72. Hxf6 Kd9 73. Hh7 Hc3 74. Rxg9 Afe8+
+75. Rxf9+ Axf9 76. Cxe6 Hxd5 77. Ce0
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 김형섭"]
+[Black "귀마 이남춘"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "109"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. Hd2 Hd7 5. Ed3 ed6 6. Ri1 Ee6 7. g4 Ri5
+8. Ke0 Rf5 9. Ria1 Rf2 10. Rg1 Rf5 11. Rc1 Kd8 12. Ad1 Exc3 13. bxc3 Cc7
+14. c4 Rb5 15. Rca1 Cxc4 16. Rxa6 Rxa6 17. Rxa6 Ade8 18. Ra9 Ce7 19. Cxb9
+Cc9 20. Ra8+ Kd9 21. Cb1 Cc1 22. Afe1 He6 23. ih3 Ce9 24. h4 g5 25. Ra5 Rb4
+26. Cxe6 dxe6 27. Rxg5 e5 28. gf4 c5 29. Ea1 Ra4 30. Hb3 Cc8 31. Add0 Ra3
+32. Hd2 Rxa1 33. Ch1 Ra6 34. fe4 hg6 35. Ri5 ed5 36. Ei3 Cg8 37. Hf4 gf6
+38. Cd1 Cd8 39. Hg2 fe6 40. Ri6 ef6 41. hg4 Ra3 42. gf4 Ce6 43. Ri9 Cxe3+
+44. Hxe3 Rxe3 45. Hf1 Rh3 46. Cxd7 Ke9 47. Cd2 Cd3 48. Eg0 fe6 49. Ri5 Cd9
+50. Ri9 Rh5 51. Rg9 c4 52. Cf0 e5 53. exe5 dxe5 54. Ee3 Rh6 55. Eg6+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 박강평"]
+[Black "귀마 송해"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "79"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 ef6 5. Ee3 Hf7 6. Hf2 f5 7. g4 g5
+8. Rb0 Ee6 9. gxg5 fxg5 10. Af1 Af8 11. Ri1 Ad8 12. Ef3 Ef6 13. Exc6 bxc6
+14. Rb5 Rab9 15. Rxb9 Hxb9 16. He3 Cxe3 17. dxe3 Hc7 18. ab3 Ce7 19. cd3
+gf5 20. bc3 f4 21. Ch5 fxf3 22. exf3 Exd3 23. cxd3 He5 24. de3 Hg4 25. Ch0
+Eb4 26. ed3 Hxf2 27. Axf2 He6 28. hg3 c5 29. Cc0 c4 30. Ri4 cd4 31. fe3 Rc9
+32. Cf0 Rc1+ 33. Ke0 Rb1 34. Ade1 dxd3 35. exd3 Rb3 36. gf3 Rxd3 37. Rxb4
+Hd4 38. fe3 Rxe3 39. Rxd4 Rxe2 40. Axe2
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 조용희"]
+[Black "귀마 안동건"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "119"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Rf5 9. Ef3 gh6 10. Ade1 fg6 11. ab3 Kf8 12. Exh6 gxh6 13. Rg0
+Afe8 14. Rg2 Ef6 15. Aff1 Rg9 16. Hg4 Rfg5 17. Cf2 Kf9 18. Ra4 Ke9 19. Rf4
+Exd3 20. cxd3 He5 21. bc3 Hxg4 22. gxg4 Rc5 23. c4 Rb5 24. hg3 Rb3 25. Rf3
+Rg7 26. Hd4 Cf7 27. Hxe6 Hxe6 28. Cxe6 Rxd3 29. Exc6+ Rd8 30. Ee3 Rc8 31.
+Rf4 Add8 32. Cf0 Cd9 33. Rb2 bc6 34. Ce2 cd6 35. Rb9 Ra8 36. cd4 Ra3 37.
+Eb5 Rb3 38. d5 Rg6 39. de5 Rxg3 40. Exd8 Re3 41. Rf5 Rxg4 42. Eb5 Ree4 43.
+Cd0 Rd4 44. e6 Rge4 45. exe7 Rxd0+ 46. Axd0 Rxe2+ 47. Afe1 Rxe7 48. Rg5 Rd7
+49. Rg9+ Af9 50. Ee3 Re8 51. Eb1 Re4 52. Rb6 Re6 53. Rb3 d5 54. Re3 de5 55.
+Rg5 e4 56. Re2 Ae8 57. Rg4 hg6 58. Rgxe4 Rxe4 59. Rxe4 ih6 60. Re6
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 김경중"]
+[Black "귀마 김진현"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "61"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Ee3 ef6 6. Hf2 Ke9 7. Ch4
+Ri8 8. g4 Ee6 9. Cf4 f5 10. Cf1 g5 11. gxg5 Hxg5 12. Cxf5 Hxh3 13. Hxh3 Rf8
+14. Eh5 Rxf5 15. Exe7 Exe7 16. He3 Rh5 17. Hf4 Rh6 18. Ef3 Rh1+ 19. Ke0 cd6
+20. Hf5 Ade8 21. Hxd6 Ra5 22. Hxe6 Hxe6 23. Rxi6 Re5 24. Ra2 Hg5 25. Rf6
+Rh3 26. ab3 Rxf3 27. Rxf3 Kd9 28. Rf4 Re6 29. Rd4 Hf3 30. Ra9+ Kd8 31. Hb7#
+{White mates} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 송종일"]
+[Black "귀마 김형섭"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "153"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Ce7 4. ed3 Hf7 5. Hf2 Ri8 6. Ef3 Ra8 7. Ee3
+ef6 8. c4 He6 9. Af1 Ke9 10. Ad1 ih6 11. Rxi8 Rxi8 12. ab3 Rd8 13. Ce0 Hc7+
+14. Kd0 f5 15. Cd2 Rb8 16. Exh6 gxh6 17. Ra7 Rc8 18. Ra9 Afe8 19. Exc6 bxc6
+20. Hd4 cd6 21. Hxf5 de6 22. Hxe7 Cxe7 23. b4 Kf9 24. Afe1 Ce9 25. Ra7 Ce7
+26. Ra5 Ra8 27. Ri5 Ce9 28. Cf0 Af8 29. Hg4 hg6 30. d4 Ae8 31. Ri9 Ra5 32.
+Hi5 Rh5 33. h4 Rh6 34. g4 ef6 35. Cc0 Ha8 36. Cxf7+ Afxf7 37. Ch0 Cg9 38.
+Ri7 Cd9 39. Cxh6 gxh6 40. Ke0 Ee7 41. gf4 Ke9 42. hg4 Ea6 43. Hh3 Hc7 44.
+Ri5 He6 45. Re5 Hc7 46. g5 Hb9 47. f5 fxf5 48. gxf5 Hd8 49. f6 Aff8 50. fe6
+Eh9 51. d5 Ec9 52. d6 hg6 53. e7 Axe7 54. Rxe7+ Ae8 55. Rc7 Cf9 56. Hf4 gf6
+57. Hh5 fe6 58. Hg7 exd6 59. Hxf9 Kxf9 60. Rxc9+ Ae9 61. cd4 Hf7 62. bc4
+de6 63. d5 ef6 64. c5 fe6 65. c6 Ke8 66. Ra9 Ad9 67. Ra3 Ee7 68. Rg3 e5 69.
+Rg8+ Ke9 70. d6 Ae8 71. de6 Eb9 72. c7 ef5 73. ef6 Hd6 74. Rg9+ Af9 75. cd7
+fe5 76. Rg8 Ae8 77. Rxe8#
+{White mates} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "8강전"]
+[White "귀마 김경중"]
+[Black "귀마 이금용"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "67"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Rh0 Ri5 6. Ee3 Rd5 7. Exg6
+hxg6 8. Rh8+ Ke9 9. Rg8 He8 10. Rxg6 Ad8 11. Hd2 Kd9 12. Ed3 Ce9 13. Rg4
+ed6 14. Eg5 Hdf6 15. Rb4 cb6 16. Rxb6 axb6 17. Rxa9 Rxg5 18. Cxb6 Ee6 19.
+Ra7 Rg7 20. Cb1 Exg3 21. Rxb7 Hd7 22. Kd1 Ee6 23. Hf4 Rg5 24. Rc7 Ra5 25.
+Cxb9 Ra1+ 26. Cb1 Hef6 27. Ade1 Exc3 28. bxc3 He4 29. fe3 Cxe3 30. Ce0 Ra4
+31. Kd0 d5 32. Cf1 Hef6 33. He6 Ce7 34. Rc9+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 김경중"]
+[Black "원앙마 이시형"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "155"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Ed3 ed6 5. ab3 Hce6 6. ef3 c5 7. Ri4 g5
+8. Rb4 ih6 9. Ei3 Ke9 10. Rb8 Afe8 11. Rb9 Rxb9 12. Cxb9 ab6 13. Ra8 Kf9
+14. Rc8 Ce9 15. Rxc5 bc6 16. Rb5 Ch5 17. Rb8 Ea6 18. Cb4 Ch8 19. Rb5 h5 20.
+Ra5 Ed4 21. Cb1 Cd8 22. Cf1+ Cf8 23. c4 Ce7 24. Hd2 Ke9 25. Ke0 Ri6 26.
+Ade1 Cc8 27. bc3 Cf8 28. cxd4 Hxd4 29. c4 Hde6 30. Ea1 Kf9 31. Kd0 Ce9 32.
+Ce0 Hd8 33. Cd1 Ri9 34. cd4 Hde6 35. de4 gf5 36. g4 Ei6 37. He3 Add8 38. e5
+fxe5 39. Rxe5 Rh9 40. Ra5 hg5 41. gxg5 Rxh3 42. g6 Rxi3 43. gxg7 Hxg7 44.
+Rg5 He6 45. Rh5 Af7 46. Hf5 Cxf5 47. Rxf5 Ae8 48. Rh5 Ri4 49. Ed3 Ef8 50.
+Cf1 Rd4 51. fe3 Rb4 52. e4 Hd8 53. Eg1 de6 54. Ad1 cd6 55. Ei4 Rb7 56. Ef2
+Aee7 57. Rh8 Ke8 58. Eh5 Hc6 59. ef4 Hd4 60. fe4 Hc2+ 61. Ke1 Kd9 62. Ce2
+Rc7 63. Ad0 Ei6 64. Cd1 Ad7 65. Rh6 Eg3 66. Rg6 Cxe4 67. Rg9+ Kd8 68. Rxg3
+Ce9 69. Rb3 Rc5 70. Ee3 Afe8 71. Ke0 Kd9 72. Eg6 Cc9 73. Rb9 Rc6 74. He4
+Aed8 75. Rb7 A7e8 76. Cxe6 Rc4 77. Hxd6 Rc5 78. He4+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 이성준"]
+[Black "원앙마 차진학"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "91"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hg7 2. Hc2 Ce7 3. Ce2 Hc7 4. Ef3 ef6 5. ih3 Hge6 6. ed3 Cd7 7. Ra4
+Ri7 8. Rh4 ab6 9. Ea3 Ke9 10. Rh7 Rxh7 11. Cxh7 gh6 12. He3 Ra5 13. Ch4
+Afe8 14. Ch1 hg6 15. Cd1 c5 16. Ri4 Cf9 17. Ke0 Add8 18. Afe1 Ra8 19. Rh4
+Ea6 20. Hi1 Cd9 21. Hg2 g5 22. g4 gf5 23. Cd6 Exc3+ 24. bxc3 Rxa3 25. Cxf6
+Hd5 26. Hxd5 cxd5 27. Rh5 de5 28. Rh9 Hc7 29. Ei1 Ra4 30. h4 e4 31. Cf1 ed4
+32. Kf0 dxd3 33. cxd3 He6 34. He3 Hg7 35. Rh8 fe5 36. Rg8 e4 37. Rxg7 exe3
+38. dxe3 Ra3 39. ef3 Add7 40. Rg8 Ra5 41. g5 ih6 42. Eg4 Ra3 43. gh5 Rxf3
+44. Exe7 Rh3 45. Ec4+ Kf9 46. Ef6+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 심추섭"]
+[Black "원앙마 김기원"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "97"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Hg7 3. Ce2 Che7 4. Ef3 ef6 5. ih3 Hge6 6. Hf2 Cd7 7. Af1
+Ke9 8. Kf0 Afe8 9. ed3 Add8 10. Ee3 c5 11. Cg2 Cd9 12. Exg6+ fxg6 13. Cxg6
+Ca7 14. Rc0 Ci7 15. Rh0 Ca7 16. Ce2 Ce7 17. Ra0 Ri7 18. Ade1 cd5 19. He3
+Rf7 20. Cg0 d4 21. Cxg9 Cg7 22. Ri0 Rf6 23. Ri4 dxd3 24. cxd3 Rf8 25. Rg4
+Cf9 26. Rc0 Ra7 27. d4 ab6 28. d5 Rg8 29. d6 Rxg9 30. dxe6 Exe6 31. Rgc4
+Af7 32. Hd5+ He8 33. Rc8 Ad7 34. Hxb6 Rb7 35. R8c6 Cg0 36. R0c4 Rg6 37. Re4
+Ra7 38. Hc8+ Kd9 39. Hxa7 Rg5 40. Rexe6 Ra5 41. Ra6 Rb5 42. Rab6 Ra5 43.
+Hc6 Ra0+ 44. Ce0 Cg8 45. Hb8+ Kd8 46. Rbc6 Hf6 47. Hxd7 Ae8 48. Rc8+ Kxd7
+49. Rcxe8+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "명인 결정전 1국"]
+[White "귀마 황문수"]
+[Black "원앙마 이양근"]
+[Result "1-0"]
+[TimeControl "각 20분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "113"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Hc7 4. ab3 ef6 5. ef3 Hge6 6. Ee3 c5 7. Ed3 f5
+8. g4 Ri7 9. Cb4 Cd7 10. Cb1 Af8 11. Cf1 g5 12. gxg5 fxg5 13. Hh4 gh5 14.
+Hf5 Ce5 15. f4 hg5 16. fe4 Ca5 17. Hd6 Kd8 18. Cc1 Rb9 19. Cxc5 Rb6 20. Ci5
+ixi5 21. Exb6 Ca9 22. Rb0 axb6 23. e5 Ade8 24. ba3 Caf9 25. Rxb6 Rf7 26.
+Ke0 Rf3 27. Hc4 Hg7 28. Rg0 ih5 29. Rc6 Ch7 30. hg3 Rf7 31. Afe1 Kd9 32.
+Hd2 Ea6 33. ab3 Cc9 34. Rh6 Hh9 35. g4 gxg4 36. Rxg4 Hi7 37. Hd6 Rd7 38.
+Ri4 Hh9 39. Exh5 Rg7 40. Ri0 Ce9 41. H2c4 Cd7 42. Ee3 Ca7 43. Add1 Ca0 44.
+Af0 Rg2 45. Ade1 Cb9 46. Hxe8 Axe8 47. Rxh9 Cf9 48. Rh7 Hb9 49. Ri8 Hd8 50.
+Rxe8+ Kxe8 51. Eg6+ Kd9 52. Rd7 Ca8 53. Exd8 Cc9 54. Ra7 Rg8 55. Exa6 Rf8
+56. Rg7 Ca0 57. Exc9
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "맞상 허석조"]
+[Black "맞상 최성우"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "105"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. Hd2 Hf7 2. Ce2 Ce7 3. ab3 ih6 4. ef3 Hc7 5. Ee3 ed6 6. Hg2 Ef6 7. Cf2
+Ee6 8. Ad1 Cd7 9. Ra4 Rb9 10. Ed3 Exd3 11. cxd3 Cxd3 12. Rg4 g5 13. Rf4 Af8
+14. Exc6 dxc6 15. g4 gxg4 16. Rxg4 cd6 17. Rg8 Cd8 18. Rh0 Ke9 19. Rg4 Rb5
+20. Cd0 Hd5 21. Ke0 Ade8 22. Afe1 Hf6 23. Rc4 Rg5 24. Rg0 Rig9 25. Hi1
+Rxg0+ 26. Hxg0 Rg1 27. ih3 Kf9 28. f4 Ce9 29. f5 Hh5 30. h4 Exh4 31. Rxh4
+de6 32. He4 e5 33. fxe5 Cxe5 34. Hc5 ab6 35. He6 Ce7 36. Hd4 Hf6 37. Hf3
+Rg4 38. Rh3 Hh5 39. Hgh2 Rg3 40. Rh4 Rg2 41. Add2 Rg6 42. Cf0 Re6 43. Hd4
+Re5 44. Hhf3 Rc5 45. Hf5 Rc6 46. Hxe7 Axe7 47. Ri4 Re6 48. Hg5 Re3 49. Hxf7
+Ke8 50. Hg5 Hg3 51. Ri3 Hf5 52. Rf3 Rxe2 53. Adxe2
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "명인 결정전 3국"]
+[White "양귀마 황문수"]
+[Black "원앙마 이양근"]
+[Result "1-0"]
+[TimeControl "각 20분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "87"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A H E R
+white to play
+--------------}
+1. Hf2 Hg7 2. Hd1 Ce7 3. Ee2 ef6 4. ih3 ab6 5. Ed3 Ece6 6. gf3 Exc3 7. Hxc3
+c5 8. Exf6 He6 9. He4 Hbc7 10. Ke0 cd5 11. Eh9 d4 12. Hg3 Cd7 13. Afe1 Af8
+14. Hf5 Ce5 15. Cg2 Cf9 16. Cxg9 Ri7 17. Hh4 gh6 18. hg3 Hb5 19. Cg0 Rc7
+20. Hd2 Hc3 21. Hg2 Cc9 22. Ef6 Cg9 23. gh3 Ce7 24. Add1 b5 25. Ri4 Cc9 26.
+ab3 Rxa0+ 27. Cxa0 Hd5 28. Cf0 Cf9 29. e4 d3 30. e5 dxd2 31. exe6 d2xe1+
+32. Axe1 Ce9 33. Rd4 bc5 34. Eg5+ Af7 35. Ce2+ Kf8 36. Efd3 Rc6 37. fe3+
+Ae8 38. Hf4+ Cf7 39. Hxd5 cxd5 40. Rxd5 Cxe6 41. Rf5 hg6 42. hg3 Ce9 43.
+Rxf7+ Kxf7 44. Ef6#
+{White mates} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "원앙마 이백희"]
+[Black "귀마 김민수"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "137"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 Ed6 4. ab3 Hd7 5. b4 cb6 6. bc4 Rc9 7. Hc2 Ad8
+8. ed3 Kd9 9. Ece3 gf6 10. Ke0 Afe8 11. Ade1 Ce9 12. Aff1 ih6 13. Ei3 Ei6
+14. Cd2 h5 15. Ri2 hg5 16. cd4 Cbe7 17. d5 Ea8 18. Ra4 Rc8 19. Cf0 a5 20.
+Rc4 bc6 21. Cd0 gf5 22. Rg4 Cc7 23. Hb0 ab5 24. Hd1 c5 25. dxc5 bxc5 26.
+Rb4 cd5 27. g4 Cce7 28. Hb2 de5 29. c4 Ed6 30. d4 Rb8 31. Rxb8 Hxb8 32. c5
+Eb3 33. Cg0 Exe1 34. Axe1 Cb9 35. Hc4 ed6 36. Ha5 fe6 37. h4 Ci7 38. c6
+dxc6 39. Hxc6 Hxc6 40. Exc6 Ef4 41. Eg6 Exc6 42. Ri3 Cg9 43. Exd8 Axd8 44.
+Rc3 ed6 45. Cd0 He8 46. He3 Ri8 47. Hc4 Cc9 48. Rb3 Cf9 49. Rb7 Ci9 50. Rf7
+Ke9 51. Cxd6 Cd7 52. Ha5 Ea9 53. Hb7 Kd9 54. Rf9+ Ce9 55. Hxa9 Ri0+ 56. Af0
+Ri6 57. Hb7 Rxd6 58. Rxe9+ Kxe9 59. Hxd6 Kd9 60. Hb5 Cd3 61. Hc7+ Ke9 62.
+Hxe8 Axe8 63. h5 Kd9 64. hg5 fxg5 65. gxg5 Cd7 66. Ke1 Kd8 67. Ce0 Cd9 68.
+Cxe5 Cxd4 69. Ke0
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "원앙마 이백희"]
+[Black "귀마 허석조"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "101"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Hg2 Hf7 5. Cf2 Ri5 6. g4 ed6 7. i4 Ri8
+8. Ri3 Ee6 9. ed3 Rb9 10. Ra4 Rb5 11. Rf4 Af8 12. Ke0 Rh5 13. Ee3 Rh1 14.
+He1 ab6 15. ih4 Rxi3 16. Hxi3 Rh3 17. Hg2 Rg3 18. Afe1 c5 19. d4 Exh4 20.
+cd3 g5 21. gxh4 He6 22. Cxe6 dxe6 23. hg4 gxg4 24. Rxg4 Rxg4 25. Hxg4 Hg5
+26. Ei3 Af7 27. Hf4 Ch4 28. He2 Ch8 29. Cb2 b5 30. Cg2 Hi4 31. bc3 Cd8 32.
+Hh2 Hg5 33. Hg3 Hh3 34. Hf5 hi6 35. Hxe7 Exe7 36. Ci2 ih6 37. Ce2 ef6 38.
+Ec6+ Kf9 39. de3 Ade8 40. cd3 Ch8 41. Hf3 Cd8 42. Add1 Cf8 43. Add2 Cd8 44.
+Cb2 hg6 45. Cb6 Hi5 46. Hh4 Eg4 47. Exg6 fxg6 48. Hxg6 Hh3 49. He5 Ee7 50.
+Cf6+ Ke9 51. Af1
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "도전자 결정전 3국"]
+[White "원앙마 이양근"]
+[Black "귀마 이성준"]
+[Result "1-0"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "115"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Ed6 5. Hc2 Hd7 6. Ke0 Ad8 7. Ade1
+Kd9 8. Ege3 Ci7 9. Rg0 ih6 10. Exc6 bxc6 11. Hge3 gf6 12. g4 Cif7 13. c4
+Ri5 14. d4 c5 15. cxc5 Rxc5 16. d5 Rc3 17. Cd2 Cc7 18. Rb0 Rb9 19. gf4 hg6
+20. f5 He8 21. fxf6 gxf6 22. Ha1 Ce7 23. Rg3 Ei6 24. h4 Ce9 25. Aff1 Cf7
+26. Rxb9+ Cxb9 27. Cf0 Ea8 28. Rg4 Ce9 29. Ra4 Ec5 30. dxc5 Rxc5 31. Hac2
+Hd6 32. ab3 e5 33. Ea3 e4 34. Cc0 Rb5 35. b4 Rg5 36. Hc4 Hxc4 37. bxc4 Rg3
+38. cd4 e3 39. Ce4 Rg5 40. Ed5 Hb6 41. Ra5 ed3 42. Rb5 Hxd5 43. Rxd5 Rg2
+44. Hb4 Ef8 45. Hxd3 Cxf1 46. Rd6 Cf7 47. Rxf6 Afe8 48. Cf0 Cf9 49. Rb6 Rh2
+50. hg4 Rg2 51. gh4 Ce7 52. Hb4 Rb2 53. Hd5 Rxb6 54. Hxb6 Add7 55. Cd0 Ke9
+56. d5 Cd9 57. de5 Kf9 58. Cf0+
+{Black resigns} 1-0
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 박수영"]
+[Black "귀마 이금용"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hd2 Hg7 3. Cc2 Ce7 4. Ci2 ed6+ 5. Ee2 Ci7 6. ih3 Ee6 7. Ei3
+Hd7 8. Hf1 Cbe7 9. gf3 Hh9 10. Rg0 Hf8 11. He4 Ad8 12. Ke0 Ca7 13. Rc0 Cg7
+14. Ri0 ab6 15. Afe1 d5 16. cd3 Cc7 17. Rb0 Ke9 18. Cf2 Afe8 19. Add1 de5
+20. Hc3 c5 21. b4 ed5 22. Hb1 Cf7 23. Cf0 Cb7 24. Ra0 Rxa0+ 25. Cxa0 h5 26.
+Ha3 g5 27. f4 Ch7 28. hg3 Cc7 29. gf3 Cc0 30. Ri1 Cc9 31. Cf0 Rh9 32. f5 g4
+33. Rh1 Cf9 34. f4 gxf4 35. Cxf4 h4 36. Exh4 Rxh4 37. Rxh4 Exh4 38. Hg3 Cb7
+39. bc4 bc6 40. cxc5 cxc5 41. Hh5 de5 42. fxe5 Hxe5 43. e4 Hd7 44. Ca4 Ee6
+45. Cii4 Hf6 46. Hxf6 Eg3+ 47. Ef1 Cxf6 48. Add2 Add7 49. Ca2 Ce7 50. Ce2
+Cf9 51. Ca4 Cd9 52. d4 cd5 53. Ca0 dxd4 54. exd4 Cxd4 55. Hb5 Cd9 56. Cf0
+He6 57. Kd0 Ed6 58. Cb2 Eb3 59. Hc3 Hc5 60. Cf2 Cd3+ 61. Ae2 Ha4 62. Ke0
+Hxc3
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 최완규"]
+[Black "귀마 장성주"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Hg7 4. ef3+ Cbe7 5. Ee3 Ed6 6. Exc6 Rc9 7.
+Rxa6 Exb3 8. Hd2 Hc5 9. Rb6 ed6 10. cxb3 Rxc6 11. Rxc6 dxc6 12. Ci2 Ee6+
+13. Cbe2 Rg9 14. ih3 Rg8 15. Cf2 Ke9 16. Ri4 Rb8 17. Rb4 Rd8 18. Rc4 Rd5
+19. Ad1 Re5 20. Ch2 Ade8 21. Ke0 Ri5 22. Ade1 Ri2 23. Kd0 Cf7 24. fe3 Cd9+
+25. Ke0 Aff8 26. gf3 g5 27. h4 h5 28. hxh5 Hxh5 29. Rh4 Hg7 30. Ed3 Hi6 31.
+Rc4 Cg9 32. Hf4 Cg0+ 33. Af1 Rxh2 34. Hxe6 Hxe6 35. Cxe6 Rh0 36. Rxc6 Kf9
+37. Ce2 Ci0+ 38. Aef0 Rh6+ 39. Ke1 Rxc6 40. Af2 Rc1#
+{Black mates} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 주경덕"]
+[Black "귀마 송종일"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "90"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 ed6 5. Ee3 Hd7 6. Hd2 Ra8 7. Cb4
+Ke9 8. Cb1 Rii8 9. Cg1 Ee6 10. Exg6 hxg6 11. He3 Hh9 12. Cxg6 Exg3 13. fxg3
+Rig8 14. Cg1 Rxg3 15. Ca1 Rf8 16. cd3 ab6 17. Ke0 Hg7 18. Ade1 Hh5 19. Cf1
+Rxi3 20. Rxi3 Hxi3 21. Ra7 Afe8 22. Hf5 Rxf5 23. Rxb7 Ra5 24. Rxb9 Ra0 25.
+Kd0 Rxb0+ 26. Kd1 Ra0 27. Ce0 Hg2 28. bc3 d5 29. Hf3 c5 30. Hg5 de5 31. Hf3
+cd5 32. d4 Ra3 33. dxd5 exd5 34. Hd2 Rxc3 35. Ra9 d4 36. Ra4 He3+ 37. Ce2
+d3 38. Hb1 Rc5 39. Ri4 Af9 40. Af2 Ade8 41. Ke1 Hf5 42. Rf4 de3 43. Ce6 Hg7
+44. Rf6 Rc6 45. Hd2 Hxe6
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 강철원"]
+[Black "귀마 이금용"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "88"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Rh0 Rd5 9. Afe1 Ad8 10. Exg6 hxg6 11. Rh8+ Kd9 12. Rg8 Ce5 13. He3
+Ra5 14. Rxa5 axa5 15. Hec4 Ce9 16. Ce7 Ade8 17. Cc7 Exc3+ 18. bxc3 He6 19.
+Rxg6 d5 20. He3 Hdf8 21. Rh6 c5 22. Hxd5 cxd5 23. Cc2 ab5 24. Cf2 Ra0 25.
+Ee2 Ra3 26. cb3 Ra5 27. Hc4 Ra4 28. Cd2+ Ad8 29. He3 bc5 30. Hf5 Ae8 31.
+Kf0 Aed7 32. Cb4 Cc9 33. Exc5 dxc5 34. Cb0 Cf9 35. He3 Ed6 36. bc3 Ra3 37.
+Hd1 Exf3 38. gxf3 Rxc3 39. Rh3 Hg5 40. Cxd8 Rxf3+ 41. Rxf3 Hxf3 42. Cd6+
+Ke9 43. Ce0+ Ce7 44. Ce2 Hd4+
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 장성주"]
+[Black "귀마 이성준"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "117"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 ab6 2. Hd2 Hd7 3. Ce2 Hg7 4. Ed3 Che7 5. ef3 Ri8 6. Ee3 ih6 7. Rxi8+
+Hxi8 8. Hg2 Ra5 9. Ad1 Hg7 10. Cf2 Ed6 11. Cd0 Ei6 12. Cg0 Rf5 13. Cc2 e5
+14. Exb6 cxb6 15. ab3 Exf3 16. gxf3 e4 17. Hxe4 Rxf3 18. Ra8+ Ke9 19. cd3
+He6 20. Hc3 Cxb3 21. Hd5 Cbxe3 22. dxe3 Rf7 23. Hxe7 Rxe7 24. Ce0 Afe8 25.
+Ch2 Rg7 26. Cg0 Hg5 27. h4 Eg9 28. Ra4 Ri7 29. Ce2 Hc5 30. Rc4 bc6 31. Cd0
+Ra7 32. hg4 Hge6 33. e4 Ra4 34. Rxa4 Hxa4 35. e5 Hf8 36. Cg0 Hc3 37. Cee0
+cd6 38. gf4 de6 39. ef5 Add8 40. He3 Ei6 41. Hf1 Add7 42. fg4 gf6 43. fg5
+hg6 44. gh5 Ade7 45. hi5 Eg9 46. gh4 Hh7 47. i6 Hg5 48. Hh2 Exi6 49. h5 Hh3
+50. Ad2 Hd5 51. Ce2 Hdf4 52. Cc2 Hxh5 53. Hf3 H5f4 54. Ce0 Hg5 55. Hd4 Eg3
+56. Af1 ed6 57. Hb5 fe6 58. Ha7 Hf3+ 59. Af2
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 심추섭"]
+[Black "귀마 조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "104"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Rh0 Ee6 7. Ra4
+Ad8 8. Rg4 Kd9 9. Hd2 Afe8 10. Exg6 hxg6 11. Rxg6 Ce9 12. c4 d5 13. g4 Ed6
+14. f4 c5 15. cxc5 dxc5 16. Rh3 ab6 17. Ci2 Rh9 18. Rxh9 Hxh9 19. Rh6 Exb3
+20. Kf1 Hhf8 21. Afe1 Ra0 22. Ed3 Ra3 23. fe4 Eb8 24. Eg5 He6 25. Cbe2 Hxg5
+26. gxg5 Exd0 27. Axd0 Rg3 28. Rh2 Rxg5 29. Hf4 Cf7+ 30. Ke1 Rg1+ 31. Ke0
+Rg0+ 32. Ke1 Rf0+ 33. Kd1 Ed5 34. Ae1 Ra0 35. ed4 Eb8 36. Rh3 Hf8 37. Rb3
+b5 38. dc4 Ra8 39. cxc5 bxc5 40. Rb7 Cf9 41. Rb4 Cd7+ 42. Hb3 Ed5+ 43. Ad2
+Eb8+ 44. Ke1 Cb9 45. Re4 Cxb3 46. Rb4 Cb5 47. Hd3 Cb9 48. Rg4 Ra1+ 49. Ke0
+cd5 50. Hb4 Cxd2 51. Hc6 Ee6 52. Ci8 Ec3+
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "8강전"]
+[White "귀마 송종일"]
+[Black "귀마 이성준"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "80"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Hd2 ed6 6. Ke0 Ee6 7. Ri1
+Ri5 8. Ee3 cb6 9. Ed3 Rc5 10. Rc1 Cxb3 11. c4 Rd5 12. Hxb3 Rxd3 13. Hc5 Rd2
+14. Afe1 Rxb2 15. cd4 Ra7 16. Hxd7 Rxd7 17. Rc9 Rb7 18. Rac0 Ke9 19. R9c7
+Rxc7 20. Rxc7 Afe8 21. Rb7 Rb4 22. de4 d5 23. Rxb9 Cxe4 24. g4 bc6 25. Ra9
+Ca4 26. Cxe6+ Hxe6 27. Rxa6 cb6 28. Ra5 Cxg4 29. Rxd5 Cg9 30. Hf0 Add8 31.
+He2 Cd9 32. Re5 gf6 33. ih3 Rc4 34. Ri5 Rc5 35. Ri8 Hd4 36. Hg1 Hxf3 37.
+Hxf3 Rc3 38. He5 Rxe3 39. Hg4 Rxh3 40. Hxf6 hg6
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "8강전"]
+[White "귀마 박강평"]
+[Black "귀마 조용희"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "76"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ad1
+Ad8 8. Ed3 Ri5 9. Af1 Kd9 10. Ra1 Afe8 11. Ria0 Ra5 12. Rxa5 axa5 13. Kd0
+d5 14. c4 a4 15. g4 Ce9 16. Hf4 c5 17. cxc5 dxc5 18. ih3 Ed6 19. hg3 Exb3
+20. Hxb3 Ec3 21. Ra1 a3 22. Cb4 axb3 23. Rb1 Ra3 24. Exg6 hxg6 25. Hxg6 c4
+26. Eg5 He6 27. fe3 Hxg5 28. gxg5 Cxe3 29. gf5 Ce9 30. Hf4 cxb4 31. Hd5
+Exf5 32. Rc1 Cf7 33. g4 Ra2 34. Ade1 Ra0+ 35. Kd1 Ra5 36. Hxb4 Rb5 37. Rc4
+Rd5+ 38. Ad2 Rxd2#
+{Black mates} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "4강전"]
+[White "귀마 조용희"]
+[Black "귀마 이성준"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "94"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hg7 3. Ce2 Ce7 4. ef3 Hd7 5. Ee3 ed6 6. Hd2 Ee6 7. Ke0
+Ri5 8. Ri1 cb6 9. Ed3 Rc5 10. Rc0 Ra8 11. Afe1 Ke9 12. ih3 Ri8 13. Rxi8
+Hxi8 14. c4 Ri5 15. hi3 Hg7 16. Add1 Afe8 17. Ra0 Ci7 18. Cb4 Kf9 19. Cf4
+Cbf7 20. ih3 Rd5 21. Exb6 axb6 22. Ra9 Ee7 23. Cf0 Ri5 24. He4 dc6 25. Cd0
+Hb8 26. g4 Ci4 27. c5 Cxe4 28. cxc6 bxc6 29. f4 Cxg4 30. fxg4 gf6 31. Exc6
+Rb5 32. Cxe7 Axe7 33. Cxd9 Hxc6 34. Cd0+ Kf8 35. Rc9 He5 36. Rg9 Rxb3 37.
+Rxg7 Rxh3 38. gf4 Hg6 39. fe4 Eg3 40. Af1 Exd1 41. Ae1 Rg3 42. Hh0 Rg4 43.
+Axd1 Rxe4+ 44. Ae1 Hh4 45. Rh7 Hf3 46. Cf2 Hd2+ 47. Kf0 Rg4
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 채규문"]
+[Black "원앙마 이양근"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ef6 4. Ef3 Hg7 5. ih3 Hce6 6. ed3 Ra7 7. Hf2
+g5 8. h4 f5 9. Ee3 c5 10. Af1 Cf7 11. hg4 gxg4 12. gxg4 Cxf3 13. Hh3 Cf7
+14. Rg0 Ri7 15. Ch4 Ad8 16. Ch0 Cd9 17. Cf0 ih6 18. gf4 fxf4 19. Hxf4 Hxf4
+20. Cxf4 Ege6 21. Cf0 Eh4 22. Ce4 Exf1 23. Rg1 Eh4 24. Ke0 Ece6 25. He1 Ke9
+26. Hf3 Afe8 27. Ae1 h5 28. Cd0 Cg9 29. Rh1 Eg3+ 30. Af1 Exf1 31. Rxf1 Ri1
+32. Ke1 Rxf1+ 33. Kxf1 hg5 34. He5 cd5 35. Cxd5 gf5 36. Cxf5 Hxf5 37. Hc6
+Rc7 38. Hxe7 Rxe7 39. Ra2 Rxe4 40. Rf2 Hxe3+ 41. dxe3 Rxe3
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "32강전"]
+[White "귀마 고장진"]
+[Black "원앙마 장배형"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "155"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hc7 2. Hg2 Ce7 3. Ce2 Hg7 4. Hd2 ed6 5. Ed3 Hce6 6. gf3 g5 7. c4 Cf7
+8. ab3 Rh9 9. h4 Ke9 10. Ad1 Ade8 11. Kd0 Aff8 12. Afe1 Cf9 13. Ce0 ih6 14.
+Ch0 Ei6 15. Ri1 h5 16. Ei3 Rg9 17. hxh5 gxh5 18. Cc0 Rh9 19. Rh1 Ci9 20. e4
+Cg9 21. Hh0 Ch7 22. Ch2 Ri9 23. e5 Hd8 24. Hhf1 h4 25. Ef5 Hb9 26. Ri1 Ca7
+27. Ca2 de6 28. exe6 Exe6 29. Cxc6 Hxf5 30. Rxi6 Rxi6 31. Cxi6 Hg7 32. Cc6
+Hd8 33. Cf6 Cd9 34. Eg5 Rb9 35. Exe8 Axe8 36. Cxa6 Rb6 37. Ce2 Ch7 38. Ce0
+Ce7 39. Ra3 Rb5 40. Ca2 hg4 41. Cb0 Ri5 42. Ce2 Ri3 43. Cf0 Eh4 44. Ra7
+Hde6 45. He3 Rxf3 46. Hd5 Ce5 47. Hc7 Hxc7 48. Rxc7 He6 49. Rc6 g3 50. cd4
+Ce7 51. Rc4 Rf4 52. Ce0 Rxd4 53. bc3 Rxc4 54. cxc4 Hf4 55. cd4 Hg2 56. He4
+gf3 57. Cd2 Ef7 58. dc4 fe3 59. Hd6 ed3 60. Hc8+ Kf9 61. Cd6 Hh4 62. c5 Hf5
+63. Ce5 Ei5 64. cd5 He3 65. Hb6 dc3 66. Ce2 Ef3 67. Cd4 Hf5 68. de5 Hg7 69.
+Ke0 cd3 70. Kd0 Ce9 71. ed5 Hf5 72. de5 Cxe5 73. Ce0 Ce9 74. Ce5 Ei5 75.
+Hc8 Ad8 76. Ha7 Eg2 77. Hc6 Exd4 78. Hxd8+
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "귀마 서준호"]
+[Black "원앙마 이양근"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "130"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ed6 4. ab3 He6 5. Ri4 Hc7 6. Ed3 c5 7. ef3 Ri7
+8. Hd2 d5 9. Rb4 Cd7 10. Rb8+ Ad8 11. Rc8 ih6 12. Ei3 Kd9 13. Ad1 d4 14.
+Eg1 Ce5 15. Rb8 Ce8 16. Rb4 cb5 17. Rxb5 Hxb5 18. Cxb5 Ce5 19. Cb0 Ce7 20.
+He3 Ri5 21. Ci0 Rh5 22. Cd0 Afe8 23. Ke0 Ke9 24. Ade1 Cd9 25. Aff1 ab6 26.
+Rc0 Ei6 27. c4 dxc4 28. Rxc4 Rc5 29. Rxc5 Hxc5 30. Hf5 gf6 31. Hxh6 Cg9 32.
+Hg8+ Ef8 33. Hxf6 Cxg1 34. fe3 Cg9 35. Eg6 He6 36. e4 Ra5 37. Hc4 Rg5 38.
+Cg0 Rf5 39. Hxe8 Axe8 40. Hd2 Hc7 41. Cd0 Ee6 42. Ed4 Cd9 43. Eb1 Cf9 44.
+Ce5 bc6 45. gf3 Ei6 46. Cf0 c5 47. Ce2 Rh5 48. hi3 Ef8 49. ef4 cd5 50. Hc4
+dc5 51. He3 Eh8 52. bc3 Hd5 53. Hxd5 cxd5 54. Ee3 Rh6 55. Cc0 Rb6 56. Ch0
+Ee6 57. c4 Cd9 58. ih3 Ra6 59. Kf0 Ec3 60. cb4 Ri6 61. Cd0 Rh6 62. hg3 Cd3
+63. bc4 Ei6 64. Aff2 Exg3 65. fxg3 Cxg3
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "8강전"]
+[White "귀마 이백희"]
+[Black "원앙마 이양근"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "96"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ef6 4. ih3 Hg7 5. ed3 Hce6 6. Ri4 g5 7. Rb4
+Ra7 8. Rb8+ Ad8 9. Rc8 Rc7 10. Rxc7 Hxc7 11. Ra4 Hce6 12. Ef3 f5 13. Rc4
+ab6 14. Ea3 Ea6 15. Exc6 bxc6 16. Rxc6 Exc3 17. Rxc3 Kf8 18. Rc8 Afe8 19.
+Hb4 i5 20. Ch6 ih5 21. Cd6 Ce9 22. Cd1 Ri6 23. Ec5 Hf4 24. gf3 Hxh3 25. fg3
+Re6 26. de3 Rxe3 27. gxh3 Cf7 28. Hc6 Add7 29. Hi1 Re6 30. Cf1 Cf4 31. Hg2
+Cf6 32. Ke0 Re4 33. Ade1 He6 34. Ha5 Hd4 35. bc3 Hxe2 36. Exe2 Ra4 37. Rc5
+Ra0+ 38. Ad0 Cxe2 39. He3 Ce5+ 40. Hc4 Ce9+ 41. Ae1 Ra2 42. cd3 Rh2 43. de3
+Rxh3 44. Af0 Cxe3 45. Hxe3 Rxe3+ 46. Ade1 Re5 47. Rc6 Ee6 48. Rxe6 Rxe6
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "4강전"]
+[White "귀마 김경중"]
+[Black "원앙마 이양근"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "121"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. Hd2 Hc7 5. Ed3 b5 6. c4 ef6 7. gf3 Hge6
+8. Ad1 Rh9 9. h4 Cd7 10. Ei3 c5 11. cxc5 bxc5 12. Af1 Af8 13. ab3 Ea6 14.
+Cb6 Rb9 15. Cb0 Ra9 16. Ra1 Cf9 17. Ke0 g5 18. Ch0 Ri9 19. Afe1 f5 20. Ci2
+Ca7 21. Exf5 ih6 22. Rc1 gxf5 23. Cxh6 Ke9 24. Cd6 He8 25. Cg6 H8c7 26. Cg0
+Ade8 27. Cc0 Ce7 28. hg4 Ec9 29. Cf2 Rxi0+ 30. Cxi0 Ra4 31. Hi3 fe5 32. gf4
+ed5 33. fe4 Hg5 34. Kd0 Hce6 35. Ea1 Ra6 36. Hg4 Cd9 37. Ca0 Rd6 38. Cg0
+Hh7 39. b4 Ea6 40. bc4 cxc4 41. Rxc4 Ed8 42. Rb4 Ra6 43. Ed3 Rc6 44. Ke0 d4
+45. exd4 Hxd4 46. Kf0 Ri6 47. Ce0 Ee6 48. Rc4 Rg6 49. Hi3 Hi5 50. Hb3 Hxf3
+51. exf3 Cxd3 52. Ri4 Hh7 53. Hc5 Cxi3 54. Rxi3 Ec3 55. Rh3 Hf6 56. Rg3
+Rxg3 57. fxg3 Hh5 58. gf3 Hi3 59. Ce2 Hh1+ 60. Ke0 Hxf2+ 61. Axf2
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "도전자 결정전 2국"]
+[White "귀마 이성준"]
+[Black "원앙마 이양근"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "124"]
+[FEN "rhea1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. Ef3 Hg7 5. Ra4 ed6 6. Rd4 Hce6 7. Rd1
+Hf4 8. g4 Hd5 9. Ea3 ab6 10. Ri1 Ece6 11. cd3 Cf7 12. ih3 Rxi1+ 13. Hxi1
+Ra5 14. Ke0 Rc5 15. Hd4 Hf6 16. Hxe6 dxe6 17. h4 g5 18. Cxh6 gxg4 19. Rg1
+Rg5 20. Ch1 g3 21. Cd1 Hi6 22. Ade1 gxf3 23. exf3 Cxf3 24. h5 Hxh5 25. Rxg5
+Hxg5 26. bc3 Af8 27. Cg1 Cf9 28. Hg2 Hh7 29. Ed1 ed6 30. Cg8+ Ke9 31. Kd0
+Hg3 32. Ce0 Ade8 33. Cg0 Hh5 34. Ce0 H7f6 35. Cgg0 Ee6 36. Ce2 Cc9 37. cb3
+Cg9 38. Ad2 Cd9 39. bc3 Exc3 40. dxc3 Cxd2+ 41. Ke0 Cd9 42. Ae1 Hd5 43. cb3
+de6 44. Cd0 Hdf6 45. Hh4 cd6 46. Ch0 Hg7 47. Hg6 Cg9 48. Hf4 e5 49. Cb0 bc6
+50. Cf0 Hg4 51. Kd0 e4 52. Hg2 d5 53. Ea3 cd6 54. Cd2 Hf5 55. Hh0 d4 56.
+bc3 Cd9 57. Hf1 e3 58. Ce0 ef3 59. Cf0 de4+ 60. Ed1 e3 61. Cxe3 Hfxe3 62.
+Hxe3 Hxe3
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "16강전"]
+[White "원앙마 장배형"]
+[Black "귀마 박강평"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "106"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. Hg2 ab6 2. Hc2 Hc7 3. Che2 Ce7 4. ef3 Hf7 5. Hge3 Ef6 6. Cd2 ih6 7. Ke0
+Ri5 8. c4 Rb5 9. cb4 Rh5 10. Ra1 b5 11. bc4 bc5 12. Rb1 Rb9 13. ab3 ed6 14.
+cd4 Ke9 15. Afe1 Ade8 16. Add1 Rh1 17. f4 g5 18. Cf0 de6 19. b4 cd6 20. Ea3
+Rg1 21. g4 gxg4 22. fxg4 Ea6 23. gf4 Cb7 24. Ra1 Che7 25. Cc0 cb5 26. Cxc7
+Ed3 27. Ra2 Exd4 28. Rb2 bxb4 29. Rxb4 Rc9 30. Rc4 Cg7 31. Hxd4 Rxc7 32.
+Rxc7 Cxc7 33. Hxe6 dxe6 34. Cxe6+ Kd9 35. Ce2 Cg7 36. Ed5 Ce7 37. Ea7 Cg7
+38. Hd5 Rg5 39. Hb4 Cxg0 40. Hxd3 Ca0 41. Af0 Rd5 42. Hb2 Ca9 43. ih3 Hd6
+44. Ri7 Af7 45. Hc4 Rc5 46. He3 A9e8 47. Hf5 Hxf5 48. fxf5 Ra5 49. Ri4 Rxa7
+50. f6 Ch7 51. fxf7 Rxf7 52. Rd4+ Rd7 53. Rxd7+ Axd7
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2005년"]
+[Round "도전자 결정전 1국"]
+[White "원앙마 이양근"]
+[Black "귀마 이성준"]
+[Result "0-1"]
+[TimeControl "각 15분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "132"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ih3 Hg7 2. Hg2 Ce7 3. Ce2 ab6 4. ed3 Hd7 5. Hc2 Ed6 6. Ke0 Ad8 7. Ade1
+Kd9 8. Ege3 Ci7 9. Rg0 ih6 10. Exc6 bxc6 11. Hge3 gf6 12. g4 Cif7 13. c4
+Ri5 14. d4 c5 15. g5 cxc4 16. dxc4 Ei6 17. h4 Ra5 18. gh5 Hxh5 19. hxh5
+Rixh5 20. Cd2 Ce7 21. Aff1 Af8 22. Cf0 Cf9 23. Cd0 Afe8 24. cd4 Rab5 25.
+Ra1 hg6 26. d5 Ef4 27. Hd4 Rb4 28. Rd1 Ea8 29. ab3 Rb9 30. bc3 Ce4 31. Hb3
+Rb4 32. Ri0 e5 33. d6 Exd6 34. Rxd6 Ce7 35. Hc4 e4 36. Ri9 Rh3 37. Rc6 Ke9
+38. He5 Hxe5 39. Cxe5 e3 40. Rc9+ Add9 41. Ri7 fe6 42. Rxe7 Axe7 43. Cxe7
+Ke8 44. Rc7 ef6 45. Ea3 Cd7 46. Rc9 Rh9 47. Rc5 Rh7 48. Ce2+ exe2 49. Axe2
+Re7 50. Aee1 Ei6 51. Hc1 Rf4 52. He2 Rf5 53. Rc8+ Ad8 54. cd3 Rf3 55. Rc3
+Cd9 56. Cxd8 Kxd8 57. Rc8+ Kd7 58. Ec6 Rxd3 59. Ea9 Ree3 60. Ri8+ Ke7 61.
+Rxi6 Ra3 62. Ri7+ Ke8 63. Rd7+ Kf8 64. Ec6+ Re7 65. Rxe7 Ra6 66. Hd4 Ra0+
+{White resigns} 0-1
+
+[Event "제14회 명인전"]
+[Site "브레인TV"]
+[Date "2006년"]
+[Round "명인 결정전 2국"]
+[White "원앙마 이양근"]
+[Black "귀마 황문수"]
+[Result "0-1"]
+[TimeControl "각 20분, 40초 초읽기 3회, 총 대국시간 제한 없음"]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "82"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A E H R
+white to play
+--------------}
+1. ab3 Hc7 2. Hc2 Ce7 3. Ce2 ih6 4. ef3 ed6 5. Hg2 Ee6 6. Ece3 gf6 7. Ra4
+Hf7 8. Cf2 Ri8 9. Exc6 dxc6 10. Ad1 Ra8 11. Cd0 ab6 12. Rd4 Ke9 13. Hge3 c5
+14. c4 bc6 15. b4 Ade8 16. Ke0 Aff8 17. Afe1 Kf9 18. cxc5 cxc5 19. bc4 cb5
+20. Rd6 Cxe3 21. Rc6 Cxg3 22. -- Cb3 23. Ee3 Rg8 24. f4 Cb9 25. Rf0 Cg9 26.
+Rf3 Ra0 27. cd4 Cc9 28. Rb6 Rg0+ 29. Af0 Rg2 30. Afe1 Cxc2 31. Rc6 Eb4 32.
+Ce4 Ci2 33. Exb5 Exd1 34. Axd1 Rg0+ 35. Ke1 Rg1+ 36. Rf1 Ch1 37. Rxc7 Cxf1
+38. Rc9+ Ae9 39. Ke2 Rg2+ 40. Ke1 Cxd1 41. dc4 Rg1+
+{White resigns} 0-1
+

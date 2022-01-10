@@ -1,0 +1,115 @@
+[Event "제10회 전주시장배 전국 장기왕 대회"]
+[Site "전주"]
+[Date "2005년"]
+[Round "전문기사부 결승전"]
+[White "귀마 김동학"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "112"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Cbe7 5. Ee3 ef6 6. Hf2 Ee6 7. Ke0
+Ra5 8. Ra1 Ri8 9. Ri4 Ke9 10. Rg1 Ade8 11. Afe1 Ri5 12. Rxi5 ixi5 13. g4
+gh6 14. Ri1 Kd9 15. c4 Hb9 16. Kf0 Ce9 17. Ef3 hi6 18. Ce0 Hbd8 19. Ci0 Cc9
+20. d4 cd6 21. Hb0 Rg8 22. Exi5 fg6 23. Ce0 ixi5 24. Rxi5 Aff8 25. Cg0 g5
+26. Hbd1 Cf9 27. Af1 bc6 28. Ade1 Ce7 29. de4 d5 30. ab3 de5 31. ef4 Ke9
+32. cd4 c5 33. bc3 Eb8 34. Cc2 He6 35. Ri6 Ad8 36. c4 cxc4 37. dxc4 Afe8
+38. cd4 Rf8 39. Eb5 Ch7 40. Cb0 Cb7 41. Ch2 gxg4 42. fxg4 Cd9 43. dc4 Hd6
+44. c5 Rf6 45. Ri5 Hc4 46. c6 Hf8 47. He3 Rxc6 48. Hxc4 Rxc4 49. Rxe5 Ad7
+50. Ce2 Kf9 51. Ke0 Rc0+ 52. Cd0 Cb0 53. Ed2 Ef6 54. Rb5 Cd3 55. Ea4 Cd9
+56. Ed2 Cd5
+{White resigns} 0-1
+
+[Event "제10회 전주시장배 전국 장기왕 대회"]
+[Site "전주"]
+[Date "2005년"]
+[Round "전문기사부 4강"]
+[White "귀마 김기영"]
+[Black "귀마 김경중"]
+[Result "0-1"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[PlyCount "145"]
+[FEN "rhea1aher/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RHEA1AHER w 0 1"]
+[SetUp "1"]
+
+{--------------
+r h e a . a h e r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R H E A . A H E R
+white to play
+--------------}
+1. ih3 ab6 2. Hc2 Hc7 3. Ce2 Hf7 4. ed3+ Che7 5. Ee3 ef6 6. Ri4 c5 7. c4
+cd5 8. d4 dxd4 9. Rxd4 Ee6 10. c5 ih6 11. Hf2 Ri5 12. Rc4 Kf8 13. c6 bxc6
+14. Rxc6 Rc9 15. Rc0 Ch7 16. Hd4 Rd5 17. R0c4 He8 18. Rxc9 Hxc9 19. Hc2
+Afe8 20. Cxe6 fxe6 21. Rxc9 Cg7 22. Ce2 ef6 23. Rc4 Ce7 24. Af1 Kf9 25. Kf0
+Ce9 26. Ade1 Cd7 27. Ce0 Add8 28. ab3 Cd9 29. bc3 Ri5 30. Ef3 fe6 31. Ec0
+gf6 32. Rc9 hg6 33. g4 Rb5 34. Ec5 Add7 35. cd3 Hd6 36. Hd4 Rb2 37. Ef3 Hb7
+38. Rb9 ed6 39. Ee3 d5 40. Exg6 dxd4 41. Exe9 Kxe9 42. dxd4 Ee7 43. hg3
+Add8 44. Rb8 Cxd4 45. Hd1 Rb3 46. He3 Cd9 47. Rc8 Rb5 48. Rc6 f5 49. Eh6
+Cf7 50. Rg6 Cd9 51. Rf6 fe5 52. gf4 Hc5 53. Hg2 Rb0 54. g4 Hd3 55. Exe8
+Axe8 56. Rd6 Rb3 57. Cg0 Cf9 58. Ke0 Ec4 59. Rc6 Rb2 60. He3 Exe1 61. Axe1
+Hxe1 62. Kxe1 Rf2+ 63. Kd1 Cd9 64. Cg6 Re2 65. Re6 Rxe3 66. Cd6 Kf9 67. g5
+Cg9 68. Cf6 Ke9 69. g6 Cd9 70. Cd6 Kf9 71. g7 Rf3 72. fg4 Rf1+ 73. Kd0
+{White resigns} 0-1
+
+[Event "제10회 전주시장배 전국 장기왕 대회"]
+[Site "전주"]
+[Date "2005년"]
+[Round "전문기사부 예선"]
+[White "귀마 김동학"]
+[Black "귀마 장성주"]
+[Result "1-0"]
+[TimeControl ""]
+[Variant "janggi"]
+[VariantFamily "janggi"]
+[FEN "reha1aehr/4k4/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/REHA1AEHR w 0 1"]
+[SetUp "1"]
+
+{--------------
+r e h a . a e h r
+. . . . k . . . .
+. c . . . . . c .
+p . p . p . p . p
+. . . . . . . . .
+. . . . . . . . .
+P . P . P . P . P
+. C . . . . . C .
+. . . . K . . . .
+R E H A . A E H R
+white to play
+--------------}
+1. ab3 ih6 2. Hg2 Hd7 3. Ce2 Ri5 4. ef3+ Ce7 5. Ee3 Ed6 6. Exc6 Rc9 7. Rxa6
+Exf3 8. Ee3 Ed6 9. Hd2 Exb3 10. cxb3 Rc1+ 11. Ke0 Rg1 12. Ra8+ Ad8 13. Eb5
+Rxb5 14. Cxb5 Rxg2 15. ih3 hi6 16. Ade1 Hg7 17. Kd0 Ch2 18. Cb1 Ae9 19. Cf1
+ef6 20. Ed3 He6 21. Ri4 f5 22. gf3 Hdc5 23. bc3 Hxd3 24. cxd3 Hg5 25. Rd4
+Ad9 26. hg3 ih6 27. Cxf5 Ch9 28. Cf1 He6 29. Ri4 Ei6 30. de3 Ch0+ 31. Kd1
+Exg3 32. fxg3 Rxg3 33. Cxe6 Rxe3 34. Ce2 h5 35. Ce0 Rg3 36. Ri8+ Ke9 37.
+Ra7 A8e8 38. Ri9+ Af9 39. Rxe7+ Ae8 40. Rxf9+ Kxf9 41. Rxe8#
+{White mates} 1-0
+
